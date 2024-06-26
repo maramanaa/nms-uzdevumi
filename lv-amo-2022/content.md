@@ -31,7 +31,10 @@ ierakstīto trīs skaitḷu summa ir $21$.
 
 
 
-5.2. Karlsonam ir 29 milzīgi tortes gabali. Viṇč izvēlas kādu no gabaliem un sagriež to vai nu 3 , vai 5 mazākos gabalos. Tad viṇ̌̌ atkal izvēlas kādu no gabaliem un sagriež to vai nu 3, vai 5 mazākos gabalos. Vai, atkārtoti izpildot šādas darbības, Karlsons var iegūt tieši 2022 tortes gabalus?
+Karlsonam ir $29$ milzīgi tortes gabali. Viṇš izvēlas kādu no gabaliem
+un sagriež to vai nu $3$ , vai $5$ mazākos gabalos. Tad viṇš atkal izvēlas 
+kādu no gabaliem un sagriež to vai nu $3$, vai $5$ mazākos gabalos. Vai, 
+atkārtoti izpildot šādas darbības, Karlsons var iegūt tieši $2022$ tortes gabalus?
 
 <small>
 
@@ -43,22 +46,30 @@ ierakstīto trīs skaitḷu summa ir $21$.
 ## Atrisinājums
 
 
-Atrisinājums. Pamatosim, ka prasītais nav iespējams. levērojam, ka sākumā bija 29 tortes gabali - nepāra skaitlis.
+Pamatosim, ka prasītais nav iespējams. levērojam, ka sākumā bija $29$
+tortes gabali - nepāra skaitlis.
 
 Ja vienu tortes gabalu sadala
 
-- 3 daḷās, tad kopējais gabalu skaits palielinās par 2 (par pāra skaitli), tātad tas bija nepāra skaitlis un paliek nepāra skaitlis, jo, pie nepāra skaitḷa pieskaitot pāra skaitli, iegūst nepāra skaitli;
-- 5 dalās, tad kopējais gabalu skaits palielinās par 4 (par pāra skaitli), tātad tas bija nepāra skaitlis un paliek nepāra skaitlis, jo, pie nepāra skaitḷa pieskaitot pāra skaitli, iegūst nepāra skaitli;
+- $3$ daḷās, tad kopējais gabalu skaits palielinās par $2$ (par pāra skaitli), 
+  tātad tas bija nepāra skaitlis un paliek nepāra skaitlis, jo, pie nepāra skaitḷa 
+  pieskaitot pāra skaitli, iegūst nepāra skaitli;
+- $5$ daļās, tad kopējais gabalu skaits palielinās par $4$ (par pāra skaitli), 
+  tātad tas bija nepāra skaitlis un paliek nepāra skaitlis, jo, pie nepāra skaitḷa 
+  pieskaitot pāra skaitli, iegūst nepāra skaitli;
 
-Tātad kopējais gabalu skaits vienmēr būs nepāra skaitlis. Tā kā 2022 ir pāra skaitlis, tad tieši 2022 gabalus iegūt nevar.
+Tātad kopējais gabalu skaits vienmēr būs nepāra skaitlis. Tā kā $2022$ ir 
+pāra skaitlis, tad tieši $2022$ gabalus iegūt nevar.
 
 
 # <lo-sample/> LV.AMO.2022.5.3
 
 
-5.3. No taisnstūra ar izmēriem $6 \times 7$ rūtiṇas izgriez sešas 3. att. redzamās figūras! Griezuma līnijām jāiet pa rūtinuu malām, figūras var būt pagrieztas vai apgāztas otrādi.
+No taisnstūra ar izmēriem $6 \times 7$ rūtiṇas izgriez sešas 3.att. 
+redzamās figūras! Griezuma līnijām jāiet pa rūtinuu malām, 
+figūras var būt pagrieztas vai apgāztas otrādi.
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_aee19d7e26d9620175ecg-01.jpg?height=263&width=280&top_left_y=1970&top_left_x=888)
+![](LV.AMO.2022.5.3.png)
 
 <small>
 
@@ -70,21 +81,17 @@ Tātad kopējais gabalu skaits vienmēr būs nepāra skaitlis. Tā kā 2022 ir p
 ## Atrisinājums
 
 
-Atrisinājums. Skat., piemēram, 4. att. un 5. att.
+Skat., piemēram, 4.att. un 5.att.
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_aee19d7e26d9620175ecg-01.jpg?height=286&width=326&top_left_y=2290&top_left_x=494)
-
-4. att.
-
-![](https://cdn.mathpix.com/cropped/2024_06_26_aee19d7e26d9620175ecg-01.jpg?height=286&width=320&top_left_y=2290&top_left_x=1348)
-
-5. att.
+![](LV.AMO.2022.5.3.A.png)
 
 
 # <lo-sample/> LV.AMO.2022.5.4
 
 
-5.4. Laine uz lapas uzrakstīja lielāko divciparu pirmskaitli, kuram abi cipari arī ir pirmskaitli. Raimonds uzrakstīja mazāko divciparu pirmskaitli, kuram abi cipari arī ir pirmskaitli. Kāda ir abu uzrakstīto skait|u starpība?
+Laine uz lapas uzrakstīja lielāko divciparu pirmskaitli, kuram abi cipari 
+arī ir pirmskaitli. Raimonds uzrakstīja mazāko divciparu pirmskaitli, kuram 
+abi cipari arī ir pirmskaitļi. Kāda ir abu uzrakstīto skaitļu starpība?
 
 <small>
 
@@ -96,36 +103,38 @@ Atrisinājums. Skat., piemēram, 4. att. un 5. att.
 ## Atrisinājums
 
 
-Atrisinājums. Pamatosim, ka abu uzrakstīto skaitlu starpība ir 50.
+Pamatosim, ka abu uzrakstīto skaitlu starpība ir $50$.
 
-Abi uzrakstītie divciparu skaitḷi var saturēt tikai ciparus $2,3,5$ un 7 , jo tie ir vienīgie viencipara pirmskaitli.
+Abi uzrakstītie divciparu skaitḷi var saturēt tikai ciparus $2,3,5$ un $7$, 
+jo tie ir vienīgie viencipara pirmskaitļi.
 
-Pēc kārtas pārbaudām tādus lielākos divciparu skait|us, kam abi cipari ir pirmskaitli:
+Pēc kārtas pārbaudām tādus lielākos divciparu skaitļus, kam abi cipari ir 
+pirmskaitļi:
 
-- skaitlis 77 neder, jo tas nav pirmskaitlis;
-- skaitlis 75 neder, jo tas nav pirmskaitlis;
-- skaitlis 73 ir pirmskaitlis.
+- skaitlis $77$ neder, jo tas nav pirmskaitlis;
+- skaitlis $75$ neder, jo tas nav pirmskaitlis;
+- skaitlis $73$ ir pirmskaitlis.
 
-Tātad Laine uz lapas uzrakstīja skaitli 73 .
+Tātad Laine uz lapas uzrakstīja skaitli $73$ .
 
-Pēc kārtas pārbaudām tādus mazākos divciparu skait|us, kam abi cipari ir pirmskaitli:
+Pēc kārtas pārbaudām tādus mazākos divciparu skaitļus, kam abi cipari ir 
+pirmskaitļi:
 
-- skaitlis 22 neder, jo tas nav pirmskaitlis;
+- skaitlis $22$ neder, jo tas nav pirmskaitlis;
+- skaitlis $23$ ir pirmskaitlis.
 
-o skaitlis 23 ir pirmskaitlis.
+Tātad Raimonds uz lapas uzrakstīja skaitli $23$.
 
-Tātad Raimonds uz lapas uzrakstija skaitli 23.
-
-Līdz ar to abu uzrakstīto skait|u starpība ir $73-23=50$.
+Līdz ar to abu uzrakstīto skaitļu starpība ir $73-23=50$.
 
 
 # <lo-sample/> LV.AMO.2022.5.5
 
 
 
-5.5. Rindā pēc kārtas bez tukšumiem uzrakstīti visi skait!i no 1 līdz 999:
+Rindā pēc kārtas bez tukšumiem uzrakstīti visi skaitļi no $1$ līdz $999$:
 
-123456789101112... 998999 .
+$$123456789101112\ldots 998999.$$
 
 Cik vietās šajā rindā pēc kārtas uzrakstīti cipari $2,0,2,2$ tieši šādā secībā?
 
@@ -139,28 +148,40 @@ Cik vietās šajā rindā pēc kārtas uzrakstīti cipari $2,0,2,2$ tieši šād
 ## Atrisinājums
 
 
-Atrisinājums. Pamatosim, ka cipari $2,0,2,2$ tieši šādā secībā ir uzrakstīti divās vietās.
+Pamatosim, ka cipari $2,0,2,2$ tieši šādā secībā ir uzrakstīti divās vietās.
 
-Tā kā katra rindā uzrakstītā skait|a ciparu skaits ir mazāks nekā četri, tad minētie cipari nevar piederēt vienam skaitlim. Ja rindā šādu ciparu secību var atrast, tad tie pieder vairākiem pēc kārtas uzrakstītiem skaitliem.
+Tā kā katra rindā uzrakstītā skaitļa ciparu skaits ir mazāks nekā četri, 
+tad minētie cipari nevar piederēt vienam skaitlim. Ja rindā šādu ciparu secību 
+var atrast, tad tie pieder vairākiem pēc kārtas uzrakstītiem skaitļiem.
 
-Minēto ciparu secību neveido uzrakstītie viencipara skaitli.
+Minēto ciparu secību neveido uzrakstītie viencipara skaitļi.
 
-Ja šī ciparu grupa atrastos vietā, kur mainās skait|u garums (piemēram, pēdējais divciparu un pirmais trīsciparu skaitlis), tad šajā ciparu grupā noteikti būtu cipari 9 un 1. Tā kā šādu ciparu starp 2, 0, 2, 2 nav, tad iesaistītie skaitli ir vienādi gari.
+Ja šī ciparu grupa atrastos vietā, kur mainās skaitļu garums (piemēram, 
+pēdējais divciparu un pirmais trīsciparu skaitlis), tad šajā ciparu grupā 
+noteikti būtu cipari $9$ un $1$. Tā kā šādu ciparu starp $2, 0, 2, 2$ nav, 
+tad iesaistītie skaitļi ir vienādi gari.
 
-Ja meklētie cipari pieder vairākiem secīgiem skaitliem, tad aplūkosim, kur iepriekšējais skaitlis beidzas un sākas nākamais (skait|us atdalīsim ar vertikālu svītru, ar $x$ un $y$ apzīmēsim nezināmos ciparus):
+Ja meklētie cipari pieder vairākiem secīgiem skaitļiem, tad aplūkosim, kur 
+iepriekšējais skaitlis beidzas un sākas nākamais (skaitļus atdalīsim ar 
+vertikālu svītru, ar $x$ un $y$ apzīmēsim nezināmos ciparus):
 
-(a) ...2|022... šāda situācija nevar būt, jo neviena skaitla pieraksts nesākas ar 0;
+a. $\ldots 2\mid 022\ldots$ šāda situācija nevar būt, 
+    jo neviena skaitļa pieraksts nesākas ar $0$;
 
-(b) ...20|22...
+b. $\ldots 20\mid 22\ldots$
 
-- divciparu skaitli šādu secību veidot nevar, jo aiz 20 seko 21 , nevis 22 ;
-- ja trīsciparu skaitlim $\overline{x 20}$ seko $\overline{22 y}$, tad vienīgais derīgais variants ir $x=2$ un $y=1$ jeb 220 un 221: ...219220221222...;
+  - divciparu skaitļi šādu secību veidot nevar, jo aiz $20$ seko $21$, nevis $22$;
+  - ja trīsciparu skaitlim $\overline{x 20}$ seko $\overline{22 y}$, 
+    tad vienīgais derīgais variants ir $x=2$ un $y=1$ jeb $220$ 
+    un $221$: $\ldots 2192\mathbf{2022}1222\ldots$;
 
-(c) ...202|2... ja trīsciparu skaitlim 202 seko $\overline{2 x y}$, tad vienīgais derīgais variants ir $x=0$ un $y=3$ jeb 202 un 203: ...201202203204..
+c. $\ldots 202\mid 2\ldots$ ja trīsciparu skaitlim $202$ 
+    seko $\overline{2 x y}$, tad vienīgais derīgais variants ir $x=0$ 
+	un $y=3$ jeb $202$ un $203$: $\ldots 201\mathbf{2022}03204\ldots$
 
 Tātad rindā cipari $2,0,2,2$ tieši šādā secībā ir uzrakstīti divās vietās.
 
-
+   
 
 
 # <lo-sample/> LV.AMO.2022.6.1
@@ -168,7 +189,9 @@ Tātad rindā cipari $2,0,2,2$ tieši šādā secībā ir uzrakstīti divās vie
 
 
 
-6.1. Piektdienas rītā Laine no savām mājām devās uz skolu. Kad viṇa bija nogājusi $20 \%$ no visa ceḷa, viṇai vēl bija jānoiet 1200 metri, lai nokḷūtu līdz vietai, kur viṇai būtu atlikuši vēl $20 \%$ no visa ceḷa. Cik kilometru ir no Laines mājām līdz skolai?
+Piektdienas rītā Laine no savām mājām devās uz skolu. Kad viṇa bija 
+nogājusi $20 \%$ no visa ceḷa, viṇai vēl bija jānoiet $1200$ metri, lai 
+nokḷūtu līdz vietai, kur viṇai būtu atlikuši vēl $20 \%$ no visa ceḷa. Cik kilometru ir no Laines mājām līdz skolai?
 
 <small>
 
