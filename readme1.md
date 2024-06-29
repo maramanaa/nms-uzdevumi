@@ -11,3 +11,4 @@ $\sin x, \mbox{tg}\, x$
 $x^2 \equiv 1 \pmod {10}$
 
 \sphericalangle 
+\sphericalangle
