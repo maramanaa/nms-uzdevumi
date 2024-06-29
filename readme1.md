@@ -10,5 +10,7 @@ $\sin x, \mbox{tg}\, x$
 
 $x^2 \equiv 1 \pmod {10}$
 
+ \usepackage{amssymb}
 \sphericalangle 
 \sphericalangle
+\Varangle 
