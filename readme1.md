@@ -11,9 +11,9 @@ $\sin x, \mbox{tg}\, x$
 $x^2 \equiv 1 \pmod {10}$
 
  \usepackage{amssymb}
-\sphericalangle 
-\sphericalangle
-\Varangle 
+$\sphericalangle $
+$\sphericalangle$
+$\Varangle $
 
 $$(-1; -1); \quad(2; 2); \quad\left(\frac{-1+\sqrt{5}}{2}; 
 \frac{-1-\sqrt{5}}{2}\right); \quad\left(\frac{-1-\sqrt{5}}{2}; 
