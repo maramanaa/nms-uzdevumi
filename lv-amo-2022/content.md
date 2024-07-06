@@ -731,7 +731,7 @@ Kāds ir $3321.$ skaitlis šajā virknē?
 Pirmais naturālais skaitlis, kura pieraksts sākas ar „$3321$”, ir pats 
 skaitlis $3321$.
 
-Nākamie $10$: $3321\mathbf {0}; 3321\mathsbf {1}; \ldots ; 3321\mathbf{9};$
+Nākamie $10$: $3321\mathbf {0}; 3321\mathbf {1}; \ldots ; 3321\mathbf{9};$
 
 Nākamie $100$: $3321\mathbf {00}; 3321\mathbf {01}; \ldots ; 3321\mathbf {99};$
 
@@ -1232,7 +1232,7 @@ Pierādīt, ka taisne $BH$ krusto nogriezni $CD$ tā viduspunktā!
 
 
 Tā kā $\sphericalangle BAC=\sphericalangle HAD$ un 
-$AC=AD, \operatorname{tad} \triangle ABC=\triangle AHD$ pēc pazīmes 
+$AC=AD$, tad $\triangle ABC=\triangle AHD$ pēc pazīmes 
 "hipotenūza-šaurais leņķis" (skat. 17.att.) un $AB=AH$ kā atbilstošās malas. 
 levērojam, trijstūri $BAH$ un $DAC$ ir vienādsānu trijstūri, kam ir vienādi 
 virsotnes leņķi, tātad to pamata pieleņķi arī ir vienādi un 
