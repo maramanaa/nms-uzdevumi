@@ -728,7 +728,7 @@ Kāds ir $3321.$ skaitlis šajā virknē?
 ## Atrisinājums
 
 
-Pirmais naturālais skaitlis, kura pieraksts sākas ar „$3321$”, ir pats 
+Pirmais naturālais skaitlis, kura pieraksts sākas ar "$3321$", ir pats 
 skaitlis $3321$.
 
 Nākamie $10$: $3321\mathbf {0}; 3321\mathbf {1}; \ldots ; 3321\mathbf{9};$
