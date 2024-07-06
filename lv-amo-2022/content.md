@@ -712,7 +712,7 @@ Tātad Māris iedomājās vai nu skaitli $15$, vai $55$.
 
 
 Mārtiņš augošā secībā pēc kārtas sāka rakstīt skaitļus, kuru pirmie četri 
-cipari ir ,,$3321$":
+cipari ir "$3321$":
 
 $$3321; 33210; 33211; 33212; 33213; 33214;\ldots $$
 
