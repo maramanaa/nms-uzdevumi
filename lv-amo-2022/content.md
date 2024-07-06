@@ -1549,7 +1549,7 @@ tie nav savstarpēji pirmskaitļi.
 
 
 Pierādīt, ka katram $n>2$ var atrast tādus $n$ atšķirīgus naturālus skaitļus 
-$a_{1}<a_{2}<\cdots<a_{n} \leq 3 \cdot 2^{n-2}$, ka
+$a_{1} < a_{2} < \cdots < a_{n} \leq 3 \cdot 2^{n-2}$, ka
 
 $$\frac{1}{a_{1}}+\frac{1}{a_{2}}+\cdots+\frac{1}{a_{n}}=1$$
 
