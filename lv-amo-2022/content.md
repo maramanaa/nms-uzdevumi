@@ -731,7 +731,7 @@ Kāds ir $3321.$ skaitlis šajā virknē?
 Pirmais naturālais skaitlis, kura pieraksts sākas ar „$3321$”, ir pats 
 skaitlis $3321$.
 
-Nākamie $10$: $3321\mathbf {0}; 3321\mathsbf {1}; \ldots ; 3321\mathbf{9};$
+Nākamie $10$: $3321\mathbf {0}; 3321\mathbf {1}; \ldots ; 3321\mathbf{9};$
 
 Nākamie $100$: $3321\mathbf {00}; 3321\mathbf {01}; \ldots ; 3321\mathbf {99};$
 
@@ -1232,7 +1232,7 @@ Pierādīt, ka taisne $BH$ krusto nogriezni $CD$ tā viduspunktā!
 
 
 Tā kā $\sphericalangle BAC=\sphericalangle HAD$ un 
-$AC=AD, \operatorname{tad} \triangle ABC=\triangle AHD$ pēc pazīmes 
+$AC=AD$, tad $\triangle ABC=\triangle AHD$ pēc pazīmes 
 "hipotenūza-šaurais leņķis" (skat. 17.att.) un $AB=AH$ kā atbilstošās malas. 
 levērojam, trijstūri $BAH$ un $DAC$ ir vienādsānu trijstūri, kam ir vienādi 
 virsotnes leņķi, tātad to pamata pieleņķi arī ir vienādi un 
@@ -1549,13 +1549,13 @@ tie nav savstarpēji pirmskaitļi.
 
 
 Pierādīt, ka katram $n>2$ var atrast tādus $n$ atšķirīgus naturālus skaitļus 
-$a_{1}<a_{2}<\cdots<a_{n} \leq 3 \cdot 2^{n-2}$, ka
+$a_{1} < a_{2} < \cdots < a_{n} \leq 3 \cdot 2^{n-2}$, ka
 
 $$\frac{1}{a_{1}}+\frac{1}{a_{2}}+\cdots+\frac{1}{a_{n}}=1$$
 
 <small>
 
-* questionType:
+* questionType:Prove
 * domain:
 
 </small>
