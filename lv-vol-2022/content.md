@@ -389,7 +389,7 @@ Vai eksistē tāds naturāls skaitlis, kuram vienlaikus izpildās šādas trīs 
 
 <small>
 
-* questionType:
+* questionType:ProveDisprove
 * domain:
 
 </small>
