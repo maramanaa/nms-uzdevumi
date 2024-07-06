@@ -454,7 +454,7 @@ figūras nedrīkst pārklāties vai iziet ārpus taisnstūra.
 
 <small>
 
-* questionType:
+* questionType:ProveDisprove
 * domain:
 
 </small>
