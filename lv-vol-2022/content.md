@@ -49,7 +49,7 @@ $\sphericalangle ADE=12 \beta$. Aprēķināt $\beta$ lielumu!
 Tā kā $\triangle ABC$ ir vienādsānu, tad 
 $\sphericalangle BAC=\sphericalangle BCA=\frac{1}{2}\left(180^{\circ}-\sphericalangle ABC\right)=\frac{1}{2}\left(180^{\circ}-\beta\right)$.
 Ievērojam, ka $AD=AE=AC$ kā rādiusi (skat. 1.att.), tātad 
-$\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leķķus:
+$\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leņķus:
 
 $$\begin{aligned}
 & \left. \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
