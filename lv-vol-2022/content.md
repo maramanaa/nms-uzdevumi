@@ -811,7 +811,7 @@ $$\begin{aligned}
 
 # <lo-sample/> LV.VOL.2022.12.5
 
-Kvadrātu ar izmēriem $9 \times 9$ rūtiņas pa rūtiņu līiijām sadalīia deviņos 
+Kvadrātu ar izmēriem $9 \times 9$ rūtiņas pa rūtiņu līinjām sadalīja deviņos 
 daudzstūros, kas katrs satur tieši $9$ rūtiņas, un katru no tiem nokrāsoja citā
 krāsā. Katrā dotā kvadrāta rindā un katrā kolonnā atrodas tieši trīs dažādu 
 krāsu rūtiņas. Pierādīt, ka visi iegūtie daudzstūri ir kvadrāti ar izmēriem 
