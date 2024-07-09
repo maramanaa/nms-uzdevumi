@@ -26,3 +26,10 @@ $ \left\{ \begin{array}{l}
 5x+2y=3 \\ 
 8x+3y=5
 \end{array} \right.$
+
+\textit {Piezīme.}
+\textit{Piezīme.}
+\emph {Piezīme.}
+\textit{Piezīme}
+\mathbf {Piezīme.}
+\textit {Piezīme.}
