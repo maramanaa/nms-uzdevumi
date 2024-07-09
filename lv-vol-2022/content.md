@@ -3,7 +3,7 @@
 
 
 Pierādīt, ka visiem reāliem skaitļiem $x$ un $y$ ir spēkā nevienādība 
-$x^{2}+5 y^{2}+4 x y-6 y+9 \geq 0$.
+$x^{2}+5y^{2}+4xy-6y+9 \geq 0$.
 
 <small>
 
@@ -17,26 +17,25 @@ $x^{2}+5 y^{2}+4 x y-6 y+9 \geq 0$.
 
  Veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-\left(x^{2}+4 x y+4 y^{2}\right)+\left(y^{2}-6 y+9\right) \geq 0 \\
-(x+2 y)^{2}+(y-3)^{2} \geq 0
-\end{gathered}
-$$
+$$\begin{gathered}
+\left(x^{2}+4xy+4y^{2}\right)+\left(y^{2}-6y+9\right) \geq 0 \\
+(x+2y)^{2}+(y-3)^{2} \geq 0
+\end{gathered}$$
 
-Tā kā skaitḷa kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir
-divu nenegatīvu skaitļu summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā nevienādība
-ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir
-patiesa visiem reāliem skaitliem $x$ un $y$.
+Tā kā skaitļa kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir
+divu nenegatīvu skaitļu summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā 
+nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī 
+dotā nevienādība ir patiesa visiem reāliem skaitļiem $x$ un $y$.
 
 
 
 # <lo-sample/> LV.VOL.2022.9.2
 
 
-Vienādsānu trijstūrī $A B C$ virsotnes leņķis $\sphericalangle A B C=\beta$. 
-Ar centru punktā $A$ un rādiusu $A C$ novilkta riņḳa līnija, kas krusto malas $A B$ un $B C$ 
-attiecīgi punktos $D$ un $E$. Zināms, ka $\sphericalangle ADE=12 \beta$. Aprēķināt $\beta$ lielumu!
+Vienādsānu trijstūrī $ABC$ virsotnes leņķis $\sphericalangle ABC=\beta$. 
+Ar centru punktā $A$ un rādiusu $AC$ novilkta riņķa līnija, kas krusto malas 
+$AB$ un $BC$ attiecīgi punktos $D$ un $E$. Zināms, ka 
+$\sphericalangle ADE=12 \beta$. Aprēķināt $\beta$ lielumu!
 
 <small>
 
@@ -47,32 +46,28 @@ attiecīgi punktos $D$ un $E$. Zināms, ka $\sphericalangle ADE=12 \beta$. Aprē
 
 ## Atrisinājums
 
-Tā kā $\triangle A B C$ ir vienādsānu, tad 
-$\sphericalangle B A C=\sphericalangle B C A=\frac{1}{2}\left(180^{\circ}-\sphericalangle A B C\right)=\frac{1}{2}\left(180^{\circ}-\beta\right)$.
-Ievērojam, ka $A D=A E=A C$ kā rādiusi (skat. 1. att.), tātad 
-$\triangle D A E$ un $\triangle C A E$ ir vienādsānu trijstūri. Izsakām leṇķus:
+Tā kā $\triangle ABC$ ir vienādsānu, tad 
+$\sphericalangle BAC=\sphericalangle BCA=\frac{1}{2}\left(180^{\circ}-\sphericalangle ABC\right)=\frac{1}{2}\left(180^{\circ}-\beta\right)$.
+Ievērojam, ka $AD=AE=AC$ kā rādiusi (skat. 1.att.), tātad 
+$\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leķķus:
 
-$$
-\begin{aligned}
-& \left.\circ \triangle C A E=180^{\circ}-2 \sphericalangle B C A=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle C A E\right) ; \\
-& \bigcirc \quad \sphericalangle D A E=\sphericalangle B A C-\sphericalangle C A E=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
-& \circ \quad \sphericalangle D A E=180^{\circ}-2 \sphericalangle A D E=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle D A E \text { ). }
-\end{aligned}
-$$
+$$\begin{aligned}
+& \left.\circ \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
+& \bigcirc \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
+& \circ \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
+\end{aligned}$$
 
 Līdz ar to iegūstam vienādojumu:
 
-$$
-90^{\circ}-\frac{3 \beta}{2}=180^{\circ}-24 \beta ; \quad 180^{\circ}-3 \beta=360^{\circ}-48 \beta ; \quad 45 \beta=180^{\circ} ; \quad \beta=4^{\circ}
-$$
+$$90^{\circ}-\frac{3 \beta}{2}=180^{\circ}-24 \beta ; \quad 180^{\circ}-3 \beta=360^{\circ}-48 \beta ; \quad 45 \beta=180^{\circ} ; \quad \beta=4^{\circ}$$
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_1403b6e66c6212df1d3eg-1.jpg?height=560&width=423&top_left_y=1559&top_left_x=811)
+![](LV.VOL.2022.9.2A.png)
 
 
 # <lo-sample/> LV.VOL.2022.9.3
 
-9.3. Pierādīt, ka katram naturālam $K>1$ var atrast tādu naturālu skaitli, 
-kas dalās ar 7 un kura ciparu summa ir $K$.
+Pierādīt, ka katram naturālam $K>1$ var atrast tādu naturālu skaitli, kas dalās
+ar $7$ un kura ciparu summa ir $K$.
 
 <small>
 
@@ -86,23 +81,27 @@ kas dalās ar 7 un kura ciparu summa ir $K$.
  Apskatām divus gadījumus.
 
 - Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. 
-Ievērosim, ka $1001$ dalās ar $7$ (jo $7 \cdot 143=1001$ ) 
-un tā ciparu summa ir $2$. Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes
- (100110011001...), iegūsim (4n)-ciparu skaitli, kura ciparu summa ir $2 n$ un kurš dalās ar 7 .
-- Ja $K$ ir nepāra skaitlis, tas ir, $K=2 n+1$, kur $n \in \mathbb{N}$. 
-Papildus ievērosim, ka skaitlis $21$ dalās ar $7$ un tā ciparu summa ir $3$. Aiz skaitļa $21$ uzrakstot $(n-1)$ reizi
-skaitli $1001$ $(2110011001...)$, iegūsim $(4 n-2)$-ciparu skaitli, kura ciparu summa ir
- $3+(n-1) \cdot 2=2 n+1$ un kurš dalās ar $7$ .
+  Ievērosim, ka $1001$ dalās ar $7$ (jo $7 \cdot 143=1001$ ) un tā ciparu summa
+  ir $2$. Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes 
+  $(100110011001\ldots )$, iegūsim $(4n)$-ciparu skaitli, kura ciparu summa ir 
+  $2n$ un kurš dalās ar $7$.
+- Ja $K$ ir nepāra skaitlis, tas ir, $K=2n+1$, kur $n \in \mathbb{N}$. 
+  Papildus ievērosim, ka skaitlis $21$ dalās ar $7$ un tā ciparu summa ir $3$. 
+  Aiz skaitļa $21$ uzrakstot $(n-1)$ reizi skaitli $1001$ 
+  $(2110011001\ldots )$, iegūsim $(4n-2)$-ciparu skaitli, kura ciparu summa ir
+  $3+(n-1) \cdot 2=2n+1$ un kurš dalās ar $7$ .
 
 
 # <lo-sample/> LV.VOL.2022.9.4
 
-Ziṇkārīgs tūrists vēlas pastaigāties pa pilsētas ielām (plānā attēlotas kā rūtiņu malas)
-no krustojuma $\mathrm{A}$ līdz krustojumam B (skat. 2. att.), veicot pēc iespējas garāku
-ceļojumu un neatgriežoties nevienā krustojumā vairākas reizes. Kāds ir lielākais
-iespējamais ceļojuma garums, ja uzskatām, ka vienas rūtiņas mala ir vienu vienību gara?
+Ziņkārīgs tūrists vēlas pastaigāties pa pilsētas ielām (plānā attēlotas kā 
+rūtiņu malas) no krustojuma $\mathrm{A}$ līdz krustojumam B (skat. 2.att.), 
+veicot pēc iespējas garāku ceļojumu un neatgriežoties nevienā krustojumā 
+vairākas reizes. Kāds ir lielākais iespējamais ceļojuma garums, ja uzskatām, 
+ka vienas rūtiņas mala ir vienu vienību gara?
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_1403b6e66c6212df1d3eg-2.jpg?height=426&width=391&top_left_y=284&top_left_x=838)
+![](LV.VOL.2022.9.4.png)
+
 
 <small>
 
@@ -113,17 +112,21 @@ iespējamais ceļojuma garums, ja uzskatām, ka vienas rūtiņas mala ir vienu v
 
 ## Atrisinājums
 
-Lielākais iespējamais ceļojuma garums ir $40$ , to var veikt, piemēram, kā parādīts 3 . att.
+Lielākais iespējamais ceļojuma garums ir $40$, to var veikt, piemēram, kā 
+parādīts 3.att.
 
-Pierādīsim, ka lielāks ceļojuma garums nav iespējams. Atzīmēsim katru otro krustojumu ar
-melnu aplīti (skat. 4. att.). Ievērosim, ka ik pēc diviem veiktiem posmiem ceḷotājs nonāk
-atzīmētajā krustpunktā. Tā kā sākumpunkts A ir atzīmēts un atzīmētu krustpunktu kopā ir 21, tad apmeklēšanai atliek vairs tikai $20$ atzīmētu krustpunktu (ieskaitot B). Tātad celojums beigsies punktā B pēc ne vairāk kā $2 \cdot 20=40$ posmiem.
-![](https://cdn.mathpix.com/cropped/2024_06_26_1403b6e66c6212df1d3eg-2.jpg?height=482&width=1194&top_left_y=970&top_left_x=478)
+Pierādīsim, ka lielāks ceļojuma garums nav iespējams. Atzīmēsim katru otro 
+krustojumu ar melnu aplīti (skat. 4.att.). Ievērosim, ka ik pēc diviem veiktiem
+posmiem ceļotājs nonāk atzīmētajā krustpunktā. Tā kā sākumpunkts A ir atzīmēts 
+un atzīmētu krustpunktu kopā ir $21$, tad apmeklēšanai atliek vairs tikai $20$ 
+atzīmētu krustpunktu (ieskaitot B). Tātad ceļojums beigsies punktā B pēc ne 
+vairāk kā $2 \cdot 20=40$ posmiem.
+![](LV.VOL.2022.9.4A.png)
 
 
 # <lo-sample/> LV.VOL.2022.9.5
 
-Pierādīt, ka trijstūra augstumi nevar būt $19,37$ un $41$ vienību gari!
+Pierādīt, ka trijstūra augstumi nevar būt $19, 37$ un $41$ vienību gari!
 
 <small>
 
@@ -134,11 +137,16 @@ Pierādīt, ka trijstūra augstumi nevar būt $19,37$ un $41$ vienību gari!
 
 ## Atrisinājums
 
-Pienemsim, ka šāds trijstūris eksistē un ka tā laukums ir $S$. Izmantojot trijstūra laukuma aprēkināšanas formulu $S=\frac{a \cdot h_{a}}{2}$, izsakām trijstūra malas garumu $a=\frac{2 S}{h_{a}}$. Tad trijstūra malu garumi ir $\frac{2 S}{19^{\prime}} \frac{2 S}{37}$ un $\frac{2 S}{41}$. Bet šiem malu garumiem neizpildās trijstūra nevienādība, jo $\frac{2 S}{37}+\frac{2 S}{41}<\frac{2 S}{19}$. Šī nevienādība ir ekvivalenta nevienādībai $\frac{1}{37}+\frac{1}{41}<\frac{1}{19}$, kuras patiesumu var viegli pārbaudīt, piemēram, ar šādiem ekvivalentiem pārveidojumiem:
+Pieņemsim, ka šāds trijstūris eksistē un ka tā laukums ir $S$. Izmantojot 
+trijstūra laukuma aprēķināšanas formulu $S=\frac{a \cdot h_{a}}{2}$, izsakām 
+trijstūra malas garumu $a=\frac{2S}{h_{a}}$. Tad trijstūra malu garumi ir 
+$\frac{2S}{19^{\prime}} \frac{2S}{37}$ un $\frac{2S}{41}$. Bet šiem malu 
+garumiem neizpildās trijstūra nevienādība, jo 
+$\frac{2S}{37}+\frac{2S}{41}<\frac{2S}{19}$. Šī nevienādība ir ekvivalenta 
+nevienādībai $\frac{1}{37}+\frac{1}{41}<\frac{1}{19}$, kuras patiesumu var 
+viegli pārbaudīt, piemēram, ar šādiem ekvivalentiem pārveidojumiem:
 
-$$
-\frac{1}{37}+\frac{1}{41}<\frac{2}{38} ; \quad \frac{1}{37}-\frac{1}{38}<\frac{1}{38}-\frac{1}{41} ; \quad \frac{1}{37 \cdot 38}<\frac{3}{38 \cdot 41} ; \quad \frac{1}{37}<\frac{3}{41} ; \quad 41<3 \cdot 37
-$$
+$$\frac{1}{37}+\frac{1}{41}<\frac{2}{38} ; \quad \frac{1}{37}-\frac{1}{38}<\frac{1}{38}-\frac{1}{41} ; \quad \frac{1}{37 \cdot 38}<\frac{3}{38 \cdot 41} ; \quad \frac{1}{37}<\frac{3}{41} ; \quad 41<3 \cdot 37$$
 
 
 # <lo-sample/> LV.VOL.2022.10.1
@@ -486,7 +494,7 @@ Tas nozīmē, ka uz lapas var iegūt tikai tādus skaitļus, kas dod atlikumu $1
 dalot ar $3$. Tā kā $2022$ dalās ar $3$ (bez atlikuma), tad aprakstītajā veidā 
 šo skaitli uz lapas iegūt nevar.
 
-\textit {Piezīme.} Uzdevumu var risināt arī pēc moduḷa $5$ vai pēc moduḷa $15$.
+\textit {Piezīme.} Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
 
 
 # <lo-sample/> LV.VOL.2022.11.4
@@ -661,9 +669,9 @@ Apskatīsim divus gadījumus, kādā secībā var būt izkārtoti punkti uz tais
 ## Atrisinājums
 
 No punkta $E$ novelkam perpendikulus pret malām $BC, AB$ un $AD$, to pamatus 
-attiecīgi apzīmējam $\operatorname{ar} E_{1}, E_{2}, E_{3}$ (skat. 10.att.). 
+attiecīgi apzīmējam ar $E_{1}, E_{2}, E_{3}$ (skat. 10.att.). 
 Līdzīgi no punkta $F$ novelkam perpendikulus pret malām $BC, CD, AD$ un to 
-pamatus attiecīgi apzīmējam $\operatorname{ar} F_{1}, F_{2}, F_{3}$.
+pamatus attiecīgi apzīmējam ar $F_{1}, F_{2}, F_{3}$.
 
 Tā kā katrs leņķa bisektrises punkts atrodas vienādā attālumā no leņķa malām, 
 tad $EE_{1}=EE_{2}$ un $EE_{2}=EE_{3}$. Līdzīgi iegūstam, ka 
