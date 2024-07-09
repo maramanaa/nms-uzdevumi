@@ -51,11 +51,9 @@ $\sphericalangle BAC=\sphericalangle BCA=\frac{1}{2}\left(180^{\circ}-\spherical
 Ievērojam, ka $AD=AE=AC$ kā rādiusi (skat. 1.att.), tātad 
 $\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leņķus:
 
-$$\begin{aligned}
-& \left. \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
-& \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
-& \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
-\end{aligned}$$
+* $\triangle CAE=180^{\circ }-2 \sphericalangle BCA=180^{\circ }-2 \cdot \frac{1}{2}\left(180^{\circ }-\beta \right )=\beta$ (no $\triangle CAE$);
+* $\sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2}$;
+* $\sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24\beta$ (no $\triangle DAE$).
 
 Līdz ar to iegūstam vienādojumu:
 
