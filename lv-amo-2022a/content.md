@@ -1,4 +1,4 @@
-# <lo-sample/> LV.AMO.2022.5.1
+# <lo-sample/> LV.AMO.2022A.5.1
 
 Dotās $3 \times 3$ rūtiņu tabulas (skat. 1.att.) katrā rūtiņā 
 ieraksti pa vienam naturālam skaitlim no $3$ līdz $11$ 
@@ -6,7 +6,7 @@ ieraksti pa vienam naturālam skaitlim no $3$ līdz $11$
 katrā diagonālē ierakstīto trīs skaitļu summas būtu vienādas! 
 Daži skaitļi jau ir ierakstīti.
 
-![](LV.AMO.2022.5.1.png)
+![](LV.AMO.2022A.5.1.png)
 
 <small>
 
@@ -24,10 +24,10 @@ Skat. 2.att., kur katrā rindā, katrā kolonnā un katrā diagonālē
 ierakstīto trīs skaitļu summa ir $21$.
 
 
-![](LV.AMO.2022.5.1A.png)
+![](LV.AMO.2022A.5.1A.png)
 
 
-# <lo-sample/> LV.AMO.2022.5.2
+# <lo-sample/> LV.AMO.2022A.5.2
 
 
 
@@ -62,14 +62,14 @@ Tātad kopējais gabalu skaits vienmēr būs nepāra skaitlis. Tā kā $2022$ ir
 pāra skaitlis, tad tieši $2022$ gabalus iegūt nevar.
 
 
-# <lo-sample/> LV.AMO.2022.5.3
+# <lo-sample/> LV.AMO.2022A.5.3
 
 
 No taisnstūra ar izmēriem $6 \times 7$ rūtiņas izgriez sešas 3.att. 
 redzamās figūras! Griezuma līnijām jāiet pa rūtinuu malām, 
 figūras var būt pagrieztas vai apgāztas otrādi.
 
-![](LV.AMO.2022.5.3.png)
+![](LV.AMO.2022A.5.3.png)
 
 <small>
 
@@ -83,10 +83,10 @@ figūras var būt pagrieztas vai apgāztas otrādi.
 
 Skat., piemēram, 4.att. un 5.att.
 
-![](LV.AMO.2022.5.3.A.png)
+![](LV.AMO.2022A.5.3.A.png)
 
 
-# <lo-sample/> LV.AMO.2022.5.4
+# <lo-sample/> LV.AMO.2022A.5.4
 
 
 Laine uz lapas uzrakstīja lielāko divciparu pirmskaitli, kuram abi cipari 
@@ -128,7 +128,7 @@ Tātad Raimonds uz lapas uzrakstīja skaitli $23$.
 Līdz ar to abu uzrakstīto skaitļu starpība ir $73-23=50$.
 
 
-# <lo-sample/> LV.AMO.2022.5.5
+# <lo-sample/> LV.AMO.2022A.5.5
 
 
 
@@ -185,7 +185,7 @@ Tātad rindā cipari $2,0,2,2$ tieši šādā secībā ir uzrakstīti divās vie
    
 
 
-# <lo-sample/> LV.AMO.2022.6.1
+# <lo-sample/> LV.AMO.2022A.6.1
 
 
 
@@ -213,7 +213,7 @@ ir $2000$ metri jeb $2$ kilometri.
 
 
 
-# <lo-sample/> LV.AMO.2022.6.2
+# <lo-sample/> LV.AMO.2022A.6.2
 
 
 Konditorejā ir $4$ plaukti, kuros pārdevēja liek eklērus. No rīta šajos 
@@ -246,14 +246,14 @@ vienādu skaitļu summa ir pāra skaitlis. Tātad nevar panākt, ka visos plaukt
 ir vienāds eklēru skaits.
 
 
-# <lo-sample/> LV.AMO.2022.6.3
+# <lo-sample/> LV.AMO.2022A.6.3
 
 
 No kvadrāta ar izmēriem $10 \times 10$ rūtinas izgriez sešpadsmit 6.att. 
 redzamās figūras! Griezuma līnijām jāiet pa rūtiņu malām, figūras var būt 
 pagrieztas vai apgāztas otrādi.
 
-![](LV.AMO.2022.6.3.png)
+![](LV.AMO.2022A.6.3.png)
 
 <small>
 
@@ -267,10 +267,10 @@ pagrieztas vai apgāztas otrādi.
 
 Skat., piemēram, 7.att.
 
-![](LV.AMO.2022.6.3A.png)
+![](LV.AMO.2022A.6.3A.png)
 
 
-# <lo-sample/> LV.AMO.2022.6.4
+# <lo-sample/> LV.AMO.2022A.6.4
 
 
 Laine uz lapas uzrakstīja lielāko divciparu pirmskaitli, kuram abi cipari arī 
@@ -306,7 +306,7 @@ uzrakstīja skaitli $101$.
 Līdz ar to abu uzrakstīto skaitļu summa ir $73+101=174$.
 
 
-# <lo-sample/> LV.AMO.2022.6.5
+# <lo-sample/> LV.AMO.2022A.6.5
 
 
 Rindā pēc kārtas bez tukšumiem uzrakstīti visi skaitli no $1$ līdz $9999$:
@@ -369,7 +369,7 @@ Tātad rindā cipari $2, 0, 2, 2$ tieši šādā secībā ir uzrakstīti piecās
 
 
 
-# <lo-sample/> LV.AMO.2022.7.1
+# <lo-sample/> LV.AMO.2022A.7.1
 
 
 
@@ -400,7 +400,7 @@ Tātad, lai atbildētu uz $480$ jautājumiem, Raimondam nepieciešamas
 $\frac{480}{15} \cdot 2=64$ minūtes.
 
 
-# <lo-sample/> LV.AMO.2022.7.2
+# <lo-sample/> LV.AMO.2022A.7.2
 
 
 Karlsonam ir $30$ milzīgi tortes gabali. Viņš izvēlas trīs gabalus un sagriež 
@@ -442,7 +442,7 @@ Skaitļa $2000$ ciparu summa ir $2$, kas nedalās ar $3$, tātad arī pats skait
 $2000$ nedalās ar $3$. Tātad Karlsons nevarēs iegūt tieši $2000$ gabalus.
 
 
-# <lo-sample/> LV.AMO.2022.7.3
+# <lo-sample/> LV.AMO.2022A.7.3
 
 
 Vai taisnstūri ar izmēriem $3 \times 3370$ rūtiņas var noklāt ar 8.att. 
@@ -450,7 +450,7 @@ redzamām figūrām tā, lai paliktu tieši $2022$ nenoklātas rūtiņas? Dotās
 malām jāiet pa rūtiņu līnijām, tā var būt pagriezta vai apgriezta spoguļattēlā,
 figūras nedrīkst pārklāties vai iziet ārpus taisnstūra.
 
-![](LV.AMO.2022.7.3.png)
+![](LV.AMO.2022A.7.3.png)
 
 <small>
 
@@ -467,11 +467,11 @@ $3$ nepārklātas rūtiņas un doto taisnstūri ar izmēriem $3 \times 3370$ var
 sadalīt $3370: 5=674$ šādos taisntūros, tad nepārklātas paliek tieši 
 $3 \cdot 674=2022$ rūtiņas.
 
-![](LV.AMO.2022.7.3A.png)
+![](LV.AMO.2022A.7.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.7.4
+# <lo-sample/> LV.AMO.2022A.7.4
 
 
 
@@ -514,7 +514,7 @@ Tātad pavisam ir $3 \cdot 36+27+3 \cdot 24=108+27+72=207$ iespējas, kā
 izvēlēties stundu un minūšu rādījumus tā, lai to starpība dalītos ar $7$.
 
 
-# <lo-sample/> LV.AMO.2022.7.5
+# <lo-sample/> LV.AMO.2022A.7.5
 
 
 Trijzemē apgrozībā ir trīs veidu monētas: $2$ centi, $5$ centi un vēl viena. 
@@ -568,7 +568,7 @@ ieguvuši, ka vienīgā iespējamā trešās monētas vērtība ir $9$ centi.
 
 
 
-# <lo-sample/> LV.AMO.2022.8.1
+# <lo-sample/> LV.AMO.2022A.8.1
 
 
 
@@ -593,7 +593,7 @@ $S_{ABC}=\frac{1}{2} BC \cdot h_{BC}=\frac{1}{2} \cdot 2022 \cdot 674=681414$.
 
 
 
-# <lo-sample/> LV.AMO.2022.8.2
+# <lo-sample/> LV.AMO.2022A.8.2
 
 
 
@@ -635,7 +635,7 @@ tieši $2022$ kūciņas.
 
 
 
-# <lo-sample/> LV.AMO.2022.8.3
+# <lo-sample/> LV.AMO.2022A.8.3
 
 
 
@@ -671,11 +671,11 @@ un $\sphericalangle FBE=90^{\circ}-\sphericalangle CBE=30^{\circ}$. Tātad
 $\sphericalangle FEB=\sphericalangle FBE$ un trijstūris $EFB$ ir vienādsānu. 
 Līdz ar to $EF=FB$.
 
-![](LV.AMO.2022.8.3A.png)
+![](LV.AMO.2022A.8.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.8.4
+# <lo-sample/> LV.AMO.2022A.8.4
 
 
 
@@ -707,12 +707,12 @@ Tātad Māris iedomājās vai nu skaitli $15$, vai $55$.
 
 
 
-# <lo-sample/> LV.AMO.2022.8.5
+# <lo-sample/> LV.AMO.2022A.8.5
 
 
 
 Mārtiņš augošā secībā pēc kārtas sāka rakstīt skaitļus, kuru pirmie četri 
-cipari ir ,,$3321$":
+cipari ir "$3321$":
 
 $$3321; 33210; 33211; 33212; 33213; 33214;\ldots $$
 
@@ -728,7 +728,7 @@ Kāds ir $3321.$ skaitlis šajā virknē?
 ## Atrisinājums
 
 
-Pirmais naturālais skaitlis, kura pieraksts sākas ar „$3321$”, ir pats 
+Pirmais naturālais skaitlis, kura pieraksts sākas ar "$3321$", ir pats 
 skaitlis $3321$.
 
 Nākamie $10$: $3321\mathbf {0}; 3321\mathbf {1}; \ldots ; 3321\mathbf{9};$
@@ -751,7 +751,7 @@ meklētais skaitlis ir $33212209$.
 
 
 
-# <lo-sample/> LV.AMO.2022.9.1
+# <lo-sample/> LV.AMO.2022A.9.1
 
 
 
@@ -785,7 +785,7 @@ vienriteņi.
 
 
 
-# <lo-sample/> LV.AMO.2022.9.2
+# <lo-sample/> LV.AMO.2022A.9.2
 
 
 
@@ -828,7 +828,7 @@ skaitlis $212$ nedalās ar $3$, tāpēc to ar aprakstītajiem gājieniem nevar i
 
 
 
-# <lo-sample/> LV.AMO.2022.9.3
+# <lo-sample/> LV.AMO.2022A.9.3
 
 
 
@@ -864,11 +864,11 @@ $\sphericalangle CBD=\sphericalangle AEF, BD=AE, \sphericalangle BDC=\sphericala
 
 Līdz ar to $BC=EF$ un $CD=AF$ kā vienādu trijstūru atbilstošās malas.
 
-![](LV.AMO.2022.9.3A.png)
+![](LV.AMO.2022A.9.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.9.4
+# <lo-sample/> LV.AMO.2022A.9.4
 
 
 
@@ -902,7 +902,7 @@ $a^{2}-bc; b^{2}-ac; c^{2}-ab$ veido aritmētisko progresiju.
 
 
 
-# <lo-sample/> LV.AMO.2022.9.5
+# <lo-sample/> LV.AMO.2022A.9.5
 
 
 
@@ -923,18 +923,18 @@ rūtiņas ir neaizkrāsotas?
 
 Mazākais skaits rūtiņu, kas jāaizkrāso, ir $12$, skat., piemēram, 12.att.
 
-![](LV.AMO.2022.9.5A.png)
+![](LV.AMO.2022A.9.5A.png)
 
 Pamatosim, ka, atbilstoši uzdevuma nosacījumiem, mazāk kā $12$ rūtiņas nav 
 iesējams aizkrāsot. Skaidrs, ka katrā no 13.att. redzamajiem $12$ ar treknāku 
 līniju izceltajiem taisnstūriem jābūt aizkrāsotai vismaz vienai rūtiņai. Tātad 
 jāaizkrāso vismaz $12$ rūtiņas.
 
-![](LV.AMO.2022.9.5B.png)
+![](LV.AMO.2022A.9.5B.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.10.1
+# <lo-sample/> LV.AMO.2022A.10.1
 
 
 
@@ -966,7 +966,7 @@ Tātad $k=2x+1=25$.
 
 
 
-# <lo-sample/> LV.AMO.2022.10.2
+# <lo-sample/> LV.AMO.2022A.10.2
 
 
 
@@ -1012,7 +1012,7 @@ skaitlis $121$ nedalās ar $3$, tāpēc to ar aprakstītajiem gājieniem nevar i
 
 
 
-# <lo-sample/> LV.AMO.2022.10.3
+# <lo-sample/> LV.AMO.2022A.10.3
 
 
 
@@ -1047,11 +1047,11 @@ no kā aprēķinām, ka $S_{ABC}=48$.
 
 \textit {Piezīme.} Var ievērot, ka $MK$ ir trijstūra $ABC$ viduslīnija.
 
-![](LV.AMO.2022.10.3A.png)
+![](LV.AMO.2022A.10.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.10.4
+# <lo-sample/> LV.AMO.2022A.10.4
 
 
 
@@ -1094,7 +1094,7 @@ iespējams.
 
 
 
-# <lo-sample/> LV.AMO.2022.10.5
+# <lo-sample/> LV.AMO.2022A.10.5
 
 
 
@@ -1106,7 +1106,7 @@ melna (15.att. redzams piemērs, kur $n=5$ ). lekrāsotajās rūtiņās ierakst�
 skaitļu summu apzīmēsim ar $A$, bet neiekrāsotajās ar $B$. Aprēķiniet $(A-B)$ 
 vērtību (tā var būt atkarīga no $n$ vērtības).
 
-![](LV.AMO.2022.10.5.png)
+![](LV.AMO.2022A.10.5.png)
 
 <small>
 
@@ -1131,7 +1131,7 @@ $$ij+(i+1)(j+1)-i(j+1)-(i+1)j=1$$
 Tā kā tabula ir sadalīta $m \cdot m$ kvadrātos ar izmēriem 
 $2 \times 2$, tad $A-B=m^{2}=\left(\frac{n}{2}\right)^{2}$.
 
-![](LV.AMO.2022.10.5A.png)
+![](LV.AMO.2022A.10.5A.png)
 
 2. Ja $n$ ir nepāra skaitlis, tas ir, $n=2m-1$, tad papildinām tabulu ar nulto 
    rindu un nulto kolonnu, kur katrā rūtiņā ierakstīta $0$ (tātad tas nemainīs 
@@ -1142,7 +1142,7 @@ $2 \times 2$, tad $A-B=m^{2}=\left(\frac{n}{2}\right)^{2}$.
 
 
 
-# <lo-sample/> LV.AMO.2022.11.1
+# <lo-sample/> LV.AMO.2022A.11.1
 
 
 
@@ -1169,7 +1169,7 @@ $S_{AOB}=\frac{1}{2} OA \cdot h_{OA}=\frac{1}{2} \cdot 50 \cdot 1011=25275$.
 
 
 
-# <lo-sample/> LV.AMO.2022.11.2
+# <lo-sample/> LV.AMO.2022A.11.2
 
 
 
@@ -1213,7 +1213,7 @@ Līdz ar to vienas pēdējās bumbiņas krāsa traukā A būs balta.
 
 
 
-# <lo-sample/> LV.AMO.2022.11.3
+# <lo-sample/> LV.AMO.2022A.11.3
 
 
 
@@ -1244,11 +1244,11 @@ $\sphericalangle KDH=90^{\circ}-\sphericalangle HCD=90^{\circ}-\sphericalangle C
 tad arī $HK=KD$. Tātad $DK=KC$ un esam pamatojuši, ka $BH$ krusto nogriezni 
 $CD$ tā viduspunktā $K$.
 
-![](LV.AMO.2022.11.3A.png)
+![](LV.AMO.2022A.11.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.11.4
+# <lo-sample/> LV.AMO.2022A.11.4
 
 
 
@@ -1298,7 +1298,7 @@ $1318, 1428, 1538, 1648, 1758, 1868, 1978, 2417, 2527, 2637, 2747, 2857, 2967, 3
 
 
 
-# <lo-sample/> LV.AMO.2022.11.5
+# <lo-sample/> LV.AMO.2022A.11.5
 
 
 
@@ -1349,7 +1349,7 @@ Tātad kāds no trijstūra leņķiem ir taisns un trijstūris $ABC$ ir taisnleņ
 
 
 
-# <lo-sample/> LV.AMO.2022.12.1
+# <lo-sample/> LV.AMO.2022A.12.1
 
 
 
@@ -1389,7 +1389,7 @@ plāksnītes.
 
 
 
-# <lo-sample/> LV.AMO.2022.12.2
+# <lo-sample/> LV.AMO.2022A.12.2
 
 
 
@@ -1432,7 +1432,7 @@ Līdz ar to vienas pēdējās bumbiņas krāsa traukā A būs melna.
 
 
 
-# <lo-sample/> LV.AMO.2022.12.3
+# <lo-sample/> LV.AMO.2022A.12.3
 
 
 
@@ -1485,11 +1485,11 @@ iegūstam, ka
 
 $$S_{BDF}=S_{BDJ}+S_{DFK}+S_{BFL}+S_{JKL}=\frac{S_{ABLF}+S_{BCDJ}+S_{DEFK}}{2}+S_{JKL}=\frac{S_{ABCDEF}+S_{JKL}}{2}=\frac{S_{ABCDEF}+S_{GHI}}{2}=S_{ACE}$$
 
-![](LV.AMO.2022.12.3A.png)
+![](LV.AMO.2022A.12.3A.png)
 
 
 
-# <lo-sample/> LV.AMO.2022.12.4
+# <lo-sample/> LV.AMO.2022A.12.4
 
 
 
@@ -1544,7 +1544,7 @@ tie nav savstarpēji pirmskaitļi.
 
 
 
-# <lo-sample/> LV.AMO.2022.12.5
+# <lo-sample/> LV.AMO.2022A.12.5
 
 
 
