@@ -52,9 +52,9 @@ Ievērojam, ka $AD=AE=AC$ kā rādiusi (skat. 1.att.), tātad
 $\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leķķus:
 
 $$\begin{aligned}
-& \left.\circ \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
-& \bigcirc \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
-& \circ \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
+-  & \left. \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
+-  & \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
+-  & \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
 \end{aligned}$$
 
 Līdz ar to iegūstam vienādojumu:
@@ -81,7 +81,7 @@ ar $7$ un kura ciparu summa ir $K$.
  Apskatām divus gadījumus.
 
 - Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. 
-  Ievērosim, ka $1001$ dalās ar $7$ (jo $7 \cdot 143=1001$ ) un tā ciparu summa
+  Ievērosim, ka $1001$ dalās ar $7$ (jo $7 \cdot 143=1001$) un tā ciparu summa
   ir $2$. Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes 
   $(100110011001\ldots )$, iegūsim $(4n)$-ciparu skaitli, kura ciparu summa ir 
   $2n$ un kurš dalās ar $7$.
@@ -258,13 +258,13 @@ ar $13$ un kura ciparu summa ir $K$.
 Apskatām divus gadījumus.
 
 - Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. levērojam, 
-  ka $1001$ dalās ar $13$ (jo $1001=13 \cdot 77$ ) un tā ciparu summa ir $2$. 
-  Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes ( $ 100110011001\ldots $ ), 
+  ka $1001$ dalās ar $13$ (jo $1001=13 \cdot 77$) un tā ciparu summa ir $2$. 
+  Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes $(100110011001\ldots )$, 
   iegūsim $(4n)$-ciparu skaitli, kura ciparu summa ir $2n$ un kurš dalās ar $13$.
 - Ja $K$ ir nepāra skaitlis, tas ir, $K=2n+1$, kur $n \in \mathbb{N}$. 
   Papildus ievērosim, ka skaitlis $10101$ dalās ar $13$ (jo $10101=13 \cdot 777$)
   un tā ciparu summa ir $3$. Aiz skaitla $10101$ uzrakstot ($n-1$) reizi skaitli 
-  $1001$ ( $ 1010110011001\ldots $ ), iegūsim $(4n+1)$-ciparu skaitli, kura ciparu
+  $1001$ $(1010110011001\ldots )$, iegūsim $(4n+1)$-ciparu skaitli, kura ciparu
   summa ir $3+(n-1) \cdot 2=2 n+1$ un kurš dalās ar $7$ .
 
 
@@ -327,7 +327,7 @@ Atradīsim trijstūra malu garumus. Ja tie ir naturāli skaitļi, tad tiem jāb�
 brīvā locekla $2040$ dalītājiem. levērojot, ka 
 $2040=2^{3} \cdot 3 \cdot 5 \cdot 17$, var uzminēt sakni, piemēram, $x=17$.
 
-Sagrupējot vienādojuma locek!̣us, iegūstam arī pārējās saknes:
+Sagrupējot vienādojuma locekļus, iegūstam arī pārējās saknes:
 
 $$\begin{gathered}
 x^{3}-40 x^{2}+511 x-2040=x^{3}-17 x^{2}-23 x^{2}+391 x+120 x-2040= \\
@@ -348,7 +348,7 @@ Holivudas diētā katrās septiņās secīgās dienās kopā jāapēd tieši tr�
 tieši pieci sieriņi "Kārums". Kādu lielāko secīgu dienu skaitu var ievērot abas
 diētas vienlaicīgi?
 
-\textit {Piezīme.} Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
+\textit{Piezīme.} Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
 
 <small>
 
@@ -382,8 +382,13 @@ Pirmajās septiņās dienās apēsto sieriṇu skaits ir
 $a_{1}+a_{2}+\cdots+a_{7}=5x+2y$, bet pirmajās $11$ dienās apēsto sieriņu 
 skaits ir $a_{1}+a_{2}+\cdots+a_{11}=8x+3y$. No diētu nosacījumiem iegūstam 
 vienādojumu sistēmu: 
-$\left\{\begin{array}{l}5x+2y=3 \\ 8x+3y=5\end{array}\right.$, kuru 
-atrisinot, iegūstam, ka $x=1$ un $y=-1$, kas nav iespējams (apēsto sieriņu 
+
+$$ \left\{ \begin{array}{l}
+5x+2y=3 \\ 
+8x+3y=5
+\end{array} \right.$$
+
+kuru atrisinot, iegūstam, ka $x=1$ un $y=-1$, kas nav iespējams (apēsto sieriņu
 skaits nevar būt negatīvs).
 
 
@@ -574,7 +579,7 @@ S=\sqrt{27(27-24)(27-15-\sqrt{80})(27-15+\sqrt{80})}= \\
 \end{gathered}$$
 
 
-#<lo-sample/> LV.VOL.2022.11.5
+# <lo-sample/> LV.VOL.2022.11.5
 
 Naturālu skaitli $N$ sauksim par \textit {amizantu}, ja katru $N$ secīgu 
 naturālu skaitli reizinājums dalās ar $N^{2}$. Kuri skaitlļi nav amizanti?
@@ -649,7 +654,7 @@ $\sphericalangle AEB=180^{\circ}-90^{\circ}=90^{\circ}$. Tad
 $\triangle AEB=\triangle AEG$ pēc pazīmes $\ell \mathrm{m \ell}$ un $AB=AG$ 
 kā atbilstošās malas vienādos trijstūros. Analoǵiski pierāda, ka $DC=DH$.
 
-No tā, ka $BE=EG$ un $CF=FG$ izriet, ka $EF \| BC$ un $EF \| AD$ (caur punktu 
+No tā, ka $BE=EG$ un $CF=FG$ izriet, ka $EF || BC$ un $EF || AD$ (caur punktu 
 $E$ novelk taisni paralēli $AD$ un $BC$, pēc Talesa teorēmas šī taisne sadala 
 nogriezni $CH$ uz pusēm, tātad tā iet caur punktu $F$).
 
@@ -686,13 +691,13 @@ tāpēc $E_{1}F_{1}=E_{3}F_{3}=EF$.
 
 - Ja uz nogriežṇa $BC$ punkti atrodas secībā $B, E_{1}, F_{1}, C$ 
   (skat. 10.att.; attiecīgi uz $AD$ tad punkti atrodas secībā 
-  $\left.A, E_{3}, F_{3}, D\right $), tad
+  $\left.A, E_{3}, F_{3}, D\right. $), tad
 
 $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}+E_{1}F_{1}+F_{1}C+AE_{3}+E_{3}F_{3}+F_{3}D-BE_{2}-E_{2}A-CF_{2}-F_{2}D}{2}=\frac{E_{1}F_{1}+E_{3}F_{3}}{2}=EF$$
 
 - Ja uz nogriežṇa $BC$ punkti atrodas secībā $B, F_{1}, E_{1}, C$ 
   (skat. 11.att.; attiecīgi uz $AD$ tad punkti ir šādā secībā: 
-  $\left.A, F_{3}, E_{3}, D\right $), tad
+  $\left.A, F_{3}, E_{3}, D\right. $), tad
 
 $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}-E_{1}F_{1}+F_{1}C+AE_{3}-E_{3}F_{3}+F_{3}D-BE_{2}-E_{2}A-CF_{2}-F_{2}D}{2}=\frac{E_{1}F_{1}+E_{3}F_{3}}{2}=EF$$
 
