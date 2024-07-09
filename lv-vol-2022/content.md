@@ -581,7 +581,7 @@ S=\sqrt{27(27-24)(27-15-\sqrt{80})(27-15+\sqrt{80})}= \\
 
 # <lo-sample/> LV.VOL.2022.11.5
 
-Naturālu skaitli $N$ sauksim par \textit {amizantu}, ja katru $N$ secīgu 
+Naturālu skaitli $N$ sauksim par $amizantu$, ja katru $N$ secīgu 
 naturālu skaitli reizinājums dalās ar $N^{2}$. Kuri skaitlļi nav amizanti?
 
 <small>
