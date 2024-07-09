@@ -52,9 +52,9 @@ Ievērojam, ka $AD=AE=AC$ kā rādiusi (skat. 1.att.), tātad
 $\triangle DAE$ un $\triangle CAE$ ir vienādsānu trijstūri. Izsakām leķķus:
 
 $$\begin{aligned}
--  & \left. \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
--  & \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
--  & \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
+& \left. \triangle CAE=180^{\circ}-2 \sphericalangle BCA=180^{\circ}-2 \cdot \frac{1}{2}\left(180^{\circ}-\beta\right)=\beta \text { (no } \triangle CAE\right) ; \\
+& \quad \sphericalangle DAE=\sphericalangle BAC-\sphericalangle CAE=\frac{1}{2}\left(180^{\circ}-\beta\right)-\beta=90^{\circ}-\frac{3 \beta}{2} ; \\
+& \quad \sphericalangle DAE=180^{\circ}-2 \sphericalangle ADE=180^{\circ}-2 \cdot 12 \beta=180^{\circ}-24 \beta \text { (no } \triangle DAE \text { ). }
 \end{aligned}$$
 
 Līdz ar to iegūstam vienādojumu:
@@ -348,7 +348,7 @@ Holivudas diētā katrās septiņās secīgās dienās kopā jāapēd tieši tr�
 tieši pieci sieriņi "Kārums". Kādu lielāko secīgu dienu skaitu var ievērot abas
 diētas vienlaicīgi?
 
-\textit{Piezīme.} Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
+$Piezīme.$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
 
 <small>
 
@@ -499,7 +499,7 @@ Tas nozīmē, ka uz lapas var iegūt tikai tādus skaitļus, kas dod atlikumu $1
 dalot ar $3$. Tā kā $2022$ dalās ar $3$ (bez atlikuma), tad aprakstītajā veidā 
 šo skaitli uz lapas iegūt nevar.
 
-\textit {Piezīme.} Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
+$Piezīme.$ Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
 
 
 # <lo-sample/> LV.VOL.2022.11.4
@@ -754,7 +754,7 @@ $$\begin{gathered}
 Tā kā visas šīs summas dalās ar $2n$, un vidējais saskaitāmais $n^{3}$ dalās 
 ar $n$, tad arī visu $(2k+1)$ kubu summa dalās ar $n$, līdz ar to nav pirmskaitlis.
 
-\textit {Piezīme.} Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
+$Piezīme.$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
 
 
 # <lo-sample/> LV.VOL.2022.12.4
