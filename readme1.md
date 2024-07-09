@@ -15,31 +15,30 @@ $\sphericalangle $
 $\sphericalangle$
 $\Varangle $
 
-$$(-1; -1); \quad(2; 2); \quad\left(\frac{-1+\sqrt{5}}{2}; 
-\frac{-1-\sqrt{5}}{2}\right); \quad\left(\frac{-1-\sqrt{5}}{2}; 
-\frac{-1+\sqrt{5}}{2}\right)$$
+$\left\{\begin{array}{l}5x+2y=3 \\ 8x+3y=5\end{array}\right.$
 
-$$(-1; -1); \quad(2; 2); \quad(\frac{-1+\sqrt{5}}{2}; 
-\frac{-1-\sqrt{5}}{2}); \quad(\frac{-1-\sqrt{5}}{2}; 
-\frac{-1+\sqrt{5}}{2})$$
+$$ \left\{ \begin{array}{l}
+5x+2y=3 \\ 
+8x+3y=5
+\end{array} \right.$$
+
+$ \left\{ \begin{array}{l}
+5x+2y=3 \\ 
+8x+3y=5
+\end{array} \right.$
+
+\textit {Piezīme.}  
+\textit{Piezīme.}  
+\emph {Piezīme.}  
+\textit{Piezīme}  
+\mathbf {Piezīme.}  
+/textit {Piezīme.}  
+
+AB \| BC
+AB || BC
+AB\| BC
+
+$\left.A, F_{3}, E_{3}, D\right. $
+$\left A, F_{3}, E_{3}, D\right.$
 
 
-$$\begin{aligned}
-& x^{3}-54x^{2}+865x-3480=x^{3}-24x^{2}-30x^{2}+720x+145x-3480= \\
-= & x^{2}(x-24)-30x(x-24)+145(x-24)=(x-24)\left(x^{2}-30x+145\right)
-\end{aligned}$$
-
-$$\begin{aligned}
-& x^{3}-54x^{2}+865x-3480=x^{3}-24x^{2}-30x^{2}+720x+145x-3480= \\
-& =x^{2}(x-24)-30x(x-24)+145(x-24)=(x-24)\left(x^{2}-30x+145\right)
-\end{aligned}$$
-
-$$\begin{aligned}
-x^{3}-54x^{2}+865x-3480=x^{3}-24x^{2}-30x^{2}+720x+145x-3480= \\
-=x^{2}(x-24)-30x(x-24)+145(x-24)=(x-24)\left(x^{2}-30x+145\right)
-\end{aligned}$$
-
-$$\begin{aligned}
- & x^{3}-54x^{2}+865x-3480=x^{3}-24x^{2}-30x^{2}+720x+145x-3480= \\
-= & x^{2}(x-24)-30x(x-24)+145(x-24)=(x-24)\left(x^{2}-30x+145\right)
-\end{aligned}$$
