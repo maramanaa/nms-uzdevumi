@@ -660,7 +660,7 @@ $\sphericalangle EDC=180^{\circ}-45^{\circ}-75^{\circ}=60^{\circ}$.
 
 Novelkam nogriezni $BE$ (skat. 10.att.). levērojam, ka 
 $\triangle DCE=\triangle BCE$ pēc pazīmes $m \ell m$, jo $DC=BC$, 
-$\Varangle E C D=\sphericalangle ECB, EC$ - kopīga. Tā kā vienādos trijstūros 
+$\sphericalangle E C D=\sphericalangle ECB, EC$ - kopīga. Tā kā vienādos trijstūros 
 attiecīgie elementi ir vienādi, tad 
 $\sphericalangle BEC=\sphericalangle DEC=75^{\circ}$ un 
 $\sphericalangle CBE=\sphericalangle CDE=60^{\circ}$.
