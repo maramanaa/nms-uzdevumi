@@ -6,7 +6,7 @@
 # <lo-sample/> LV.NOL.2022.5.1
 
 
-5.1. Kā sadalīt 10 virtulus 12 bērniem vienādās dalā̄s tā, lai katrs virtulis tiktu sadalīts ne vairāk kā 3 dalās? 
+Kā sadalīt $10$ virtulus $12$ bērniem vienādās daļās tā, lai katrs virtulis tiktu sadalīts ne vairāk kā $3$ dalās? 
 
 <small>
 
@@ -18,7 +18,7 @@
 ##Atrisinājums
 
 
-Atrisinājums. Tā kā 10 virtuḷi jāsadala 12 vienādās dalās, tad katram bērnam būs $\frac{10}{12}$ no visiem virtuliem. Pārveidojot $\frac{10}{12}=\frac{6}{12}+\frac{4}{12}=\frac{1}{2}+\frac{1}{3}$, iegūstam, ka katram bērnam jāiedod puse no kāda virtuḷa un vēl trešdala no cita virtuḷa (tas ir, 6 virtulus jāgriež divās dalạas un 4 virtulus jāgriež trīs daḷās).
+Tā kā $10$ virtuḷi jāsadala $12$ vienādās dalās, tad katram bērnam būs $\frac{10}{12}$ no visiem virtuliem. Pārveidojot $\frac{10}{12}=\frac{6}{12}+\frac{4}{12}=\frac{1}{2}+\frac{1}{3}$, iegūstam, ka katram bērnam jāiedod puse no kāda virtuḷa un vēl trešdala no cita virtuḷa (tas ir, 6 virtulus jāgriež divās dalạas un 4 virtulus jāgriež trīs daḷās).
 
 
 # <lo-sample/> LV.NOL.2022.5.2

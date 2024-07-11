@@ -1,12 +1,7 @@
-# Latvijas 72. matemātikas olimpiādes 2. posma uzdevumi un atrisinājumi 
-
-## 5. klase
-
-
 # <lo-sample/> LV.NOL.2022.5.1
 
 
-5.1. Kā sadalīt 10 virtulus 12 bērniem vienādās dalā̄s tā, lai katrs virtulis tiktu sadalīts ne vairāk kā 3 dalās? 
+Kā sadalīt $10$ virtuļus $12$ bērniem vienādās daļās tā, lai katrs virtulis tiktu sadalīts ne vairāk kā $3$ dalās? 
 
 <small>
 
@@ -18,13 +13,22 @@
 ##Atrisinājums
 
 
-Atrisinājums. Tā kā 10 virtuḷi jāsadala 12 vienādās dalās, tad katram bērnam būs $\frac{10}{12}$ no visiem virtuliem. Pārveidojot $\frac{10}{12}=\frac{6}{12}+\frac{4}{12}=\frac{1}{2}+\frac{1}{3}$, iegūstam, ka katram bērnam jāiedod puse no kāda virtuḷa un vēl trešdala no cita virtuḷa (tas ir, 6 virtulus jāgriež divās dalạas un 4 virtulus jāgriež trīs daḷās).
+Tā kā $10$ virtuḷi jāsadala $12$ vienādās daļās, tad katram bērnam
+ būs $\frac{10}{12}$ no visiem virtuļiem. Pārveidojot
+ $\frac{10}{12}=\frac{6}{12}+\frac{4}{12}=\frac{1}{2}+\frac{1}{3}$, 
+ iegūstam, ka katram bērnam jāiedod puse no kāda virtuḷa un vēl
+ trešdaļa no cita virtuḷa (tas ir, $6$ virtuļus jāgriež divās daļās 
+ un $4$ virtuļus jāgriež trīs daḷās).
 
 
 # <lo-sample/> LV.NOL.2022.5.2
 
 
-5.2. Vai var uzrakstīt rindā divus vieniniekus, divus divniekus un divus trijniekus (citus ciparus izmantot nedrīkst) tā, lai starp abiem vieniniekiem būtu uzrakstīts tieši viens cits cipars, starp abiem divniekiem - tieši divi citi cipari, starp abiem trijniekiem - tieši trīs citi cipari?
+Vai var uzrakstīt rindā divus vieniniekus, divus divniekus un
+ divus trijniekus (citus ciparus izmantot nedrīkst) tā, lai starp abiem
+ vieniniekiem būtu uzrakstīts tieši viens cits cipars, starp abiem
+ divniekiem - tieši divi citi cipari, starp abiem trijniekiem - tieši
+ trīs citi cipari?
 
 <small>
 
@@ -42,9 +46,12 @@ Atrisinājums. Jā, var, piemēram, $3 ; 1 ; 2 ; 1 ; 3 ; 2$.
 # <lo-sample/> LV.NOL.2022.5.3
 
 
-5.3. Rūtinu lapā pa rūtinu līnijām uzzīmēts taisnstūris ar izmēriem $333 \times 555$ rūtiṇas. Caur cik rūtinām iet taisnstūra diagonāle? (Diagonāle iet caur rūtiṇu, ja tā satur šīs rūtiṇas iekšējus punktus.)
+Rūtiņu lapā pa rūtiņu līnijām uzzīmēts taisnstūris ar izmēriem
+ $333 \times 555$ rūtiṇas. Caur cik rūtiņām iet taisnstūra diagonāle?
+ (Diagonāle iet caur rūtiṇu, ja tā satur šīs rūtiṇas iekšējus punktus.)
 
-Piezīme. Taisnstūra diagonāle ir nogrieznis, kas savieno taisnstūra pretējās virsotnes.
+Piezīme. Taisnstūra diagonāle ir nogrieznis, kas savieno taisnstūra 
+pretējās virsotnes.
 
 <small>
 
@@ -56,7 +63,12 @@ Piezīme. Taisnstūra diagonāle ir nogrieznis, kas savieno taisnstūra pretēj�
 ##Atrisinājums
 
 
-Atrisinājums. Tā kā $\frac{333}{555}=\frac{3}{5}$ un $\frac{3}{5}$ ir nesaīsināma daḷa, tad novilktā diagonāle sastāv no 111 taisnstūru $3 \times 5$ diagonālēm. Taisnstūra, kura izmēri ir $3 \times 5$ rūtinas, diagonāle iet caur 7 rūtinām (skat. 1. att.). Tātad taisnstūra $333 \times 555$ diagonāle iet caur $7 \cdot 111=777$ rūtiṇām.
+Tā kā $\frac{333}{555}=\frac{3}{5}$ un $\frac{3}{5}$ ir nesaīsināma
+ daḷa, tad novilktā diagonāle sastāv no $111$ taisnstūru
+ $3 \times 5$ diagonālēm. Taisnstūra, kura izmēri ir $3 \times 5$ 
+ rūtiņas, diagonāle iet caur $7$ rūtiņām (skat. 1. att.). Tātad
+ taisnstūra $333 \times 555$ diagonāle iet caur $7 \cdot 111=777$ 
+ rūtiṇām.
 
 ![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-01.jpg?height=379&width=525&top_left_y=1296&top_left_x=838)
 
@@ -64,7 +76,8 @@ Atrisinājums. Tā kā $\frac{333}{555}=\frac{3}{5}$ un $\frac{3}{5}$ ir nesaīs
 # <lo-sample/> LV.NOL.2022.5.4
 
 
-5.4. Zināms, ka $x$ un $y$ ir dažādi cipari. Atrast visus tādus ciparus $x$ un $y$, ja zināms, ka skaitlis $4 x 7 y x 3 y 31 x$ dalās ar 45.
+Zināms, ka $x$ un $y$ ir dažādi cipari. Atrast visus tādus ciparus
+ $x$ un $y$, ja zināms, ka skaitlis $4 x 7 y x 3 y 31 x$ dalās ar $45$.
 
 <small>
 
@@ -76,10 +89,24 @@ Atrisinājums. Tā kā $\frac{333}{555}=\frac{3}{5}$ un $\frac{3}{5}$ ir nesaīs
 ##Atrisinājums
 
 
-Atrisinājums. Tā kā $45=5 \cdot 9$ un tie ir savstarpēji pirmskaitlii, tad dotajam skaitlim ir jādalās gan ar 5, gan ar 9. Lai skaitlis dalītos ar 9, tā ciparu summai jādalās ar 9 . Lai skaitlis dalītos ar 5 , tā pēdējam ciparam ir jābūt vai nu 0 , vai 5 . Apskatām abus gadijumus.
+Tā kā $45=5 \cdot 9$ un tie ir savstarpēji pirmskaitļi, tad dotajam
+ skaitlim ir jādalās gan ar $5$, gan ar $9$. Lai skaitlis dalītos ar
+ $9$, tā ciparu summai jādalās ar $9$ . Lai skaitlis dalītos ar $5$ , 
+ tā pēdējam ciparam ir jābūt vai nu $0$ , vai $5$ . Apskatām abus
+ gadījumus.
 
-- Ja $x=0$, tad skaitla ciparu summa ir $4+0+7+y+0+3+y+3+1+0=18+y+y$. Tā kā $y$ ir cipars, kas atškiras no $x$, tad mazākā summas $18+y+y$ vērtība ir $18+1+1=20$, bet lielākā summas $18+y+y$ vērtība ir $18+9+9=36$. Tā kā $18+y+y$ ir jādalās ar 9 , tad derīgās vērtības ir 27 un 36. Summu 27 nevar iegūt, jo, saskaitot divus vienādus ciparus, nevar iegūt 9 . Summu 36 var iegūt, ja $y=9$.
-- Ja $x=5$, tad skaitla ciparu summa ir $4+5+7+y+5+3+y+3+1+5=33+y+y$. Tā kā $y$ ir cipars, tad mazākā summas $33+y+y$ vērtība ir $33+0+0=33$, bet lielākā summas $33+y+y$ vērtība ir $33+9+9=51$. Tā kā $33+y+y$ ir jādalās ar 9 , tad derīgās vērtības ir 36 un 45 . Summu 36 nevar iegūt, jo, saskaitot divus vienādus ciparus, nevar iegūt 3 . Summu 45 var iegūt, ja $y=6$.
+- Ja $x=0$, tad skaitļa ciparu summa ir $4+0+7+y+0+3+y+3+1+0=18+y+y$. 
+Tā kā $y$ ir cipars, kas atškiras no $x$, tad mazākā summas $18+y+y$ 
+vērtība ir $18+1+1=20$, bet lielākā summas $18+y+y$ vērtība 
+ir $18+9+9=36$. Tā kā $18+y+y$ ir jādalās ar $9$ , tad derīgās vērtības
+ ir $27$ un $36$. Summu $27$ nevar iegūt, jo, saskaitot divus vienādus
+ ciparus, nevar iegūt $9$ . Summu $36$ var iegūt, ja $y=9$.
+- Ja $x=5$, tad skaitļa ciparu summa ir $4+5+7+y+5+3+y+3+1+5=33+y+y$. 
+Tā kā $y$ ir cipars, tad mazākā summas $33+y+y$ vērtība ir $33+0+0=33$, 
+bet lielākā summas $33+y+y$ vērtība ir $33+9+9=51$. Tā kā $33+y+y$ ir
+ jādalās ar $9$ , tad derīgās vērtības ir $36$ un $45$ . Summu $36$ 
+ nevar iegūt, jo, saskaitot divus vienādus ciparus, nevar iegūt $3$ . 
+ Summu $45$ var iegūt, ja $y=6$.
 
 Tātad $x=0$ un $y=9$ vai arī $x=5$ un $y=6$.
 
@@ -87,7 +114,8 @@ Tātad $x=0$ un $y=9$ vai arī $x=5$ un $y=6$.
 # <lo-sample/> LV.NOL.2022.5.5
 
 
-5.5. Dagnis savā telefonā no 10 klases biedriem ir saṇēmis 54 jaunas ziṇas, no katra klases biedra vismaz vienu zinu. Vai var gadīties, ka nekādi divi klases biedri nav atsūtīuši vienādu skaitu jauno zinu?
+Dagnis savā telefonā no $10$ klases biedriem ir saṇēmis $54$ jaunas
+ ziṇas, no katra klases biedra vismaz vienu zinu. Vai var gadīties, ka nekādi divi klases biedri nav atsūtīuši vienādu skaitu jauno zinu?
 
 <small>
 
