@@ -23,11 +23,6 @@ Daži skaitļi jau ir ierakstīti.
 Skat. 2.att., kur katrā rindā, katrā kolonnā un katrā diagonālē 
 ierakstīto trīs skaitḷu summa ir $21$.
 
-| 4 | 9 | 8 |
-| :---: | :---: | :---: |
-| 11 | 7 | 3 |
-| 6 | 5 | 10 |
- 2.att.
 
 ![](LV.AMO.2022.5.1A.png)
 
