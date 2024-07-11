@@ -133,10 +133,6 @@ Pamatosim, ka prasītais nav iespējams. Ja katrs no $10$ klases biedriem būtu
  $1+2+3+4+5+6+7+8+9+$ $+10=55$ jaunas ziṇas (ja tiek ṇemts mazākais dažādo ziņu
  skaits), taču Dagnis ir saṇēmis tikai $54$ jaunas ziņas.
 
-## Latvijas 72. matemātikas olimpiādes 2. posma uzdevumi un atrisinājumi
-
-## 6. klase
-
 
 
 # <lo-sample/> LV.NOL.2022.6.1
@@ -282,10 +278,6 @@ Pirmajā pārbaudē laborantam vienā traukā jāsajauc nedaudz siekalu no $32$ 
 ![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-04.jpg?height=223&width=778&top_left_y=1512&top_left_x=671)
 
 3. att.
-
-## Latvijas 72. matemātikas olimpiādes 2. posma uzdevumi un atrisinājumi
-
-## 7. klase
 
 
 
@@ -440,10 +432,6 @@ No katrām divām pēc kārtas ṇemtām spēlēm Gustavs vismaz vienā piedalī
  uzvarējis pirmajās četrpadsmit no tām (citādi viṇš nebūtu piedalījies
  visās spēlēs). Tātad septītajā spēlē noteikti uzvarēja Ernests, bet
  zaudēja Miķelis.
-
-## Latvijas 72. matemātikas olimpiādes 2. posma uzdevumi un atrisinājumi
-
-## 8. klase
 
 
 
