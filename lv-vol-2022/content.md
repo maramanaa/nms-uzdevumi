@@ -433,7 +433,7 @@ Pierādīt, ka $AB=CD$.
 Vispirms pierādīsim lemmu: ja diviem trijstūriem ir vienādas divas malas un 
 mediānas pret trešo malu, tad šie trijstūri ir vienādi.
 
-\textit {Pierādījums.} Pieņemsim, ka ir doti divi trijstūri $A_{1} B_{1} C_{1}$ un 
+$Pierādījums.$ Pieņemsim, ka ir doti divi trijstūri $A_{1} B_{1} C_{1}$ un 
 $A_{2} B_{2} C_{2}$, kuros novilktas mediānas $B_{1} M_{1}$ un $B_{2} M_{2}$ un
 kuros $A_{1} B_{1}=A_{2} B_{2}, B_{1} C_{1}=B_{2} C_{2}$ un 
 $B_{1} M_{1}=B_{2} M_{2}$. Papildinām trijstūri $A_{1} B_{1} C_{1}$ līdz 
