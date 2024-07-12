@@ -1,4 +1,3 @@
-
 # <lo-sample/> LV.VOL.2022.9.1
 
 
@@ -246,8 +245,8 @@ ar $13$ un kura ciparu summa ir $K$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -477,8 +476,8 @@ uzrakstītais skaitlis netiek nodzēsts)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
