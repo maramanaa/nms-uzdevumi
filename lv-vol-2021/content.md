@@ -347,7 +347,7 @@ var noklāt ar šādiem $19$ šādiem taisnstūriem (pirmās $7$ rindas noklāj,
 tos vertikāli, pārējās $12$ rindas noklāj pa pāriem, liekot tos blakus 
 horizontāli, skat. 7.att.), tātad skaitļu summa visā tabulā ir $38$. Bet visu 
 tabulu bez pirmās rindas var noklāt ar $18$ šādiem taisnstūriem, liekot tos 
-horizontāli (skat. 7.att.), tātad skaitļu summa šajā tabulas daḷā ir $36$. 
+horizontāli (skat. 7.att.), tātad skaitļu summa šajā tabulas daļā ir $36$. 
 Tātad pirmās rindas skaitļu summa ir $38-36=2$.
 ![](LV.VOL.2021.10.5A.png)
 
