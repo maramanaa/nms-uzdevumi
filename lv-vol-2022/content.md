@@ -718,7 +718,7 @@ pirmskaitlis!
 No kubu summas formulas $a^{3}+b^{3}=(a+b)\left(a^{2}-ab+b^{2}\right)$ redzams,
 ka $a^{3}+b^{3}$ dalās ar $(a+b)$. Apskatīsim divus iespējamos gadījumus.
 
-- Ja ir pāra skaits secīgu naturālu skaitļu, tas ir, $2k$ secīgi naturāli 
+* Ja ir pāra skaits secīgu naturālu skaitļu, tas ir, $2k$ secīgi naturāli 
   skaitli, kur $k=1,2,\ldots $, tad šo skaitlu summu var uzrakstīt kā
 
 $$S=(n-k+1)^{3}+(n-k+2)^{3}+\cdots+(n+k-1)^{3}+(n+k)^{3}.$$
@@ -726,15 +726,13 @@ $$S=(n-k+1)^{3}+(n-k+2)^{3}+\cdots+(n+k-1)^{3}+(n+k)^{3}.$$
 Sagrupējot pirmo saskaitāmo ar pēdējo, otro saskaitāmo - ar pirmspēdējo utt., 
 iegūstam, ka
 
-$$\begin{gathered}
-(n-k+1)^{3}+(n+k)^{3} \text { dalās ar } n-k+1+n+k=2 n+1, \\
-(n-k+2)^{3}+(n+k-1)^{3} \text { dalās ar } n-k+2+n+k-1=2 n+1,
-\end{gathered}$$
+$(n-k+1)^{3}+(n+k)^{3}$ dalās ar $n-k+1+n+k=2n+1$,  
+$(n-k+2)^{3}+(n+k-1)^{3}$ dalās ar $n-k+2+n+k-1=2 n+1$
 
 Tā kā visas šīs $k$ summas dalās ar $(2n+1)$, tad arī visu $2k$ kubu summa 
 dalās ar $(2n+1)$, līdz ar to nav pirmskaitlis.
 
-- Ja ir nepāra skaits secīgu naturālu skaitļu, tas ir, $(2k+1)$ secīgi naturāli
+* Ja ir nepāra skaits secīgu naturālu skaitļu, tas ir, $(2k+1)$ secīgi naturāli
   skaitli, kur $k=1,2,\ldots $, tad šo skaitļu summu var uzrakstīt kā
 
 $$S=(n-k)^{3}+(n-(k-1))^{3}+\ldots +(n-1)^{3}+n^{3}+(n+1)^{3}+\ldots +(n+(k-1))^{3}+(n+k)^{3}.$$
@@ -743,10 +741,8 @@ Ievērojam, ka pašā vidū šiem saskaitāmajiem atrodas skaitlis $n^{3}$, kas 
 ar $n$. Pārējos saskaitāmos sagrupējam tāpat kā iepriekš, tas ir, sagrupējam 
 pirmo saskaitāmo ar pēdējo, otro saskaitāmo - ar pirmspēdējo utt., iegūstam, ka
 
-$$\begin{gathered}
-(n-k)^{3}+(n+k)^{3} \text { dalās ar } n-k+n+k=2n \\
-(n-(k-1))^{3}+(n+(k-1))^{3} \text { dalās ar } n-k+1+n+k-1=2n
-\end{gathered}$$
+$(n-k)^{3}+(n+k)^{3}$ dalās ar $n-k+n+k=2n$  
+$(n-(k-1))^{3}+(n+(k-1))^{3}$ dalās ar $n-k+1+n+k-1=2n$
 
 Tā kā visas šīs summas dalās ar $2n$, un vidējais saskaitāmais $n^{3}$ dalās 
 ar $n$, tad arī visu $(2k+1)$ kubu summa dalās ar $n$, līdz ar to nav pirmskaitlis.
