@@ -171,9 +171,9 @@ kastes numuru, kurā ābols netiek ielikts. Piemēram, gājiens $"3"$, nozīmē,
 āboli tiek ielikti kastēs ar numuriem $1, 2, 4, 5, 6, 7, 8$.
 
 Simetrijas dēļ pieņemsim, ka savā pirmajā gājienā pirmais spēlētājs veic 
-gājienu $"1"$. Tad otrais spēlētājs savos pirmajos $7$ gājienos neatkarīgi no 
+gājienu "$1$". Tad otrais spēlētājs savos pirmajos $7$ gājienos neatkarīgi no 
 tālākajiem pirmā spēlētāja gājieniem, var paiet gājienus 
-$"2", "3", "4", "5", "6", "7", "8"$. Aplūkosim situāciju pirms otrā spēlētāja 
+"$2$", "$3$", "$4$", "$5$", "$6$", "$7$", "$8$". Aplūkosim situāciju pirms otrā spēlētāja 
 astotā gājiena.
 
 Pirmā spēlētāja pirmais gājiens kopā ar otrā spēlētāja pirmajiem $7$ gājieniem 
@@ -519,7 +519,7 @@ Kopējais visas figūras laukums ir
 $$S_{visa}=1+2+\cdots+(2n-1)=\frac{2n(2n-1)}{2}=n(2n-1)$$
 
 Puse no $S_{\text {visa }}$ ir $\frac{n(2n-1)}{2}$, kas sakrīt ar aprēķināto 
-$S_{\text {zemoP }}$. Tātad, ja $k$ ir nepāra skaitlis, tad figūras laukumu 
+$S_{\text {zemOP }}$. Tātad, ja $k$ ir nepāra skaitlis, tad figūras laukumu 
 vienlielās daļās sadalošais stars iet caur kvadrāta virsotni.
 
 ![](LV.VOL.2021.11.5A.png)
@@ -619,7 +619,7 @@ ka Agita ir atzinusies Konstantīnam, ka viņas iedomātais skaitlis sastāv tik
 no vieniniekiem un nullēm. Konstantīnam ir jānoskaidro tikai, kurās pozīcijās 
 atrodas vieninieki. Tas ir, Agitas skaitlis ir izteikts formā 
 $x=10^{k_{1}}+10^{k_{2}}+10^{k_{3}}+\cdots+10^{k_{2021}}$, kur 
-$k_{1}<k_{2}<k_{3}<\cdots<k_{2021}$, un Konstantīnam ir jānoskaidro visas 
+$k_{1} < k_{2} < k_{3} < \cdots < k_{2021}$, un Konstantīnam ir jānoskaidro visas 
 vērtības $k_{i}$. Bet, ja izrādās, ka $10^{k_{1}}>a_{1}$, tad ar savu pirmo 
 minējumu Konstantīns neko nenoskaidro par pārējiem skaitļiem 
 $k_{2}, \ldots, k_{2021}$. Līdzīgi, ja $10^{k_{2}}>a_{2}$, tad ar savu otro 
