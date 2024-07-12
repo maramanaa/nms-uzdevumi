@@ -22,11 +22,11 @@ ir atrisinājums.
 
 Pieņemsim pretējo. Tad visiem diskriminantiem jābūt negatīviem, tas ir,
 
-$$a^{2}<b, \quad b^{2}<a, \quad 1<ab$$
+$$a^{2} < b, \quad b^{2} < a, \quad 1 < ab$$
 
 No pirmajām divām nevienādībām izriet, ka $a>0$ un $b>0$. Sareizinot pirmās 
 divas nevienādības (to drīkst darīt, jo visas izteiksmes ir pozitīvas), 
-iegūstam $a^{2}b^{2}<ab$. Izdalot abas nevienādības puses ar $ab>0$, iegūstam 
+iegūstam $a^{2} b^{2} < ab$. Izdalot abas nevienādības puses ar $ab>0$, iegūstam 
 $ab<1$, kas ir pretrunā ar trešo nevienādību. Tātad pieņēmums bija aplams, 
 līdz ar to vismaz vienam vienādojumam ir atrisinājums.
 
