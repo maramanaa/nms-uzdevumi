@@ -22,7 +22,7 @@ ir atrisinājums.
 
 Pieņemsim pretējo. Tad visiem diskriminantiem jābūt negatīviem, tas ir,
 
-$$ a^{2}<b, \quad b^{2}<a, \quad 1<ab $$
+$$a^{2}<b, \quad b^{2}<a, \quad 1<ab$$
 
 No pirmajām divām nevienādībām izriet, ka $a>0$ un $b>0$. Sareizinot pirmās 
 divas nevienādības (to drīkst darīt, jo visas izteiksmes ir pozitīvas), 
@@ -173,7 +173,7 @@ kastes numuru, kurā ābols netiek ielikts. Piemēram, gājiens $"3"$, nozīmē,
 Simetrijas dēļ pieņemsim, ka savā pirmajā gājienā pirmais spēlētājs veic 
 gājienu $"1"$. Tad otrais spēlētājs savos pirmajos $7$ gājienos neatkarīgi no 
 tālākajiem pirmā spēlētāja gājieniem, var paiet gājienus 
-$"2", "3", "4", "5", "6", "7", "8". Aplūkosim situāciju pirms otrā spēlētāja 
+$"2", "3", "4", "5", "6", "7", "8"$. Aplūkosim situāciju pirms otrā spēlētāja 
 astotā gājiena.
 
 Pirmā spēlētāja pirmais gājiens kopā ar otrā spēlētāja pirmajiem $7$ gājieniem 
@@ -700,10 +700,6 @@ ar $19$. Līdz ar to šīs summas vērtība pēc moduļa $19$ ir vai nu $2$, vai
 
 Bet ne $2$, ne $3$ pēc moduļa $19$ nevar būt naturāla skaitļa kvadrāts 
 (pārbaude ar tabulu) - pretruna.
-
-| $n(\bmod 19)$ | 0 | $\pm 1$ | $\pm 2$ | $\pm 3$ | $\pm 4$ | $\pm 5$ | $\pm 6$ | $\pm 7$ | $\pm 8$ | $\pm 9$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $n^{2}(\bmod 19)$ | 0 | 1 | 4 | 9 | 16 | 6 | 17 | 11 | 7 | 5 |
 
 
 | $n(\bmod 19)$ | $n^{2}(\bmod 19)$ |
