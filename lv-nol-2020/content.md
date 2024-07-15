@@ -1413,7 +1413,7 @@ Debesskrāpī, kurā strādā profesors Cipariņš, ir $500$ stāvi un tā lift�
 neparasta vadības pults: tajā var ievadīt naturālu skaitli $n$, kas nepārsniedz
 $100$, nospiest pogu <uz augšu> vai <uz leju> un lifts brauks $n$ stāvus 
 attiecīgi uz augšu vai uz leju. Tā, piemēram, parasti profesors Cipariņš, lai 
-aizbrauktu no 1.stāva uz savu kabinetu 314.stāvā, brauc uz augšu trīs reizes pa
+aizbrauktu no $1.$ stāva uz savu kabinetu $314.$ stāvā, brauc uz augšu trīs reizes pa
 $100$ stāviem, un tad vienu reizi $13$ stāvus uz augšu.
 
 Diemžēl šorīt izrādijās, ka lifts ir salūzis, un reizēm tas brauc nepareizā 
@@ -1487,6 +1487,7 @@ skaitļiem $x^{4}, y^{4}, x^{4}+y^{4}+1$ dalās ar $13$.
 Apskatām, kādi atlikumi rodas, ja naturāla skaitļa kvadrātu dala ar $13$.
 
 | $n(\bmod 13)$ | $n^{2}(\bmod 13)$ |
+| ------------- | ----------------- |
 | $0$           | $0$               |
 | $1$           | $1$               |
 | $2$           | $4$               |
