@@ -167,13 +167,13 @@ spēlētājs - pirmais vai otrais - uzvarēs, pareizi spēlējot?
 Pierādīsim, ka otrais spēlētājs vienmēr var uzvarēt.
 
 Sanumurēsim kastes ar skaitļiem no $1$ līdz $8$ un apzīmēsim gājienu ar tās 
-kastes numuru, kurā ābols netiek ielikts. Piemēram, gājiens $"3"$, nozīmē, ka 
+kastes numuru, kurā ābols netiek ielikts. Piemēram, gājiens " $3$ ", nozīmē, ka 
 āboli tiek ielikti kastēs ar numuriem $1, 2, 4, 5, 6, 7, 8$.
 
 Simetrijas dēļ pieņemsim, ka savā pirmajā gājienā pirmais spēlētājs veic 
-gājienu "$1$". Tad otrais spēlētājs savos pirmajos $7$ gājienos neatkarīgi no 
+gājienu " $1$ ". Tad otrais spēlētājs savos pirmajos $7$ gājienos neatkarīgi no 
 tālākajiem pirmā spēlētāja gājieniem, var paiet gājienus 
-"$2$", "$3$", "$4$", "$5$", "$6$", "$7$", "$8$". Aplūkosim situāciju pirms otrā spēlētāja 
+" $2$ ", " $3$ ", " $4$ ", " $5$ ", " $6$ ", " $7$ ", " $8$ ". Aplūkosim situāciju pirms otrā spēlētāja 
 astotā gājiena.
 
 Pirmā spēlētāja pirmais gājiens kopā ar otrā spēlētāja pirmajiem $7$ gājieniem 
