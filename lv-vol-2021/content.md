@@ -92,7 +92,7 @@ $$\begin{gathered}
 \end{gathered}$$
 
 Tā kā $m$ un $n$ ir naturāli skaitļi un iegūtās vienādības kreisās puses 
-izteiksme ir pozitīva, tad $m=1$ vai $m=2$. Apskatām abus gadijumus:
+izteiksme ir pozitīva, tad $m=1$ vai $m=2$. Apskatām abus gadījumus:
 
 - ja $m=1$, tad $5n^{4}=1 \cdot 10 \cdot 4 \cdot 2$ jeb $n^{4}=16$, no kā 
   iegūstam, ka $n=2$ (vērtība $n=-2$ neder, jo nav naturāls skaitlis);
@@ -245,7 +245,7 @@ x_{1} \cdot(q+1)=\frac{3}{q^{2}-1} \tag{1}
 
 Mums jāpierāda, ka 
 $x_{5}+x_{6}=x_{1}\left(q^{5}+q^{4}\right)=x_{1}(q+1)q^{4} \geq 12$ jeb 
-$q^{4} \geq \frac{12}{x_{1} \cdot(q+1)}$. levietojot šajā nevienādībā (1), 
+$q^{4} \geq \frac{12}{x_{1} \cdot(q+1)}$. levietojot šajā nevienādībā $(1)$, 
 iegūstam, ka $q^{4} \geq 4 \cdot\left(q^{2}-1\right)$, kas ir patiesa 
 nevienādība, jo $q^{4}-4q^{2}+4=\left(q^{2}-2\right)^{2} \geq 0$.
 
@@ -308,7 +308,7 @@ vesela sakne. Kurš spēlētājs - pirmais vai otrais - uzvarēs, pareizi spēl�
 Pirmais spēlētājs vienmēr var uzvarēt. Pierādīsim to.
 
 Vispirms parādīsim, kā pirmais spēlētājs var noteikti nezaudēt. Lai to 
-izdarītu, vinam jānodrošina, ka koeficienti pie $x^{2}$ un $x$ ir ar vienādu 
+izdarītu, viņam jānodrošina, ka koeficienti pie $x^{2}$ un $x$ ir ar vienādu 
 paritāti, bet brīvais loceklis ir nepāra skaitlis. Tādā gadījumā izteiksmes 
 vērtība vienādojuma kreisajā pusē būs nepāra skaitlis pie jebkādas $x$ 
 vērtības, tātad tā nevarēs būt nulle. Savā pirmajā gājienā pirmais spēlētājs 
@@ -326,7 +326,7 @@ vienādojuma sakne.
 # <lo-sample/> LV.VOL.2021.10.5.
 
 Taisnstūrveida tabulā, kurā ir $19$ rindas un $14$ kolonnas, ierakstīti kaut 
-kādi reāli skaitļi. Zināms, ka skaitļu summa katrā 6 att. dotajā figūrā ir $1$,
+kādi reāli skaitļi. Zināms, ka skaitļu summa katrā 6.att. dotajā figūrā ir $1$,
 turklāt šī figūra var būt pagriezta vai apmesta otrādi. Aprēķināt skaitļu summu
 pirmajā rindā!
 
@@ -349,6 +349,7 @@ horizontāli, skat. 7.att.), tātad skaitļu summa visā tabulā ir $38$. Bet vi
 tabulu bez pirmās rindas var noklāt ar $18$ šādiem taisnstūriem, liekot tos 
 horizontāli (skat. 7.att.), tātad skaitļu summa šajā tabulas daļā ir $36$. 
 Tātad pirmās rindas skaitļu summa ir $38-36=2$.
+
 ![](LV.VOL.2021.10.5A.png)
 
 
@@ -366,7 +367,7 @@ Pierādìt, ka $\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=2$.
 
 ## Atrisinājums
 
-levērosim, $\mathrm{ka}(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
+levērosim, ka $(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
 $(\sqrt{3}-1)^{3}=6 \sqrt{3}-10$. Līdz ar to
 
 $$\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=(\sqrt{3}+1)-(\sqrt{3}-1)=2$$
@@ -400,12 +401,12 @@ y_{1} \cdot(q+1)=\frac{15}{q^{2}-1} \tag{1}
 \end{equation*}$$
 
 Mums jāpierāda, ka $y_{1}\left(q^{5}+q^{4}\right) \geq 60$ jeb ka 
-$q^{4} \geq \frac{60}{x_{1} \cdot(q+1)}$. levietojot šajā nevienādībā (1), 
+$q^{4} \geq \frac{60}{x_{1} \cdot(q+1)}$. levietojot šajā nevienādībā $(1)$, 
 iegūstam, ka $q^{4} \geq 4 \cdot\left(q^{2}-1\right)$, kas ir patiesa 
 nevienādība, jo $q^{4}-4 q^{2}+4=\left(q^{2}-2\right)^{2} \geq 0$.
 
 Atliek parādīt, ka vērtība $y_{5}+y_{6}=60$ ir iegūstama. Lai tas tā būtu, 
-visām nevienādībām ir jāklūst par vienādībām, tātad 
+visām nevienādībām ir jākļūst par vienādībām, tātad 
 $q=\sqrt{2}$ un 
 $y_{1} \cdot\left(\sqrt{2}^{3}+\sqrt{2}^{2}-\sqrt{2}-1\right)=15$ jeb 
 $y_{1}=15(\sqrt{2}-1)$. Redzams, ka šajā gadījumā tik tiešām 
@@ -417,7 +418,7 @@ $y_{5}+y_{6}=y_{1}\left(q^{5}+q^{4}\right)=15(\sqrt{2}-1)(4 \sqrt{2}+4)=60$.
 
 Naturālu skaitli sauksim par elegantu, ja tā decimālajā pierakstā nav nevienas 
 nulles un šis skaitlis dalās ar savu ciparu summu. (Eleganti ir visi viencipara
-skaitli, kā arī, piemēram, skaitli $36$ un $322$.) Pierādīt, ka ir bezgalīgi 
+skaitli, kā arī, piemēram, skaitļi $36$ un $322$.) Pierādīt, ka ir bezgalīgi 
 daudz elegantu skaitļu!
 
 <small>
@@ -511,7 +512,7 @@ $OPR$ laukums un kvadrātu rindu galu "trepīte" (figūras daļa pa labi no $PR$
 $$\begin{gathered}
 S_{OPR}=\frac{RO \cdot PR}{2}=\frac{\left(2n-1-\frac{1}{2}(n-1)\right) \cdot n}{2}=\frac{(3n-1) \cdot n}{4} \\
 S_{\text {trepite }}=\frac{1}{2}\left(\frac{n(n-1)}{2}\right)=\frac{n(n-1)}{4} \\
-S_{\text {ZemoP }}=\frac{(3n-1)n}{4}+\frac{n(n-1)}{4}=\frac{n(2n-1)}{2}
+S_{\text {ZemOP }}=\frac{(3n-1)n}{4}+\frac{n(n-1)}{4}=\frac{n(2n-1)}{2}
 \end{gathered}$$
 
 Kopējais visas figūras laukums ir
