@@ -26,7 +26,7 @@ $$a^{2} < b, \quad b^{2} < a, \quad 1 < ab$$
 
 No pirmajām divām nevienādībām izriet, ka $a>0$ un $b>0$. Sareizinot pirmās 
 divas nevienādības (to drīkst darīt, jo visas izteiksmes ir pozitīvas), 
-iegūstam $a^{2} b^{2} < ab$. Izdalot abas nevienādības puses ar $ab>0$, iegūstam 
+iegūstam $a^{2}b^{2} < ab$. Izdalot abas nevienādības puses ar $ab>0$, iegūstam 
 $ab<1$, kas ir pretrunā ar trešo nevienādību. Tātad pieņēmums bija aplams, 
 līdz ar to vismaz vienam vienādojumam ir atrisinājums.
 
@@ -403,7 +403,7 @@ y_{1} \cdot(q+1)=\frac{15}{q^{2}-1} \tag{1}
 Mums jāpierāda, ka $y_{1}\left(q^{5}+q^{4}\right) \geq 60$ jeb ka 
 $q^{4} \geq \frac{60}{x_{1} \cdot(q+1)}$. levietojot šajā nevienādībā $(1)$, 
 iegūstam, ka $q^{4} \geq 4 \cdot\left(q^{2}-1\right)$, kas ir patiesa 
-nevienādība, jo $q^{4}-4 q^{2}+4=\left(q^{2}-2\right)^{2} \geq 0$.
+nevienādība, jo $q^{4}-4q^{2}+4=\left(q^{2}-2\right)^{2} \geq 0$.
 
 Atliek parādīt, ka vērtība $y_{5}+y_{6}=60$ ir iegūstama. Lai tas tā būtu, 
 visām nevienādībām ir jākļūst par vienādībām, tātad 
@@ -437,7 +437,7 @@ uzrakstītiem skaitļiem $A$ ) ir elegants.
 levērosim, ka, ja $A$ ir $n$-ciparu skaitlis, tad 
 $\overline{AAA}=A \cdot\left(1+10^{n}+10^{2n}\right)$ un 
 $S(\overline{AAA})=3S(A)$. Tā kā $A$ dalās ar $S(A)$ pēc pieņēmuma, ka $A$ ir 
-elegants, tad atliek pamatot, ka $1+10^{n}+10^{2 n}$ dalās ar $3$, bet tas ir 
+elegants, tad atliek pamatot, ka $1+10^{n}+10^{2n}$ dalās ar $3$, bet tas ir 
 acīmredzami, jo tā ciparu summa ir $3$.
 
 Šādā veidā, sākot ar jebkuru elegantu skaitli (piemēram, $36$), mēs varam iegūt
