@@ -887,15 +887,15 @@ $$\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{n^{2}}{(2n-1)(2n+
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas bāze.$ Ja $n=1$, tad 
+$Indukcijas\ bāze.$ Ja $n=1$, tad 
 $\frac{1^{2}}{1 \cdot 3}=\frac{1 \cdot 2}{2 \cdot 3}$ jeb 
 $\frac{1}{3}=\frac{1}{3}$.
 
-$Induktīvais pieņēmums.$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
+$Induktīvais\ pieņēmums.$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
 
 $$\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{k^{2}}{(2k-1)(2k+1)}=\frac{k(k+1)}{2(2k+1)}$$
 
-$Induktīvā pāreja.$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas ir,
+$Induktīvā\ pāreja.$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas ir,
 
 $$\begin{gathered}
 \frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{(k+1)^{2}}{(2(k+1)-1)(2(k+1)+1)}=\frac{(k+1)(k+1+1)}{2(2(k+1)+1)} \\
@@ -1109,12 +1109,12 @@ $17$.
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas bāze.$ Ja $n=1$, tad $6^{2}+19^{1}-2^{2}=51$, kas dalās ar $17$.
+$Indukcijas\ bāze.$ Ja $n=1$, tad $6^{2}+19^{1}-2^{2}=51$, kas dalās ar $17$.
 
-$Induktīvais pieņēmums.$ Pieņemsim, ka apgalvojums ir patiess, ja $n=k$, tas 
+$Induktīvais\ pieņēmums.$ Pieņemsim, ka apgalvojums ir patiess, ja $n=k$, tas 
 ir, $6^{2k}+19^{k}-2^{k+1}$ dalās ar $17$.
 
-$Induktīvā pāreja.$ Pierādīsim, ka apgalvojums ir patiess arī, ja $n=k+1$, tas 
+$Induktīvā\ pāreja.$ Pierādīsim, ka apgalvojums ir patiess arī, ja $n=k+1$, tas 
 ir, $6^{2k+2}+19^{k+1}-2^{k+2}$ dalās ar $17$. Pārveidojam izteiksmi:
 
 $$\begin{aligned}
@@ -1299,15 +1299,15 @@ $x_{n}=2^{n}+3^{n}-4^{n}$ visiem naturāliem $n$.
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas bāze.$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
+$Indukcijas\ bāze.$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
 $x_{2}=2^{2}+3^{2}-4^{2}=-3$. Ja $n=3$, tad $x_{3}=2^{3}+3^{3}-4^{3}=-29$.
 
-$Induktīvais pieņēmums.$ Pieņemsim, ka formula ir spēkā, ja $n=k, n=k+1$ un 
+$Induktīvais\ pieņēmums.$ Pieņemsim, ka formula ir spēkā, ja $n=k, n=k+1$ un 
 $n=k+2$, tas ir,
 
 $x_{k}=2^{k}+3^{k}-4^{k}, \quad x_{k+1}=2^{k+1}+3^{k+1}-4^{k+1} \quad $ un $\quad x_{k+2}=2^{k+2}+3^{k+2}-4^{k+2}$
 
-$Induktīvā pāreja.$ Pierādīsim, ka formula ir spēkā arī tad, ja $n=k+3$, tas 
+$Induktīvā\ pāreja.$ Pierādīsim, ka formula ir spēkā arī tad, ja $n=k+3$, tas 
 ir, $x_{k+3}=2^{k+3}+3^{k+3}-4^{k+3}$. Izmantojot induktīvo pieņēmumu, iegūstam
 
 $$\begin{gathered}
