@@ -48,12 +48,12 @@ labajā pusē piezīmējot klāt vienu 2.att. doto figūru.
 
 **a)** levērojam, ka, lai iegūtu nākamo figūru, iepriekšējai figūrai tiek 
        pievienoti $4$ kvadrāti. Pirmā figūrai sastāv no $5$ kvadrātiem un vēl 
-	   jāpievieno $69 \cdot 4$ kvadrāti, tātad $70.$ figūra sastāvēs no 
-	   $5+276=281$ kvadrāta.
+       jāpievieno $69 \cdot 4$ kvadrāti, tātad $70.$ figūra sastāvēs no 
+       $5+276=281$ kvadrāta.
 
 **b)** levērojam, ka pirmajai figūrai ir $12$ vienādas malas, tātad katras 
-	   malas garums ir $1~\mathrm{cm}$. Apskatām, kā mainās katras nākamās 
-	   figūras perimetrs.
+       malas garums ir $1~\mathrm{cm}$. Apskatām, kā mainās katras nākamās 
+       figūras perimetrs.
 
 - Pirmajai figūrai perimetrs ir $P_{1}=12~\mathrm{cm}$. levērojam, ka $12$ var 
   uzrakstīt kā $4+8$ (skat. 3.att., kur malu, kas iekrāsotas ar pārtrauktu 
@@ -76,7 +76,7 @@ Tātad $70.$ figūras perimetrs ir $P_{70}=4+70 \cdot 8=564~\mathrm{cm}$.
 
 **c)** levērojam, ja no figūras perimetra atņem $4$, tad iegūtajam rezultātam 
        jādalās ar $8$. Tā kā $1000-4=996$ un $996:8=124$, $atl$ $4$ (nedalās 
-	   ar $8$), tad nav tādas figūras, kuras perimetrs ir $1000~\mathrm{cm}$.
+       ar $8$), tad nav tādas figūras, kuras perimetrs ir $1000~\mathrm{cm}$.
 
 
 
@@ -122,12 +122,12 @@ $11$, **b)** $12$?
 ![](LV.NOL.2020.5.4A.png)
 
 **b)** Pierādīsim, ka prasītais nav iespējams. Pieņemsim pretējo, ka iespējams 
-	   aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
-	   blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
-	   aplūkosim to rūtiņu, kurā ierakstīts skaitlis $12$. Šim skaitlim tikai 
-	   viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
+       aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
+       blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
+       aplūkosim to rūtiņu, kurā ierakstīts skaitlis $12$. Šim skaitlim tikai 
+       viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
        vismaz $12$, ir skaitlis $24$. Esam ieguvuši pretrunu, tātad derīgs 
-	   tabulas aizpildījums neeksistē.
+       tabulas aizpildījums neeksistē.
 
 
 
@@ -265,12 +265,12 @@ $14$, **b)** $15$?
 ![](LV.NOL.2020.6.4A.png)
 
 **b)** Pierādīsim, ka prasītais nav iespējams. Pieņemsim pretējo, ka iespējams 
-	   aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
-	   blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
-	   aplūkosim to rūtiņu, kurā ierakstīts skaitlis $15$. Šim skaitlim tikai 
-	   viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
-	   vismaz $15$, ir skaitlis $30$. Esam ieguvuši pretrunu, tātad derīgs 
-	   tabulas aizpildījums neeksistē.
+       aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
+       blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
+       aplūkosim to rūtiņu, kurā ierakstīts skaitlis $15$. Šim skaitlim tikai 
+       viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
+       vismaz $15$, ir skaitlis $30$. Esam ieguvuši pretrunu, tātad derīgs 
+       tabulas aizpildījums neeksistē.
 
 
 
@@ -364,9 +364,9 @@ ka iegūtās izteiksmes vērtība ir **a)** $4$; **b)** $1$?
 ## Atrisinājums
 
 **a)** Jā, iegūtās izteiksmes vērtība var būt $4$. Apskatām četrus pēc kārtas 
-	   esošus naturālus nepāra skaitļus $2n-1;\ 2n+1;\ 2n+3;\ 2n+5$. levērojam, ka
-	   katram no tiem var pierakstīt priekšā vai nu "+", vai "-" zīmi tā, lai 
-	   iegūtu summu $0$:
+       esošus naturālus nepāra skaitļus $2n-1;\ 2n+1;\ 2n+3;\ 2n+5$. levērojam, ka
+       katram no tiem var pierakstīt priekšā vai nu "+", vai "-" zīmi tā, lai 
+       iegūtu summu $0$:
 
 $$+(2n-1)-(2n+1)-(2n+3)+(2n+5)=0$$
 
@@ -377,8 +377,8 @@ bet skaitļiem $1; 3; 5; 7$ priekšā liekam attiecīgi "- + - +":
 $$\underbrace{-1+3-5+7}_{=4} \underbrace{+9-11-13+15}_{=0}+\ldots \underbrace{+2017-2019-2021+2023}_{=0}=4$$
 
 **b)** Nē, nevar iegūt vērtību $1$. Tā kā uz tāfeles ir uzrakstīts pāra skaits 
-	   ($1012$ skaitļi) nepāra skaitļu, tad to summa būs pāra skaitlis, jo, 
-	   saskaitot vai atņemot divus nepāra skaitļus, iegūst pāra skaitli.
+       ($1012$ skaitļi) nepāra skaitļu, tad to summa būs pāra skaitlis, jo, 
+       saskaitot vai atņemot divus nepāra skaitļus, iegūst pāra skaitli.
 
 
 
@@ -399,21 +399,21 @@ trīs 16.att. figūrām un divpadsmit 17.att. figūrām? Figūras drīkst pagrie
 ## Atrisinājums
 
 **a)** Nē, nevar. Dotajā figūrā kopā ir $60$ rūtiņas, bet vienā figūrā ir $4$ 
-	   rūtiņas. Tātad, ja uzdevuma prasības varētu izpildīt, figūra būtu 
-	   noklāta ar tieši $15$ figūrām. Izkrāsojam figūru šaha galdiņa veidā 
-	   (skat. 18.att.); pavisam melnā krāsā ir nokrāsotas $30$ (pāra skaits) 
-	   rūtiņas. Lai kā arī šajā figūrā tiktu novietota 16.att. figūra, tā 
-	   noklās vai nu tieši vienu melnu rūtiņu, vai tieši $3$ melnas rūtiņas 
-	   (skat. 19.att.), tātad nepāra skaita melnas rūtiņas. Tāpēc arī $15$ 
-	   (nepāra skaitlis) šādas figūras kopā var noklāt tikai nepāra skaita 
-	   melnas rūtiņas. Tā kā nepāra skaitlis nevar būt vienāds ar pāra 
-	   skaitli - melno rūtiņu skaitu visā figūrā, tad figūru pilnībā pārklāt 
-	   nevar.
+       rūtiņas. Tātad, ja uzdevuma prasības varētu izpildīt, figūra būtu 
+       noklāta ar tieši $15$ figūrām. Izkrāsojam figūru šaha galdiņa veidā 
+       (skat. 18.att.); pavisam melnā krāsā ir nokrāsotas $30$ (pāra skaits) 
+       rūtiņas. Lai kā arī šajā figūrā tiktu novietota 16.att. figūra, tā 
+       noklās vai nu tieši vienu melnu rūtiņu, vai tieši $3$ melnas rūtiņas 
+       (skat. 19.att.), tātad nepāra skaita melnas rūtiņas. Tāpēc arī $15$ 
+       (nepāra skaitlis) šādas figūras kopā var noklāt tikai nepāra skaita 
+       melnas rūtiņas. Tā kā nepāra skaitlis nevar būt vienāds ar pāra 
+       skaitli - melno rūtiņu skaitu visā figūrā, tad figūru pilnībā pārklāt 
+       nevar.
 
 ![](LV.NOL.2020.7.3A.png)
 
 **b)** Nē, nevar pārklāt. Dotā figūra satur $60$ rūtiņas, bet 
-	   $3 \cdot 4+12 \cdot 3=12+36=48<60$.
+       $3 \cdot 4+12 \cdot 3=12+36=48<60$.
 
 $Piezīme.$ a) gadīumā pierādīt, ka figūru nevar pārklāt, var arī, piemēram, 
 apskatot apakšējo kreiso rūtiņu, kuru var pārklāt vienā vienīgā veidā, un 
@@ -1506,7 +1506,7 @@ $x^{2}+y^{2}=12(\bmod 13)$. levērojam, ka ir tikai divi skaitļa kvadrātu
 atlikumu pāri, kas summā dod $12$, tie ir $(0; 12)$ vai $(3; 9)$.
 
 **a)** Apskatot abus gadīumus, redzams, ka nevienā no tiem $x^{2}-y^{2}$ 
-	   nedalās ar $13$.
+       nedalās ar $13$.
 
 **b)** Apskatām abus gadījumus.
 
