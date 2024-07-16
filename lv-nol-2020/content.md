@@ -25,7 +25,7 @@ virknē katrs nākamais skaitlis ir lielāks nekā iepriekšējais.
 # <lo-sample/> LV.NOL.2020.5.2.
 
 Valentīns savā burtnīcā zīmē figūras, pirmās trīs no tām parādītas 1.att. Pirmā
-figūra sastāv no pieciem vienādiem kvadrātiem un tās perimetrs ir $12$ cm. 
+figūra sastāv no pieciem vienādiem kvadrātiem un tās perimetrs ir $12 cm$. 
 Katru nākamo figūru Valentīns iegūst, iepriekšējai figūrai labajā pusē 
 piezīmējot klāt vienu 2.att. doto figūru.
 
@@ -35,7 +35,7 @@ piezīmējot klāt vienu 2.att. doto figūru.
 
 **b)** Nosaki $70.$ figūras perimetru!
 
-**c)** Vai kādai no Valentīna zīmētajām figūrām perimetrs ir $1000$ cm?
+**c)** Vai kādai no Valentīna zīmētajām figūrām perimetrs ir $1000 cm$?
 
 <small>
 
@@ -52,31 +52,31 @@ piezīmējot klāt vienu 2.att. doto figūru.
 	   $5+276=281$ kvadrāta.
 
 **b)** levērojam, ka pirmajai figūrai ir $12$ vienādas malas, tātad katras 
-	   malas garums ir $1$ cm. Apskatām, kā mainās katras nākamās figūras 
+	   malas garums ir $1 cm$. Apskatām, kā mainās katras nākamās figūras 
 	   perimetrs.
 
-- Pirmajai figūrai perimetrs ir $P_{1}=12$ cm. levērojam, ka $12$ var uzrakstīt
+- Pirmajai figūrai perimetrs ir $P_{1}=12 cm$. levērojam, ka $12$ var uzrakstīt
   kā $4+8$ (skat. 3.att., kur malu, kas iekrāsotas ar pārtrauktu līniju, 
-  kopējais garums ir $4$ cm, bet ar biezāku līniju iekrāsoto malu kopējais 
-  garums ir $8$ cm).
-- Otrajai figūrai perimetrs ir $P_{2}=4+8+8=4+2 \cdot 8$ cm, jo pie pirmās 
+  kopējais garums ir $4 cm$, bet ar biezāku līniju iekrāsoto malu kopējais 
+  garums ir $8 cm$).
+- Otrajai figūrai perimetrs ir $P_{2}=4+8+8=4+2 \cdot 8 cm$, jo pie pirmās 
   figūras perimetra nāk klāt $8$ malas (skat. 4.att., kur ar biezāku līniju 
-  iezīmētas malas, kas tiek pievienotas figūrai), kuru kopējais garums ir $8$ 
-  cm.
-- Trešajai figūrai perimetrs ir $P_{3}=4+2 \cdot 8+8=4+3 \cdot 8$ cm, jo pie 
+  iezīmētas malas, kas tiek pievienotas figūrai), kuru kopējais garums ir $8 
+  cm$.
+- Trešajai figūrai perimetrs ir $P_{3}=4+2 \cdot 8+8=4+3 \cdot 8 cm$, jo pie 
   otrās figūras perimetra nāk klāt $8$ malas.
 
 ![](LV.NOL.2020.5.2A.png)
 
-Līdzīgi iegūst arī nākamo figūru perimetrus, katru reizi pieskaitot $8$ cm. 
+Līdzīgi iegūst arī nākamo figūru perimetrus, katru reizi pieskaitot $8 cm$. 
 Līdz ar to figūras, kuras kārtas numurs ir $n$, perimetrs ir 
-$P_{n}=4+n \cdot 8$ cm.
+$P_{n}=4+n \cdot 8 cm$.
 
-Tātad $70.$ figūras perimetrs ir $P_{70}=4+70 \cdot 8=564$ cm.
+Tātad $70.$ figūras perimetrs ir $P_{70}=4+70 \cdot 8=564 cm$.
 
 **c)** levērojam, ja no figūras perimetra atņem $4$, tad iegūtajam rezultātam 
        jādalās ar $8$. Tā kā $1000-4=996$ un $996:8=124$, $atl$ $4$ (nedalās 
-	   ar $8$), tad nav tādas figūras, kuras perimetrs ir $1000$ cm.
+	   ar $8$), tad nav tādas figūras, kuras perimetrs ir $1000 cm$.
 
 
 
@@ -162,7 +162,7 @@ meklētais skaitlis ir $840-1=839$.
 
 # <lo-sample/> LV.NOL.2020.6.1.
 
-Doti trīs kvadrāti ar laukumiem attiecīgi $1 m^{2}, 4 m^{2}$ un $9 m^{2}$. 
+Doti trīs kvadrāti ar laukumiem attiecīgi $1\ m^{2}, 4\ m^{2}$ un $9\ m^{2}$. 
 Kvadrāti salikti viens virs otra tā, kā parādīts 9.att. Aprēķini iegūtās 
 figūras perimetru!
 
@@ -177,11 +177,11 @@ figūras perimetru!
 
 ## Atrisinājums
 
-Kvadrātu malu garumi attiecīgi ir $1$ m, $2$ m un $3$ m. levērojam, ka lauztās 
+Kvadrātu malu garumi attiecīgi ir $1\ m$, $2\ m$ un $3\ m$. levērojam, ka lauztās 
 līnijas $ABCDE$ garums ir tāds pats kā lauztās līnijas $AKE$ garums un lauztās 
 līnijas $JIHGF$ garums ir tāds pats kā lauztās līnijas $JMF$ garums (skat. 
-10.att.). Tad dotās figūras garums ir $1+2+3=6$ m un platums ir $3$ m. Līdz ar 
-to figūras perimetrs ir $(6+3) \cdot 2=18$ m.
+10.att.). Tad dotās figūras garums ir $1+2+3=6 m$ un platums ir $3 m$. Līdz ar 
+to figūras perimetrs ir $(6+3) \cdot 2=18 m$.
 
 
 
@@ -663,8 +663,8 @@ vietā svaru kausā ieliekam abas nesvērtās monētas. lespējami divi gadījum
 
 # <lo-sample/> LV.NOL.2020.9.1.
 
-Vienādsānu trijstūra pamata malas garums ir $10$ cm, bet perimetrs ir mazāks 
-nekā $30$ cm. Kāds var būt trijstūra sānu malas garums?
+Vienādsānu trijstūra pamata malas garums ir $10 cm$, bet perimetrs ir mazāks 
+nekā $30 cm$. Kāds var būt trijstūra sānu malas garums?
 
 <small>
 
@@ -686,7 +686,7 @@ x<10
 
 Lai trijstūris eksistētu, jāizpildās trijstūra nevienādībai, tas ir, $x+10>x$ 
 (patiesa visām $x$ vērtībām) un $x+x>10$ jeb $x>5$. Līdz ar to $x \in(5; 10)$ 
-jeb trijstūra sānu malas garums ir lielāks nekā $5$ cm un mazāks nekā $10$ cm.
+jeb trijstūra sānu malas garums ir lielāks nekā $5 cm$ un mazāks nekā $10 cm$.
 
 
 
