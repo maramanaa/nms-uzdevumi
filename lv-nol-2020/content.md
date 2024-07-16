@@ -97,7 +97,7 @@ Sagriez 5.att. doto figūru divpadsmit 6.att. figūrās!
 
 Skat., piemēram, 7.att.
 
-![](LV.NOL.2021.5.3A.png)
+![](LV.NOL.2020.5.3A.png)
 
 
 
