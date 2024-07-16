@@ -277,7 +277,7 @@ $14$, **b)** $15$?
 
 Sešciparu naturāliem skaitļiem katrs cipars aizstāts ar burtu tā, ka vienādi 
 burti aizstāj vienādus ciparus, bet dažādi burti - dažāus ciparus. Zināms, ka 
-trīs skaitļi, kam pēc aizstāšanas atbilst vārdi $AGNESE, ASTERE$ un $SNIEGS$, 
+trīs skaitļi, kam pēc aizstāšanas atbilst vārdi $AGNESE,\ ASTERE$ un $SNIEGS$, 
 visi dalās ar $8$. Vai iespējams, ka skaitlis, kam atbilst vārds $GRIEZE$, 
 dalās ar $8$?
 
@@ -291,7 +291,7 @@ dalās ar $8$?
 ## Atrisinājums
 
 Skaitlis dalās ar $8$, ja tā pēdējo trīs ciparu veidotais skaitlis dalās ar 
-$8$. Pieņemsim, ka visi skaitļi $ESE, ERE, EGS$ un $EZE$ dalās ar $8$.
+$8$. Pieņemsim, ka visi skaitļi $ESE,\ ERE,\ EGS$ un $EZE$ dalās ar $8$.
 
 levērojam, ka ar $8$ dalās tikai pāra skaitļi, tāpēc burtiem $E$ un $S$ atbilst
 pāra cipari.
@@ -318,8 +318,8 @@ Līdz ar to esam pamatojuši, ka skaitlis, kam atbilst vārds $GRIEZE$, nedalās
 $8$.
 
 $Piezīme.$ Viens derīgs skaitļu komplekts iegūstams, ja burtus aizvieto šādi: 
-$A=9, G=2, N=3, E=0, S=4, T=6, R=8, I=5, Z=1$ (der arī $Z=7$). Tādā gadījumā 
-vārdam $AGNESE$ atbilst skaitlis $923040, ASTERE - 946080, SNIEGS - 435024$ un 
+$A=9,\ G=2,\ N=3,\ E=0,\ S=4,\ T=6,\ R=8,\ I=5,\ Z=1$ (der arī $Z=7$). Tādā gadījumā 
+vārdam $AGNESE$ atbilst skaitlis $923040,\ ASTERE - 946080,\ SNIEGS - 435024$ un 
 $GRIEZE - 285010$.
 
 
@@ -342,15 +342,15 @@ Meklētās taisnes vienādojums ir formā $=kx+b$, kur
 $k \in \mathbb{R}, b \in \mathbb{R}$. Sākumā atrodam ordinātu punktam, kurā 
 meklētā taisne krusto doto taisni $y=2019 \cdot 0-2020=-2020$. Tātad meklētā un
 dotā taisne krustojas punktā $(0; -2020)$. Līdz ar to $b=-2020$. Tā kā meklētā 
-taisne iet caur punktu $(14; -2006)$, tad iegūstam vienadojumu $-2006=14k-2020$
+taisne iet caur punktu $(14; -2006)$, tad iegūstam vienādojumu $-2006=14k-2020$
 jeb $k=1$. Tātad meklētās taisnes vienādojums ir $y=x-2020$.
 
 
 
 # <lo-sample/> LV.NOL.2020.7.2.
 
-Uz tāfeles rindā uzrakstīti nepāra skaitļi $1; 3; 5; \ldots ; 2021; 2023$. 
-Katram no tiem priekšā pierakstīa vai nu "+", vai "-" zīmi. Vai var gadīties, 
+Uz tāfeles rindā uzrakstīti nepāra skaitļi $1;\ 3;\ 5;\ \ldots ;\ 2021;\ 2023$. 
+Katram no tiem priekšā pierakstīja vai nu "+", vai "-" zīmi. Vai var gadīties, 
 ka iegūtās izteiksmes vērtība ir **a)** $4$; **b)** $1$?
 
 <small>
@@ -363,7 +363,7 @@ ka iegūtās izteiksmes vērtība ir **a)** $4$; **b)** $1$?
 ## Atrisinājums
 
 **a)** Jā, iegūtās izteiksmes vērtība var būt $4$. Apskatām četrus pēc kārtas 
-	   esošus naturālus nepāra skaitļus $2n-1; 2n+1; 2n+3; 2n+5$. levērojam, ka
+	   esošus naturālus nepāra skaitļus $2n-1;\ 2n+1;\ 2n+3;\ 2n+5$. levērojam, ka
 	   katram no tiem var pierakstīt priekšā vai nu "+", vai "-" zīmi tā, lai 
 	   iegūtu summu $0$:
 
@@ -575,7 +575,7 @@ Aprēķini trijstūra $ABC$ leņķus!
 Trijstūris $ABM$ ir vienādsānu, jo $AB=BM$ (pēc dotā), tāpēc apzīmējam 
 $\sphericalangle BAM=\sphericalangle BMA=2 \alpha$ un pēc bisektrises 
 definīcijas $\sphericalangle BAK=\alpha$ (skat. 21.att.). Tā kā trijstūra 
-$ABM$ virsotnes lenkis $\sphericalangle ABM=180^{\circ}-4 \alpha$, tad 
+$ABM$ virsotnes leņķis $\sphericalangle ABM=180^{\circ}-4 \alpha$, tad 
 $\sphericalangle ABK=$ $2 \sphericalangle ABM=360^{\circ}-8 \alpha$. levērojam,
 ka
 
@@ -617,7 +617,7 @@ rūtiņai ir vismaz divas blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurā
 kopīga mala), un aplūkojam to rūtiņu, kurā ierakstīts skaitlis $3n$. Šim 
 skaitlim tikai viens no tabulā ierakstītajiem skaitļiem var nodrošināt 
 starpību, kas ir vismaz $3n$, tas ir skaitlis $6n$. Esam ieguvuši pretrunu, 
-tātad derīgs tabulas aizpildijums ar $K \geq 3 n$ neeksistē.
+tātad derīgs tabulas aizpildījums ar $K \geq 3 n$ neeksistē.
 
 Ja $K=3n-1$, tad tabulu var aizpildīt, piemēram, kā parādīts 22.att., kur 
 blakus rūtiņās ierakstīto skaitļu starpības periodiski atkārtojas.
@@ -727,7 +727,7 @@ kas arī bija jāpierāda.
 
 Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ iekšēji pieskaras punktā $A$ 
 ($\omega_{2}$ atrodas $\omega_{1}$ iekšpusē) un $\omega_{1}$ centrs neatrodas 
-$\omega_{2}$ iekšpusē. Riņķa līnijas $\omega_{1}$ diametrs $AB$ škērso 
+$\omega_{2}$ iekšpusē. Riņķa līnijas $\omega_{1}$ diametrs $AB$ šķērso 
 $\omega_{2}$ punktā $C$. Zināms, ka $\omega_{1}$ hordas $DE$, kas iet caur $C$ 
 perpendikulāri $AB$, garums sakrīt ar $BC$ garumu. Aprēķināt $\omega_{1}$ un 
 $\omega_{2}$ diametru garumu attiecību $\frac{AB}{AC}$.
@@ -814,7 +814,7 @@ divām kartītēm, uz kurām uzrakstīts skaitlis $2$, viena atrodas vietā ar p
 numuru, otra - vietā ar nepāra numuru. Tas ir spēkā arī kartītēm, uz kurām 
 rakstīts $4$. Tātad no šīm četrām kartītēm divas atrodas vietās ar pāra numuru,
 bet otras divas - vietās ar nepāra numuru. Abas kartītes, uz kurām ir rakstīts 
-viens un tas pats nepāra skaitlis ($1, 3$ vai $5$), atrodas vietās, kuru 
+viens un tas pats nepāra skaitlis ($1,\ 3$ vai $5$), atrodas vietās, kuru 
 numuriem ir vienāda paritāte (tas ir, abi ir pāra vai abi nepāra), tātad tās 
 izmaina pāra vietās esošo kartīšu skaitu par pāra skaitli ($0$ vai $2$). 
 Redzam, ka kopā vietās ar pāra numuriem atrodas pāra skaits kartīšu (tāpat arī 
@@ -904,12 +904,9 @@ $$\begin{gathered}
 
 Pārveidojam vienādības kreisās puses izteiksmi:
 
-$$\begin{gathered}
-\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{k^{2}}{(2k-1)(2k+1)}+\frac{(k+1)^{2}}{(2k+1)(2k+3)}=\frac{k(k+1)}{2(2k+1)}+\frac{(k+1)^{2}}{(2k+1)(2k+3)}= \\
-\text { induktivais pienēmums } \\
-=\frac{k+1}{2k+1}\left(\frac{k}{2}+\frac{k+1}{2k+3}\right)=\frac{k+1}{2k+1}\left(\frac{2k^{2}+3k+2k+2}{2(2k+3)}\right)=\frac{(k+1)\left(2 k^{2}+5k+2\right)}{(2k+1) 2(2k+3)}= \\
-=\frac{(k+1)(2k+1)(k+2)}{(2k+1)2(2k+3)}=\frac{(k+1)(k+2)}{2(2k+3)}
-\end{gathered}$$
+$\underbrace{\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{k^{2}}{(2k-1)(2k+1)}}_{induktīvais\ pieņēmums}+\frac{(k+1)^{2}}{(2k+1)(2k+3)}=\frac{k(k+1)}{2(2k+1)}+\frac{(k+1)^{2}}{(2k+1)(2k+3)}= \\$  
+$=\frac{k+1}{2k+1}\left(\frac{k}{2}+\frac{k+1}{2k+3}\right)=\frac{k+1}{2k+1}\left(\frac{2k^{2}+3k+2k+2}{2(2k+3)}\right)=\frac{(k+1)\left(2 k^{2}+5k+2\right)}{(2k+1) 2(2k+3)}= $  
+$=\frac{(k+1)(2k+1)(k+2)}{(2k+1)2(2k+3)}=\frac{(k+1)(k+2)}{2(2k+3)}$
 
 $Secinājums.$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir 
 spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, secinām, ka 
@@ -931,8 +928,8 @@ kas veido ģeometrisko progresiju?
 
 ## Atrisinājums
 
-Jā, eksistē, piemēram, trijstūris ar malu garumiem $4, 6$ un $9$ , jo šie 
-skaitļi apmierina trijstūra nevienādību: $4+6>9, 4+9>6$ un $6+9>4$ un tie veido
+Jā, eksistē, piemēram, trijstūris ar malu garumiem $4,\ 6$ un $9$ , jo šie 
+skaitļi apmierina trijstūra nevienādību: $4+6>9,\ 4+9>6$ un $6+9>4$ un tie veido
 ģeometrisko progresiju, kuras pirmais loceklis ir $4$ un kvocients $1,5$.
 
 
@@ -941,7 +938,7 @@ skaitļi apmierina trijstūra nevienādību: $4+6>9, 4+9>6$ un $6+9>4$ un tie ve
 
 Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ iekšēji pieskaras punktā $A$ 
 ($\omega_{2}$ atrodas $\omega_{1}$ iekšpusē) un $\omega_{1}$ centrs neatrodas 
-$\omega_{2}$ iekšpusē. Riņķa līnijas $\omega_{1}$ diametrs $AB$ škērso 
+$\omega_{2}$ iekšpusē. Riņķa līnijas $\omega_{1}$ diametrs $AB$ šķērso 
 $\omega_{2}$ punktā $C$. Pieskares $BF$, kas no $B$ vilkta pret $\omega_{2}$, 
 un $\omega_{1}$ hordas $DE$, kas iet caur $C$ perpendikulāri $AB$, garumi 
 sakrīt. Aprēķināt $\omega_{1}$ un $\omega_{2}$ diametru garumu attiecību 
@@ -1020,7 +1017,7 @@ divām kartītēm, uz kurām uzrakstīts skaitlis $2$, viena atrodas vietā ar p
 numuru, otra - vietā ar nepāra numuru. Tas ir spēkā arī kartītēm, uz kurām 
 rakstīts $4$ un arī $6$. Tātad no šīm sešām kartītēm trīs atrodas vietās ar 
 pāra numuru, bet otras trīs - vietās ar nepāra numuru. Abas kartītes, uz kurām 
-ir rakstīts viens un tas pats nepāra skaitlis ($1, 3$ vai $5$), atrodas vietās,
+ir rakstīts viens un tas pats nepāra skaitlis ($1,\ 3$ vai $5$), atrodas vietās,
 kuru numuriem ir vienāda paritāte (tas ir, abi ir pāra vai abi nepāra), tātad 
 tās izmaina pāra vietās esošo kartīšu skaitu par pāra skaitļi ($0$ vai $2$). 
 Redzam, ka kopā vietās ar pāra numuriem atrodas nepāra skaits kartīšu (tāpat 
@@ -1073,7 +1070,7 @@ vērtību ir bezgalīgi daudz.
 levērojam, ka vismazākā skaitļu summa ir pirmajā rindā, bet katrā nākamajā 
 rindā summa ir tieši par $2N$ lielāka. Ja pirmās rindas rūtiņās ierakstīto 
 skaitļu summa ir $s$, tad otrajā rindā skaitļu summa ir $s+2N$, trešajā rindā 
-skaitlu summa ir $s+4N, \ldots$, pēdējā rindā skaitļu summa ir $s+2(N-1)N$. 
+skaitļu summa ir $s+4N, \ldots$, pēdējā rindā skaitļu summa ir $s+2(N-1)N$. 
 Visu tabulā ierakstīto skaitļu summa ir $Ns+2N(1+2+\cdots+(N-1))$.
 
 Aprēķinām pirmās rindas skaitļu summu:
@@ -1167,7 +1164,7 @@ $10$ piecinieki pēc kārtas.
 
 # <lo-sample/> LV.NOL.2020.11.3.
 
-Divas ringa līnijas $\omega_{1}$ un $\omega_{2}$ ārēji pieskaras. Taisne $t$ 
+Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ ārēji pieskaras. Taisne $t$ 
 pieskaras $\omega_{1}$ punktā $A$, bet $\omega_{2}$ - punktā $B$. Ir novilkts 
 $\omega_{1}$ diametrs $AC$ un no punkta $C$ - pieskare $CD$ pret $\omega_{2}$ 
 ($D$ - pieskaršanās punkts). Pierādīt, ka $AC=CD$!
@@ -1270,7 +1267,7 @@ n^{3}-9n^{2}+21n-18=0
 
 levērojam, ka $6^{3}=5^{3}+4^{3}+3^{3}$, tātad $n=6$ ir dotā vienādojuma sakne 
 un vienādojumu $n^{3}-9n^{2}+21n-18=0$ var pārveidot formā (izdalot polinomu ar
-binomu $(n-6)$):
+binomu $(n-6)$ ):
 
 $$(n-6)\left(n^{2}-3n+3\right)=0$$
 
@@ -1284,7 +1281,7 @@ $\pm 1; \pm 2; \pm 3; \pm 6; \pm 9; \pm 18$.
 
 # <lo-sample/> LV.NOL.2020.12.1.
 
-Virkne $\left(x_{n}\right)$ definēta rekurenti: $x_{1}=1, x_{2}=-3, x_{3}=-29$ 
+Virkne $\left(x_{n}\right)$ definēta rekurenti: $x_{1}=1,\ x_{2}=-3,\ x_{3}=-29$ 
 un $x_{n+3}=9x_{n+2}-26x_{n+1}+24x_{n}$ visiem naturāliem $n$. Pierādīt, ka 
 $x_{n}=2^{n}+3^{n}-4^{n}$ visiem naturāliem $n$.
 
@@ -1451,7 +1448,7 @@ levadīsim $1$ un nospiedīsim <uz augšu>:
   nospiedīsim <uz augšu>:
 - ja lifts uzbrauks uz augšu, tad esam klāt,
 - ja nē, tad tas nobrauks $2$ stāvus uz leju (kopā jau esam $3$ stāvus uz 
-  leju), un tad ievadīsim $4$ un nospiedīsim <uz augšu>: $\square$
+  leju), un tad ievadīsim $4$ un nospiedīsim <uz augšu>:
 - ja lifts uzbrauks uz augšu, tad esam klāt,
 - ja nē, tad tas nobrauks $4$ stāvus uz leju (kopumā jau esam $7$ stāvus uz 
   leju), un tad ievadīsim $8$ un nospiedīsim <uz augšu>:
@@ -1515,7 +1512,7 @@ atlikumu pāri, kas summā dod $12$, tie ir $(0; 12)$ vai $(3; 9)$.
   atlikumu $0$) no skaitļiem $x^{4}$ vai $y^{4}$ dalās ar $13$, bet otrs 
   nedalās, un 
   $x^{4}+y^{4}+1 \equiv 0+12^{2}+1 \equiv(-1)^{2}+1 \equiv 2(\bmod 13)$, tātad
-  šajā gadījumā tieši viens no skaitļiem $x^{4}, y^{4}, x^{4}+y^{4}+1$ dalās ar 
+  šajā gadījumā tieši viens no skaitļiem $x^{4},\ y^{4},\ x^{4}+y^{4}+1$ dalās ar 
   $13$.
 
 - Ja atlikumu pāris ir $(3; 9)$, tad $x^{4} \equiv 3^{2} \equiv 9(\bmod 13)$ un
