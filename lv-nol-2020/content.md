@@ -1305,7 +1305,7 @@ $x_{2}=2^{2}+3^{2}-4^{2}=-3$. Ja $n=3$, tad $x_{3}=2^{3}+3^{3}-4^{3}=-29$.
 $Induktīvais\ pieņēmums.$ Pieņemsim, ka formula ir spēkā, ja $n=k, n=k+1$ un 
 $n=k+2$, tas ir,
 
-$x_{k}=2^{k}+3^{k}-4^{k}, \quad x_{k+1}=2^{k+1}+3^{k+1}-4^{k+1} \quad $ un $\quad x_{k+2}=2^{k+2}+3^{k+2}-4^{k+2}$
+$x_{k}=2^{k}+3^{k}-4^{k}, \quad x_{k+1}=2^{k+1}+3^{k+1}-4^{k+1} \quad$ un $\quad x_{k+2}=2^{k+2}+3^{k+2}-4^{k+2}$
 
 $Induktīvā\ pāreja.$ Pierādīsim, ka formula ir spēkā arī tad, ja $n=k+3$, tas 
 ir, $x_{k+3}=2^{k+3}+3^{k+3}-4^{k+3}$. Izmantojot induktīvo pieņēmumu, iegūstam
