@@ -16,18 +16,18 @@ $\overline{xzy}<\overline{yaz}<\overline{yax}<\overline{zxa}$?
 
 Pieņemsim, ka šajā virknē katrs nākamais skaitlis ir lielāks nekā 
 iepriekšējais. Lielāks ir tas skaitlis, kuram lielāks ir vecākās šķiras cipars.
-Aplūkojot pirmo, otro un ceturto skaitli, iegūstam, ka $x < y < z$. Salīdzinot otro
-un trešo skaitli, iegūstam $z < x$. legūta pretruna, tātad nevar būt, ka šajā 
-virknē katrs nākamais skaitlis ir lielāks nekā iepriekšējais.
+Aplūkojot pirmo, otro un ceturto skaitli, iegūstam, ka $x < y < z$. Salīdzinot 
+otro un trešo skaitli, iegūstam $z < x$. legūta pretruna, tātad nevar būt, ka 
+šajā virknē katrs nākamais skaitlis ir lielāks nekā iepriekšējais.
 
 
 
 # <lo-sample/> LV.NOL.2020.5.2.
 
 Valentīns savā burtnīcā zīmē figūras, pirmās trīs no tām parādītas 1.att. Pirmā
-figūra sastāv no pieciem vienādiem kvadrātiem un tās perimetrs ir $12~\mathrm{cm}$. 
-Katru nākamo figūru Valentīns iegūst, iepriekšējai figūrai labajā pusē 
-piezīmējot klāt vienu 2.att. doto figūru.
+figūra sastāv no pieciem vienādiem kvadrātiem un tās perimetrs ir 
+$12~\mathrm{cm}$. Katru nākamo figūru Valentīns iegūst, iepriekšējai figūrai 
+labajā pusē piezīmējot klāt vienu 2.att. doto figūru.
 
 ![](LV.NOL.2020.5.2.png)
 
