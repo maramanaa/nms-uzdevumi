@@ -162,7 +162,7 @@ meklētais skaitlis ir $840-1=839$.
 
 # <lo-sample/> LV.NOL.2020.6.1.
 
-Doti trīs kvadrāti ar laukumiem attiecīgi $1m^{2}, 4m^{2}$ un $9m^{2}$. 
+Doti trīs kvadrāti ar laukumiem attiecīgi $1 m^{2}, 4 m^{2}$ un $9 m^{2}$. 
 Kvadrāti salikti viens virs otra tā, kā parādīts 9.att. Aprēķini iegūtās 
 figūras perimetru!
 
