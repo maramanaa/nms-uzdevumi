@@ -373,7 +373,7 @@ Pavisam uz tāfeles ir uzrakstīti $1012$ skaitļi. Sagrupējam skaitļus no $9$
 līdz $2023$ grupās pa četri tā, lai katrā grupā esošo skaitļu summa būtu $0$, 
 bet skaitļiem $1; 3; 5; 7$ priekšā liekam attiecīgi "- + - +":
 
-$$\underbrace{-1+3-5+7}{=4} \underbrace{+9-11-13+15}{=0}+\ldots \underbrace{+2017-2019-2021+2023}_{=0}=4$$
+$$\underbrace{-1+3-5+7}_{=4} \underbrace{+9-11-13+15}_{=0}+\ldots \underbrace{+2017-2019-2021+2023}_{=0}=4$$
 
 **b)** Nē, nevar iegūt vērtību $1$. Tā kā uz tāfeles ir uzrakstīts pāra skaits 
 	   ($1012$ skaitļi) nepāra skaitļu, tad to summa būs pāra skaitlis, jo, 
