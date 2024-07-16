@@ -1157,7 +1157,7 @@ naturālus skaitļus, no kuriem pirmais sākas ar $m$ pieciniekiem un beidzas $n
 nullēm un $m \geq 10$ ir izvēlēts tāds, lai šis pirmais skaitlis būtu lielāks 
 nekā mūsu aritmētiskās progresijas pirmais loceklis:
 
-$\underbrace{5555 \ldots 555}_{m\ piecinieki}} \underbrace{00 \ldots 00}_{n\ nulles}} ; \quad 5 \ldots 500 \ldots 01 ; \quad 5 \ldots 500 \ldots 02 ; \ldots, 5 \ldots 599 \ldots 98 ; \quad 5 \ldots 599 \ldots 99$$
+$$\underbrace{5555 \ldots 555}_{m\ piecinieki} \underbrace{00 \ldots 00}_{n\ nulles}; \quad 5 \ldots 500 \ldots 01; \quad 5 \ldots 500 \ldots 02; \ldots, 5 \ldots 599 \ldots 98; \quad 5 \ldots 599 \ldots 99.$$
 
 Tā kā šie ir vairāk nekā $d$ pēc kārtas sekojoši naturāli skaitļi, tad vismaz 
 viens no tiem piederēs dotajai aritmētiskajai progresijai un tajā ir vismaz 
