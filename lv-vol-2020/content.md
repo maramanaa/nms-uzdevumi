@@ -808,14 +808,6 @@ vērtība nav naturāla skaitļa kvadrāts!
 Doto summu apzīmējam ar $S$. Aplūkojam katru saskaitāmo un summu $S$ pēc moduļa
 $8$ dažādām $n$ vērtībām.
 
-| $\boldsymbol{n}$ | $\mathbf{4}^{\boldsymbol{n}}$ | $\mathbf{5}^{\boldsymbol{n}}$ | $\mathbf{6}^{\boldsymbol{n}}$ | $\mathbf{7}^{\boldsymbol{n}}$ | $\mathbf{8}^{\boldsymbol{n}}$ | $\mathbf{9}^{\boldsymbol{n}}$ | $\mathbf{10}^{\boldsymbol{n}}$ | $\mathbf{11}^{\boldsymbol{n}}$ | $\mathbf{12}^{\boldsymbol{n}}$ | $\mathbf{13}^{\boldsymbol{n}}$ | $\boldsymbol{S}$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $\mathbf{1}$ | 4 | 5 | 6 | 7 | 0 | 1 | 2 | 3 | 4 | 5 | $\mathbf{5}$ |
-| $\mathbf{2}$ | 0 | 1 | 4 | 1 | 0 | 1 | 4 | 1 | 0 | 1 | $\mathbf{5}$ |
-| $\mathbf{3}$ | 0 | 5 | 0 | 7 | 0 | 1 | 0 | 3 | 0 | 5 | $\mathbf{5}$ |
-| $\mathbf{4}$ | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | $\mathbf{5}$ |
-| $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ |
-
 | $\boldsymbol{n}$ | $\mathbf{1}$ | $\mathbf{2}$ | $\mathbf{3}$ | $\mathbf{4}$ | $\cdots$ |
 | ---------------- | ------------ | ------------ | ------------ | ------------ | -------- |
 | $\mathbf{4}^{\boldsymbol{n}}$ | $4$ | $0$ | $0$ | $0$ | $\cdots$ |
@@ -840,10 +832,6 @@ levērojam, ka
 Tātad visām $n$ vērtībām summas $S$ vērtība pēc moduļa $8$ ir vienāda ar $5$.
 
 Naturālu skaitļu kvadrātu vērtības pēc moduļa $8$ var būt tikai $0,\ 1$ vai $4$:
-
-| $n(\bmod 8)$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| $n^{2}(\bmod 8)$ | 0 | 1 | 4 | 1 | 0 | 1 | 4 | 1 |
 
 | $n(\bmod 8)$ | $n^{2}(\bmod 8)$ |
 | ------------ | ---------------- |
