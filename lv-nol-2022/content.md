@@ -1059,10 +1059,10 @@ $x^{5}+y^{5}$ dalās ar $25$.
 Apskatām izteiksmi $(x+y)^{5}$ un to ekvivalenti pārveidojam:
 
 
-$(x+y)^{5}=x^{5}+5x^{4}y+10x^{3}y^{2}+10x^{2}y^{3}+5xy^{4}+y^{5}=\left(x^{5}+y^{5}\right)+5xy\left(x^{3}+y^{3}\right)+10x^{2}y^{2}(x+y)=$
-$=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-xy+y^{2}\right)+10x^{2}y^{2}(x+y)=$
-$\quad=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-x y+y^{2}+2xy\right)$
-Izsakot $x^{5}+y^{5}$, iegūstam
+$(x+y)^{5}=x^{5}+5x^{4}y+10x^{3}y^{2}+10x^{2}y^{3}+5xy^{4}+y^{5}=\left(x^{5}+y^{5}\right)+5xy\left(x^{3}+y^{3}\right)+10x^{2}y^{2}(x+y)=$  
+$=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-xy+y^{2}\right)+10x^{2}y^{2}(x+y)=$  
+$\quad=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-x y+y^{2}+2xy\right)$  
+Izsakot $x^{5}+y^{5}$, iegūstam  
 $\quad x^{5}+y^{5}=(x+y)^{5}-5(x+y)xy\left(x^{2}+xy+y^{2}\right)$
 
 
