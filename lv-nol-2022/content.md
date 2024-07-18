@@ -329,7 +329,7 @@ skaitlis ar $27$ nedalās, jo $9981: 27=369$, atl. $18$ .
 # <lo-sample/> LV.NOL.2022.7.3
 
 Dots trijstūris $ABC$ un punkts $M$ trijstūra iekšpusē. Pierādīt, ka
-$MA+MB+M C>\frac{1}{2} P_{ABC}$.
+$MA+MB+MC > \frac{1}{2} P_{ABC}$.
 
 <small>
 
