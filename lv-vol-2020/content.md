@@ -1,7 +1,7 @@
 # <lo-sample/> LV.VOL.2020.9.1.
 
-Reālus skaitļus $a$ un $b$ saista sakarība $\frac{4a^{2}-7 b^{2}}{ab}=12$. Kāda
-var būt $\frac{4a^{2}+7 b^{2}}{ab}$ vērtība?
+Reālus skaitļus $a$ un $b$ saista sakarība $\frac{4a^{2}-7b^{2}}{ab}=12$. Kāda
+var būt $\frac{4a^{2}+7b^{2}}{ab}$ vērtība?
 
 <small>
 
@@ -32,7 +32,7 @@ $$\frac{4a^{2}+7b^{2}}{ab}=\frac{(7b)^{2}+7 \cdot b^{2}}{\frac{7}{2} b \cdot b}=
 $$\frac{4a^{2}+7b^{2}}{ab}=\frac{4a^{2}+7(-2a)^{2}}{-2a^{2}}=\frac{4a^{2}+28a^{2}}{-2a^{2}}=\frac{32}{-2}=-16$$
 
 Tātad izteiksmes $\frac{4a^{2}+7b^{2}}{ab}$ vērtība ir vai nu $16$ (ja 
-$a=\frac{7b}{2}$ ), vai $-16$ (ja $b=-2a$).
+$a=\frac{7b}{2}$), vai $-16$ (ja $b=-2a$).
 
 $Piezīme.$ Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
 puses izteiksmes skaitītāja katru saskaitāmo izdalot ar $ab$, apzīmējot 
@@ -233,7 +233,7 @@ Pierādīt, ka taisne $BH$ sadala nogriezni $CD$ uz pusēm!
 
 Taisnes $BH$ krustpunktu ar $CD$ apzīmējam ar $P$ (skat. 5.att.). Tātad 
 jāpierāda, ka $CP=PD$. Apzīmējam 
-$\sphericalangle BAC=\sphericalangle CAD=2 \alpha$ (jo $A C$ ir leṇka $A$ bisektrise). Tā kā trijstūris $A H D$ ir taisnleṇka, tad
+$\sphericalangle BAC=\sphericalangle CAD=2 \alpha$ (jo $A C$ ir leṇka $A$ bisektrise). Tā kā trijstūris $AHD$ ir taisnleṇka, tad
 
 $$\sphericalangle ADH=90^{\circ}-2 \alpha$$
 
@@ -522,7 +522,7 @@ Apzīmējam $a_{2}=a_{1}+p$, kur $p>0$. Vispārīgā veidā izteiksim dažus nā
 virknes locekļus:
 
 $$\begin{gathered}
-a_{3}=a_{2}+a_{1}=2 a_{1}+p \\
+a_{3}=a_{2}+a_{1}=2a_{1}+p \\
 a_{4}=a_{3}+a_{2}=2a_{1}+p+a_{1}+p=3a_{1}+2p \\
 a_{5}=5a_{1}+3p \\
 a_{6}=8a_{1}+5p \\
@@ -575,7 +575,7 @@ $$\overrightarrow{AM}=\frac{2}{3} \overrightarrow{AD}=\left(\frac{x_{B}+x_{C}-2 
 
 Izmantojot vektora $\overrightarrow{AM}$ koordinātas un punkta $A$ koordinātas,
 nosakām punkta $M$ koordinātas: 
-$M\left(\frac{x_{B}+x_{C}-2 x_{A}}{3}+x_{A}; \frac{y_{B}+y_{C}-2 y_{A}}{3}+y_{A}\right)$
+$M\left(\frac{x_{B}+x_{C}-2x_{A}}{3}+x_{A}; \frac{y_{B}+y_{C}-2y_{A}}{3}+y_{A}\right)$
 jeb $M\left(\frac{x_{A}+x_{B}+x_{C}}{3}, \frac{y_{A}+y_{B}+y_{C}}{3}\right)$.
 
 Tātad trijstūrim, kura koordinātas ir veseli skaitļi 
@@ -766,7 +766,7 @@ vienādsānu, tad $DG=GB$ un līdz ar to
 
 $$ED=EB+2BG$$
 
-Tad, izmantojot Pitagora teorēmu taisnleṇka trijstūrī $O G E$, pakāpeniski iegūstam
+Tad, izmantojot Pitagora teorēmu taisnleṇka trijstūrī $OGE$, pakāpeniski iegūstam
 
 $$\begin{gathered}
 OE^{2}=OG^{2}+EG^{2} \\
@@ -908,7 +908,7 @@ nenegatīvi veseli skaitļi, ir $2019$.
 
 **a)** Pamatosim, ka der, piemēram, skaitļi $a=2$ un $b=2021$.
 
-legūstam izteiksmi $2n+2021 m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
+legūstam izteiksmi $2n+2021m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
 summu, jo
 
 $2021 \cdot 1=2021 > 2019$;
