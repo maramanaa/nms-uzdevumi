@@ -1,7 +1,7 @@
 # <lo-sample/> LV.VOL.2020.9.1.
 
-Reālus skaitļus $a$ un $b$ saista sakarība $\frac{4a^{2}-7 b^{2}}{ab}=12$. Kāda
-var būt $\frac{4a^{2}+7 b^{2}}{ab}$ vērtība?
+Reālus skaitļus $a$ un $b$ saista sakarība $\frac{4a^{2}-7b^{2}}{ab}=12$. Kāda
+var būt $\frac{4a^{2}+7b^{2}}{ab}$ vērtība?
 
 <small>
 
@@ -32,7 +32,7 @@ $$\frac{4a^{2}+7b^{2}}{ab}=\frac{(7b)^{2}+7 \cdot b^{2}}{\frac{7}{2} b \cdot b}=
 $$\frac{4a^{2}+7b^{2}}{ab}=\frac{4a^{2}+7(-2a)^{2}}{-2a^{2}}=\frac{4a^{2}+28a^{2}}{-2a^{2}}=\frac{32}{-2}=-16$$
 
 Tātad izteiksmes $\frac{4a^{2}+7b^{2}}{ab}$ vērtība ir vai nu $16$ (ja 
-$a=\frac{7b}{2}$ ), vai $-16$ (ja $b=-2a$).
+$a=\frac{7b}{2}$), vai $-16$ (ja $b=-2a$).
 
 $Piezīme.$ Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
 puses izteiksmes skaitītāja katru saskaitāmo izdalot ar $ab$, apzīmējot 
@@ -59,7 +59,7 @@ ja $S(AMP)=S(BNP)=8$ un $S(NMP)=4$.
 levērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
 kopīga mala $MN$, tāpēc augstumi, kas no virsotnēm $A$ un $B$ novilkti pret šo 
 malu $MN$, ir vienādi jeb punkti $A$ un $B$ atrodas vienādā attālumā no 
-nogriežņa $MN$. Tātad $MN \| AB$. Apskatām attiecību
+nogriežņa $MN$. Tātad $MN \parallel AB$. Apskatām attiecību
 
 $$\frac{S(MNP)}{S(PNB)}=\frac{\frac{1}{2} MP \cdot h_{MP}}{\frac{1}{2} BP \cdot h_{BP}}$$
 
@@ -73,7 +73,7 @@ taisnēm $MN$ un $AB$. Tad
 $\frac{S(MPN)}{S(BPA)}=\left(\frac{MP}{BP}\right)^{2}=\frac{1}{4}$, no kā 
 izriet, ka $S(BPA)=4 \cdot 4=16$. Esam ieguvuši, ka $S(AMNB)=4+8 \cdot 2+16=36$
 
-Tā kā $MN \| AB$, tad $\triangle MCN \sim \triangle ACB$ un 
+Tā kā $MN \parallel AB$, tad $\triangle MCN \sim \triangle ACB$ un 
 $\frac{S(MCN)}{S(ACB)}=\left(\frac{MN}{AB}\right)^{2}=\left(\frac{1}{2}\right)^{2}$
 jeb
 
@@ -233,7 +233,7 @@ Pierādīt, ka taisne $BH$ sadala nogriezni $CD$ uz pusēm!
 
 Taisnes $BH$ krustpunktu ar $CD$ apzīmējam ar $P$ (skat. 5.att.). Tātad 
 jāpierāda, ka $CP=PD$. Apzīmējam 
-$\sphericalangle BAC=\sphericalangle CAD=2 \alpha$ (jo $A C$ ir leṇka $A$ bisektrise). Tā kā trijstūris $A H D$ ir taisnleṇka, tad
+$\sphericalangle BAC=\sphericalangle CAD=2 \alpha$ (jo $A C$ ir leṇka $A$ bisektrise). Tā kā trijstūris $AHD$ ir taisnleṇka, tad
 
 $$\sphericalangle ADH=90^{\circ}-2 \alpha$$
 
@@ -434,7 +434,7 @@ kas apvilktas ap trijstūriem $AMD$ un $DNC$, pieskaras viena otrai!
 
 Novelkam nogriezni $BD$ (skat. 8.att.). levērojam, ka 
 $\sphericalangle DAC=\sphericalangle DBC$ kā ievilktie leņķi, kas balstās uz 
-viena un tā paša loka. Tā kā $DE \| BC$, tad 
+viena un tā paša loka. Tā kā $DE \parallel BC$, tad 
 $\sphericalangle DBC=\sphericalangle BDM$ kā iekšējie škērsleņķi pie paralēlām 
 taisnēm. Līdz ar to $\sphericalangle DAC=\sphericalangle BDM$.
 
@@ -483,7 +483,7 @@ Tātad naturāla skaitļa kvadrātu, dalot ar $4$, var iegūt atlikumu $0$ vai $
 Apskatot doto izteiksmi pēc moduļa $4$, iegūstam 
 $13^{n}+10^{n}+7^{n}+3^{n} \equiv 1^{n}+2^{n}+(-1)^{n}+(-1)^{n}(\bmod 4)$. Ja 
 $n=1$, tad $13+10+7+3=33$, kas nav naturāla skaitļa kvadrāts. Ja $n$ ir lielāks
-nekā 1, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
+nekā $1$, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
 
 - ja ir pāra skaitlis, tad 
   $1^{n}+2^{n}+(-1)^{n}+(-1)^{n} \equiv 1+0+1+1=3(\bmod 4)$;
@@ -522,7 +522,7 @@ Apzīmējam $a_{2}=a_{1}+p$, kur $p>0$. Vispārīgā veidā izteiksim dažus nā
 virknes locekļus:
 
 $$\begin{gathered}
-a_{3}=a_{2}+a_{1}=2 a_{1}+p \\
+a_{3}=a_{2}+a_{1}=2a_{1}+p \\
 a_{4}=a_{3}+a_{2}=2a_{1}+p+a_{1}+p=3a_{1}+2p \\
 a_{5}=5a_{1}+3p \\
 a_{6}=8a_{1}+5p \\
@@ -575,7 +575,7 @@ $$\overrightarrow{AM}=\frac{2}{3} \overrightarrow{AD}=\left(\frac{x_{B}+x_{C}-2 
 
 Izmantojot vektora $\overrightarrow{AM}$ koordinātas un punkta $A$ koordinātas,
 nosakām punkta $M$ koordinātas: 
-$M\left(\frac{x_{B}+x_{C}-2 x_{A}}{3}+x_{A}; \frac{y_{B}+y_{C}-2 y_{A}}{3}+y_{A}\right)$
+$M\left(\frac{x_{B}+x_{C}-2x_{A}}{3}+x_{A}; \frac{y_{B}+y_{C}-2y_{A}}{3}+y_{A}\right)$
 jeb $M\left(\frac{x_{A}+x_{B}+x_{C}}{3}, \frac{y_{A}+y_{B}+y_{C}}{3}\right)$.
 
 Tātad trijstūrim, kura koordinātas ir veseli skaitļi 
@@ -729,8 +729,8 @@ $OE^{2}=OB^{2}+2 \cdot OB \cdot BE$.
 
 Apzīmējam $OB=OC=R$ (skat. 12.att.). Tā kā $C$ ir loka $AB$ viduspunkts, tad 
 $OC$ ir nogriežņa $AB$ vidusperpendikuls, kas krusto $AB$ punktā $F$. Tātad 
-$OC \| DE$. No $AO=OD$ un $OC \| DE$ izriet, ka $OC$ ir trijstūra $ADE$ 
-viduslīija. Tātad $ED=2OC=2R$.
+$OC \parallel DE$. No $AO=OD$ un $OC \parallel DE$ izriet, ka $OC$ ir trijstūra
+$ADE$ viduslīija. Tātad $ED=2OC=2R$.
 
 Taisnes $OE$ krustpunktus ar riņķa līniju apzīmējam ar $X$ un $Y$. Apskatām 
 starpību
@@ -756,8 +756,8 @@ Līdz ar to esam ieguvuši, ka $OE^{2}=OB^{2}+2 \cdot OB \cdot BE$.
 
 Novelkam rādiusu $OC$ (skat. 13.att.). Tā kā $C$ ir loka $AB$ viduspunkts, tad 
 $OC$ ir nogriežņa $AB$ vidusperpendikuls, kas $AB$ krusto punktā $F$. Tātad 
-$OC \| DE$. No $AO=OD$ un $OC \| DE$ izriet, ka $OC$ ir trijstūra $ADE$ 
-viduslīnija. Tātad
+$OC \parallel DE$. No $AO=OD$ un $OC \parallel DE$ izriet, ka $OC$ ir trijstūra
+$ADE$ viduslīnija. Tātad
 
 $$ED=2OC=2OB$$
 
@@ -766,7 +766,7 @@ vienādsānu, tad $DG=GB$ un līdz ar to
 
 $$ED=EB+2BG$$
 
-Tad, izmantojot Pitagora teorēmu taisnleṇka trijstūrī $O G E$, pakāpeniski iegūstam
+Tad, izmantojot Pitagora teorēmu taisnleṇka trijstūrī $OGE$, pakāpeniski iegūstam
 
 $$\begin{gathered}
 OE^{2}=OG^{2}+EG^{2} \\
@@ -878,7 +878,7 @@ $MNK$.
 ![](LV.VOL.2020.12.4A.png)
 
 Pierādīsim, ka šis trijstūris, kam visas malas ir vienā krāsā, nav pelēks. Ja 
-$\alpha+\beta=c, \alpha+\gamma=b$ un $\beta+\gamma=a$, kur $a, b, c$ ir 
+$\alpha+\beta=c,\ \alpha+\gamma=b$ un $\beta+\gamma=a$, kur $a, b, c$ ir 
 racionāli skaitļi, tad, saskaitot pirmās divas vienādības un ņemot vērā trešo 
 vienādību, iegūstam, ka $\alpha=\frac{c+b-a}{2}$ ir racionāls skaitlis 
 (pretruna). Tātad vienkrāsainais trijstūris ir melns un tā virsotnēs 
@@ -908,7 +908,7 @@ nenegatīvi veseli skaitļi, ir $2019$.
 
 **a)** Pamatosim, ka der, piemēram, skaitļi $a=2$ un $b=2021$.
 
-legūstam izteiksmi $2n+2021 m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
+legūstam izteiksmi $2n+2021m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
 summu, jo
 
 $2021 \cdot 1=2021 > 2019$;
@@ -970,7 +970,7 @@ levērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 | $2$ | $1010$ | $3$ | $1011$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 | $4$ | $505$ | $5$ | $506$ | $(5; 506)$ |  |
 | $5$ | $404$ | $6$ | $405$ |  | Neder, jo nav savstarpēji pirmskaitļi |
-| $10$ | $202$ | $11 | $203$ | $(11; 203)$ |  |
+| $10$ | $202$ | $11$ | $203$ | $(11; 203)$ |  |
 | $20$ | $101$ | $21$ | $102$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 
 $Piezīme.$ Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 

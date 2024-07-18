@@ -30,16 +30,18 @@ $ \left\{ \begin{array}{l}
 8x+3y=5
 \end{array} \right.$
 
-\textit {Piezīme.}  
+$\textit {Piezīme.}$  
 \textit{Piezīme.}  
 \emph {Piezīme.}  
 \textit{Piezīme}  
 \mathbf {Piezīme.}  
 /textit {Piezīme.}  
 
-AB \| BC
-AB || BC
-AB\| BC
+$AB \| BC$  AB \| BC  
+$AB \parallel BC$  
+$AB || BC$  AB || BC  
+$AB\| BC$  AB\| BC  
+$AB\|BC$  AB\|BC  
 
 $\left.A, F_{3}, E_{3}, D\right. $
 $\left A, F_{3}, E_{3}, D\right.$
