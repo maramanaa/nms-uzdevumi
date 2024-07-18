@@ -706,7 +706,8 @@ jau ir ierakstīti tabulā, tad nevar aizpildīt abas 3.att. iekrāsotās
 
 # <lo-sample/> LV.NOL.2022.10.1
 
-Doti punkti $A(21 ; 1), B(20 ; 22)$ un $C(10 ; 2)$. Uzrakstìt vienādojumu taisnei, kas iet caur punktu $C$ paralēli taisnei $A B$.
+Doti punkti $A(21; 1), B(20; 22)$ un $C(10; 2)$. Uzrakstīt vienādojumu
+taisnei, kas iet caur punktu $C$ paralēli taisnei $AB$.
 
 <small>
 
@@ -718,29 +719,43 @@ Doti punkti $A(21 ; 1), B(20 ; 22)$ un $C(10 ; 2)$. Uzrakstìt vienādojumu tais
 
 ## Atrisinājums
 
-Taisnes $A B$ vienādojums ir formā $y=k x+b$. levietojot šajā vienādojumā punktu $A$ un $B$ koordinātas, iegūstam vienādojumu sistēmu
+Taisnes $AB$ vienādojums ir formā $y=kx+b$. levietojot šajā
+vienādojumā punktu $A$ un $B$ koordinātas, iegūstam vienādojumu
+sistēmu
 
-$$
-\left\{\begin{array}{c}
-1=21 k+b \\
-22=20 k+b
-\end{array}\right.
-$$
+$$\left\{\begin{array}{c}
+1=21k+b \\
+22=20k+b
+\end{array}\right.$$
 
-Atnemot no pirmā vienādojuma otro, iegūstam, ka taisnes $A B$ virziena koeficients $k=-21$. Tātad šai taisnei paralēlas taisnes vienādojumu var uzrakstīt formā $y=-21 x+b$, jo paralēlām taisnēm ir vienādi virziena koeficienti. levietojot punkta $C$ koordinātas, iegūstam, ka $b=2+21 \cdot 10=212$. Tātad vienādojums taisnei, kas iet caur punktu $C$ paralēli taisnei $A B$, ir $y=-21 x+212$.
+Atņemot no pirmā vienādojuma otro, iegūstam, ka taisnes $AB$
+virziena koeficients $k=-21$. Tātad šai taisnei paralēlas
+taisnes vienādojumu var uzrakstīt formā $y=-21x+b$, jo paralēlām
+taisnēm ir vienādi virziena koeficienti. levietojot punkta $C$
+koordinātas, iegūstam, ka $b=2+21 \cdot 10=212$. Tātad vienādojums
+taisnei, kas iet caur punktu $C$ paralēli taisnei $AB$, ir $y=-21x+212$.
 
 
 ## Atrisinājums
 
-Uzrakstām taisnes $A B$ vienādojumu caur diviem tās punktiem: $\frac{x-21}{20-21}=\frac{y-1}{22-1}$. legūstam $21(x-21)=-1(y-1)$ jeb $y=-21 x+442$. Šīs taisnes virziena koeficients $k=-21$. Tātad šai taisnei paralēlas taisnes vienādojumu var uzrakstīt formā $y=-21 x+b$, jo paralēlām taisnēm ir vienādi virziena koeficienti. levietojot punkta $C$ koordinātas, iegūstam, ka $b=2+21 \cdot 10=212$. Tātad vienādojums taisnei, kas iet caur punktu $C$ paralēli taisnei $A B$, ir $y=-21 x+212$.
+Uzrakstām taisnes $AB$ vienādojumu caur diviem tās punktiem:
+$\frac{x-21}{20-21}=\frac{y-1}{22-1}$. legūstam
+$21(x-21)=-1(y-1)$ jeb $y=-21x+442$. Šīs taisnes virziena koeficients
+$k=-21$. Tātad šai taisnei paralēlas taisnes vienādojumu var uzrakstīt
+formā $y=-21x+b$, jo paralēlām taisnēm ir vienādi virziena koeficienti.
+levietojot punkta $C$ koordinātas, iegūstam, ka $b=2+21 \cdot 10=212$.
+Tātad vienādojums taisnei, kas iet caur punktu $C$ paralēli taisnei
+$AB$, ir $y=-21x+212$.
 
-$Piezīme.$ Uzdevumā taisnes $A B$ vienādojums nav obligāti jāiegūst, pietiek atrast taisnes $A B$ virziena koeficientu, piemēram, $k_{A B}=\frac{y_{A}-y_{B}}{x_{A}-x_{B}}$.
+$Piezīme.$ Uzdevumā taisnes $AB$ vienādojums nav obligāti jāiegūst,
+pietiek atrast taisnes $AB$ virziena koeficientu, piemēram,
+$k_{A B}=\frac{y_{A}-y_{B}}{x_{A}-x_{B}}$.
 
 
 
 # <lo-sample/> LV.NOL.2022.10.2
 
-Atrisināt reālos skaitlos vienādojumu $x^{3}-4 x^{2}+8=0$.
+Atrisināt reālos skaitļos vienādojumu $x^{3}-4 x^{2}+8=0$.
 
 <small>
 
@@ -752,30 +767,34 @@ Atrisināt reālos skaitlos vienādojumu $x^{3}-4 x^{2}+8=0$.
 
 ## Atrisinājums
 
-Uzminam, ka $x=2$ ir dotā vienādojuma sakne, jo $8-16+8=0$. Izdalot polinomus (skat. 5. att.), iegūstam $(x-2)\left(x^{2}-2 x-4\right)=0$.
+Uzminam, ka $x=2$ ir dotā vienādojuma sakne, jo $8-16+8=0$. Izdalot
+polinomus (skat. 5.att.), iegūstam $(x-2)\left(x^{2}-2x-4\right)=0$.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & \left(x^{3}-4 x^{2}+8\right):(x-2)=x^{2}-2 x-4 \\
 & \frac{x^{3}-2 x^{2}}{-2 x^{2}+8} \\
 & -2 x^{2}+4 x \\
 & -4 x+8 \\
 & \frac{-4 x+8}{0}
-\end{aligned}
-$$
+\end{aligned}$$
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-11.jpg?height=400&width=613&top_left_y=1220&top_left_x=1336)
+![](LV.NOL.2022.10.2A.png)
 
-5.att
-6.att.
-
-Katru reizinātāju pielīdzinot nullei, iegūstam, ka $x-2=0$ vai $x^{2}-2 x-4=0$. Vienādojumu $x^{2}-2 x-4=0$ risinām, atrodot diskriminantu $D=4+16=20$, tad $x_{2 ; 3}=\frac{2 \pm 2 \sqrt{5}}{2}=1 \pm \sqrt{5}$. Tātad esam ieguvuši, ka dotā vienādojuma saknes ir $x_{1}=2$ un $x_{2 ; 3}=1 \pm \sqrt{5}$.
+Katru reizinātāju pielīdzinot nullei, iegūstam, ka $x-2=0$ vai $x^{2}-2x-4=0$.
+Vienādojumu $x^{2}-2x-4=0$ risinām, atrodot diskriminantu $D=4+16=20$,
+tad $x_{2 ; 3}=\frac{2 \pm 2 \sqrt{5}}{2}=1 \pm \sqrt{5}$. Tātad esam ieguvuši,
+ka dotā vienādojuma saknes ir $x_{1}=2$ un $x_{2 ; 3}=1 \pm \sqrt{5}$.
 
 
 
 # <lo-sample/> LV.NOL.2022.10.3
 
-Divas ringa līnijas $\omega_{1}$ un $\omega_{2}$ krustojas punktos $X$ un $Y$. Caur punktu $X$ novilkta taisne $t$, kas vēlreiz krusto ringa līnijas $\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $A$ un $B$, caur punktu $Y$ paralēli $t$ novilkta taisne, kas vēlreiz krusto rị̂ka līnijas $\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $D$ un $C$. Pierādīt, ka $A B C D$ ir paralelograms.
+Divas ringa līnijas $\omega_{1}$ un $\omega_{2}$ krustojas punktos $X$ un $Y$.
+Caur punktu $X$ novilkta taisne $t$, kas vēlreiz krusto ringa līnijas
+$\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $A$ un $B$, caur punktu $Y$
+paralēli $t$ novilkta taisne, kas vēlreiz krusto riņka līnijas
+\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $D$ un $C$. Pierādīt, ka $ABCD$
+ir paralelograms.
 
 <small>
 
@@ -787,19 +806,32 @@ Divas ringa līnijas $\omega_{1}$ un $\omega_{2}$ krustojas punktos $X$ un $Y$. 
 
 ## Atrisinājums
 
-Tā kā hordas $A X$ un $D Y$ ir paralēlas (skat. 6.att.), tad rinka līnijas loki starp šīm hordām ir vienādi, tas ir, $\overline{A D}=\overline{X Y}$. Tas nozīmē, ka arī $\overline{A D Y}=\overline{X Y D}$ un vienādi ir arī ievilktie lenki, kas balstās uz šiem lokiem, tas ir, $\sphericalangle D A X=\sphericalangle A X Y$. Tā kā $\sphericalangle A X Y=180^{\circ}-\sphericalangle Y X B$ kā blakuslenki un arī $\sphericalangle B C Y=180^{\circ}-\sphericalangle Y X B$, jo ievilkta četrstūra pretējo leņku summa ir $180^{\circ}$, tad $\sphericalangle D A X=\sphericalangle B C Y$.
+Tā kā hordas $AX$ un $DY$ ir paralēlas (skat. 6.att.), tad riņka
+līnijas loki starp šīm hordām ir vienādi, tas ir,
+$\overline{AD}=\overline{XY}$. Tas nozīmē, ka arī
+$\overline{ADY}=\overline{XYD}$ un vienādi ir arī ievilktie leņķi,
+kas balstās uz šiem lokiem, tas ir,
+$\sphericalangle DAX=\sphericalangle AXY$. Tā kā
+$\sphericalangle AXY=180^{\circ}-\sphericalangle YXB$ kā blakusleņķi
+un arī $\sphericalangle BCY=180^{\circ}-\sphericalangle YXB$, jo ievilkta
+četrstūra pretējo leņku summa ir $180^{\circ}$,
+tad $\sphericalangle DAX=\sphericalangle BCY$.
 
-Analoģiski iegūstam, ka $\sphericalangle A D Y=\sphericalangle D Y X=180^{\circ}-\sphericalangle X Y C=\sphericalangle X B C$.
+Analoģiski iegūstam, ka
+$\sphericalangle ADY=\sphericalangle DYX=180^{\circ}-\sphericalangle XYC=\sphericalangle XBC$.
 
-Tā kā četrstūra $A B C D$ pretējie leņki ir pa pāriem vienāda lieluma, tad tas ir paralelograms, kas arī bija jāpierāda.
+Tā kā četrstūra $ABCD$ pretējie leņki ir pa pāriem vienāda lieluma, tad tas
+ir paralelograms, kas arī bija jāpierāda.
 
 
 
 # <lo-sample/> LV.NOL.2022.10.4
 
-a) Pierādīt, ka katram pirmskaitlim $p>3$ eksistē tāds naturāls skaitlis $n$, ka $p^{2}=24 n+1$.
+**a)** Pierādīt, ka katram pirmskaitlim $p>3$ eksistē tāds naturāls skaitlis
+$n$, ka $p^{2}=24n+1$.
 
-b) Atrast tādu saliktu skaitli $k$, kuram eksistē tāds naturāls skaitlis $m$, ka izpildās $k^{2}=24 m+1$.
+**b)** Atrast tādu saliktu skaitli $k$, kuram eksistē tāds naturāls skaitlis
+$m$, ka izpildās $k^{2}=24m+1$.
 
 <small>
 
@@ -811,25 +843,40 @@ b) Atrast tādu saliktu skaitli $k$, kuram eksistē tāds naturāls skaitlis $m$
 
 ## Atrisinājums
 
-a) Vienādību $p^{2}=24 n+1$ pārveidojam formā $n=\frac{p^{2}-1}{24}$. Pierādīsim, ka katram pirmskaitlim $p$, kas lielāks nekā 3, skaitlis $\left(p^{2}-1\right)$ dalās ar 24 , tādā gadījumā $n$ vienmēr būs naturāls skaitlis.
+**a)** Vienādību $p^{2}=24n+1$ pārveidojam formā $n=\frac{p^{2}-1}{24}$.
+Pierādīsim, ka katram pirmskaitlim $p$, kas lielāks nekā $3$, skaitlis
+$\left(p^{2}-1\right)$ dalās ar $24$ , tādā gadījumā $n$ vienmēr būs
+naturāls skaitlis.
 
-Tā kā $24=3 \cdot 8$ un abi šie skaitļi ir savstarpēji pirmskaitļ, tad jāpierāda, ka $p^{2}-1=(p-1)(p+1)$ dalās ar 3 un 8 .
+Tā kā $24=3 \cdot 8$ un abi šie skaitļi ir savstarpēji pirmskaitļ, tad
+jāpierāda, ka $p^{2}-1=(p-1)(p+1)$ dalās ar $3$ un $8$.
 
-No trīs pēc kārtas sekojošiem naturāliem skaitliem $p-1 ; p ; p+1$ viens noteikti dalās ar 3 . Tā kā $p$ ir pirmskaitlis un $p>3$, tad $p$ ar 3 nedalās. Līdz ar to ar 3 dalās vai nu $(p-1)$, vai $(p+1)$. Tas nozīmē, ka $\left(p^{2}-1\right)$ dalās ar 3 .
+No trīs pēc kārtas sekojošiem naturāliem skaitļiem $p-1; p; p+1$ viens
+noteikti dalās ar $3$. Tā kā $p$ ir pirmskaitlis un $p>3$, tad $p$ ar $3$
+nedalās. Līdz ar to ar $3$ dalās vai nu $(p-1)$, vai $(p+1)$. Tas nozīmē,
+ka $\left(p^{2}-1\right)$ dalās ar $3$.
 
-Tā kā gan $(p-1)$, gan $(p+1)$ ir pāra skaitli, tad tie abi dalās ar 2 , pie tam viens no tiem dalās ar 4 (katrs otrais pāra skaitlis dalās ar 4). Tas nozīmē, ka reizinājums $(p-1)(p+1)$ dalās ar 8 .
+Tā kā gan $(p-1)$, gan $(p+1)$ ir pāra skaitļi, tad tie abi dalās ar $2$,
+pie tam viens no tiem dalās ar $4$ (katrs otrais pāra skaitlis dalās ar $4$).
+Tas nozīmē, ka reizinājums $(p-1)(p+1)$ dalās ar $8$.
 
-Līdz ar to esam pierādījuši, ka $\left(p^{2}-1\right)$ dalās gan ar 3 , gan ar 8 , tas nozīmē, ka tā dalās arī ar 24 .
+Līdz ar to esam pierādījuši, ka $\left(p^{2}-1\right)$ dalās gan ar $3$, gan
+ar $8$ , tas nozīmē, ka tā dalās arī ar $24$.
 
-b) Der, piemēram, $k=25$, jo $25^{2}=24 \cdot 26+1$.
+**b)** Der, piemēram, $k=25$, jo $25^{2}=24 \cdot 26+1$.
 
-$Piezīme.$ b) gadījumā, lai atrastu skaitli $k$, var izmantot a) gadījumā izmantotos spriedumus, tas ir, meklēt $k$ kā saliktu nepāra skaitli, kas nedalās ar 3 .
+$Piezīme.$ b) gadījumā, lai atrastu skaitli $k$, var izmantot a) gadījumā
+izmantotos spriedumus, tas ir, meklēt $k$ kā saliktu nepāra skaitli, kas
+nedalās ar $3$.
 
 
 
 # <lo-sample/> LV.NOL.2022.10.5
 
-Vai izteiksmē $\pm 1 \pm 2 \pm 3 \ldots \pm 119 \pm 120$ katru " $\pm$ " zīmi iespējams aizstāt vai nu ar " + ", vai "-" tā, lai izteiksmes vērtība būtu a) 2023, b) 2022? Ja jā, tad kāds ir lielākais iespējamais "+" zīmju skaits attiecīgajā izteiksmē?
+Vai izteiksmē $\pm 1 \pm 2 \pm 3 \ldots \pm 119 \pm 120$ katru " $\pm$ " zīmi
+iespējams aizstāt vai nu ar " + ", vai "-" tā, lai izteiksmes vērtība būtu
+**a)** 2023, **b)** 2022? Ja jā, tad kāds ir lielākais iespējamais "+" zīmju
+skaits attiecīgajā izteiksmē?
 
 <small>
 
@@ -841,36 +888,48 @@ Vai izteiksmē $\pm 1 \pm 2 \pm 3 \ldots \pm 119 \pm 120$ katru " $\pm$ " zīmi 
 
 ## Atrisinājums
 
-Apzīmēsim ar $P$ - visu skaitlu summu, kuri ir ar " + " zīmi un ar $M-$ visu to pozitīvo skait|u summu, pirms kuriem ir "_" zīme. Tad iegūtās izteiksmes vērtība ir vienāda ar $P-M$. levērojam, ka $P+M=1+2+3+\cdots+120=\frac{(1+120) \cdot 120}{2}=7260$.
+Apzīmēsim ar $P$ - visu skaitļu summu, kuri ir ar " + " zīmi un ar $M-$ visu
+to pozitīvo skaitļu summu, pirms kuriem ir "-" zīme. Tad iegūtās izteiksmes
+vērtība ir vienāda ar $P-M$. levērojam, ka
+$P+M=1+2+3+\cdots+120=\frac{(1+120) \cdot 120}{2}=7260$.
 
-a) Pamatosim, ka iegūtās izteiksmes vērtība nevar būt 2023 .
+**a)** Pamatosim, ka iegūtās izteiksmes vērtība nevar būt $2023$.
 
-Tā kā $P+M=7260$, tad abi skaitļi $P$ un $M$ ir ar vienādu paritāti, tas ir, vai nu abi ir pāra skaitļi, vai arī abi ir nepāra skaitļi. Bet tādā gadījumā to starpība $(P-M)$ ir pāra skaitlis, tātad tas nevar būt 2023.
+Tā kā $P+M=7260$, tad abi skaitļi $P$ un $M$ ir ar vienādu paritāti, tas ir,
+vai nu abi ir pāra skaitļi, vai arī abi ir nepāra skaitļi. Bet tādā gadījumā
+to starpība $(P-M)$ ir pāra skaitlis, tātad tas nevar būt $2023$.
 
-b) Jā, prasītais ir iespējams. Lielākais iespējamais "+" zīmju skaits ir 95, piemēram,
+b) Jā, prasītais ir iespējams. Lielākais iespējamais "+" zīmju skaits ir $95$,
+piemēram,
 
-$$
-+1+2+\cdots+14-15+16+17+\cdots+96-97-98-\cdots-120=2022
-$$
+$$+1+2+\cdots+14-15+16+17+\cdots+96-97-98-\cdots-120=2022$$
 
-tas ir, $\frac{(1+96) \cdot 96}{2}-15-15-\frac{(97+120) \cdot 24}{2}=4656-30-2604=2022$.
+tas ir,
+$\frac{(1+96) \cdot 96}{2}-15-15-\frac{(97+120) \cdot 24}{2}=4656-30-2604=2022$.
 
 Pamatosim, ka vairāk " + " zīmes nav iespējamas. Saskaitot vienādojumus
 
-$$
-\left\{\begin{array}{l}
+$$\left\{\begin{array}{l}
 P-M=2022 \\
 P+M=7260
-\end{array}\right.
-$$
+\end{array}\right.$$
 
-iegūstam $2 P=9282$ jeb $P=4641$. Tad no sistēmas otrā vienādojuma iegūstam, ka $M=7260-4641=2619$. Ja būtu 96 (vai vairāk) "+" zīmes, tad $P$ būtu lielāks vai vienāds ar mazāko 96 naturālo skaitlu summu. Bet tā ir $1+2+\cdots+95+96=\frac{(1+96) \cdot 96}{2}=4656$, kas ir lielāka nekā $P=4641$. (Šāds novērtējums var palīdzēt atrast arī augstāk redzamo piemēru. Ja ar " + " zīmi būtu pirmie 95 skaitļi, tad $P=1+2+\cdots+95=\frac{(1+95) \cdot 95}{2}=4560$. Tā kā nepieciešams, lai $P$ būtu 4641, tātad šī summa jāpalielina par 81. Lai to izdarītu, pietiek šai summai pievienot 96 un no tās izņemt 15 (ir, protams, arī citi varianti).
+iegūstam $2P=9282$ jeb $P=4641$. Tad no sistēmas otrā vienādojuma iegūstam, ka
+$M=7260-4641=2619$. Ja būtu $96$ (vai vairāk) "+" zīmes, tad $P$ būtu lielāks
+vai vienāds ar mazāko $96$ naturālo skaitlu summu. Bet tā ir
+$1+2+\cdots+95+96=\frac{(1+96) \cdot 96}{2}=4656$, kas ir lielāka nekā $P=4641$.
+(Šāds novērtējums var palīdzēt atrast arī augstāk redzamo piemēru. Ja ar " + "
+zīmi būtu pirmie $95$ skaitļi, tad $P=1+2+\cdots+95=\frac{(1+95) \cdot 95}{2}=4560$.
+Tā kā nepieciešams, lai $P$ būtu $4641$, tātad šī summa jāpalielina par $81$.
+Lai to izdarītu, pietiek šai summai pievienot $96$ un no tās izņemt $15$
+(ir, protams, arī citi varianti).
 
 
 
 # <lo-sample/> LV.NOL.2022.11.1
 
-Punkts $P$ atrodas paralelograma $A B C D$ iekšpusē. Pierādīt, ka $\overrightarrow{P A}+\overrightarrow{P C}=\overrightarrow{P B}+\overrightarrow{P D}$.
+Punkts $P$ atrodas paralelograma $ABCD$ iekšpusē. Pierādīt, ka
+$\overrightarrow{PA}+\overrightarrow{PC}=\overrightarrow{PB}+\overrightarrow{PD}$.
 
 <small>
 
@@ -882,21 +941,22 @@ Punkts $P$ atrodas paralelograma $A B C D$ iekšpusē. Pierādīt, ka $\overrigh
 
 ## Atrisinājums
 
-Apskatām patvalīgu punktu $P$ (skat. 7.att.). Pierādāmā vienādība ir ekvivalenta ar vienādību $\overrightarrow{P A}+\overrightarrow{P C}-\overrightarrow{P B}-\overrightarrow{P D}=\overrightarrow{0}$. Pārveidosim šīs vienādības kreisās puses izteiksmi:
+Apskatām patvaļīgu punktu $P$ (skat. 7.att.). Pierādāmā vienādība ir
+ekvivalenta ar vienādību
+$\overrightarrow{PA}+\overrightarrow{PC}-\overrightarrow{PB}-\overrightarrow{PD}=\overrightarrow{0}$.
+Pārveidosim šīs vienādības kreisās puses izteiksmi:
 
-$$
-\overrightarrow{P A}+\overrightarrow{P C}-\overrightarrow{P B}-\overrightarrow{P D}=\overrightarrow{P A}+\overrightarrow{P C}+\overrightarrow{B P}+\overrightarrow{D P}=(\overrightarrow{B P}+\overrightarrow{P A})+(\overrightarrow{D P}+\overrightarrow{P C})=\overrightarrow{B A}+\overrightarrow{D C}=\overrightarrow{B A}+\overrightarrow{A B}=\overrightarrow{0}
-$$
+$$\overrightarrow{PA}+\overrightarrow{PC}-\overrightarrow{PB}-\overrightarrow{PD}=\overrightarrow{PA}+\overrightarrow{PC}+\overrightarrow{BP}+\overrightarrow{DP}=(\overrightarrow{BP}+\overrightarrow{PA})+(\overrightarrow{DP}+\overrightarrow{PC})=\overrightarrow{BA}+\overrightarrow{DC}=\overrightarrow{BA}+\overrightarrow{AB}=\overrightarrow{0}$$
 
-Līdz ar to esam pierādijuši prasīto.
+Līdz ar to esam pierādījuši prasīto.
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-13.jpg?height=328&width=656&top_left_y=432&top_left_x=797)
+![](LV.NOL.2022.11.1A.png)
 
 
 
 # <lo-sample/> LV.NOL.2022.11.2
 
-Atrisināt reālos skaitlos vienādojumu $x^{4}-4=3\left(x^{3}+x^{2}+x\right)$.
+Atrisināt reālos skaitļos vienādojumu $x^{4}-4=3\left(x^{3}+x^{2}+x\right)$.
 
 <small>
 
@@ -908,48 +968,46 @@ Atrisināt reālos skaitlos vienādojumu $x^{4}-4=3\left(x^{3}+x^{2}+x\right)$.
 
 ## Atrisinājums
 
-Ekvivalenti pārveidojam doto vienādojumu $x^{4}-3 x^{3}-3 x^{2}-3 x-4=0$.
+Ekvivalenti pārveidojam doto vienādojumu $x^{4}-3x^{3}-3x^{2}-3x-4=0$.
 
-Uzminam, ka $x=-1$ ir vienādojuma sakne, jo $1+3-3+3-4=0$. Izdalot polinomus (skat. 8.att.), iegūstam $(x+1)\left(x^{3}-4 x^{2}+x-4\right)=0$.
+Uzminam, ka $x=-1$ ir vienādojuma sakne, jo $1+3-3+3-4=0$. Izdalot polinomus
+(skat. 8.att.), iegūstam $(x+1)\left(x^{3}-4 x^{2}+x-4\right)=0$.
 
-Katru reizinātāju pielīdzinot nullei, iegūstam, ka $x+1=0$ vai $x^{3}-4 x^{2}+x-4=0$. Lineārā vienādojuma sakne ir $x=-1$, bet trešās pakāpes vienādojumu risinām ar grupēšanas paņēmienu:
+Katru reizinātāju pielīdzinot nullei, iegūstam, ka $x+1=0$ vai
+$x^{3}-4x^{2}+x-4=0$. Lineārā vienādojuma sakne ir $x=-1$, bet trešās pakāpes
+vienādojumu risinām ar grupēšanas paņēmienu:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 x^{2}(x-4)+(x-4)=0 \\
 (x-4)\left(x^{2}+1\right)=0
-\end{gathered}
-$$
+\end{gathered}$$
 
 Tātad $x=4$, bet vienādojumam $x^{2}=-1$ reālu sakņu nav.
 
 Līdz ar to dotā vienādojuma saknes ir $x_{1}=-1$ un $x_{2}=4$.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & \left(x^{4}-3 x^{3}-3 x^{2}-3 x-4\right):(x+1)=x^{3}-4 x^{2}+x-4 \\
 & \frac{x^{4}+x^{3}}{-4 x^{3}-3 x^{2}}-3 x-4 \\
 & \frac{-4 x^{3}-4 x^{2}}{x^{2}-3 x-4}
-\end{aligned}
-$$
+\end{aligned}$$
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-13.jpg?height=209&width=285&top_left_y=1690&top_left_x=779)
+![](LV.NOL.2022.11.2A.png)
 
 $Piezīme.$ Vienādojumu var risināt arī ekvivalenti to pārveidojot:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 x^{4}-1=3\left(x^{3}+x^{2}+x\right)+3 \\
 x^{4}-1=3\left(x^{3}+x^{2}+x+1\right) \\
 \left(x^{2}-1\right)\left(x^{2}+1\right)=3(x+1)\left(x^{2}+1\right)
-\end{gathered}
-$$
+\end{gathered}$$
 
 
 
 # <lo-sample/> LV.NOL.2022.11.3
 
-Trapeces $A B C D$ pamati ir $A B$ un $C D$. Diagonāles $A C$ un $B D$ krustojas punktā E. Pierādīt, ka $S_{A B E} \cdot S_{A B C D}=S_{A B C}^{2}$ !
+Trapeces $ABCD$ pamati ir $AB$ un $CD$. Diagonāles $AC$ un $BD$ krustojas
+punktā E. Pierādīt, ka $S_{ABE} \cdot S_{ABCD}=S_{ABC}^{2}$ !
 
 <small>
 
@@ -961,29 +1019,32 @@ Trapeces $A B C D$ pamati ir $A B$ un $C D$. Diagonāles $A C$ un $B D$ krustoja
 
 ## Atrisinājums
 
-Vispirms pamatosim, ka $S_{A E D}=S_{B E C}$ (skat. 9.att.). Tā kā trapeces pamati ir paralēli, tad $S_{A C D}=S_{B C D}$, jo trijstūriem ir kopīga mala $C D$ un augstumi pret šo malu ir vienāda garuma. No abām vienādības pusēm atņemot trijstūra $D E C$ laukumu, iegūstam, ka $S_{A C D}-S_{D E C}=S_{B C D}-S_{D E C}$ no kā izriet, ka $S_{A E D}=S_{B E C}$.
+Vispirms pamatosim, ka $S_{AED}=S_{BEC}$ (skat. 9.att.). Tā kā trapeces pamati
+ir paralēli, tad $S_{ACD}=S_{BCD}$, jo trijstūriem ir kopīga mala $CD$ un
+augstumi pret šo malu ir vienāda garuma. No abām vienādības pusēm atņemot
+trijstūra $DEC$ laukumu, iegūstam, ka $S_{ACD}-S_{DEC}=S_{BCD}-S_{DEC}$ no kā
+izriet, ka $S_{AED}=S_{BEC}$.
 
-Apzīmējam $S_{A E D}=S_{B E C}=c, S_{A B E}=a$ un $S_{D E C}=b$. Tādā gadijumā $S_{A B C}=a+c$ un $S_{A B C D}=a+b+2 c$.
+Apzīmējam $S_{AED}=S_{BEC}=c, S_{ABE}=a$ un $S_{DEC}=b$. Tādā gadijumā
+$S_{ABC}=a+c$ un $S_{ABCD}=a+b+2c$.
 
-Apzīmējam attālumu no virsotnes $B$ līdz malai $A C$ ar $h$ un attālumu no virsotnes $D$ līdz malai $A C$ ar $H$ un apskatām laukumu attiecību:
+Apzīmējam attālumu no virsotnes $B$ līdz malai $AC$ ar $h$ un attālumu no
+virsotnes $D$ līdz malai $AC$ ar $H$ un apskatām laukumu attiecību:
 
-$$
-\frac{S_{A B E}}{S_{A E D}}=\frac{\frac{1}{2} A E \cdot h}{\frac{1}{2} A E \cdot H}=\frac{h}{H} \quad \text { un } \quad \frac{S_{E B C}}{S_{E D C}}=\frac{\frac{1}{2} E C \cdot h}{\frac{1}{2} E C \cdot H}=\frac{h}{H}
-$$
+$$\frac{S_{ABE}}{S_{AED}}=\frac{\frac{1}{2} AE \cdot h}{\frac{1}{2} AE \cdot H}=\frac{h}{H} \quad \text { un } \quad \frac{S_{EBC}}{S_{EDC}}=\frac{\frac{1}{2} EC \cdot h}{\frac{1}{2} EC \cdot H}=\frac{h}{H}$$
 
-Tātad $\frac{a}{c}=\frac{c}{b}$ no kā iegūstam, ka $a b=c^{2}$. Līdz ar to
+Tātad $\frac{a}{c}=\frac{c}{b}$ no kā iegūstam, ka $ab=c^{2}$. Līdz ar to
 
-$$
-S_{A B E} \cdot S_{A B C D}=a(a+b+2 c)=a^{2}+a b+2 a c=a^{2}+c^{2}+2 a c=(a+c)^{2}=S_{A B C}^{2}
-$$
+$$S_{ABE} \cdot S_{ABCD}=a(a+b+2c)=a^{2}+ab+2ac=a^{2}+c^{2}+2ac=(a+c)^{2}=S_{ABC}^{2}$$
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-14.jpg?height=434&width=848&top_left_y=783&top_left_x=687)
+![](LV.NOL.2022.11.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2022.11.4
 
-Zināms, ka $x$ un $y$ ir naturāli skaitli un $x+y$ dalās ar 5. Pierādīt, ka $x^{5}+y^{5}$ dalās ar 25 .
+Zināms, ka $x$ un $y$ ir naturāli skaitļi un $x+y$ dalās ar $5$. Pierādīt, ka
+$x^{5}+y^{5}$ dalās ar $25$.
 
 <small>
 
@@ -997,24 +1058,25 @@ Zināms, ka $x$ un $y$ ir naturāli skaitli un $x+y$ dalās ar 5. Pierādīt, ka
 
 Apskatām izteiksmi $(x+y)^{5}$ un to ekvivalenti pārveidojam:
 
-$$
-\begin{aligned}
-& \qquad \begin{array}{l}
-(x+y)^{5}=x^{5}+5 x^{4} y+10 x^{3} y^{2}+10 x^{2} y^{3}+5 x y^{4}+y^{5}=\left(x^{5}+y^{5}\right)+5 x y\left(x^{3}+y^{3}\right)+10 x^{2} y^{2}(x+y)= \\
-=\left(x^{5}+y^{5}\right)+5 x y(x+y)\left(x^{2}-x y+y^{2}\right)+10 x^{2} y^{2}(x+y)= \\
-\quad=\left(x^{5}+y^{5}\right)+5 x y(x+y)\left(x^{2}-x y+y^{2}+2 x y\right) \\
-\text { Izsakot } x^{5}+y^{5} \text {, iegūstam } \quad x^{5}+y^{5}=(x+y)^{5}-5(x+y) x y\left(x^{2}+x y+y^{2}\right)
-\end{array}
-\end{aligned}
-$$
 
-Tā kā pēc dotā $x+y$ dalās ar 5 , tad izteiksmes labajā pusē abi saskaitāmie dalās ar 25 , tātad izteiksmes labā puse dalās ar 25. Līdz ar to arī izteiksmes kreisajai pusei jādalās ar 25.
+$(x+y)^{5}=x^{5}+5x^{4}y+10x^{3}y^{2}+10x^{2}y^{3}+5xy^{4}+y^{5}=\left(x^{5}+y^{5}\right)+5xy\left(x^{3}+y^{3}\right)+10x^{2}y^{2}(x+y)=$
+$=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-xy+y^{2}\right)+10x^{2}y^{2}(x+y)=$
+$\quad=\left(x^{5}+y^{5}\right)+5xy(x+y)\left(x^{2}-x y+y^{2}+2xy\right)$
+Izsakot $x^{5}+y^{5}$, iegūstam
+$\quad x^{5}+y^{5}=(x+y)^{5}-5(x+y)xy\left(x^{2}+xy+y^{2}\right)$
+
+
+Tā kā pēc dotā $x+y$ dalās ar $5$, tad izteiksmes labajā pusē abi saskaitāmie
+dalās ar $25$, tātad izteiksmes labā puse dalās ar $25$. Līdz ar to arī
+izteiksmes kreisajai pusei jādalās ar $25$.
 
 
 
 # <lo-sample/> LV.NOL.2022.11.5
 
-Pierādīt, ka visus naturālos skait|us no 1 līdz 2022 iespējams sakārtot rindā tā, ka katri divi blakus esoši skaitl|i atškiras vai nu par 6, vai par 11 .
+Pierādīt, ka visus naturālos skaitļus no $1$ līdz $2022$ iespējams sakārtot
+rindā tā, ka katri divi blakus esoši skaitlļi atškiras vai nu par $6$, vai
+par $11$ .
 
 <small>
 
@@ -1026,7 +1088,8 @@ Pierādīt, ka visus naturālos skait|us no 1 līdz 2022 iespējams sakārtot ri
 
 ## Atrisinājums
 
-Vispirms parādīsim, ka prasītajā veidā ir iespējams sakārtot skaitlus no 1 līdz 17:
+Vispirms parādīsim, ka prasītajā veidā ir iespējams sakārtot skaitļus no $1$
+līdz $17$:
 
 | 6 | 12 | 1 | 7 | 13 | 2 | 8 | 14 | 3 | 9 | 15 | 4 | 10 | 16 | 5 | 11 | 17 |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
