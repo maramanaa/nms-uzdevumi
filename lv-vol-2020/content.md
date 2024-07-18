@@ -59,7 +59,7 @@ ja $S(AMP)=S(BNP)=8$ un $S(NMP)=4$.
 levērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
 kopīga mala $MN$, tāpēc augstumi, kas no virsotnēm $A$ un $B$ novilkti pret šo 
 malu $MN$, ir vienādi jeb punkti $A$ un $B$ atrodas vienādā attālumā no 
-nogriežņa $MN$. Tātad $MN \| AB$. Apskatām attiecību
+nogriežņa $MN$. Tātad $MN \parallel AB$. Apskatām attiecību
 
 $$\frac{S(MNP)}{S(PNB)}=\frac{\frac{1}{2} MP \cdot h_{MP}}{\frac{1}{2} BP \cdot h_{BP}}$$
 
@@ -73,7 +73,7 @@ taisnēm $MN$ un $AB$. Tad
 $\frac{S(MPN)}{S(BPA)}=\left(\frac{MP}{BP}\right)^{2}=\frac{1}{4}$, no kā 
 izriet, ka $S(BPA)=4 \cdot 4=16$. Esam ieguvuši, ka $S(AMNB)=4+8 \cdot 2+16=36$
 
-Tā kā $MN \| AB$, tad $\triangle MCN \sim \triangle ACB$ un 
+Tā kā $MN \parallel AB$, tad $\triangle MCN \sim \triangle ACB$ un 
 $\frac{S(MCN)}{S(ACB)}=\left(\frac{MN}{AB}\right)^{2}=\left(\frac{1}{2}\right)^{2}$
 jeb
 
@@ -434,7 +434,7 @@ kas apvilktas ap trijstūriem $AMD$ un $DNC$, pieskaras viena otrai!
 
 Novelkam nogriezni $BD$ (skat. 8.att.). levērojam, ka 
 $\sphericalangle DAC=\sphericalangle DBC$ kā ievilktie leņķi, kas balstās uz 
-viena un tā paša loka. Tā kā $DE \| BC$, tad 
+viena un tā paša loka. Tā kā $DE \parallel BC$, tad 
 $\sphericalangle DBC=\sphericalangle BDM$ kā iekšējie škērsleņķi pie paralēlām 
 taisnēm. Līdz ar to $\sphericalangle DAC=\sphericalangle BDM$.
 
@@ -729,8 +729,8 @@ $OE^{2}=OB^{2}+2 \cdot OB \cdot BE$.
 
 Apzīmējam $OB=OC=R$ (skat. 12.att.). Tā kā $C$ ir loka $AB$ viduspunkts, tad 
 $OC$ ir nogriežņa $AB$ vidusperpendikuls, kas krusto $AB$ punktā $F$. Tātad 
-$OC \| DE$. No $AO=OD$ un $OC \| DE$ izriet, ka $OC$ ir trijstūra $ADE$ 
-viduslīija. Tātad $ED=2OC=2R$.
+$OC \parallel DE$. No $AO=OD$ un $OC \parallel DE$ izriet, ka $OC$ ir trijstūra
+$ADE$ viduslīija. Tātad $ED=2OC=2R$.
 
 Taisnes $OE$ krustpunktus ar riņķa līniju apzīmējam ar $X$ un $Y$. Apskatām 
 starpību
@@ -756,8 +756,8 @@ Līdz ar to esam ieguvuši, ka $OE^{2}=OB^{2}+2 \cdot OB \cdot BE$.
 
 Novelkam rādiusu $OC$ (skat. 13.att.). Tā kā $C$ ir loka $AB$ viduspunkts, tad 
 $OC$ ir nogriežņa $AB$ vidusperpendikuls, kas $AB$ krusto punktā $F$. Tātad 
-$OC \| DE$. No $AO=OD$ un $OC \| DE$ izriet, ka $OC$ ir trijstūra $ADE$ 
-viduslīnija. Tātad
+$OC \parallel DE$. No $AO=OD$ un $OC \parallel DE$ izriet, ka $OC$ ir trijstūra
+$ADE$ viduslīnija. Tātad
 
 $$ED=2OC=2OB$$
 
