@@ -344,23 +344,19 @@ $MA+MB+MC > \frac{1}{2} P_{ABC}$.
 Izmantojot trijstūra nevienādību katrā trijstūrī (skat. 5.att.), iegūstam:
 
 
-- $A M+M B>AB$ (no $\triangle AMB$)
-- $B M+C M>BC$ (no $\triangle BMC$)
-- $C M+M A>AC$ (no $\triangle AMC$)
+- $A M+MB > AB$ (no $\triangle AMB$)
+- $B M+CM > BC$ (no $\triangle BMC$)
+- $C M+MA > AC$ (no $\triangle AMC$)
 
 
 Līdz ar to katru trijstūra $ABC$ malu varam aizstāt ar divu nogriežņu
 summu, kas ir lielāka nekā attiecīgās malas garums:
 
-$$
-P_{ABC}=AB+BC+AC<AM+MB+BM+CM+CM+MA=2MA+2MB+2MC
-$$
+$$P_{ABC}=AB+BC+AC < AM+MB+BM+CM+CM+MA=2MA+2MB+2MC$$
 
 Dalot abas nevienādības puses ar $2$, iegūstam prasīto:
 
-$$
-\frac{1}{2} P_{ABC}<MA+MB+MC
-$$
+$$\frac{1}{2} P_{ABC} < MA+MB+MC$$
 
 ![](LV.NOL.2022.7.3A.png)
 
