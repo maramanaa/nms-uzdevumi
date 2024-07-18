@@ -322,7 +322,7 @@ Vai visi naturāli skaitļi, kuru ciparu summa dalās ar $27$ , arī paši dalā
 ## Atrisinājums
 
 Nē, piemēram, skaitļa $9981$ ciparu summa ir $27$, tātad tā dalās ar $27$, bet pats
-skaitlis ar $27$ nedalās, jo $9981: 27=369$, atl. $18$ .
+skaitlis ar $27$ nedalās, jo $9981: 27=369$, $atl.$ $18$ .
 
 
 
@@ -1095,9 +1095,18 @@ līdz $17$:
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 6 |  | 11 | 6 |  | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 |
 
-levērojam, ka, visiem šiem skaitliem pieskaitot 17, iegūsim derīgu skait!u grupu, kurā būs visi skaitļi no 18 līdz 34 . Tā kā pirmais skaitlis šajā grupā būs $6+17=23$, tad starpība starp pirmās grupas pēdējo un otrās grupas pirmo skaitli ir 6, kas nozīmē, ka, uzrakstot otro grupu tieši aiz pirmās, esam ieguvuši korektu virkni, kurā ir visi skaitli no 1 līdz 34. Līdz̄̄gi turpinot, iegūsim derīgas virknes, kuru pēdējais loceklis ir $17 n$, kur $n \in \mathbb{N}$.
+levērojam, ka, visiem šiem skaitliem pieskaitot $17$, iegūsim derīgu skaitļu
+grupu, kurā būs visi skaitļi no $18$ līdz $34$. Tā kā pirmais skaitlis šajā
+grupā būs $6+17=23$, tad starpība starp pirmās grupas pēdējo un otrās grupas
+pirmo skaitli ir $6$, kas nozīmē, ka, uzrakstot otro grupu tieši aiz pirmās,
+esam ieguvuši korektu virkni, kurā ir visi skaitli no $1$ līdz $34$. Līdzīgi
+turpinot, iegūsim derīgas virknes, kuru pēdējais loceklis ir $17n$, kur
+$n \in \mathbb{N}$.
 
-Tā kā 2022 : $17=118$, atl. 16, tad 119. skaitlu grupa beidzas ar $119 \cdot 17=2023$. Uzrakstot pēdējā skaitlu grupā visus skait|us bez šī pēdējā skait|a 2023, būsim ieguvuši visu skait|u no 1 līdz 2022 sakārtojumu rindā ar nepieciešamajām īpašībām.
+Tā kā $2022:17=118$, $atl.$ $16$, tad $119.$ skaitļu grupa beidzas ar
+$119 \cdot 17=2023$. Uzrakstot pēdējā skaitļu grupā visus skaitļus bez šī
+pēdējā skaitļa $2023$, būsim ieguvuši visu skaitļu no $1$ līdz $2022$
+sakārtojumu rindā ar nepieciešamajām īpašībām.
 
 
 
