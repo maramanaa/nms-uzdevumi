@@ -483,7 +483,7 @@ Tātad naturāla skaitļa kvadrātu, dalot ar $4$, var iegūt atlikumu $0$ vai $
 Apskatot doto izteiksmi pēc moduļa $4$, iegūstam 
 $13^{n}+10^{n}+7^{n}+3^{n} \equiv 1^{n}+2^{n}+(-1)^{n}+(-1)^{n}(\bmod 4)$. Ja 
 $n=1$, tad $13+10+7+3=33$, kas nav naturāla skaitļa kvadrāts. Ja $n$ ir lielāks
-nekā 1, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
+nekā $1$, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
 
 - ja ir pāra skaitlis, tad 
   $1^{n}+2^{n}+(-1)^{n}+(-1)^{n} \equiv 1+0+1+1=3(\bmod 4)$;
@@ -878,7 +878,7 @@ $MNK$.
 ![](LV.VOL.2020.12.4A.png)
 
 Pierādīsim, ka šis trijstūris, kam visas malas ir vienā krāsā, nav pelēks. Ja 
-$\alpha+\beta=c, \alpha+\gamma=b$ un $\beta+\gamma=a$, kur $a, b, c$ ir 
+$\alpha+\beta=c,\ \alpha+\gamma=b$ un $\beta+\gamma=a$, kur $a, b, c$ ir 
 racionāli skaitļi, tad, saskaitot pirmās divas vienādības un ņemot vērā trešo 
 vienādību, iegūstam, ka $\alpha=\frac{c+b-a}{2}$ ir racionāls skaitlis 
 (pretruna). Tātad vienkrāsainais trijstūris ir melns un tā virsotnēs 
@@ -970,7 +970,7 @@ levērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 | $2$ | $1010$ | $3$ | $1011$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 | $4$ | $505$ | $5$ | $506$ | $(5; 506)$ |  |
 | $5$ | $404$ | $6$ | $405$ |  | Neder, jo nav savstarpēji pirmskaitļi |
-| $10$ | $202$ | $11 | $203$ | $(11; 203)$ |  |
+| $10$ | $202$ | $11$ | $203$ | $(11; 203)$ |  |
 | $20$ | $101$ | $21$ | $102$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 
 $Piezīme.$ Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 
