@@ -483,8 +483,8 @@ Trijstūra virsotnes leņķis nevar būt $20^{\circ}$, jo tad leņķi pie pamata
 būtu $\left(180^{\circ}-20^{\circ}\right): 2=80^{\circ}$ un trijstūris
 nebūtu platleņķa. Apskatām abus iespējamos virsotņu izkārtojumus.
 
-1. Ja $A B=A C$ (skat. 9.att.), tad $3 A C=3 A B>A B$.
-2. Ja $B C=A C$ (skat. 10.att.), tad $3 A C>2 A C=B C+A C>A B$.
+1. Ja $AB=AC$ (skat. 9.att.), tad $3AC=3AB>AB$.
+2. Ja $BC=AC$ (skat. 10.att.), tad $3AC>2AC=BC+AC>AB$.
 
 ![](LV.NOL.2022.8.3A.png)
 
@@ -563,7 +563,7 @@ vismaz viena vesela sakne?
 ## Atrisinājums
 
 Pamatosim, ka dotajam vienādojumam ir vesela sakne tikai tad, ja $m$
-ir vesels skaitlis. Izmantojot formulu $D=b^{2}-4 a c$, iegūstam, ka
+ir vesels skaitlis. Izmantojot formulu $D=b^{2}-4ac$, iegūstam, ka
 dotā vienādojuma diskriminants ir
 
 $$D=(2m+3)^{2}-4 \cdot 2 \cdot 3m=4m^{2}+12m+9-24m=4m^{2}-12m+9=(2m-3)^{2}$$
@@ -987,9 +987,9 @@ Tātad $x=4$, bet vienādojumam $x^{2}=-1$ reālu sakņu nav.
 Līdz ar to dotā vienādojuma saknes ir $x_{1}=-1$ un $x_{2}=4$.
 
 $$\begin{aligned}
-& \left(x^{4}-3 x^{3}-3 x^{2}-3 x-4\right):(x+1)=x^{3}-4 x^{2}+x-4 \\
-& \frac{x^{4}+x^{3}}{-4 x^{3}-3 x^{2}}-3 x-4 \\
-& \frac{-4 x^{3}-4 x^{2}}{x^{2}-3 x-4}
+& \left(x^{4}-3x^{3}-3x^{2}-3x-4\right):(x+1)=x^{3}-4x^{2}+x-4 \\
+& \frac{x^{4}+x^{3}}{-4 x^{3}-3 x^{2}}-3x-4 \\
+& \frac{-4x^{3}-4x^{2}}{x^{2}-3x-4}
 \end{aligned}$$
 
 ![](LV.NOL.2022.11.2A.png)
@@ -1215,7 +1215,10 @@ krustpunkts atrodas uz trijstūrim $ADE$ apvilktās riņķa līnijas.
 ## Atrisinājums
 
 Bisektrišu krustpunktu apzīmējam ar $F$ (skat. 14.att.). Apzīmējam
-$\sphericalangle BAC=\sphericalangle ACB=\alpha$ un $\sphericalangle CBD=\sphericalangle CDB=\beta$ kā leņki pie pamata vienādsānu trijstūrī $BAC$ un $BCD$. Tad $\sphericalangle AED=\sphericalangle BEC=$ $=180^{\circ}-\sphericalangle ACB-\sphericalangle CBD=180^{\circ}-\alpha-\beta$.
+$\sphericalangle BAC=\sphericalangle ACB=\alpha$ un
+$\sphericalangle CBD=\sphericalangle CDB=\beta$ kā leņki pie pamata vienādsānu
+trijstūrī $BAC$ un $BCD$. Tad $\sphericalangle AED=\sphericalangle BEC=$
+$=180^{\circ}-\sphericalangle ACB-\sphericalangle CBD=180^{\circ}-\alpha-\beta$.
 
 No četrstūra $ABCD$ iekšējo leņķu summas iegūstam
 
@@ -1272,7 +1275,7 @@ no $0$. Apskatām visus iespējamos gadijumus:
 
 - ja $p$ atlikums, dalot ar $5$, ir $3$ , tad pirmskaitlis $p$ ir uzrakstāms
   formā $p=5k+3$ un
-  $p^{2}+1=(5k+3)^{2}+1=25k^{2}+20k+10=5\left(5 k^{2}+4 k+2\right)$, kas dalās
+  $p^{2}+1=(5k+3)^{2}+1=25k^{2}+20k+10=5\left(5k^{2}+4 k+2\right)$, kas dalās
   ar $5$;
 
 - ja $p$ atlikums, dalot ar $5$, ir $4$, tad pirmskaitlis $p$ ir uzrakstāms
