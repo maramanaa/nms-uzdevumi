@@ -789,11 +789,11 @@ ka dotā vienādojuma saknes ir $x_{1}=2$ un $x_{2 ; 3}=1 \pm \sqrt{5}$.
 
 # <lo-sample/> LV.NOL.2022.10.3
 
-Divas ringa līnijas $\omega_{1}$ un $\omega_{2}$ krustojas punktos $X$ un $Y$.
-Caur punktu $X$ novilkta taisne $t$, kas vēlreiz krusto ringa līnijas
+Divas rinķa līnijas $\omega_{1}$ un $\omega_{2}$ krustojas punktos $X$ un $Y$.
+Caur punktu $X$ novilkta taisne $t$, kas vēlreiz krusto rinķa līnijas
 $\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $A$ un $B$, caur punktu $Y$
 paralēli $t$ novilkta taisne, kas vēlreiz krusto riņka līnijas
-\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $D$ un $C$. Pierādīt, ka $ABCD$
+$\omega_{1}$ un $\omega_{2}$ attiecīgi punktos $D$ un $C$. Pierādīt, ka $ABCD$
 ir paralelograms.
 
 <small>
@@ -1135,8 +1135,6 @@ Uzzīmējam koka diagrammu, kas ilustrē testa izpildi (skat. 10.att.).
 
 ![](LV.NOL.2022.12.1A.png)
 
-10.att.
-
 Redzam, ka testam ir $5 labvēlīgi iznākumi. Kopējais iznākumu skaits ir
 $2^{4}=16$, jo katram no četriem jautājumiem ir iespējami divi atbilžu
 varianti. Tātad varbūtība, ka tests tiks ieskaitīts, atbildes minot, ir
@@ -1334,7 +1332,7 @@ par viens, tad Karlsons apēdamo konfekšu skaitu nepalielina, un otrādi.
 Novērtēsim, cik konfekšu būs apēstas pēc Karlsona devītā gājiena (kad Brālītis
 būs izdarījis $8$ gājienus, bet Karlsons - $9$ gājienus). Karlsons būs apēdis
 $1+2+3+\cdots+9=45$ konfektes. Brālītis savā pirmajā gājienā būs apēdis $1$ vai
-$2$ konfektes, otrajā -$2$ vai $3$ , trešajā -$3$ vai $4, \ldots$, astotajā -$8$
+$2$ konfektes, otrajā - $2$ vai $3$ , trešajā - $3$ vai $4, \ldots$, astotajā - $8$
 vai $9$ konfektes. Tātad mazākais skaits konfekšu, ko viņš var apēst, ir
 $1+2+3+\ldots+8=36$ konfektes, bet lielākais Brālīša apēsto konfekšu skaits var
 būt $2+3+4+\ldots+9=44$ konfektes. Tātad abi kopā viņi būs apēduši $81$ līdz
