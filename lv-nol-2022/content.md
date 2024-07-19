@@ -1031,7 +1031,9 @@ $S_{ABC}=a+c$ un $S_{ABCD}=a+b+2c$.
 Apzīmējam attālumu no virsotnes $B$ līdz malai $AC$ ar $h$ un attālumu no
 virsotnes $D$ līdz malai $AC$ ar $H$ un apskatām laukumu attiecību:
 
-$$\frac{S_{ABE}}{S_{AED}}=\frac{\frac{1}{2} AE \cdot h}{\frac{1}{2} AE \cdot H}=\frac{h}{H} \quad \text { un } \quad \frac{S_{EBC}}{S_{EDC}}=\frac{\frac{1}{2} EC \cdot h}{\frac{1}{2} EC \cdot H}=\frac{h}{H}$$
+$\frac{S_{ABE}}{S_{AED}}=\frac{\frac{1}{2} AE \cdot h}{\frac{1}{2} AE \cdot H}=\frac{h}{H} \quad$
+un
+$\quad \frac{S_{EBC}}{S_{EDC}}=\frac{\frac{1}{2} EC \cdot h}{\frac{1}{2} EC \cdot H}=\frac{h}{H}$
 
 Tātad $\frac{a}{c}=\frac{c}{b}$ no kā iegūstam, ka $ab=c^{2}$. Līdz ar to
 
@@ -1112,7 +1114,12 @@ sakārtojumu rindā ar nepieciešamajām īpašībām.
 
 # <lo-sample/> LV.NOL.2022.12.1
 
-Tiešsaistes testā ir četri jautājumi, kurus izpilda secīgi un uzreiz tiek pazinots, vai iesniegtā atbilde ir pareiza. Uz katru jautājumu iespējamas tikai divas atbildes, no kurām viena ir pareiza, bet otra nav pareiza. Tiklīdz sniegtas nepareizas atbildes uz diviem jautājumiem, sistēma testa izpildi pārtrauc un tests nav ieskaitīts. Ja ir vismaz trīs pareizas atbildes, tests ir ieskaitīts. Kāda ir varbūtība, ka tests tiks ieskaitīts, atbildes minot?
+Tiešsaistes testā ir četri jautājumi, kurus izpilda secīgi un uzreiz tiek
+paziņots, vai iesniegtā atbilde ir pareiza. Uz katru jautājumu iespējamas
+tikai divas atbildes, no kurām viena ir pareiza, bet otra nav pareiza.
+Tiklīdz sniegtas nepareizas atbildes uz diviem jautājumiem, sistēma testa
+izpildi pārtrauc un tests nav ieskaitīts. Ja ir vismaz trīs pareizas atbildes,
+tests ir ieskaitīts. Kāda ir varbūtība, ka tests tiks ieskaitīts, atbildes minot?
 
 <small>
 
@@ -1126,24 +1133,34 @@ Tiešsaistes testā ir četri jautājumi, kurus izpilda secīgi un uzreiz tiek p
 
 Uzzīmējam koka diagrammu, kas ilustrē testa izpildi (skat. 10.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-15.jpg?height=456&width=1719&top_left_y=382&top_left_x=195)
+![](LV.NOL.2022.12.1A.png)
 
 10.att.
 
-Redzam, ka testam ir 5 labvēlīgi iznākumi. Kopējais iznākumu skaits ir $2^{4}=16$, jo katram no četriem jautājumiem ir iespējami divi atbiľ̌u varianti. Tātad varbūtība, ka tests tiks ieskaitīts, atbildes minot, ir $\frac{5}{16}$.
+Redzam, ka testam ir $5 labvēlīgi iznākumi. Kopējais iznākumu skaits ir
+$2^{4}=16$, jo katram no četriem jautājumiem ir iespējami divi atbilžu
+varianti. Tātad varbūtība, ka tests tiks ieskaitīts, atbildes minot, ir
+$\frac{5}{16}$.
 
 
 ## Atrisinājums
 
-Lai vienkāršotu situāciju, atmetam nosacijumu, ka pie divām nepareizām atbildēm tests tiek pārtraukts. Šādā gadīumā (tā kā ir divas nepareizas atbildes) tests tāpat nebūs ieskaitīts, tāpēc neko nemainīs tas, ja tests tiks izpildīts līdz galam (tas ir, atbildēti visi 4 jautājumi).
+Lai vienkāršotu situāciju, atmetam nosacījumu, ka pie divām nepareizām atbildēm
+tests tiek pārtraukts. Šādā gadījumā (tā kā ir divas nepareizas atbildes) tests
+tāpat nebūs ieskaitīts, tāpēc neko nemainīs tas, ja tests tiks izpildīts līdz
+galam (tas ir, atbildēti visi $4$ jautājumi).
 
-Tā kā ir 4 jautājumi, tad kopā ir $2^{4}=16$ dažādi atbilžu komplekti (uz katru jautājumu-divi varianti). No tiem derīgi ir tikai tie, kuros ir 1 nepareiza atbilde ( 4 varianti) vai 0 nepareizas atbildes ( 1 variants). Tātad kopumā ir derīgi 5 no 16 atbilžu komplektiem, un varbūtība, ka tests tiks ieskaitīts, ir $\frac{5}{16}$.
+Tā kā ir $4$ jautājumi, tad kopā ir $2^{4}=16$ dažādi atbilžu komplekti (uz
+katru jautājumu-divi varianti). No tiem derīgi ir tikai tie, kuros ir $1$
+nepareiza atbilde ($4$ varianti) vai $0$ nepareizas atbildes ($1$ variants).
+Tātad kopumā ir derīgi $5$ no $16$ atbilžu komplektiem, un varbūtība, ka tests
+tiks ieskaitīts, ir $\frac{5}{16}$.
 
 
 
 # <lo-sample/> LV.NOL.2022.12.2
 
-Atrisināt reālos skaitlos vienādojumu $4 x^{4}-11 x^{2}+9 x-2=0$.
+Atrisināt reālos skaitļos vienādojumu $4x^{4}-11x^{2}+9x-2=0$.
 
 <small>
 
@@ -1155,54 +1172,41 @@ Atrisināt reālos skaitlos vienādojumu $4 x^{4}-11 x^{2}+9 x-2=0$.
 
 ## Atrisinājums
 
-Uzminam, ka $x=1$ ir dotā vienādojuma sakne, jo $4-11+9-2=0$. Izdalot polinomus (skat. 11.att.), iegūstam $(x-1)\left(4 x^{3}+4 x^{2}-7 x+2\right)=0$.
+Uzminam, ka $x=1$ ir dotā vienādojuma sakne, jo $4-11+9-2=0$. Izdalot polinomus
+(skat. 11.att.), iegūstam $(x-1)\left(4x^{3}+4x^{2}-7x+2\right)=0$.
 
-Uzminam, ka $x=-2$ ir vienādojuma $4 x^{3}+4 x^{2}-7 x+2=0$ sakne. Izdalot polinomus (skat. 12.att.), iegūstam $(x+2)\left(4 x^{2}-4 x+1\right)=0$.
+Uzminam, ka $x=-2$ ir vienādojuma $4x^{3}+4x^{2}-7x+2=0$ sakne. Izdalot
+polinomus (skat. 12.att.), iegūstam $(x+2)\left(4x^{2}-4x+1\right)=0$.
 
-$$
--\left(4 x^{4}-11 x^{2}+9 x-2\right):(x-1)=4 x^{3}+4 x^{2}-7 x+2
-$$
+$$-\left(4x^{4}-11x^{2}+9x-2\right):(x-1)=4x^{3}+4x^{2}-7x+2$$
 
-$$
-\begin{array}{rc}
-\hline \frac{4 x^{4}-4 x^{3}}{4 x^{3}-11 x^{2}}+9 x-2 \\
--\begin{array}{c}
-4 x^{3}-4 x^{2}
-\end{array} & -\left(4 x^{3}+4 x^{2}-7 x+2\right):(x+2)=4 x^{2}-4 x+1 \\
--\frac{-7 x^{2}+9 x-2}{2 x-2} & \frac{4 x^{3}+8 x^{2}}{-x^{2}+7 x}-7 x+2 \\
-\frac{2 x-2}{0} & \frac{-4 x^{2}-8 x}{x+2} \\
-\text { 11. att. } & \frac{x+2}{0} \\
-\hline \text { 12. att. }
-\end{array}
-$$
 
-Līdz ar to dotais vienādojums ir pārveidojams formā $(x-1)(x+2)(2 x-1)^{2}=0$.
+![](LV.NOL.2022.12.2A.png)
 
-Katru reizinātāju pielīdzinot nullei, iegūstam, ka dotā vienādojuma saknes ir $x_{1}=1, x_{2}=-2, x_{3}=x_{4}=\frac{1}{2}$.
+
+Līdz ar to dotais vienādojums ir pārveidojams formā $(x-1)(x+2)(2x-1)^{2}=0$.
+
+Katru reizinātāju pielīdzinot nullei, iegūstam, ka dotā vienādojuma saknes ir
+$x_{1}=1, x_{2}=-2, x_{3}=x_{4}=\frac{1}{2}$.
 
 
 ## Atrisinājums
 
-Uzminam, ka $x=1$ ir vienādojuma sakne, jo $4-11+9-2=0$, un ka $x=-2$ ir sakne, jo $4 \cdot 16-44-18-2=0$. Tātad vienādojuma kreisā puse dalās ar $(x-1)(x+2)=x^{2}+x-2$. Izdalot polinomus (skat. 13.att.), iegūstam $(x-1)(x+2)\left(4 x^{2}-4 x+1\right)=0$ jeb $(x-1)(x+2)(2 x-1)^{2}=0$. Katru reizinātāju pielīdzinot nullei, iegūstam, ka dotā vienādojuma saknes ir $x_{1}=1, x_{2}=-2, x_{3}=x_{4}=\frac{1}{2}$.
+Uzminam, ka $x=1$ ir vienādojuma sakne, jo $4-11+9-2=0$, un ka $x=-2$ ir sakne,
+jo $4 \cdot 16-44-18-2=0$. Tātad vienādojuma kreisā puse dalās ar
+$(x-1)(x+2)=x^{2}+x-2$. Izdalot polinomus (skat. 13.att.), iegūstam
+$(x-1)(x+2)\left(4x^{2}-4 x+1\right)=0$ jeb $(x-1)(x+2)(2 x-1)^{2}=0$. Katru
+reizinātāju pielīdzinot nullei, iegūstam, ka dotā vienādojuma saknes ir
+$x_{1}=1, x_{2}=-2, x_{3}=x_{4}=\frac{1}{2}$.
 
-$$
-\begin{aligned}
-& \_\left(4 x^{4}-11 x^{2}+9 x-2\right):\left(x^{2}+x-2\right)=4 x^{2}-4 x+1 \\
-& 4 x^{4}+4 x^{3}-8 x^{2} \\
-& \begin{array}{r}
--4 x^{3}-3 x^{2}+9 x-2 \\
--4 x^{3}-4 x^{2}+8 x \\
-x^{2}+x-2
-\end{array} \\
-& \frac{x^{2}+x-2}{0}
-\end{aligned}
-$$
-
+![](LV.NOL.2022.12.2B.png)
 
 
 # <lo-sample/> LV.NOL.2022.12.3
 
-Dots izliekts četrstūris $A B C D$, kuram $A B=B C=C D$. Četrstūra diagonāles krustojas punktā $E$. Pierādīt, ka lenkuu $B A D$ un $A D C$ bisektrišu krustpunkts atrodas uz trijstūrim $A D E$ apvilktās rinka līnijas.
+Dots izliekts četrstūris $ABCD$, kuram $AB=BC=CD$. Četrstūra diagonāles
+krustojas punktā $E$. Pierādīt, ka leņķuu $BAD$ un $ADC$ bisektrišu
+krustpunkts atrodas uz trijstūrim $ADE$ apvilktās riņķa līnijas.
 
 <small>
 
@@ -1214,27 +1218,28 @@ Dots izliekts četrstūris $A B C D$, kuram $A B=B C=C D$. Četrstūra diagonāl
 
 ## Atrisinājums
 
-Bisektrišu krustpunktu apzīmējam ar $F$ (skat. 14.att.). Apzīmējam $\sphericalangle B A C=\sphericalangle A C B=\alpha$ un $\sphericalangle C B D=\sphericalangle C D B=\beta$ kā leņki pie pamata vienādsānu trijstūrī $B A C$ un $B C D$. Tad $\sphericalangle A E D=\sphericalangle B E C=$ $=180^{\circ}-\sphericalangle A C B-\sphericalangle C B D=180^{\circ}-\alpha-\beta$.
+Bisektrišu krustpunktu apzīmējam ar $F$ (skat. 14.att.). Apzīmējam
+$\sphericalangle BAC=\sphericalangle ACB=\alpha$ un $\sphericalangle CBD=\sphericalangle CDB=\beta$ kā leņki pie pamata vienādsānu trijstūrī $BAC$ un $BCD$. Tad $\sphericalangle AED=\sphericalangle BEC=$ $=180^{\circ}-\sphericalangle ACB-\sphericalangle CBD=180^{\circ}-\alpha-\beta$.
 
-No četrstūra $A B C D$ iekšējo lenku summas iegūstam
+No četrstūra $ABCD$ iekšējo leņķu summas iegūstam
 
-$$
-\sphericalangle B A D+\sphericalangle C D A=360^{\circ}-\sphericalangle A B C-\sphericalangle B C D=360^{\circ}-\left(180^{\circ}-2 \alpha\right)-\left(180^{\circ}-2 \beta\right)=2(\alpha+\beta)
-$$
+$$\sphericalangle BAD+\sphericalangle CDA=360^{\circ}-\sphericalangle ABC-\sphericalangle BCD=360^{\circ}-\left(180^{\circ}-2 \alpha\right)-\left(180^{\circ}-2 \beta\right)=2(\alpha+\beta)$$
 
-Tad pēc bisektrises definicijas $\sphericalangle F A D+\sphericalangle F D A=\frac{1}{2}(\sphericalangle B A D+\sphericalangle C D A)=\alpha+\beta$. No trijstūra $A F D$ iegūstam, ka $\sphericalangle A F D=180^{\circ}-(\sphericalangle F A D+\sphericalangle F D A)=180^{\circ}-\alpha-\beta$.
+Tad pēc bisektrises definīcijas
+$\sphericalangle FAD+\sphericalangle FDA=\frac{1}{2}(\sphericalangle BAD+\sphericalangle CDA)=\alpha+\beta$. No trijstūra $AFD$ iegūstam, ka $\sphericalangle AFD=180^{\circ}-(\sphericalangle FAD+\sphericalangle FDA)=180^{\circ}-\alpha-\beta$.
 
-Tātad divi vienlieli leņi $\sphericalangle A E D$ un $\sphericalangle A F D$ balstās uz viena nogriežņa $A D$. Līdz ar to ap četrstūri $A F E D$ var apvilkt riņka līniju, un esam pierādījuši, ka uz trijstūrim $A D E$ apvilktās rinka līnijas atrodas arī punkts $F$.
+Tātad divi vienlieli leņi
+$\sphericalangle AED$ un $\sphericalangle AFD$ balstās uz viena nogriežņa $AD$. Līdz ar to ap četrstūri $AFED$
+var apvilkt riņka līniju, un esam pierādījuši, ka uz trijstūrim $ADE$ apvilktās
+riņķa līnijas atrodas arī punkts $F$.
 
-![](https://cdn.mathpix.com/cropped/2024_06_26_00100fbe9fbd16517aadg-16.jpg?height=548&width=696&top_left_y=1512&top_left_x=758)
-
-14.att
+![](LV.NOL.2022.12.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2022.12.4
 
-Pierādīt, ka $p^{4}-1$ dalās ar 240 katram pirmskaitlim $p \geq 7$.
+Pierādīt, ka $p^{4}-1$ dalās ar $240$ katram pirmskaitlim $p \geq 7$.
 
 <small>
 
@@ -1248,46 +1253,68 @@ Pierādīt, ka $p^{4}-1$ dalās ar 240 katram pirmskaitlim $p \geq 7$.
 
 levērojam, ka $240=3 \cdot 5 \cdot 16$. Pārveidojam doto izteiksmi:
 
-$$
-p^{4}-1=\left(p^{2}-1\right)\left(p^{2}+1\right)=(p-1)(p+1)\left(p^{2}+1\right)
-$$
+$$p^{4}-1=\left(p^{2}-1\right)\left(p^{2}+1\right)=(p-1)(p+1)\left(p^{2}+1\right)$$
 
-Tā kā visi pirmskaitļi, kas lielāki nekā 2, ir nepāra skaitli, tad visi trīs reizinātāji ir pāra skaitļi, tātad katrs no tiem dalās ar 2. Nemot vērā, ka $p-1$ un $p+1$ ir divi secīgi pāra skaitli, tad viens no tiem dalās ar 4 . Līdz ar to $p^{4}-1$ dalās ar $2 \cdot 4 \cdot 2=16$.
+Tā kā visi pirmskaitļi, kas lielāki nekā $2$, ir nepāra skaitļi, tad visi trīs
+reizinātāji ir pāra skaitļi, tātad katrs no tiem dalās ar $2$. Ņemot vērā, ka
+$p-1$ un $p+1$ ir divi secīgi pāra skaitļi, tad viens no tiem dalās ar $4$.
+Līdz ar to $p^{4}-1$ dalās ar $2 \cdot 4 \cdot 2=16$.
 
-Pirmskaitlis $p \geq 7$ nedalās ar 3 , tātad vai nu $p-1$, vai $p+1$ dalās ar 3 , jo $p-1$, $p$ un $p+1$ ir trīs secīgi skaitli. Līdz ar to $p^{4}-1$ dalās ar 3 .
+Pirmskaitlis $p \geq 7$ nedalās ar $3$, tātad vai nu $p-1$, vai $p+1$ dalās ar
+$3$, jo $p-1$, $p$ un $p+1$ ir trīs secīgi skaitļi. Līdz ar to $p^{4}-1$ dalās
+ar $3$.
 
-Jebkurš pirmskaitlis, kas lielāks nekā 5, dalot ar 5, dod atlikumu atškirīgu no 0. Apskatām visus iespējamos gadijumus:
+Jebkurš pirmskaitlis, kas lielāks nekā $5$, dalot ar $5$, dod atlikumu atškirīgu
+no $0$. Apskatām visus iespējamos gadijumus:
 
-- ja $p$ atlikums, dalot ar 5, ir 1, tad pirmskaitlis $p$ ir uzrakstāms formā $p=5 k+1$ un $p-1=5 k+1-1=5 k$, kas dalās ar 5 ;
+- ja $p$ atlikums, dalot ar $5$, ir $1$, tad pirmskaitlis $p$ ir uzrakstāms
+  formā $p=5k+1$ un $p-1=5k+1-1=5k$, kas dalās ar $5$;
 
-○ ja $p$ atlikums, dalot ar 5, ir 2, tad pirmskaitlis $p$ ir uzrakstāms formā $p=5 k+2$ un $p^{2}+1=(5 k+2)^{2}+1=25 k^{2}+20 k+5=5\left(5 k^{2}+4 k+1\right)$, kas dalās ar 5 ;
+- ja $p$ atlikums, dalot ar $5$, ir $2$, tad pirmskaitlis $p$ ir uzrakstāms
+  formā $p=5k+2$ un $p^{2}+1=(5k+2)^{2}+1=25k^{2}+20k+5=5\left(5k^{2}+4k+1\right)$,
+  kas dalās ar $5$;
 
-- ja $p$ atlikums, dalot ar 5 , ir 3 , tad pirmskaitlis $p$ ir uzrakstāms formā $p=5 k+3$ un $p^{2}+1=(5 k+3)^{2}+1=25 k^{2}+20 k+10=5\left(5 k^{2}+4 k+2\right)$, kas dalās ar 5;
-- ja $p$ atlikums, dalot ar 5 , ir 4 , tad pirmskaitlis $p$ ir uzrakstāms formā $p=5 k+4$ un $p+1=5 k+5$, kas dalās ar 5 .
+- ja $p$ atlikums, dalot ar $5$, ir $3$ , tad pirmskaitlis $p$ ir uzrakstāms
+  formā $p=5k+3$ un
+  $p^{2}+1=(5k+3)^{2}+1=25k^{2}+20k+10=5\left(5 k^{2}+4 k+2\right)$, kas dalās
+  ar $5$;
 
-Tātad $p^{4}-1$ dalās ar 5 .
+- ja $p$ atlikums, dalot ar $5$, ir $4$, tad pirmskaitlis $p$ ir uzrakstāms
+formā $p=5k+4$ un $p+1=5k+5$, kas dalās ar $5$ .
 
-Esam ieguvušì, ka $p^{4}-1$ dalās ar 3,5 un 16. Tā kā šie skaitlị ir savstarpēji pirmskaitlji, tad $p^{4}-1$ dalās ar 240 .
+Tātad $p^{4}-1$ dalās ar $5$.
 
-Piezīmes
+Esam ieguvušì, ka $p^{4}-1$ dalās ar $3$,$5$ un $16$. Tā kā šie skaitļi ir
+savstarpēji pirmskaitļi, tad $p^{4}-1$ dalās ar $240$.
 
-1. Pierādīt, ka $p^{4}-1$ dalās ar 5 , var izmantojot kongruences:
+$Piezīmes$
 
-- ja $p \equiv 1(\bmod 5), \operatorname{tad} p^{4}-1 \equiv 1^{4}-1 \equiv 0(\bmod 5)$;
+1. Pierādīt, ka $p^{4}-1$ dalās ar $5$ , var izmantojot kongruences:
 
-○ ja $p \equiv 2(\bmod 5)$, tad $p^{4}-1 \equiv 2^{4}-1 \equiv 15 \equiv 0(\bmod 5)$;
+- ja $p \equiv 1(\bmod 5)$, tad $p^{4}-1 \equiv 1^{4}-1 \equiv 0(\bmod 5)$;
 
-○ ja $p \equiv 3(\bmod 5)$, tad $p^{4}-1 \equiv 3^{4}-1 \equiv 80 \equiv 0(\bmod 5)$;
+- ja $p \equiv 2(\bmod 5)$, tad
+  $p^{4}-1 \equiv 2^{4}-1 \equiv 15 \equiv 0(\bmod 5)$;
 
-- ja $p \equiv 4(\bmod 5), \operatorname{tad} p^{4}-1 \equiv 4^{4}-1 \equiv 255 \equiv 0(\bmod 5)$.
+- ja $p \equiv 3(\bmod 5)$, tad
+  $p^{4}-1 \equiv 3^{4}-1 \equiv 80 \equiv 0(\bmod 5)$;
 
-2. Lai pierādītu, ka $n^{4}-1$ dalās ar 5, var izmantot arī mazo Fermā teorēmu: ja skaitlis $a$ nedalās ar pirmskaitli $n$, tad $a^{n-1}-1$ dalās ar $n$.
+- ja $p \equiv 4(\bmod 5)$,
+  tad $p^{4}-1 \equiv 4^{4}-1 \equiv 255 \equiv 0(\bmod 5)$.
+
+2. Lai pierādītu, ka $n^{4}-1$ dalās ar $5$, var izmantot arī mazo Fermā
+teorēmu: ja skaitlis $a$ nedalās ar pirmskaitli $n$, tad $a^{n-1}-1$ dalās
+ar $n$.
 
 
 
 # <lo-sample/> LV.NOL.2022.12.5
 
-Sākumā turzā ir 89 konfektes. Karlsons un Brālītis pēc kārtas ēd no turzas konfektes. Pirmais sāk Karlsons un apēd vienu konfekti, bet katrā nākamajā gājienā spēlētājs var apēst tikpat konfektes, cik savā iepriekšējā gājienā apēda otrs, vai arī par vienu konfekti vairāk. Zaudē tas, kurš vairs nevar izdarīt gājienu. Kurš spēlētājs - Karlsons vai Brālítis - vienmēr var uzvarēt?
+Sākumā turzā ir $89$ konfektes. Karlsons un Brālītis pēc kārtas ēd no turzas
+konfektes. Pirmais sāk Karlsons un apēd vienu konfekti, bet katrā nākamajā
+gājienā spēlētājs var apēst tikpat konfektes, cik savā iepriekšējā gājienā
+apēda otrs, vai arī par vienu konfekti vairāk. Zaudē tas, kurš vairs nevar
+izdarīt gājienu. Kurš spēlētājs - Karlsons vai Brālītis - vienmēr var uzvarēt?
 
 <small>
 
@@ -1299,7 +1326,19 @@ Sākumā turzā ir 89 konfektes. Karlsons un Brālītis pēc kārtas ēd no turz
 
 ## Atrisinājums
 
-Karlsons vienmēr var uzvarēt. Lai to izdarītu, vinam savā otrajā gājienā jāapēd divas konfektes, trešajā - trīs, ceturtajā - četras, ..., devītajā - devinas konfektes. Tātad, ja Brālītis savā gājienā apēdamo konfekšu skaitu palielina par viens, tad Karlsons apēdamo konfekšu skaitu nepalielina, un otrādi.
+Karlsons vienmēr var uzvarēt. Lai to izdarītu, viņam savā otrajā gājienā jāapēd
+divas konfektes, trešajā - trīs, ceturtajā - četras, ..., devītajā - deviņas
+konfektes. Tātad, ja Brālītis savā gājienā apēdamo konfekšu skaitu palielina
+par viens, tad Karlsons apēdamo konfekšu skaitu nepalielina, un otrādi.
 
-Novērtēsim, cik konfekšu būs apēstas pēc Karlsona devītā gājiena (kad Brālītis būs izdarīij 8 gājienus, bet Karlsons - 9 gājienus). Karlsons būs apēdis $1+2+3+\cdots+9=45$ konfektes. Brālítis savā pirmajā gājienā būs apēdis 1 vai 2 konfektes, otrajā -2 vai 3 , trešajā -3 vai $4, \ldots$, astotajā -8 vai 9 konfektes. Tātad mazākais skaits konfekšu, ko viņ̌̌ var apēst, ir $1+2+3+\ldots+8=36$ konfektes, bet lielākais Brālǐša apēsto konfekšu skaits var būt $2+3+4+\ldots+9=44$ konfektes. Tātad abi kopā vịi būs apēduši 81 līdz 89 konfektes un turzā būs atlikušas 0 līdz 8 konfektes. Tā kā gājiens ir Brālītim un viņam ir jāņem 9 vai 10 konfektes, tad viņš savu gājienu izdarīt vairs nevar, jo nepietiek konfekšu, un zaudē.
+Novērtēsim, cik konfekšu būs apēstas pēc Karlsona devītā gājiena (kad Brālītis
+būs izdarījis $8$ gājienus, bet Karlsons - $9$ gājienus). Karlsons būs apēdis
+$1+2+3+\cdots+9=45$ konfektes. Brālītis savā pirmajā gājienā būs apēdis $1$ vai
+$2$ konfektes, otrajā -$2$ vai $3$ , trešajā -$3$ vai $4, \ldots$, astotajā -$8$
+vai $9$ konfektes. Tātad mazākais skaits konfekšu, ko viņš var apēst, ir
+$1+2+3+\ldots+8=36$ konfektes, bet lielākais Brālīša apēsto konfekšu skaits var
+būt $2+3+4+\ldots+9=44$ konfektes. Tātad abi kopā viņi būs apēduši $81$ līdz
+$89$ konfektes un turzā būs atlikušas $0$ līdz $8$ konfektes. Tā kā gājiens ir
+Brālītim un viņam ir jāņem $9$ vai $10$ konfektes, tad viņš savu gājienu izdarīt
+vairs nevar, jo nepietiek konfekšu, un zaudē.
 
