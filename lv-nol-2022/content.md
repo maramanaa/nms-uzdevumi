@@ -239,7 +239,7 @@ skaitļa $3193$ dalītājs ir skaitlis $31$. Tātad batoniņa jaunā cena ir $31
 un batoniņa cena tika pazemināta par $50-31=19$ centiem. Tas nozīmē, ka cenas
 samazinājums attiecībā pret sākotnējo cenu ir $19$ pret
 $50=\frac{19}{50}=\frac{38}{100}=38 \%$. Līdz ar to esam ieguvuši, ka auzu
-pārslu batoniņam pieškīra $38 \%$ atlaidi.
+pārslu batoniņam pieškīra $38$ % atlaidi.
 
 
 
@@ -1093,9 +1093,7 @@ par $11$ .
 Vispirms parādīsim, ka prasītajā veidā ir iespējams sakārtot skaitļus no $1$
 līdz $17$:
 
-| 6 | 12 | 1 | 7 | 13 | 2 | 8 | 14 | 3 | 9 | 15 | 4 | 10 | 16 | 5 | 11 | 17 |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 |  | 11 | 6 |  | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 |
+![](LV.NOL.2022.11.5A.png)
 
 levērojam, ka, visiem šiem skaitliem pieskaitot $17$, iegūsim derīgu skaitļu
 grupu, kurā būs visi skaitļi no $18$ līdz $34$. Tā kā pirmais skaitlis šajā
