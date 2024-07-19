@@ -925,7 +925,7 @@ $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
 Pārveidosim vienādības kreisās puses izteiksmi:
 
 $$\begin{gathered}
-\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{\text {induktīvais pieņēmums }}+(k+1)(k+2)(k+3)= \\
+\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{induktīvais\ pieņēmums}+(k+1)(k+2)(k+3)= \\
 =\frac{k(k+1)(k+2)(k+3)}{4}+(k+1)(k+2)(k+3)=(k+1)(k+2)(k+3)\left(\frac{k}{4}+1\right)= \\
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
