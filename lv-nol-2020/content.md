@@ -542,7 +542,7 @@ levērojam, ka vienīgie skaitļi, kas mazāki nekā $15$ un ko iespējams iegū
 pogu nospiedieniem, ir $5$ (P), $7$ (S), $10$ (PP), $12$ (PS) un $14$ (SS).
 
 Lai uz ekrāna iegūtu skaitli $23$, iepriekšējam skaitlim jābūt vai nu $18$, vai
-$16$ un pirms tam ir bijis jābūt kādam no skaitļiem $13,\;11$ vai $9$, bet šādus
+$16$ un pirms tam ir bijis jābūt kādam no skaitļiem $13,\ 11$ vai $9$, bet šādus
 skaitļus nav iespējams iegūt. Līdz ar to arī $23$ nav iespējams iegūt.
 
 Pierādīsim, ka visus skaitļus, kas lielāki nekā $23$, ir iespējams iegūt. 
