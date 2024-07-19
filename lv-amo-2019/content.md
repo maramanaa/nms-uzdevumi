@@ -968,7 +968,7 @@ skaits ir galīgs, tad pirmais spēlētājs uzvarēs.
 
 # <lo-sample/> LV.AMO.2019.10.3.
 
-Dots taisnstūris $ABCD$, kur $AB<BC$. Uz malas $BC$ izvēlēts tāds punkts $E$, 
+Dots taisnstūris $ABCD$, kur $AB < BC$. Uz malas $BC$ izvēlēts tāds punkts $E$, 
 ka $AE=AD$. Leņķa $DAE$ bisektrise krusto malu $CD$ punktā $F$. Trijstūrī $ADE$
 novilkts augstums $EG$. Pierādīt, ka $\sphericalangle AGC=\sphericalangle AFC$.
 
