@@ -511,7 +511,7 @@ attālumu līdz vidējam stabam - ar $a_{1}, a_{2}, \ldots, a_{k}$ (skat.
 18.att.). Tad Raimonda noieto ceļu varam aprakstīt, izmantojot aritmētiskās 
 progresijas locekļu summu, tas ir, 
 $840=4\left(a_{1}+a_{2}+\cdots+a_{k-1}\right)+3a_{k}$, turklāt no dotā izriet, 
-ka $a_{1}=8(~\mathrm{m})$ un $d=8(~\mathrm{m})$. Pēdējo vienādojumu varam
+ka $a_{1}=8~\mathrm{(m)}$ un $d=8~\mathrm{(m)}$. Pēdējo vienādojumu varam
 pārrakstīt formā
 
 $$\begin{gathered}
@@ -925,7 +925,7 @@ $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
 Pārveidosim vienādības kreisās puses izteiksmi:
 
 $$\begin{gathered}
-\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{\text {induktīvais pieñemums }}+(k+1)(k+2)(k+3)= \\
+\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{\text {induktīvais pieņēmums }}+(k+1)(k+2)(k+3)= \\
 =\frac{k(k+1)(k+2)(k+3)}{4}+(k+1)(k+2)(k+3)=(k+1)(k+2)(k+3)\left(\frac{k}{4}+1\right)= \\
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
