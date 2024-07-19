@@ -362,7 +362,7 @@ vienu lauciņu, tad otrais spēlētājs aizkrāso divus blakus esošus lauciņus
 otrādi. Katrā savā nākamajā gājienā otrajam spēlētājam jākrāso simetriski pirmā
 spēlētāja tikko izdarītajam gājienam attiecībā pret 14.att. novilkto taisni 
 (vai arī simetriski attiecībā pret riņķa līnijas centru). Ja pirmais spēlētājs 
-varēs izdarīt gājienu, tad arī otrais spēlētājs to varēs izdarī. Līdz ar to 
+varēs izdarīt gājienu, tad arī otrais spēlētājs to varēs izdarīt. Līdz ar to 
 gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 
 ![](LV.AMO.2019.7.2A.png)
@@ -480,7 +480,7 @@ ar $2^{11}$. Tātad $n$ nevar būt mazāks kā $11$.
 Atjaunojot taisnu žogu, Raimonds izraka vecos žoga stabus, kuri atradās $8$ 
 metru attālumā viens no otra un kuru skaits bija nepāra skaitlis. Raimonds 
 sanesa visus stabus pie vidējā, nesdams tos pa vienam un sākdams ar vienu no 
-malējiem stabiem. Cik bija stabu, ja viņš nostaigāja $840~\mathrm{m}?
+malējiem stabiem. Cik bija stabu, ja viņš nostaigāja $840~\mathrm{m}$?
 
 <small>
 
@@ -511,7 +511,7 @@ attālumu līdz vidējam stabam - ar $a_{1}, a_{2}, \ldots, a_{k}$ (skat.
 18.att.). Tad Raimonda noieto ceļu varam aprakstīt, izmantojot aritmētiskās 
 progresijas locekļu summu, tas ir, 
 $840=4\left(a_{1}+a_{2}+\cdots+a_{k-1}\right)+3a_{k}$, turklāt no dotā izriet, 
-ka $a_{1}=8(~\mathrm{m})$ un $d=8(~\mathrm{m})$. Pēdējo vienādojumu varam
+ka $a_{1}=8~\mathrm{(m)}$ un $d=8~\mathrm{(m)}$. Pēdējo vienādojumu varam
 pārrakstīt formā
 
 $$\begin{gathered}
@@ -558,7 +558,7 @@ Otrajam spēlētājam katrā savā gājienā jāizdara pirmā spēlētāja gāji
 simetrisks gājiens attiecībā pret kvadrāta centru (skat. 19.att., kur parādīts 
 viens iespējams gājienu "pāris"). Ja pirmais spēlētājs varēs aizpildīt tukšās 
 rūtiņas, tad arī otrais spēlētājs to varēs izdarīt. Līdz ar to gājieni pietrūks
-pirmajam spēlētājam un viņs zaudēs.
+pirmajam spēlētājam un viņš zaudēs.
 
 ![](LV.AMO.2019.8.2A.png)
 
@@ -741,7 +741,7 @@ otrais - vienmēr var uzvarēt?
 
 ## Atrisinājums
 
-Pamatosim, ka vienmēr var uzvarēt pirmais spēēētājs.
+Pamatosim, ka vienmēr var uzvarēt pirmais spēlētājs.
 
 Pirmajā gājienā pirmajam spēlētājam jānokrāso melnā krāsā tā rūtiņa, kas 
 atrodas kvadrāta centrā. Lai arī kur otrais spēlētājs nokrāsotu rūtiņu pirmajam
@@ -876,7 +876,7 @@ Dotās izteiksmes pirmajās iekavās esošo izteiksmi izsakām kā
 
 $$(\sqrt{2020}-2 \sqrt{2019}+\sqrt{2018})=(\sqrt{2020}-\sqrt{2019})-(\sqrt{2019}-\sqrt{2018})$$
 
-Pakāpeniski aprēkinām dotās izteiksmes vērtību, iekavas sareizinot, izmantojot kvadrātu starpības formulu $a^{2}-b^{2}=(a+b)(a-b)$ un kopīgā reizinātāja iznešanu pirms iekavām:
+Pakāpeniski aprēķinām dotās izteiksmes vērtību, iekavas sareizinot, izmantojot kvadrātu starpības formulu $a^{2}-b^{2}=(a+b)(a-b)$ un kopīgā reizinātāja iznešanu pirms iekavām:
 
 $$\begin{aligned}
 & \quad(\sqrt{2020}-2 \sqrt{2019}+\sqrt{2018})(\sqrt{2020}+\sqrt{2019})(\sqrt{2019}+\sqrt{2018})(\sqrt{2020}+\sqrt{2018})= \\
@@ -925,7 +925,7 @@ $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
 Pārveidosim vienādības kreisās puses izteiksmi:
 
 $$\begin{gathered}
-\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{\text {induktīvais pieñemums }}+(k+1)(k+2)(k+3)= \\
+\underbrace{6+24+60+\cdots+k(k+1)(k+2)}_{induktīvais\ pieņēmums}+(k+1)(k+2)(k+3)= \\
 =\frac{k(k+1)(k+2)(k+3)}{4}+(k+1)(k+2)(k+3)=(k+1)(k+2)(k+3)\left(\frac{k}{4}+1\right)= \\
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
@@ -968,7 +968,7 @@ skaits ir galīgs, tad pirmais spēlētājs uzvarēs.
 
 # <lo-sample/> LV.AMO.2019.10.3.
 
-Dots taisnstūris $ABCD$, kur $AB<BC$. Uz malas $BC$ izvēlēts tāds punkts $E$, 
+Dots taisnstūris $ABCD$, kur $AB < BC$. Uz malas $BC$ izvēlēts tāds punkts $E$, 
 ka $AE=AD$. Leņķa $DAE$ bisektrise krusto malu $CD$ punktā $F$. Trijstūrī $ADE$
 novilkts augstums $EG$. Pierādīt, ka $\sphericalangle AGC=\sphericalangle AFC$.
 
@@ -988,7 +988,7 @@ tāpēc
 $\sphericalangle ADE=\frac{1}{2}\left(180^{\circ}-2 \alpha\right)=90^{\circ}-\alpha$.
 Tā kā $ECDG$ ir taisnstūris, tad 
 $\sphericalangle ADE=\sphericalangle CGD=90^{\circ}-\alpha$. Līdz ar to 
-$\sphericalangle AGC=180^{\circ}-\sphericalangle CGD=$ $=180^{\circ}-\left(90^{\circ}-\alpha\right)=90^{\circ}+\alpha$.
+$\sphericalangle AGC=180^{\circ}-\sphericalangle CGD=180^{\circ}-\left(90^{\circ}-\alpha\right)=90^{\circ}+\alpha$.
 Tātad $\sphericalangle AGC=\sphericalangle AFC=90^{\circ}+\alpha$.
 
 ![](LV.AMO.2019.10.3A.png)
@@ -1011,14 +1011,14 @@ kvadrāts?
 
 Atradīsim, kādām $n$ vērtībām izteiksmes $n^{2}+n+19$ vērtība atrodas starp 
 divu blakusesošu naturālu skaitļu kvadrātiem, tas ir, starp $n^{2}$ un 
-$(n+1)^{2}=n^{2}+2n+1$. levērojam, ka $n^{2}<n^{2}+n+19$ ir patiesa visiem 
-naturāliem $n$ un nevienādība $n^{2}+n+19<n^{2}+2n+1$ ir patiesa, ja $n>18$. 
-Tātad, ja $n>18$, tad izteiksmes $n^{2}+n+19$ vērtība atrodas starp divu 
+$(n+1)^{2}=n^{2}+2n+1$. levērojam, ka $n^{2} < n^{2}+n+19$ ir patiesa visiem 
+naturāliem $n$ un nevienādība $n^{2}+n+19 < n^{2}+2n+1$ ir patiesa, ja $n > 18$. 
+Tātad, ja $n > 18$, tad izteiksmes $n^{2}+n+19$ vērtība atrodas starp divu 
 blakusesošu naturālu skaitļu kvadrātiem un tā nevar būt naturāla skaitļa 
 kvadrāts.
 
-Līdzīgi iegūstam, ja $5<n<18$, tad 
-$(n+1)^{2}=n^{2}+2n+1<n^{2}+n+19<n^{2}+4n+4=(n+2)^{2}$. Tātad izteiksmes 
+Līdzīgi iegūstam, ja $5 < n < 18$, tad 
+$(n+1)^{2}=n^{2}+2n+1 < n^{2}+n+19 < n^{2}+4n+4=(n+2)^{2}$. Tātad izteiksmes 
 vērtība atrodas starp divu pēc kārtas esošu naturālu skaitļu kvadrātiem, līdz 
 ar to nav naturāla skaitļa kvadrāts.
 
@@ -1171,7 +1171,7 @@ dalītājus augošā secībā:
 $$1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216$$
 
 Otrais spēlētājs visus dalītājus sadala pāros tā, ka katra pāra skaitļu 
-reizinājums ir $216$:
+reizinājums ir $216$:  
 $1$ un $216$  
 $3$ un $72$  
 $6$ un $36$  
@@ -1252,14 +1252,14 @@ ir lielākais iespējamais šo skaitļu reizinājums?
 
 ## Atrisinājums
 
-skaitļu summu apzīmēsim ar $N$. Pieņemsim, ka esam atraduši lielāko iespējamo 
+Skaitļu summu apzīmēsim ar $N$. Pieņemsim, ka esam atraduši lielāko iespējamo 
 reizinājumu $a_{1} \cdot a_{2} \cdot \ldots \cdot a_{k}$, kuram 
 $a_{1}+a_{2}+\cdots+a_{k}=N$. Aplūkosim, kādi skaitļi nevar ietilpt šajā 
 reizinājumā.
 
 - Reizinājumā nevar būt skaitlis $1$, jo, pieskaitot to jebkuram citam 
   reizinātājam, iegūsim lielāku reizinājumu pie tādas pašas summas. Nezaudējot 
-  vispārīgumu, varam pienemt, ka $a_{1}=1$, tad 
+  vispārīgumu, varam pieņemt, ka $a_{1}=1$, tad 
   $1 \cdot a_{2} \cdot \ldots \cdot a_{k}<\left(a_{2}+1\right) \cdot \ldots \cdot a_{k}$,
   iegūta pretruna, jo $a_{1} \cdot a_{2} \cdot \ldots \cdot a_{k}$ ir lielākais
   iespējamais reizinājums.
@@ -1394,7 +1394,7 @@ $$1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144$$
 
 Pirmais spēlētājs savā pirmajā gājienā uz tāfeles uzraksta dalītāju $12$ (kas 
 ir vidējais loceklis dalītāju rindā), pēc tam pirmais spēlētājs visus atlikušos
-dalītājus sadala pāros tā, ka katra pāra skaitļu reizinājums ir $144$:
+dalītājus sadala pāros tā, ka katra pāra skaitļu reizinājums ir $144$:  
 $1$ un $144$  
 $3$ un $48$  
 $6$ un $24$  
@@ -1524,7 +1524,7 @@ $a_{1}, a_{2}, \ldots, a_{n}$, bet to kopējo naudas daudzumu ar $S$. Tad no
 - $a_{1} \geq a_{2} \geq \ldots \geq a_{n}$
 - $a_{1}=\frac{s-a_{1}}{8}$ jeb $a_{1}=\frac{s}{9^{\prime}}$
 - $a_{4}=\frac{s-a_{4}}{11}$ jeb $a_{4}=\frac{s}{12^{\prime}}$
-- $a_{n}=\frac{s-a_{n}}{13}$ jeb $a_{n}=\frac{s}{14}
+- $a_{n}=\frac{s-a_{n}}{13}$ jeb $a_{n}=\frac{s}{14}$
 
 Novērtēsim kopējo naudas daudzumu $S$ no augšas un no apakšas.
 

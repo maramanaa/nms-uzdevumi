@@ -1448,23 +1448,28 @@ levadīsim $1$ un nospiedīsim <uz augšu>:
 - ja lifts uzbrauks uz augšu, tad esam klāt.
 - ja nē, tad tas nobrauks $1$ stāvu uz leju, un tad ievadīsim $2$ un 
   nospiedīsim <uz augšu>:
-- ja lifts uzbrauks uz augšu, tad esam klāt,
-- ja nē, tad tas nobrauks $2$ stāvus uz leju (kopā jau esam $3$ stāvus uz 
-  leju), un tad ievadīsim $4$ un nospiedīsim <uz augšu>:
-- ja lifts uzbrauks uz augšu, tad esam klāt,
-- ja nē, tad tas nobrauks $4$ stāvus uz leju (kopumā jau esam $7$ stāvus uz 
-  leju), un tad ievadīsim $8$ un nospiedīsim <uz augšu>:
-- ja lifts uzbrauks uz augšu, tad esam klāt,
-- ja nē, tad tas nobrauks $8$ stāvus uz leju (kopumā jau esam $15$ stāvus uz 
-  leju), un tad ievadīsim $16$ un nospiedīsim <uz augšu>:
-- ja lifts uzbrauks uz augšu, tad esam klāt,
-- ja nē, tad tas nobrauks $16$ stāvus uz leju (kopumā jau esam $31$ stāvu uz 
-  leju), un tad ievadīsim $32$ un nospiedīsim <uz augšu>:
-- ja lifts uzbrauks uz augšu, tad esam klāt,
-- ja nē, tad tas nobrauks $32$ stāvus uz leju (kopumā jau esam $63$ stāvus uz 
-  leju), un tad ievadīsim $64$ un nospiedīsim <uz augšu>. Tā kā iepriekšējās 
-  $6$ reizes lifts ir aizbraucis pretējā virzienā, tad tagad tas noteikti 
-  brauks uz augšu un mēs nokļūsim tieši vienu stāvu uz augšu no sākotnējā.
+  
+   - ja lifts uzbrauks uz augšu, tad esam klāt,
+   - ja nē, tad tas nobrauks $2$ stāvus uz leju (kopā jau esam $3$ stāvus uz 
+     leju), un tad ievadīsim $4$ un nospiedīsim <uz augšu>:
+	 
+      - ja lifts uzbrauks uz augšu, tad esam klāt,
+      - ja nē, tad tas nobrauks $4$ stāvus uz leju (kopumā jau esam $7$ stāvus uz 
+        leju), un tad ievadīsim $8$ un nospiedīsim <uz augšu>:
+		
+         - ja lifts uzbrauks uz augšu, tad esam klāt,
+         - ja nē, tad tas nobrauks $8$ stāvus uz leju (kopumā jau esam $15$ stāvus uz 
+           leju), un tad ievadīsim $16$ un nospiedīsim <uz augšu>:
+		   
+            - ja lifts uzbrauks uz augšu, tad esam klāt,
+            - ja nē, tad tas nobrauks $16$ stāvus uz leju (kopumā jau esam $31$ stāvu uz 
+              leju), un tad ievadīsim $32$ un nospiedīsim <uz augšu>:
+			  
+               - ja lifts uzbrauks uz augšu, tad esam klāt,
+               - ja nē, tad tas nobrauks $32$ stāvus uz leju (kopumā jau esam $63$ stāvus uz 
+                 leju), un tad ievadīsim $64$ un nospiedīsim <uz augšu>. Tā kā iepriekšējās 
+                 $6$ reizes lifts ir aizbraucis pretējā virzienā, tad tagad tas noteikti 
+                 brauks uz augšu un mēs nokļūsim tieši vienu stāvu uz augšu no sākotnējā.
 
 
 

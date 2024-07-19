@@ -269,7 +269,7 @@ no kurām tika paņemts nedaudz siekalu, ja nē - tad vienā no $32$ pārējām 
 Tālāk laborants darbosies tikai ar tām $32$ mēģenēm, no kurām vienā ir vīruss,
 pārējās noliks prom. Laborants atkal vienā traukā sajauc nedaudz siekalu no $16$
 mēģenēm. Tādā veidā pēc otrās pārbaudes ir noskaidrotas $16$ mēģenes, no kurām
-vienā ir vīruss. Līdzīgi pēc trešās pārbaudes atrod $8$ mēģenes, pēc ceturtās -$4$
+vienā ir vīruss. Līdzīgi pēc trešās pārbaudes atrod $8$ mēģenes, pēc ceturtās- $4$
 mēģenes, pēc piektās- $2$ mēģenes un pēc sestās - vienu meklēto mēģeni, kurā ir vīruss.
 
 (Shematiski mēģeņu dalīšana divās grupās parādīta 3.att., iekrāsojums apzīmē tās
@@ -281,7 +281,7 @@ mēģenes, no kurām vienā ir vīruss.)
 
 # <lo-sample/> LV.NOL.2022.7.1
 
-Aprēkināt laukumu četrstūrim, kuru ierobežo taisnes
+Aprēķināt laukumu četrstūrim, kuru ierobežo taisnes
  $y=1, x=-2, x=3, y=\frac{3}{5} x+\frac{21}{5}$.
 
 <small>
@@ -379,7 +379,7 @@ var nokļūt jebkurā citā stāvā bez pārkāpšanas citā liftā?
 
 ## Atrisinājums
 
-Jā, var, piemēram, liftu apstāšanās var būt tāda kā 6.att., kur ar $"x"$
+Jā, var, piemēram, liftu apstāšanās var būt tāda kā 6.att., kur ar "$x$"
 atzīmēti stāvi, kuros lifts apstājas.
 
 ![](LV.NOL.2022.7.4A.png)
@@ -443,7 +443,7 @@ skaitļiem ir vienādi, tad lielāks ir pirmais reizinājums.
 
 # <lo-sample/> LV.NOL.2022.8.2
 
-Vai no taisnstūra ar izmēriem $6 \times 12$ rūtinas var izgriezt astoņas
+Vai no taisnstūra ar izmēriem $6 \times 12$ rūtiņas var izgriezt astoņas
 7.att. redzamās figūras?
 
 ![](LV.NOL.2022.8.2.png)
@@ -504,7 +504,7 @@ Vai piecu secīgu veselu skaitļu summa var būt **a)** $2022$, **b)** $2025$?
 
 ## Atrisinājums
 
-**a)**Nē, nevar būt. Apzīmējam piecus secīgos skaitļus ar
+**a)** Nē, nevar būt. Apzīmējam piecus secīgos skaitļus ar
 $n-2 ; n-1 ; n ; n+1 ; n+2$. Šo skaitlu summa ir
 $(n-2)+(n-1)+n+(n+1)+(n+2)=5n$. Tā kā $2022$ nedalās ar $5$,
 tad piecu secīgu skaitļu summa nevar būt $2022$.
@@ -610,7 +610,7 @@ un laukums $S=2 \cdot 24+3 \cdot 4=60$.
 
 Punkts $R$ ir nogriežņa $KO$ iekšējs punkts, punkts $P$ izvēlēts tā,
 ka $\sphericalangle RPO=80^{\circ}$. Leņķu $KRP$ un $KOP$ bisektrises
-krustojas punktā $A$. Aprēkināt $\sphericalangle RAO$.
+krustojas punktā $A$. Aprēķināt $\sphericalangle RAO$.
 
 <small>
 
@@ -625,7 +625,7 @@ krustojas punktā $A$. Aprēkināt $\sphericalangle RAO$.
 Apzīmēsim $\sphericalangle AOP=x$ (skat. 2.att.), tad arī
 $\sphericalangle AOR=x$, jo $AO$ ir leņķa $POR$ bisektrise.
 
-Trijstūra ārējais leņķis ir vienāds ar to divu iekšējo leņku summu,
+Trijstūra ārējais leņķis ir vienāds ar to divu iekšējo leņķu summu,
 kas nav tā blakusleņki, tāpēc $\sphericalangle KRP=2 x+80^{\circ}$.
 Tā kā $AR$ ir leņka $KRP$ bisektrise,
 tad $\sphericalangle KRA=\sphericalangle ARP=x+40^{\circ}$. levērojam,
@@ -916,7 +916,7 @@ P+M=7260
 
 iegūstam $2P=9282$ jeb $P=4641$. Tad no sistēmas otrā vienādojuma iegūstam, ka
 $M=7260-4641=2619$. Ja būtu $96$ (vai vairāk) "+" zīmes, tad $P$ būtu lielāks
-vai vienāds ar mazāko $96$ naturālo skaitlu summu. Bet tā ir
+vai vienāds ar mazāko $96$ naturālo skaitļu summu. Bet tā ir
 $1+2+\cdots+95+96=\frac{(1+96) \cdot 96}{2}=4656$, kas ir lielāka nekā $P=4641$.
 (Šāds novērtējums var palīdzēt atrast arī augstāk redzamo piemēru. Ja ar " + "
 zīmi būtu pirmie $95$ skaitļi, tad $P=1+2+\cdots+95=\frac{(1+95) \cdot 95}{2}=4560$.
@@ -1025,7 +1025,7 @@ augstumi pret šo malu ir vienāda garuma. No abām vienādības pusēm atņemot
 trijstūra $DEC$ laukumu, iegūstam, ka $S_{ACD}-S_{DEC}=S_{BCD}-S_{DEC}$ no kā
 izriet, ka $S_{AED}=S_{BEC}$.
 
-Apzīmējam $S_{AED}=S_{BEC}=c, S_{ABE}=a$ un $S_{DEC}=b$. Tādā gadijumā
+Apzīmējam $S_{AED}=S_{BEC}=c, S_{ABE}=a$ un $S_{DEC}=b$. Tādā gadījumā
 $S_{ABC}=a+c$ un $S_{ABCD}=a+b+2c$.
 
 Apzīmējam attālumu no virsotnes $B$ līdz malai $AC$ ar $h$ un attālumu no
@@ -1077,7 +1077,7 @@ izteiksmes kreisajai pusei jādalās ar $25$.
 # <lo-sample/> LV.NOL.2022.11.5
 
 Pierādīt, ka visus naturālos skaitļus no $1$ līdz $2022$ iespējams sakārtot
-rindā tā, ka katri divi blakus esoši skaitlļi atškiras vai nu par $6$, vai
+rindā tā, ka katri divi blakus esoši skaitļi atšķiras vai nu par $6$, vai
 par $11$ .
 
 <small>
@@ -1095,11 +1095,11 @@ līdz $17$:
 
 ![](LV.NOL.2022.11.5A.png)
 
-levērojam, ka, visiem šiem skaitliem pieskaitot $17$, iegūsim derīgu skaitļu
+levērojam, ka, visiem šiem skaitļiem pieskaitot $17$, iegūsim derīgu skaitļu
 grupu, kurā būs visi skaitļi no $18$ līdz $34$. Tā kā pirmais skaitlis šajā
 grupā būs $6+17=23$, tad starpība starp pirmās grupas pēdējo un otrās grupas
 pirmo skaitli ir $6$, kas nozīmē, ka, uzrakstot otro grupu tieši aiz pirmās,
-esam ieguvuši korektu virkni, kurā ir visi skaitli no $1$ līdz $34$. Līdzīgi
+esam ieguvuši korektu virkni, kurā ir visi skaitļi no $1$ līdz $34$. Līdzīgi
 turpinot, iegūsim derīgas virknes, kuru pēdējais loceklis ir $17n$, kur
 $n \in \mathbb{N}$.
 
@@ -1133,7 +1133,7 @@ Uzzīmējam koka diagrammu, kas ilustrē testa izpildi (skat. 10.att.).
 
 ![](LV.NOL.2022.12.1A.png)
 
-Redzam, ka testam ir $5 labvēlīgi iznākumi. Kopējais iznākumu skaits ir
+Redzam, ka testam ir $5$ labvēlīgi iznākumi. Kopējais iznākumu skaits ir
 $2^{4}=16$, jo katram no četriem jautājumiem ir iespējami divi atbilžu
 varianti. Tātad varbūtība, ka tests tiks ieskaitīts, atbildes minot, ir
 $\frac{5}{16}$.
@@ -1201,7 +1201,7 @@ $x_{1}=1, x_{2}=-2, x_{3}=x_{4}=\frac{1}{2}$.
 # <lo-sample/> LV.NOL.2022.12.3
 
 Dots izliekts četrstūris $ABCD$, kuram $AB=BC=CD$. Četrstūra diagonāles
-krustojas punktā $E$. Pierādīt, ka leņķuu $BAD$ un $ADC$ bisektrišu
+krustojas punktā $E$. Pierādīt, ka leņķu $BAD$ un $ADC$ bisektrišu
 krustpunkts atrodas uz trijstūrim $ADE$ apvilktās riņķa līnijas.
 
 <small>
@@ -1280,7 +1280,7 @@ formā $p=5k+4$ un $p+1=5k+5$, kas dalās ar $5$ .
 
 Tātad $p^{4}-1$ dalās ar $5$.
 
-Esam ieguvušì, ka $p^{4}-1$ dalās ar $3$,$5$ un $16$. Tā kā šie skaitļi ir
+Esam ieguvušì, ka $p^{4}-1$ dalās ar $3$, $5$ un $16$. Tā kā šie skaitļi ir
 savstarpēji pirmskaitļi, tad $p^{4}-1$ dalās ar $240$.
 
 $Piezīmes$
