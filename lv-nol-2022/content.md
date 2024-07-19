@@ -1093,9 +1093,7 @@ par $11$ .
 Vispirms parādīsim, ka prasītajā veidā ir iespējams sakārtot skaitļus no $1$
 līdz $17$:
 
-| 6 | 12 | 1 | 7 | 13 | 2 | 8 | 14 | 3 | 9 | 15 | 4 | 10 | 16 | 5 | 11 | 17 |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 |  | 11 | 6 |  | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 | 11 | 6 | 6 |
+![](LV.NOL.2022.11.5A.png)
 
 levērojam, ka, visiem šiem skaitļiem pieskaitot $17$, iegūsim derīgu skaitļu
 grupu, kurā būs visi skaitļi no $18$ līdz $34$. Tā kā pirmais skaitlis šajā
