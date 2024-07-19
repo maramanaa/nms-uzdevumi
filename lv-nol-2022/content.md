@@ -269,7 +269,7 @@ no kurām tika paņemts nedaudz siekalu, ja nē - tad vienā no $32$ pārējām 
 Tālāk laborants darbosies tikai ar tām $32$ mēģenēm, no kurām vienā ir vīruss,
 pārējās noliks prom. Laborants atkal vienā traukā sajauc nedaudz siekalu no $16$
 mēģenēm. Tādā veidā pēc otrās pārbaudes ir noskaidrotas $16$ mēģenes, no kurām
-vienā ir vīruss. Līdzīgi pēc trešās pārbaudes atrod $8$ mēģenes, pēc ceturtās -$4$
+vienā ir vīruss. Līdzīgi pēc trešās pārbaudes atrod $8$ mēģenes, pēc ceturtās- $4$
 mēģenes, pēc piektās- $2$ mēģenes un pēc sestās - vienu meklēto mēģeni, kurā ir vīruss.
 
 (Shematiski mēģeņu dalīšana divās grupās parādīta 3.att., iekrāsojums apzīmē tās
