@@ -379,7 +379,7 @@ var nokļūt jebkurā citā stāvā bez pārkāpšanas citā liftā?
 
 ## Atrisinājums
 
-Jā, var, piemēram, liftu apstāšanās var būt tāda kā 6.att., kur ar "$x$"
+Jā, var, piemēram, liftu apstāšanās var būt tāda kā 6.att., kur ar $"x"$
 atzīmēti stāvi, kuros lifts apstājas.
 
 ![](LV.NOL.2022.7.4A.png)
