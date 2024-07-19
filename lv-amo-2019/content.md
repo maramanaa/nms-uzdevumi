@@ -362,7 +362,7 @@ vienu lauciņu, tad otrais spēlētājs aizkrāso divus blakus esošus lauciņus
 otrādi. Katrā savā nākamajā gājienā otrajam spēlētājam jākrāso simetriski pirmā
 spēlētāja tikko izdarītajam gājienam attiecībā pret 14.att. novilkto taisni 
 (vai arī simetriski attiecībā pret riņķa līnijas centru). Ja pirmais spēlētājs 
-varēs izdarīt gājienu, tad arī otrais spēlētājs to varēs izdarī. Līdz ar to 
+varēs izdarīt gājienu, tad arī otrais spēlētājs to varēs izdarīt. Līdz ar to 
 gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 
 ![](LV.AMO.2019.7.2A.png)
@@ -480,7 +480,7 @@ ar $2^{11}$. Tātad $n$ nevar būt mazāks kā $11$.
 Atjaunojot taisnu žogu, Raimonds izraka vecos žoga stabus, kuri atradās $8$ 
 metru attālumā viens no otra un kuru skaits bija nepāra skaitlis. Raimonds 
 sanesa visus stabus pie vidējā, nesdams tos pa vienam un sākdams ar vienu no 
-malējiem stabiem. Cik bija stabu, ja viņš nostaigāja $840~\mathrm{m}?
+malējiem stabiem. Cik bija stabu, ja viņš nostaigāja $840~\mathrm{m}$?
 
 <small>
 
@@ -558,7 +558,7 @@ Otrajam spēlētājam katrā savā gājienā jāizdara pirmā spēlētāja gāji
 simetrisks gājiens attiecībā pret kvadrāta centru (skat. 19.att., kur parādīts 
 viens iespējams gājienu "pāris"). Ja pirmais spēlētājs varēs aizpildīt tukšās 
 rūtiņas, tad arī otrais spēlētājs to varēs izdarīt. Līdz ar to gājieni pietrūks
-pirmajam spēlētājam un viņs zaudēs.
+pirmajam spēlētājam un viņš zaudēs.
 
 ![](LV.AMO.2019.8.2A.png)
 
@@ -741,7 +741,7 @@ otrais - vienmēr var uzvarēt?
 
 ## Atrisinājums
 
-Pamatosim, ka vienmēr var uzvarēt pirmais spēēētājs.
+Pamatosim, ka vienmēr var uzvarēt pirmais spēlētājs.
 
 Pirmajā gājienā pirmajam spēlētājam jānokrāso melnā krāsā tā rūtiņa, kas 
 atrodas kvadrāta centrā. Lai arī kur otrais spēlētājs nokrāsotu rūtiņu pirmajam
