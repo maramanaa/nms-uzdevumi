@@ -1017,7 +1017,7 @@ Tātad, ja $n > 18$, tad izteiksmes $n^{2}+n+19$ vērtība atrodas starp divu
 blakusesošu naturālu skaitļu kvadrātiem un tā nevar būt naturāla skaitļa 
 kvadrāts.
 
-Līdzīgi iegūstam, ja $5<n<18$, tad 
+Līdzīgi iegūstam, ja $5 < n < 18$, tad 
 $(n+1)^{2}=n^{2}+2n+1 < n^{2}+n+19 < n^{2}+4n+4=(n+2)^{2}$. Tātad izteiksmes 
 vērtība atrodas starp divu pēc kārtas esošu naturālu skaitļu kvadrātiem, līdz 
 ar to nav naturāla skaitļa kvadrāts.
