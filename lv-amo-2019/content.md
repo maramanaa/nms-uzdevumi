@@ -1309,9 +1309,9 @@ skaitlis!
 Apzīmējam $x^{2}-nx=a$, tad
 
 
-- $x^{2}=a+nx$  
-- $x^{3}=x \cdot x^{2}=x(a+nx)=ax+nx^{2}=ax+n(a+nx)=ax+n^{2}x+an$  
-- $x^{3}-nx=ax+n^{2}x+an-nx=\left(a+n^{2}-n\right)x+an$
+- $x^{2} = a+nx$  
+- $x^{3} = x \cdot x^{2} = x(a+nx) = ax+nx^{2} = ax+n(a+nx) = ax+n^{2}x+an$  
+- $x^{3}-nx = ax+n^{2}x+an-nx = \left(a+n^{2}-n\right)x+an$
 
 Ja $a+n^{2}-n \neq 0$, tad $x=\frac{\left(x^{3}-nx\right)-an}{a+n^{2}-n}$ arī 
 ir racionāls skaitlis.

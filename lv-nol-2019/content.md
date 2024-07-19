@@ -399,55 +399,66 @@ vai smagāka nekā pārējās? (Pašu monētu atrast nav nepieciešams.)
 
 Uzliekam uz katra svaru kausa $4$ monētas, malā atstājot $6$ monētas.
 
-(A) Ja kausi ir līdzsvarā, tad atšķirīgā monēta palikusi malā (skat. 
-13.att. (A)). Otrajā svēršanā salīdzinām malā palikušās $6$ monētas ar jebkurām
-$6$ jau svērtajām (parastajām) monētām.
+**(A)** Ja kausi ir līdzsvarā, tad atšķirīgā monēta palikusi malā (skat. 
+13.att. **(A)**). Otrajā svēršanā salīdzinām malā palikušās $6$ monētas ar 
+jebkurām $6$ jau svērtajām (parastajām) monētām.
 
-- Ja svaru kauss ar 6 parastajām monētām nosveras uz leju, tad atškirīgā monēta ir vieglāka nekā pārējās.
-- Ja svaru kauss ar 6 parastajām monētām nosveras uz augšu, tad atškirīgā monēta ir smagāka nekā pārējās.
+- Ja svaru kauss ar $6$ parastajām monētām nosveras uz leju, tad atšķirīgā 
+  monēta ir vieglāka nekā pārējās.
+- Ja svaru kauss ar $6$ parastajām monētām nosveras uz augšu, tad atšķirīgā 
+  monēta ir smagāka nekā pārējās.
 
-(B) Ja pirmajā svēršanā svari nav līdzsvarā, tad atškirīgā monēta ir atradusies uz svariem (skat. 13.att. (B)). Otrajā svēršanā salīdzinām vieglākā kausa 4 monētas ar jebkurām 4 malā palikušajām (parastajām) monētām.
+**(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
+atradusies uz svariem (skat. 13.att. **(B)**). Otrajā svēršanā salīdzinām 
+vieglākā kausa $4$ monētas ar jebkurām $4$ malā palikušajām (parastajām) 
+monētām.
 
-- Ja svaru kausi ir līdzsvarā, tad atškirīgā monēta pirmajā svēršanā ir bijusi uz "smagākā" kausa un ir smagāka nekā citas monētas.
-- Ja svaru kausi nav līdzsvarā, tad atškirīgā monēta pirmajā svēršanā ir bijusi uz "vieglākā" kausa un ir vieglāka nekā citas monētas.
+- Ja svaru kausi ir līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi 
+  uz "smagākā" kausa un ir smagāka nekā citas monētas.
+- Ja svaru kausi nav līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi
+  uz "vieglākā" kausa un ir vieglāka nekā citas monētas.
 
-(A)
-
-(B)
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-05.jpg?height=196&width=908&top_left_y=324&top_left_x=573)
-
-6
-
-13. att
+![](LV.NOL.2019.7.2A.png)
 
 ## Atrisinājums
 
-2. atrisinājums. Uzliekam uz katra svaru kausa 5 monētas, malā atstājot 4 monētas.
+Uzliekam uz katra svaru kausa $5$ monētas, malā atstājot $4$ monētas.
 
-(A) Ja kausi ir līdzsvarā, tad atškirirīgā monēta palikusi malā (skat. 14.att. (A)). Otrajā svēršanā salīdzinām malā palikušās 4 monētas ar jebkurām 4 jau svērtajām (parastajām) monētām.
+**(A)** Ja kausi ir līdzsvarā, tad atšķirīgā monēta palikusi malā (skat. 
+14.att. **(A)**). Otrajā svēršanā salīdzinām malā palikušās $4$ monētas ar 
+jebkurām $4$ jau svērtajām (parastajām) monētām.
 
-- Ja svaru kauss ar 4 parastajām monētām nosveras uz leju, tad atškirīgā monēta ir vieglāka nekā pārējās.
-- Ja svaru kauss ar 4 parastajām monētām nosveras uz augšu, tad atškirīgā monēta ir smagāka nekā pārējās.
+- Ja svaru kauss ar $4$ parastajām monētām nosveras uz leju, tad atšķirīgā 
+  monēta ir vieglāka nekā pārējās.
+- Ja svaru kauss ar $4$ parastajām monētām nosveras uz augšu, tad atškirīgā 
+  monēta ir smagāka nekā pārējās.
 
-(B) Ja pirmajā svēršanā svari nav līdzsvarā, tad atškirīgā monēta ir atradusies uz svariem (skat. 14.att. (B)). Izvēlamies vieglākā kausa monētas un tām pievienojam vienu parasto monētu, kas pirmajā svēršanā bija atlikta malā. legūstam kaudzīti ar 6 monētām. Otrajā svēršanā katrā svaru kausā liekam pa 3 monētām no šīs kaudzītes.
+**(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
+atradusies uz svariem (skat. 14.att. **(B)**). Izvēlamies vieglākā kausa 
+monētas un tām pievienojam vienu parasto monētu, kas pirmajā svēršanā bija 
+atlikta malā. legūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
+kausā liekam pa $3$ monētām no šīs kaudzītes.
 
-- Ja svaru kausi ir līdzsvarā, tad atškirīgā monēta pirmajā svēršanā ir bijusi uz "smagākā" kausa un ir smagāka nekā citas monētas.
-- Ja svaru kausi nav līdzsvarā, tad atškirīgā monēta pirmajā svēršanā ir bijusi uz "vieglākā" kausa un ir vieglāka nekā citas monētas.
+- Ja svaru kausi ir līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi 
+  uz "smagākā" kausa un ir smagāka nekā citas monētas.
+- Ja svaru kausi nav līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi
+  uz "vieglākā" kausa un ir vieglāka nekā citas monētas.
 
-(A)
-
-(B)
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-05.jpg?height=242&width=972&top_left_y=1301&top_left_x=614)
+![](LV.NOL.2019.7.2B.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.7.3.
 
-7.3. Anniņa kvadrātā $6 \times 6$ iekrāsoja dažas pelēkas rūtinas tā, ka neveidojas neviens stūrītis (skat. 15.att.), kam visas rūtiņas ir pelēkas. Ja Anniņa iekrāsos vēl jebkuru vienu rūtiņu, tad noteikti veidosies stūrītis, kam visas rūtiņas ir pelēkas. Jānītis, ievērojot tos pašus nosacījumus, iekrāsoja rūtinas citā kvadrātā $6 \times 6$. Vai var gadīties, ka Anniņa iekrāsoja mazāk rūtinuu nekā Jānītis? Figūra stūrītis var būt arī pagriezta.
+Anniņa kvadrātā $6 \times 6$ iekrāsoja dažas pelēkas rūtiņas tā, ka neveidojas 
+neviens stūrītis (skat. 15.att.), kam visas rūtiņas ir pelēkas. Ja Anniņa 
+iekrāsos vēl jebkuru vienu rūtiņu, tad noteikti veidosies stūrītis, kam visas 
+rūtiņas ir pelēkas. Jānītis, ievērojot tos pašus nosacījumus, iekrāsoja rūtiņas
+citā kvadrātā $6 \times 6$. Vai var gadīties, ka Anniņa iekrāsoja mazāk rūtiņu 
+nekā Jānītis? Figūra stūrītis var būt arī pagriezta.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-05.jpg?height=131&width=117&top_left_y=1736&top_left_x=975)
+![](LV.NOL.2019.7.3.png)
 
-Atrisin
 <small>
 
 * questionType:
@@ -456,14 +467,17 @@ Atrisin
 </small>
 
 ## Atrisinājums
-ājums. Jā, var gadīties, piemēram, ja Anniņa iekrāsoja 12 rūtinas kā parādīts 16.att., bet Jānītis iekrāsoja 18 rūtiņas kā parādīts 17.att.
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-05.jpg?height=360&width=1284&top_left_y=1967&top_left_x=385)
+
+Jā, var gadīties, piemēram, ja Anniņa iekrāsoja $12$ rūtiņas kā parādīts 
+16.att., bet Jānītis iekrāsoja $18$ rūtiņas kā parādīts 17.att.
+
+![](LV.NOL.2019.7.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.7.4.
 
-7.4. Vai var atrast tādus veselus skait|us $a$ un $b$, ka $a b(a+5 b)=150015$ ?
+Vai var atrast tādus veselus skaitļus $a$ un $b$, ka $ab(a+5b)=150015$ ?
 
 <small>
 
@@ -474,15 +488,24 @@ Atrisin
 
 ## Atrisinājums
 
-Atrisinājums. Pamatosim, ka nevar atrast prasītos skait|us. Ja $a$ vai $b$ ir pāra skaitlis, tad vienādojuma kreisās puses izteiksmes vērtība ir pāra skaitlis, kas nevar būt vienāds ar nepāra skaitli 150015. Ja $a$ un $b$ abi ir nepāra skaitli, tad $(a+5 b)$ ir pāra skaitlis un vienādojuma kreisās puses izteiksmes vērtība ir pāra skaitlis, kas nevar būt vienāds ar nepāra skaitli 150015. Tātad nevar atrast tādus veselus skait|us $a$ un $b$, lai dotā vienādība būtu patiesa.
+Pamatosim, ka nevar atrast prasītos skaitļus. Ja $a$ vai $b$ ir pāra skaitlis, 
+tad vienādojuma kreisās puses izteiksmes vērtība ir pāra skaitlis, kas nevar 
+būt vienāds ar nepāra skaitli $150015$. Ja $a$ un $b$ abi ir nepāra skaitļi, 
+tad $(a+5b)$ ir pāra skaitlis un vienādojuma kreisās puses izteiksmes vērtība 
+ir pāra skaitlis, kas nevar būt vienāds ar nepāra skaitli $150015$. Tātad nevar
+atrast tādus veselus skaitļus $a$ un $b$, lai dotā vienādība būtu patiesa.
 
 
 
 # <lo-sample/> LV.NOL.2019.7.5.
 
-7.5. Uz tāfeles uzrakstītas deviņas zvaigznītes *
+Uz tāfeles uzrakstītas deviņas zvaigznītes $*********$.
 
-. Mārtiņš ieraksta kādas zvaigznītes vietā jebkuru ciparu no 1 līdz 9. Pēc tam Rihards jebkuru divu citu zvaigznīšu vietā ieraksta divus nenulles ciparus (tie var arī atkārtoties). Pēc tam vēl divas reizes vinii atkārto šo darbību. Rihards uzvar, ja iegūtais deviņciparu skaitlis dalās ar 31. Vai Rihards vienmēr var uzvarēt?
+Mārtiņš ieraksta kādas zvaigznītes vietā jebkuru ciparu no $1$ līdz $9$. Pēc 
+tam Rihards jebkuru divu citu zvaigznīšu vietā ieraksta divus nenulles ciparus 
+(tie var arī atkārtoties). Pēc tam vēl divas reizes viņi atkārto šo darbību. 
+Rihards uzvar, ja iegūtais deviņciparu skaitlis dalās ar $31$. Vai Rihards 
+vienmēr var uzvarēt?
 
 <small>
 
@@ -493,19 +516,36 @@ Atrisinājums. Pamatosim, ka nevar atrast prasītos skait|us. Ja $a$ vai $b$ ir 
 
 ## Atrisinājums
 
-Atrisinājums. Pamatosim, ka Rihards vienmēr var uzvarēt.
+Pamatosim, ka Rihards vienmēr var uzvarēt.
 
-Sadalām visus ciparus grupās pa trim cipariem katrā $(* * *)(* * *)(* * *)$. Tad deviņciparu skaitli varam izteikt kā $A \cdot 10^{6}+B \cdot 10^{3}+C$, kur $A, B$ un $C$ ir trīsciparu skaitļi, kas izveidojas attiecīgi pirmajā, otrajā un trešajā grupā. Ja Rihardam izdosies panākt, ka katrā grupā izveidotais trīsciparu skaitlis $A, B$ un $C$ dalās ar 31, tad arī iegūtais devinciparu skaitlis dalīsies ar 31 (ja katrs saskaitāmais dalās ar 31, tad arī summa dalās ar 31) un Rihards būs uzvarējis.
+Sadalām visus ciparus grupās pa trim cipariem katrā $(* * *)(* * *)(* * *)$. 
+Tad deviņciparu skaitļi varam izteikt kā $A \cdot 10^{6}+B \cdot 10^{3}+C$, kur
+$A, B$ un $C$ ir trīsciparu skaitļi, kas izveidojas attiecīgi pirmajā, otrajā 
+un trešajā grupā. Ja Rihardam izdosies panākt, ka katrā grupā izveidotais 
+trīsciparu skaitlis $A, B$ un $C$ dalās ar $31$, tad arī iegūtais deviņciparu 
+skaitlis dalīsies ar $31$ (ja katrs saskaitāmais dalās ar $31$, tad arī summa 
+dalās ar $31$) un Rihards būs uzvarējis.
 
-levērojam, ka ar 31 dalās trīsciparu skait!̣i 124, 248, 372, 465, 496, 589, 651, 713, 837 un 992. Kad Mārtiņš aizvieto zvaigznīti, kas atrodas kādā grupā, Rihards atlikušās divas tās pašas grupas zvaigznītes aizvieto tā, lai tās kopā veidotu kādu no desmit minētajiem trīsciparu skaitliem. Tā kā katrā no trim pozīcijām (vieni, desmiti, simti) minētajos skaitlos var atrast jebkuru ciparu no 1 līdz 9, tad to vienmēr ir iespējams izdarīt.
+levērojam, ka ar $31$ dalās trīsciparu skaitļi 
+$124,\ 248,\ 372,\ 465,\ 496,\ 589,\ 651,\ 713,\ 837$ un $992$. Kad Mārtiņš aizvieto 
+zvaigznīti, kas atrodas kādā grupā, Rihards atlikušās divas tās pašas grupas 
+zvaigznītes aizvieto tā, lai tās kopā veidotu kādu no desmit minētajiem 
+trīsciparu skaitļiem. Tā kā katrā no trim pozīcijām (vieni, desmiti, simti) 
+minētajos skaitļos var atrast jebkuru ciparu no $1$ līdz $9$, tad to vienmēr ir
+iespējams izdarīt.
 
-Piezīme. Var izvēlēties arī citus trīsciparu skaitlus, kas dalās ar 31. Ar 31 dalās šādi trīsciparu skaitli: 124; 155; $186 ; 217 ; 248 ; 279 ; 310 ; 341 ; 372 ; 403 ; 434 ; 465 ; 496 ; 527 ; 558 ; 589 ; 620 ; 651 ; 682 ; 713 ; 744 ; 775 ; 806 ; 837$; $868 ; 899 ; 930 ; 961 ; 992$.
+$Piezīme.$ Var izvēlēties arī citus trīsciparu skaitļus, kas dalās ar $31$. Ar 
+$31$ dalās šādi trīsciparu skaitļi: 
+$124; 155; $186; 217; 248; 279; 310; 341; 372; 403; 434; 465; 496; 527; 558; 589; 620; 651; 682; 713; 744; 775; 806; 837; 868; 899; 930; 961; 992$.
 
 
 
 # <lo-sample/> LV.NOL.2019.8.1.
 
-8.1. Taisnstūra vienas malas garums ir $(2 \sqrt{3}-\sqrt{6})(2 \sqrt{3}+\sqrt{6})$, bet otras malas garums ir $(\sqrt{3})^{2}+\sqrt{1 \frac{7}{9}}$. Aprēḳināt malas garumu kvadrātam, kura laukums ir tikpat liels kā dotajam taisnstūrim (atbildi vienkāršot)!
+Taisnstūra vienas malas garums ir $(2 \sqrt{3}-\sqrt{6})(2 \sqrt{3}+\sqrt{6})$,
+bet otras malas garums ir $(\sqrt{3})^{2}+\sqrt{1 \frac{7}{9}}$. Aprēḳināt 
+malas garumu kvadrātam, kura laukums ir tikpat liels kā dotajam taisnstūrim 
+(atbildi vienkāršot)!
 
 <small>
 
@@ -516,7 +556,7 @@ Piezīme. Var izvēlēties arī citus trīsciparu skaitlus, kas dalās ar 31. Ar
 
 ## Atrisinājums
 
-Atrisinājums. Aprēkinām taisnstūra malu garumus:
+Aprēķinām taisnstūra malu garumus:
 
 $$
 \begin{aligned}
@@ -525,13 +565,16 @@ $$
 \end{aligned}
 $$
 
-Taisnstūra laukums ir $6 \cdot 4 \frac{1}{3}=26$. Līdz ar to kvadrāta malas garums ir $\sqrt{26}$.
+Taisnstūra laukums ir $6 \cdot 4 \frac{1}{3}=26$. Līdz ar to kvadrāta malas 
+garums ir $\sqrt{26}$.
 
 
 
 # <lo-sample/> LV.NOL.2019.8.2.
 
-8.2. Zināms, ka no 26 monētām viena ir viltota - tā ir vieglāka nekā pārējās, kurām visām ir vienāda masa. Kā ar trīs svēršanām uz sviras svariem bez atsvariem atrast viltoto monētu?
+Zināms, ka no $26$ monētām viena ir viltota - tā ir vieglāka nekā pārējās, 
+kurām visām ir vienāda masa. Kā ar trīs svēršanām uz sviras svariem bez 
+atsvariem atrast viltoto monētu?
 
 <small>
 
@@ -542,25 +585,34 @@ Taisnstūra laukums ir $6 \cdot 4 \frac{1}{3}=26$. Līdz ar to kvadrāta malas g
 
 ## Atrisinājums
 
-Atrisinājums. Sadalām monētas trīs kaudzītēs: divas kaudzītes pa 9 monētām katrā un viena kaudzīte, kurā ir 8 monētas.
+Sadalām monētas trīs kaudzītēs: divas kaudzītes pa $9$ monētām katrā un viena 
+kaudzīte, kurā ir $8$ monētas.
 
-Pirmajā svēršanā salīdzinām kaudzītes, kurās ir pa 9 monētām. lespējami divi gadīumi.
+Pirmajā svēršanā salīdzinām kaudzītes, kurās ir pa $9$ monētām. lespējami divi 
+gadīumi.
 
-(A) Ja viens svaru kauss ir vieglāks nekā otrs, tad uz tā atrodas viltotā monēta.
+**(A)** Ja viens svaru kauss ir vieglāks nekā otrs, tad uz tā atrodas viltotā 
+monēta.
 
-(B) Ja abi svaru kausi ir līdzsvarā, tad viltotā monēta ir tajā kaudzītē, kas šajā svēršanā atradās malā.
+**(B)** Ja abi svaru kausi ir līdzsvarā, tad viltotā monēta ir tajā kaudzītē, 
+kas šajā svēršanā atradās malā.
 
-Līdzīgi rīkojamies un spriežam arī visās nākamajās svēršanās: izvē̄amies to kaudzīti, kurā atrodas viltotā (vieglākā) monēta un dalām to mazākās kaudzītēs, katru reizi salīdzinot kaudzītes, kurās ir vienāds monētu skaits un nosakot, kurā kaudzītē atrodas vieglākā monēta. Dališana mazākās kaudzītēs shematiski attēlota 18.att. Piezīme. Lai gadījums ar 8 monētām nebūtu jāapskata atsevišḳi, varam šai kaudzītei pievienot vienu "parasto" monētu.
+Līdzīgi rīkojamies un spriežam arī visās nākamajās svēršanās: izvēlamies to 
+kaudzīti, kurā atrodas viltotā (vieglākā) monēta un dalām to mazākās kaudzītēs,
+katru reizi salīdzinot kaudzītes, kurās ir vienāds monētu skaits un nosakot, 
+kurā kaudzītē atrodas vieglākā monēta. Dalīšana mazākās kaudzītēs shematiski 
+attēlota 18.att. Piezīme. Lai gadījums ar $8$ monētām nebūtu jāapskata 
+atsevišḳi, varam šai kaudzītei pievienot vienu "parasto" monētu.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-06.jpg?height=486&width=372&top_left_y=2167&top_left_x=842)
-
-18. att
+![](LV.NOL.2019.8.2A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.8.3.
 
-8.3. Izliekta piecstūra $A B C D E$ diagonālu $A C$ un $B D$ krustpunkts ir $M, A C$ un $B E$ krustpunkts ir $K$. Zināms, ka $A K=C M$ un $B K=K E=A E$. Pierādīt, ka $E M=B C$.
+Izliekta piecstūra $ABCDE$ diagonāļu $AC$ un $BD$ krustpunkts ir $M,\ AC$ un 
+$BE$ krustpunkts ir $K$. Zināms, ka $AK=CM$ un $BK=KE=AE$. Pierādīt, ka 
+$EM=BC$.
 
 <small>
 
@@ -571,25 +623,30 @@ Līdzīgi rīkojamies un spriežam arī visās nākamajās svēršanās: izvē̄
 
 ## Atrisinājums
 
-Atrisinājums. levērosim, ka $\triangle M A E=\triangle C K B$ pēc pazīmes m \ell m , jo
+levērosim, ka $\triangle MAE=\triangle CKB$ pēc pazīmes $m \ell m$, jo
 
-○ $A M=A K+K M=M C+K M=K C$ (skat. 19.att.);
+- $AM=AK+KM=MC+KM=KC$ (skat. 19.att.);
 
-○ tā kā $\Varangle E A K=\Varangle A K E$ kā leņki pie pamata vienādsānu trijstūrī $A E K$ un $\Varangle A K E=\Varangle B K C$ kā krustleņki, $\operatorname{tad} \Varangle E A M=\Varangle B K C$;
+- tā kā $\sphericalangle EAK=\sphericalangle AKE$ kā leņķi pie pamata 
+  vienādsānu trijstūrī $AEK$ un $\sphericalangle AKE=\sphericalangle BKC$ kā 
+  krustleņķi, tad $\sphericalangle EAM=\sphericalangle BKC$;
 
-- $A E=K B$ pēc dotā.
+- $AE=KB$ pēc dotā.
 
-Līdz ar to $E M=B C$ kā atbilstošās malas vienādos trijstūros.
+Līdz ar to $EM=BC$ kā atbilstošās malas vienādos trijstūros.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-07.jpg?height=440&width=491&top_left_y=568&top_left_x=791)
-
-19.att.
+![](LV.NOL.2019.8.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.8.4.
 
-8.4. Uz tāfeles uzrakstīti skaitli $\frac{3}{2}, \frac{4}{5}, \frac{5}{3}$. Ar vienu gājienu atļauts izvēlēties divus no uzrakstītajiem skaitlliem (apzīmēsim tos ar $a$ un $b$ ), nodzēst tos un to vietā uzrakstīt uz tāfeles skait|lus $\frac{b^{2}}{a}$ un $\frac{a^{2}}{b}$. Vai, izdarot vairākus šādus gājienus, var panākt, lai uz tāfeles vienlaicīgi būtu uzrakstīti skaitli $\frac{4}{3}, \frac{4}{5}, \frac{5}{2}$ ?
+Uz tāfeles uzrakstīti skaitļi $\frac{3}{2}, \frac{4}{5}, \frac{5}{3}$. Ar vienu
+gājienu atļauts izvēlēties divus no uzrakstītajiem skaitļiem (apzīmēsim tos ar 
+$a$ un $b$), nodzēst tos un to vietā uzrakstīt uz tāfeles skaitļus 
+$\frac{b^{2}}{a}$ un $\frac{a^{2}}{b}$. Vai, izdarot vairākus šādus gājienus, 
+var panākt, lai uz tāfeles vienlaicīgi būtu uzrakstīti skaitļi 
+$\frac{4}{3}, \frac{4}{5}, \frac{5}{2}$?
 
 <small>
 
@@ -600,13 +657,25 @@ Līdz ar to $E M=B C$ kā atbilstošās malas vienādos trijstūros.
 
 ## Atrisinājums
 
-Atrisinājums. Nē, nevar. Izdarot gājienus, uz tāfeles uzrakstīto skait|u reizinājums nemainās, tas ir, ja uz tāfeles pirms gājiena izdarīšanas ir uzrakstīti skaitļi $a, b, c$, tad to reizinājums ir $a \cdot b \cdot c$, un arī pēc gājiena izdarīšanas uz tāfeles uzrakstīto skaitlu reizinājums ir $\frac{b^{2}}{a} \cdot \frac{a^{2}}{b} \cdot c=a \cdot b \cdot c$. Tā kā sākumā uzrakstīto skaitlu reizinājums ir $\frac{3}{2} \cdot \frac{4}{5} \cdot \frac{5}{3}=2$, bet skait|u $\frac{4}{3}, \frac{4}{5}, \frac{5}{2}$ reizinājums ir $\frac{4}{3} \cdot \frac{4}{5} \cdot \frac{5}{2}=\frac{8}{3}$, tad prasītais nav iespējams.
+Nē, nevar. Izdarot gājienus, uz tāfeles uzrakstīto skaitļu reizinājums 
+nemainās, tas ir, ja uz tāfeles pirms gājiena izdarīšanas ir uzrakstīti skaitļi
+$a, b, c$, tad to reizinājums ir $a \cdot b \cdot c$, un arī pēc gājiena 
+izdarīšanas uz tāfeles uzrakstīto skaitļu reizinājums ir 
+$\frac{b^{2}}{a} \cdot \frac{a^{2}}{b} \cdot c=a \cdot b \cdot c$. Tā kā sākumā
+uzrakstīto skaitļu reizinājums ir 
+$\frac{3}{2} \cdot \frac{4}{5} \cdot \frac{5}{3}=2$, bet skaitļu 
+$\frac{4}{3}, \frac{4}{5}, \frac{5}{2}$ reizinājums ir 
+$\frac{4}{3} \cdot \frac{4}{5} \cdot \frac{5}{2}=\frac{8}{3}$, tad prasītais 
+nav iespējams.
 
 
 
 # <lo-sample/> LV.NOL.2019.8.5.
 
-8.5. Izmantojot divus atškirīgus nenulles ciparus $x$ un $y$ ir izveidoti divi trīsciparu skaitli $\overline{x y x}$ un $\overline{y x y}$. Zināms, ka $\overline{x y x}$ dalās ar 3 , bet $\overline{y x y}$ dalās ar 4. Kāds var būt izveidotais trīsciparu skaitlis $\overline{y x y}$ ?
+Izmantojot divus atšķirīgus nenulles ciparus $x$ un $y$ ir izveidoti divi 
+trīsciparu skaitļi $\overline{xyx}$ un $\overline{yxy}$. Zināms, ka 
+$\overline{xyx}$ dalās ar $3$, bet $\overline{yxy}$ dalās ar $4$. Kāds var būt 
+izveidotais trīsciparu skaitlis $\overline{yxy}$ ?
 
 <small>
 
@@ -617,34 +686,39 @@ Atrisinājums. Nē, nevar. Izdarot gājienus, uz tāfeles uzrakstīto skait|u re
 
 ## Atrisinājums
 
-Atrisinājums. Skaitlis dalās ar 3 tad, ja tā ciparu summa dalās ar 3 . Tātad $(2 x+y)$ dalās ar 3 .
+Skaitlis dalās ar $3$ tad, ja tā ciparu summa dalās ar $3$. Tātad $(2x+y)$ 
+dalās ar $3$.
 
-Skaitlis dalās ar 4 tad, ja tā divu pēdējo ciparu veidotais skaitlis dalās ar 4. Tātad $\overline{x y}=10 x+y$ dalās ar 4 .
+Skaitlis dalās ar $4$ tad, ja tā divu pēdējo ciparu veidotais skaitlis dalās ar
+$4$. Tātad $\overline{xy}=10x+y$ dalās ar $4$.
 
-levērojam, ka $10 x+y=8 x+2 x+y$. Tā kā $10 x+y$ dalās ar 4 un $8 x$ dalās ar 4 , tad arī $(2 x+y)$ ir jādalās ar 4. Bet tas nozīmē, ka $(2 x+y)$ ir jādalās ar 12 , jo 3 un 4 ir savstarpēji pirmskaitļi. levērojot, ka $x$ un $y$ ir cipari $(2 x+y<27)$, iespējami divi gadīumi:
+levērojam, ka $10x+y=8x+2x+y$. Tā kā $10x+y$ dalās ar $4$ un $8x$ dalās ar $4$,
+tad arī $(2x+y)$ ir jādalās ar $4$. Bet tas nozīmē, ka $(2x+y)$ ir jādalās ar 
+$12$, jo $3$ un $4$ ir savstarpēji pirmskaitļi. levērojot, ka $x$ un $y$ ir 
+cipari $(2x+y<27)$, iespējami divi gadīumi:
 
-○ ja $2 x+y=12$ jeb $y=12-2 x$, tad ievērojam, ka $x \leq 5$, un pārbaudām visus iespējamos gadījumus:
+- ja $2x+y=12$ jeb $y=12-2x$, tad ievērojam, ka $x \leq 5$, un pārbaudām visus 
+  iespējamos gadījumus:
 
-| $x$ | 1 | 2 | 3 | 4 | 5 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| $y=12-2 x$ | 10 | 8 | 6 | 4 |  |
-|  | (neder, jo nav cipars) |  |  | (neder, jo $x=y$ ) |  |
+![](LV.NOL.2019.8.5A.png)
 
-○ ja $2 x+y=24$ jeb $y=24-2 x$, tad ievērojam, ka $x>7$, un pārbaudām abus iespējamos gadījumus:
+- ja $2x+y=24$ jeb $y=24-2x$, tad ievērojam, ka $x>7$, un pārbaudām abus 
+  iespējamos gadījumus:
 
-| $x$ | 8 | 9 |
-| :---: | :---: | :---: |
-| $y=24-2 x$ | 8 | 6 |
+![](LV.NOL.2019.8.5B.png)
 
-Līdz ar to trīsciparu skaitlis $\overline{y x y}$ var būt $828,636,252,696$.
+Līdz ar to trīsciparu skaitlis $\overline{yxy}$ var būt $828, 636, 252, 696$.
 
-Piezīme. Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot visus divciparu skait|us $\overline{x y}$, kas dalās ar 4 .
+$Piezīme.$ Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot 
+visus divciparu skaitļus $\overline{xy}$, kas dalās ar $4$.
 
 
 
 # <lo-sample/> LV.NOL.2019.9.1.
 
-9.1. Lineāra funkcija $y=\left(m^{2}-3 m\right) x+4 m-4$ krusto $x$ asi punktā, kura abscisa ir 2. Atrodi $m$ vērtības un noskaidro, vai atbilstošā funkcija ir augoša vai dilstoša!
+Lineāra funkcija $y=\left(m^{2}-3 m\right) x+4m-4$ krusto $x$ asi punktā, kura 
+abscisa ir $2$. Atrodi $m$ vērtības un noskaidro, vai atbilstošā funkcija ir 
+augoša vai dilstoša!
 
 <small>
 
@@ -655,16 +729,22 @@ Piezīme. Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot vis
 
 ## Atrisinājums
 
-Atrisinājums. Dotā funkcija krusto $x$ asi punktā $(2 ; 0)$, ievietojot šīs vērtīas dotajā funkcijā, iegūstam vienādojumu $0=\left(m^{2}-3 m\right) \cdot 2+4 m-4$ jeb $m^{2}-m-2=0$, kura saknes ir $m_{1}=-1$ un $m_{2}=2$. Tātad iespējami divi gadijumi:
+Dotā funkcija krusto $x$ asi punktā $(2; 0)$, ievietojot šīs vērtīas dotajā 
+funkcijā, iegūstam vienādojumu $0=\left(m^{2}-3m\right) \cdot 2+4m-4$ jeb 
+$m^{2}-m-2=0$, kura saknes ir $m_{1}=-1$ un $m_{2}=2$. Tātad iespējami divi 
+gadījumi:
 
-- ja $m=-1$, tad dotā funkcija ir $y=4 x-8$ un tā ir augoša, jo koeficients pie $x$ ir pozitivss;
-- ja $m=2$, tad dotā funkcija ir $y=-2 x+4$ un tā ir dilstoša, jo koeficients pie $x$ ir negatīvs .
+- ja $m=-1$, tad dotā funkcija ir $y=4x-8$ un tā ir augoša, jo koeficients pie $x$ ir pozitivss;
+- ja $m=2$, tad dotā funkcija ir $y=-2x+4$ un tā ir dilstoša, jo koeficients 
+  pie $x$ ir negatīvs .
 
 
 
 # <lo-sample/> LV.NOL.2019.9.2.
 
-9.2. Dotas divas melnas, divas sarkanas un divas zalas lodītes. Vienas lodītes masa ir 99 g , bet tādas pašas krāsas otras lodītes masa ir 101 g . Pārējās četras lodītes katra sver 100 g . Kā, lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vieglāko lodīti?
+Dotas divas melnas, divas sarkanas un divas zaļas lodītes. Vienas lodītes masa 
+ir $99~\mathrm{g}, bet tādas pašas krāsas otras lodītes masa ir 
+$101~\mathrm{g}$. Pārējās četras lodītes katra sver 100 g . Kā, lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vieglāko lodīti?
 
 <small>
 
@@ -753,7 +833,7 @@ Līdz ar to esam pierādijuši, ka $S_{A E O H}+S_{F C G O}=S_{B F O E}+S_{D H O
 2. atrisinājums. Novelkam nogriežnuus $E F, F G, G H$ un $H E$ (skat. 23.att.). Trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi pēc pazīmes $m \ell m$ un to laukumi arī ir vienādi, tātad pietiek pierādīt, ka $S_{E O F}+S_{G O H}=S_{F O G}+S_{H O E}$. Tā kā trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi taisnlenka trijstūri, tad $E F=F G=G H=H E=a$ un divu trijstūra šauro lenku summa ir $90^{\circ}$, tas ir, viens no tiem ir $\alpha$, bet otrs ir $\left(90^{\circ}-\alpha\right)$. Tāpēc
 
 $$
-\Varangle H E F=\Varangle E F G=\Varangle F G H=\Varangle G H E=180^{\circ}-\alpha-\left(90^{\circ}-\alpha\right)=90^{\circ}
+\sphericalangle H E F=\sphericalangle E F G=\sphericalangle F G H=\sphericalangle G H E=180^{\circ}-\alpha-\left(90^{\circ}-\alpha\right)=90^{\circ}
 $$
 
 Līdz ar to četrstūris $E F G H$ ir kvadrāts.
@@ -1059,7 +1139,7 @@ Piezīme. b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan
 
 # <lo-sample/> LV.NOL.2019.11.3.
 
-11.3. Divas riņka līijas $\omega_{1}$ (ar centru punktā $O_{1}$ ) un $\omega_{2}$ (ar centru punktā $O_{2}$ ) krustojas punktā $A$. Taisne $O_{1} A$ krusto $\omega_{2}$ punktā $B_{2}$, bet $\omega_{1}-$ punktā $C_{1}$. Taisne $O_{2} A$ krusto $\omega_{1}$ punktā $B_{1}$, bet $\omega_{2}$ - punktā $C_{2}$ (skat. 32.att.). Pierādīt, ka $\Varangle B_{2} B_{1} A=\Varangle C_{2} C_{1} A$.
+11.3. Divas riņka līijas $\omega_{1}$ (ar centru punktā $O_{1}$ ) un $\omega_{2}$ (ar centru punktā $O_{2}$ ) krustojas punktā $A$. Taisne $O_{1} A$ krusto $\omega_{2}$ punktā $B_{2}$, bet $\omega_{1}-$ punktā $C_{1}$. Taisne $O_{2} A$ krusto $\omega_{1}$ punktā $B_{1}$, bet $\omega_{2}$ - punktā $C_{2}$ (skat. 32.att.). Pierādīt, ka $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$.
 ![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-14.jpg?height=594&width=1618&top_left_y=314&top_left_x=252)
 
 <small>
@@ -1071,11 +1151,11 @@ Piezīme. b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan
 
 ## Atrisinājums
 
-1. atrisinājums. Tā kā $\Varangle C_{1} B_{1} A=\Varangle C_{2} B_{2} A=90^{\circ}$ (kā ievilktie leņki, kas balstās uz diametra) un $\Varangle B_{1} A C_{1}=\Varangle B_{2} A C_{2}$ (kā krustlenki), tad trijstūri $\triangle A B_{1} C_{1} \sim \triangle A B_{2} C_{2}$ pēc pazīmes $\ell \ell$ un $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$. Tā kā $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$ un $\Varangle B_{1} A B_{2}=\Varangle C_{1} A C_{2}$ kā krustleņki, tad $\Delta B_{1} A B_{2} \sim \Delta C_{1} A C_{2}$ pēc pazīmes mlm. Tātad $\Varangle B_{2} B_{1} A=\Varangle C_{2} C_{1} A$ kā atbilstošie lenki līdzīgos trijstūros.
+1. atrisinājums. Tā kā $\sphericalangle C_{1} B_{1} A=\sphericalangle C_{2} B_{2} A=90^{\circ}$ (kā ievilktie leņki, kas balstās uz diametra) un $\sphericalangle B_{1} A C_{1}=\sphericalangle B_{2} A C_{2}$ (kā krustlenki), tad trijstūri $\triangle A B_{1} C_{1} \sim \triangle A B_{2} C_{2}$ pēc pazīmes $\ell \ell$ un $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$. Tā kā $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$ un $\sphericalangle B_{1} A B_{2}=\sphericalangle C_{1} A C_{2}$ kā krustleņki, tad $\Delta B_{1} A B_{2} \sim \Delta C_{1} A C_{2}$ pēc pazīmes mlm. Tātad $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$ kā atbilstošie lenki līdzīgos trijstūros.
 
 ## Atrisinājums
 
-2. atrisinājums. Tā kā $\Varangle C_{1} B_{1} A=\Varangle C_{2} B_{2} A=90^{\circ}$ kā ievilktie lenkii, kas balstās uz diametra, tad ap četrstūri $B_{1} B_{2} C_{2} C_{1}$ var apvilkt rinka līiju (skat. 33.att.). Līdz ar to $\Varangle B_{2} B_{1} C_{2}=\Varangle C_{2} C_{1} B_{2}$ kā ievilktie lenkị, kas balstās uz viena un tā paša loka $B_{2} C_{2}$. Tātad $\Varangle B_{2} B_{1} A=\Varangle C_{2} C_{1} A$.
+2. atrisinājums. Tā kā $\sphericalangle C_{1} B_{1} A=\sphericalangle C_{2} B_{2} A=90^{\circ}$ kā ievilktie lenkii, kas balstās uz diametra, tad ap četrstūri $B_{1} B_{2} C_{2} C_{1}$ var apvilkt rinka līiju (skat. 33.att.). Līdz ar to $\sphericalangle B_{2} B_{1} C_{2}=\sphericalangle C_{2} C_{1} B_{2}$ kā ievilktie lenkị, kas balstās uz viena un tā paša loka $B_{2} C_{2}$. Tātad $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$.
 
 
 
@@ -1283,9 +1363,9 @@ Tā kā skaitļa binārajā pierakstā tiek izmantoti tikai cipari 0 un 1, tad �
 
 ## Atrisinājums
 
-1. atrisinājums. Punkts $O$ ir trijstūra $A B C$ bisektrišu krustpunkts (skat. 35.att.). Apzīmējam $\Varangle B A C=2 \alpha$, $\Varangle A B C=2 \beta$ un $\Varangle A C B=2 \gamma$. Tad $\Varangle D O F=180^{\circ}-\alpha-\gamma$ un $\Varangle O D F=\Varangle D F O=\frac{1}{2}(\alpha+\gamma)$, jo $\triangle O D F$ ir vienādsānu. Līdzīgi iegūstam, ka $\Varangle E D O=\Varangle D E O=\frac{1}{2}(\alpha+\beta)$ un $\Varangle O E F=\Varangle O F E=\frac{1}{2}(\beta+\gamma)$.
+1. atrisinājums. Punkts $O$ ir trijstūra $A B C$ bisektrišu krustpunkts (skat. 35.att.). Apzīmējam $\sphericalangle B A C=2 \alpha$, $\sphericalangle A B C=2 \beta$ un $\sphericalangle A C B=2 \gamma$. Tad $\sphericalangle D O F=180^{\circ}-\alpha-\gamma$ un $\sphericalangle O D F=\sphericalangle D F O=\frac{1}{2}(\alpha+\gamma)$, jo $\triangle O D F$ ir vienādsānu. Līdzīgi iegūstam, ka $\sphericalangle E D O=\sphericalangle D E O=\frac{1}{2}(\alpha+\beta)$ un $\sphericalangle O E F=\sphericalangle O F E=\frac{1}{2}(\beta+\gamma)$.
 
-Tātad $\triangle D E F$ iekšējo lenku lielumi ir $\Varangle E D F=\alpha+\frac{1}{2}(\beta+\gamma), \Varangle D E F=\beta+\frac{1}{2}(\alpha+\gamma), \Varangle E F D=\gamma+\frac{1}{2}(\alpha+\beta)$. Izmantojot, ka $\alpha+\beta+\gamma=90^{\circ}$, iegūstam $\Varangle E D F=\frac{\alpha}{2}+45^{\circ}, \Varangle D E F=\frac{\beta}{2}+45^{\circ}$ un $\Varangle E F D=\frac{\gamma}{2}+45^{\circ}$. Tā kā $\frac{A B}{D E}=\frac{B C}{E F}=\frac{A C}{D F}$, tad $\triangle A B C \sim \triangle D E F$ pēc pazīmes mmm un atbilstošie trijstūru lenkki ir vienādi, tas ir, $2 \alpha=\frac{\alpha}{2}+45^{\circ}, 2 \beta=\frac{\beta}{2}+45^{\circ}$ un $2 \gamma=\frac{\gamma}{2}+45^{\circ}$. Tātad $\alpha=\beta=\gamma=30^{\circ}$ jeb $2 \alpha=2 \beta=2 \gamma=60^{\circ}$ un $\triangle A B C$ ir regulārs.
+Tātad $\triangle D E F$ iekšējo lenku lielumi ir $\sphericalangle E D F=\alpha+\frac{1}{2}(\beta+\gamma), \sphericalangle D E F=\beta+\frac{1}{2}(\alpha+\gamma), \sphericalangle E F D=\gamma+\frac{1}{2}(\alpha+\beta)$. Izmantojot, ka $\alpha+\beta+\gamma=90^{\circ}$, iegūstam $\sphericalangle E D F=\frac{\alpha}{2}+45^{\circ}, \sphericalangle D E F=\frac{\beta}{2}+45^{\circ}$ un $\sphericalangle E F D=\frac{\gamma}{2}+45^{\circ}$. Tā kā $\frac{A B}{D E}=\frac{B C}{E F}=\frac{A C}{D F}$, tad $\triangle A B C \sim \triangle D E F$ pēc pazīmes mmm un atbilstošie trijstūru lenkki ir vienādi, tas ir, $2 \alpha=\frac{\alpha}{2}+45^{\circ}, 2 \beta=\frac{\beta}{2}+45^{\circ}$ un $2 \gamma=\frac{\gamma}{2}+45^{\circ}$. Tātad $\alpha=\beta=\gamma=30^{\circ}$ jeb $2 \alpha=2 \beta=2 \gamma=60^{\circ}$ un $\triangle A B C$ ir regulārs.
 
 ## Atrisinājums
 
