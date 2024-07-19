@@ -876,7 +876,7 @@ Dotās izteiksmes pirmajās iekavās esošo izteiksmi izsakām kā
 
 $$(\sqrt{2020}-2 \sqrt{2019}+\sqrt{2018})=(\sqrt{2020}-\sqrt{2019})-(\sqrt{2019}-\sqrt{2018})$$
 
-Pakāpeniski aprēkinām dotās izteiksmes vērtību, iekavas sareizinot, izmantojot kvadrātu starpības formulu $a^{2}-b^{2}=(a+b)(a-b)$ un kopīgā reizinātāja iznešanu pirms iekavām:
+Pakāpeniski aprēķinām dotās izteiksmes vērtību, iekavas sareizinot, izmantojot kvadrātu starpības formulu $a^{2}-b^{2}=(a+b)(a-b)$ un kopīgā reizinātāja iznešanu pirms iekavām:
 
 $$\begin{aligned}
 & \quad(\sqrt{2020}-2 \sqrt{2019}+\sqrt{2018})(\sqrt{2020}+\sqrt{2019})(\sqrt{2019}+\sqrt{2018})(\sqrt{2020}+\sqrt{2018})= \\
@@ -1171,7 +1171,7 @@ dalītājus augošā secībā:
 $$1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216$$
 
 Otrais spēlētājs visus dalītājus sadala pāros tā, ka katra pāra skaitļu 
-reizinājums ir $216$:
+reizinājums ir $216$:  
 $1$ un $216$  
 $3$ un $72$  
 $6$ un $36$  
@@ -1252,14 +1252,14 @@ ir lielākais iespējamais šo skaitļu reizinājums?
 
 ## Atrisinājums
 
-skaitļu summu apzīmēsim ar $N$. Pieņemsim, ka esam atraduši lielāko iespējamo 
+Skaitļu summu apzīmēsim ar $N$. Pieņemsim, ka esam atraduši lielāko iespējamo 
 reizinājumu $a_{1} \cdot a_{2} \cdot \ldots \cdot a_{k}$, kuram 
 $a_{1}+a_{2}+\cdots+a_{k}=N$. Aplūkosim, kādi skaitļi nevar ietilpt šajā 
 reizinājumā.
 
 - Reizinājumā nevar būt skaitlis $1$, jo, pieskaitot to jebkuram citam 
   reizinātājam, iegūsim lielāku reizinājumu pie tādas pašas summas. Nezaudējot 
-  vispārīgumu, varam pienemt, ka $a_{1}=1$, tad 
+  vispārīgumu, varam pieņemt, ka $a_{1}=1$, tad 
   $1 \cdot a_{2} \cdot \ldots \cdot a_{k}<\left(a_{2}+1\right) \cdot \ldots \cdot a_{k}$,
   iegūta pretruna, jo $a_{1} \cdot a_{2} \cdot \ldots \cdot a_{k}$ ir lielākais
   iespējamais reizinājums.
@@ -1394,7 +1394,7 @@ $$1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144$$
 
 Pirmais spēlētājs savā pirmajā gājienā uz tāfeles uzraksta dalītāju $12$ (kas 
 ir vidējais loceklis dalītāju rindā), pēc tam pirmais spēlētājs visus atlikušos
-dalītājus sadala pāros tā, ka katra pāra skaitļu reizinājums ir $144$:
+dalītājus sadala pāros tā, ka katra pāra skaitļu reizinājums ir $144$:  
 $1$ un $144$  
 $3$ un $48$  
 $6$ un $24$  
@@ -1524,7 +1524,7 @@ $a_{1}, a_{2}, \ldots, a_{n}$, bet to kopējo naudas daudzumu ar $S$. Tad no
 - $a_{1} \geq a_{2} \geq \ldots \geq a_{n}$
 - $a_{1}=\frac{s-a_{1}}{8}$ jeb $a_{1}=\frac{s}{9^{\prime}}$
 - $a_{4}=\frac{s-a_{4}}{11}$ jeb $a_{4}=\frac{s}{12^{\prime}}$
-- $a_{n}=\frac{s-a_{n}}{13}$ jeb $a_{n}=\frac{s}{14}
+- $a_{n}=\frac{s-a_{n}}{13}$ jeb $a_{n}=\frac{s}{14}$
 
 Novērtēsim kopējo naudas daudzumu $S$ no augšas un no apakšas.
 
