@@ -239,7 +239,7 @@ skaitļa $3193$ dalītājs ir skaitlis $31$. Tātad batoniņa jaunā cena ir $31
 un batoniņa cena tika pazemināta par $50-31=19$ centiem. Tas nozīmē, ka cenas
 samazinājums attiecībā pret sākotnējo cenu ir $19$ pret
 $50=\frac{19}{50}=\frac{38}{100}=38 \%$. Līdz ar to esam ieguvuši, ka auzu
-pārslu batoniņam pieškīra $38 \%$ atlaidi.
+pārslu batoniņam pieškīra $38$ % atlaidi.
 
 
 
