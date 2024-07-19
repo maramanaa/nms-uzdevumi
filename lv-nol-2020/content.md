@@ -649,16 +649,16 @@ gadījumi.
 1. Ja svaru kausi nav līdzsvarā, tad ir divu dažādu masu monētas.
 2. Svaru kausi ir līdzsvarā, tas ir iespējams divos gadījumos, ja
 
-- visu $6$ svērto monētu masas ir vienādas, tātad arī nesvērto monētu masas ir 
-  vienādas (un arī vienādas ar svērto monētu masu);
-- uz katra svaru kausa ir divas monētas ar masu $x$ un viena monēta ar masu 
-  $y$, tātad katras nesvērtās monētas masa ir $y$.
+   - visu $6$ svērto monētu masas ir vienādas, tātad arī nesvērto monētu masas ir 
+     vienādas (un arī vienādas ar svērto monētu masu);
+   - uz katra svaru kausa ir divas monētas ar masu $x$ un viena monēta ar masu 
+     $y$, tātad katras nesvērtās monētas masa ir $y$.
 
 Otrajā svēršanā paņemam divas monētas no viena svaru kausa noliekam malā un to 
 vietā svaru kausā ieliekam abas nesvērtās monētas. lespējami divi gadījumi.
 
-1. Ja svaru kausi ir līdzsvarā, tad visām $8$ monētām ir vienāda masa.
-2. Ja svaru kausi nav līdzsvarā, tad ir divu dažādu masu monētas.
+      1. Ja svaru kausi ir līdzsvarā, tad visām $8$ monētām ir vienāda masa.
+      2. Ja svaru kausi nav līdzsvarā, tad ir divu dažādu masu monētas.
 
 
 

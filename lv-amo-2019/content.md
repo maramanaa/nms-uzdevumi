@@ -230,7 +230,7 @@ viņš zaudēs.
 # <lo-sample/> LV.AMO.2019.6.3.
 
 Cik lielu leņķi (šaurāko) veido pulksteņa stundu un minūšu rādītājs **a)** 
-plkst. $14:00$; **b)** plkst. $13:40$?
+plkst. 14:00; **b)** plkst. 13:40?
 
 <small>
 
@@ -241,8 +241,8 @@ plkst. $14:00$; **b)** plkst. $13:40$?
 
 ## Atrisinājums
 
-**a)** levērojam, ka plkst. $15:00$ pulksteņa rādītāji veidotu $90^{\circ}$ 
-lielu leņķi, tātad plkst. $14:00$ pulksteņa rādītāji veido $\frac{2}{3}$ no 
+**a)** levērojam, ka plkst. 15:00 pulksteņa rādītāji veidotu $90^{\circ}$ 
+lielu leņķi, tātad plkst. 14:00 pulksteņa rādītāji veido $\frac{2}{3}$ no 
 $90^{\circ}$ leņķa, tas ir, $\frac{2}{3} \cdot 90^{\circ}=60^{\circ}$ (skat. 
 7.att.).
 
