@@ -988,7 +988,7 @@ tāpēc
 $\sphericalangle ADE=\frac{1}{2}\left(180^{\circ}-2 \alpha\right)=90^{\circ}-\alpha$.
 Tā kā $ECDG$ ir taisnstūris, tad 
 $\sphericalangle ADE=\sphericalangle CGD=90^{\circ}-\alpha$. Līdz ar to 
-$\sphericalangle AGC=180^{\circ}-\sphericalangle CGD=$ $=180^{\circ}-\left(90^{\circ}-\alpha\right)=90^{\circ}+\alpha$.
+$\sphericalangle AGC=180^{\circ}-\sphericalangle CGD=180^{\circ}-\left(90^{\circ}-\alpha\right)=90^{\circ}+\alpha$.
 Tātad $\sphericalangle AGC=\sphericalangle AFC=90^{\circ}+\alpha$.
 
 ![](LV.AMO.2019.10.3A.png)
