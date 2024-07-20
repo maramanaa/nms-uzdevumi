@@ -273,7 +273,7 @@ garuma, tad $P_{1}$ un $P_{2}$ ir atšķirīgi punkti.
 Tad $\sphericalangle CP_{1}D=90^{\circ}$, jo $\triangle BCP_{1}$ un 
 $\triangle ADP_{1}$ ir vienādsānu taisnleņķa trijstūri.
 
-$\triangle BCP_{2}=\triangle ADP_{2}$, pēc pazīmes $mlm$ , jo 
+$\triangle BCP_{2}=\triangle ADP_{2}$, pēc pazīmes $m \ell m$ , jo 
 $\sphericalangle CBP_{2}=\sphericalangle P_{2}AD=90^{\circ}, BP_{2}=AD$ un 
 $BC=AP_{2}$. Tātad arī $\sphericalangle CP_{2}D=90^{\circ}$ un ap četrstūri 
 $P_{1}CDP_{2}$ var apvilkt riņķa līniju, kuras diametrs ir $CD$.
@@ -649,7 +649,7 @@ nogriežņi $BE$ un $CD$ ir perpendikulāri!
 Caur $BE$ un $CD$ krustpunktu $O$ novelk nogriezni $AF$, kur $F$ atrodas uz 
 $BC$ (skat. 12.att.). Pēc Čevas teorēmas 
 $\frac{CF}{BF}=\frac{CE}{AE} \cdot \frac{AD}{DB}=2$ jeb $CF=10$ un $BF=5$. 
-Tātad $\triangle BCD=\triangle ACF$ pēc pazīmes $mlm$. Attiecīgi 
+Tātad $\triangle BCD=\triangle ACF$ pēc pazīmes $m \ell m$. Attiecīgi 
 $\sphericalangle BDC=\sphericalangle AFC$ un 
 $\sphericalangle BDC+\sphericalangle AFB=180^{\circ}$, no kurienes izriet, ka 
 četrstūrim $BDOF$ var apvilkt riņķa līniju.

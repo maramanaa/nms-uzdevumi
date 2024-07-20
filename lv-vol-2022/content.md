@@ -92,7 +92,7 @@ ar $7$ un kura ciparu summa ir $K$.
 # <lo-sample/> LV.VOL.2022.9.4
 
 Ziņkārīgs tūrists vēlas pastaigāties pa pilsētas ielām (plānā attēlotas kā 
-rūtiņu malas) no krustojuma $\mathrm{A}$ līdz krustojumam B (skat. 2.att.), 
+rūtiņu malas) no krustojuma $A$ līdz krustojumam $B$ (skat. 2.att.), 
 veicot pēc iespējas garāku ceļojumu un neatgriežoties nevienā krustojumā 
 vairākas reizes. Kāds ir lielākais iespējamais ceļojuma garums, ja uzskatām, 
 ka vienas rūtiņas mala ir vienu vienību gara?
@@ -114,9 +114,9 @@ parādīts 3.att.
 
 Pierādīsim, ka lielāks ceļojuma garums nav iespējams. Atzīmēsim katru otro 
 krustojumu ar melnu aplīti (skat. 4.att.). Ievērosim, ka ik pēc diviem veiktiem
-posmiem ceļotājs nonāk atzīmētajā krustpunktā. Tā kā sākumpunkts A ir atzīmēts 
+posmiem ceļotājs nonāk atzīmētajā krustpunktā. Tā kā sākumpunkts $A$ ir atzīmēts 
 un atzīmētu krustpunktu kopā ir $21$, tad apmeklēšanai atliek vairs tikai $20$ 
-atzīmētu krustpunktu (ieskaitot B). Tātad ceļojums beigsies punktā B pēc ne 
+atzīmētu krustpunktu (ieskaitot $B$). Tātad ceļojums beigsies punktā $B$ pēc ne 
 vairāk kā $2 \cdot 20=40$ posmiem.
 ![](LV.VOL.2022.9.4A.png)
 
@@ -453,7 +453,7 @@ $\sphericalangle M_{1} B_{1} C_{1}=\sphericalangle M_{2} B_{2} C_{2}$.
 
 Tātad $\sphericalangle A_{1} B_{1} C_{1}=\sphericalangle A_{1} B_{1} M_{1}+\sphericalangle M_{1} B_{1} C_{1}=\sphericalangle A_{2} B_{2} M_{2}+\sphericalangle M_{2} B_{2} C_{2}=\sphericalangle A_{2} B_{2} C_{2}$, 
 no kā izriet, ka trijstūri $A_{1} B_{1} C_{1}$ un $A_{2} B_{2} C_{2}$ ir 
-vienādi pēc pazīmes $\mathrm{m \ell m}$. Lemma pierādīta.
+vienādi pēc pazīmes $m \ell m$. Lemma pierādīta.
 
 Tagad dotajā uzdevumā vidusperpendikulu krustpunktu apzīmēsim ar $P$ 
 (skat. 7.att.). Trijstūri $PBA$ un $PCD$ ir vienādi pēc iepriekš pierādītās 
@@ -648,7 +648,7 @@ ar $AD$ - ar $H$ (skat. 8.att.).
 Tā kā $\sphericalangle ABC+\sphericalangle BAD=180^{\circ}$, tad 
 $\sphericalangle BAE+\sphericalangle ABE=90^{\circ}$ un no trijstūra $ABE$ iegūstam, ka 
 $\sphericalangle AEB=180^{\circ}-90^{\circ}=90^{\circ}$. Tad 
-$\triangle AEB=\triangle AEG$ pēc pazīmes $\ell \mathrm{m \ell}$ un $AB=AG$ 
+$\triangle AEB=\triangle AEG$ pēc pazīmes $\ell m \ell$ un $AB=AG$ 
 kā atbilstošās malas vienādos trijstūros. Analoǵiski pierāda, ka $DC=DH$.
 
 No tā, ka $BE=EG$ un $CF=FG$ izriet, ka $EF || BC$ un $EF || AD$ (caur punktu 

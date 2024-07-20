@@ -543,7 +543,7 @@ $124; 155; $186; 217; 248; 279; 310; 341; 372; 403; 434; 465; 496; 527; 558; 589
 # <lo-sample/> LV.NOL.2019.8.1.
 
 Taisnstūra vienas malas garums ir $(2 \sqrt{3}-\sqrt{6})(2 \sqrt{3}+\sqrt{6})$,
-bet otras malas garums ir $(\sqrt{3})^{2}+\sqrt{1 \frac{7}{9}}$. Aprēḳināt 
+bet otras malas garums ir $(\sqrt{3})^{2}+\sqrt{1 \frac{7}{9}}$. Aprēķināt 
 malas garumu kvadrātam, kura laukums ir tikpat liels kā dotajam taisnstūrim 
 (atbildi vienkāršot)!
 
@@ -602,7 +602,7 @@ kaudzīti, kurā atrodas viltotā (vieglākā) monēta un dalām to mazākās ka
 katru reizi salīdzinot kaudzītes, kurās ir vienāds monētu skaits un nosakot, 
 kurā kaudzītē atrodas vieglākā monēta. Dalīšana mazākās kaudzītēs shematiski 
 attēlota 18.att. Piezīme. Lai gadījums ar $8$ monētām nebūtu jāapskata 
-atsevišḳi, varam šai kaudzītei pievienot vienu "parasto" monētu.
+atsevišķi, varam šai kaudzītei pievienot vienu "parasto" monētu.
 
 ![](LV.NOL.2019.8.2A.png)
 
@@ -744,7 +744,9 @@ gadījumi:
 
 Dotas divas melnas, divas sarkanas un divas zaļas lodītes. Vienas lodītes masa 
 ir $99~\mathrm{g}, bet tādas pašas krāsas otras lodītes masa ir 
-$101~\mathrm{g}$. Pārējās četras lodītes katra sver 100 g . Kā, lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vieglāko lodīti?
+$101~\mathrm{g}$. Pārējās četras lodītes katra sver $100~\mathrm{g}$. Kā, 
+lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vieglāko 
+lodīti?
 
 <small>
 
@@ -755,46 +757,70 @@ $101~\mathrm{g}$. Pārējās četras lodītes katra sver 100 g . Kā, lietojot s
 
 ## Atrisinājums
 
-1. atrisinājums. Pirmajā svēršanā salī̀dzinām vienas sarkanās un vienas melnās lodītes masu.
-1) Ja svari ir līdzsvarā (skat. 20.att.), tad melnās un sarkanās lodītes katra sver 100 g , tātad vieglākā lodīte ir zalā krāsā. Otrajā svēršanā, salīdzinot abas zalās lodītes, atrodam vieglāko.
+Pirmajā svēršanā salī̀dzinām vienas sarkanās un vienas melnās lodītes masu.
+**1)** Ja svari ir līdzsvarā (skat. 20.att.), tad melnās un sarkanās lodītes 
+katra sver $100~\mathrm{g}$, tātad vieglākā lodīte ir zaļā krāsā. Otrajā 
+svēršanā, salīdzinot abas zaļās lodītes, atrodam vieglāko.
 
-$100 \mathrm{~g} \quad 100 \mathrm{~g}$
+![](LV.NOL.2019.9.2A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-08.jpg?height=162&width=897&top_left_y=867&top_left_x=585)
+**2)** Apskatām gadījumu, kad svari nav līdzsvarā. Nezaudējot vispārīgumu, 
+varam pieņemt, ka sarkanā lodīte ir smagāka nekā melnā. Tad iespējami divi 
+gadījumi (skat. 21.att.):
 
-2) Apskatām gadīumu, kad svari nav līdzsvarā. Nezaudējot vispārīgumu, varam pienemt, ka sarkanā lodīte ir smagāka nekā melnā. Tad iespējami divi gadījumi (skat. 21.att.):
+- sarkanā lodīte sver $100~\mathrm{g}$ un melnā - $99~\mathrm{g}$;
+- sarkanā lodīte sver $101~\mathrm{g}$ un melnā - $100~\mathrm{g}$.
 
-- sarkanā lodīte sver 100 g un melnā- 99 g ;
-- sarkanā lodīte sver 101 g un melnā- 100 g .
+Tātad vieglākā lodīte ir vai nu tā, kas atrodas uz vieglākā svaru kausa, vai 
+otra no sarkanajām. Otrajā svēršanā salīdzinot šīs abas lodītes (to, kas 
+atrodas uz vieglākā svaru kausa un nesvērto sarkano lodīti), atrodam vieglāko.
+($Piezīme.$ Otrajā svēršanā var salīdzināt arī to lodīti, kas atrodas uz 
+vieglākā svaru kausa ar kādu no zaļajām.)
 
-Tātad vieglākā lodīte ir vai nu tā, kas atrodas uz vieglākā svaru kausa, vai otra no sarkanajām. Otrajā svēršanā salīdzinot šīs abas lodītes (to, kas atrodas uz vieglākā svaru kausa un nesvērto sarkano lodīti), atrodam vieglāko. (Piezīme. Otrajā svēršanā var salīdzināt arī to lodīti, kas atrodas uz vieglākā svaru kausa ar kādu no zalajām.)
-
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-08.jpg?height=260&width=1445&top_left_y=1475&top_left_x=311)
+![](LV.NOL.2019.9.2B.png)
 
 ## Atrisinājums
 
-2. atrisinājums. Pirmajā svēršanā katrā kausā liekam no katras krāsas pa vienai lodītei (katrā svaru kausā ir 3 lodītes). Svari noteikti nebūs līdzsvarā, jo viens no kausiem saturēs vieglo lodīti, bet otrs saturēs smago lodīti. Tagad atliek tikai uzzināt, kura no lodītēm vieglajā kausā ir tā, kas sver 99 g . Otrajā svēršanā salīdzinām jebkuras divas lodītes no vieglā kausa:
+Pirmajā svēršanā katrā kausā liekam no katras krāsas pa vienai lodītei (katrā 
+svaru kausā ir $3$ lodītes). Svari noteikti nebūs līdzsvarā, jo viens no 
+kausiem saturēs vieglo lodīti, bet otrs saturēs smago lodīti. Tagad atliek 
+tikai uzzināt, kura no lodītēm vieglajā kausā ir tā, kas sver $99~\mathrm{g}$. 
+Otrajā svēršanā salīdzinām jebkuras divas lodītes no vieglā kausa:
 
-- ja svari ir līdzsvarā, tad abas lodītes sver 100 g un tā, kura netika svērta, ir meklētā lodīte, kas sver 99 g ;
-- ja svari nav līdzsvarā, tad vieglākais kauss ir tas, kurš satur meklēto lodīti.
+- ja svari ir līdzsvarā, tad abas lodītes sver $100~\mathrm{g}$ un tā, kura 
+  netika svērta, ir meklētā lodīte, kas sver $99~\mathrm{g}$;
+- ja svari nav līdzsvarā, tad vieglākais kauss ir tas, kurš satur meklēto 
+  lodīti.
 
-3. atrisinājums. Pirmajā svēršanā vienā kausā ieliekam abas zalā̄s lodītes un otrā ieliekam vienu melnu un vienu sarkanu lodīti. Jaaapskata trīs gadijumi.
-1) Ja svari ir līdzsvarā, tad tas nozīmē, ka zalās lodītes ir tās, kuru masas nav 100 g . Otrajā svēršanā salīdzinām zaļās lodītes, lai atrastu vieglāko.
-2) Ja kauss ar zalajajām lodītēm ir smagāks, tad lodīte, kuras masa ir 99 g atrodas vieglākajā kausā un ir vai nu sarkana, vai melna. Otrajā svēršanā salīdzinām abas melnās lodītes:
+Pirmajā svēršanā vienā kausā ieliekam abas zaļās lodītes un otrā ieliekam 
+vienu melnu un vienu sarkanu lodīti. Jāapskata trīs gadījumi.
 
-- ja svari ir līdzsvarā, tad sarkanā lodīte, ko izmantojām pirmajā svēršanā, sver 99 g ;
-- ja svari nav līdzsvarā, tad vieglākā melnā lodīte sver 99 g .
+**1)** Ja svari ir līdzsvarā, tad tas nozīmē, ka zaļās lodītes ir tās, kuru 
+masas nav $100~\mathrm{g}$. Otrajā svēršanā salīdzinām zaļās lodītes, lai 
+atrastu vieglāko.
+**2)** Ja kauss ar zaļajām lodītēm ir smagāks, tad lodīte, kuras masa ir 
+$99~\mathrm{g}$ atrodas vieglākajā kausā un ir vai nu sarkana, vai melna. 
+Otrajā svēršanā salīdzinām abas melnās lodītes:
 
-3) Ja kauss ar melno un sarkano lodīti ir smagāks, tad tajā atrodas lodīte, kas sver 101 g . Otrajā svēršanā salīdzinām abas melnās lodītes:
+   - ja svari ir līdzsvarā, tad sarkanā lodīte, ko izmantojām pirmajā svēršanā,
+     sver $99~\mathrm{g}$;
+   - ja svari nav līdzsvarā, tad vieglākā melnā lodīte sver $99~\mathrm{g}$.
 
-- ja svari i līdzsvarā, tad tā sarkanā lodīte, ko neizmantojām pirmajā svēršanā, sver 99 g ;
-- ja svari nav līdzsvarā, tad vieglākajā kausā atrodas vieglākā melnā lodīte, kas sver 99 g .
+**3)** Ja kauss ar melno un sarkano lodīti ir smagāks, tad tajā atrodas lodīte,
+kas sver $101~\mathrm{g}$. Otrajā svēršanā salīdzinām abas melnās lodītes:
+
+   - ja svari ir līdzsvarā, tad tā sarkanā lodīte, ko neizmantojām pirmajā 
+     svēršanā, sver $99~\mathrm{g}$;
+   - ja svari nav līdzsvarā, tad vieglākajā kausā atrodas vieglākā melnā 
+     lodīte, kas sver $99~\mathrm{g}$.
 
 
 
 # <lo-sample/> LV.NOL.2019.9.3.
 
-9.3. Uz kvadrāta $A B C D$ malām $A B, B C, C D$ un $D A$ attiecīgi atzīmēti punkti $E, F, G, H$ tā, ka $A E=B F=C G=D H . \quad$ Kvadrāta iekšpusē atlikts patvalịgs punkts $O . \quad$ Pierādīt, ka $S_{A E O H}+S_{F C G O}=S_{B F O E}+S_{D H O G}$.
+Uz kvadrāta $ABCD$ malām $AB, BC, CD$ un $DA$ attiecīgi atzīmēti punkti 
+$E,\ F,\ G,\ H$ tā, ka $AE=BF=CG=DH$. Kvadrāta iekšpusē atlikts patvaļīgs 
+punkts $O$. Pierādīt, ka $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
 <small>
 
@@ -805,52 +831,63 @@ Tātad vieglākā lodīte ir vai nu tā, kas atrodas uz vieglākā svaru kausa, 
 
 ## Atrisinājums
 
-1. atrisinājums. Nezaudējot vispārīgumu, varam pienemt, ka kvadrāta malas garums ir 1. Apzīmējam $A E=B F=C G=D H=x$, tad $D G=B E=1-x$. Novelkam nogriežņus $O B$ un $O D$ (skat. 22.att.).
+Nezaudējot vispārīgumu, varam pieņemt, ka kvadrāta malas garums ir $1$. 
+Apzīmējam $AE=BF=CG=DH=x$, tad $DG=BE=1-x$. Novelkam nogriežņus $OB$ un $OD$ 
+(skat. 22.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-09.jpg?height=506&width=1479&top_left_y=415&top_left_x=263)
+![](LV.NOL.2019.9.3A.png)
 
-levērojam, ka no punkta $O$ ir novilkti divi perpendikuli attiecīgi pret kvadrāta paralēlajām malām $B C$ un $A D$, tātad šo perpendikulu (apzīmējam attiecīgi ar $h_{B C}$ un $h_{A D}$ ) summa ir attālums starp paralēlajām malām, no kā secinām, ka $h_{B C}+h_{A D}=1$. Izmantojot trijstūra laukuma aprēkināšanas formulu $S_{\Delta}=\frac{1}{2} a h_{a}$, iegūstam
+levērojam, ka no punkta $O$ ir novilkti divi perpendikuli attiecīgi pret 
+kvadrāta paralēlajām malām $BC$ un $AD$, tātad šo perpendikulu (apzīmējam 
+attiecīgi ar $h_{BC}$ un $h_{AD}$) summa ir attālums starp paralēlajām malām, 
+no kā secinām, ka $h_{BC}+h_{AD}=1$. Izmantojot trijstūra laukuma aprēķināšanas
+formulu $S_{\Delta}=\frac{1}{2} ah_{a}$, iegūstam
 
-$$
-S_{O B F}+S_{O H D}=\frac{1}{2} B F \cdot h_{B F}+\frac{1}{2} H D \cdot h_{H D}=\frac{1}{2} x \cdot\left(h_{B F}+h_{H D}\right)=\frac{1}{2} x \cdot 1=\frac{1}{2} x
-$$
+$$S_{OBF}+S_{OHD}=\frac{1}{2} BF \cdot h_{BF}+\frac{1}{2} HD \cdot h_{HD}=\frac{1}{2} x \cdot\left(h_{BF}+h_{HD}\right)=\frac{1}{2} x \cdot 1=\frac{1}{2} x$$
 
-Līdzīgi aprēkinām, ka $S_{O B E}+S_{O D G}=\frac{1}{2}(1-x)$.
+Līdzīgi aprēķinām, ka $S_{OBE}+S_{ODG}=\frac{1}{2}(1-x)$.
 
 Tātad
 
-$$
-\begin{gathered}
-S_{B F O E}+S_{D H O G}=S_{O B F}+S_{O H D}+S_{O B E}+S_{O D G}=\frac{1}{2} x+\frac{1}{2}(1-x)=\frac{1}{2} \\
-S_{A E O H}+S_{F C G O}=S_{A B C D}-\left(S_{B F O E}+S_{D H O G}\right)=1-\frac{1}{2}=\frac{1}{2}
-\end{gathered}
-$$
+$$\begin{gathered}
+S_{BFOE}+S_{DHOG}=S_{OBF}+S_{OHD}+S_{OBE}+S_{ODG}=\frac{1}{2} x+\frac{1}{2}(1-x)=\frac{1}{2} \\
+S_{AEOH}+S_{FCGO}=S_{ABCD}-\left(S_{BFOE}+S_{DHOG}\right)=1-\frac{1}{2}=\frac{1}{2}
+\end{gathered}$$
 
-Līdz ar to esam pierādijuši, ka $S_{A E O H}+S_{F C G O}=S_{B F O E}+S_{D H O G}$.
+Līdz ar to esam pierādijuši, ka $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
 ## Atrisinājums
 
-2. atrisinājums. Novelkam nogriežnuus $E F, F G, G H$ un $H E$ (skat. 23.att.). Trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi pēc pazīmes $m \ell m$ un to laukumi arī ir vienādi, tātad pietiek pierādīt, ka $S_{E O F}+S_{G O H}=S_{F O G}+S_{H O E}$. Tā kā trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi taisnlenka trijstūri, tad $E F=F G=G H=H E=a$ un divu trijstūra šauro lenku summa ir $90^{\circ}$, tas ir, viens no tiem ir $\alpha$, bet otrs ir $\left(90^{\circ}-\alpha\right)$. Tāpēc
+Novelkam nogriežņus $EF, FG, GH$ un $HE$ (skat. 23.att.). Trijstūri 
+$HAE, EBF, FCG$ un $GDH$ ir vienādi pēc pazīmes $m \ell m$ un to laukumi arī ir
+vienādi, tātad pietiek pierādīt, ka $S_{EOF}+S_{GOH}=S_{FOG}+S_{HOE}$. Tā kā 
+trijstūri $HAE, EBF, FCG$ un $GDH$ ir vienādi taisnleņķa trijstūri, tad 
+$EF=FG=GH=HE=a$ un divu trijstūra šauro leņķu summa ir $90^{\circ}$, tas ir, 
+viens no tiem ir $\alpha$, bet otrs ir $\left(90^{\circ}-\alpha\right)$. Tāpēc
 
-$$
-\sphericalangle H E F=\sphericalangle E F G=\sphericalangle F G H=\sphericalangle G H E=180^{\circ}-\alpha-\left(90^{\circ}-\alpha\right)=90^{\circ}
-$$
+$$\sphericalangle HEF=\sphericalangle EFG=\sphericalangle FGH=\sphericalangle GHE=180^{\circ}-\alpha-\left(90^{\circ}-\alpha\right)=90^{\circ}$$
 
-Līdz ar to četrstūris $E F G H$ ir kvadrāts.
+Līdz ar to četrstūris $EFGH$ ir kvadrāts.
 
-Izmantojot trijstūra laukuma aprēkināšanas formulu $S_{\Delta}=\frac{1}{2} a h_{a}$, iegūstam
+Izmantojot trijstūra laukuma aprēķināšanas formulu 
+$S_{\Delta}=\frac{1}{2} ah_{a}$, iegūstam
 
-$$
-S_{E O F}+S_{G O H}=\frac{1}{2} E F \cdot h_{E F}+\frac{1}{2} G H \cdot h_{G H}=\frac{1}{2} a\left(h_{E F}+h_{G H}\right)=\frac{1}{2} a^{2}
-$$
+$$S_{EOF}+S_{GOH}=\frac{1}{2} EF \cdot h_{EF}+\frac{1}{2} GH \cdot h_{GH}=\frac{1}{2} a\left(h_{EF}+h_{GH}\right)=\frac{1}{2} a^{2}$$
 
-Līdzīgi iegūstam, ka $S_{F O G}+S_{H O E}=\frac{1}{2} a^{2}$. Tātad esam pierādījuši, ka $S_{E O F}+S_{G O H}=S_{F O G}+S_{H O E}$, un līdz ar to $\operatorname{arī} S_{A E O H}+S_{F C G O}=S_{B F O E}+S_{D H O G}$.
+Līdzīgi iegūstam, ka $S_{FOG}+S_{HOE}=\frac{1}{2} a^{2}$. Tātad esam 
+pierādījuši, ka $S_{EOF}+S_{GOH}=S_{FOG}+S_{HOE}$, un līdz ar to arī 
+$S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
 
 
 # <lo-sample/> LV.NOL.2019.9.4.
 
-9.4. Kvadrāts sastāv no $n \times n$ rūtịām. Rindas sanumurētas no lejas uz augšu ar skaitliem $1 ; 2 ; \ldots$; $n$ tāpat sanumurētas kolonnas no kreisās uz labo pusi. Katrā rūtiņā ierakstīts vai nu (+1), vai ( -1 . Ja rindas un kolonnas numuri ir vienādi, tad visu šajā rindā ierakstīto skait|u reizinājums atškiras no visu šajā kolonnā ierakstīto skait|u reizinājuma. Vai tas ir iespējams, ja a) $n=7$, b) $n=8$ ?
+Kvadrāts sastāv no $n \times n$ rūtiņām. Rindas sanumurētas no lejas uz augšu 
+ar skaitliem $1; 2; \ldots$; $n$ tāpat sanumurētas kolonnas no kreisās uz labo 
+pusi. Katrā rūtiņā ierakstīts vai nu $(+1)$, vai $(-1)$. Ja rindas un kolonnas 
+numuri ir vienādi, tad visu šajā rindā ierakstīto skaitļu reizinājums atšķiras 
+no visu šajā kolonnā ierakstīto skaitļu reizinājuma. Vai tas ir iespējams, ja 
+**a)** $n=7$, **b)** $n=8$?
 
 <small>
 
@@ -861,25 +898,32 @@ Līdzīgi iegūstam, ka $S_{F O G}+S_{H O E}=\frac{1}{2} a^{2}$. Tātad esam pie
 
 ## Atrisinājums
 
-Atrisinājums. a) Nē, nav iespējams. levērojam, ka rindā vai kolonnā visu ierakstīto skaitlu reizinājums var būt tikai $(+1)$ vai $(-1)$. Apzīmēsim rindās ierakstīto skaitlu reizinājumus attiecīgi ar $r_{1}, r_{2}, \ldots, r_{7}$ un kolonnās ierakstīto skaitlu reizinājumus attiecīgi ar $k_{1}, k_{2}, \ldots, k_{7}$. No dotā secinām, ka $i$-tajā rindā un $i$-tajā kolonnā ierakstīos skaitlu reizinājumi ir attiecīgi (+1) un (-1), vai otrādi. Līdz ar to $r_{1} \cdot k_{1}=r_{2} \cdot k_{2}=\ldots=r_{7} \cdot k_{7}=-1$, tātad
+**a)** Nē, nav iespējams. levērojam, ka rindā vai kolonnā visu ierakstīto 
+skaitļu reizinājums var būt tikai $(+1)$ vai $(-1)$. Apzīmēsim rindās 
+ierakstīto skaitļu reizinājumus attiecīgi ar $r_{1}, r_{2}, \ldots, r_{7}$ un 
+kolonnās ierakstīto skaitļu reizinājumus attiecīgi ar 
+$k_{1}, k_{2}, \ldots, k_{7}$. No dotā secinām, ka $i$-tajā rindā un $i$-tajā 
+kolonnā ierakstīto skaitļu reizinājumi ir attiecīgi $(+1)$ un $(-1)$, vai 
+otrādi. Līdz ar to 
+$r_{1} \cdot k_{1}=r_{2} \cdot k_{2}=\ldots=r_{7} \cdot k_{7}=-1$, tātad
 
-$$
-\left(r_{1} \cdot r_{2} \ldots \cdot r_{7}\right) \cdot\left(k_{1} \cdot k_{2} \cdot \ldots \cdot k_{7}\right)=\left(r_{1} \cdot k_{1}\right)\left(r_{2} \cdot k_{2}\right) \ldots\left(r_{7} \cdot k_{7}\right)=-1
-$$
+$$\left(r_{1} \cdot r_{2} \ldots \cdot r_{7}\right) \cdot\left(k_{1} \cdot k_{2} \cdot \ldots \cdot k_{7}\right)=\left(r_{1} \cdot k_{1}\right)\left(r_{2} \cdot k_{2}\right) \ldots\left(r_{7} \cdot k_{7}\right)=-1$$
 
-Taču šis reizinājums ir visu tabulā ierakstīto skait]u reizinājuma kvadrāts - pretruna, jo skait|a kvadrāts ir nenegatīvs. Tātad kvadrātā $7 \times 7$ nav iespējams ierakstīt skait|us atbilstoši uzdevuma nosacijumiem.
-b) Jā, ir iespējams, noteikumiem atbilstošu skait|u izvietojumu skat., piemēram, 24.att., kur tukšajās rūtiņās ierakstīts (+1).
+Taču šis reizinājums ir visu tabulā ierakstīto skaitļu reizinājuma kvadrāts - 
+pretruna, jo skaitļa kvadrāts ir nenegatīvs. Tātad kvadrātā $7 \times 7$ nav 
+iespējams ierakstīt skaitļus atbilstoši uzdevuma nosacījumiem.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-10.jpg?height=511&width=552&top_left_y=253&top_left_x=752)
+**b)** Jā, ir iespējams, noteikumiem atbilstošu skaitļu izvietojumu skat., 
+piemēram, 24.att., kur tukšajās rūtiņās ierakstīts $(+1)$.
 
-1. 2. 3. 4. 5. 6. 7. 8 .
-1.att.
+![](LV.NOL.2019.9.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.9.5.
 
-9.5. Kāds mazākais ciparu skaits jāpieraksta ciparu virknes 3456 beigās, lai iegūtu skaitli, kas dalās ar 2019?
+Kāds mazākais ciparu skaits jāpieraksta ciparu virknes $3456$ beigās, lai 
+iegūtu skaitli, kas dalās ar $2019$?
 
 <small>
 
@@ -890,37 +934,59 @@ b) Jā, ir iespējams, noteikumiem atbilstošu skait|u izvietojumu skat., piemē
 
 ## Atrisinājums
 
-1. atrisinājums. Mazākais ciparu skaits, kas jāpieraksta ciparu virknes beigās, ir trīs. Piemēram, skaitlis 3456528 dalās ar 2019 (3456528 $=2019 \cdot 1712$ ).
+Mazākais ciparu skaits, kas jāpieraksta ciparu virknes beigās, ir trīs. 
+Piemēram, skaitlis $3456528$ dalās ar $2019$ ($3456528=2019 \cdot 1712$).
 
-Pierādīsim, ka mazāk kā trīs ciparus nevar pierakstīt dotās ciparu virknes beigās, lai izpildītos uzdevuma nosacijumi.
+Pierādīsim, ka mazāk kā trīs ciparus nevar pierakstīt dotās ciparu virknes 
+beigās, lai izpildītos uzdevuma nosacījumi.
 
-Skaitlis 3456 nedalās ar 2019, tāpēc dotās virknes beigās ir jāpieraksta vismaz viens cipars.
+Skaitlis $3456$ nedalās ar $2019$, tāpēc dotās virknes beigās ir jāpieraksta 
+vismaz viens cipars.
 
-levērojam, ka $17 \cdot 2019=34323<\overline{3456 x}$ un $18 \cdot 2019=36342>\overline{3456 x}$, kur $x-$ cipars. Līdz ar to ar viena cipara pievienošanu nevar izveidot skaitli, kas dalās ar 2019.
+levērojam, ka $17 \cdot 2019=34323<\overline{3456x}$ un 
+$18 \cdot 2019=36342>\overline{3456x}$, kur $x$ - cipars. Līdz ar to ar viena 
+cipara pievienošanu nevar izveidot skaitli, kas dalās ar $2019$.
 
-Līdzīgi $171 \cdot 2019=345249<\overline{3456 x y}$ un $172 \cdot 2019=347268>\overline{3456 x y}$, kur $x$ un $y$ - cipari. Līdz ar to ar divu ciparu pievienošanu nevar izveidot skaitli, kas dalās ar 2019.
+Līdzīgi $171 \cdot 2019=345249<\overline{3456xy}$ un 
+$172 \cdot 2019=347268>\overline{3456xy}$, kur $x$ un $y$ - cipari. Līdz ar to 
+ar divu ciparu pievienošanu nevar izveidot skaitli, kas dalās ar $2019$.
 
 Tātad esam pierādījuši, ka jāpievieno vismaz trīs cipari.
 
 ## Atrisinājums
 
-2. atrisinājums. Mazākais ciparu skaits, kas jāpieraksta ciparu virknes beigās, ir trīs. Piemēram, skaitlis 3456528 dalās ar 2019 (3456528 $=2019 \cdot 1712$ ).
+Mazākais ciparu skaits, kas jāpieraksta ciparu virknes beigās, ir trīs. 
+Piemēram, skaitlis $3456528$ dalās ar $2019$ ($3456528=2019 \cdot 1712$).
 
-Pierādīsim, ka mazāk kā trīs ciparus nevar pierakstīt dotās ciparu virknes beigās, lai izpildītos uzdevuma nosacijumi.
+Pierādīsim, ka mazāk kā trīs ciparus nevar pierakstīt dotās ciparu virknes 
+beigās, lai izpildītos uzdevuma nosacījumi.
 
-Skaitlis 3456 nedalās ar 2019, tāpēc dotās virknes beigās ir jāpieraksta vismaz viens cipars.
+Skaitlis $3456$ nedalās ar $2019$, tāpēc dotās virknes beigās ir jāpieraksta 
+vismaz viens cipars.
 
-levērojam, ka $\overline{3456 x}=34560+x=17 \cdot 2019+237+x$, kur $x$ - cipars. Tā kā $17 \cdot 2019$ dalās ar 2019, tad, lai $\overline{3456 x}$ dalītos ar 2019, arī $(237+x)$ jādalās ar 2019, bet tas nav iespējams, jo $x$ ir cipars. Līdz ar to ar viena cipara pievienošanu nevar izveidot skaitli, kas dalās ar 2019.
+levērojam, ka $\overline{3456x}=34560+x=17 \cdot 2019+237+x$, kur $x$ - cipars.
+Tā kā $17 \cdot 2019$ dalās ar $2019$, tad, lai $\overline{3456x}$ dalītos ar 
+$2019$, arī $(237+x)$ jādalās ar $2019$, bet tas nav iespējams, jo $x$ ir 
+cipars. Līdz ar to ar viena cipara pievienošanu nevar izveidot skaitli, kas 
+dalās ar $2019$.
 
-Līdzīgi apskatām skaitli $\overline{3456 x y}=345600+\overline{x y}=171 \cdot 2019+351+\overline{x y}$, kur $x$ un $y-$ cipari. Tā kā $171 \cdot 2019$ dalās ar 2019, tad, lai $\overline{3456 x y}$ dalītos ar 2019, arī $(351+\overline{x y})$ jādalās ar 2019, bet tas nav iespējams, jo $\overline{x y}$ ir divciparu skaitlis. Līdz ar to ar divu ciparu pievienošanu nevar izveidot skaitli, kas dalās ar 2019.
+Līdzīgi apskatām skaitli 
+$\overline{3456xy}=345600+\overline{xy}=171 \cdot 2019+351+\overline{xy}$, kur 
+$x$ un $y$ - cipari. Tā kā $171 \cdot 2019$ dalās ar $2019$, tad, lai 
+$\overline{3456xy}$ dalītos ar $2019$, arī $(351+\overline{xy})$ jādalās ar 
+$2019$, bet tas nav iespējams, jo $\overline{xy}$ ir divciparu skaitlis. Līdz 
+ar to ar divu ciparu pievienošanu nevar izveidot skaitli, kas dalās ar $2019$.
 
-Piezīme. Atrast meklēto skaitli palīdz līdzīgi spriedumi, tas ir, $3456000=1711 \cdot 2019+1491$ un $1491+528=2019$.
+$Piezīme.$ Atrast meklēto skaitli palīdz līdzīgi spriedumi, tas ir, 
+$3456000=1711 \cdot 2019+1491$ un $1491+528=2019$.
 
 
 
 # <lo-sample/> LV.NOL.2019.10.1.
 
-10.1. Kvadrātfunkcija $y=x^{2}+\left(m^{2}+3 m\right) x+m-1$ krusto $x$ asi punktā, kura abscisa ir 1 . Kāda var būt $m$ vērtība? Atrast otru parabolas krustpunktu ar $x$ asi!
+Kvadrātfunkcija $y=x^{2}+\left(m^{2}+3m\right)x+m-1$ krusto $x$ asi punktā, 
+kura abscisa ir $1$. Kāda var būt $m$ vērtība? Atrast otru parabolas 
+krustpunktu ar $x$ asi!
 
 <small>
 
@@ -931,16 +997,24 @@ Piezīme. Atrast meklēto skaitli palīdz līdzīgi spriedumi, tas ir, $3456000=
 
 ## Atrisinājums
 
-Atrisinājums. Dotā funkcija krusto $x$ asi punktā $(1 ; 0)$, līdz ar to, ievietojot šīs vērtības dotajā funkcijā, iegūstam vienādojumu $0=1+m^{2}+3 m+m-1$ jeb $m^{2}+4 m=0$, kura saknes ir $m_{1}=0$ un $m_{2}=-4$. Tātad iespējami divi gadījumi:
+Dotā funkcija krusto $x$ asi punktā $(1; 0)$, līdz ar to, ievietojot šīs 
+vērtības dotajā funkcijā, iegūstam vienādojumu $0=1+m^{2}+3m+m-1$ jeb 
+$m^{2}+4m=0$, kura saknes ir $m_{1}=0$ un $m_{2}=-4$. Tātad iespējami divi 
+gadījumi:
 
-- ja $m=0$, tad dotā funkcija ir $y=x^{2}-1$ un tās otrs krustpunkts ar $x$ asi ir $(-1 ; 0)$;
-- ja $m=-4$, tad dotā funkcija ir $y=x^{2}+4 x-5$ un tās otrs krustpunkts ar $x$ asi ir $(-5 ; 0)$.
+- ja $m=0$, tad dotā funkcija ir $y=x^{2}-1$ un tās otrs krustpunkts ar $x$ asi
+  ir $(-1; 0)$;
+- ja $m=-4$, tad dotā funkcija ir $y=x^{2}+4x-5$ un tās otrs krustpunkts ar $x$
+  asi ir $(-5; 0)$.
 
 
 
 # <lo-sample/> LV.NOL.2019.10.2.
 
-10.2. Dotas 6 pēc ārējā izskata vienādas monētas. Trim no tām masa katrai ir 50 g , bet pārējām trim - katrai 51 g . Kā, lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vienu monētu, kuras masa ir 51 g ?
+Dotas $6$ pēc ārējā izskata vienādas monētas. Trim no tām masa katrai ir 
+$50~\mathrm{g}$, bet pārējām trim - katrai $51~\mathrm{g}$. Kā, lietojot sviras
+svarus bez atsvariem, ar divām svēršanām atrast vienu monētu, kuras masa ir 
+$51~\mathrm{g}$?
 
 <small>
 
@@ -951,61 +1025,78 @@ Atrisinājums. Dotā funkcija krusto $x$ asi punktā $(1 ; 0)$, līdz ar to, iev
 
 ## Atrisinājums
 
-1. atrisinājums. Pirmajā svēršanā uz katra svaru kausa uzliekam pa 3 monētām. lespējami divi gadījumi:
+Pirmajā svēršanā uz katra svaru kausa uzliekam pa $3$ monētām. lespējami divi 
+gadījumi:
 
-(A) uz viena svaru kausa ir trīs smagākās (masa 51 g ) monētas, bet uz otra - trīs vieglākās (masa 50 g ) monētas;
+**(A)** uz viena svaru kausa ir trīs smagākās (masa $51~\mathrm{g}$) monētas, 
+bet uz otra - trīs vieglākās (masa $50~\mathrm{g}$) monētas;
 
-(B) uz viena svaru kausa ir divas smagākās un viena vieglākā monēta, bet uz otra - viena smagākā un divas vieglākās monētas (skat. 25.att.).
+**(B)** uz viena svaru kausa ir divas smagākās un viena vieglākā monēta, bet uz
+otra - viena smagākā un divas vieglākās monētas (skat. 25.att.).
 
-Abos gadījumos viens svaru kauss nosveras uz leju. Nemam tās trīs monētas, kas atrodas uz tā svaru kausa, kas nosvērās uz leju. Uzliekam divas no šīm trīs monētām pa vienai uz katra svaru kausa.
+Abos gadījumos viens svaru kauss nosveras uz leju. Ņemam tās trīs monētas, kas 
+atrodas uz tā svaru kausa, kas nosvērās uz leju. Uzliekam divas no šīm trīs 
+monētām pa vienai uz katra svaru kausa.
 
-- Ja svaru kausi ir līdzsvarā, tad uz abiem svaru kausiem uzliktas smagākās monētas - prasītais izpildīts, esam atraduši pat divas monētas, kuru masa ir 51 g .
-- Ja svaru kausi nav līdzsvarā, tad smagākā monēta atrodas uz tā svaru kausa, kas nosveras uz leju - prasītais izpildīts, esam atraduši monētu, kuras masa ir 51 g .
+- Ja svaru kausi ir līdzsvarā, tad uz abiem svaru kausiem uzliktas smagākās 
+  monētas - prasītais izpildīts, esam atraduši pat divas monētas, kuru masa ir 
+  $51~\mathrm{g}$.
+- Ja svaru kausi nav līdzsvarā, tad smagākā monēta atrodas uz tā svaru kausa, 
+  kas nosveras uz leju - prasītais izpildīts, esam atraduši monētu, kuras masa 
+  ir $51~\mathrm{g}$.
 
-Tātad, izmantojot divas svēršanas ir atrasta vismaz viena monēta, kuras masa ir 51 g , un prasītais ir izpildīts.
-(A)
+Tātad, izmantojot divas svēršanas ir atrasta vismaz viena monēta, kuras masa ir
+$51~\mathrm{g}$, un prasītais ir izpildīts.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-11.jpg?height=180&width=348&top_left_y=852&top_left_x=540)
-(B)
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-11.jpg?height=179&width=335&top_left_y=850&top_left_x=1226)
-25.att.
+![](LV.NOL.2019.10.2A.png)
 
 ## Atrisināums
 
-2. atrisinājums. Pirmajā svēršanā uz katra svaru kausa uzliekam pa 2 monētām.
+Pirmajā svēršanā uz katra svaru kausa uzliekam pa $2$ monētām.
 
-- Ja svaru kausi ir līdzsvarā, tad uz katra svaru kausa uzlikts pa vienai smagajai ( 51 g ) monētai (skat. 26.att.). Otrajā svēršanā izvēlamies divas monētas, kas atrodas uz viena svaru kausa un salīdzinām savā starpā, lai atrastu smagāko monētu.
+- Ja svaru kausi ir līdzsvarā, tad uz katra svaru kausa uzlikts pa vienai 
+  smagajai ($51~\mathrm{g}$) monētai (skat. 26.att.). Otrajā svēršanā 
+  izvēlamies divas monētas, kas atrodas uz viena svaru kausa un salīdzinām savā
+  starpā, lai atrastu smagāko monētu.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-11.jpg?height=114&width=343&top_left_y=1282&top_left_x=868)
-
-26.att.
+![](LV.NOL.2019.10.2B.png)
 
 - Ja svaru kausi nav līdzsvarā, tad iespējami trīs gadījumi (skat. 27.att.):
 
-(A) uz smagākā svaru kausa uzliktas divas smagās monētas, bet uz otra kausa - divas vieglās;
+   **(A)** uz smagākā svaru kausa uzliktas divas smagās monētas, bet uz otra 
+           kausa - divas vieglās;
 
-(B) uz smagākā svaru kausa uzliktas divas smagās monētas, bet uz otra kausa viena smagā un viena vieglā;
+   **(B)** uz smagākā svaru kausa uzliktas divas smagās monētas, bet uz otra 
+           kausa viena smagā un viena vieglā;
 
-(C) uz smagākā svaru kausa uzlikta viena smagā monēta un viena vieglā, bet uz otra svaru kausa - divas vieglās monētas.
+   **(C)** uz smagākā svaru kausa uzlikta viena smagā monēta un viena vieglā, 
+           bet uz otra svaru kausa - divas vieglās monētas.
 
-Otrajā svēršanā izvēlamies divas monētas, kas atrodas uz smagākā svaru kausa, un salīdzinām savā starpā (no tām vismaz viena ir monēta, kuras masa ir 51 g ):
+   Otrajā svēršanā izvēlamies divas monētas, kas atrodas uz smagākā svaru 
+   kausa, un salīdzinām savā starpā (no tām vismaz viena ir monēta, kuras masa 
+   ir $51~\mathrm{g}$):
 
-- ja svari ir līdzsvarā, tad esam atraduši divas monētas, kuru masa ir 51 g ;
-- ja svari nav līdzsvarā, tad smagākā (51 g) monēta ir tā, kas atrodas uz svaru kausa, kas nosveras uz leju.
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-11.jpg?height=192&width=1490&top_left_y=2032&top_left_x=336)
-
-27.att.
+      - ja svari ir līdzsvarā, tad esam atraduši divas monētas, kuru masa ir 
+	    $51~\mathrm{g}$;
+      - ja svari nav līdzsvarā, tad smagākā ($51~\mathrm{g}$) monēta ir tā, kas
+   	    atrodas uz svaru kausa, kas nosveras uz leju.
+		
+![](LV.NOL.2019.10.2C.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.10.3.
 
-10.3. Plaknē dotas divas rinka līnijas $\omega_{1}$ un $\omega_{2}$, kurām nav kopīgu punktu un kuru rādiusi nav vienāda garuma. Novilktas trīs pieskares $t_{1}, t_{2}$ un $t_{3}$, kas katra pieskaras abām riņka līnijām - abas riņka līnijas atrodas vienā un tajā pašā $t_{1}$ pusē, vienā un tajā pašā $t_{2}$ pusē, bet katra savā $t_{3}$ pusē (skat. 28.att.). Taisne $t_{1}$ pieskaras $\omega_{1}$ punktā $A$ un krusto $t_{3}$ punktā $C$, taisne $t_{2}$ pieskaras $\omega_{2}$ punktā $B$ un krusto $t_{3}$ punktā $D$. Pierādīt, ka $A C=B D$.
+Plaknē dotas divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$, kurām nav kopīgu
+punktu un kuru rādiusi nav vienāda garuma. Novilktas trīs pieskares 
+$t_{1}, t_{2}$ un $t_{3}$, kas katra pieskaras abām riņķa līnijām - abas riņķa 
+līnijas atrodas vienā un tajā pašā $t_{1}$ pusē, vienā un tajā pašā $t_{2}$ 
+pusē, bet katra savā $t_{3}$ pusē (skat. 28.att.). Taisne $t_{1}$ pieskaras 
+$\omega_{1}$ punktā $A$ un krusto $t_{3}$ punktā $C$, taisne $t_{2}$ pieskaras 
+$\omega_{2}$ punktā $B$ un krusto $t_{3}$ punktā $D$. Pierādīt, ka $AC=BD$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-12.jpg?height=406&width=811&top_left_y=368&top_left_x=631)
-
-28.att.
+![](LV.NOL.2019.10.3.png)
 
 <small>
 
@@ -1016,26 +1107,25 @@ Otrajā svēršanā izvēlamies divas monētas, kas atrodas uz smagākā svaru k
 
 ## Atrisinājums
 
-Atrisinājums. Ar $E, F, G$ un $H$ apzīmējam pārējos pieskaršanās punktus (skat. 29.att.). Tā kā pieskaru, kas vilktas no viena punkta, nogriežņi ir vienādi, tad iegūstam vienādības: $A C=C E, C H=C G, D H=D B, D E=D F$. Tātad
+Ar $E, F, G$ un $H$ apzīmējam pārējos pieskaršanās punktus (skat. 29.att.). Tā 
+kā pieskaru, kas vilktas no viena punkta, nogriežņi ir vienādi, tad iegūstam 
+vienādības: $AC=CE, CH=CG, DH=DB, DE=DF$. Tātad
 
-$$
-\begin{aligned}
-& \quad F B=F D+D B=D E+D B=(E H+H D)+D B=E H+2 D B \text { jeb } B D=\frac{1}{2}(F B-E H) \\
-& \text { ○ } A G=A C+C G=A C+C H=A C+(C E+E H)=2 A C+E H \text { jeb } A C=\frac{1}{2}(A G-E H)
-\end{aligned}
-$$
+- $FB=FD+DB=DE+DB=(EH+HD)+DB=EH+2DB$ jeb $BD=\frac{1}{2}(FB-EH)$  
+- $AG=AC+CG=AC+CH=AC+(CE+EH)=2AC+EH$ jeb $AC=\frac{1}{2}(AG-EH)$
 
-Ar $X$ apzīmējam pieskaru $t_{1}$ un $t_{2}$ krustpunktu, tad $X G=X B$ un $X A=X F$. Līdz ar to $A G=F B$, no kā izriet, ka $A C=B D$.
+Ar $X$ apzīmējam pieskaru $t_{1}$ un $t_{2}$ krustpunktu, tad $XG=XB$ un 
+$XA=XF$. Līdz ar to $AG=FB$, no kā izriet, ka $AC=BD$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-12.jpg?height=417&width=757&top_left_y=1225&top_left_x=658)
-
-29.att.
+![](LV.NOL.2019.10.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.10.4.
 
-10.4. Doti 2019 reāli skaitļi ar īpašību, ka jebkuru 1010 skaitlu summa ir lielāka nekā atlikušo 1009 skait|lu summa. Pierādīt, ka visi dotie skaitli ir pozitīvi!
+Doti $2019$ reāli skaitļi ar īpašību, ka jebkuru $1010$ skaitļu summa ir 
+lielāka nekā atlikušo $1009$ skaitļu summa. Pierādīt, ka visi dotie skaitļi ir 
+pozitīvi!
 
 <small>
 
@@ -1046,19 +1136,22 @@ Ar $X$ apzīmējam pieskaru $t_{1}$ un $t_{2}$ krustpunktu, tad $X G=X B$ un $X 
 
 ## Atrisinājums
 
-Atrisinājums. Pieņemsim pretējo, ka kāds no dotajiem skaitliem $x$ ir negatīvs vai 0 , tas ir $x \leq 0$. Atlikušos 2018 skait|us sadalām divās grupās $A$ un $B$ katrā pa 1009 skaitliem. Grupas $A$ un $B$ skait|u summu attiecīgi apzīmējam ar $S_{A}$ un $S_{B}$. Pēc dotā vienlaicīgi ir spēkā divas nevienādības $S_{A}+x>S_{B}$ un $S_{B}+x>S_{A}$. Saskaitot šīs nevienādības, iegūstam
+Pieņemsim pretējo, ka kāds no dotajiem skaitļiem $x$ ir negatīvs vai $0$, tas 
+ir $x \leq 0$. Atlikušos $2018$ skaitļus sadalām divās grupās $A$ un $B$ katrā 
+pa $1009$ skaitļiem. Grupas $A$ un $B$ skaitļu summu attiecīgi apzīmējam ar 
+$S_{A}$ un $S_{B}$. Pēc dotā vienlaicīgi ir spēkā divas nevienādības 
+$S_{A}+x>S_{B}$ un $S_{B}+x>S_{A}$. Saskaitot šīs nevienādības, iegūstam
 
-$$
-S_{A}+S_{B}+2 x>S_{A}+S_{B}
-$$
+$$S_{A}+S_{B}+2x>S_{A}+S_{B}$$
 
-Līdz ar to $2 x>0$ jeb $x>0$. Esam ieguvuši pretrunu ar pienēemumu, ka $x \leq 0$. Tātad visi dotie skait!i ir pozitīvi.
+Līdz ar to $2x>0$ jeb $x>0$. Esam ieguvuši pretrunu ar pieņēmumu, ka 
+$x \leq 0$. Tātad visi dotie skaitļi ir pozitīvi.
 
 
 
 # <lo-sample/> LV.NOL.2019.10.5.
 
-10.5. Atrast visus pirmskait|u pārus $(m, n)$, kuriem $20 m+18 n=2018$.
+Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+18n=2018$.
 
 <small>
 
@@ -1069,17 +1162,20 @@ Līdz ar to $2 x>0$ jeb $x>0$. Esam ieguvuši pretrunu ar pienēemumu, ka $x \le
 
 ## Atrisinājums
 
-Atrisinājums. Dalām abas dotā vienādojuma puses ar 2 un pārveidojam iegūto vienādojumu:
+Dalām abas dotā vienādojuma puses ar $2$ un pārveidojam iegūto vienādojumu:
 
-$$
-\begin{gathered}
-10 m+9 n=1009 \\
-1000-10 m=9 n-9 \\
+$$\begin{gathered}
+10m+9n=1009 \\
+1000-10m=9n-9 \\
 10(100-m)=9(n-1)
-\end{gathered}
-$$
+\end{gathered}$$
 
-levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī $(100-m)$ jābūt pozitīvam. Tā kā 10 un 9 ir savstarpēji pirmskaitļi, tad $(100-m)$ ir jādalās ar 9 . lespējamās $m$ vērtības varētu būt 1, 10, 19, 28, 37, $46,55,64,73,82$ un 91 , no kurām derīgas ir tikai 19,37 un 73 , jo tie ir pirmskaitli. Atrodam atbilstošās $n$ vērtības:
+levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
+$(100-m)$ jābūt pozitīvam. Tā kā $10$ un $9$ ir savstarpēji pirmskaitļi, tad 
+$(100-m)$ ir jādalās ar $9$. lespējamās $m$ vērtības varētu būt 
+$1,\ 10,\ 19,\ 28,\ 37,\ 46,\ 55,\ 64,\ 73,\ 82$ un $91$, no kurām derīgas ir 
+tikai $19,\ 37$ un $73$, jo tie ir pirmskaitļi. Atrodam atbilstošās $n$ 
+vērtības:
 
 - ja $m=19$, tad $10 \cdot 81=9(n-1)$ jeb $n=91$ (neder, jo nav pirmskaitlis),
 - ja $m=37$, tad $10 \cdot 63=9(n-1)$ jeb $n=71$ (pirmskaitlis),
@@ -1091,9 +1187,10 @@ Tātad dotajam vienādojumam ir divi atrisinājumi: $m=37, n=71$ un $m=73, n=31$
 
 # <lo-sample/> LV.NOL.2019.11.1.
 
-11.1. Vai var gadīties, ka 30.att. ir doti funkciju $y=a x^{2}+b x+c, y=c x^{2}+b x+a$ un $y=b x+c$ grafiki? (Funkciju grafiki nav zīmēti mērogā.)
+Vai var gadīties, ka 30.att. ir doti funkciju $y=ax^{2}+bx+c, y=cx^{2}+bx+a$ un
+$y=bx+c$ grafiki? (Funkciju grafiki nav zīmēti mērogā.)
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-13.jpg?height=559&width=765&top_left_y=363&top_left_x=654)
+![](LV.NOL.2019.11.1.png)
 
 <small>
 
@@ -1104,17 +1201,27 @@ Tātad dotajam vienādojumam ir divi atrisinājumi: $m=37, n=71$ un $m=73, n=31$
 
 ## Atrisinājums
 
-Atrisinājums. Nē, nevar.
+Nē, nevar.
 
-Funkcijas $y=b x+c$ grafiks ir taisne. levērojam, ka tā ir dilstoša funkcija un taisne krusto $y$ asi punktā, kura ordinātas vērtība ir pozitīva, tad $b<0$.
+Funkcijas $y=bx+c$ grafiks ir taisne. levērojam, ka tā ir dilstoša funkcija un 
+taisne krusto $y$ asi punktā, kura ordinātas vērtība ir pozitīva, tad $b<0$.
 
-Apskatām funkciju $y=a x^{2}+b x+c$. Tā kā doto parabolu zari ir vērsti uz augšu un krustpunktu ar $y$ asi ordinātas vērtība ir pozitīva, tad $a>0$. Aprēkinām šīs parabolas virsotnes abscisas vērtību $x_{v}=-\frac{b}{2 a}$. Tā kā virsotne atrodas trešajā kvadrantā, tad $x_{v}<0$ un, nemot vērā, ka $a>0$, secinām, ka $b>0$. Esam ieguvuši pretrunu ar to, ka $b<0$ (lineārā funkcija dilstoša), tātad 30.att. nevar būt doti funkciju $y=a x^{2}+b x+c$, $y=c x^{2}+b x+a$ un $y=b x+c$ grafiki.
+Apskatām funkciju $y=ax^{2}+bx+c$. Tā kā doto parabolu zari ir vērsti uz augšu 
+un krustpunktu ar $y$ asi ordinātas vērtība ir pozitīva, tad $a>0$. Aprēķinām 
+šīs parabolas virsotnes abscisas vērtību $x_{v}=-\frac{b}{2a}$. Tā kā virsotne 
+atrodas trešajā kvadrantā, tad $x_{v}<0$ un, ņemot vērā, ka $a>0$, secinām, ka 
+$b>0$. Esam ieguvuši pretrunu ar to, ka $b<0$ (lineārā funkcija dilstoša), 
+tātad 30.att. nevar būt doti funkciju $y=ax^{2}+bx+c$, $y=cx^{2}+bx+a$ un 
+$y=bx+c$ grafiki.
 
 
 
 # <lo-sample/> LV.NOL.2019.11.2.
 
-11.2. Šaha klubā ir 13 šahisti. Visu vịuu spēles prasme ir atškirīga un partijā vienmēr uzvar spēcīgākais. a) Kā, izspēlējot 12 partijas, noskaidrot pašu labāko šahistu šajā klubā? b) Kā, izspēlējot 15 partijas, noskaidrot gan pašu labāko, gan otru labāko šahistu šajā klubā?
+Šaha klubā ir $13$ šahisti. Visu viņu spēles prasme ir atšķirīga un partijā 
+vienmēr uzvar spēcīgākais. **a)** Kā, izspēlējot $12$ partijas, noskaidrot pašu
+labāko šahistu šajā klubā? **b)** Kā, izspēlējot $15$ partijas, noskaidrot gan 
+pašu labāko, gan otru labāko šahistu šajā klubā?
 
 <small>
 
@@ -1125,22 +1232,48 @@ Apskatām funkciju $y=a x^{2}+b x+c$. Tā kā doto parabolu zari ir vērsti uz a
 
 ## Atrisinājums
 
-Atrisinājums. a) Izvēlamies divus šahistus un noskaidrojam labāko. Pirmās partijas uzvarētājs spēlē ar kādu vēl nespēlējušu šahistu. Šīs partijas uzvarētājs spēlē ar nākamo vēl nespēlējušo šahistu. Tā turpina - katras partijas labākais spēlētājs sacenšas tālāk, kamēr katrs šahists ir izspēlējis vismaz vienu partiju. Pēdējās partijas uzvarētājs ir labākais šajā klubā. Tā kā ir 12 zaudētāji, tad kopā tika izspēlētas 12 partijas.
+**a)** Izvēlamies divus šahistus un noskaidrojam labāko. Pirmās partijas 
+uzvarētājs spēlē ar kādu vēl nespēlējušu šahistu. Šīs partijas uzvarētājs spēlē
+ar nākamo vēl nespēlējušo šahistu. Tā turpina - katras partijas labākais 
+spēlētājs sacenšas tālāk, kamēr katrs šahists ir izspēlējis vismaz vienu 
+partiju. Pēdējās partijas uzvarētājs ir labākais šajā klubā. Tā kā ir $12$ 
+zaudētāji, tad kopā tika izspēlētas $12$ partijas.
 
-b) Sākumā izveidojam 6 šahistu pārus (skat. 31.att.) un katrā pārī noskaidrojam labāko šahistu (6 partijas). Tad šos sešus labākos šahistus sadalām trīs pāros un katrā no šiem pāriem noskaidrojam labāko šahistu (3 partijas). Pirmos divus no atrastajiem trīs labākajiem šahistiem salīdzinām savā starpā un noskaidrojam labāko (1 partija), bet trešo no tiem salīdzinām ar to šahistu, kas līdz šim nav piedalījies nevienā šaha partijā un noskaidrojam labāko (1 partija). Visbeidzot labākie šahisti no pēdējām divām šaha partijām sacenšas savā starpā (1 partija). Tātad, izspēlējot $6+3+1+1+1=12$ šaha partijas, ir noskaidrots pats labākais šahists šajā klubā. lepriekš parādījām, kā, izspēlējot 12 partijas, var noskaidrot uzvarētāju šajā klubā. Otrs labākais šahists meklējams tikai un vienīgi no tiem 4 šahistiem, kas spēlējuši ar uzvarētāju un tam zaudējuši. Labākais no šiem četriem šahistiem atrodams, izspēlējot vēl 3 partijas, piemēram, salīdzinām divus šahistus (1 partija), labākais no tiem spēlē ar nākamo (1 partija), labākais šahists šajā partijā spēlē ar nākamo šahistu (1 partija). Tas nozīmē, ka ar $12+3=15$ šaha partijām var atrast pašu labāko un otro labāko šahistu.
+**b)** Sākumā izveidojam $6$ šahistu pārus (skat. 31.att.) un katrā pārī 
+noskaidrojam labāko šahistu ($6$ partijas). Tad šos sešus labākos šahistus 
+sadalām trīs pāros un katrā no šiem pāriem noskaidrojam labāko šahistu ($3$ 
+partijas). Pirmos divus no atrastajiem trīs labākajiem šahistiem salīdzinām 
+savā starpā un noskaidrojam labāko ($1$ partija), bet trešo no tiem salīdzinām 
+ar to šahistu, kas līdz šim nav piedalījies nevienā šaha partijā un 
+noskaidrojam labāko ($1$ partija). Visbeidzot labākie šahisti no pēdējām divām 
+šaha partijām sacenšas savā starpā ($1$ partija). Tātad, izspēlējot 
+$6+3+1+1+1=12$ šaha partijas, ir noskaidrots pats labākais šahists šajā klubā. 
+lepriekš parādījām, kā, izspēlējot $12$ partijas, var noskaidrot uzvarētāju 
+šajā klubā. Otrs labākais šahists meklējams tikai un vienīgi no tiem $4$ 
+šahistiem, kas spēlējuši ar uzvarētāju un tam zaudējuši. Labākais no šiem 
+četriem šahistiem atrodams, izspēlējot vēl $3$ partijas, piemēram, salīdzinām 
+divus šahistus ($1$ partija), labākais no tiem spēlē ar nākamo ($1$ partija), 
+labākais šahists šajā partijā spēlē ar nākamo šahistu ($1$ partija). Tas 
+nozīmē, ka ar $12+3=15$ šaha partijām var atrast pašu labāko un otro labāko 
+šahistu.
 
-Piezīme. b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan b) gadījumam. Rīkojoties pēc a) gadījumā aprakstītā plāna, nav iespējams, izspēlējot 15 partijas, atrast arī otru labāko šahistu.
+$Piezīme.$ b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan b) 
+gadījumam. Rīkojoties pēc a) gadījumā aprakstītā plāna, nav iespējams, 
+izspēlējot $15$ partijas, atrast arī otru labāko šahistu.
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-13.jpg?height=245&width=929&top_left_y=2399&top_left_x=632)
-
-31.att.
+![](LV.NOL.2019.11.2A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.11.3.
 
-11.3. Divas riņka līijas $\omega_{1}$ (ar centru punktā $O_{1}$ ) un $\omega_{2}$ (ar centru punktā $O_{2}$ ) krustojas punktā $A$. Taisne $O_{1} A$ krusto $\omega_{2}$ punktā $B_{2}$, bet $\omega_{1}-$ punktā $C_{1}$. Taisne $O_{2} A$ krusto $\omega_{1}$ punktā $B_{1}$, bet $\omega_{2}$ - punktā $C_{2}$ (skat. 32.att.). Pierādīt, ka $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$.
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-14.jpg?height=594&width=1618&top_left_y=314&top_left_x=252)
+Divas riņķa līijas $\omega_{1}$ (ar centru punktā $O_{1}$) un $\omega_{2}$ (ar 
+centru punktā $O_{2}$) krustojas punktā $A$. Taisne $O_{1} A$ krusto 
+$\omega_{2}$ punktā $B_{2}$, bet $\omega_{1}-$ punktā $C_{1}$. Taisne $O_{2}A$ 
+krusto $\omega_{1}$ punktā $B_{1}$, bet $\omega_{2}$ - punktā $C_{2}$ (skat. 
+32.att.). Pierādīt, ka $\sphericalangle B_{2}B_{1}A=\sphericalangle C_{2}C_{1}A$.
+
+![](LV.NOL.2019.11.3.png)
 
 <small>
 
@@ -1151,17 +1284,33 @@ Piezīme. b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan
 
 ## Atrisinājums
 
-1. atrisinājums. Tā kā $\sphericalangle C_{1} B_{1} A=\sphericalangle C_{2} B_{2} A=90^{\circ}$ (kā ievilktie leņki, kas balstās uz diametra) un $\sphericalangle B_{1} A C_{1}=\sphericalangle B_{2} A C_{2}$ (kā krustlenki), tad trijstūri $\triangle A B_{1} C_{1} \sim \triangle A B_{2} C_{2}$ pēc pazīmes $\ell \ell$ un $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$. Tā kā $\frac{A B_{1}}{A B_{2}}=\frac{A C_{1}}{A C_{2}}$ un $\sphericalangle B_{1} A B_{2}=\sphericalangle C_{1} A C_{2}$ kā krustleņki, tad $\Delta B_{1} A B_{2} \sim \Delta C_{1} A C_{2}$ pēc pazīmes mlm. Tātad $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$ kā atbilstošie lenki līdzīgos trijstūros.
+Tā kā $\sphericalangle C_{1}B_{1}A=\sphericalangle C_{2}B_{2}A=90^{\circ}$ (kā 
+ievilktie leņķi, kas balstās uz diametra) un 
+$\sphericalangle B_{1}AC_{1}=\sphericalangle B_{2}AC_{2}$ (kā krustleņķi), tad 
+trijstūri $\triangle AB_{1}C_{1} \sim \triangle AB_{2}C_{2}$ pēc pazīmes 
+$\ell \ell$ un $\frac{AB_{1}}{AB_{2}}=\frac{AC_{1}}{AC_{2}}$. Tā kā 
+$\frac{AB_{1}}{AB_{2}}=\frac{AC_{1}}{AC_{2}}$ un 
+$\sphericalangle B_{1}AB_{2}=\sphericalangle C_{1}AC_{2}$ kā krustleņķi, tad 
+$\Delta B_{1}AB_{2} \sim \Delta C_{1}AC_{2}$ pēc pazīmes $m \ell m$. Tātad 
+$\sphericalangle B_{2}B_{1}A=\sphericalangle C_{2}C_{1}A$ kā atbilstošie leņķi 
+līdzīgos trijstūros.
 
 ## Atrisinājums
 
-2. atrisinājums. Tā kā $\sphericalangle C_{1} B_{1} A=\sphericalangle C_{2} B_{2} A=90^{\circ}$ kā ievilktie lenkii, kas balstās uz diametra, tad ap četrstūri $B_{1} B_{2} C_{2} C_{1}$ var apvilkt rinka līiju (skat. 33.att.). Līdz ar to $\sphericalangle B_{2} B_{1} C_{2}=\sphericalangle C_{2} C_{1} B_{2}$ kā ievilktie lenkị, kas balstās uz viena un tā paša loka $B_{2} C_{2}$. Tātad $\sphericalangle B_{2} B_{1} A=\sphericalangle C_{2} C_{1} A$.
+Tā kā $\sphericalangle C_{1}B_{1}A=\sphericalangle C_{2}B_{2}A=90^{\circ}$ kā 
+ievilktie leņķi, kas balstās uz diametra, tad ap četrstūri 
+$B_{1}B_{2}C_{2}C_{1}$ var apvilkt riņķa līniju (skat. 33.att.). Līdz ar to 
+$\sphericalangle B_{2}B_{1}C_{2}=\sphericalangle C_{2}C_{1}B_{2}$ kā ievilktie 
+leņķi, kas balstās uz viena un tā paša loka $B_{2}C_{2}$. Tātad 
+$\sphericalangle B_{2}B_{1}A=\sphericalangle C_{2}C_{1}A$.
 
 
 
 # <lo-sample/> LV.NOL.2019.11.4.
 
-11.4. Pierādīt, ka nevienādība $\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2} \geq 2(a+1)(b+1)$ ir spēkā visiem reāliem pozitīviem skaitliem $a$ un $b$.
+Pierādīt, ka nevienādība 
+$\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2} \geq 2(a+1)(b+1)$ ir spēkā visiem 
+reāliem pozitīviem skaitļiem $a$ un $b$.
 
 <small>
 
@@ -1172,53 +1321,51 @@ Piezīme. b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan
 
 ## Atrisinājums
 
-1. atrisinājums. Tā kā $a$ un $b$ ir pozitīvi skaitli, tad abas nevienādības puses drīkst reizināt ar $a b$. legūstam pierādāmajai nevienādībai ekvivalentu nevienādību
+Tā kā $a$ un $b$ ir pozitīvi skaitļi, tad abas nevienādības puses drīkst 
+reizināt ar $ab$. legūstam pierādāmajai nevienādībai ekvivalentu nevienādību
 
-$$
-\begin{gathered}
-a^{2}(a+1)^{2}+b^{2}(b+1)^{2} \geq 2 a(a+1) b(b+1) \\
-a^{2}(a+1)^{2}-2 a(a+1) b(b+1)+b^{2}(b+1)^{2} \geq 0
-\end{gathered}
-$$
+$$\begin{gathered}
+a^{2}(a+1)^{2}+b^{2}(b+1)^{2} \geq 2a(a+1)b(b+1) \\
+a^{2}(a+1)^{2}-2a(a+1) b(b+1)+b^{2}(b+1)^{2} \geq 0
+\end{gathered}$$
 
 Ekvivalenti pārveidojam šīs nevienādības kreisās puses izteiksmi:
 
-$$
-\begin{gathered}
-(a(a+1))^{2}-2 a(a+1) b(b+1)+(b(b+1))^{2} \geq 0 \\
+$$\begin{gathered}
+(a(a+1))^{2}-2a(a+1) b(b+1)+(b(b+1))^{2} \geq 0 \\
 (a(a+1)-b(b+1))^{2} \geq 0
-\end{gathered}
-$$
+\end{gathered}$$
 
-Reāla skaitla kvadrāts ir vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa nevienādība un arī dotā nevienādība ir patiesa, jo tika veikti tikai ekvivalenti pārveidojumi.
+Reāla skaitļa kvadrāts ir vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa 
+nevienādība un arī dotā nevienādība ir patiesa, jo tika veikti tikai 
+ekvivalenti pārveidojumi.
 
 ## Atrisinājums
 
-2. atrisinājums. Dotā nevienādība ir ekvivalenta nevienādībai
+Dotā nevienādība ir ekvivalenta nevienādībai
 
-$$
-\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2}-2(a+1)(b+1) \geq 0
-$$
+$$\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2}-2(a+1)(b+1) \geq 0$$
 
-levērojot, ka $a$ un $b$ ir pozitīvi skaitli, ekvivalenti pārveidojam šīs nevienādības kreisās puses izteiksmi:
+levērojot, ka $a$ un $b$ ir pozitīvi skaitļi, ekvivalenti pārveidojam šīs 
+nevienādības kreisās puses izteiksmi:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 \left(\sqrt{\frac{a}{b}}\right)^{2}(a+1)^{2}+\left(\sqrt{\frac{b}{a}}\right)^{2}(b+1)^{2}-2(a+1)(b+1) \geq 0 \\
 \left(\sqrt{\frac{a}{b}}(a+1)\right)^{2}-2 \sqrt{\frac{a}{b}}(a+1) \sqrt{\frac{b}{a}}(b+1)+\left(\sqrt{\frac{b}{a}}(b+1)\right)^{2} \geq 0 \\
 \left(\sqrt{\frac{a}{b}}(a+1)-\sqrt{\frac{b}{a}}(b+1)\right)^{2} \geq 0
-\end{gathered}
-$$
+\end{gathered}$$
 
-Reāla skaitla kvadrā̄s ir vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa nevienādība un arī dotā nevienādība ir patiesa, jo tika veikti tikai ekvivalenti pārveidojumi.
+Reāla skaitļa kvadrāts ir vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa 
+nevienādība un arī dotā nevienādība ir patiesa, jo tika veikti tikai 
+ekvivalenti pārveidojumi.
 
 ## Atrisinājums
 
-3. atrisinājums. Tā kā $a$ un $b$ ir pozitīvi skaitļi, tad dotās nevienādības kreisās puses izteiksmi var novērtēt, izmantojot nevienādību starp vidējo aritmētisko un vidējo ģeometrisko:
+Tā kā $a$ un $b$ ir pozitīvi skaitļi, tad dotās nevienādības kreisās puses 
+izteiksmi var novērtēt, izmantojot nevienādību starp vidējo aritmētisko un 
+vidējo ģeometrisko:
 
-$$
-\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2} \geq 2 \cdot \sqrt{\frac{a}{b}(a+1)^{2} \cdot \frac{b}{a}(b+1)^{2}}=2(a+1)(b+1)
-$$
+$$\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2} \geq 2 \cdot \sqrt{\frac{a}{b}(a+1)^{2} \cdot \frac{b}{a}(b+1)^{2}}=2(a+1)(b+1)$$
 
 kas arī bija jāpierāda.
 
@@ -1226,7 +1373,7 @@ kas arī bija jāpierāda.
 
 # <lo-sample/> LV.NOL.2019.11.5.
 
-11.5. Atrast visus pirmskaitlu pārus $(m, n)$, kuriem $20 m+19 n=2019$.
+Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+19n=2019$.
 
 <small>
 
@@ -1237,37 +1384,48 @@ kas arī bija jāpierāda.
 
 ## Atrisinājums
 
-1. atrisinājums. Pārveidojam doto vienādojumu
+Pārveidojam doto vienādojumu
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 2000-20 m & =19 n-19 \\
 20(100-m) & =19(n-1)
-\end{aligned}
-$$
+\end{aligned}$$
 
-levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī $(100-m)$ jābūt pozitīvam. Tā kā 20 un 19 ir savstarpēji pirmskaitli, tad $(100-m)$ ir jādalās ar 19. lespējamās $m$ vērtības varētu būt 5, 24, 43, 62 un 81, no kurām derīgas ir tikai 5 un 43, jo tie ir pirmskaitli. Atrodam atbilstošās $n$ vērtības:
+levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
+$(100-m)$ jābūt pozitīvam. Tā kā $20$ un $19$ ir savstarpēji pirmskaitļi, tad 
+$(100-m)$ ir jādalās ar $19$. lespējamās $m$ vērtības varētu būt 
+$5,\ 24,\ 43,\ 62$ un 81, no kurām derīgas ir tikai $5$ un $43$, jo tie ir 
+pirmskaitļi. Atrodam atbilstošās $n$ vērtības:
 
 - ja $m=5$, tad $20 \cdot 95=19(n-1)$ jeb $n=101$ (pirmskaitlis),
 
-○ ja $m=43$, tad $20 \cdot 57=19(n-1)$ jeb $n=61$ (pirmskaitlis).
+- ja $m=43$, tad $20 \cdot 57=19(n-1)$ jeb $n=61$ (pirmskaitlis).
 
-Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5, n=101$ un $m=43, n=61$.
+Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5,\ n=101$ un 
+$m=43,\ n=61$.
 
 ## Atrisinājums
 
-2. atrisinājums. Apskatīsim doto vienādojumu pēc moduļa 19. Tā kā $20 m \equiv 1 \cdot m \equiv m(\bmod 19)$, $19 n \equiv 0(\bmod 19)$ un $2019 \equiv 5(\bmod 19)$, tad, lai būtu vienādība, jāizpildās nosacījumam $m \equiv 5(\bmod 19)$. levērojot, ka $20 \cdot 101=2020>2019$, secinām, ka $m<101$. Tātad derīgās $m$ vērtības ir pirmskaitli, kas mazāki nekā 101, un, dalot ar 19, dod atlikumu 5. Šādas vērtības ir tikai divas $m=5$ un $m=43$. Atrodam atbilstošās $n$ vērtības:
+Apskatīsim doto vienādojumu pēc moduļa $19$. Tā kā 
+$20m \equiv 1 \cdot m \equiv m(\bmod 19)$, $19n \equiv 0(\bmod 19)$ un 
+$2019 \equiv 5(\bmod 19)$, tad, lai būtu vienādība, jāizpildās nosacījumam 
+$m \equiv 5(\bmod 19)$. levērojot, ka $20 \cdot 101=2020>2019$, secinām, ka 
+$m<101$. Tātad derīgās $m$ vērtības ir pirmskaitļi, kas mazāki nekā $101$, un, 
+dalot ar $19$, dod atlikumu $5$. Šādas vērtības ir tikai divas $m=5$ un $m=43$.
+Atrodam atbilstošās $n$ vērtības:
 
 - ja $m=5$, tad $20 \cdot 95=19(n-1)$ jeb $n=101$ (pirmskaitlis),
 - ja $m=43$, tad $20 \cdot 57=19(n-1)$ jeb $n=61$ (pirmskaitlis).
 
-Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5, n=101$ un $m=43, n=61$.
+Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5,\ n=101$ un $m=43, n=61$.
 
 
 
 # <lo-sample/> LV.NOL.2019.12.1.
 
-12.1. Urnā atrodas 66 baltas un nezināms skaits melnu lodīšu. Ja uz labu laimi tiek izvilktas divas lodītes, tad varbūtība, ka abas lodītes būs vienā krāsā, sakrīt ar varbūtību, ka lodītes būs dažādās krāsās. Cik melno lodīšu atrodas urnā? 
+Urnā atrodas $66$ baltas un nezināms skaits melnu lodīšu. Ja uz labu laimi tiek
+izvilktas divas lodītes, tad varbūtība, ka abas lodītes būs vienā krāsā, sakrīt
+ar varbūtību, ka lodītes būs dažādās krāsās. Cik melno lodīšu atrodas urnā? 
 
 <small>
 
@@ -1278,34 +1436,52 @@ Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5, n=101$ un $m=43, n=61$
 
 ## Atrisinājums
 
-Atrisinājums. Tā kā varbūtība, ka abas lodītes būs vienā krāsā, sakrīt ar varbūtību, ka lodītes būs dažādās krāsās, tad abas varbūtības ir $\frac{1}{2}$. Varbūtību, ka abas lodītes būs vienā krāsā, aprēkināsim izmantojot formulu $P(A)=\frac{k}{n^{\prime}}$ kur $k$ ir labvēlīgo notikumu skaits un $n$ ir visu notikumu kopskaits.
+Tā kā varbūtība, ka abas lodītes būs vienā krāsā, sakrīt ar varbūtību, ka 
+lodītes būs dažādās krāsās, tad abas varbūtības ir $\frac{1}{2}$. Varbūtību, ka
+abas lodītes būs vienā krāsā, aprēķināsim izmantojot formulu 
+$P(A)=\frac{k}{n^{\prime}}$ kur $k$ ir labvēlīgo notikumu skaits un $n$ ir visu
+notikumu kopskaits.
 
-Ar $m$ apzīmējam melno lodīšu skaitu. Tad labvēlīgo notikumu (abas lodītes ir vienā krāsā) skaits ir $66 \cdot 65+m(m-1)$ un visu notikumu kopskaits (izņemtas divas lodītes) ir $(66+m)(65+m)$. Līdz ar to varbūtība, ka abas izvilktās lodītes ir vienādā krāsā, ir $\frac{m(m-1)+66 \cdot 65}{(66+m)(65+m)}$.
+Ar $m$ apzīmējam melno lodīšu skaitu. Tad labvēlīgo notikumu (abas lodītes ir 
+vienā krāsā) skaits ir $66 \cdot 65+m(m-1)$ un visu notikumu kopskaits 
+(izņemtas divas lodītes) ir $(66+m)(65+m)$. Līdz ar to varbūtība, ka abas 
+izvilktās lodītes ir vienādā krāsā, ir 
+$\frac{m(m-1)+66 \cdot 65}{(66+m)(65+m)}$.
 
-Lai iegūtu melno lodǐšu skaitu, jāatrisina vienādojums
+Lai iegūtu melno lodīšu skaitu, jāatrisina vienādojums
 
-$$
-\frac{m(m-1)+66 \cdot 65}{(66+m)(65+m)}=\frac{1}{2}
-$$
+$$\frac{m(m-1)+66 \cdot 65}{(66+m)(65+m)}=\frac{1}{2}$$
 
 Reizinām abas vienādojuma puses ar $2(66+m)(65+m)>0$, iegūstam
 
-$$
-\begin{gathered}
-2 m^{2}-2 m+2 \cdot 66 \cdot 65=66 \cdot 65+131 m+m^{2} \\
+$$\begin{gathered}
+2m^{2}-2 m+2 \cdot 66 \cdot 65=66 \cdot 65+131 m+m^{2} \\
 m^{2}-133 m+66 \cdot 65=0
-\end{gathered}
-$$
+\end{gathered}$$
 
-Šī vienādojuma saknes ir $m_{1}=78$ un $m_{2}=55$. Tātad urnā atrodas 78 vai 55 melnas lodītes.
+Šī vienādojuma saknes ir $m_{1}=78$ un $m_{2}=55$. Tātad urnā atrodas $78$ vai 
+$55$ melnas lodītes.
 
-Piezīme. Varbūtību, ka abas izņemtās lodītes ir vienā krāsā, var arī aprēkināt, izmantojot notikumu summas varbūtību, tas ir, ja notikumi $A$ un $B$ ir nesavienojami, tad $P(A \cup B)=P(A)+P(B)$, kur $A$ - abas izņemtās lodītes ir baltas un $B$ - abas izņemtās lodītes ir melnas. Aprēḳinām varbūtību $P(A)$. Ar $m$ apzīmējam melno lodīšu skaitu. Varbūtība, ka pirmā izvilktā lodīte ir balta, ir $\frac{66}{66+m}$ un varbūtība, ka otrā izvilktā lodīte arī ir balta (ja pirmā bija balta), ir $\frac{66-1}{66+m-1}$. Tātad varbūtība, ka abas izvilktās lodītes ir baltas, ir $P(A)=\frac{66 \cdot 65}{(66+m)(65+m)}$. Līdzīgi iegūstam, ka varbūtība, ka abas izvilktās lodītes ir melnas, ir $P(B)=\frac{m(m-1)}{(66+m)(65+m)}$. Līdz ar to varbūtība, ka abas izvilktās lodītes ir vienādā krāsā, ir $\frac{m(m-1)}{(66+m)(65+m)}+\frac{66 \cdot 65}{(66+m)(65+m)}$.
+$Piezīme.$ Varbūtību, ka abas izņemtās lodītes ir vienā krāsā, var arī 
+aprēķināt, izmantojot notikumu summas varbūtību, tas ir, ja notikumi $A$ un 
+$B$ ir nesavienojami, tad $P(A \cup B)=P(A)+P(B)$, kur $A$ - abas izņemtās 
+lodītes ir baltas un $B$ - abas izņemtās lodītes ir melnas. Aprēķinām varbūtību
+$P(A)$. Ar $m$ apzīmējam melno lodīšu skaitu. Varbūtība, ka pirmā izvilktā 
+lodīte ir balta, ir $\frac{66}{66+m}$ un varbūtība, ka otrā izvilktā lodīte arī
+ir balta (ja pirmā bija balta), ir $\frac{66-1}{66+m-1}$. Tātad varbūtība, ka 
+abas izvilktās lodītes ir baltas, ir $P(A)=\frac{66 \cdot 65}{(66+m)(65+m)}$. 
+Līdzīgi iegūstam, ka varbūtība, ka abas izvilktās lodītes ir melnas, ir 
+$P(B)=\frac{m(m-1)}{(66+m)(65+m)}$. Līdz ar to varbūtība, ka abas izvilktās 
+lodītes ir vienādā krāsā, ir 
+$\frac{m(m-1)}{(66+m)(65+m)}+\frac{66 \cdot 65}{(66+m)(65+m)}$.
 
 
 
 # <lo-sample/> LV.NOL.2019.12.2.
 
-12.2. Brigita ir iedomājusies naturālu skaitli, kas nepārsniedz 60. Indra drīkst Brigitai uzdot jautājumus, uz kuriem atbilde ir "jā" vai "nē". Kā, uzdodot sešus jautājumus, Indra noteikti var uzzināt Brigitas iedomāto skaitli?
+Brigita ir iedomājusies naturālu skaitli, kas nepārsniedz $60$. Indra drīkst 
+Brigitai uzdot jautājumus, uz kuriem atbilde ir "jā" vai "nē". Kā, uzdodot 
+sešus jautājumus, Indra noteikti var uzzināt Brigitas iedomāto skaitli?
 
 <small>
 
@@ -1316,43 +1492,58 @@ Piezīme. Varbūtību, ka abas izņemtās lodītes ir vienā krāsā, var arī a
 
 ## Atrisinājums
 
-1. atrisinājums. Indra domās sadala skait|us divos vienāda apjoma intervālos: [1; 30] un [31; 60]. Pirmais jautājums: "Vai iedomātais skaitlis pieder intervālam $[1 ; 30]$ ?"
+Indra domās sadala skaitļus divos vienāda apjoma intervālos: $[1; 30]$ un 
+$[31; 60]$. Pirmais jautājums: "Vai iedomātais skaitlis pieder intervālam 
+$[1; 30]$ ?"
 
-○ Ja atbilde uz pirmo jautājumu ir "jā", tad nākamais jautājums jāuzdod par divreiz mazāku intervālu nekā tas, par kuru jau zināms, ka tajā atrodas iedomātais skaitlis, tas ir, "Vai iedomātais skaitlis pieder intervālam $[1 ; 15]$ ?"
+- Ja atbilde uz pirmo jautājumu ir "jā", tad nākamais jautājums jāuzdod par 
+  divreiz mazāku intervālu nekā tas, par kuru jau zināms, ka tajā atrodas 
+  iedomātais skaitlis, tas ir, "Vai iedomātais skaitlis pieder intervālam 
+  $[1; 15]$?"
 
-- Ja atbilde uz pirmo jautājumu ir "nē", tad iedomātais skaitlis atrodas intervālā [31; 60] un nākamais jautājums būtu jāuzdod par divreiz mazāku intervālu [31; 45].
+- Ja atbilde uz pirmo jautājumu ir "nē", tad iedomātais skaitlis atrodas 
+  intervālā $[31; 60]$ un nākamais jautājums būtu jāuzdod par divreiz mazāku 
+  intervālu $[31; 45]$.
 
-Līdzīgi Indrai jārīkojas arī turpmākajos jautājumos, tas ir, atkarībā no atbildes vienmēr jāaplūko tas intervāls, kas satur iedomāto skaitli, un šis intervāls jāsadala divos pēc apjoma vienādos intervālos (katrā no abiem intervāliem ir vai nu $n$ skaitli, vai arī vienā ir $n$, bet otrā $n+1$ skaitlis). (Skat., piemēram, 34.att., kurā parādīts, kāda apjoma intervālos notiek dalīšana.)
+Līdzīgi Indrai jārīkojas arī turpmākajos jautājumos, tas ir, atkarībā no 
+atbildes vienmēr jāaplūko tas intervāls, kas satur iedomāto skaitli, un šis 
+intervāls jāsadala divos pēc apjoma vienādos intervālos (katrā no abiem 
+intervāliem ir vai nu $n$ skaitli, vai arī vienā ir $n$, bet otrā $n+1$ 
+skaitlis). (Skat., piemēram, 34.att., kurā parādīts, kāda apjoma intervālos 
+notiek dalīšana.)
 
-Šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas iedomāto skaitli.
+Šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas 
+iedomāto skaitli.
 
-Piezīme. Atrisinājums balstīts uz "skaldi un valdi" algoritmu.
+$Piezīme.$ Atrisinājums balstīts uz "skaldi un valdi" algoritmu.
 
 ## Atrisinājums
 
-2. atrisinājums. Tā kā Brigitas iedomātais skaitlis nepārsniedz 60, tad to binārajā skaitīšanas sistēmā var uzrakstīt izmantojot ne vairāk kā 6 ciparus. Indrai jāuzdod jautājums par katru skaitļa ciparu:
-3. jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir 1?
-4. jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir 1?
+Tā kā Brigitas iedomātais skaitlis nepārsniedz $60$, tad to binārajā 
+skaitīšanas sistēmā var uzrakstīt izmantojot ne vairāk kā $6$ ciparus. Indrai 
+jāuzdod jautājums par katru skaitļa ciparu:
 
-...
+1. jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir $1$?
+2. jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
 
-6. jautājums - Vai skait|̣a sestais cipars binārajā skaitīšanas sistēmā ir 1?
+$\ldots $
 
-Tā kā skaitļa binārajā pierakstā tiek izmantoti tikai cipari 0 un 1, tad šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas iedomāto skaitli.
+6. jautājums - Vai skaitļa sestais cipars binārajā skaitīšanas sistēmā ir $1$?
 
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-16.jpg?height=440&width=745&top_left_y=1339&top_left_x=216)
+Tā kā skaitļa binārajā pierakstā tiek izmantoti tikai cipari $0$ un $1$, tad 
+šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas 
+iedomāto skaitli.
 
-34.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-16.jpg?height=489&width=528&top_left_y=1309&top_left_x=1255)
-
-35.att.
+![](LV.NOL.2019.12.2A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.12.3.
 
-12.3. Trijstūrī $A B C$ ievilktās riņka līnijas centrs ir $O$. Nogriežnii $O A, O B, O C$ krusto šo rinka līniju attiecīgi punktos $D, E$, $F$. Zināms, ka $\frac{A B}{D E}=\frac{B C}{E F}=\frac{A C}{D F}$. Pierādīt, ka trijstūris $A B C$ ir regulārs!
+Trijstūrī $ABC$ ievilktās riņķa līnijas centrs ir $O$. Nogriežņi $OA, OB, OC$ 
+krusto šo riņķa līniju attiecīgi punktos $D, E, F$. Zināms, ka 
+$\frac{AB}{DE}=\frac{BC}{EF}=\frac{AC}{DF}$. Pierādīt, ka trijstūris $ABC$ ir 
+regulārs!
 
 <small>
 
@@ -1363,19 +1554,42 @@ Tā kā skaitļa binārajā pierakstā tiek izmantoti tikai cipari 0 un 1, tad �
 
 ## Atrisinājums
 
-1. atrisinājums. Punkts $O$ ir trijstūra $A B C$ bisektrišu krustpunkts (skat. 35.att.). Apzīmējam $\sphericalangle B A C=2 \alpha$, $\sphericalangle A B C=2 \beta$ un $\sphericalangle A C B=2 \gamma$. Tad $\sphericalangle D O F=180^{\circ}-\alpha-\gamma$ un $\sphericalangle O D F=\sphericalangle D F O=\frac{1}{2}(\alpha+\gamma)$, jo $\triangle O D F$ ir vienādsānu. Līdzīgi iegūstam, ka $\sphericalangle E D O=\sphericalangle D E O=\frac{1}{2}(\alpha+\beta)$ un $\sphericalangle O E F=\sphericalangle O F E=\frac{1}{2}(\beta+\gamma)$.
+Punkts $O$ ir trijstūra $ABC$ bisektrišu krustpunkts (skat. 35.att.). Apzīmējam
+$\sphericalangle BAC=2 \alpha$, $\sphericalangle ABC=2 \beta$ un 
+$\sphericalangle ACB=2 \gamma$. Tad 
+$\sphericalangle DOF=180^{\circ}-\alpha-\gamma$ un 
+$\sphericalangle ODF=\sphericalangle DFO=\frac{1}{2}(\alpha+\gamma)$, jo 
+$\triangle ODF$ ir vienādsānu. Līdzīgi iegūstam, ka 
+$\sphericalangle EDO=\sphericalangle DEO=\frac{1}{2}(\alpha+\beta)$ un 
+$\sphericalangle OEF=\sphericalangle OFE=\frac{1}{2}(\beta+\gamma)$.
 
-Tātad $\triangle D E F$ iekšējo lenku lielumi ir $\sphericalangle E D F=\alpha+\frac{1}{2}(\beta+\gamma), \sphericalangle D E F=\beta+\frac{1}{2}(\alpha+\gamma), \sphericalangle E F D=\gamma+\frac{1}{2}(\alpha+\beta)$. Izmantojot, ka $\alpha+\beta+\gamma=90^{\circ}$, iegūstam $\sphericalangle E D F=\frac{\alpha}{2}+45^{\circ}, \sphericalangle D E F=\frac{\beta}{2}+45^{\circ}$ un $\sphericalangle E F D=\frac{\gamma}{2}+45^{\circ}$. Tā kā $\frac{A B}{D E}=\frac{B C}{E F}=\frac{A C}{D F}$, tad $\triangle A B C \sim \triangle D E F$ pēc pazīmes mmm un atbilstošie trijstūru lenkki ir vienādi, tas ir, $2 \alpha=\frac{\alpha}{2}+45^{\circ}, 2 \beta=\frac{\beta}{2}+45^{\circ}$ un $2 \gamma=\frac{\gamma}{2}+45^{\circ}$. Tātad $\alpha=\beta=\gamma=30^{\circ}$ jeb $2 \alpha=2 \beta=2 \gamma=60^{\circ}$ un $\triangle A B C$ ir regulārs.
+Tātad $\triangle DEF$ iekšējo leņķu lielumi ir 
+$\sphericalangle EDF=\alpha+\frac{1}{2}(\beta+\gamma), \sphericalangle DEF=\beta+\frac{1}{2}(\alpha+\gamma), \sphericalangle E F D=\gamma+\frac{1}{2}(\alpha+\beta)$.
+Izmantojot, ka $\alpha+\beta+\gamma=90^{\circ}$, iegūstam 
+$\sphericalangle EDF=\frac{\alpha}{2}+45^{\circ}, \sphericalangle DEF=\frac{\beta}{2}+45^{\circ}$
+un $\sphericalangle EFD=\frac{\gamma}{2}+45^{\circ}$. Tā kā 
+$\frac{AB}{DE}=\frac{BC}{EF}=\frac{AC}{DF}$, tad 
+$\triangle ABC \sim \triangle DEF$ pēc pazīmes $mmm$ un atbilstošie trijstūru 
+leņķi ir vienādi, tas ir, 
+$2 \alpha=\frac{\alpha}{2}+45^{\circ}, 2 \beta=\frac{\beta}{2}+45^{\circ}$ un 
+$2 \gamma=\frac{\gamma}{2}+45^{\circ}$. Tātad $\alpha=\beta=\gamma=30^{\circ}$ 
+jeb $2 \alpha=2 \beta=2 \gamma=60^{\circ}$ un $\triangle ABC$ ir regulārs.
 
 ## Atrisinājums
 
-2. atrisinājums. Punkts $O$ ir trijstūrim $D E F$ apvilktās riņka līnijas centrs - vidusperpendikulu krustpunkts. Tā kā $\frac{A B}{D E}=\frac{B C}{E F}=\frac{A C}{D F}$, tad trijstūri $A B C$ un $D E F$ ir homotētiski ar homotētijas centru $O$. Tātad trijstūrī $D E F$ ievilktās riņka līnijas centrs arī ir $O$. Tā kā trijstūra $D E F$ bisektrišu krustpunkts sakrīt ar vidusperpendikulu krustpunktu, tad tas ir regulārs trijstūris. Līdz ar to arī trijstūris $A B C$ ir regulārs.
+Punkts $O$ ir trijstūrim $DEF$ apvilktās riņķa līnijas centrs - 
+vidusperpendikulu krustpunkts. Tā kā $\frac{AB}{DE}=\frac{BC}{EF}=\frac{AC}{DF}$,
+tad trijstūri $ABC$ un $DEF$ ir homotētiski ar homotētijas centru $O$. Tātad 
+trijstūrī $DEF$ ievilktās riņķa līnijas centrs arī ir $O$. Tā kā trijstūra 
+$DEF$ bisektrišu krustpunkts sakrīt ar vidusperpendikulu krustpunktu, tad tas 
+ir regulārs trijstūris. Līdz ar to arī trijstūris $ABC$ ir regulārs.
 
 
 
 # <lo-sample/> LV.NOL.2019.12.4.
 
-12.4. Pierādīt, ka pozitīviem skaitlliem $a, b, c$ izpildās nevienādība $\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
+Pierādīt, ka pozitīviem skaitļiem $a,\ b,\ c$ izpildās nevienādība 
+$\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
 
 <small>
 
@@ -1386,34 +1600,47 @@ Tātad $\triangle D E F$ iekšējo lenku lielumi ir $\sphericalangle E D F=\alph
 
 ## Atrisinājums
 
-1. atrisinājums. Ja $b=c$, tad dotā nevienādība ir patiesa.
+Ja $b=c$, tad dotā nevienādība ir patiesa.
 
-Ja $b>c$, tad jāpierāda, ka $\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}} \leq b-c$. Reizinot abas nevienādības puses ar saistīto izteiksmi $\left(\sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}\right)$, iegūstam $b^{2}-c^{2} \leq(b-c)\left(\sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}\right)$.
+Ja $b>c$, tad jāpierāda, ka $\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}} \leq b-c$. 
+Reizinot abas nevienādības puses ar saistīto izteiksmi 
+$\left(\sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}\right)$, iegūstam 
+$b^{2}-c^{2} \leq(b-c)\left(\sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}\right)$.
 
-Tālāk, dalot abas nevienādības puses ar $(b-c)$, kas ir pozitīvs skaitlis, iegūstam
+Tālāk, dalot abas nevienādības puses ar $(b-c)$, kas ir pozitīvs skaitlis, 
+iegūstam
 
 $b+c \leq \sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}$,
 
-kas ir patiesa nevienādība, jo $b \leq \sqrt{a^{2}+b^{2}}$ un $c \leq \sqrt{a^{2}+c^{2}}$.
+kas ir patiesa nevienādība, jo $b \leq \sqrt{a^{2}+b^{2}}$ un 
+$c \leq \sqrt{a^{2}+c^{2}}$.
 
-Ja $b<c$, tad jāpierāda, ka $\sqrt{a^{2}+c^{2}}-\sqrt{a^{2}+b^{2}} \leq c-b$, ko var izdarīt analogi kā iepriekšējā gadījumā.
+Ja $b<c$, tad jāpierāda, ka $\sqrt{a^{2}+c^{2}}-\sqrt{a^{2}+b^{2}} \leq c-b$, 
+ko var izdarīt analogi kā iepriekšējā gadījumā.
 
 ## Atrisinājums
 
-2. atrisinājums. Ja $b=c$, tad dotā nevienādība ir patiesa.
+Ja $b=c$, tad dotā nevienādība ir patiesa.
 
-Apskatām gadījumu, kad $b \neq c$. Novelkam nogriezni $A D$, kura garums ir $a$. Tam perpendikulāri no punkta $D$ uz vienu pusi atliekam nogriežņus $B D$ un $C D$, kuru garumi attiecīgi ir $b$ un $c$ (iespējami divi gadījumi, skat. 36.att.). No Pitagora teorēmas trijstūros $A D B$ un $A D C$ iegūstam, ka $A C=\sqrt{a^{2}+c^{2}}$ un $A B=\sqrt{a^{2}+b^{2}}$. levērojam, ka $B C=|B D-C D|=|b-c|$. No trijstūra nevienādības trijstūrī $A B C$ iegūstam $B C>|A B-A C|$ jeb $|b-c|>\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right|$.
+Apskatām gadījumu, kad $b \neq c$. Novelkam nogriezni $AD$, kura garums ir $a$.
+Tam perpendikulāri no punkta $D$ uz vienu pusi atliekam nogriežņus $BD$ un 
+$CD$, kuru garumi attiecīgi ir $b$ un $c$ (iespējami divi gadījumi, skat. 
+36.att.). No Pitagora teorēmas trijstūros $ADB$ un $ADC$ iegūstam, ka 
+$AC=\sqrt{a^{2}+c^{2}}$ un $AB=\sqrt{a^{2}+b^{2}}$. levērojam, ka 
+$BC=|BD-CD|=|b-c|$. No trijstūra nevienādības trijstūrī $ABC$ iegūstam 
+$BC>|AB-AC|$ jeb $|b-c|>\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right|$.
 
-Līdz ar to esam pierādījuši, ka $\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
-![](https://cdn.mathpix.com/cropped/2024_07_19_38d21b2aaf3011af38b9g-17.jpg?height=410&width=900&top_left_y=955&top_left_x=582)
+Līdz ar to esam pierādījuši, ka 
+$\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
 
-36.att.
+![](LV.NOL.2019.12.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2019.12.5.
 
-12.5. Pierādīt, ka vienādojumam $(a-b)^{2}=a+b$ ir bezgalīgi daudz atrisinājumu naturālos skaitlos!
+Pierādīt, ka vienādojumam $(a-b)^{2}=a+b$ ir bezgalīgi daudz atrisinājumu 
+naturālos skaitļos!
 
 <small>
 
@@ -1424,21 +1651,27 @@ Līdz ar to esam pierādījuši, ka $\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}
 
 ## Atrisinājums
 
-Atrisinājums. Pamatosim, ka der vērtības formā $a=\frac{k(k+1)}{2}$ un $b=\frac{k(k-1)}{2}$, kur $k$ ir naturāls skaitlis, kas lielāks nekā 1:
+Pamatosim, ka der vērtības formā $a=\frac{k(k+1)}{2}$ un $b=\frac{k(k-1)}{2}$, 
+kur $k$ ir naturāls skaitlis, kas lielāks nekā $1$:
 
-- $\quad a$ un $b$ ir naturāli skaitli, jo $k(k+1)$ un $k(k-1)$ dalās ar 2 kā divu pēc kārtas esošu naturālu skaitļu reizinājums;
+- $\quad a$ un $b$ ir naturāli skaitļi, jo $k(k+1)$ un $k(k-1)$ dalās ar $2$ kā
+  divu pēc kārtas esošu naturālu skaitļu reizinājums;
 - ievietojot šīs vērtības dotajā vienādojumā, iegūstam patiesu vienādību:
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 \left(\frac{k(k+1)}{2}-\frac{k(k-1)}{2}\right)^{2} & =\frac{k(k+1)}{2}+\frac{k(k-1)}{2} \\
-\left(\frac{2 k}{2}\right)^{2}=\frac{2 k^{2}}{2} & \Rightarrow \quad k^{2}=k^{2}
-\end{aligned}
-$$
+\left(\frac{2k}{2}\right)^{2}=\frac{2k^{2}}{2} & \Rightarrow \quad k^{2}=k^{2}
+\end{aligned}$$
 
-Tā kā šādu $k$ vērtību ir bezgalīgi daudz, tad arī dotajam vienādojumam ir bezgalīgi daudz atrisinājumu:
+Tā kā šādu $k$ vērtību ir bezgalīgi daudz, tad arī dotajam vienādojumam ir 
+bezgalīgi daudz atrisinājumu:
 
-Piezīme. Meklētās $a$ un $b$ vērtības var palīdzēt atrast tālāk aprakstītie spriedumi.
+$Piezīme.$ Meklētās $a$ un $b$ vērtības var palīdzēt atrast tālāk aprakstītie 
+spriedumi.
 
-1. veids. Apzīmējam $a-b=k$, tad $k^{2}=a+b$. Saskaitot abas vienādības, iegūstam $2 a=k+k^{2}$ jeb $a=\frac{k(k+1)}{2}$. Aprēkinām $b=a-k=\frac{k^{2}+k}{2}-k=\frac{k^{2}-k}{2}=\frac{k(k-1)}{2}$
-2. veids. Apzīmējam $a-b=k$, tad $a+b=k+2 b$, tātad doto vienādojumu var pārrakstīt formā $k^{2}=k+2 b$, no kā iegūstam, ka $b=\frac{k^{2}-k}{2}=\frac{k(k-1)}{2}$ un $a=k+b$.
+$1.\ veids.$ Apzīmējam $a-b=k$, tad $k^{2}=a+b$. Saskaitot abas vienādības, 
+iegūstam $2a=k+k^{2}$ jeb $a=\frac{k(k+1)}{2}$. Aprēķinām 
+$b=a-k=\frac{k^{2}+k}{2}-k=\frac{k^{2}-k}{2}=\frac{k(k-1)}{2}$  
+$2.\ veids.$ Apzīmējam $a-b=k$, tad $a+b=k+2b$, tātad doto vienādojumu var 
+pārrakstīt formā $k^{2}=k+2b$, no kā iegūstam, ka 
+$b=\frac{k^{2}-k}{2}=\frac{k(k-1)}{2}$ un $a=k+b$.

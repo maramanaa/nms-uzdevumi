@@ -392,8 +392,8 @@ katrām divām pilsētām ir augstākais viens reiss. Katrs reiss savieno tikai 
 pilsētas, pa ceļam nenolaižoties citās. Katrs reiss „darbojas" abos virzienos. 
 Reisus organizē $90$ aviokompānijas, katra aviokompānija organizē tieši $30$ 
 reisus. Ja kompānija organizē reisu starp kādām divām pilsētām (apzīmēsim tās 
-ar A un B), tad tai ir biroji gan pilsētā A, gan pilsētā B. Pierādīt, ka ir 
-tāda pilsēta, kurā ir vismaz $9$ biroji!
+ar $A$ un $B$), tad tai ir biroji gan pilsētā $A$, gan pilsētā $B$. Pierādīt, 
+ka ir tāda pilsēta, kurā ir vismaz $9$ biroji!
 
 <small>
 
