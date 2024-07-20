@@ -412,7 +412,7 @@ $9 \cdot 90=810$. Ja katrā no $100$ pilsētām būtu ne vairāk kā $8$ biroji,
 kopā būtu ne vairāk kā $8 \cdot 100=800$ biroji, bet biroju kopskaits ir vismaz
 $810$. Tātad ir tāda pilsēta, kurā ir vismaz $9$ biroji.
 
-$Piezīme.$ Risinājumā izmantots Dirihlē princips.
+$Piezīme.$ Risinājumā izmantots Dirihlē princips. 
 
 
 

@@ -582,7 +582,7 @@ Agita ir iedomājusies naturālu skaitli $x$, kura ciparu summa ir $2021$, un
 Konstantīns cenšas skaitli uzminēt. Vienā gājienā Konstantīns nosauc patvaļīgu 
 naturālu skaitli $a$, un Agita viņam pasaka skaitļa $|x-a|$ ciparu summu. Kāds 
 ir mazākais gājienu skaits, ar kuru Konstantīnam noteikti pietiek, lai uzzinātu
-Agitas iedomāto skaitli?
+Agitas iedomāto skaitli? 
 
 <small>
 
