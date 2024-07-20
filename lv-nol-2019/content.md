@@ -17,7 +17,7 @@ esošās degvielas. Cik litru degvielas tagad ir katrā tvertnē?
 
 Vispirms no pirmās degvielas tvertnes izlēja $\frac{1}{5} \cdot 250=50$ litrus 
 degvielas un tvertnē palika $250-50=200$ litri degvielas. Pēc tam pielēja 
-$\frac{1}{5} \cdot 200=40$ litrus degvielas. Tātad pirmajā tvertnē tagad ir 
+\frac{1}{5} \cdot 200=40 litrus degvielas. Tātad pirmajā tvertnē tagad ir 
 $200+40=240$ litri degvielas.
 
 Vispirms otrajā degvielas tvertnē ielēja $\frac{1}{5} \cdot 250=50$ litrus 
@@ -1390,7 +1390,7 @@ Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+19n=2019$.
 Pārveidojam doto vienādojumu
 
 $$\begin{aligned}
-2000-20 m & =19 n-19 \\
+2000-20m & =19n-19 \\
 20(100-m) & =19(n-1)
 \end{aligned}$$
 
@@ -1458,8 +1458,8 @@ $$\frac{m(m-1)+66 \cdot 65}{(66+m)(65+m)}=\frac{1}{2}$$
 Reizinām abas vienādojuma puses ar $2(66+m)(65+m)>0$, iegūstam
 
 $$\begin{gathered}
-2m^{2}-2 m+2 \cdot 66 \cdot 65=66 \cdot 65+131 m+m^{2} \\
-m^{2}-133 m+66 \cdot 65=0
+2m^{2}-2m+2 \cdot 66 \cdot 65=66 \cdot 65+131m+m^{2} \\
+m^{2}-133m+66 \cdot 65=0
 \end{gathered}$$
 
 Šī vienādojuma saknes ir $m_{1}=78$ un $m_{2}=55$. Tātad urnā atrodas $78$ vai 
@@ -1526,12 +1526,12 @@ Tā kā Brigitas iedomātais skaitlis nepārsniedz $60$, tad to binārajā
 skaitīšanas sistēmā var uzrakstīt izmantojot ne vairāk kā $6$ ciparus. Indrai 
 jāuzdod jautājums par katru skaitļa ciparu:
 
-1. jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir $1$?
-2. jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
+$1.$ jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir $1$?
+$2.$ jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
 
    $\ldots $
 
-6. jautājums - Vai skaitļa sestais cipars binārajā skaitīšanas sistēmā ir $1$?
+$6.$ jautājums - Vai skaitļa sestais cipars binārajā skaitīšanas sistēmā ir $1$?
 
 Tā kā skaitļa binārajā pierakstā tiek izmantoti tikai cipari $0$ un $1$, tad 
 šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas 
