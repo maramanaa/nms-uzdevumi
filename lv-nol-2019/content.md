@@ -80,7 +80,7 @@ atrodam smagāko monētu katrā pārī. Veicot vēl vienu svēršanu ($4.$ kārt
 atraduši vissmagāko monētu no visām.
 
 Vieglākā monēta jāmeklē no tām septiņām monētām, kas "zaudēja" (t.i., bija 
-vieglākas) pirmajā kārtā, un vēl tās monētas, kas pirmajā kārtā netika svērta. 
+vieglākas) pirmajā kārtā, un vēl tās monētas, kas pirmajā kārtā netika svērtas.
 Lai no $8$ monētām atrastu vieglāko, nepieciešamas $7$ svēršanas, piemēram, 
 svaros katrā svēršanā jāatstāj vieglākā monēta, bet smagākā jānoliek prom.
 
@@ -148,7 +148,7 @@ Tātad Valentīnam pirms pirmā veikala apmeklējuma bija $27$ uzlīmes.
 # <lo-sample/> LV.NOL.2019.5.5.
 
 Vai vārdā $NEAPJAUŠAMAIS$ var aizvietot burtus ar cipariem tā, ka dažādus 
-burtus aizstāj dažādi cipari (burti $S$ un Š ir aizstāti ar atšķirīgiem 
+burtus aizstāj dažādi cipari (burti $S$ un $Š$ ir aizstāti ar atšķirīgiem 
 cipariem), bet vienādus - vienādi, turklāt izveidotais skaitlis ir pirmskaitlis?
 
 <small>
@@ -213,12 +213,12 @@ Kā ar $3$ svēršanām uz sviras svariem bez atsvariem atrast viltoto monētu?
 
 Katrā svaru kausā ieliekam $5$ monētas, vienu monētu atstājot malā.
 
-(A) Ja svaru kausi ir līdzsvarā, tad viltotā monēta ($11 g$) ir tā, kas nebija 
-    uz svariem (skat. 6.att. (A)).
+**(A)** Ja svaru kausi ir līdzsvarā, tad viltotā monēta ($11 g$) ir tā, kas nebija 
+uz svariem (skat. 6.att. (A)).
 
-(B) Ja svaru kausi nav līdzsvarā, tad viltotā monēta atrodas uz "vieglākā" 
-    svaru kausa (skat. 6.att. (B)). Otrajā svēršanā katrā svaru kausā ieliekam 
-	$2$ monētas no "vieglākā" kausa, vienu monētu atstājot malā.
+**(B)** Ja svaru kausi nav līdzsvarā, tad viltotā monēta atrodas uz "vieglākā" 
+svaru kausa (skat. 6.att. (B)). Otrajā svēršanā katrā svaru kausā ieliekam $2$ 
+monētas no "vieglākā" kausa, vienu monētu atstājot malā.
 
 - Ja svaru kausi ir līdzsvarā, tad viltotā monēta ir tā, kas šajā svēršanā bija
   atlikta malā.
@@ -232,20 +232,20 @@ Katrā svaru kausā ieliekam $5$ monētas, vienu monētu atstājot malā.
 
 Katrā svaru kausā ieliekam $4$ monētas, $3$ monētas atstājot malā.
 
-(A) Ja svaru kausi ir līdzsvarā, tad viltotā monēta ir kaudzītē, kas nebija uz 
-    svariem (skat. 7.att. (A)). Otrajā svēršanā katrā svaru kausā liekam pa 
-	vienai monētai no šīs kaudzītes, vienu monētu atstājot malā.
+**(A)** Ja svaru kausi ir līdzsvarā, tad viltotā monēta ir kaudzītē, kas nebija
+uz svariem (skat. 7.att. (A)). Otrajā svēršanā katrā svaru kausā liekam pa 
+vienai monētai no šīs kaudzītes, vienu monētu atstājot malā.
 
 - Ja svaru kausi ir līdzsvarā, tad viltotā monēta ir tā, kas šajā svēršanā bija
   atlikta malā.
 - Ja svaru kausi nav līdzsvarā, tad viltotā monēta ir tā, kas atrodas 
   "vieglākajā" svaru kausā.
 
-(B) Ja svaru kausi nav līdzsvarā, tad viltotā monēta atrodas uz "vieglākā" 
-    svaru kausa (skat. 7.att. (B)). Otrajā svēršanā katrā svaru kausā ieliekam 
-	$2$ monētas no "vieglākā" kausa. Svari noteikti nosvērsies. Izvēlamies tās 
-	divas monētas, kas atrodas "vieglākajā" kausā un trešajā svēršanā tās 
-	salīdzinām savā starpā. Viltotā monēta atradīsies "vieglākajā" kausā.
+**(B)** Ja svaru kausi nav līdzsvarā, tad viltotā monēta atrodas uz "vieglākā" 
+svaru kausa (skat. 7.att. (B)). Otrajā svēršanā katrā svaru kausā ieliekam $2$ 
+monētas no "vieglākā" kausa. Svari noteikti nosvērsies. Izvēlamies tās divas 
+monētas, kas atrodas "vieglākajā" kausā un trešajā svēršanā tās salīdzinām 
+savā starpā. Viltotā monēta atradīsies "vieglākajā" kausā.
 
 ![](LV.NOL.2019.6.2B.png)
 
@@ -353,7 +353,7 @@ atbilst vienādi cipari.
 
 # <lo-sample/> LV.NOL.2019.7.1.
 
-Doti trīs vienādojumi $ax+b=0, bx+c=0$ un $cx+a=0$. Neviens no koeficientiem 
+Doti trīs vienādojumi $ax+b=0,\ bx+c=0$ un $cx+a=0$. Neviens no koeficientiem 
 $a, b, c$ nav $0$.
 
 **a)** Vai var gadīties, ka tieši diviem no šiem vienādojumiem saknes ir 
@@ -370,12 +370,12 @@ $a, b, c$ nav $0$.
 
 ## Atrisinājums
 
-**a)** Jā, var. Piemēram, ja $a=4, b=8, c=2$, tad vienādojumi ir 
-$4x+8=0, 8x+2=0$ un $2x+4=0$ un to saknes attiecīgi ir $x=-2, x=-0,25$ un 
+**a)** Jā, var. Piemēram, ja $a=4,\ b=8,\ c=2$, tad vienādojumi ir 
+$4x+8=0,\ 8x+2=0$ un $2x+4=0$ un to saknes attiecīgi ir $x=-2,\ x=-0,25$ un 
 $x=-2$.
 
 **b)** Jā, noteikti. Doto vienādojumu saknes ir 
-$x=-\frac{b}{a^{\prime}} x=-\frac{c}{b}$ un $x=-\frac{a}{c}$. Sakņu reizinājums
+$x=-\frac{b}{a},\ x=-\frac{c}{b}$ un $x=-\frac{a}{c}$. Sakņu reizinājums
 ir $-\frac{b}{a} \cdot\left(-\frac{c}{b}\right) \cdot\left(-\frac{a}{c}\right)=-1$,
 tātad vismaz viena sakne ir negatīva.
 
@@ -400,7 +400,7 @@ vai smagāka nekā pārējās? (Pašu monētu atrast nav nepieciešams.)
 Uzliekam uz katra svaru kausa $4$ monētas, malā atstājot $6$ monētas.
 
 **(A)** Ja kausi ir līdzsvarā, tad atšķirīgā monēta palikusi malā (skat. 
-13.att. **(A)**). Otrajā svēršanā salīdzinām malā palikušās $6$ monētas ar 
+13.att. (A)). Otrajā svēršanā salīdzinām malā palikušās $6$ monētas ar 
 jebkurām $6$ jau svērtajām (parastajām) monētām.
 
 - Ja svaru kauss ar $6$ parastajām monētām nosveras uz leju, tad atšķirīgā 
@@ -409,7 +409,7 @@ jebkurām $6$ jau svērtajām (parastajām) monētām.
   monēta ir smagāka nekā pārējās.
 
 **(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
-atradusies uz svariem (skat. 13.att. **(B)**). Otrajā svēršanā salīdzinām 
+atradusies uz svariem (skat. 13.att. (B)). Otrajā svēršanā salīdzinām 
 vieglākā kausa $4$ monētas ar jebkurām $4$ malā palikušajām (parastajām) 
 monētām.
 
@@ -425,7 +425,7 @@ monētām.
 Uzliekam uz katra svaru kausa $5$ monētas, malā atstājot $4$ monētas.
 
 **(A)** Ja kausi ir līdzsvarā, tad atšķirīgā monēta palikusi malā (skat. 
-14.att. **(A)**). Otrajā svēršanā salīdzinām malā palikušās $4$ monētas ar 
+14.att. (A)). Otrajā svēršanā salīdzinām malā palikušās $4$ monētas ar 
 jebkurām $4$ jau svērtajām (parastajām) monētām.
 
 - Ja svaru kauss ar $4$ parastajām monētām nosveras uz leju, tad atšķirīgā 
@@ -434,7 +434,7 @@ jebkurām $4$ jau svērtajām (parastajām) monētām.
   monēta ir smagāka nekā pārējās.
 
 **(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
-atradusies uz svariem (skat. 14.att. **(B)**). Izvēlamies vieglākā kausa 
+atradusies uz svariem (skat. 14.att. (B)). Izvēlamies vieglākā kausa 
 monētas un tām pievienojam vienu parasto monētu, kas pirmajā svēršanā bija 
 atlikta malā. legūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
 kausā liekam pa $3$ monētām no šīs kaudzītes.
@@ -499,13 +499,12 @@ atrast tādus veselus skaitļus $a$ un $b$, lai dotā vienādība būtu patiesa.
 
 # <lo-sample/> LV.NOL.2019.7.5.
 
-Uz tāfeles uzrakstītas deviņas zvaigznītes $*********$.
-
-Mārtiņš ieraksta kādas zvaigznītes vietā jebkuru ciparu no $1$ līdz $9$. Pēc 
-tam Rihards jebkuru divu citu zvaigznīšu vietā ieraksta divus nenulles ciparus 
-(tie var arī atkārtoties). Pēc tam vēl divas reizes viņi atkārto šo darbību. 
-Rihards uzvar, ja iegūtais deviņciparu skaitlis dalās ar $31$. Vai Rihards 
-vienmēr var uzvarēt?
+Uz tāfeles uzrakstītas deviņas zvaigznītes $*********$. Mārtiņš ieraksta kādas 
+zvaigznītes vietā jebkuru ciparu no $1$ līdz $9$. Pēc tam Rihards jebkuru divu 
+citu zvaigznīšu vietā ieraksta divus nenulles ciparus (tie var arī 
+atkārtoties). Pēc tam vēl divas reizes viņi atkārto šo darbību. Rihards uzvar, 
+ja iegūtais deviņciparu skaitlis dalās ar $31$. Vai Rihards vienmēr var 
+uzvarēt?
 
 <small>
 
@@ -518,8 +517,8 @@ vienmēr var uzvarēt?
 
 Pamatosim, ka Rihards vienmēr var uzvarēt.
 
-Sadalām visus ciparus grupās pa trim cipariem katrā $(* * *)(* * *)(* * *)$. 
-Tad deviņciparu skaitļi varam izteikt kā $A \cdot 10^{6}+B \cdot 10^{3}+C$, kur
+Sadalām visus ciparus grupās pa trim cipariem katrā (* * *)(* * *)(* * *). 
+Tad deviņciparu skaitli varam izteikt kā $A \cdot 10^{6}+B \cdot 10^{3}+C$, kur
 $A, B$ un $C$ ir trīsciparu skaitļi, kas izveidojas attiecīgi pirmajā, otrajā 
 un trešajā grupā. Ja Rihardam izdosies panākt, ka katrā grupā izveidotais 
 trīsciparu skaitlis $A, B$ un $C$ dalās ar $31$, tad arī iegūtais deviņciparu 
@@ -536,7 +535,7 @@ iespējams izdarīt.
 
 $Piezīme.$ Var izvēlēties arī citus trīsciparu skaitļus, kas dalās ar $31$. Ar 
 $31$ dalās šādi trīsciparu skaitļi: 
-$124; 155; $186; 217; 248; 279; 310; 341; 372; 403; 434; 465; 496; 527; 558; 589; 620; 651; 682; 713; 744; 775; 806; 837; 868; 899; 930; 961; 992$.
+$124;\ 155;\ 186;\ 217;\ 248;\ 279;\ 310;\ 341;\ 372;\ 403;\ 434;\ 465;\ 496;\ 527;\ 558;\ 589;\ 620;\ 651;\ 682;\ 713;\ 744;\ 775;\ 806;\ 837;\ 868;\ 899;\ 930;\ 961;\ 992$.
 
 
 
@@ -601,7 +600,9 @@ Līdzīgi rīkojamies un spriežam arī visās nākamajās svēršanās: izvēla
 kaudzīti, kurā atrodas viltotā (vieglākā) monēta un dalām to mazākās kaudzītēs,
 katru reizi salīdzinot kaudzītes, kurās ir vienāds monētu skaits un nosakot, 
 kurā kaudzītē atrodas vieglākā monēta. Dalīšana mazākās kaudzītēs shematiski 
-attēlota 18.att. Piezīme. Lai gadījums ar $8$ monētām nebūtu jāapskata 
+attēlota 18.att. 
+
+$Piezīme.$ Lai gadījums ar $8$ monētām nebūtu jāapskata 
 atsevišķi, varam šai kaudzītei pievienot vienu "parasto" monētu.
 
 ![](LV.NOL.2019.8.2A.png)
@@ -641,12 +642,12 @@ Līdz ar to $EM=BC$ kā atbilstošās malas vienādos trijstūros.
 
 # <lo-sample/> LV.NOL.2019.8.4.
 
-Uz tāfeles uzrakstīti skaitļi $\frac{3}{2}, \frac{4}{5}, \frac{5}{3}$. Ar vienu
+Uz tāfeles uzrakstīti skaitļi $\frac{3}{2},\ \frac{4}{5},\ \frac{5}{3}$. Ar vienu
 gājienu atļauts izvēlēties divus no uzrakstītajiem skaitļiem (apzīmēsim tos ar 
 $a$ un $b$), nodzēst tos un to vietā uzrakstīt uz tāfeles skaitļus 
 $\frac{b^{2}}{a}$ un $\frac{a^{2}}{b}$. Vai, izdarot vairākus šādus gājienus, 
 var panākt, lai uz tāfeles vienlaicīgi būtu uzrakstīti skaitļi 
-$\frac{4}{3}, \frac{4}{5}, \frac{5}{2}$?
+$\frac{4}{3},\ \frac{4}{5},\ \frac{5}{2}$?
 
 <small>
 
@@ -707,7 +708,7 @@ cipari $(2x+y<27)$, iespējami divi gadīumi:
 
 ![](LV.NOL.2019.8.5B.png)
 
-Līdz ar to trīsciparu skaitlis $\overline{yxy}$ var būt $828, 636, 252, 696$.
+Līdz ar to trīsciparu skaitlis $\overline{yxy}$ var būt $828,\ 636,\ 252,\ 696$.
 
 $Piezīme.$ Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot 
 visus divciparu skaitļus $\overline{xy}$, kas dalās ar $4$.
@@ -734,16 +735,17 @@ funkcijā, iegūstam vienādojumu $0=\left(m^{2}-3m\right) \cdot 2+4m-4$ jeb
 $m^{2}-m-2=0$, kura saknes ir $m_{1}=-1$ un $m_{2}=2$. Tātad iespējami divi 
 gadījumi:
 
-- ja $m=-1$, tad dotā funkcija ir $y=4x-8$ un tā ir augoša, jo koeficients pie $x$ ir pozitivss;
+- ja $m=-1$, tad dotā funkcija ir $y=4x-8$ un tā ir augoša, jo koeficients pie 
+  $x$ ir pozitīvs;
 - ja $m=2$, tad dotā funkcija ir $y=-2x+4$ un tā ir dilstoša, jo koeficients 
-  pie $x$ ir negatīvs .
+  pie $x$ ir negatīvs.
 
 
 
 # <lo-sample/> LV.NOL.2019.9.2.
 
 Dotas divas melnas, divas sarkanas un divas zaļas lodītes. Vienas lodītes masa 
-ir $99~\mathrm{g}, bet tādas pašas krāsas otras lodītes masa ir 
+ir $99~\mathrm{g}$, bet tādas pašas krāsas otras lodītes masa ir 
 $101~\mathrm{g}$. Pārējās četras lodītes katra sver $100~\mathrm{g}$. Kā, 
 lietojot sviras svarus bez atsvariem, ar divām svēršanām atrast vieglāko 
 lodīti?
@@ -758,6 +760,7 @@ lodīti?
 ## Atrisinājums
 
 Pirmajā svēršanā salī̀dzinām vienas sarkanās un vienas melnās lodītes masu.
+
 **1)** Ja svari ir līdzsvarā (skat. 20.att.), tad melnās un sarkanās lodītes 
 katra sver $100~\mathrm{g}$, tātad vieglākā lodīte ir zaļā krāsā. Otrajā 
 svēršanā, salīdzinot abas zaļās lodītes, atrodam vieglāko.
@@ -818,7 +821,7 @@ kas sver $101~\mathrm{g}$. Otrajā svēršanā salīdzinām abas melnās lodīte
 
 # <lo-sample/> LV.NOL.2019.9.3.
 
-Uz kvadrāta $ABCD$ malām $AB, BC, CD$ un $DA$ attiecīgi atzīmēti punkti 
+Uz kvadrāta $ABCD$ malām $AB,\ BC,\ CD$ un $DA$ attiecīgi atzīmēti punkti 
 $E,\ F,\ G,\ H$ tā, ka $AE=BF=CG=DH$. Kvadrāta iekšpusē atlikts patvaļīgs 
 punkts $O$. Pierādīt, ka $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
@@ -858,10 +861,10 @@ Līdz ar to esam pierādijuši, ka $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
 ## Atrisinājums
 
-Novelkam nogriežņus $EF, FG, GH$ un $HE$ (skat. 23.att.). Trijstūri 
-$HAE, EBF, FCG$ un $GDH$ ir vienādi pēc pazīmes $m \ell m$ un to laukumi arī ir
-vienādi, tātad pietiek pierādīt, ka $S_{EOF}+S_{GOH}=S_{FOG}+S_{HOE}$. Tā kā 
-trijstūri $HAE, EBF, FCG$ un $GDH$ ir vienādi taisnleņķa trijstūri, tad 
+Novelkam nogriežņus $EF,\ FG,\ GH$ un $HE$ (skat. 23.att.). Trijstūri 
+$HAE,\ EBF,\ FCG$ un $GDH$ ir vienādi pēc pazīmes $m \ell m$ un to laukumi arī 
+ir vienādi, tātad pietiek pierādīt, ka $S_{EOF}+S_{GOH}=S_{FOG}+S_{HOE}$. Tā kā
+trijstūri $HAE,\ EBF,\ FCG$ un $GDH$ ir vienādi taisnleņķa trijstūri, tad 
 $EF=FG=GH=HE=a$ un divu trijstūra šauro leņķu summa ir $90^{\circ}$, tas ir, 
 viens no tiem ir $\alpha$, bet otrs ir $\left(90^{\circ}-\alpha\right)$. Tāpēc
 
@@ -883,7 +886,7 @@ $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 # <lo-sample/> LV.NOL.2019.9.4.
 
 Kvadrāts sastāv no $n \times n$ rūtiņām. Rindas sanumurētas no lejas uz augšu 
-ar skaitliem $1; 2; \ldots$; $n$ tāpat sanumurētas kolonnas no kreisās uz labo 
+ar skaitļiem $1; 2; \ldots$; $n$ tāpat sanumurētas kolonnas no kreisās uz labo 
 pusi. Katrā rūtiņā ierakstīts vai nu $(+1)$, vai $(-1)$. Ja rindas un kolonnas 
 numuri ir vienādi, tad visu šajā rindā ierakstīto skaitļu reizinājums atšķiras 
 no visu šajā kolonnā ierakstīto skaitļu reizinājuma. Vai tas ir iespējams, ja 
@@ -1077,10 +1080,10 @@ Pirmajā svēršanā uz katra svaru kausa uzliekam pa $2$ monētām.
    kausa, un salīdzinām savā starpā (no tām vismaz viena ir monēta, kuras masa 
    ir $51~\mathrm{g}$):
 
-      - ja svari ir līdzsvarā, tad esam atraduši divas monētas, kuru masa ir 
-	    $51~\mathrm{g}$;
-      - ja svari nav līdzsvarā, tad smagākā ($51~\mathrm{g}$) monēta ir tā, kas
-   	    atrodas uz svaru kausa, kas nosveras uz leju.
+   - ja svari ir līdzsvarā, tad esam atraduši divas monētas, kuru masa ir 
+	 $51~\mathrm{g}$;
+   - ja svari nav līdzsvarā, tad smagākā ($51~\mathrm{g}$) monēta ir tā, kas
+   	 atrodas uz svaru kausa, kas nosveras uz leju.
 		
 ![](LV.NOL.2019.10.2C.png)
 
@@ -1109,7 +1112,7 @@ $\omega_{2}$ punktā $B$ un krusto $t_{3}$ punktā $D$. Pierādīt, ka $AC=BD$.
 
 Ar $E, F, G$ un $H$ apzīmējam pārējos pieskaršanās punktus (skat. 29.att.). Tā 
 kā pieskaru, kas vilktas no viena punkta, nogriežņi ir vienādi, tad iegūstam 
-vienādības: $AC=CE, CH=CG, DH=DB, DE=DF$. Tātad
+vienādības: $AC=CE,\ CH=CG,\ DH=DB,\ DE=DF$. Tātad
 
 - $FB=FD+DB=DE+DB=(EH+HD)+DB=EH+2DB$ jeb $BD=\frac{1}{2}(FB-EH)$  
 - $AG=AC+CG=AC+CH=AC+(CE+EH)=2AC+EH$ jeb $AC=\frac{1}{2}(AG-EH)$
@@ -1187,7 +1190,7 @@ Tātad dotajam vienādojumam ir divi atrisinājumi: $m=37, n=71$ un $m=73, n=31$
 
 # <lo-sample/> LV.NOL.2019.11.1.
 
-Vai var gadīties, ka 30.att. ir doti funkciju $y=ax^{2}+bx+c, y=cx^{2}+bx+a$ un
+Vai var gadīties, ka 30.att. ir doti funkciju $y=ax^{2}+bx+c,\ y=cx^{2}+bx+a$ un
 $y=bx+c$ grafiki? (Funkciju grafiki nav zīmēti mērogā.)
 
 ![](LV.NOL.2019.11.1.png)
@@ -1211,7 +1214,7 @@ un krustpunktu ar $y$ asi ordinātas vērtība ir pozitīva, tad $a>0$. Aprēķi
 šīs parabolas virsotnes abscisas vērtību $x_{v}=-\frac{b}{2a}$. Tā kā virsotne 
 atrodas trešajā kvadrantā, tad $x_{v}<0$ un, ņemot vērā, ka $a>0$, secinām, ka 
 $b>0$. Esam ieguvuši pretrunu ar to, ka $b<0$ (lineārā funkcija dilstoša), 
-tātad 30.att. nevar būt doti funkciju $y=ax^{2}+bx+c$, $y=cx^{2}+bx+a$ un 
+tātad 30.att. nevar būt doti funkciju $y=ax^{2}+bx+c$,\ $y=cx^{2}+bx+a$ un 
 $y=bx+c$ grafiki.
 
 
@@ -1355,7 +1358,7 @@ $$\begin{gathered}
 \left(\sqrt{\frac{a}{b}}(a+1)-\sqrt{\frac{b}{a}}(b+1)\right)^{2} \geq 0
 \end{gathered}$$
 
-Reāla skaitļa kvadrāts ir vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa 
+Reāla skaitļa kvadrāts vienmēr ir nenegatīvs. Līdz ar to iegūta patiesa 
 nevienādība un arī dotā nevienādība ir patiesa, jo tika veikti tikai 
 ekvivalenti pārveidojumi.
 
@@ -1394,7 +1397,7 @@ $$\begin{aligned}
 levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
 $(100-m)$ jābūt pozitīvam. Tā kā $20$ un $19$ ir savstarpēji pirmskaitļi, tad 
 $(100-m)$ ir jādalās ar $19$. lespējamās $m$ vērtības varētu būt 
-$5,\ 24,\ 43,\ 62$ un 81, no kurām derīgas ir tikai $5$ un $43$, jo tie ir 
+$5,\ 24,\ 43,\ 62$ un $81$, no kurām derīgas ir tikai $5$ un $43$, jo tie ir 
 pirmskaitļi. Atrodam atbilstošās $n$ vērtības:
 
 - ja $m=5$, tad $20 \cdot 95=19(n-1)$ jeb $n=101$ (pirmskaitlis),
@@ -1417,7 +1420,7 @@ Atrodam atbilstošās $n$ vērtības:
 - ja $m=5$, tad $20 \cdot 95=19(n-1)$ jeb $n=101$ (pirmskaitlis),
 - ja $m=43$, tad $20 \cdot 57=19(n-1)$ jeb $n=61$ (pirmskaitlis).
 
-Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5,\ n=101$ un $m=43, n=61$.
+Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5,\ n=101$ un $m=43,\ n=61$.
 
 
 
@@ -1508,7 +1511,7 @@ $[1; 30]$ ?"
 Līdzīgi Indrai jārīkojas arī turpmākajos jautājumos, tas ir, atkarībā no 
 atbildes vienmēr jāaplūko tas intervāls, kas satur iedomāto skaitli, un šis 
 intervāls jāsadala divos pēc apjoma vienādos intervālos (katrā no abiem 
-intervāliem ir vai nu $n$ skaitli, vai arī vienā ir $n$, bet otrā $n+1$ 
+intervāliem ir vai nu $n$ skaitļi, vai arī vienā ir $n$, bet otrā $n+1$ 
 skaitlis). (Skat., piemēram, 34.att., kurā parādīts, kāda apjoma intervālos 
 notiek dalīšana.)
 
@@ -1526,7 +1529,7 @@ jāuzdod jautājums par katru skaitļa ciparu:
 1. jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir $1$?
 2. jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
 
-$\ldots $
+   $\ldots $
 
 6. jautājums - Vai skaitļa sestais cipars binārajā skaitīšanas sistēmā ir $1$?
 
@@ -1615,7 +1618,7 @@ $b+c \leq \sqrt{a^{2}+b^{2}}+\sqrt{a^{2}+c^{2}}$,
 kas ir patiesa nevienādība, jo $b \leq \sqrt{a^{2}+b^{2}}$ un 
 $c \leq \sqrt{a^{2}+c^{2}}$.
 
-Ja $b<c$, tad jāpierāda, ka $\sqrt{a^{2}+c^{2}}-\sqrt{a^{2}+b^{2}} \leq c-b$, 
+Ja $b < c$, tad jāpierāda, ka $\sqrt{a^{2}+c^{2}}-\sqrt{a^{2}+b^{2}} \leq c-b$, 
 ko var izdarīt analogi kā iepriekšējā gadījumā.
 
 ## Atrisinājums
@@ -1654,7 +1657,7 @@ naturālos skaitļos!
 Pamatosim, ka der vērtības formā $a=\frac{k(k+1)}{2}$ un $b=\frac{k(k-1)}{2}$, 
 kur $k$ ir naturāls skaitlis, kas lielāks nekā $1$:
 
-- $\quad a$ un $b$ ir naturāli skaitļi, jo $k(k+1)$ un $k(k-1)$ dalās ar $2$ kā
+- $a$ un $b$ ir naturāli skaitļi, jo $k(k+1)$ un $k(k-1)$ dalās ar $2$ kā
   divu pēc kārtas esošu naturālu skaitļu reizinājums;
 - ievietojot šīs vērtības dotajā vienādojumā, iegūstam patiesu vienādību:
 

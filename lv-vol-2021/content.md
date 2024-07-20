@@ -519,7 +519,7 @@ Kopējais visas figūras laukums ir
 
 $$S_{visa}=1+2+\cdots+(2n-1)=\frac{2n(2n-1)}{2}=n(2n-1)$$
 
-Puse no $S_{\text {visa }}$ ir $\frac{n(2n-1)}{2}$, kas sakrīt ar aprēķināto 
+Puse no visa ir $\frac{n(2n-1)}{2}$, kas sakrīt ar aprēķināto 
 $S_{\text {zemOP }}$. Tātad, ja $k$ ir nepāra skaitlis, tad figūras laukumu 
 vienlielās daļās sadalošais stars iet caur kvadrāta virsotni.
 
