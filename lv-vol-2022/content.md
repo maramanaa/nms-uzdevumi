@@ -698,7 +698,7 @@ $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}+E_{1}F_{1}+F_{1}C+AE_{3}+E_{3}F_{3}+F_{3}D-
 
 $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}-E_{1}F_{1}+F_{1}C+AE_{3}-E_{3}F_{3}+F_{3}D-BE_{2}-E_{2}A-CF_{2}-F_{2}D}{2}=\frac{E_{1}F_{1}+E_{3}F_{3}}{2}=EF$$
 
-![](LV.VOL.2022.10.2B.png)
+![](LV.VOL.2022.10.2B.png) 
 
 
 # <lo-sample/> LV.VOL.2022.12.3
