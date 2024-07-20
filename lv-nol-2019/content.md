@@ -1527,9 +1527,9 @@ skaitīšanas sistēmā var uzrakstīt izmantojot ne vairāk kā $6$ ciparus. In
 jāuzdod jautājums par katru skaitļa ciparu:
 
 1. jautājums - Vai skaitļa pirmais cipars binārajā skaitīšanas sistēmā ir $1$?
- jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
+2. jautājums - Vai skaitļa otrais cipars binārajā skaitīšanas sistēmā ir $1$?
 
-$\ldots $
+   $\ldots $
 
 6. jautājums - Vai skaitļa sestais cipars binārajā skaitīšanas sistēmā ir $1$?
 
