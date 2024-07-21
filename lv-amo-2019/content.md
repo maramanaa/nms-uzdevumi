@@ -430,11 +430,13 @@ septiņu naturālu skaitļu reizinājumu tā, lai to visu pēdējie cipari ir da
 ciparu)?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:FindOptimal
+* concepts:product
+  
 </small>
+
+
 
 ## Atrisinājums
 
@@ -645,11 +647,12 @@ to visu pēdējie cipari ir dažādi (tas ir, nevienam no tiem pēdējais cipars
 nesakrīt ar kāda cita skaitļa pēdējo ciparu)?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:FindOptimal
+* concepts:product
+  
 </small>
+
 
 ## Atrisinājums
 
@@ -817,8 +820,8 @@ būtu par $500290$ lielāks nekā sākotnējais. Atrast doto sešciparu skaitli!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -865,8 +868,9 @@ $$(\sqrt{2020}-2 \sqrt{2019}+\sqrt{2018})(\sqrt{2020}+\sqrt{2019})(\sqrt{2019}+\
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
+* concepts:quadratic-equation
 
 </small>
 
@@ -901,8 +905,10 @@ $$6+24+60+\cdots+n(n+1)(n+2)=\frac{n(n+1)(n+2)(n+3)}{4}$$
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryMathInduction
+* questionType:Prove
+* domain:Alg
+* concepts:equation
 
 </small>
 
@@ -1002,8 +1008,10 @@ kvadrāts?
 
 <small>
 
-* questionType:
-* domain:
+* topic:StandardIdentities
+* questionType:FindAll
+* domain:NT
+* concepts:square-Alg
 
 </small>
 
@@ -1117,8 +1125,9 @@ $$\frac{(x-20)^{19} \cdot(x+4)}{\left(\sqrt{x^{2}+4}\right)\left(9-x^{2}\right)}
 
 <small>
 
-* questionType:
-* domain:
+* concepts:inequality
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1148,16 +1157,20 @@ Divi spēlētāji pamīšus raksta uz tāfeles skaitļa $216$ naturālos dalīt�
 Katrā gājienā jāievēro šādi noteikumi:
 
 - nedrīkst atkārtoti rakstīt jau uzrakstītu dalītāju;
-- nedrīkst rakstīt dalītāju, kurš ir tieši $2$ vai $3$ reizes lielāks vai 
-  mazāks nekā kāds jau uzrakstītais dalītājs.
+- nedrīkst rakstīt dalītāju, kurš ir tieši $2$ vai $3$ reizes
+  lielāks vai mazāks nekā kāds jau uzrakstītais dalītājs.
 
 Zaudē tas spēlētājs, kurš nevar izdarīt gājienu. Kurš spēlētājs - pirmais vai 
 otrais - vienmēr var uzvarēt?
 
 <small>
 
-* questionType:
-* domain:
+* topic:FactorizationAndDivisibility
+* topic:GameInvariant
+* seeAlso:LV.AMO.2019.12.2
+* concepts:divisors
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1207,8 +1220,9 @@ $FH=GH$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle,circumscribed-circle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1240,13 +1254,15 @@ paralēlas. Paralelograma diagonāles krustpunktā dalās uz pusēm, tāpēc $FH
 
 # <lo-sample/> LV.AMO.2019.11.4.
 
-Zināms, ka vairāku naturālu skaitļu summa ir **a)** $2019$, **b)** $2020$. Kāds
+Zināms, ka vairāku naturālu skaitļu summa ir **(A)** $2019$, **(B)** $2020$. Kāds
 ir lielākais iespējamais šo skaitļu reizinājums? 
 
 <small>
 
-* questionType:
-* domain:
+* topic:InequalityProvingStronger
+* concepts:product
+* questionType:FindOptimal,FindOptimal
+* domain:Alg
 
 </small>
 
@@ -1283,10 +1299,10 @@ viena vai diviem divniekiem) var izteikt vienā vienīgā veidā.
 
 Līdz ar to esam ieguvuši, ka
 
-**a)** ja skaitļu summa ir $2019=3 \cdot 673$, tad šo skaitļu lielākais 
+**(A)** ja skaitļu summa ir $2019=3 \cdot 673$, tad šo skaitļu lielākais 
        iespējamais reizinājums ir $3^{673}$,
 
-**b)** ja skaitļu summa ir $2020=3 \cdot 673+1$, tad šo skaitļu lielākais 
+**(B)** ja skaitļu summa ir $2020=3 \cdot 673+1$, tad šo skaitļu lielākais 
        iespējamais reizinājums ir $4 \cdot 3^{672}$.
 
 
@@ -1378,8 +1394,10 @@ otrais - vienmēr var uzvarēt?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2019.11.2
+* concepts:divisors
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1419,6 +1437,21 @@ otrajam spēlētājam un viņš zaudēs.
 
 
 
+
+
+## Atrisinājums
+
+* Visi dalītāji veido taisnstūrainu struktūru, 
+  kur reizināšana ar $2$ ir virzīšanās pa vienu asi, 
+  bet reizināšana ar $3$ - pa otru. 
+* Šajā tainstūrī ir simetrijas centrs: $12 = \sqrt{144}$. 
+* Pirmais spēlētājs sāk ar $12$, pēc tam uz katru 
+  dalītāju $d$ atbild ar $144/d$.
+
+
+
+
+
 # <lo-sample/> LV.AMO.2019.12.3.
 
 Dots četrstūris $ABCD$, kuram $AB=AD$ un $BC=CD$. Riņķa līnija, kas iet caur 
@@ -1427,10 +1460,13 @@ punktos $E$ un $F$ un nogriezni $BD$ punktā $G$. Pierādīt, ka $EG=FG$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:rectangle
+* questionType:Prove
+* domain:Geom
 
 </small>
+
+
 
 ## Atrisinājums
 
@@ -1463,14 +1499,16 @@ svarīga). Ar kādu lielāko trijnieka pakāpi dalās $N$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:RuleOfProduct
+* topic:ValuationProperties
+* questionType:FindAll
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
-ledomāsimies, ka visiem skolēniem ir atšķirīgs vecums (vai garums milimetros 
+Iedomāsimies, ka visiem skolēniem ir atšķirīgs vecums (vai garums milimetros 
 vai jebkāds cits sakārtojums). Ņemam visjaunāko skolēnu un piekārtojam viņam 
 kādu citu skolēnu (tas ir, izveidojam pāri), to var izdarīt $99$ veidos. Pēc 
 tam ņemam visjaunāko no atlikušajiem skolēniem un atrodam tam pāri, to var 
@@ -1499,6 +1537,39 @@ Tātad lielākā trijnieka pakāpe, ar kuru dalās $N$, ir $26$.
 
 
 
+## Atrisinājums
+
+Aprēķinām $N$, izmantojot reizināšanas likumu. 
+Visjaunākajam (visīsākajam u.c.) skolēnam pāri var atrast $99$ veidos.
+No atlikušajiem visjaunākajam skolēnam pāri var atrast $97$ veidos.
+Pēdējam skolēnam paliek tieši $1$ pāris.
+Pilnu variantu skaitu izsaka reizinājums:  
+
+$$N = 99\cdot{}97\cdot{}95\cdot\ldots\cdot{}3\cdot{}1.$$
+
+Grupējam reizinātājus atkarībā no trijnieka pakāpes, ar
+kuru tie dalās.
+
+* $(99-3)/6 + 1 = 17$ reizinātāji dalās ar $3$:
+$3 \cdot 9 \cdot 15 \cdot 21 \cdot 27 \cdot \ldots \cdot 99$.
+* $(99-9)/18 + 1 = 6$ reizinātāji dalās ar $3^2$: 
+$9 \cdot 27 \cdot 45 \cdot 63 \cdot 81 \cdot 99$
+* $(81 - 27)/54 +1 = 2$ reizinātāji dalās ar $3^3$ ($27, 81$). 
+* Viens reizinātājs dalās ar $3^4$ ($81$).
+
+Saskaitot šīs pakāpes $17 + 6 + 2 + 1 = 26$. 
+
+*Piezīme.* Līdzīga saskaitīšanas ideja ir arī Ležandra formulā, kas 
+atrod lielāko pirmskaitļa pakāpi, ar ko dalās $n!$. 
+
+
+
+
+
+
+
+
+
 # <lo-sample/> LV.AMO.2019.12.5.
 
 Miljonāru kluba visbagātākajam biedram ir tieši $8$ reizes mazāk naudas nekā 
@@ -1509,8 +1580,8 @@ Cik biedru ir šajā klubā?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Alg
 
 </small>
 
