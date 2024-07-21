@@ -229,7 +229,7 @@ fiksētu skaitli $q$, tas ir, $x_{2}=qx_{1}, x_{3}=qx_{2}$ utt.
 
 ## Atrisinājums
 
-Apzīmēsim ģeometriskās progresijas kvocientu ar $q$. levērojam, ka $q$ ir 
+Apzīmēsim ģeometriskās progresijas kvocientu ar $q$. Ievērojam, ka $q$ ir 
 pozitīvs skaitlis un nav vienāds ar $1$ (citādi progresija būtu konstanta un 
 nevarētu izpildīties $x_{4}+x_{3}-x_{2}-x_{1}=3$ ).
 
@@ -341,7 +341,7 @@ pirmajā rindā!
 
 ## Atrisinājums
 
-levērosim, ka no divām 6.att. figūrām var salikt $2 \times 7$ rūtiņu 
+Ievērosim, ka no divām 6.att. figūrām var salikt $2 \times 7$ rūtiņu 
 taisnstūri, skaitļu summa šajā taisnstūrī ir $2$. Visu tabulu $19 \times 14$ 
 var noklāt ar šādiem $19$ šādiem taisnstūriem (pirmās $7$ rindas noklāj, liekot
 tos vertikāli, pārējās $12$ rindas noklāj pa pāriem, liekot tos blakus 
@@ -367,7 +367,7 @@ Pierādìt, ka $\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=2$.
 
 ## Atrisinājums
 
-levērosim, ka $(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
+Ievērosim, ka $(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
 $(\sqrt{3}-1)^{3}=6 \sqrt{3}-10$. Līdz ar to
 
 $$\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=(\sqrt{3}+1)-(\sqrt{3}-1)=2$$
@@ -434,7 +434,7 @@ Apzīmēsim skaitļa $x$ ciparu summu ar $S(x)$. Pierādīsim, ka, ja $A$ ir
 elegants, tad arī $\overline{AAA}$ (skaitlis, kas sastāv no trim pēc kārtas 
 uzrakstītiem skaitļiem $A$ ) ir elegants.
 
-levērosim, ka, ja $A$ ir $n$-ciparu skaitlis, tad 
+Ievērosim, ka, ja $A$ ir $n$-ciparu skaitlis, tad 
 $\overline{AAA}=A \cdot\left(1+10^{n}+10^{2n}\right)$ un 
 $S(\overline{AAA})=3S(A)$. Tā kā $A$ dalās ar $S(A)$ pēc pieņēmuma, ka $A$ ir 
 elegants, tad atliek pamatot, ka $1+10^{n}+10^{2n}$ dalās ar $3$, bet tas ir 
@@ -693,9 +693,9 @@ uzdevuma nosacījumiem. Tādā veidā mēs varam iegūt jaunu skaitļu pāri $(a
 kurš atbilst uzdevuma nosacījumiem un kurā vismaz viens no skaitļiem nedalās ar
 $19$.
 
-levērosim, ka pēc mazās Fermā teorēmas, ja $x$ nedalās ar $19$, tad 
+Ievērosim, ka pēc mazās Fermā teorēmas, ja $x$ nedalās ar $19$, tad 
 $x^{18}=1(\bmod 19)$. Tātad katrs no trim summas locekļiem pēc moduļa $19$ ir 
-vai nu $0$, vai $1$. levērosim arī, ka, ja vismaz viens no skaitļiem $(a; b)$ 
+vai nu $0$, vai $1$. Ievērosim arī, ka, ja vismaz viens no skaitļiem $(a; b)$ 
 nedalās ar $19$, tad vismaz divi no trim skaitļiem $19a+b; a+b; a+19b$ nedalās 
 ar $19$. Līdz ar to šīs summas vērtība pēc moduļa $19$ ir vai nu $2$, vai $3$.
 

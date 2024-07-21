@@ -526,7 +526,7 @@ trīsciparu skaitlis $A, B$ un $C$ dalās ar $31$, tad arī iegūtais deviņcipa
 skaitlis dalīsies ar $31$ (ja katrs saskaitāmais dalās ar $31$, tad arī summa 
 dalās ar $31$) un Rihards būs uzvarējis.
 
-levērojam, ka ar $31$ dalās trīsciparu skaitļi 
+Ievērojam, ka ar $31$ dalās trīsciparu skaitļi 
 $124,\ 248,\ 372,\ 465,\ 496,\ 589,\ 651,\ 713,\ 837$ un $992$. Kad Mārtiņš aizvieto 
 zvaigznīti, kas atrodas kādā grupā, Rihards atlikušās divas tās pašas grupas 
 zvaigznītes aizvieto tā, lai tās kopā veidotu kādu no desmit minētajiem 
@@ -625,7 +625,7 @@ $EM=BC$.
 
 ## Atrisinājums
 
-levērosim, ka $\triangle MAE=\triangle CKB$ pēc pazīmes $m \ell m$, jo
+Ievērosim, ka $\triangle MAE=\triangle CKB$ pēc pazīmes $m \ell m$, jo
 
 - $AM=AK+KM=MC+KM=KC$ (skat. 19.att.);
 
@@ -694,9 +694,9 @@ dalās ar $3$.
 Skaitlis dalās ar $4$ tad, ja tā divu pēdējo ciparu veidotais skaitlis dalās ar
 $4$. Tātad $\overline{xy}=10x+y$ dalās ar $4$.
 
-levērojam, ka $10x+y=8x+2x+y$. Tā kā $10x+y$ dalās ar $4$ un $8x$ dalās ar $4$,
+Ievērojam, ka $10x+y=8x+2x+y$. Tā kā $10x+y$ dalās ar $4$ un $8x$ dalās ar $4$,
 tad arī $(2x+y)$ ir jādalās ar $4$. Bet tas nozīmē, ka $(2x+y)$ ir jādalās ar 
-$12$, jo $3$ un $4$ ir savstarpēji pirmskaitļi. levērojot, ka $x$ un $y$ ir 
+$12$, jo $3$ un $4$ ir savstarpēji pirmskaitļi. Ievērojot, ka $x$ un $y$ ir 
 cipari $(2x+y<27)$, iespējami divi gadīumi:
 
 - ja $2x+y=12$ jeb $y=12-2x$, tad ievērojam, ka $x \leq 5$, un pārbaudām visus 
@@ -841,7 +841,7 @@ Apzīmējam $AE=BF=CG=DH=x$, tad $DG=BE=1-x$. Novelkam nogriežņus $OB$ un $OD$
 
 ![](LV.NOL.2019.9.3A.png)
 
-levērojam, ka no punkta $O$ ir novilkti divi perpendikuli attiecīgi pret 
+Ievērojam, ka no punkta $O$ ir novilkti divi perpendikuli attiecīgi pret 
 kvadrāta paralēlajām malām $BC$ un $AD$, tātad šo perpendikulu (apzīmējam 
 attiecīgi ar $h_{BC}$ un $h_{AD}$) summa ir attālums starp paralēlajām malām, 
 no kā secinām, ka $h_{BC}+h_{AD}=1$. Izmantojot trijstūra laukuma aprēķināšanas
@@ -902,7 +902,7 @@ no visu šajā kolonnā ierakstīto skaitļu reizinājuma. Vai tas ir iespējams
 
 ## Atrisinājums
 
-**a)** Nē, nav iespējams. levērojam, ka rindā vai kolonnā visu ierakstīto 
+**a)** Nē, nav iespējams. Ievērojam, ka rindā vai kolonnā visu ierakstīto 
 skaitļu reizinājums var būt tikai $(+1)$ vai $(-1)$. Apzīmēsim rindās 
 ierakstīto skaitļu reizinājumus attiecīgi ar $r_{1}, r_{2}, \ldots, r_{7}$ un 
 kolonnās ierakstīto skaitļu reizinājumus attiecīgi ar 
@@ -947,7 +947,7 @@ beigās, lai izpildītos uzdevuma nosacījumi.
 Skaitlis $3456$ nedalās ar $2019$, tāpēc dotās virknes beigās ir jāpieraksta 
 vismaz viens cipars.
 
-levērojam, ka $17 \cdot 2019=34323<\overline{3456x}$ un 
+Ievērojam, ka $17 \cdot 2019=34323<\overline{3456x}$ un 
 $18 \cdot 2019=36342>\overline{3456x}$, kur $x$ - cipars. Līdz ar to ar viena 
 cipara pievienošanu nevar izveidot skaitli, kas dalās ar $2019$.
 
@@ -968,7 +968,7 @@ beigās, lai izpildītos uzdevuma nosacījumi.
 Skaitlis $3456$ nedalās ar $2019$, tāpēc dotās virknes beigās ir jāpieraksta 
 vismaz viens cipars.
 
-levērojam, ka $\overline{3456x}=34560+x=17 \cdot 2019+237+x$, kur $x$ - cipars.
+Ievērojam, ka $\overline{3456x}=34560+x=17 \cdot 2019+237+x$, kur $x$ - cipars.
 Tā kā $17 \cdot 2019$ dalās ar $2019$, tad, lai $\overline{3456x}$ dalītos ar 
 $2019$, arī $(237+x)$ jādalās ar $2019$, bet tas nav iespējams, jo $x$ ir 
 cipars. Līdz ar to ar viena cipara pievienošanu nevar izveidot skaitli, kas 
@@ -1174,7 +1174,7 @@ $$\begin{gathered}
 10(100-m)=9(n-1)
 \end{gathered}$$
 
-levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
+Ievērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
 $(100-m)$ jābūt pozitīvam. Tā kā $10$ un $9$ ir savstarpēji pirmskaitļi, tad 
 $(100-m)$ ir jādalās ar $9$. lespējamās $m$ vērtības varētu būt 
 $1,\ 10,\ 19,\ 28,\ 37,\ 46,\ 55,\ 64,\ 73,\ 82$ un $91$, no kurām derīgas ir 
@@ -1207,7 +1207,7 @@ $y=bx+c$ grafiki? (Funkciju grafiki nav zīmēti mērogā.)
 
 Nē, nevar.
 
-Funkcijas $y=bx+c$ grafiks ir taisne. levērojam, ka tā ir dilstoša funkcija un 
+Funkcijas $y=bx+c$ grafiks ir taisne. Ievērojam, ka tā ir dilstoša funkcija un 
 taisne krusto $y$ asi punktā, kura ordinātas vērtība ir pozitīva, tad $b<0$.
 
 Apskatām funkciju $y=ax^{2}+bx+c$. Tā kā doto parabolu zari ir vērsti uz augšu 
@@ -1350,7 +1350,7 @@ Dotā nevienādība ir ekvivalenta nevienādībai
 
 $$\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2}-2(a+1)(b+1) \geq 0$$
 
-levērojot, ka $a$ un $b$ ir pozitīvi skaitļi, ekvivalenti pārveidojam šīs 
+Ievērojot, ka $a$ un $b$ ir pozitīvi skaitļi, ekvivalenti pārveidojam šīs 
 nevienādības kreisās puses izteiksmi:
 
 $$\begin{gathered}
@@ -1395,7 +1395,7 @@ $$\begin{aligned}
 20(100-m) & =19(n-1)
 \end{aligned}$$
 
-levērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
+Ievērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
 $(100-m)$ jābūt pozitīvam. Tā kā $20$ un $19$ ir savstarpēji pirmskaitļi, tad 
 $(100-m)$ ir jādalās ar $19$. lespējamās $m$ vērtības varētu būt 
 $5,\ 24,\ 43,\ 62$ un $81$, no kurām derīgas ir tikai $5$ un $43$, jo tie ir 
@@ -1413,7 +1413,7 @@ $m=43,\ n=61$.
 Apskatīsim doto vienādojumu pēc moduļa $19$. Tā kā 
 $20m \equiv 1 \cdot m \equiv m(\bmod 19)$, $19n \equiv 0(\bmod 19)$ un 
 $2019 \equiv 5(\bmod 19)$, tad, lai būtu vienādība, jāizpildās nosacījumam 
-$m \equiv 5(\bmod 19)$. levērojot, ka $20 \cdot 101=2020>2019$, secinām, ka 
+$m \equiv 5(\bmod 19)$. Ievērojot, ka $20 \cdot 101=2020>2019$, secinām, ka 
 $m<101$. Tātad derīgās $m$ vērtības ir pirmskaitļi, kas mazāki nekā $101$, un, 
 dalot ar $19$, dod atlikumu $5$. Šādas vērtības ir tikai divas $m=5$ un $m=43$.
 Atrodam atbilstošās $n$ vērtības:
@@ -1630,7 +1630,7 @@ Apskatām gadījumu, kad $b \neq c$. Novelkam nogriezni $AD$, kura garums ir $a$
 Tam perpendikulāri no punkta $D$ uz vienu pusi atliekam nogriežņus $BD$ un 
 $CD$, kuru garumi attiecīgi ir $b$ un $c$ (iespējami divi gadījumi, skat. 
 36.att.). No Pitagora teorēmas trijstūros $ADB$ un $ADC$ iegūstam, ka 
-$AC=\sqrt{a^{2}+c^{2}}$ un $AB=\sqrt{a^{2}+b^{2}}$. levērojam, ka 
+$AC=\sqrt{a^{2}+c^{2}}$ un $AB=\sqrt{a^{2}+b^{2}}$. Ievērojam, ka 
 $BC=|BD-CD|=|b-c|$. No trijstūra nevienādības trijstūrī $ABC$ iegūstam 
 $BC>|AB-AC|$ jeb $|b-c|>\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right|$.
 

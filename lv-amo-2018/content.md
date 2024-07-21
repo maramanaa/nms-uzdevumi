@@ -369,7 +369,7 @@ cipariem $2,\ 0,\ 1,\ 8$ ?
 
 ## Atrisinājums
 
-levērojam, ka meklētie var būt viencipara, divciparu, trīsciparu un četrciparu 
+Ievērojam, ka meklētie var būt viencipara, divciparu, trīsciparu un četrciparu 
 skaitļi un skaitļa pirmais cipars nedrīkst būt $0$. Saskaitām katra veida 
 skaitļus:
 
@@ -504,7 +504,7 @@ Abi var izgriezt vienādu skaitu figūru. Taisnstūris ar izmēriem $7 \times 20
 rūtiņas satur $7 \cdot 2018=14126$ rūtiņas, tāpēc maksimālais figūru skaits, ko
 varētu izgriezt, ir $2825$, jo $5 \cdot 2825+1=14126$. Parādīsim, ka gan 
 Lauriņa, gan Pēcītis var sagriezt doto taisnstūri tā, ka pāri paliek $1$ 
-rūtiņa. levērojam, ka taisnstūri ar izmēriem $2 \times 5$ rūtiņas var sagriezt 
+rūtiņa. Ievērojam, ka taisnstūri ar izmēriem $2 \times 5$ rūtiņas var sagriezt 
 gan Lauriņa, gan Pēcītis (skat. 7.att.).
 
 ![](LV.AMO.2018.7.5A.png)
@@ -630,7 +630,7 @@ $a, b, c, d, e, f, g, h$ un $i$ (skat. 12.att.).
 No tā, ka katrā rindā ierakstīto skaitļu summa ir viena un tā pati, var 
 secināt, ka tā ir $\frac{1+2+3+4+5+6+7+8+9}{3}=15$. Tā kā arī katrā kolonnā un 
 katrā diagonālē ierakstīto skaitļu summa ir $15$, tad iegūstam, ka 
-$a+b+c=d+e+f=g+h+i=a+d+g=b+e+h=c+f+i=a+e+i=c+e+g=15$. levērojam (skat. 
+$a+b+c=d+e+f=g+h+i=a+d+g=b+e+h=c+f+i=a+e+i=c+e+g=15$. Ievērojam (skat. 
 13.att.), ka
 
 $$\begin{gathered}
@@ -920,7 +920,7 @@ laukums ir naturāls skaitlis!
 
 ## Atrisinājums
 
-levērojam, ka $40=2^{2}+6^{2},\ 53=2^{2}+7^{2}$ un $145=8^{2}+9^{2}$. Līdz ar 
+Ievērojam, ka $40=2^{2}+6^{2},\ 53=2^{2}+7^{2}$ un $145=8^{2}+9^{2}$. Līdz ar 
 to doto trijstūri varam iezīmēt taisnstūrī ar izmēriem $8 \times 9$ (skat. 
 25.att.). Tad dotā trijstūra laukums ir
 
@@ -1029,7 +1029,9 @@ Izmantojot iegūto formulu un sākuma vērtības, aprēķinām $a_{15}$.
 
 # <lo-sample/> LV.AMO.2018.10.3.
 
-10.3. Dots trijstūris $A B C$. No virsotnes $C$ novilkti perpendikuli $C M$ un $C N$ attiecīgi pret leņka $A$ un leņka $B$ ārējo leņku bisektrisēm. Pierādīt, ka $M N$ garums ir vienāds ar pusi no trijstūra $A B C$ perimetra!
+Dots trijstūris $ABC$. No virsotnes $C$ novilkti perpendikuli $CM$ un $CN$ 
+attiecīgi pret leņķa $A$ un leņķa $B$ ārējo leņķu bisektrisēm. Pierādīt, ka 
+$MN$ garums ir vienāds ar pusi no trijstūra $ABC$ perimetra!
 
 <small>
 
@@ -1040,23 +1042,24 @@ Izmantojot iegūto formulu un sākuma vērtības, aprēķinām $a_{15}$.
 
 ## Atrisinājums
 
-Atrisinājums. Taišņu $C M$ un $C N$ krustpunktus ar taisni $A B$ apzīmējam attiecīgi ar $M_{1}$ un $N_{1}$ (skat. 27.att.). Nogrieznis $A M$ vienlaicīgi ir trijstūra $M_{1} A C$ augstums un bisektrise, tāpēc trijstūris $M_{1} A C$ ir vienādsānu $\left(M_{1} A=A C\right)$ un $A M$ ir arī mediāna, tas ir, $M M_{1}=M C$.
+Taišņu $CM$ un $CN$ krustpunktus ar taisni $AB$ apzīmējam attiecīgi ar $M_{1}$ 
+un $N_{1}$ (skat. 27.att.). Nogrieznis $AM$ vienlaicīgi ir trijstūra $M_{1}AC$ 
+augstums un bisektrise, tāpēc trijstūris $M_{1}AC$ ir vienādsānu 
+$(M_{1}A=AC)$ un $AM$ ir arī mediāna, tas ir, $MM_{1}=MC$.
 
-Līdzīgi spriežot par nogriezni $B N$, iegūstam, ka $B C=B N_{1}$ un $N N_{1}=C N$.
+Līdzīgi spriežot par nogriezni $BN$, iegūstam, ka $BC=BN_{1}$ un $NN_{1}=CN$.
 
-Tātad $M N$ ir trijstūra $M_{1} C N_{1}$ viduslīnija un tās garums ir
+Tātad $MN$ ir trijstūra $M_{1}CN_{1}$ viduslīnija un tās garums ir
 
-$$
-M N=\frac{1}{2} M_{1} N_{1}=\frac{1}{2}\left(M_{1} A+A B+B N_{1}\right)=\frac{1}{2}(A C+A B+B C)=\frac{1}{2} P(A B C)
-$$
+$$MN=\frac{1}{2} M_{1}N_{1}=\frac{1}{2}\left(M_{1}A+AB+BN_{1}\right)=\frac{1}{2}(AC+AB+BC)=\frac{1}{2} P(ABC)$$
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-11.jpg?height=368&width=877&top_left_y=981&top_left_x=652)
+![](LV.AMO.2018.10.3A.png)
 
 
 
 # <lo-sample/> LV.AMO.2018.10.4.
 
-10.4. Pierādīt, ja $x$ - naturāls skaitlis, tad $x^{8}-x^{2}$ dalās ar 252 .
+Pierādīt, ja $x$ - naturāls skaitlis, tad $x^{8}-x^{2}$ dalās ar $252$.
 
 <small>
 
@@ -1067,41 +1070,46 @@ $$
 
 ## Atrisinājums
 
-1. atrisinājums. levērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji pirmskaitļi. Tātad pietiek pierādīt, ka $x^{8}-x^{2}$ dalās ar 4,7 un 9 . Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
+Ievērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji 
+pirmskaitļi. Tātad pietiek pierādīt, ka $x^{8}-x^{2}$ dalās ar $4,\ 7$ un $9$. 
+Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
 
-$x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1)+1)(x(x-1)+1)=$ $=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
+$x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1)+1)(x(x-1)+1)=$  
+$=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
 
-Apskatām reizinātājus pēc moduļa 3.
+Apskatām reizinātājus pēc moduļa $3$.
 
 | $x \bmod 3$ | $(x-1) \bmod 3$ | $(x+1) \bmod 3$ | $x^{2} \bmod 3$ | $\left(x^{2}+x+1\right) \bmod 3$ | $\left(x^{2}-x+1\right) \bmod 3$ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 2 | 1 | 0 | 1 | 1 |
-| 1 | 0 | 2 | 1 | 0 | 1 |
-| 2 | 1 | 0 | 1 | 1 | 0 |
+| $0$ | $2$ | $1$ | $0$ | $1$ | $1$ |
+| $1$ | $0$ | $2$ | $1$ | $0$ | $1$ |
+| $2$ | $1$ | $0$ | $1$ | $1$ | $0$ |
 
-Katrā rindā divi no reizinātājiem dalās ar 3, tātad reizinājums dalās ar 9 .
+Katrā rindā divi no reizinātājiem dalās ar $3$, tātad reizinājums dalās ar $9$.
 
-levērojot, ka $x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)$, apskatām reizinātājus pēc modula 7 .
+Ievērojot, ka $x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)$, 
+apskatām reizinātājus pēc moduļa $7$.
 
 | $x \bmod 7$ | $x^{2} \bmod 7$ | $x^{3} \bmod 7$ | $\left(x^{3}-1\right) \bmod 7$ | $\left(x^{3}+1\right) \bmod 7$ |
 | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 6 | 1 |
-| 1 | 1 | 1 | 0 | 2 |
-| 2 | 4 | 1 | 0 | 2 |
-| 3 | 2 | 6 | 5 | 0 |
-| 4 | 2 | 1 | 0 | 2 |
-| 5 | 4 | 6 | 5 | 0 |
-| 6 | 1 | 6 | 5 | 0 |
+| $0$ | $0$ | $0$ | $6$ | $1$ |
+| $1$ | $1$ | $1$ | $0$ | $2$ |
+| $2$ | $4$ | $1$ | $0$ | $2$ |
+| $3$ | $2$ | $6$ | $5$ | $0$ |
+| $4$ | $2$ | $1$ | $0$ | $2$ |
+| $5$ | $4$ | $6$ | $5$ | $0$ |
+| $6$ | $1$ | $6$ | $5$ | $0$ |
 
-Katrā rindā viens reizinātājs dalās ar 7 , tātad arī reizinājums dalās ar 7 .
+Katrā rindā viens reizinātājs dalās ar $7$, tātad arī reizinājums dalās ar $7$.
 
-Ja $x$ ir pāra skaitlis, tad $x^{2}$ dalās ar 4. Ja $x$ ir nepāra skaitlis, $\operatorname{tad} x-1$ un $x+1$ ir pāra skaitļi un tad ar 4 dalās to reizinājums.
+Ja $x$ ir pāra skaitlis, tad $x^{2}$ dalās ar $4$. Ja $x$ ir nepāra skaitlis, 
+tad $x-1$ un $x+1$ ir pāra skaitļi un tad ar $4$ dalās to reizinājums.
 
-Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar 252 .
+Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar $252$.
 
 ## Atrisinājums
 
-2. atrisinājums. levērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji pirmskaitli. Tātad pietiek pierādìt, ka $x^{8}-x^{2}$ dalās ar 4,7 un 9 . Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
+Ievērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji pirmskaitli. Tātad pietiek pierādìt, ka $x^{8}-x^{2}$ dalās ar 4,7 un 9 . Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
 
 $x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1)+1)(x(x-1)+1)=$ $=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
 
@@ -1138,7 +1146,7 @@ Piezīme. Dalāmību ar 7 var pierādīt, arī izmantojot Mazo Fermā teorēmu: 
 
 ## Atrisinājums
 
-Atrisinājums. Mikelim jāizvēlas naudaszīmes 1, 3, 10 un 25. levērojam, ka visas summas līdz 4 var iegūt ar ne vairāk kā divām banknotēm un visas summas no 5 līdz 9 - ar ne vairāk kā četrām banknotēm (pie tam četras banknotes vajadzīgas tikai summai 8). Tātad visas summas no 10 līdz 19 var iegūt ar ne vairāk kā piecām banknotēm kā $x+10$, kur $0 \leq x \leq 9$, pie tam piecas banknotes vajadzīgas tikai, lai iegūtu summu 18. Visas summas no 20 līdz 24 var iegūt ar ne vairāk kā četrām banknotēm kā $x+10+10$, kur $0 \leq x \leq 4$.
+Atrisinājums. Mikelim jāizvēlas naudaszīmes 1, 3, 10 un 25. Ievērojam, ka visas summas līdz 4 var iegūt ar ne vairāk kā divām banknotēm un visas summas no 5 līdz 9 - ar ne vairāk kā četrām banknotēm (pie tam četras banknotes vajadzīgas tikai summai 8). Tātad visas summas no 10 līdz 19 var iegūt ar ne vairāk kā piecām banknotēm kā $x+10$, kur $0 \leq x \leq 9$, pie tam piecas banknotes vajadzīgas tikai, lai iegūtu summu 18. Visas summas no 20 līdz 24 var iegūt ar ne vairāk kā četrām banknotēm kā $x+10+10$, kur $0 \leq x \leq 4$.
 
 $$
 \begin{array}{ll}
@@ -1273,7 +1281,7 @@ Tātad taisnstūri $1 \times 12$ var salikt 309 dažādos veidos.
 
 Atrisinājums. Ar $O$ apzīmējam rinkaka līnijas $\omega_{1}$ centru (skat. 33.att.). Apzīmējam $\sphericalangle X O Y=2 \alpha$.
 
-Tā kā $\sphericalangle O Y P=\sphericalangle O X P=90^{\circ}, \quad$ tad $\quad \sphericalangle X P Y=360^{\circ}-180^{\circ}-\sphericalangle X O Y=180^{\circ}-2 \alpha$. levērojam, ka $\sphericalangle X A Y=\frac{1}{2} \sphericalangle X O Y=\frac{1}{2} \cdot 2 \alpha=\alpha$ kā ievilktais un centra leņkis, kas balstās uz viena un tā paša loka $X Y$.
+Tā kā $\sphericalangle O Y P=\sphericalangle O X P=90^{\circ}, \quad$ tad $\quad \sphericalangle X P Y=360^{\circ}-180^{\circ}-\sphericalangle X O Y=180^{\circ}-2 \alpha$. Ievērojam, ka $\sphericalangle X A Y=\frac{1}{2} \sphericalangle X O Y=\frac{1}{2} \cdot 2 \alpha=\alpha$ kā ievilktais un centra leņkis, kas balstās uz viena un tā paša loka $X Y$.
 
 Tā kā četrstūris $A Q P R$ ir ievilkts četrstūris, tad $\sphericalangle Q A R=180^{\circ}-\sphericalangle Q P R=180^{\circ}-\left(180^{\circ}-2 \alpha\right)=2 \alpha$.
 
@@ -1367,7 +1375,7 @@ a b c=2860
 \end{array}\right.
 $$
 
-levērojot, ka $2860=2 \cdot 5 \cdot 11 \cdot 13$, varam uzminēt, ka $a, b, c$ vērtības ir $10,11,13$ un pārbaudīt, ka tās tiešām apmierina šo vienādojumu sistēmu. Tā kā trešās pakāpes vienādojumam ir ne vairāk kā trīs saknes, tad trijstūra malu garumi ir $10,11,13$. Izmantojot Hērona formulu, aprēkinām trijstūra laukumu
+Ievērojot, ka $2860=2 \cdot 5 \cdot 11 \cdot 13$, varam uzminēt, ka $a, b, c$ vērtības ir $10,11,13$ un pārbaudīt, ka tās tiešām apmierina šo vienādojumu sistēmu. Tā kā trešās pakāpes vienādojumam ir ne vairāk kā trīs saknes, tad trijstūra malu garumi ir $10,11,13$. Izmantojot Hērona formulu, aprēkinām trijstūra laukumu
 
 $$
 S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{22 \cdot 12 \cdot 11 \cdot 9}=22 \cdot 3=66
@@ -1392,7 +1400,7 @@ $$
 
 ## Atrisinājums
 
-Atrisinājums. levērojam, ka $48=2^{4} \cdot 3,54=2 \cdot 3^{3}, 81=3^{4}$ un $96=2^{5} \cdot 3$.
+Atrisinājums. Ievērojam, ka $48=2^{4} \cdot 3,54=2 \cdot 3^{3}, 81=3^{4}$ un $96=2^{5} \cdot 3$.
 
 Izmantosim formulu pārejai uz citu bāzi $\log _{a} b=\frac{\log _{c} b}{\log _{c} a}$. Nemam $c=3$ un apzīmējam $\log _{3} 2=x$. Tad
 
@@ -1463,9 +1471,9 @@ Tālāk, izmantojot iegūto formulu $k_{n}=2 k_{n-1}+4 k_{n-2}$, iegūstam, ka p
 
 ## Atrisinājums
 
-Atrisinājums. levērojam, ka $\triangle F A^{\prime} E \sim \triangle D^{\prime} B E$ (skat. 35.att.) pēc pazīmes $\ell \ell$, jo $\sphericalangle F A^{\prime} E=\sphericalangle D^{\prime} B E=90^{\circ}$ un $\sphericalangle F E A^{\prime}=\sphericalangle D^{\prime} E B$ kā krustleņki. Šo trijstūru līdzības koeficients ir $k$, tad, apzīmējot $F A^{\prime}=y, A^{\prime} E=x$ un $F E=z$, iegūstam, ka $E B=k x, B D^{\prime}=k y$ un $E D^{\prime}=k z$. Tātad mums jāpierāda, ka $r=x$. Trijstūrī $E B D^{\prime}$ ievilktās rinka līnijas rādiusa garums ir $r=\frac{E B+B D^{\prime}-E D^{\prime}}{2}=\frac{k x+k y-k z}{2}=\frac{k(x+y-z)}{2}$.
+Atrisinājums. Ievērojam, ka $\triangle F A^{\prime} E \sim \triangle D^{\prime} B E$ (skat. 35.att.) pēc pazīmes $\ell \ell$, jo $\sphericalangle F A^{\prime} E=\sphericalangle D^{\prime} B E=90^{\circ}$ un $\sphericalangle F E A^{\prime}=\sphericalangle D^{\prime} E B$ kā krustleņki. Šo trijstūru līdzības koeficients ir $k$, tad, apzīmējot $F A^{\prime}=y, A^{\prime} E=x$ un $F E=z$, iegūstam, ka $E B=k x, B D^{\prime}=k y$ un $E D^{\prime}=k z$. Tātad mums jāpierāda, ka $r=x$. Trijstūrī $E B D^{\prime}$ ievilktās rinka līnijas rādiusa garums ir $r=\frac{E B+B D^{\prime}-E D^{\prime}}{2}=\frac{k x+k y-k z}{2}=\frac{k(x+y-z)}{2}$.
 
-levērojam, ka simetrijas dē! $A F=F A^{\prime}=y$ un $A B=A^{\prime} D^{\prime}$ (kā kvadrāta malas) jeb $y+z+k x=x+k z$. Izsakām $k=\frac{y+z-x}{z-x}$. Līdz ar to iegūstam, ka $r=\frac{k(x+y-z)}{2}=\frac{(y+z-x)(y-z+x)}{2(z-x)}=\frac{2 x z+y^{2}-z^{2}-x^{2}}{2(z-x)}$.
+Ievērojam, ka simetrijas dē! $A F=F A^{\prime}=y$ un $A B=A^{\prime} D^{\prime}$ (kā kvadrāta malas) jeb $y+z+k x=x+k z$. Izsakām $k=\frac{y+z-x}{z-x}$. Līdz ar to iegūstam, ka $r=\frac{k(x+y-z)}{2}=\frac{(y+z-x)(y-z+x)}{2(z-x)}=\frac{2 x z+y^{2}-z^{2}-x^{2}}{2(z-x)}$.
 
 Izmantojot Pitagora teorēmu trijstūrī $F A^{\prime} E$, iegūstam $y^{2}-z^{2}=-x^{2}$. Tātad
 

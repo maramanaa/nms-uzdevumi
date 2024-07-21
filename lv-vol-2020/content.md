@@ -56,14 +56,14 @@ ja $S(AMP)=S(BNP)=8$ un $S(NMP)=4$.
 
 ## Atrisinājums
 
-levērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
+Ievērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
 kopīga mala $MN$, tāpēc augstumi, kas no virsotnēm $A$ un $B$ novilkti pret šo 
 malu $MN$, ir vienādi jeb punkti $A$ un $B$ atrodas vienādā attālumā no 
 nogriežņa $MN$. Tātad $MN \parallel AB$. Apskatām attiecību
 
 $$\frac{S(MNP)}{S(PNB)}=\frac{\frac{1}{2} MP \cdot h_{MP}}{\frac{1}{2} BP \cdot h_{BP}}$$
 
-levērojot, ka $h_{MP}=h_{BP}$, iegūstam 
+Ievērojot, ka $h_{MP}=h_{BP}$, iegūstam 
 $\frac{MN}{AB}=\frac{MP}{BP}=\frac{4}{8}=\frac{1}{2}$.
 
 Trijstūri $MPN$ un $BPA$ ir līdzīgi pēc pazīmes $\ell \ell$, jo 
@@ -280,7 +280,7 @@ vērtība nav naturāla skaitļa kvadrāts!
 
 ## Atrisinājums
 
-levērojam, ka naturālu skaitli $n$, dalot ar $3$, var iegūt atlikumu $0, 1$ vai
+Ievērojam, ka naturālu skaitli $n$, dalot ar $3$, var iegūt atlikumu $0, 1$ vai
 $2$, un atrodam, kādu atlikumu var iegūt, ja $n^{2}$ dala ar $3$:
 
 - ja $n \equiv 0(\bmod 3)$, tad $n^{2} \equiv 0^{2} \equiv 0(\bmod 3)$;
@@ -432,7 +432,7 @@ kas apvilktas ap trijstūriem $AMD$ un $DNC$, pieskaras viena otrai!
 
 ## Atrisinājums
 
-Novelkam nogriezni $BD$ (skat. 8.att.). levērojam, ka 
+Novelkam nogriezni $BD$ (skat. 8.att.). Ievērojam, ka 
 $\sphericalangle DAC=\sphericalangle DBC$ kā ievilktie leņķi, kas balstās uz 
 viena un tā paša loka. Tā kā $DE \parallel BC$, tad 
 $\sphericalangle DBC=\sphericalangle BDM$ kā iekšējie škērsleņķi pie paralēlām 
@@ -469,7 +469,7 @@ $13^{n}+10^{n}+7^{n}+3^{n}$ vērtība nav naturāla skaitļa kvadrāts!
 
 ## Atrisinājums
 
-levērojam, ka naturālu skaitli $n$, dalot ar $4$, var iegūt atlikumu $0, 1, 2$ 
+Ievērojam, ka naturālu skaitli $n$, dalot ar $4$, var iegūt atlikumu $0, 1, 2$ 
 vai $3$, un atrodam, kādu atlikumu var iegūt, ja $n^{2}$ dala ar $4$:
 
 - ja $n \equiv 0(\bmod 4)$, tad $n^{2} \equiv 0^{2} \equiv 0(\bmod 4)$;
@@ -534,7 +534,7 @@ a_{11}=89a_{1}+55p \\
 a_{12}=144a_{1}+89p
 \end{gathered}$$
 
-levērojam, ka $a_{12}>100a_{1}$. Tātad $i \leq 11$. Ja $a_{1}=5$ un $a_{2}=6$, 
+Ievērojam, ka $a_{12}>100a_{1}$. Tātad $i \leq 11$. Ja $a_{1}=5$ un $a_{2}=6$, 
 tad
 
 $$a_{11}=89a_{1}+55p=89 \cdot 5+55=445+55=500=100a_{1}$$
@@ -654,7 +654,7 @@ $x_{1}^{3}+x_{2}^{3}+x_{3}^{3}$ vērtība?
 
 ## Atrisinājums
 
-levērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
+Ievērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
 pārrakstīt formā 
 $x^{3}-px+2019=\left(x-x_{1}\right)\left(x-x_{2}\right)\left(x-x_{3}\right)=0$.
 Grupējot locekļus, iegūsim šādas sakarības:
@@ -690,7 +690,7 @@ $x_{1}^{3}+x_{2}^{3}+x_{3}^{3}=p\left(x_{1}+x_{2}+x_{3}\right)-3 \cdot 2019=p \c
 
 ## Atrisinājums
 
-levērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
+Ievērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
 pārrakstīt formā 
 $x^{3}-p x+2019=\left(x-x_{1}\right)\left(x-x_{2}\right)\left(x-x_{3}\right)=0$.
 Grupējot locekļus, iegūsim šādas sakarības:
@@ -822,7 +822,7 @@ $8$ dažādām $n$ vērtībām.
 | $\mathbf{13}^{\boldsymbol{n}}$ | $5$ | $1$ | $5$ | $1$ | $\cdots$ |
 | $\boldsymbol{S}$ |  $\mathbf{5}$ | $\mathbf{5}$ | $\mathbf{5}$ | $\mathbf{5}$ | $\cdots$ |
 
-levērojam, ka
+Ievērojam, ka
 
 - virknes $5^{n}; 7^{n}; 11^{n}; 13^{n}$ pēc moduļa $8$ ir periodiskas ar 
   periodu $2$;
@@ -916,7 +916,7 @@ $2021 \cdot 1=2021 > 2019$;
 $2021 \cdot 0=0$ un $2019-0=2019$, kas nedalās ar $2$.
 
 Pamatosim, ka visus skaitļus, kas lielāki nekā $2019$, var izteikt formā 
-$2n+2021m$. levērojam, ka
+$2n+2021m$. Ievērojam, ka
 
 - $2020=2 \cdot 1010+2021 \cdot 0$ un visus pārējos skaitļus, kas lielāki nekā 
   $2020$ un dalās ar $2$, iegūstam kā summu $2 \cdot(1010+k)+2021 \cdot 0$, kur
@@ -962,7 +962,7 @@ Vienādojuma abām pusēm pieskaitot $1$ un sadalot reizinātāos, iegūstam
 
 $$(a-1)(b-1)=2020$$
 
-levērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
+Ievērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 
 | $\boldsymbol{a}-\mathbf{1}$ | $\boldsymbol{b}-\mathbf{1}$ | $\boldsymbol{a}$ | $\boldsymbol{b}$ | $(\boldsymbol{a} ; \boldsymbol{b})$ |  |
 | :---: | :---: | :---: | :---: | :---: | :---: |

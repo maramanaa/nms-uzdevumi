@@ -46,16 +46,16 @@ labajā pusē piezīmējot klāt vienu 2.att. doto figūru.
 
 ## Atrisinājums
 
-**a)** levērojam, ka, lai iegūtu nākamo figūru, iepriekšējai figūrai tiek 
+**a)** Ievērojam, ka, lai iegūtu nākamo figūru, iepriekšējai figūrai tiek 
        pievienoti $4$ kvadrāti. Pirmā figūrai sastāv no $5$ kvadrātiem un vēl 
        jāpievieno $69 \cdot 4$ kvadrāti, tātad $70.$ figūra sastāvēs no 
        $5+276=281$ kvadrāta.
 
-**b)** levērojam, ka pirmajai figūrai ir $12$ vienādas malas, tātad katras 
+**b)** Ievērojam, ka pirmajai figūrai ir $12$ vienādas malas, tātad katras 
        malas garums ir $1~\mathrm{cm}$. Apskatām, kā mainās katras nākamās 
        figūras perimetrs.
 
-- Pirmajai figūrai perimetrs ir $P_{1}=12~\mathrm{cm}$. levērojam, ka $12$ var 
+- Pirmajai figūrai perimetrs ir $P_{1}=12~\mathrm{cm}$. Ievērojam, ka $12$ var 
   uzrakstīt kā $4+8$ (skat. 3.att., kur malu, kas iekrāsotas ar pārtrauktu 
   līniju, kopējais garums ir $4~\mathrm{cm}$, bet ar biezāku līniju iekrāsoto 
   malu kopējais garums ir $8~\mathrm{cm}$).
@@ -74,7 +74,7 @@ $P_{n}=4+n \cdot 8~\mathrm{cm}$.
 
 Tātad $70.$ figūras perimetrs ir $P_{70}=4+70 \cdot 8=564~\mathrm{cm}$.
 
-**c)** levērojam, ja no figūras perimetra atņem $4$, tad iegūtajam rezultātam 
+**c)** Ievērojam, ja no figūras perimetra atņem $4$, tad iegūtajam rezultātam 
        jādalās ar $8$. Tā kā $1000-4=996$ un $996:8=124$, $atl$ $4$ (nedalās 
        ar $8$), tad nav tādas figūras, kuras perimetrs ir $1000~\mathrm{cm}$.
 
@@ -122,7 +122,7 @@ $11$, **b)** $12$?
 ![](LV.NOL.2020.5.4A.png)
 
 **b)** Pierādīsim, ka prasītais nav iespējams. Pieņemsim pretējo, ka iespējams 
-       aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
+       aizpildīt tabulu. Ievērojam, ka katrai tabulas rūtiņai ir vismaz divas 
        blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
        aplūkosim to rūtiņu, kurā ierakstīts skaitlis $12$. Šim skaitlim tikai 
        viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
@@ -154,7 +154,7 @@ Atrodi tādu trīsciparu skaitli, kam vienlaicīgi izpildās tālāk dotie nosac
 ## Atrisinājums
 
 Ja meklētajam skaitlim pieskaitīsim $1$, tad iegūtais skaitlis dalīsies ar 
-$2; 3; 4; 5; 6; 7; 8$ (bez atlikuma). levērojam, ka der skaitlis 
+$2; 3; 4; 5; 6; 7; 8$ (bez atlikuma). Ievērojam, ka der skaitlis 
 $3 \cdot 5 \cdot 7 \cdot 8=840$, tas dalās ar $2; 3; 4; 5; 6; 7$ un $8$. Tātad 
 meklētais skaitlis ir $840-1=839$.
 
@@ -178,7 +178,7 @@ Aprēķini iegūtās figūras perimetru!
 ## Atrisinājums
 
 Kvadrātu malu garumi attiecīgi ir $1~\mathrm{m}$, $2~\mathrm{m}$ un 
-$3~\mathrm{m}$. levērojam, ka lauztās līnijas $ABCDE$ garums ir tāds pats kā 
+$3~\mathrm{m}$. Ievērojam, ka lauztās līnijas $ABCDE$ garums ir tāds pats kā 
 lauztās līnijas $AKE$ garums un lauztās līnijas $JIHGF$ garums ir tāds pats kā 
 lauztās līnijas $JMF$ garums (skat. 10.att.). Tad dotās figūras garums ir 
 $1+2+3=6~\mathrm{m}$ un platums ir $3~\mathrm{m}$. Līdz ar to figūras perimetrs
@@ -265,7 +265,7 @@ $14$, **b)** $15$?
 ![](LV.NOL.2020.6.4A.png)
 
 **b)** Pierādīsim, ka prasītais nav iespējams. Pieņemsim pretējo, ka iespējams 
-       aizpildīt tabulu. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
+       aizpildīt tabulu. Ievērojam, ka katrai tabulas rūtiņai ir vismaz divas 
        blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir kopīga mala), un 
        aplūkosim to rūtiņu, kurā ierakstīts skaitlis $15$. Šim skaitlim tikai 
        viens no tabulā ierakstītajiem skaitļiem var nodrošināt starpību, kas ir
@@ -294,7 +294,7 @@ dalās ar $8$?
 Skaitlis dalās ar $8$, ja tā pēdējo trīs ciparu veidotais skaitlis dalās ar 
 $8$. Pieņemsim, ka visi skaitļi $ESE,\ ERE,\ EGS$ un $EZE$ dalās ar $8$.
 
-levērojam, ka ar $8$ dalās tikai pāra skaitļi, tāpēc burtiem $E$ un $S$ atbilst
+Ievērojam, ka ar $8$ dalās tikai pāra skaitļi, tāpēc burtiem $E$ un $S$ atbilst
 pāra cipari.
 
 No tā, ka skaitlis $ESE$ dalās ar $8$, iegūstam, ka burta $E$ var vietā būt 
@@ -364,7 +364,7 @@ ka iegūtās izteiksmes vērtība ir **a)** $4$; **b)** $1$?
 ## Atrisinājums
 
 **a)** Jā, iegūtās izteiksmes vērtība var būt $4$. Apskatām četrus pēc kārtas 
-       esošus naturālus nepāra skaitļus $2n-1;\ 2n+1;\ 2n+3;\ 2n+5$. levērojam, ka
+       esošus naturālus nepāra skaitļus $2n-1;\ 2n+1;\ 2n+3;\ 2n+5$. Ievērojam, ka
        katram no tiem var pierakstīt priekšā vai nu "+", vai "-" zīmi tā, lai 
        iegūtu summu $0$:
 
@@ -446,7 +446,7 @@ $n+1$ vai $n-1$.
 ![](LV.NOL.2020.7.4A.png)
 
 Pamatosim, ka $K$ nevar būt vienāds ar $n$ vai lielāks nekā $n$. Pieņemsim 
-pretējo, ka $K \geq n$. levērojam, ka katrai tabulas rūtiņai ir vismaz divas 
+pretējo, ka $K \geq n$. Ievērojam, ka katrai tabulas rūtiņai ir vismaz divas 
 blakus rūtiņas, un aplūkojam to rūtiņu, kurā ir ierakstīts skaitlis $N$. Šim 
 skaitlim tikai viens no tabulā ierakstītajiem skaitļiem var nodrošināt 
 starpību, kas ir vismaz $n$, tas ir skaitlis $2n$. legūta pretruna, tātad 
@@ -538,7 +538,7 @@ lielākais naturālais skaitlis, kuru nevar iegūt uz kalkulatora ekrāna?
 
 Pierādīsim, ka lielākais skaitlis, ko nevar iegūt uz ekrāna, ir $23$.
 
-levērojam, ka vienīgie skaitļi, kas mazāki nekā $15$ un ko iespējams iegūt ar 
+Ievērojam, ka vienīgie skaitļi, kas mazāki nekā $15$ un ko iespējams iegūt ar 
 pogu nospiedieniem, ir $5$ (P), $7$ (S), $10$ (PP), $12$ (PS) un $14$ (SS).
 
 Lai uz ekrāna iegūtu skaitli $23$, iepriekšējam skaitlim jābūt vai nu $18$, vai
@@ -546,7 +546,7 @@ $16$ un pirms tam ir bijis jābūt kādam no skaitļiem $13,\ 11$ vai $9$, bet �
 skaitļus nav iespējams iegūt. Līdz ar to arī $23$ nav iespējams iegūt.
 
 Pierādīsim, ka visus skaitļus, kas lielāki nekā $23$, ir iespējams iegūt. 
-levērojam, ka uz ekrāna var iegūt piecus secīgus skaitļus:
+Ievērojam, ka uz ekrāna var iegūt piecus secīgus skaitļus:
 
 - $24=2 \cdot 5+2 \cdot 7$ (PPSS);
 - $25=5 \cdot 5$ (PPPPP);
@@ -577,7 +577,7 @@ Trijstūris $ABM$ ir vienādsānu, jo $AB=BM$ (pēc dotā), tāpēc apzīmējam
 $\sphericalangle BAM=\sphericalangle BMA=2 \alpha$ un pēc bisektrises 
 definīcijas $\sphericalangle BAK=\alpha$ (skat. 21.att.). Tā kā trijstūra 
 $ABM$ virsotnes leņķis $\sphericalangle ABM=180^{\circ}-4 \alpha$, tad 
-$\sphericalangle ABK=$ $2 \sphericalangle ABM=360^{\circ}-8 \alpha$. levērojam,
+$\sphericalangle ABK=$ $2 \sphericalangle ABM=360^{\circ}-8 \alpha$. Ievērojam,
 ka
 
 - $\sphericalangle AKB=\frac{1}{2}\left(180^{\circ}-\sphericalangle BAK\right)=\frac{180^{\circ}-\alpha}{2}$;
@@ -613,7 +613,7 @@ $K$ ir naturāls skaitlis). Kādai lielākajai $K$ vērtībai tas ir iespējams
 
 Lielākā iespējamā $K$ vērtība ir $3n-1$.
 
-Pieņemsim pretējo, ka $K \geq \frac{6n}{2}=3 n$. levērojam, ka katrai tabulas 
+Pieņemsim pretējo, ka $K \geq \frac{6n}{2}=3 n$. Ievērojam, ka katrai tabulas 
 rūtiņai ir vismaz divas blakus rūtiņas (blakus rūtiņas ir rūtiņas, kurām ir 
 kopīga mala), un aplūkojam to rūtiņu, kurā ierakstīts skaitlis $3n$. Šim 
 skaitlim tikai viens no tabulā ierakstītajiem skaitļiem var nodrošināt 
@@ -706,7 +706,7 @@ $\frac{1}{1 \cdot 3}+\frac{1}{3 \cdot 5}+\frac{1}{5 \cdot 7}+\ldots+\frac{1}{201
 
 ## Atrisinājums
 
-levērojam, ka visiem naturāliem skaitļiem $n$ izpildās vienādība 
+Ievērojam, ka visiem naturāliem skaitļiem $n$ izpildās vienādība 
 $\frac{1}{(2n-1)(2n+1)}=\frac{1}{2}\left(\frac{1}{2n-1}-\frac{1}{2n+1}\right)$.
 Tāpēc pierādāmās vienādības kreisās puses izteiksmi var pārveidot formā:
 
@@ -715,7 +715,7 @@ $$\begin{aligned}
 & =\frac{1}{2}\left(\frac{1}{1}-\frac{1}{3}+\frac{1}{3}-\frac{1}{5}+\frac{1}{5}-\frac{1}{7}+\cdots+\frac{1}{2019}-\frac{1}{2021}\right)
 \end{aligned}$$
 
-levērojam, ka šajā izteiksmē parādās pretēji skaitļi, kuru summa ir $0$, līdz 
+Ievērojam, ka šajā izteiksmē parādās pretēji skaitļi, kuru summa ir $0$, līdz 
 ar to pēc vienkāršošanas paliek tikai divi saskaitāmie $\frac{1}{1}$ un 
 $\left(-\frac{1}{2021}\right)$, tātad
 
@@ -755,7 +755,7 @@ $\frac{AB}{AC}=\frac{\frac{5}{2} CD}{\frac{1}{2} CD}=5$.
 
 Apzīmējam $O_{1}D=O_{1}A=R$ un $O_{2}A=O_{2}C=r$, kur $O_{1}$ un $O_{2}$ ir 
 attiecīgi riņķa līniju $\omega_{1}$ un $\omega_{2}$ centri (skat. 23.att.). 
-levērojam, ka $BC=AB-AC=2R-2r, \quad O_{1}C=O_{1}A-AC=R-2r$ un simetrijas dēļ
+Ievērojam, ka $BC=AB-AC=2R-2r, \quad O_{1}C=O_{1}A-AC=R-2r$ un simetrijas dēļ
 $CD=\frac{1}{2} BC=R-r$. Pēc Pitagora teorēmas taisnleņķa trijstūrī $O_{1}CD$ 
 iegūstam, ka $CD^{2}=O_{1}D^{2}-O_{1}C^{2}$. Līdz ar to esam ieguvuši 
 vienādojumu
@@ -859,7 +859,7 @@ ierakstīto skaitļu summa ir $N^{2} \cdot N=N^{3}$.
 
 ## Atrisinājums
 
-levērojam, ka vismazākā ir pirmajā rindā ierakstīto skaitļu summa, bet katrā 
+Ievērojam, ka vismazākā ir pirmajā rindā ierakstīto skaitļu summa, bet katrā 
 nākamajā tā ir par $N$ lielāka nekā iepriekšējā rindā. Ja pirmās rindas skaitļu
 summa ir $s=1+2+\cdots+N$, tad otrās rindas skaitļu summa ir $(s+N)$, trešās 
 rindas skaitļu summa ir $(s+2 N), \ldots$, pēdējās rindas skaitļu summa ir 
@@ -967,7 +967,7 @@ ka $\frac{AB}{AC}=4$.
 
 Apzīmējam $O_{1}D=O_{1}A=R$ un $O_{2}A=O_{2}C=r$, kur $O_{1}$ un $O_{2}$ ir 
 attiecīgi riņķa līniju $\omega_{1}$ un $\omega_{2}$ centri (skat. 27.att.). 
-levērojam, ka $O_{1}C=O_{1}A-AC=R-2r$ un $O_{2}B=AB-AO_{2}=2R-r$. Pēc Pitagora 
+Ievērojam, ka $O_{1}C=O_{1}A-AC=R-2r$ un $O_{2}B=AB-AO_{2}=2R-r$. Pēc Pitagora 
 teorēmas taisnleņķa trijstūrī $O_{1}CD$ un $BFO_{2}$ iegūstam
 
 - $CD^{2}=O_{1}D^{2}-O_{1}C^{2}=R^{2}-(R-2r)^{2}=4Rr-4r^{2}$;
@@ -1069,7 +1069,7 @@ vērtību ir bezgalīgi daudz.
 
 ## Atrisinājums
 
-levērojam, ka vismazākā skaitļu summa ir pirmajā rindā, bet katrā nākamajā 
+Ievērojam, ka vismazākā skaitļu summa ir pirmajā rindā, bet katrā nākamajā 
 rindā summa ir tieši par $2N$ lielāka. Ja pirmās rindas rūtiņās ierakstīto 
 skaitļu summa ir $s$, tad otrajā rindā skaitļu summa ir $s+2N$, trešajā rindā 
 skaitļu summa ir $s+4N, \ldots$, pēdējā rindā skaitļu summa ir $s+2(N-1)N$. 
@@ -1207,7 +1207,7 @@ teorēmas $\triangle O_{1}EO_{2}$ iegūstam
 
 $$O_{1}E^{2}=\left(O_{1}O_{2}\right)^{2}-O_{2}E^{2}=(r+R)^{2}-(R-r)^{2}=4Rr.$$
 
-levērojam, ka $AB^{2}=O_{1}E^{2}=O_{2}F^{2}=4Rr$ un $O_{2}E=FO_{1}=R-r$. Tātad 
+Ievērojam, ka $AB^{2}=O_{1}E^{2}=O_{2}F^{2}=4Rr$ un $O_{2}E=FO_{1}=R-r$. Tātad 
 $CF=CO_{1}-FO_{1}=r-(R-r)=2r-R$ un pēc Pitagora teorēmas $\triangle CFO_{2}$ 
 iegūstam
 
@@ -1267,7 +1267,7 @@ n^{3}=n^{3}-3n^{2}+3n-1+n^{3}-6n^{2}+12n-8+n^{3}-9n^{2}+27n-27 \\
 n^{3}-9n^{2}+21n-18=0
 \end{gathered}$$
 
-levērojam, ka $6^{3}=5^{3}+4^{3}+3^{3}$, tātad $n=6$ ir dotā vienādojuma sakne 
+Ievērojam, ka $6^{3}=5^{3}+4^{3}+3^{3}$, tātad $n=6$ ir dotā vienādojuma sakne 
 un vienādojumu $n^{3}-9n^{2}+21n-18=0$ var pārveidot formā (izdalot polinomu ar
 binomu $(n-6)$ ):
 
@@ -1296,7 +1296,7 @@ $x_{n}=2^{n}+3^{n}-4^{n}$ visiem naturāliem $n$.
 
 ## Atrisinājums
 
-Izmantosim matemātiskās indukcijas metodi.
+Izmantossim matemātiskās indukcijas metodi.
 
 $\textit{Indukcijas bāze.}$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
 $x_{2}=2^{2}+3^{2}-4^{2}=-3$. Ja $n=3$, tad $x_{3}=2^{3}+3^{3}-4^{3}=-29$.
@@ -1384,9 +1384,9 @@ $\sphericalangle BFC=\sphericalangle BEA$. Tātad
 $\sphericalangle BEA=\sphericalangle BFC=\sphericalangle AFE$, tāpēc 
 $\triangle FAE$ ir vienādsānu trijstūris un $\boldsymbol{AE}=\boldsymbol{AF}$.
 
-levērojam, ka $\sphericalangle EGA=\sphericalangle CDA$ kā kāpšļu leņķi pie 
+Ievērojam, ka $\sphericalangle EGA=\sphericalangle CDA$ kā kāpšļu leņķi pie 
 paralēlām taisnēm $EG$ un $CD$. Tā kā trijstūris $ABD$ ir vienādsānu, tad 
-$\sphericalangle BDA=\sphericalangle BAD$. levērojam, ka 
+$\sphericalangle BDA=\sphericalangle BAD$. Ievērojam, ka 
 $\sphericalangle ABC=\sphericalangle BAD+\sphericalangle BDA$ kā trijstūra 
 $ABD$ ārējais leņķis, tātad $\sphericalangle 2FBA=\sphericalangle BAD$ jeb 
 $\sphericalangle BAD=\sphericalangle FBA$. Līdz ar to 
@@ -1507,7 +1507,7 @@ Apskatām, kādi atlikumi rodas, ja naturāla skaitļa kvadrātu dala ar $13$.
 | $12$          | $1$               |
 
 Tā kā pēc dotā $x^{2}+y^{2}+1$ dalās ar $13$, tad secinām, ka 
-$x^{2}+y^{2}=12(\bmod 13)$. levērojam, ka ir tikai divi skaitļa kvadrātu 
+$x^{2}+y^{2}=12(\bmod 13)$. Ievērojam, ka ir tikai divi skaitļa kvadrātu 
 atlikumu pāri, kas summā dod $12$, tie ir $(0; 12)$ vai $(3; 9)$.
 
 **a)** Apskatot abus gadīumus, redzams, ka nevienā no tiem $x^{2}-y^{2}$ 

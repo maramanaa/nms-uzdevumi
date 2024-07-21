@@ -219,8 +219,8 @@ Novelkam $CO \perp AB$ un $DK \perp AB$. Tā kā loki $AD, DE$ un $EB$ ir vienā
 tad katrs no tiem ir $60^{\circ}$ un $\sphericalangle BAD=60^{\circ}$ kā 
 ievilktais leņķis, kas balstās uz loku $DB$.
 
-levērojam, ka $O$ ir gan regulārā trijstūra $ABC$ augstuma pamats, gan pusriņķa
-līnijas centrs. legūstam, ka $AO=OB=O D=\frac{1}{2} AB=\frac{a}{2}$. levērojam, 
+Ievērojam, ka $O$ ir gan regulārā trijstūra $ABC$ augstuma pamats, gan pusriņķa
+līnijas centrs. legūstam, ka $AO=OB=O D=\frac{1}{2} AB=\frac{a}{2}$. Ievērojam, 
 ka trijstūris $AOD$ ir regulārs, jo tas ir vienādsānu trijstūris, kam leņķis 
 pie pamata ir $60^{\circ}$. Tā kā punkts $K$ ir šī regulārā trijstūra augstuma 
 pamats, tad $AK=KO=\frac{AO}{2}=\frac{a}{4}$.
@@ -232,7 +232,7 @@ Trijstūri $MOC$ un $MKD$ ir līdzīgi pēc pazīmes $\ell \ell$ (vienādi taisn
 leņķi un krustleņķi). Tā kā līdzīgos trijstūros atbilstošās malas ir 
 proporcionālas un $\frac{CO}{KD}=2$, tad arī $\frac{OM}{MK}=2$ jeb $OM=2MK$.
 
-levērojam, ka $KO=OM+MK=3MK=\frac{a}{4}$, no kurienes $MK=\frac{a}{12}$.
+Ievērojam, ka $KO=OM+MK=3MK=\frac{a}{4}$, no kurienes $MK=\frac{a}{12}$.
 
 Tātad $AM=AK+MK=\frac{a}{4}+\frac{a}{12}=\frac{a}{3}$.
 
@@ -254,7 +254,7 @@ ar $13$ un kura ciparu summa ir $K$.
 
 Apskatām divus gadījumus.
 
-- Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. levērojam, 
+- Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. Ievērojam, 
   ka $1001$ dalās ar $13$ (jo $1001=13 \cdot 77$) un tā ciparu summa ir $2$. 
   Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes $(100110011001\ldots )$, 
   iegūsim $(4n)$-ciparu skaitli, kura ciparu summa ir $2n$ un kurš dalās ar $13$.
@@ -321,7 +321,7 @@ S=\sqrt{p\left(p^{3}-(a+b+c)p^{2}+(ab+ac+bc)p-abc\right)}= \\
 ## Atrisinājums
 
 Atradīsim trijstūra malu garumus. Ja tie ir naturāli skaitļi, tad tiem jābūt 
-brīvā locekla $2040$ dalītājiem. levērojot, ka 
+brīvā locekla $2040$ dalītājiem. Ievērojot, ka 
 $2040=2^{3} \cdot 3 \cdot 5 \cdot 17$, var uzminēt sakni, piemēram, $x=17$.
 
 Sagrupējot vienādojuma locekļus, iegūstam arī pārējās saknes:
@@ -554,7 +554,7 @@ S= & \sqrt{p\left(p^{3}-(a+b+c)p^{2}+(ab+ac+bc)p-abc\right)}= \\
 ## Atrisinājums
 
 Atradīsim trijstūra malu garumus. Ja kāds no tiem ir racionāls skaitlis, tad 
-tas ir skaitļa $3480$ dalītājs. levērojot, ka 
+tas ir skaitļa $3480$ dalītājs. Ievērojot, ka 
 $3480=2^{3} \cdot 3 \cdot 5 \cdot 29$, uzminam vienu sakni $x=24$.
 
 Sagrupējot vienādojuma locekļus, iegūstam:
@@ -662,7 +662,7 @@ Apskatīsim divus gadījumus, kādā secībā var būt izkārtoti punkti uz tais
   $EF^{\prime}$ ir trijstūra $GBC^{\prime}$ viduslīnija, tad 
   $EF^{\prime}=\frac{BC^{\prime}}{2}=\frac{BC+HG}{2}$. legūstam, ka 
   $EF=EF^{\prime}-FF^{\prime}=\frac{BC+HG}{2}-HG=\frac{BC-HG}{2}$. 
-  levērojam, ka $HG=AG+DH-AD=AB+DC-AD$. Tātad $EF=\frac{AD+BC-AB-CD}{2}$.
+  Ievērojam, ka $HG=AG+DH-AD=AB+DC-AD$. Tātad $EF=\frac{AD+BC-AB-CD}{2}$.
 - Skat. 9.att. legūstam, ka 
   $EF=\frac{BC+HG}{2}=\frac{BC+AD-AG-DH}{2}=\frac{AD+BC-AB-CD}{2}$.
 
