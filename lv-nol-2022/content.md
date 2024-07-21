@@ -2,15 +2,15 @@
 
 Kā sadalīt $10$ virtuļus $12$ bērniem vienādās daļās tā, lai katrs virtulis tiktu
 sadalīts ne vairāk kā $3$ daļās?
-
+ 
 <small>
 
 * questionType:
 * domain:
 
 </small>
-
-
+ 
+ 
 ## Atrisinājums
 
 Tā kā $10$ virtuļi jāsadala $12$ vienādās daļās, tad katram bērnam

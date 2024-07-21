@@ -31,11 +31,10 @@ $ \left\{ \begin{array}{l}
 \end{array} \right.$
 
 $\textit {Piezīme.}$  
-\textit{Piezīme.}  
-\emph {Piezīme.}  
-\textit{Piezīme}  
-\mathbf {Piezīme.}  
-/textit {Piezīme.}  
+$\textit{Piezīme.}$  
+$\emph {Piezīme.}$  
+$\textit{Piezīme}$     
+$Piezīme.$
 
 $AB \| BC$  AB \| BC  
 $AB \parallel BC$  
@@ -46,5 +45,12 @@ $AB\|BC$  AB\|BC
 $\left.A, F_{3}, E_{3}, D\right. $
 $\left A, F_{3}, E_{3}, D\right.$
 
->>>>>>> d6c08516d70c0af8dbbc9f55294147f2f5465165
+$a_{1}=8(\mathrm{~m})$ un $d=8(\mathrm{~m})$  
+$a_{1}=8 (~\mathrm{m})$ un $d=8 (~\mathrm{m})$  
+$a_{1}=8~\mathrm{(m)}$ un $d=8~\mathrm{(m)}$  
+
+|  | 4. reize | 3. reize | 2. reize | 1. reize |
+| :--- | :---: | :---: | :---: | :---: |
+| Uzlīmju skaits pirms <br> apmaiņas | $12+28=40$ | $20+28=48$ | $24+28=52$ | $26+28=54$ |
+| Uzlīmju skaits, ejot uz <br> veikalu | $40:2=20$ | $48:2=24$ | $52:2=26$ | $54:2=27$ |
 

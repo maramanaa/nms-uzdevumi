@@ -92,7 +92,7 @@ ar $7$ un kura ciparu summa ir $K$.
 # <lo-sample/> LV.VOL.2022.9.4
 
 Ziņkārīgs tūrists vēlas pastaigāties pa pilsētas ielām (plānā attēlotas kā 
-rūtiņu malas) no krustojuma $\mathrm{A}$ līdz krustojumam B (skat. 2.att.), 
+rūtiņu malas) no krustojuma $A$ līdz krustojumam $B$ (skat. 2.att.), 
 veicot pēc iespējas garāku ceļojumu un neatgriežoties nevienā krustojumā 
 vairākas reizes. Kāds ir lielākais iespējamais ceļojuma garums, ja uzskatām, 
 ka vienas rūtiņas mala ir vienu vienību gara?
@@ -114,9 +114,9 @@ parādīts 3.att.
 
 Pierādīsim, ka lielāks ceļojuma garums nav iespējams. Atzīmēsim katru otro 
 krustojumu ar melnu aplīti (skat. 4.att.). Ievērosim, ka ik pēc diviem veiktiem
-posmiem ceļotājs nonāk atzīmētajā krustpunktā. Tā kā sākumpunkts A ir atzīmēts 
+posmiem ceļotājs nonāk atzīmētajā krustpunktā. Tā kā sākumpunkts $A$ ir atzīmēts 
 un atzīmētu krustpunktu kopā ir $21$, tad apmeklēšanai atliek vairs tikai $20$ 
-atzīmētu krustpunktu (ieskaitot B). Tātad ceļojums beigsies punktā B pēc ne 
+atzīmētu krustpunktu (ieskaitot $B$). Tātad ceļojums beigsies punktā $B$ pēc ne 
 vairāk kā $2 \cdot 20=40$ posmiem.
 ![](LV.VOL.2022.9.4A.png)
 
@@ -219,8 +219,8 @@ Novelkam $CO \perp AB$ un $DK \perp AB$. Tā kā loki $AD, DE$ un $EB$ ir vienā
 tad katrs no tiem ir $60^{\circ}$ un $\sphericalangle BAD=60^{\circ}$ kā 
 ievilktais leņķis, kas balstās uz loku $DB$.
 
-levērojam, ka $O$ ir gan regulārā trijstūra $ABC$ augstuma pamats, gan pusriņķa
-līnijas centrs. legūstam, ka $AO=OB=O D=\frac{1}{2} AB=\frac{a}{2}$. levērojam, 
+Ievērojam, ka $O$ ir gan regulārā trijstūra $ABC$ augstuma pamats, gan pusriņķa
+līnijas centrs. legūstam, ka $AO=OB=O D=\frac{1}{2} AB=\frac{a}{2}$. Ievērojam, 
 ka trijstūris $AOD$ ir regulārs, jo tas ir vienādsānu trijstūris, kam leņķis 
 pie pamata ir $60^{\circ}$. Tā kā punkts $K$ ir šī regulārā trijstūra augstuma 
 pamats, tad $AK=KO=\frac{AO}{2}=\frac{a}{4}$.
@@ -232,7 +232,7 @@ Trijstūri $MOC$ un $MKD$ ir līdzīgi pēc pazīmes $\ell \ell$ (vienādi taisn
 leņķi un krustleņķi). Tā kā līdzīgos trijstūros atbilstošās malas ir 
 proporcionālas un $\frac{CO}{KD}=2$, tad arī $\frac{OM}{MK}=2$ jeb $OM=2MK$.
 
-levērojam, ka $KO=OM+MK=3MK=\frac{a}{4}$, no kurienes $MK=\frac{a}{12}$.
+Ievērojam, ka $KO=OM+MK=3MK=\frac{a}{4}$, no kurienes $MK=\frac{a}{12}$.
 
 Tātad $AM=AK+MK=\frac{a}{4}+\frac{a}{12}=\frac{a}{3}$.
 
@@ -254,7 +254,7 @@ ar $13$ un kura ciparu summa ir $K$.
 
 Apskatām divus gadījumus.
 
-- Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. levērojam, 
+- Ja $K$ ir pāra skaitlis, tas ir, $K=2 n$, kur $n \in \mathbb{N}$. Ievērojam, 
   ka $1001$ dalās ar $13$ (jo $1001=13 \cdot 77$) un tā ciparu summa ir $2$. 
   Uzrakstot skaitli $1001$ rindā aiz sevis $n$ reizes $(100110011001\ldots )$, 
   iegūsim $(4n)$-ciparu skaitli, kura ciparu summa ir $2n$ un kurš dalās ar $13$.
@@ -321,7 +321,7 @@ S=\sqrt{p\left(p^{3}-(a+b+c)p^{2}+(ab+ac+bc)p-abc\right)}= \\
 ## Atrisinājums
 
 Atradīsim trijstūra malu garumus. Ja tie ir naturāli skaitļi, tad tiem jābūt 
-brīvā locekla $2040$ dalītājiem. levērojot, ka 
+brīvā locekla $2040$ dalītājiem. Ievērojot, ka 
 $2040=2^{3} \cdot 3 \cdot 5 \cdot 17$, var uzminēt sakni, piemēram, $x=17$.
 
 Sagrupējot vienādojuma locekļus, iegūstam arī pārējās saknes:
@@ -345,7 +345,7 @@ Holivudas diētā katrās septiņās secīgās dienās kopā jāapēd tieši tr�
 tieši pieci sieriņi "Kārums". Kādu lielāko secīgu dienu skaitu var ievērot abas
 diētas vienlaicīgi?
 
-$Piezīme.$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
+$\textit {Piezīme.}$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
 
 <small>
 
@@ -453,7 +453,7 @@ $\sphericalangle M_{1} B_{1} C_{1}=\sphericalangle M_{2} B_{2} C_{2}$.
 
 Tātad $\sphericalangle A_{1} B_{1} C_{1}=\sphericalangle A_{1} B_{1} M_{1}+\sphericalangle M_{1} B_{1} C_{1}=\sphericalangle A_{2} B_{2} M_{2}+\sphericalangle M_{2} B_{2} C_{2}=\sphericalangle A_{2} B_{2} C_{2}$, 
 no kā izriet, ka trijstūri $A_{1} B_{1} C_{1}$ un $A_{2} B_{2} C_{2}$ ir 
-vienādi pēc pazīmes $\mathrm{m \ell m}$. Lemma pierādīta.
+vienādi pēc pazīmes $m \ell m$. Lemma pierādīta.
 
 Tagad dotajā uzdevumā vidusperpendikulu krustpunktu apzīmēsim ar $P$ 
 (skat. 7.att.). Trijstūri $PBA$ un $PCD$ ir vienādi pēc iepriekš pierādītās 
@@ -496,7 +496,7 @@ Tas nozīmē, ka uz lapas var iegūt tikai tādus skaitļus, kas dod atlikumu $1
 dalot ar $3$. Tā kā $2022$ dalās ar $3$ (bez atlikuma), tad aprakstītajā veidā 
 šo skaitli uz lapas iegūt nevar.
 
-$Piezīme.$ Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
+$\textit {Piezīme.}$ Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
 
 
 # <lo-sample/> LV.VOL.2022.11.4
@@ -554,7 +554,7 @@ S= & \sqrt{p\left(p^{3}-(a+b+c)p^{2}+(ab+ac+bc)p-abc\right)}= \\
 ## Atrisinājums
 
 Atradīsim trijstūra malu garumus. Ja kāds no tiem ir racionāls skaitlis, tad 
-tas ir skaitļa $3480$ dalītājs. levērojot, ka 
+tas ir skaitļa $3480$ dalītājs. Ievērojot, ka 
 $3480=2^{3} \cdot 3 \cdot 5 \cdot 29$, uzminam vienu sakni $x=24$.
 
 Sagrupējot vienādojuma locekļus, iegūstam:
@@ -648,7 +648,7 @@ ar $AD$ - ar $H$ (skat. 8.att.).
 Tā kā $\sphericalangle ABC+\sphericalangle BAD=180^{\circ}$, tad 
 $\sphericalangle BAE+\sphericalangle ABE=90^{\circ}$ un no trijstūra $ABE$ iegūstam, ka 
 $\sphericalangle AEB=180^{\circ}-90^{\circ}=90^{\circ}$. Tad 
-$\triangle AEB=\triangle AEG$ pēc pazīmes $\ell \mathrm{m \ell}$ un $AB=AG$ 
+$\triangle AEB=\triangle AEG$ pēc pazīmes $\ell m \ell$ un $AB=AG$ 
 kā atbilstošās malas vienādos trijstūros. Analoǵiski pierāda, ka $DC=DH$.
 
 No tā, ka $BE=EG$ un $CF=FG$ izriet, ka $EF || BC$ un $EF || AD$ (caur punktu 
@@ -662,7 +662,7 @@ Apskatīsim divus gadījumus, kādā secībā var būt izkārtoti punkti uz tais
   $EF^{\prime}$ ir trijstūra $GBC^{\prime}$ viduslīnija, tad 
   $EF^{\prime}=\frac{BC^{\prime}}{2}=\frac{BC+HG}{2}$. legūstam, ka 
   $EF=EF^{\prime}-FF^{\prime}=\frac{BC+HG}{2}-HG=\frac{BC-HG}{2}$. 
-  levērojam, ka $HG=AG+DH-AD=AB+DC-AD$. Tātad $EF=\frac{AD+BC-AB-CD}{2}$.
+  Ievērojam, ka $HG=AG+DH-AD=AB+DC-AD$. Tātad $EF=\frac{AD+BC-AB-CD}{2}$.
 - Skat. 9.att. legūstam, ka 
   $EF=\frac{BC+HG}{2}=\frac{BC+AD-AG-DH}{2}=\frac{AD+BC-AB-CD}{2}$.
 
@@ -698,7 +698,7 @@ $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}+E_{1}F_{1}+F_{1}C+AE_{3}+E_{3}F_{3}+F_{3}D-
 
 $$\frac{BC+AD-AB-CD}{2}=\frac{BE_{1}-E_{1}F_{1}+F_{1}C+AE_{3}-E_{3}F_{3}+F_{3}D-BE_{2}-E_{2}A-CF_{2}-F_{2}D}{2}=\frac{E_{1}F_{1}+E_{3}F_{3}}{2}=EF$$
 
-![](LV.VOL.2022.10.2B.png)
+![](LV.VOL.2022.10.2B.png) 
 
 
 # <lo-sample/> LV.VOL.2022.12.3
@@ -747,8 +747,8 @@ $(n-(k-1))^{3}+(n+(k-1))^{3}$ dalās ar $n-k+1+n+k-1=2n$
 Tā kā visas šīs summas dalās ar $2n$, un vidējais saskaitāmais $n^{3}$ dalās 
 ar $n$, tad arī visu $(2k+1)$ kubu summa dalās ar $n$, līdz ar to nav pirmskaitlis.
 
-$Piezīme.$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
-
+$\textit {Piezīme.}$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
+ 
 
 # <lo-sample/> LV.VOL.2022.12.4
 

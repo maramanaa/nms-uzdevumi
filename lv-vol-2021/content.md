@@ -209,14 +209,14 @@ Tātad $S+49=\cdots 25$ un tas nozīmē, ka $S$ decimālais pieraksts beidzas
 ar $76$.
 
 
-
+ 
 # <lo-sample/> LV.VOL.2021.10.2.
 
 Dota ģeometriskā progresija $x_{1}; x_{2}; x_{3}; x_{4}; x_{5}; x_{6}$, kuras 
 locekļi ir pozitīvi skaitļi. Zināms, ka $x_{4}+x_{3}-x_{2}-x_{1}=3$. Pierādīt, 
 ka $x_{5}+x_{6} \geq 12$.
 
-$Piezīme.$ Ģeometriskā progresija ir skaitļu virkne, kuras pirmais loceklis ir 
+$\textit {Piezīme.}$ Ģeometriskā progresija ir skaitļu virkne, kuras pirmais loceklis ir 
 $x_{1}$ un katru nākamo virknes locekli iegūst, iepriekšēo reizinot ar kādu 
 fiksētu skaitli $q$, tas ir, $x_{2}=qx_{1}, x_{3}=qx_{2}$ utt.
 
@@ -229,7 +229,7 @@ fiksētu skaitli $q$, tas ir, $x_{2}=qx_{1}, x_{3}=qx_{2}$ utt.
 
 ## Atrisinājums
 
-Apzīmēsim ģeometriskās progresijas kvocientu ar $q$. levērojam, ka $q$ ir 
+Apzīmēsim ģeometriskās progresijas kvocientu ar $q$. Ievērojam, ka $q$ ir 
 pozitīvs skaitlis un nav vienāds ar $1$ (citādi progresija būtu konstanta un 
 nevarētu izpildīties $x_{4}+x_{3}-x_{2}-x_{1}=3$ ).
 
@@ -273,7 +273,7 @@ garuma, tad $P_{1}$ un $P_{2}$ ir atšķirīgi punkti.
 Tad $\sphericalangle CP_{1}D=90^{\circ}$, jo $\triangle BCP_{1}$ un 
 $\triangle ADP_{1}$ ir vienādsānu taisnleņķa trijstūri.
 
-$\triangle BCP_{2}=\triangle ADP_{2}$, pēc pazīmes $mlm$ , jo 
+$\triangle BCP_{2}=\triangle ADP_{2}$, pēc pazīmes $m \ell m$ , jo 
 $\sphericalangle CBP_{2}=\sphericalangle P_{2}AD=90^{\circ}, BP_{2}=AD$ un 
 $BC=AP_{2}$. Tātad arī $\sphericalangle CP_{2}D=90^{\circ}$ un ap četrstūri 
 $P_{1}CDP_{2}$ var apvilkt riņķa līniju, kuras diametrs ir $CD$.
@@ -341,7 +341,7 @@ pirmajā rindā!
 
 ## Atrisinājums
 
-levērosim, ka no divām 6.att. figūrām var salikt $2 \times 7$ rūtiņu 
+Ievērosim, ka no divām 6.att. figūrām var salikt $2 \times 7$ rūtiņu 
 taisnstūri, skaitļu summa šajā taisnstūrī ir $2$. Visu tabulu $19 \times 14$ 
 var noklāt ar šādiem $19$ šādiem taisnstūriem (pirmās $7$ rindas noklāj, liekot
 tos vertikāli, pārējās $12$ rindas noklāj pa pāriem, liekot tos blakus 
@@ -367,7 +367,7 @@ Pierādìt, ka $\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=2$.
 
 ## Atrisinājums
 
-levērosim, ka $(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
+Ievērosim, ka $(\sqrt{3}+1)^{3}=6 \sqrt{3}+10$ un 
 $(\sqrt{3}-1)^{3}=6 \sqrt{3}-10$. Līdz ar to
 
 $$\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=(\sqrt{3}+1)-(\sqrt{3}-1)=2$$
@@ -434,7 +434,7 @@ Apzīmēsim skaitļa $x$ ciparu summu ar $S(x)$. Pierādīsim, ka, ja $A$ ir
 elegants, tad arī $\overline{AAA}$ (skaitlis, kas sastāv no trim pēc kārtas 
 uzrakstītiem skaitļiem $A$ ) ir elegants.
 
-levērosim, ka, ja $A$ ir $n$-ciparu skaitlis, tad 
+Ievērosim, ka, ja $A$ ir $n$-ciparu skaitlis, tad 
 $\overline{AAA}=A \cdot\left(1+10^{n}+10^{2n}\right)$ un 
 $S(\overline{AAA})=3S(A)$. Tā kā $A$ dalās ar $S(A)$ pēc pieņēmuma, ka $A$ ir 
 elegants, tad atliek pamatot, ka $1+10^{n}+10^{2n}$ dalās ar $3$, bet tas ir 
@@ -519,7 +519,7 @@ Kopējais visas figūras laukums ir
 
 $$S_{visa}=1+2+\cdots+(2n-1)=\frac{2n(2n-1)}{2}=n(2n-1)$$
 
-Puse no $S_{\text {visa }}$ ir $\frac{n(2n-1)}{2}$, kas sakrīt ar aprēķināto 
+Puse no visa ir $\frac{n(2n-1)}{2}$, kas sakrīt ar aprēķināto 
 $S_{\text {zemOP }}$. Tātad, ja $k$ ir nepāra skaitlis, tad figūras laukumu 
 vienlielās daļās sadalošais stars iet caur kvadrāta virsotni.
 
@@ -582,7 +582,7 @@ Agita ir iedomājusies naturālu skaitli $x$, kura ciparu summa ir $2021$, un
 Konstantīns cenšas skaitli uzminēt. Vienā gājienā Konstantīns nosauc patvaļīgu 
 naturālu skaitli $a$, un Agita viņam pasaka skaitļa $|x-a|$ ciparu summu. Kāds 
 ir mazākais gājienu skaits, ar kuru Konstantīnam noteikti pietiek, lai uzzinātu
-Agitas iedomāto skaitli?
+Agitas iedomāto skaitli? 
 
 <small>
 
@@ -649,7 +649,7 @@ nogriežņi $BE$ un $CD$ ir perpendikulāri!
 Caur $BE$ un $CD$ krustpunktu $O$ novelk nogriezni $AF$, kur $F$ atrodas uz 
 $BC$ (skat. 12.att.). Pēc Čevas teorēmas 
 $\frac{CF}{BF}=\frac{CE}{AE} \cdot \frac{AD}{DB}=2$ jeb $CF=10$ un $BF=5$. 
-Tātad $\triangle BCD=\triangle ACF$ pēc pazīmes $mlm$. Attiecīgi 
+Tātad $\triangle BCD=\triangle ACF$ pēc pazīmes $m \ell m$. Attiecīgi 
 $\sphericalangle BDC=\sphericalangle AFC$ un 
 $\sphericalangle BDC+\sphericalangle AFB=180^{\circ}$, no kurienes izriet, ka 
 četrstūrim $BDOF$ var apvilkt riņķa līniju.
@@ -693,9 +693,9 @@ uzdevuma nosacījumiem. Tādā veidā mēs varam iegūt jaunu skaitļu pāri $(a
 kurš atbilst uzdevuma nosacījumiem un kurā vismaz viens no skaitļiem nedalās ar
 $19$.
 
-levērosim, ka pēc mazās Fermā teorēmas, ja $x$ nedalās ar $19$, tad 
+Ievērosim, ka pēc mazās Fermā teorēmas, ja $x$ nedalās ar $19$, tad 
 $x^{18}=1(\bmod 19)$. Tātad katrs no trim summas locekļiem pēc moduļa $19$ ir 
-vai nu $0$, vai $1$. levērosim arī, ka, ja vismaz viens no skaitļiem $(a; b)$ 
+vai nu $0$, vai $1$. Ievērosim arī, ka, ja vismaz viens no skaitļiem $(a; b)$ 
 nedalās ar $19$, tad vismaz divi no trim skaitļiem $19a+b; a+b; a+19b$ nedalās 
 ar $19$. Līdz ar to šīs summas vērtība pēc moduļa $19$ ir vai nu $2$, vai $3$.
 

@@ -34,7 +34,7 @@ $$\frac{4a^{2}+7b^{2}}{ab}=\frac{4a^{2}+7(-2a)^{2}}{-2a^{2}}=\frac{4a^{2}+28a^{2
 Tātad izteiksmes $\frac{4a^{2}+7b^{2}}{ab}$ vērtība ir vai nu $16$ (ja 
 $a=\frac{7b}{2}$), vai $-16$ (ja $b=-2a$).
 
-$Piezīme.$ Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
+$\textit {Piezīme.}$ Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
 puses izteiksmes skaitītāja katru saskaitāmo izdalot ar $ab$, apzīmējot 
 $\frac{a}{b}=x$ un atrisinot iegūto vienādojumu 
 $4 \frac{a}{b}-7 \frac{b}{a}=12$ jeb $4 x-\frac{7}{x}=12$.
@@ -56,14 +56,14 @@ ja $S(AMP)=S(BNP)=8$ un $S(NMP)=4$.
 
 ## Atrisinājums
 
-levērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
+Ievērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir 
 kopīga mala $MN$, tāpēc augstumi, kas no virsotnēm $A$ un $B$ novilkti pret šo 
 malu $MN$, ir vienādi jeb punkti $A$ un $B$ atrodas vienādā attālumā no 
 nogriežņa $MN$. Tātad $MN \parallel AB$. Apskatām attiecību
 
 $$\frac{S(MNP)}{S(PNB)}=\frac{\frac{1}{2} MP \cdot h_{MP}}{\frac{1}{2} BP \cdot h_{BP}}$$
 
-levērojot, ka $h_{MP}=h_{BP}$, iegūstam 
+Ievērojot, ka $h_{MP}=h_{BP}$, iegūstam 
 $\frac{MN}{AB}=\frac{MP}{BP}=\frac{4}{8}=\frac{1}{2}$.
 
 Trijstūri $MPN$ un $BPA$ ir līdzīgi pēc pazīmes $\ell \ell$, jo 
@@ -104,7 +104,7 @@ Vai naturāla skaitļa kvadrāta ciparu summa var būt **a)** $19$, **b)** $2019
 
 **a)** Jā, var, piemēram, $17^{2}=289$ un $2+8+9=19$.
 
-$Piezīme.$ Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
+$\textit {Piezīme.}$ Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
 kongruents ar $1(\bmod 9)$, tātad paši skaitļi ir $\pm 1$ $(\bmod 9)$. Der arī 
 skaitļi $26, 28, 37, 44, 53, 62, 64, 73, 82, 89, 91$, utt.
 
@@ -211,8 +211,8 @@ Visus nepāra skaitļus, kas lielāki nekā $100$, var izteikt kā summu $(3+p)$
 kur $p$ ir pāra skaitlis, kas lielāks nekā $98$, tātad $p$ ir salikts skaitlis.
 Saskaitāmie $2$ un attiecīgi $3$ ir pirmskaitļi.
 
-$Piezīme.$ Minētā īpašība ir spēkā visiem naturāliem skaitļiem, kas lielāki 
-nekā $5$.
+$\textit {Piezīme.}$ Minētā īpašība ir spēkā visiem naturāliem skaitļiem, kas 
+lielāki nekā $5$.
 
 
 
@@ -280,7 +280,7 @@ vērtība nav naturāla skaitļa kvadrāts!
 
 ## Atrisinājums
 
-levērojam, ka naturālu skaitli $n$, dalot ar $3$, var iegūt atlikumu $0, 1$ vai
+Ievērojam, ka naturālu skaitli $n$, dalot ar $3$, var iegūt atlikumu $0, 1$ vai
 $2$, un atrodam, kādu atlikumu var iegūt, ja $n^{2}$ dala ar $3$:
 
 - ja $n \equiv 0(\bmod 3)$, tad $n^{2} \equiv 0^{2} \equiv 0(\bmod 3)$;
@@ -293,8 +293,8 @@ Apskatot doto izteiksmi pēc moduļa $3$, iegūstam
 $13^{n}+7^{n}+2019 \equiv 1^{n}+1^{n}+0=1+1=2(\bmod 3)$. Tātad dotā izteiksme, 
 dalot ar $3$, dod atlikumu $2$, tātad tā nevar būt naturāla skaitļa kvadrāts.
 
-$Piezīme.$ Uzdevumu var atrisināt arī aplūkojot izteiksmi pēc jebkura skaitļa 
-$3$ daudzkārtņa moduļa, tas ir, $6, 9, 12$ utt.
+$\textit {Piezīme.}$ Uzdevumu var atrisināt arī aplūkojot izteiksmi pēc jebkura
+skaitļa $3$ daudzkārtņa moduļa, tas ir, $6, 9, 12$ utt.
 
 
 
@@ -392,8 +392,8 @@ katrām divām pilsētām ir augstākais viens reiss. Katrs reiss savieno tikai 
 pilsētas, pa ceļam nenolaižoties citās. Katrs reiss „darbojas" abos virzienos. 
 Reisus organizē $90$ aviokompānijas, katra aviokompānija organizē tieši $30$ 
 reisus. Ja kompānija organizē reisu starp kādām divām pilsētām (apzīmēsim tās 
-ar A un B), tad tai ir biroji gan pilsētā A, gan pilsētā B. Pierādīt, ka ir 
-tāda pilsēta, kurā ir vismaz $9$ biroji!
+ar $A$ un $B$), tad tai ir biroji gan pilsētā $A$, gan pilsētā $B$. Pierādīt, 
+ka ir tāda pilsēta, kurā ir vismaz $9$ biroji!
 
 <small>
 
@@ -412,7 +412,7 @@ $9 \cdot 90=810$. Ja katrā no $100$ pilsētām būtu ne vairāk kā $8$ biroji,
 kopā būtu ne vairāk kā $8 \cdot 100=800$ biroji, bet biroju kopskaits ir vismaz
 $810$. Tātad ir tāda pilsēta, kurā ir vismaz $9$ biroji.
 
-$Piezīme.$ Risinājumā izmantots Dirihlē princips.
+$\textit {Piezīme.}$ Risinājumā izmantots Dirihlē princips. 
 
 
 
@@ -432,7 +432,7 @@ kas apvilktas ap trijstūriem $AMD$ un $DNC$, pieskaras viena otrai!
 
 ## Atrisinājums
 
-Novelkam nogriezni $BD$ (skat. 8.att.). levērojam, ka 
+Novelkam nogriezni $BD$ (skat. 8.att.). Ievērojam, ka 
 $\sphericalangle DAC=\sphericalangle DBC$ kā ievilktie leņķi, kas balstās uz 
 viena un tā paša loka. Tā kā $DE \parallel BC$, tad 
 $\sphericalangle DBC=\sphericalangle BDM$ kā iekšējie škērsleņķi pie paralēlām 
@@ -469,7 +469,7 @@ $13^{n}+10^{n}+7^{n}+3^{n}$ vērtība nav naturāla skaitļa kvadrāts!
 
 ## Atrisinājums
 
-levērojam, ka naturālu skaitli $n$, dalot ar $4$, var iegūt atlikumu $0, 1, 2$ 
+Ievērojam, ka naturālu skaitli $n$, dalot ar $4$, var iegūt atlikumu $0, 1, 2$ 
 vai $3$, un atrodam, kādu atlikumu var iegūt, ja $n^{2}$ dala ar $4$:
 
 - ja $n \equiv 0(\bmod 4)$, tad $n^{2} \equiv 0^{2} \equiv 0(\bmod 4)$;
@@ -493,9 +493,9 @@ nekā $1$, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
 Tātad dotā izteiksme, dalot ar $4$, dod atlikumu $3$, tātad tā nevar būt 
 naturāla skaitļa kvadrāts.
 
-$Piezīme.$ legūt pretrunu var arī apskatot doto izteiksmi pēc moduļa $9$. Ja 
-$n=1$, tad atlikums, dalot ar $9$, ir $6$, ja $n$ ir lielāks nekā $1$, tad 
-atlikums, dalot ar $9$, ir $3$, bet naturālu skaitļu kvadrātu vērtības pēc 
+$\textit {Piezīme.}$ legūt pretrunu var arī apskatot doto izteiksmi pēc moduļa 
+$9$. Ja $n=1$, tad atlikums, dalot ar $9$, ir $6$, ja $n$ ir lielāks nekā $1$, 
+tad atlikums, dalot ar $9$, ir $3$, bet naturālu skaitļu kvadrātu vērtības pēc 
 moduļa $9$ var būt tikai $0, 1, 4$ vai $7$.
 
 
@@ -534,13 +534,13 @@ a_{11}=89a_{1}+55p \\
 a_{12}=144a_{1}+89p
 \end{gathered}$$
 
-levērojam, ka $a_{12}>100a_{1}$. Tātad $i \leq 11$. Ja $a_{1}=5$ un $a_{2}=6$, 
+Ievērojam, ka $a_{12}>100a_{1}$. Tātad $i \leq 11$. Ja $a_{1}=5$ un $a_{2}=6$, 
 tad
 
 $$a_{11}=89a_{1}+55p=89 \cdot 5+55=445+55=500=100a_{1}$$
 
-$Piezīme.$ Lai atrastu $a_{1}$ un $a_{2}$ vērtības, jāatrisina vienādojums 
-$89 a_{1}+55p=100a_{1}$.
+$\textit {Piezīme.}$ Lai atrastu $a_{1}$ un $a_{2}$ vērtības, jāatrisina 
+vienādojums $89a_{1}+55p=100a_{1}$.
 
 
 
@@ -654,7 +654,7 @@ $x_{1}^{3}+x_{2}^{3}+x_{3}^{3}$ vērtība?
 
 ## Atrisinājums
 
-levērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
+Ievērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
 pārrakstīt formā 
 $x^{3}-px+2019=\left(x-x_{1}\right)\left(x-x_{2}\right)\left(x-x_{3}\right)=0$.
 Grupējot locekļus, iegūsim šādas sakarības:
@@ -690,7 +690,7 @@ $x_{1}^{3}+x_{2}^{3}+x_{3}^{3}=p\left(x_{1}+x_{2}+x_{3}\right)-3 \cdot 2019=p \c
 
 ## Atrisinājums
 
-levērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
+Ievērojot, ka $x_{1}, x_{2}, x_{3}$ ir dotā vienādojuma saknes, to var 
 pārrakstīt formā 
 $x^{3}-p x+2019=\left(x-x_{1}\right)\left(x-x_{2}\right)\left(x-x_{3}\right)=0$.
 Grupējot locekļus, iegūsim šādas sakarības:
@@ -822,7 +822,7 @@ $8$ dažādām $n$ vērtībām.
 | $\mathbf{13}^{\boldsymbol{n}}$ | $5$ | $1$ | $5$ | $1$ | $\cdots$ |
 | $\boldsymbol{S}$ |  $\mathbf{5}$ | $\mathbf{5}$ | $\mathbf{5}$ | $\mathbf{5}$ | $\cdots$ |
 
-levērojam, ka
+Ievērojam, ka
 
 - virknes $5^{n}; 7^{n}; 11^{n}; 13^{n}$ pēc moduļa $8$ ir periodiskas ar 
   periodu $2$;
@@ -883,7 +883,7 @@ racionāli skaitļi, tad, saskaitot pirmās divas vienādības un ņemot vērā 
 vienādību, iegūstam, ka $\alpha=\frac{c+b-a}{2}$ ir racionāls skaitlis 
 (pretruna). Tātad vienkrāsainais trijstūris ir melns un tā virsotnēs 
 ierakstītie skaitļi ir meklētie.
-
+ 
 
 
 # <lo-sample/> LV.VOL.2020.12.5.
@@ -916,7 +916,7 @@ $2021 \cdot 1=2021 > 2019$;
 $2021 \cdot 0=0$ un $2019-0=2019$, kas nedalās ar $2$.
 
 Pamatosim, ka visus skaitļus, kas lielāki nekā $2019$, var izteikt formā 
-$2n+2021m$. levērojam, ka
+$2n+2021m$. Ievērojam, ka
 
 - $2020=2 \cdot 1010+2021 \cdot 0$ un visus pārējos skaitļus, kas lielāki nekā 
   $2020$ un dalās ar $2$, iegūstam kā summu $2 \cdot(1010+k)+2021 \cdot 0$, kur
@@ -962,7 +962,7 @@ Vienādojuma abām pusēm pieskaitot $1$ un sadalot reizinātāos, iegūstam
 
 $$(a-1)(b-1)=2020$$
 
-levērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
+Ievērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 
 | $\boldsymbol{a}-\mathbf{1}$ | $\boldsymbol{b}-\mathbf{1}$ | $\boldsymbol{a}$ | $\boldsymbol{b}$ | $(\boldsymbol{a} ; \boldsymbol{b})$ |  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -973,6 +973,6 @@ levērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 | $10$ | $202$ | $11$ | $203$ | $(11; 203)$ |  |
 | $20$ | $101$ | $21$ | $102$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 
-$Piezīme.$ Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 
+$\textit {Piezīme.}$ Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 
 derīgie.
 

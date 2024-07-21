@@ -104,7 +104,7 @@ Mazākais iespējamais iekrāsoto rūtiņu skaits ir $4$, skat, piemēram, 2.att
 
 Pamatosim, ka mazāk kā $4$ rūtiņas nav iespējams iekrāsot, lai izpildītos 
 uzdevuma nosacījumi. Sadalām doto kvadrātu četros $2 \times 2$ rūtiņu 
-kvadrātos, skat. 3.att. levērojam, ka vismaz vienai rūtiņai katrā no šiem 
+kvadrātos, skat. 3.att. Ievērojam, ka vismaz vienai rūtiņai katrā no šiem 
 četriem kvadrātiem noteikti ir jābūt iekrāsotai, pretējā gadījumā, ja nav 
 iekrāsota neviena rūtiņa, tad stūra rūtiņai blakus visas rūtiņas ir 
 neiekrāsotas. Tātad pavisam kopā jābūt iekrāsotām vismaz $4$ rūtiņām. Ar $4$ 
@@ -177,14 +177,14 @@ nekā $1$, bet daļas $\frac{391}{389}; \frac{442}{439}$ ir lielākas nekā $1$.
 
 Noteiksim, par cik daļas $\frac{391}{389}; \frac{442}{439}$ ir lielākas nekā 
 $1$, tas ir, $\frac{391}{389}-1=\frac{2}{389}; \frac{441}{439}-1=\frac{2}{439}$.
-levērojam, ka $\frac{2}{439}<\frac{2}{389}$ Jo lielāks skaitlis tiek 
+Ievērojam, ka $\frac{2}{439}<\frac{2}{389}$ Jo lielāks skaitlis tiek 
 pieskaitīts pie skaitļa $1$, jo lielāka ir summa. Tātad 
 $1+\frac{2}{439}<1+\frac{2}{389}$ jeb $\frac{441}{439}<\frac{391}{389}$
 
 Noteiksim, par cik daļas $\frac{21}{23}; \frac{11}{12}; \frac{16}{17}$ ir 
 mazākas nekā $1$, tas ir, 
 $1-\frac{21}{23}=\frac{2}{23}; 1-\frac{11}{12}=\frac{1}{12}=\frac{2}{24}$; $1-\frac{16}{17}=\frac{1}{17}$.
-levērojam, ka $\frac{1}{17}<\frac{1}{12}=\frac{2}{24}<\frac{2}{23}$. Jo lielāks
+Ievērojam, ka $\frac{1}{17}<\frac{1}{12}=\frac{2}{24}<\frac{2}{23}$. Jo lielāks
 skaitlis tiek atņemts no skaitļa $1$, jo mazāku skaitli iegūstam. Tātad 
 $1-\frac{2}{23}<1-\frac{1}{12}<1-\frac{1}{17}$ jeb 
 $\frac{21}{23}<\frac{11}{12}<\frac{16}{17}$.
@@ -241,7 +241,7 @@ plkst. 14:00; **b)** plkst. 13:40?
 
 ## Atrisinājums
 
-**a)** levērojam, ka plkst. 15:00 pulksteņa rādītāji veidotu $90^{\circ}$ 
+**a)** Ievērojam, ka plkst. 15:00 pulksteņa rādītāji veidotu $90^{\circ}$ 
 lielu leņķi, tātad plkst. 14:00 pulksteņa rādītāji veido $\frac{2}{3}$ no 
 $90^{\circ}$ leņķa, tas ir, $\frac{2}{3} \cdot 90^{\circ}=60^{\circ}$ (skat. 
 7.att.).
@@ -279,7 +279,7 @@ apgāztas otrādi.
 
 ![](LV.AMO.2019.6.4A.png)
 
-$Piezīme.$ b) daļas atrisinājums der arī a) daļai.
+$\textit {Piezīme.}$ b) daļas atrisinājums der arī a) daļai.
 
 
 
@@ -302,7 +302,7 @@ Jā, dotais skaitlis dalās ar $9$.
 Lai skaitlis dalītos ar $9$, tā ciparu summai jādalās ar $9$. Aprēķinām dotā 
 skaitļa ciparu summu. Lai to vieglāk izdarītu, deviņiem viencipara skaitļiem 
 sākumā pierakstām ciparu $0$ un dotā skaitļa sākumā pievienojam vēl divas 
-nulles, kas nemaina dotā skaitļa ciparu summu. levērojam, ka skaitļu virknē 
+nulles, kas nemaina dotā skaitļa ciparu summu. Ievērojam, ka skaitļu virknē 
 $00, 01, \ldots, 98, 99$ ir izmantoti $200$ cipari. Katrs cipars $10$ reizes 
 parādās kā desmitu cipars 
 ($\overline{x0}, \overline{x1}, \overline{x2}, \overline{x3}, \overline{x4}, \overline{x5}, \overline{x6}, \overline{x7}, \overline{x8}, \overline{x9}$)
@@ -374,8 +374,8 @@ gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 Izliektā četrstūrī $ABCD$ leņķu $BAD$ un $ADC$ bisektrises krustojas punktā 
 $M$. Pierādīt, ka $BM=CM$, ja zināms, ka $AD=AB+CD$.
 
-$Piezīme.$ Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir mazāki 
-nekā $180^{\circ}$.
+$\textit {Piezīme.}$ Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir 
+mazāki nekā $180^{\circ}$.
 
 <small>
 
@@ -415,7 +415,7 @@ no vienādiem regulāriem trijstūriem. Uzzīmē šādu piecstūri!
 
 Skat., piemēram, 16.att.
 
-$Piezīme.$ Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
+$\textit {Piezīme.}$ Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
 pazīstams ar nosaukumu heksamonds sfinksa.
 
 ![](LV.AMO.2019.7.4A.png)
@@ -444,14 +444,14 @@ Mazākā šāda $n$ vērtība $11$. Ja $n=11$, tad
 $10^{11}=1 \cdot 2 \cdot 4 \cdot 8 \cdot 10 \cdot 16 \cdot 5^{10}$. Pierādīsim,
 ja $n<11$, tad $10^{n}$ šādā formā izteikt nevar.
 
-levērojam, ka $10^{n}=2^{n} \cdot 5^{n}$. Tātad katru no septiņiem 
+Ievērojam, ka $10^{n}=2^{n} \cdot 5^{n}$. Tātad katru no septiņiem 
 reizinātājiem var izteikt formā $2^{x} \cdot 5^{y}$, kur $x, y$ ir nenegatīvi 
-veseli skaitļi. levērojam, ka neviena šādā formā izteikta reizinātāja pēdējais 
+veseli skaitļi. Ievērojam, ka neviena šādā formā izteikta reizinātāja pēdējais 
 cipars nevar būt ne $3$, ne $7$, ne $9$ (ja skaitlis beidzas ar $3, 7$ vai $9$,
 tad tas nedalās ne ar $2$, ne ar $5$ ). Tātad kā reizinātāju pēdējie cipari 
 jāizmanto visi atlikušie septiņi cipari: $0, 1, 2, 4, 5, 6, 8$. Aplūkosim tos 
 $5$ reizinātājus, kas beidzas ar $0, 2, 4, 6, 8$, apzīmēsim tos ar 
-$a_{0}, a_{2}, a_{4}, a_{6}$, un $a_{8}$. levērojam, ka neviens no tiem, 
+$a_{0}, a_{2}, a_{4}, a_{6}$, un $a_{8}$. Ievērojam, ka neviens no tiem, 
 izņemot $a_{0}$, nedalās ar $5$, tātad tie visi (izņemot $a_{0}$ ) ir divnieka 
 pakāpes.
 
@@ -531,7 +531,7 @@ $k$ ir naturāls skaitlis). Tātad stabu skaits ir $2k+1=2 \cdot 7+1=15$.
 
 ![](LV.AMO.2019.8.1B.png)
 
-$Piezīme.$ Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
+$\textit {Piezīme.}$ Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
 kvadrātvienādojuma atrisināšanas metodes, bet apskatot visas dažādās iespējas, 
 kādu divu naturālu skaitļu reizinājums var būt $105$.
 
@@ -581,7 +581,7 @@ $DE$ ir perpendikulārs $AF$.
 
 ## Atrisinājums
 
-levērojam, ka
+Ievērojam, ka
 
 - $\sphericalangle BAE=\sphericalangle EAD=\alpha$ pēc bisektrises definīcijas;
 
@@ -593,7 +593,7 @@ Tā kā $AD=BC$ kā paralelograma pretējās malas, tad esam ieguvuši, ka $BC=D
 
 ![](LV.AMO.2019.8.3A.png)
 
-$Piezīme.$ Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
+$\textit {Piezīme.}$ Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
 jāizmanto.
 
 
@@ -614,7 +614,7 @@ naturāla skaitļa kubs. Kādām $m$ vērtībām tas ir iespējams?
 ## Atrisinājums
 
 Pamatosim, ka prasītais ir iespējams, ja $m$ ir pāra skaitlis vai nepāra 
-skaitlis, kas nav mazāks kā $9$. levērojam, ka pirmo divu naturālo skaitļu kubi
+skaitlis, kas nav mazāks kā $9$. Ievērojam, ka pirmo divu naturālo skaitļu kubi
 ir $1^{3}=1$ un $2^{3}=8$. Rūķīšus apzīmēsim ar punktiem; ja divi rūķīši 
 draudzējas, tad tos savienosim ar nogriezni.
 
@@ -660,14 +660,14 @@ Mazākā šāda $n$ vērtība ir $23$. Ja $n=23$, tad
 $10^{23}=10 \cdot 32 \cdot 64 \cdot 16 \cdot 128 \cdot 5^{22}$. Pierādīsim, ja 
 $n<23$, tad $10^{n}$ šādā formā izteikt nevar.
 
-levērojam, ka $10^{n}=2^{n} \cdot 5^{n}$. Tātad katru no sešiem reizinātājiem 
+Ievērojam, ka $10^{n}=2^{n} \cdot 5^{n}$. Tātad katru no sešiem reizinātājiem 
 var izteikt formā $2^{x} \cdot 5^{y}$, kur $x, y$ ir nenegatīvi veseli skaitļi.
-levērojam, ka neviena šādā formā izteikta reizinātāja pēdējais cipars nevar būt
+Ievērojam, ka neviena šādā formā izteikta reizinātāja pēdējais cipars nevar būt
 ne $1$, ne $3$, ne $7$, ne $9$ (ja skaitlis beidzas ar $1, 3, 7$ vai $9$, tad 
 tas nedalās ne ar $2$, ne ar $5$). Tātad kā reizinātāju pēdējie cipari 
 jāizmanto visi atlikušie seši cipari: $0, 2, 4, 5, 6, 8$. Aplūkosim tos $5$ 
 reizinātājus, kas beidzas ar $0, 2, 4, 6, 8$, apzīmēsim tos ar 
-$a_{0}, a_{2}, a_{4}, a_{6}$, un $a_{8}$. levērojam, ka neviens no tiem, 
+$a_{0}, a_{2}, a_{4}, a_{6}$, un $a_{8}$. Ievērojam, ka neviens no tiem, 
 izņemot $a_{0}$, nedalās ar $5$, tātad tie visi (izņemot $a_{0}$ ) ir divnieka 
 pakāpes.
 
@@ -780,7 +780,7 @@ $QNBC$ ir rombs!
 **a)** Tā kā $AC=AM$, tad trijstūris $MAC$ ir vienādsānu un 
 $\sphericalangle ACM=\sphericalangle AMC=\alpha$ (skat. 24.att.). No taisnleņķa
 trijstūra $MAP$ iegūstam, ka $\sphericalangle APM=90^{\circ}-\alpha$. 
-levērojam, ka $\sphericalangle CPB=\sphericalangle APM=90^{\circ}-\alpha$ kā 
+Ievērojam, ka $\sphericalangle CPB=\sphericalangle APM=90^{\circ}-\alpha$ kā 
 krustleņķi un 
 $\sphericalangle PCB=\sphericalangle ACB-\sphericalangle ACM=90^{\circ}-\alpha$.
 Tā kā $\sphericalangle CPB=\sphericalangle PCB$, tad trijstūris $CBP$ ir 
@@ -913,18 +913,19 @@ $$6+24+60+\cdots+n(n+1)(n+2)=\frac{n(n+1)(n+2)(n+3)}{4}$$
 </small>
 
 ## Atrisinājums
-
+ 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas\ bāze.$ Ja $n=1$, tad 
+$\textit{Indukcijas bāze.}$ Ja $n=1$, tad 
 $1 \cdot 2 \cdot 3=\frac{1 \cdot 2 \cdot 3 \cdot 4}{4}$ jeb $6=6$.
 
-$Induktīvais\ pieņēmums.$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
+$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, 
+tas ir,
 
 $$6+24+60+\cdots+k(k+1)(k+2)=\frac{k(k+1)(k+2)(k+3)}{4}$$
 
-$Induktīvā\ pāreja.$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas
-ir,
+$\textit{Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja 
+$n=k+1$, tas ir,
 
 $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
 
@@ -936,9 +937,9 @@ $$\begin{gathered}
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
 
-$Secinājums.$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir 
-spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, secinām, ka 
-vienādība ir spēkā visām naturālām $n$ vērtībām.
+$\textit{Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
+vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, 
+secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 
@@ -1019,7 +1020,7 @@ kvadrāts?
 
 Atradīsim, kādām $n$ vērtībām izteiksmes $n^{2}+n+19$ vērtība atrodas starp 
 divu blakusesošu naturālu skaitļu kvadrātiem, tas ir, starp $n^{2}$ un 
-$(n+1)^{2}=n^{2}+2n+1$. levērojam, ka $n^{2} < n^{2}+n+19$ ir patiesa visiem 
+$(n+1)^{2}=n^{2}+2n+1$. Ievērojam, ka $n^{2} < n^{2}+n+19$ ir patiesa visiem 
 naturāliem $n$ un nevienādība $n^{2}+n+19 < n^{2}+2n+1$ ir patiesa, ja $n > 18$. 
 Tātad, ja $n > 18$, tad izteiksmes $n^{2}+n+19$ vērtība atrodas starp divu 
 blakusesošu naturālu skaitļu kvadrātiem un tā nevar būt naturāla skaitļa 
@@ -1044,7 +1045,7 @@ Apskatām atlikušās $n$ vērtības, tas ir, vērtības $1, 2, 3, 4, 5, 18$.
 Līdz ar to esam ieguvuši, ka izteiksme $n^{2}+n+19$ ir naturāla skaitļa 
 kvadrāts, ja $n$ ir $2; 5$ vai $18$.
 
-$Piezīme.$ Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
+$\textit {Piezīme.}$ Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
 $1,2,3, \ldots, 18$.
 
 
@@ -1133,7 +1134,7 @@ $$\frac{(x-20)^{19} \cdot(x+4)}{\left(\sqrt{x^{2}+4}\right)\left(9-x^{2}\right)}
 
 ## Atrisinājums
 
-levērojam, ka reizinātājs $\sqrt{x^{2}+4}$ ir pozitīvs visām reālām $x$ 
+Ievērojam, ka reizinātājs $\sqrt{x^{2}+4}$ ir pozitīvs visām reālām $x$ 
 vērtībām, tātad tas neietekmē kreisās puses izteiksmes zīmi. Izteiksmei 
 $(x-20)^{19}$ ir tāda pati zīme kā izteiksmei $(x-20)$. Katru polinomu, kas 
 ietilpst nevienādības kreisās puses izteiksmē, pielīdzinām $0$ un atrisinām 
@@ -1178,7 +1179,7 @@ otrais - vienmēr var uzvarēt?
 
 Pamatosim, ka vienmēr var uzvarēt otrais spēlētājs.
 
-levērojam, ka $216=2^{3} \cdot 3^{3}$ un uzrakstām visus skaitļa $216$ 
+Ievērojam, ka $216=2^{3} \cdot 3^{3}$ un uzrakstām visus skaitļa $216$ 
 dalītājus augošā secībā:
 
 $$1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216$$
@@ -1195,7 +1196,7 @@ $8$ un $27$
 $12$ un $18$  
 
 Ja pirmais spēlētājs uzraksta kādu dalītāju $d$, tad otrais spēlētājs uzraksta 
-dalītāju $\frac{216}{d}$ (otru attiecīgā pāra skaitli). levērojam, ka katra 
+dalītāju $\frac{216}{d}$ (otru attiecīgā pāra skaitli). Ievērojam, ka katra 
 pāra skaitļu attiecība nav ne $2$, ne $3$. Pamatosim, ka otrais spēlētājs var 
 uzrakstīt skaitli $\frac{216}{d}$, kas atbilst nosacījumiem. Pirmkārt, tā kā 
 pirmais spēlētājs varēja uzrakstīt $d$, tad ne $2d$, ne $3d$, ne $\frac{d}{2}$,
@@ -1241,7 +1242,7 @@ Arī $\sphericalangle BAC=\sphericalangle BGC$ un
 $\sphericalangle BDE=\sphericalangle BFE$ kā ievilktie leņķi, kas balstās uz 
 viena un tā paša loka attiecīgi $BC$ un $BE$. Pēc dotā $AC \parallel DE$, tad 
 $\sphericalangle CAB=\sphericalangle EDB$ kā kāpšļu leņķi pie paralēlām 
-taisnēm. levērojot, ka $\sphericalangle AFG=\sphericalangle BFE$ kā krustleņķi,
+taisnēm. Ievērojot, ka $\sphericalangle AFG=\sphericalangle BFE$ kā krustleņķi,
 iegūstam $\sphericalangle GAC=\sphericalangle FCA$. Tātad $CG \parallel FA$, jo
 iekšējie škērsleņķi, ir vienādi.
 
@@ -1347,8 +1348,8 @@ ja $n>\frac{4}{3}$. Atliek aplūkot gadījumu, kad $n=1$, tad vienādojums $(1)$
 ir formā $x^{2}-x=0$ un tam ir divi atrisinājumi $x=0$ un $x=1$, kas abi ir 
 racionāli skaitļi.
 
-$Piezīme.$ To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, aprēķinot 
-diskriminantu, attiecībā pret mainīgo $x$.
+$\textit {Piezīme.}$ To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, 
+aprēķinot diskriminantu, attiecībā pret mainīgo $x$.
 
 
 
@@ -1405,7 +1406,7 @@ otrais - vienmēr var uzvarēt?
 
 Pamatosim, ka vienmēr var uzvarēt pirmais spēlētājs.
 
-levērojam, ka $144=2^{4} \cdot 3^{2}$ un uzrakstām visus skaitļa $144$ 
+Ievērojam, ka $144=2^{4} \cdot 3^{2}$ un uzrakstām visus skaitļa $144$ 
 dalītājus augošā secībā:
 
 $$1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144$$
