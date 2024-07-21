@@ -1045,7 +1045,7 @@ un iegūstam vienādību
 $S_{ABC}=4\left(S_{ABC}-S_{AMKB}\right)$ jeb $S_{ABC}=4S_{ABC}-4 \cdot 36$, 
 no kā aprēķinām, ka $S_{ABC}=48$.
 
-\textit {Piezīme.} Var ievērot, ka $MK$ ir trijstūra $ABC$ viduslīnija.
+$\textit {Piezīme.}$ Var ievērot, ka $MK$ ir trijstūra $ABC$ viduslīnija.
 
 ![](LV.AMO.2022A.10.3A.png)
 
@@ -1293,7 +1293,7 @@ $9 \cdot 8=72$). Apskatām iespējamos gadījumus.
 
 Tātad kopējais ekscentrisko skaitļu skaits ir $7+6+\ldots +1=28$.
 
-\textit {Piezīme.} Ekscentriski ir skaitļi: 
+$\textit {Piezīme.}$ Ekscentriski ir skaitļi: 
 $1318, 1428, 1538, 1648, 1758, 1868, 1978, 2417, 2527, 2637, 2747, 2857, 2967, 3516, 3626, 3736, 3846, 3956, 4615, 4725, 4835, 4945, 5714, 5824, 5934, 6813, 6923, 7912$.
 
 
