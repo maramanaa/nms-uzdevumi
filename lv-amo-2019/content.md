@@ -910,15 +910,16 @@ $$6+24+60+\cdots+n(n+1)(n+2)=\frac{n(n+1)(n+2)(n+3)}{4}$$
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas\ bāze.$ Ja $n=1$, tad 
+$\textit{Indukcijas bāze.}$ Ja $n=1$, tad 
 $1 \cdot 2 \cdot 3=\frac{1 \cdot 2 \cdot 3 \cdot 4}{4}$ jeb $6=6$.
 
-$Induktīvais\ pieņēmums.$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
+$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, 
+tas ir,
 
 $$6+24+60+\cdots+k(k+1)(k+2)=\frac{k(k+1)(k+2)(k+3)}{4}$$
 
-$Induktīvā\ pāreja.$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas
-ir,
+$\textit{Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja 
+$n=k+1$, tas ir,
 
 $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
 
@@ -930,9 +931,9 @@ $$\begin{gathered}
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
 
-$Secinājums.$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir 
-spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, secinām, ka 
-vienādība ir spēkā visām naturālām $n$ vērtībām.
+$\textit{Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
+vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, 
+secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 

@@ -889,15 +889,15 @@ $$\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{n^{2}}{(2n-1)(2n+
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas\ bāze.$ Ja $n=1$, tad 
+$\textit{Indukcijas bāze.}$ Ja $n=1$, tad 
 $\frac{1^{2}}{1 \cdot 3}=\frac{1 \cdot 2}{2 \cdot 3}$ jeb 
 $\frac{1}{3}=\frac{1}{3}$.
 
-$Induktīvais\ pieņēmums.$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
+$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
 
 $$\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{k^{2}}{(2k-1)(2k+1)}=\frac{k(k+1)}{2(2k+1)}$$
 
-$Induktīvā\ pāreja.$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas ir,
+$\textit{Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas ir,
 
 $$\begin{gathered}
 \frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{(k+1)^{2}}{(2(k+1)-1)(2(k+1)+1)}=\frac{(k+1)(k+1+1)}{2(2(k+1)+1)} \\
@@ -910,7 +910,7 @@ $\underbrace{\frac{1^{2}}{1 \cdot 3}+\frac{2^{2}}{3 \cdot 5}+\cdots+\frac{k^{2}}
 $=\frac{k+1}{2k+1}\left(\frac{k}{2}+\frac{k+1}{2k+3}\right)=\frac{k+1}{2k+1}\left(\frac{2k^{2}+3k+2k+2}{2(2k+3)}\right)=\frac{(k+1)\left(2 k^{2}+5k+2\right)}{(2k+1) 2(2k+3)}= $  
 $=\frac{(k+1)(2k+1)(k+2)}{(2k+1)2(2k+3)}=\frac{(k+1)(k+2)}{2(2k+3)}$
 
-$Secinājums.$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir 
+$\textit{Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir 
 spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, secinām, ka 
 vienādība ir spēkā visām naturālām $n$ vērtībām.
 
@@ -1108,12 +1108,12 @@ $17$.
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas\ bāze.$ Ja $n=1$, tad $6^{2}+19^{1}-2^{2}=51$, kas dalās ar $17$.
+$\textit{Indukcijas bāze.}$ Ja $n=1$, tad $6^{2}+19^{1}-2^{2}=51$, kas dalās ar $17$.
 
-$Induktīvais\ pieņēmums.$ Pieņemsim, ka apgalvojums ir patiess, ja $n=k$, tas 
+$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka apgalvojums ir patiess, ja $n=k$, tas 
 ir, $6^{2k}+19^{k}-2^{k+1}$ dalās ar $17$.
 
-$Induktīvā\ pāreja.$ Pierādīsim, ka apgalvojums ir patiess arī, ja $n=k+1$, tas 
+$\textit{Induktīvā pāreja.}$ Pierādīsim, ka apgalvojums ir patiess arī, ja $n=k+1$, tas 
 ir, $6^{2k+2}+19^{k+1}-2^{k+2}$ dalās ar $17$. Pārveidojam izteiksmi:
 
 $$\begin{aligned}
@@ -1123,7 +1123,7 @@ $$\begin{aligned}
 
 Tā kā katrs saskaitāmais dalās ar $17$, tad arī summa dalās ar $17$.
 
-$Secinājums.$ Tā kā apgalvojums ir patiess, ja $n=1$, un no tā, ka apgalvojums 
+$\textit{Secinājums.}$ Tā kā apgalvojums ir patiess, ja $n=1$, un no tā, ka apgalvojums 
 ir patiess, ja $n=k$, izriet, ka apgalvojums ir patiess arī $n=k+1$, secinām, 
 ka apgalvojums ir patiess visām naturālām vērtībām.
 
@@ -1298,15 +1298,15 @@ $x_{n}=2^{n}+3^{n}-4^{n}$ visiem naturāliem $n$.
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$Indukcijas\ bāze.$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
+$\textit{Indukcijas bāze.}$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
 $x_{2}=2^{2}+3^{2}-4^{2}=-3$. Ja $n=3$, tad $x_{3}=2^{3}+3^{3}-4^{3}=-29$.
 
-$Induktīvais\ pieņēmums.$ Pieņemsim, ka formula ir spēkā, ja $n=k, n=k+1$ un 
+$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka formula ir spēkā, ja $n=k, n=k+1$ un 
 $n=k+2$, tas ir,
 
 $x_{k}=2^{k}+3^{k}-4^{k}, \quad x_{k+1}=2^{k+1}+3^{k+1}-4^{k+1} \quad $ un $\quad x_{k+2}=2^{k+2}+3^{k+2}-4^{k+2}$
 
-$Induktīvā\ pāreja.$ Pierādīsim, ka formula ir spēkā arī tad, ja $n=k+3$, tas 
+$\textit{Induktīvā pāreja.}$ Pierādīsim, ka formula ir spēkā arī tad, ja $n=k+3$, tas 
 ir, $x_{k+3}=2^{k+3}+3^{k+3}-4^{k+3}$. Izmantojot induktīvo pieņēmumu, iegūstam
 
 $$\begin{gathered}
@@ -1316,7 +1316,7 @@ x_{k+3}=9x_{k+2}-26x_{k+1}+24x_{k}= \\
 =2^{k} \cdot 8+3^{k} \cdot 27-4^{k} \cdot 64=2^{k+3}+3^{k+3}-4^{k+3}
 \end{gathered}$$
 
-$Secinājums.$ Tā kā formula ir patiesa, ja $n=1, n=2$ un $n=3$, un no tā, ka 
+$\textit{Secinājums.}$ Tā kā formula ir patiesa, ja $n=1, n=2$ un $n=3$, un no tā, ka 
 formula ir spēkā, ja $n=k$, $n=k+1$ un $n=k+2$, izriet, ka formula ir spēkā arī
 $n=k+3$, secinām, ka formula ir spēkā visām naturālām $n$ vērtībām.
 
