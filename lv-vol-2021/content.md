@@ -216,7 +216,7 @@ Dota ģeometriskā progresija $x_{1}; x_{2}; x_{3}; x_{4}; x_{5}; x_{6}$, kuras
 locekļi ir pozitīvi skaitļi. Zināms, ka $x_{4}+x_{3}-x_{2}-x_{1}=3$. Pierādīt, 
 ka $x_{5}+x_{6} \geq 12$.
 
-$Piezīme.$ Ģeometriskā progresija ir skaitļu virkne, kuras pirmais loceklis ir 
+$\textit {Piezīme.}$ Ģeometriskā progresija ir skaitļu virkne, kuras pirmais loceklis ir 
 $x_{1}$ un katru nākamo virknes locekli iegūst, iepriekšēo reizinot ar kādu 
 fiksētu skaitli $q$, tas ir, $x_{2}=qx_{1}, x_{3}=qx_{2}$ utt.
 

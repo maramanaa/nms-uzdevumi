@@ -345,7 +345,7 @@ Holivudas diētā katrās septiņās secīgās dienās kopā jāapēd tieši tr�
 tieši pieci sieriņi "Kārums". Kādu lielāko secīgu dienu skaitu var ievērot abas
 diētas vienlaicīgi?
 
-$Piezīme.$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
+$\textit {Piezīme.}$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
 
 <small>
 
@@ -496,7 +496,7 @@ Tas nozīmē, ka uz lapas var iegūt tikai tādus skaitļus, kas dod atlikumu $1
 dalot ar $3$. Tā kā $2022$ dalās ar $3$ (bez atlikuma), tad aprakstītajā veidā 
 šo skaitli uz lapas iegūt nevar.
 
-$Piezīme.$ Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
+$\textit {Piezīme.}$ Uzdevumu var risināt arī pēc moduļa $5$ vai pēc moduļa $15$.
 
 
 # <lo-sample/> LV.VOL.2022.11.4
@@ -747,7 +747,7 @@ $(n-(k-1))^{3}+(n+(k-1))^{3}$ dalās ar $n-k+1+n+k-1=2n$
 Tā kā visas šīs summas dalās ar $2n$, un vidējais saskaitāmais $n^{3}$ dalās 
 ar $n$, tad arī visu $(2k+1)$ kubu summa dalās ar $n$, līdz ar to nav pirmskaitlis.
 
-$Piezīme.$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
+$\textit {Piezīme.}$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
 
 
 # <lo-sample/> LV.VOL.2022.12.4

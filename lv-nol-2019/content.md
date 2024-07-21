@@ -303,7 +303,8 @@ parādīt vienu veidu, kā to izdarīt.)
 
 Skaitļu izkārtojumu skat., piemēram, 12.att.
 
-$Piezīme.$ Atrast atrisinājumu var palīdzēt tālāk aprakstītie spriedumi.
+$\textit {Piezīme.}$ Atrast atrisinājumu var palīdzēt tālāk aprakstītie 
+spriedumi.
 
 Visās rindās, kolonnās un diagonālēs skaitļu summai jābūt $10+6+2=18$. 
 Aplūkojam augšējo rindu. Tajā trūkst divu skaitļu, kuru summai jābūt $8$. Tie 
@@ -313,8 +314,8 @@ Pārbaudot pirmo variantu, nonākam pie dotā atrisinājuma, bet, pārbaudot otr
 variantu, iegūst, ka vienam skaitlim jābūt $0$, kas neder, jo visiem skaitļiem 
 jābūt naturāliem.
 
-$Piezīme.$ Atrisinājumu var iegūt kā sekas no $3 \times 3$ maģiskā kvadrāta, 
-pieskaitot $1$.
+$\textit {Piezīme.}$ Atrisinājumu var iegūt kā sekas no $3 \times 3$ maģiskā 
+kvadrāta, pieskaitot $1$.
 
 ![](LV.NOL.2019.6.4A.png)
 
@@ -339,7 +340,7 @@ atšķirīgi).
 Vienīgais šī uzdevuma atrisinājums ir $L=1; A=2; I=6; Š=5; S=0; R=3; B=7$, tad 
 iegūstam patiesas vienādības $126+560+63+1270=2019$ un $63+63=126$.
 
-$Piezīme.$ Atrast atrisinājumu var palīdzēt tālāk aprakstītie spriedumi.
+$\textit {Piezīme.}$ Atrast atrisinājumu var palīdzēt tālāk aprakstītie spriedumi.
 
 Tā kā divu divciparu skaitļu summa ir trīsciparu skaitlis, tas ir, 
 $IR + IR = LAI$, tad vienīgā iespēja, ka $L=1$. No šīs vienādības izriet arī, 
@@ -533,7 +534,7 @@ trīsciparu skaitļiem. Tā kā katrā no trim pozīcijām (vieni, desmiti, simt
 minētajos skaitļos var atrast jebkuru ciparu no $1$ līdz $9$, tad to vienmēr ir
 iespējams izdarīt.
 
-$Piezīme.$ Var izvēlēties arī citus trīsciparu skaitļus, kas dalās ar $31$. Ar 
+$\textit {Piezīme.}$ Var izvēlēties arī citus trīsciparu skaitļus, kas dalās ar $31$. Ar 
 $31$ dalās šādi trīsciparu skaitļi: 
 $124;\ 155;\ 186;\ 217;\ 248;\ 279;\ 310;\ 341;\ 372;\ 403;\ 434;\ 465;\ 496;\ 527;\ 558;\ 589;\ 620;\ 651;\ 682;\ 713;\ 744;\ 775;\ 806;\ 837;\ 868;\ 899;\ 930;\ 961;\ 992$.
 
@@ -602,7 +603,7 @@ katru reizi salīdzinot kaudzītes, kurās ir vienāds monētu skaits un nosakot
 kurā kaudzītē atrodas vieglākā monēta. Dalīšana mazākās kaudzītēs shematiski 
 attēlota 18.att. 
 
-$Piezīme.$ Lai gadījums ar $8$ monētām nebūtu jāapskata 
+$\textit {Piezīme.}$ Lai gadījums ar $8$ monētām nebūtu jāapskata 
 atsevišķi, varam šai kaudzītei pievienot vienu "parasto" monētu.
 
 ![](LV.NOL.2019.8.2A.png)
@@ -710,7 +711,7 @@ cipari $(2x+y<27)$, iespējami divi gadīumi:
 
 Līdz ar to trīsciparu skaitlis $\overline{yxy}$ var būt $828,\ 636,\ 252,\ 696$.
 
-$Piezīme.$ Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot 
+$\textit {Piezīme.}$ Uzdevumu var atrisināt, veicot pilno pārlasi, tas ir, pārbaudot 
 visus divciparu skaitļus $\overline{xy}$, kas dalās ar $4$.
 
 
@@ -777,7 +778,7 @@ gadījumi (skat. 21.att.):
 Tātad vieglākā lodīte ir vai nu tā, kas atrodas uz vieglākā svaru kausa, vai 
 otra no sarkanajām. Otrajā svēršanā salīdzinot šīs abas lodītes (to, kas 
 atrodas uz vieglākā svaru kausa un nesvērto sarkano lodīti), atrodam vieglāko.
-($Piezīme.$ Otrajā svēršanā var salīdzināt arī to lodīti, kas atrodas uz 
+($\textit {Piezīme.}$ Otrajā svēršanā var salīdzināt arī to lodīti, kas atrodas uz 
 vieglākā svaru kausa ar kādu no zaļajām.)
 
 ![](LV.NOL.2019.9.2B.png)
@@ -980,7 +981,7 @@ $\overline{3456xy}$ dalītos ar $2019$, arī $(351+\overline{xy})$ jādalās ar
 $2019$, bet tas nav iespējams, jo $\overline{xy}$ ir divciparu skaitlis. Līdz 
 ar to ar divu ciparu pievienošanu nevar izveidot skaitli, kas dalās ar $2019$.
 
-$Piezīme.$ Atrast meklēto skaitli palīdz līdzīgi spriedumi, tas ir, 
+$\textit {Piezīme.}$ Atrast meklēto skaitli palīdz līdzīgi spriedumi, tas ir, 
 $3456000=1711 \cdot 2019+1491$ un $1491+528=2019$.
 
 
@@ -1260,9 +1261,9 @@ labākais šahists šajā partijā spēlē ar nākamo šahistu ($1$ partija). Ta
 nozīmē, ka ar $12+3=15$ šaha partijām var atrast pašu labāko un otro labāko 
 šahistu.
 
-$Piezīme.$ b) gadījumā aprakstītais plāns reizē ir atrisinājums gan a), gan b) 
-gadījumam. Rīkojoties pēc a) gadījumā aprakstītā plāna, nav iespējams, 
-izspēlējot $15$ partijas, atrast arī otru labāko šahistu.
+$\textit {Piezīme.}$ b) gadījumā aprakstītais plāns reizē ir atrisinājums gan 
+a), gan b) gadījumam. Rīkojoties pēc a) gadījumā aprakstītā plāna, nav 
+iespējams, izspēlējot $15$ partijas, atrast arī otru labāko šahistu.
 
 ![](LV.NOL.2019.11.2A.png)
 
@@ -1465,7 +1466,7 @@ m^{2}-133m+66 \cdot 65=0
 Šī vienādojuma saknes ir $m_{1}=78$ un $m_{2}=55$. Tātad urnā atrodas $78$ vai 
 $55$ melnas lodītes.
 
-$Piezīme.$ Varbūtību, ka abas izņemtās lodītes ir vienā krāsā, var arī 
+$\textit {Piezīme.}$ Varbūtību, ka abas izņemtās lodītes ir vienā krāsā, var arī 
 aprēķināt, izmantojot notikumu summas varbūtību, tas ir, ja notikumi $A$ un 
 $B$ ir nesavienojami, tad $P(A \cup B)=P(A)+P(B)$, kur $A$ - abas izņemtās 
 lodītes ir baltas un $B$ - abas izņemtās lodītes ir melnas. Aprēķinām varbūtību
@@ -1518,7 +1519,7 @@ notiek dalīšana.)
 Šādi rīkojoties, ar sešiem jautājumiem Indra noteikti var uzzināt Brigitas 
 iedomāto skaitli.
 
-$Piezīme.$ Atrisinājums balstīts uz "skaldi un valdi" algoritmu.
+$\textit {Piezīme.}$ Atrisinājums balstīts uz "skaldi un valdi" algoritmu.
 
 ## Atrisinājums
 
@@ -1669,8 +1670,8 @@ $$\begin{aligned}
 Tā kā šādu $k$ vērtību ir bezgalīgi daudz, tad arī dotajam vienādojumam ir 
 bezgalīgi daudz atrisinājumu:
 
-$Piezīme.$ Meklētās $a$ un $b$ vērtības var palīdzēt atrast tālāk aprakstītie 
-spriedumi.
+$\textit {Piezīme.}$ Meklētās $a$ un $b$ vērtības var palīdzēt atrast tālāk 
+aprakstītie spriedumi.
 
 $1.\ veids.$ Apzīmējam $a-b=k$, tad $k^{2}=a+b$. Saskaitot abas vienādības, 
 iegūstam $2a=k+k^{2}$ jeb $a=\frac{k(k+1)}{2}$. Aprēķinām 

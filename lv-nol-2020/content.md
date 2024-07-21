@@ -318,7 +318,7 @@ Apskatām visus iespējamos gadījumus.
 Līdz ar to esam pamatojuši, ka skaitlis, kam atbilst vārds $GRIEZE$, nedalās ar
 $8$.
 
-$Piezīme.$ Viens derīgs skaitļu komplekts iegūstams, ja burtus aizvieto šādi: 
+$\textit {Piezīme.}$ Viens derīgs skaitļu komplekts iegūstams, ja burtus aizvieto šādi: 
 $A=9,\ G=2,\ N=3,\ E=0,\ S=4,\ T=6,\ R=8,\ I=5,\ Z=1$ (der arī $Z=7$). Tādā gadījumā 
 vārdam $AGNESE$ atbilst skaitlis $923040,\ ASTERE - 946080,\ SNIEGS - 435024$ un 
 $GRIEZE - 285010$.
@@ -415,7 +415,7 @@ trīs 16.att. figūrām un divpadsmit 17.att. figūrām? Figūras drīkst pagrie
 **b)** Nē, nevar pārklāt. Dotā figūra satur $60$ rūtiņas, bet 
        $3 \cdot 4+12 \cdot 3=12+36=48<60$.
 
-$Piezīme.$ a) gadīumā pierādīt, ka figūru nevar pārklāt, var arī, piemēram, 
+$\textit {Piezīme.}$ a) gadīumā pierādīt, ka figūru nevar pārklāt, var arī, piemēram, 
 apskatot apakšējo kreiso rūtiņu, kuru var pārklāt vienā vienīgā veidā, un 
 pamatojot, ka arī tālākais pārklājums ir noteikts viennozīmīgi.
 
@@ -1275,7 +1275,7 @@ $$(n-6)\left(n^{2}-3n+3\right)=0$$
 
 Vienādojumam $n^{2}-3n+3=0$ nav veselu sakņu, jo $D=9-12<0$.
 
-$Piezīme.$ Tā kā vienādojuma veselās saknes var būt tikai brīvā locekļa 
+$\textit {Piezīme.}$ Tā kā vienādojuma veselās saknes var būt tikai brīvā locekļa 
 dalītāji, tad var pārbaudīt visas iespējamās vērtības 
 $\pm 1; \pm 2; \pm 3; \pm 6; \pm 9; \pm 18$.
 
@@ -1423,7 +1423,7 @@ zināms, ka lifts nekad neaizbrauc nepareizi $7$ reizes pēc kārtas, tas ir, ja
 tas ir sešas reizes pēc kārtas kļūdīijes, tad septītajā tas noteikti aizbrauks 
 pareizajā virzienā.
 
-$Piezīme.$ Lifts nebrauc zemāk par $1.$ un augstāk par $500.$ stāvu. Ja, 
+$\textit {Piezīme.}$ Lifts nebrauc zemāk par $1.$ un augstāk par $500.$ stāvu. Ja, 
 piemēram, tam jābrauc no $3.$ stāva $5$ stāvus uz leju, tas aizbrauc līdz $1.$ 
 stāvam un tur apstājas.
 

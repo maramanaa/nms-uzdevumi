@@ -279,7 +279,7 @@ apgāztas otrādi.
 
 ![](LV.AMO.2019.6.4A.png)
 
-$Piezīme.$ b) daļas atrisinājums der arī a) daļai.
+$\textit {Piezīme.}$ b) daļas atrisinājums der arī a) daļai.
 
 
 
@@ -374,8 +374,8 @@ gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 Izliektā četrstūrī $ABCD$ leņķu $BAD$ un $ADC$ bisektrises krustojas punktā 
 $M$. Pierādīt, ka $BM=CM$, ja zināms, ka $AD=AB+CD$.
 
-$Piezīme.$ Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir mazāki 
-nekā $180^{\circ}$.
+$\textit {Piezīme.}$ Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir 
+mazāki nekā $180^{\circ}$.
 
 <small>
 
@@ -415,7 +415,7 @@ no vienādiem regulāriem trijstūriem. Uzzīmē šādu piecstūri!
 
 Skat., piemēram, 16.att.
 
-$Piezīme.$ Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
+$\textit {Piezīme.}$ Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
 pazīstams ar nosaukumu heksamonds sfinksa.
 
 ![](LV.AMO.2019.7.4A.png)
@@ -529,7 +529,7 @@ $k$ ir naturāls skaitlis). Tātad stabu skaits ir $2k+1=2 \cdot 7+1=15$.
 
 ![](LV.AMO.2019.8.1B.png)
 
-$Piezīme.$ Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
+$\textit {Piezīme.}$ Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
 kvadrātvienādojuma atrisināšanas metodes, bet apskatot visas dažādās iespējas, 
 kādu divu naturālu skaitļu reizinājums var būt $105$.
 
@@ -591,7 +591,7 @@ Tā kā $AD=BC$ kā paralelograma pretējās malas, tad esam ieguvuši, ka $BC=D
 
 ![](LV.AMO.2019.8.3A.png)
 
-$Piezīme.$ Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
+$\textit {Piezīme.}$ Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
 jāizmanto.
 
 
@@ -1036,7 +1036,7 @@ Apskatām atlikušās $n$ vērtības, tas ir, vērtības $1, 2, 3, 4, 5, 18$.
 Līdz ar to esam ieguvuši, ka izteiksme $n^{2}+n+19$ ir naturāla skaitļa 
 kvadrāts, ja $n$ ir $2; 5$ vai $18$.
 
-$Piezīme.$ Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
+$\textit {Piezīme.}$ Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
 $1,2,3, \ldots, 18$.
 
 
@@ -1331,8 +1331,8 @@ ja $n>\frac{4}{3}$. Atliek aplūkot gadījumu, kad $n=1$, tad vienādojums $(1)$
 ir formā $x^{2}-x=0$ un tam ir divi atrisinājumi $x=0$ un $x=1$, kas abi ir 
 racionāli skaitļi.
 
-$Piezīme.$ To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, aprēķinot 
-diskriminantu, attiecībā pret mainīgo $x$.
+$\textit {Piezīme.}$ To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, 
+aprēķinot diskriminantu, attiecībā pret mainīgo $x$.
 
 
 
