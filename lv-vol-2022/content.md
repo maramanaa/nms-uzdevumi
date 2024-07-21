@@ -748,7 +748,7 @@ Tā kā visas šīs summas dalās ar $2n$, un vidējais saskaitāmais $n^{3}$ da
 ar $n$, tad arī visu $(2k+1)$ kubu summa dalās ar $n$, līdz ar to nav pirmskaitlis.
 
 $\textit {Piezīme.}$ Uzdevumu var atrisināt arī ar matemātiskās indukcijas metodi.
-
+ 
 
 # <lo-sample/> LV.VOL.2022.12.4
 

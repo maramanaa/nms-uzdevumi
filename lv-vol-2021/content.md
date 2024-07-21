@@ -209,7 +209,7 @@ Tātad $S+49=\cdots 25$ un tas nozīmē, ka $S$ decimālais pieraksts beidzas
 ar $76$.
 
 
-
+ 
 # <lo-sample/> LV.VOL.2021.10.2.
 
 Dota ģeometriskā progresija $x_{1}; x_{2}; x_{3}; x_{4}; x_{5}; x_{6}$, kuras 

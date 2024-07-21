@@ -883,7 +883,7 @@ racionāli skaitļi, tad, saskaitot pirmās divas vienādības un ņemot vērā 
 vienādību, iegūstam, ka $\alpha=\frac{c+b-a}{2}$ ir racionāls skaitlis 
 (pretruna). Tātad vienkrāsainais trijstūris ir melns un tā virsotnēs 
 ierakstītie skaitļi ir meklētie.
-
+ 
 
 
 # <lo-sample/> LV.VOL.2020.12.5.

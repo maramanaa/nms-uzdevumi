@@ -907,7 +907,7 @@ $$6+24+60+\cdots+n(n+1)(n+2)=\frac{n(n+1)(n+2)(n+3)}{4}$$
 </small>
 
 ## Atrisinājums
-
+ 
 Izmantosim matemātiskās indukcijas metodi.
 
 $\textit{Indukcijas bāze.}$ Ja $n=1$, tad 

@@ -1669,7 +1669,7 @@ $$\begin{aligned}
 
 Tā kā šādu $k$ vērtību ir bezgalīgi daudz, tad arī dotajam vienādojumam ir 
 bezgalīgi daudz atrisinājumu:
-
+ 
 $\textit {Piezīme.}$ Meklētās $a$ un $b$ vērtības var palīdzēt atrast tālāk 
 aprakstītie spriedumi.
 

@@ -1297,7 +1297,7 @@ $x_{n}=2^{n}+3^{n}-4^{n}$ visiem naturāliem $n$.
 ## Atrisinājums
 
 Izmantossim matemātiskās indukcijas metodi.
-
+ 
 $\textit{Indukcijas bāze.}$ Ja $n=1$, tad $x_{1}=2^{1}+3^{1}-4^{1}=1$. Ja $n=2$, tad 
 $x_{2}=2^{2}+3^{2}-4^{2}=-3$. Ja $n=3$, tad $x_{3}=2^{3}+3^{3}-4^{3}=-29$.
 

@@ -1078,7 +1078,7 @@ $x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1
 $=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
 
 Apskatām reizinātājus pēc moduļa $3$.
-
+ 
 | $x \bmod 3$ | $(x-1) \bmod 3$ | $(x+1) \bmod 3$ | $x^{2} \bmod 3$ | $\left(x^{2}+x+1\right) \bmod 3$ | $\left(x^{2}-x+1\right) \bmod 3$ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | $0$ | $2$ | $1$ | $0$ | $1$ | $1$ |
