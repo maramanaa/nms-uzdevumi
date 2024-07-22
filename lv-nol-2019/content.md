@@ -17,7 +17,7 @@ esošās degvielas. Cik litru degvielas tagad ir katrā tvertnē?
 
 Vispirms no pirmās degvielas tvertnes izlēja $\frac{1}{5} \cdot 250=50$ litrus 
 degvielas un tvertnē palika $250-50=200$ litri degvielas. Pēc tam pielēja 
-\frac{1}{5} \cdot 200=40 litrus degvielas. Tātad pirmajā tvertnē tagad ir 
+$\frac{1}{5} \cdot 200=40$ litrus degvielas. Tātad pirmajā tvertnē tagad ir 
 $200+40=240$ litri degvielas.
 
 Vispirms otrajā degvielas tvertnē ielēja $\frac{1}{5} \cdot 250=50$ litrus 
