@@ -466,14 +466,12 @@ ka $CD>\frac{1}{2}(CA+CB-AB)$.
 Izmantojot trijstūra nevienādību trijstūros $ADC$ un $BDC$ (skat. 4.att.), 
 iegūstam
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 (CD+AD)+(CD+BD)>CA+CB \\
 2CD+AB>CA+CB \\
 2CD>CA+CB-AB \\
 CD>\frac{1}{2}(CA+CB-AB)
-\end{gathered}
-$$
+\end{gathered}$$
 
 ![](LV.AMO.2018.7.3A.png)
 
@@ -1478,9 +1476,7 @@ $$S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{22 \cdot 12 \cdot 11 \cdot 9}=22 \cdo
 
 Pierādīt, ka
 
-$$
-\log _{81} 96=\frac{14-\log _{48} 54}{16 \log _{48} 54-4}
-$$
+$$\log _{81} 96=\frac{14-\log _{48} 54}{16 \log _{48} 54-4}$$
 
 <small>
 
