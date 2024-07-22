@@ -1,4 +1,4 @@
-# <lo-sample/> LV.AMO.2018.5.1.
+# <lo-sample/> LV.AMO.2018.5.1
 
 Artūrs no marinētu gurķīšu burkas ir apēdis $\frac{1}{3}$ no visiem gurķīšiem. 
 Rezultātā burkā šķidruma līmenis samazinājās par $\frac{1}{5}$ no sākotnējā 
@@ -24,7 +24,7 @@ gurķīšu ēšanas.
 
 
 
-# <lo-sample/> LV.AMO.2018.5.2.
+# <lo-sample/> LV.AMO.2018.5.2
 
 Raimonds veidoja virkni, visu laiku pēc kārtas rakstot skaitļa $2018$ ciparus:
 
@@ -67,7 +67,7 @@ vietā virknē ir skaitlis $56$.
 
 
 
-# <lo-sample/> LV.AMO.2018.5.3.
+# <lo-sample/> LV.AMO.2018.5.3
 
 Vai kvadrātā ar izmēriem $8 \times 8$ rūtiņas var iekrāsot $12$ rūtiņas tā, lai
 katrā taisnstūrī ar izmēriem $2 \times 3$ rūtiņas (tas var būt arī pagriezts 
@@ -88,7 +88,7 @@ Jā, var, piemēram, skat. 1.att.
 
 
 
-# <lo-sample/> LV.AMO.2018.5.4.
+# <lo-sample/> LV.AMO.2018.5.4
 
 Naturālu pāra skaitli sauksim par raibu, ja tam vienlaikus ir spēkā šādas 
 īpašības:
@@ -137,7 +137,7 @@ nav iespējams iegūt sešciparu raibu skaitli.
 
 
 
-# <lo-sample/> LV.AMO.2018.5.5.
+# <lo-sample/> LV.AMO.2018.5.5
 
 Miķelis ir izgudrojis spēli, kurā nepieciešama spēļu nauda - miķelīši. No
 $1,\ 2,\ 3,\ 5,\ 10$ un $15$ miķelīšu naudaszīmēm Miķelis grib izvēlēties četru
@@ -196,7 +196,7 @@ $1,\ 2,\ 5,\ 15$, bet ar tiem var izveidot summas no $1$ līdz $27$.
 
 
 
-# <lo-sample/> LV.AMO.2018.6.1.
+# <lo-sample/> LV.AMO.2018.6.1
 
 Sarkanā kvadrāta laukums ir $80 \%$ no zilā kvadrāta laukuma, bet zilā kvadrāta
 laukums ir $125 \%$ no zaļā kvadrāta laukuma. Kura kvadrāta mala ir visīsākā? 
@@ -221,7 +221,7 @@ zaļā kvadrāta malas garums ir $5~\mathrm{cm}$, jo $5^{2}=25$.
 
 
 
-# <lo-sample/> LV.AMO.2018.6.2.
+# <lo-sample/> LV.AMO.2018.6.2
 
 Vilnis veidoja virkni, visu laiku pēc kārtas rakstot skaitļa $29042018$ ciparus:
 
@@ -265,7 +265,7 @@ tad šajā vietā virknē ir skaitlis $96$.
 
 
 
-# <lo-sample/> LV.AMO.2018.6.3.
+# <lo-sample/> LV.AMO.2018.6.3
 
 Kvadrātā ar izmēriem $7 \times 7$ rūtiņas sākotnēji visas rūtiņas ir baltas. 
 Kāds ir mazākais rūtiņu skaits, kas jāiekrāso melnas, lai no dotā kvadrāta 
@@ -288,7 +288,7 @@ izmēriem $2 \times 3$ rūtiņas (skat. 3.att.).
 
 
 
-# <lo-sample/> LV.AMO.2018.6.4.
+# <lo-sample/> LV.AMO.2018.6.4
 
 Parādi vienu piemēru, kādus ciparus var ierakstīt burtu vietā, lai vienādība 
 $\overline{AC} \cdot C=\overline{AB} \cdot \overline{AB}$ būtu patiesa! Vienādi
@@ -307,7 +307,7 @@ Der $A=1;\ B=2;\ C=8$, tad iegūstam $18 \cdot 8=12 \cdot 12$ jeb $144=144$.
 
 
 
-# <lo-sample/> LV.AMO.2018.6.5.
+# <lo-sample/> LV.AMO.2018.6.5
 
 **a)** Laine sāka pierakstīt, cik veidos var iegūt katru summu no $2$ līdz 
 $12$, metot divus parastus metamos kauliņus: summu $2$ var iegūt $1$ veidā 
@@ -374,7 +374,7 @@ skaldnes uzrakstot skaitli $4$, iegūsim atlikušās trūkstošās summas.
 
 
 
-# <lo-sample/> LV.AMO.2018.7.1.
+# <lo-sample/> LV.AMO.2018.7.1
 
 Cik dažādus naturālus skaitļus, kam visi cipari ir dažādi, var izveidot no 
 cipariem $2,\ 0,\ 1,\ 8$ ?
@@ -406,7 +406,7 @@ Tātad pavisam ir $3+9+18+18=48$ šādi skaitļi.
 
 
 
-# <lo-sample/> LV.AMO.2018.7.2.
+# <lo-sample/> LV.AMO.2018.7.2
 
 Skaitļu virkne tiek veidota pēc šāda likuma: ja $x$ ir virknes loceklis, tad 
 nākamo virknes locekli aprēķina pēc formulas $\frac{1}{1-x}$. Virknes pirmais 
@@ -449,7 +449,7 @@ $$\frac{53}{12} \cdot 672+4-\frac{1}{3}=53 \cdot 56+4-\frac{1}{3}=2971 \frac{2}{
 
 
 
-# <lo-sample/> LV.AMO.2018.7.3.
+# <lo-sample/> LV.AMO.2018.7.3
 
 Uz trijstūra $ABC$ malas $AB$ izvēlēts patvaļīgs iekšējs punkts $D$. Pierādīt, 
 ka $CD>\frac{1}{2}(CA+CB-AB)$.
@@ -477,7 +477,7 @@ CD>\frac{1}{2}(CA+CB-AB)
 
 
 
-# <lo-sample/> LV.AMO.2018.7.4.
+# <lo-sample/> LV.AMO.2018.7.4
 
 Atrast tādu veselu skaitli $n$, lai vienādība 
 $(n-2021)(n-2018)(n-2017)(n-2016)=2016$ būtu patiesa!
@@ -499,7 +499,7 @@ $2016$ var izteikt kā $2016=4 \cdot 7 \cdot 8 \cdot 9$.
 
 
 
-# <lo-sample/> LV.AMO.2018.7.5.
+# <lo-sample/> LV.AMO.2018.7.5
 
 Lauriņa no taisnstūra ar izmēriem $7 \times 2018$ rūtiņas izgriež 5.att. dotās 
 figūras, bet Pēcītis no tāda paša taisnstūra izgriež 6.att. dotās figūras. Kurš
@@ -536,7 +536,7 @@ var izgriezt vienādu skaitu figūru.
 
 
 
-# <lo-sample/> LV.AMO.2018.8.1.
+# <lo-sample/> LV.AMO.2018.8.1
 
 Vienkāršot izteiksmi 
 $\left(x^{2}-2 x+1\right)\left(x^{4}+1\right)^{2}\left(x^{2}+2x+1\right)\left(x^{4}+2x^{2}+1\right)$.
@@ -559,7 +559,7 @@ $=\left(x^{4}-1\right)^{2}\left(x^{4}+1\right)^{2}=\left(x^{8}-1\right)^{2}$
 
 
 
-# <lo-sample/> LV.AMO.2018.8.2.
+# <lo-sample/> LV.AMO.2018.8.2
 
 Naturālu skaitļu virknes $1; 8; 8; 64; 192; 432; \ldots$ katrs loceklis, sākot 
 ar trešo, ir vienāds ar divu iepriekšējo locekļu nenulles ciparu reizinājumu. 
@@ -589,7 +589,7 @@ un $2018.$ loceklis ir periodā pēdējais, tātad tas ir $5760$.
 
 
 
-# <lo-sample/> LV.AMO.2018.8.3.
+# <lo-sample/> LV.AMO.2018.8.3
 
 Paralelograma $ABCD$ malu $BC$ un $AD$ viduspunkti ir attiecīgi $E$ un $F$. 
 Aprēķināt četrstūra laukumu, ko ierobežo taisnes $AE,\ ED,\ BF$ un $FC$, ja 
@@ -621,7 +621,7 @@ $S_{FEH}=12,5$. Līdz ar to $S_{FGEH}=12,5 \cdot 2=25$.
 
 
 
-# <lo-sample/> LV.AMO.2018.8.4.
+# <lo-sample/> LV.AMO.2018.8.4
 
 Par maģisko kvadrātu sauc $n \times n$ rūtiņu tabulu, kuras rūtiņās ierakstīti 
 skaitļi no $1$ līdz $n^{2}$ tā, ka visās tabulas rindās, kolonnās un uz abām 
@@ -668,7 +668,7 @@ skaitlis $12$, skat., piemēram, 14.att., kur atbilstošā summa ir $65$.
 
 
 
-# <lo-sample/> LV.AMO.2018.8.5.
+# <lo-sample/> LV.AMO.2018.8.5
 
 **a)** Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $6 \times 6$ rūtiņu 
 kvadrātā, lai katrā šī kvadrāta $2 \times 3$ rūtiņu taisnstūrī (tas var būt arī
@@ -711,7 +711,7 @@ neiekrāsotas.
 
 
 
-# <lo-sample/> LV.AMO.2018.9.1.
+# <lo-sample/> LV.AMO.2018.9.1
 
 Dots vienādojums $(a-3)x^{2}+5x-2=0$. **a)** Kādām $a$ vērtībām vienādojumam ir
 tieši viena sakne? **b)** Kādām $a$ vērtībām vienādojumam ir divas dažādas 
@@ -738,24 +738,22 @@ Tātad dotajam vienādojumam ir viena sakne, ja $a=3$ vai $a=-\frac{1}{8}$.
 kvadrātvienādojumam un tā diskriminantam jābūt pozitīvam. Līdz ar to iegūstam 
 nosacījumus:
 
-$\left\{ \begin{array} {1} 
-{a-3 \neq 0} \\
-{8a+1 > 0}
-\end{array} \right.$
-
-jeb
-
-$\left\{ \begin{array}{1}
+$$\left\{ \begin{array}{l} 
+a-3 \neq 0 \\
+8a+1 > 0
+\end{array} \right.
+\text{jeb}
+\left\{ \begin{array}{l}
 a \neq 3 \\
 a>-\frac{1}{8}
-\end{array} \right.$
+\end{array} \right.$$
 
 Tātad dotajam vienādojumam ir divas dažādas reālas saknes, ja 
 $a \in\left(-\frac{1}{8}; 3\right) \cup(3;+\infty)$.
 
 
 
-# <lo-sample/> LV.AMO.2018.9.2.
+# <lo-sample/> LV.AMO.2018.9.2
 
 Cik dažādos veidos basketbolā var gūt $18$ punktus, izmantojot tikai $1$ punkta
 un $3$ punktu metienus? Veidi, kas atšķiras tikai ar $1$ punkta un $3$ punktu 
@@ -813,7 +811,7 @@ iegūt $595$ veidos.
 
 
 
-# <lo-sample/> LV.AMO.2018.9.3.
+# <lo-sample/> LV.AMO.2018.9.3
 
 Ap vienādsānu trijstūri $ABC\ (AB=AC)$ apvilkta riņķa līnijia. Caur virsotni 
 $B$ un loka $AB$ (kas nesatur $C$ ) iekšēju punktu $D$ novilkta taisne, uz 
@@ -842,7 +840,7 @@ $\triangle ABC \sim \triangle AED$ pēc pazīmes $\ell \ell$.
 
 
 
-# <lo-sample/> LV.AMO.2018.9.4.
+# <lo-sample/> LV.AMO.2018.9.4
 
 Atrast lielāko naturālo skaitli, kas dalās ar $7$, kura ciparu summa ir $100$ 
 un kuram neviens cipars nav $0$.
@@ -874,7 +872,7 @@ skaitlis no $96$ vieniniekiem arī dalās ar $7$.
 
 
 
-# <lo-sample/> LV.AMO.2018.9.5.
+# <lo-sample/> LV.AMO.2018.9.5
 
 Kāds ir mazākais rūtiņu skaits, kas jāiekrāso taisnstūrī ar izmēriem 
 $5 \times 8$ rūtiņas, lai katrā šī taisnstūra $2 \times 3$ rūtiņu taisnstūrī 
@@ -923,7 +921,7 @@ iekrāsota neviena rūtiņa. Tātad ar $6$ iekrāsotām rūtiņām nepietiek.
 
 
 
-# <lo-sample/> LV.AMO.2018.10.1.
+# <lo-sample/> LV.AMO.2018.10.1
 
 Pierādīt, ka trijstūra, kura malu garumi ir $\sqrt{40}, \sqrt{53}, \sqrt{145}$,
 laukums ir naturāls skaitlis!
@@ -984,7 +982,7 @@ kas ir naturāls skaitlis.
 
 
 
-# <lo-sample/> LV.AMO.2018.10.2.
+# <lo-sample/> LV.AMO.2018.10.2
 
 Uz koordinātu ass koordinātu sākumpunktā sēž blusa. Ar vienu lēcienu tā var 
 aizlēkt vai nu $1$, vai $2$, vai $5$ vienības pa labi. Cik dažādos veidos blusa
@@ -1044,7 +1042,7 @@ Izmantojot iegūto formulu un sākuma vērtības, aprēķinām $a_{15}$.
 
 
 
-# <lo-sample/> LV.AMO.2018.10.3.
+# <lo-sample/> LV.AMO.2018.10.3
 
 Dots trijstūris $ABC$. No virsotnes $C$ novilkti perpendikuli $CM$ un $CN$ 
 attiecīgi pret leņķa $A$ un leņķa $B$ ārējo leņķu bisektrisēm. Pierādīt, ka 
@@ -1074,7 +1072,7 @@ $$MN=\frac{1}{2} M_{1}N_{1}=\frac{1}{2}\left(M_{1}A+AB+BN_{1}\right)=\frac{1}{2}
 
 
 
-# <lo-sample/> LV.AMO.2018.10.4.
+# <lo-sample/> LV.AMO.2018.10.4
 
 Pierādīt, ja $x$ - naturāls skaitlis, tad $x^{8}-x^{2}$ dalās ar $252$.
 
@@ -1166,7 +1164,7 @@ ar $7$ pēc Mazās Fermā teorēmas.
 
 
 
-# <lo-sample/> LV.AMO.2018.10.5.
+# <lo-sample/> LV.AMO.2018.10.5
 
 Miķelis ir izgudrojis spēli, kurā nepieciešama spēļu nauda - miķelīši. No 
 $1,\ 2,\ 3,\ 5,\ 10,\ 20,\ 25$ un $50$ miķelīšu naudaszīmēm Miķelis grib 
@@ -1226,7 +1224,7 @@ ar to var izveidot summas no $1$ līdz $67$.
 
 
 
-# <lo-sample/> LV.AMO.2018.11.1.
+# <lo-sample/> LV.AMO.2018.11.1
 
 Pierādīt, ka visām naturālām $n$ vērtībām izpildās 
 $1^{3}+2^{3}+3^{3}+\cdots+n^{3}=(1+2+3+\cdots+n)^{2}$.
@@ -1274,7 +1272,7 @@ secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 
-# <lo-sample/> LV.AMO.2018.11.2.
+# <lo-sample/> LV.AMO.2018.11.2
 
 Cik dažādus taisnstūrus ar izmēriem $1 \times 12$ var izveidot no 28.att. 
 dotajām figūriņām? Taisnstūri, kas atšķiras ar figūriņu secību vai krāsu, ir 
@@ -1335,7 +1333,7 @@ Tātad taisnstūri $1 \times 12$ var salikt $309$ dažādos veidos.
 
 
 
-# <lo-sample/> LV.AMO.2018.11.3.
+# <lo-sample/> LV.AMO.2018.11.3
 
 Riņķa līnija $\omega_{1}$ iekšēji pieskaras riņķa līnijai $\omega_{2}$ punktā 
 $A$. No punkta $P$, kas atrodas uz $\omega_{2}$, novilktas hordas $PQ$ un $PR$,
@@ -1369,7 +1367,7 @@ Līdz ar to esam pierādījuši, ka $\sphericalangle QAR=2 \sphericalangle XAY$.
 
 
 
-# <lo-sample/> LV.AMO.2018.11.4.
+# <lo-sample/> LV.AMO.2018.11.4
 
 Vai eksistē tādi naturāli skaitļi $m$ un $n$, ka $m^{2}-n^{2}=2mn$ ?
 
@@ -1420,7 +1418,7 @@ $\textit {Piezīme.}$ 2. atrisinājumā tika izmantota bezgalīgā kritiena meto
 
 
 
-# <lo-sample/> LV.AMO.2018.11.5.
+# <lo-sample/> LV.AMO.2018.11.5
 
 Vienādojuma $x^{3}-44x^{2}+623x-2860=0$ saknes ir trijstūra malu garumi. 
 Aprēķināt šī trijstūra laukumu!
@@ -1472,7 +1470,7 @@ $$S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{22 \cdot 12 \cdot 11 \cdot 9}=22 \cdo
 
 
 
-# <lo-sample/> LV.AMO.2018.12.1.
+# <lo-sample/> LV.AMO.2018.12.1
 
 Pierādīt, ka
 
@@ -1508,7 +1506,7 @@ $$\begin{aligned}
 
 
 
-# <lo-sample/> LV.AMO.2018.12.2.
+# <lo-sample/> LV.AMO.2018.12.2
 
 Cik veidos rindā var iestādīt septiņus kokus - liepas, ozolus, priedes un 
 egles - tā, lai nekur blakus neatrastos divi skuju koki? (Nav obligāti 
@@ -1550,7 +1548,7 @@ uzdevuma nosacījumus.
 
 
 
-# <lo-sample/> LV.AMO.2018.12.3.
+# <lo-sample/> LV.AMO.2018.12.3
 
 Kvadrāta $ABCD$ mala $AD$ pārlocīta tā, ka pēc pārlocīšanas punkts $D$ sakrīt 
 ar kādu $BC$ iekšēju punktu $D^{\prime}$, bet punkts $A$ nonāk punktā 
@@ -1593,7 +1591,7 @@ $$r=\frac{2xz-2x^{2}}{2(z-x)}=\frac{2x(z-x)}{2(z-x)}=x$$
 
 
 
-# <lo-sample/> LV.AMO.2018.12.4.
+# <lo-sample/> LV.AMO.2018.12.4
 
 Naturāls skaitlis $B$ ir iegūts no naturāla skaitļa $A$, samainot vietām tā 
 ciparus. Zināms, ka $A+B=10^{45}$. Pierādīt, ka gan $A$, gan $B$ dalās ar $5$.
@@ -1645,7 +1643,7 @@ Tātad esam pierādījuši, ka gan $A$, gan $B$ dalās ar $5$.
 
 
 
-# <lo-sample/> LV.AMO.2018.12.5.
+# <lo-sample/> LV.AMO.2018.12.5
 
 Katras divas regulāra sešstūra virsotnes savieno vai nu ar sarkanu, vai zilu 
 nogriezni. Aplūkosim visus trijstūrus, kuru virsotnes ir dotā sešstūra 
