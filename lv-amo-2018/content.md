@@ -1680,7 +1680,7 @@ krāsā un viens no trijstūriem $ABD$ vai $BCD$ ir vienkrāsas trijstūris (ska
 36.att.). legūta pretruna ar pieņēmumu.
 
 ![](LV.AMO.2018.12.5A.png)
-
+ 
 **b)** Nē, nevar. Pierādīsim, ka vienmēr būs vismaz divi vienkrāsas trijstūri. 
 Pieņemsim, ka ir tikai viens vienkrāsas trijstūris. Nezaudējot vispārīgumu, 
 varam uzskatīt, ka tas ir sarkans trijstūris $\textcolor{red}{ACE}$ (skat. 
