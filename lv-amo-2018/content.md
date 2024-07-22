@@ -1694,3 +1694,4 @@ $\textcolor{red}{BC}$ ir sarkanā krāsā. Tagad vai nu $FEB$, vai $BEC$ ir
 vienkrāsas trijstūris. legūta pretruna ar pieņēmumu.
 
 ![](LV.AMO.2018.12.5B.png)
+
