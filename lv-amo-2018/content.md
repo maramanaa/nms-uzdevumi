@@ -126,7 +126,7 @@ Lai iegūtu, ka iekrāsotajās vietās ir nepāra cipars, iepriekšējā šķir�
 saskaitot divus pāra ciparus ($p+p$), ir jārodas pārnesumam. Tas nozīmē, ka 
 ciparu $2$ nevar izmantot, jo tad vai nu neveidosies pārnesums 
 $(2+2;\ 2+4;\ 2+6)$ vai arī, saskaitot divus pāra ciparus, summā iegūtu 
-$10(2+8)$, taču cipars $0$ nevar tikt izmantots. Tātad abos saskaitāmajos kā 
+$10\ (2+8)$, taču cipars $0$ nevar tikt izmantots. Tātad abos saskaitāmajos kā 
 pāra cipari būs izmantoti tikai pāra cipari $4,\ 6$ un $8$. Apskatām ciparu $4$
 pirmajā skaitlī un ievērojam, ka vienīgā iespēja ir tam pieskaitīt $8$ (jo 
 $4+4$ neveidojas pārnesums; $4+6$ pēdējais cipars ir $0$). Tas nozīmē, ka nav 
@@ -362,7 +362,7 @@ kauliņa skaldnēm, var palīdzēt tālāk dotie spriedumi. Ja uz viena neparast
 kauliņa skaldnēm uzrakstīti skaitļi $1,\ 3,\ 4,\ 5,\ 6$ un $8$, tad, lai summā 
 būtu iespējams iegūt $2$, uz otra neparastā kauliņa skaldnes noteikti jābūt 
 skaitlim $1$. Tātad pa reizei būs iespējams iegūt summu $2,\ 4,\ 5,\ 6,\ 7$ un 
-$9$. Vairāk skaitlis $1$ uz šī kauliņa nevar būt, jo citādi summā $2 $varētu 
+$9$. Vairāk skaitlis $1$ uz šī kauliņa nevar būt, jo citādi summā $2$ varētu 
 iegūt vairāk nekā vienā veidā. Lai summā varētu iegūt $3$, uz kauliņa skaldnes 
 jābūt skaitlim $2$. Tā kā summā $3$ jāiegūst divos veidos, tad $2$ jābūt 
 rakstītam uz vēl vienas skaldnes. Līdz ar to summā var iegūt $2-1$ reizi, 
@@ -738,7 +738,7 @@ Tātad dotajam vienādojumam ir viena sakne, ja $a=3$ vai $a=-\frac{1}{8}$.
 
 **b)** Lai iegūtu divas dažādas reālas saknes, dotajam vienādojumam ir jābūt 
 kvadrātvienādojumam un tā diskriminantam jābūt pozitīvam. Līdz ar to iegūstam 
-nosacijumus:
+nosacījumus:
 
 $\left\{ \begin{array} {1} 
 {a-3 \neq 0} \\
@@ -858,7 +858,7 @@ un kuram neviens cipars nav $0$.
 
 ## Atrisinājums
 
-Pamatosim, ka lielākais skaitlis, kas apmierina uzdevuma nosacijumus, ir 
+Pamatosim, ka lielākais skaitlis, kas apmierina uzdevuma nosacījumus, ir 
 $112 \underbrace{1111 \ldots 111}_{96\ vieninieki}$.
 
 Skaidrs, ka skaitlī nevar būt vairāk kā $100$ cipari, jo tad tā ciparu summa 
@@ -1018,7 +1018,7 @@ $a_{n}=a_{n-1}+a_{n-2}+a_{n-5}$ atšķirīgos veidos. Atrodam sākuma vērtības
 
 - $a_{1}=1$,
 - $a_{2}=2 \quad (2=1+1)$
-- $a_{3}=3 \quad (1+1+1=1+2=2+1$
+- $a_{3}=3 \quad (1+1+1=1+2=2+1)$
 - $a_{4}=5 \quad (1+1+1+1=1+1+2=1+2+1=2+1+1=2+2)$
 - $a_{5}=9 \quad (1+1+1+1+1=1+1+1+2=1+1+2+1=1+2+1+1=2+1+1+1=2+2+1=2+1+2=1+2+2=5)$
 
@@ -1222,7 +1222,7 @@ Tad visas pārējās summas ar ne vairāk kā sešām banknotēm var iegūt kā 
 vai $x+25+25$, kur $0 \leq x<24$, izņemot summu $68$, ko var iegūt kā 
 $68=25+10+10+10+10+3$.
 
-$textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $25$ var izveidot jebkuru 
+$\textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $25$ var izveidot jebkuru 
 summu no $1$ līdz $91$. Nākamais labākais komplekts ir $1,\ 2,\ 10,\ 25$, bet 
 ar to var izveidot summas no $1$ līdz $67$.
 
