@@ -253,7 +253,7 @@ savā starpā. Viltotā monēta atradīsies "vieglākajā" kausā.
 
 # <lo-sample/> LV.NOL.2019.6.3.
 
-Vai taisnstūri ar izmēriem **a)** $5 \times 8$, **b)** $5 \times 12$ rūtiņas 
+Vai taisnstūri ar izmēriem **(A)** $5 \times 8$, **(B)** $5 \times 12$ rūtiņas 
 var pārklāt ar 8.att. redzamajām figūrām? Taisnstūrim jābūt pilnībā pārklātam. 
 Figūras nedrīkst iziet ārpus taisnstūra un nedrīkst pārklāties, tās drīkst būt 
 pagrieztas vai apgrieztas spoguļattēlā.
@@ -269,9 +269,9 @@ pagrieztas vai apgrieztas spoguļattēlā.
 
 ## Atrisinājums
 
-**a)** Jā, var, piemēram, skat. 9.att.
+**(A)** Jā, var, piemēram, skat. 9.att.
 
-**b)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
+**(B)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
 taisnstūrī ir iekrāsotas $30$ (pāra skaitlis) melnas un $30$ (pāra skaitlis) 
 baltas rūtiņas. Ja taisnstūri varētu pārklāt, tad tas būtu pārklāts ar tieši 
 $60:4=15$ figūrām. Lai kā arī šajā kvadrātā tiktu novietota dotā figūra, tā 
