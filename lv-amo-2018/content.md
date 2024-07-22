@@ -159,17 +159,36 @@ izņemot $8\ (8=1+1+3+3)$, var iegūt ar trīs banknotēm, tāpēc, katrai no š
 summām pieskaitot $15$, ar četrām banknotēm var iegūt jebkuru summu no $16$ 
 līdz $30$ , izņemot $23\ (23=3+10+10)$:
 
-| $1=1$ | $11=1+10$ | $21=(3+3)+15$ |
-| :--- | :--- | :--- |
-| $2=1+1$ | $12=1+1+10$ | $22=(1+3+3)+15$ |
-| $3=3$ | $13=3+10$ | $\mathbf{23}=\mathbf{3}+\mathbf{10}+\mathbf{10}$ |
-| $4=1+3$ | $14=1+3+10$ | $24=(3+3+3)+15$ |
-| $5=1+1+3$ | $15=15$ | $25=10+15$ |
-| $6=3+3$ | $16=1+15$ | $26=(1+10)+15$ |
-| $7=1+3+3$ | $17=(1+1)+15$ | $27=(1+1+10)+15$ |
-| $\mathbf{8}=\mathbf{1}+\mathbf{1}+\mathbf{3}+\mathbf{3}$ | $18=3+15$ | $28=(3+10)+15$ |
-| $9=3+3+3$ | $19=(1+3)+15$ | $29=(1+3+10)+15$ |
-| $10=10$ | $20=(1+1+3)+15$ | $30=15+15$ |
+$1=1$  
+$2=1+1$  
+$3=3$  
+$4=1+3$  
+$5=1+1+3$  
+$6=3+3$  
+$7=1+3+3$  
+$\mathbf{8}=\mathbf{1}+\mathbf{1}+\mathbf{3}+\mathbf{3}$  
+$9=3+3+3$  
+$10=10$  
+$11=1+10$  
+$12=1+1+10$  
+$13=3+10$  
+$14=1+3+10$  
+$15=15$  
+$16=1+15$  
+$17=(1+1)+15$  
+$18=3+15$  
+$19=(1+3)+15$  
+$20=(1+1+3)+15$  
+$21=(3+3)+15$  
+$22=(1+3+3)+15$  
+$\mathbf{23}=\mathbf{3}+\mathbf{10}+\mathbf{10}$  
+$24=(3+3+3)+15$  
+$25=10+15$  
+$26=(1+10)+15$  
+$27=(1+1+10)+15$  
+$28=(3+10)+15$  
+$29=(1+3+10)+15$  
+$30=15+15$  
 
 $\textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $15$ var izveidot jebkuru 
 summu no $1$ līdz $36$. Nākamie labākie komplekti ir $1,\ 2,\ 5,\ 10$ un 
@@ -1109,33 +1128,53 @@ Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar $252$.
 
 ## Atrisinājums
 
-Ievērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji pirmskaitli. Tātad pietiek pierādìt, ka $x^{8}-x^{2}$ dalās ar 4,7 un 9 . Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
+Ievērojam, ka $252=4 \cdot 7 \cdot 9$ un visi reizinātāji ir savstarpēji 
+pirmskaitļi. Tātad pietiek pierādīt, ka $x^{8}-x^{2}$ dalās ar $4,\ 7$ un $9$. 
+Sadalām izteiksmi $x^{8}-x^{2}$ reizinātājos:
 
-$x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1)+1)(x(x-1)+1)=$ $=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
+$x^{8}-x^{2}=x^{2}\left(x^{3}-1\right)\left(x^{3}+1\right)=x^{2}(x-1)(x+1)(x(x+1)+1)(x(x-1)+1)=$  
+$=x^{2}(x-1)(x+1)\left(x^{2}+x+1\right)\left(x^{2}-x+1\right)$
 
-Pierādīsim, ka ( $\left.{ }^{*}\right)$ dalās ar 4. Ja $x$ ir pāra skaitlis, tad $x^{2}$ dalās ar 4. Ja $x$ ir nepāra skaitlis, tad $x-1$ un $x+1$ ir pāra skaitli un tad ar 4 dalās to reizinājums.
+Pierādīsim, ka (*) dalās ar $4$. Ja $x$ ir pāra skaitlis, tad $x^{2}$ dalās ar 
+$4$. Ja $x$ ir nepāra skaitlis, tad $x-1$ un $x+1$ ir pāra skaitļi un tad ar 
+$4$ dalās to reizinājums.
 
-Pierādīsim, ka $\left({ }^{*}\right)$ dalās ar $9=3 \cdot 3$. Skaitlis, dalot to ar 3 , var dot trīs dažādus atlikumus: $0,1,2$. Apskatām visus šos gadijumus.
+Pierādīsim, ka (*) dalās ar $9=3 \cdot 3$. Skaitlis, dalot to ar $3$, var dot 
+trīs dažādus atlikumus: $0,\ 1,\ 2$. Apskatām visus šos gadījumus.
 
-- Ja $x=3 k, k \in \mathbb{Z}, \operatorname{tad} x^{2}=9 k^{2}$ un (*) dalās ar 9 .
-- Ja $x=3 k+1, k \in \mathbb{Z}$, tad $x-1=3 k$ (dalās ar 3) un $x^{2}+x+1=9 k^{2}+9 k+3$ (dalās ar 3), tātad (*) dalās ar 9 .
-- Ja $x=3 k+2, k \in \mathbb{Z}$, tad $x+1=3 k+3$ (dalās ar 3) un $x^{2}-x+1=9 k^{2}+9 k+3$ (dalās ar 3), tātad ( $\left.{ }^{*}\right)$ dalās ar 9 .
+- Ja $x=3k,\ k \in \mathbb{Z}$, tad $x^{2}=9k^{2}$ un (*) dalās ar $9$.
+- Ja $x=3k+1,\ k \in \mathbb{Z}$, tad $x-1=3k$ (dalās ar $3$) un 
+  $x^{2}+x+1=9k^{2}+9k+3$ (dalās ar $3$), tātad (*) dalās ar $9$.
+- Ja $x=3k+2,\ k \in \mathbb{Z}$, tad $x+1=3k+3$ (dalās ar $3$) un 
+  $x^{2}-x+1=9k^{2}+9k+3$ (dalās ar $3$), tātad (*) dalās ar $9$.
 
-Pierādīsim, ka (*) dalās ar 7. Skaitlis, dalot to ar 7, var dot septinus dažādus atlikumus: 0,1,2,3,4,5,6. Apskatām visus šos gadijumus.
+Pierādīsim, ka (*) dalās ar $7$. Skaitlis, dalot to ar $7$, var dot septiņus 
+dažādus atlikumus: $0,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6$. Apskatām visus šos gadījumus.
 
-- Ja $x=7 k, k \in \mathbb{Z}$, tad $\left({ }^{*}\right)$ dalās ar 7 .
-- Ja $x=7 k+1$ vai $x=7 k+2$, vai $x=7 k+4, k \in \mathbb{Z}, \operatorname{tad} x^{3}-1$ dalās ar 7 un tātad (*) dalās ar 7 .
-- Ja $x=7 k+3$ vai $x=7 k+5$, vai $x=7 k+6, k \in \mathbb{Z}, \operatorname{tad} x^{3}+1$ dalās ar 7 un tātad (*) dalās ar 7 .
+- Ja $x=7k,\ k \in \mathbb{Z}$, tad (*) dalās ar $7$.
+- Ja $x=7k+1$ vai $x=7k+2$, vai $x=7k+4,\ k \in \mathbb{Z}$, tad $x^{3}-1$ 
+  dalās ar $7$ un tātad (*) dalās ar $7$.
+- Ja $x=7k+3$ vai $x=7k+5$, vai $x=7k+6,\ k \in \mathbb{Z}$, tad $x^{3}+1$ 
+  dalās ar $7$ un tātad (*) dalās ar $7$.
 
-Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar 252.
+Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar $252$.
 
-Piezīme. Dalāmību ar 7 var pierādīt, arī izmantojot Mazo Fermā teorēmu: "Ja $p$ ir pirmskaitlis un $a$ nedalās ar $p$, tad $a^{p-1}-1$ dalās ar $p$." Pārveidojam doto izteiksmi formā $x^{8}-x^{2}=x^{2}\left(x^{6}-1\right)$. Ja $x$ dalās ar 7 , tad dotā izteiksme dalās ar 7. Ja $x$ nedalās ar 7, tad $\left(x^{6}-1\right)$ dalās ar 7 pēc Mazās Fermā teorēmas.
+$\textit {Piezīme.}$ Dalāmību ar $7$ var pierādīt, arī izmantojot Mazo Fermā 
+teorēmu: "Ja $p$ ir pirmskaitlis un $a$ nedalās ar $p$, tad $a^{p-1}-1$ dalās 
+ar $p$." Pārveidojam doto izteiksmi formā 
+$x^{8}-x^{2}=x^{2}\left(x^{6}-1\right)$. Ja $x$ dalās ar $7$, tad dotā 
+izteiksme dalās ar $7$. Ja $x$ nedalās ar $7$, tad $\left(x^{6}-1\right)$ dalās
+ar $7$ pēc Mazās Fermā teorēmas.
 
 
 
 # <lo-sample/> LV.AMO.2018.10.5.
 
-10.5. Mikelis ir izgudrojis spēli, kurā nepieciešama spēlu nauda - mikelī̌i. No $1,2,3,5,10,20,25$ un 50 mikeliīu u naudaszīmēm Miķelis grib izvēlēties četru veidu naudaszīmes tā, lai jebkuru summu no 1 līdz 70 mikekelīšem varētu izveidot, izmantojot ne vairāk kā sešas banknotes. Atrast vienu šādu četru naudaszīmju komplektu!
+Miķelis ir izgudrojis spēli, kurā nepieciešama spēļu nauda - miķelīši. No 
+$1,\ 2,\ 3,\ 5,\ 10,\ 20,\ 25$ un $50$ miķelīšu naudaszīmēm Miķelis grib 
+izvēlēties četru veidu naudaszīmes tā, lai jebkuru summu no $1$ līdz $70$ 
+miķelīšem varētu izveidot, izmantojot ne vairāk kā sešas banknotes. Atrast 
+vienu šādu četru naudaszīmju komplektu!
 
 <small>
 
@@ -1146,42 +1185,53 @@ Piezīme. Dalāmību ar 7 var pierādīt, arī izmantojot Mazo Fermā teorēmu: 
 
 ## Atrisinājums
 
-Atrisinājums. Mikelim jāizvēlas naudaszīmes 1, 3, 10 un 25. Ievērojam, ka visas summas līdz 4 var iegūt ar ne vairāk kā divām banknotēm un visas summas no 5 līdz 9 - ar ne vairāk kā četrām banknotēm (pie tam četras banknotes vajadzīgas tikai summai 8). Tātad visas summas no 10 līdz 19 var iegūt ar ne vairāk kā piecām banknotēm kā $x+10$, kur $0 \leq x \leq 9$, pie tam piecas banknotes vajadzīgas tikai, lai iegūtu summu 18. Visas summas no 20 līdz 24 var iegūt ar ne vairāk kā četrām banknotēm kā $x+10+10$, kur $0 \leq x \leq 4$.
+Miķelim jāizvēlas naudaszīmes $1,\ 3,\ 10$ un $25$. Ievērojam, ka visas summas 
+līdz $4$ var iegūt ar ne vairāk kā divām banknotēm un visas summas no $5$ līdz 
+$9$ - ar ne vairāk kā četrām banknotēm (pie tam četras banknotes vajadzīgas 
+tikai summai $8$). Tātad visas summas no $10$ līdz $19$ var iegūt ar ne vairāk 
+kā piecām banknotēm kā $x+10$, kur $0 \leq x \leq 9$, pie tam piecas banknotes 
+vajadzīgas tikai, lai iegūtu summu $18$. Visas summas no $20$ līdz $24$ var 
+iegūt ar ne vairāk kā četrām banknotēm kā $x+10+10$, kur $0 \leq x \leq 4$.
 
-$$
-\begin{array}{ll}
-1=1 & 10=10 \\
-2=1+1 & 11=1+10 \\
-3=3 & 12=1+1+10 \\
-4=1+3 & 13=3+10 \\
-5=1+1+3 & 14=1+3+10 \\
-6=3+3 & 15=1+1+3+10 \\
-7=1+3+3 & 16=3+3+10 \\
-8=1+1+3+3=3+3+3 & 17=1+3+3+10 \\
-9=18=1+1+3+3+10
-\end{array}
-$$
+$1=1$  
+$2=1+1$  
+$3=3$  
+$4=1+3$  
+$5=1+1+3$  
+$6=3+3$  
+$7=1+3+3$  
+$8=1+1+3+3=3+3+3$  
+$9=18=1+1+3+3+10$  
+$10=10$  
+$11=1+10$  
+$12=1+1+10$  
+$13=3+10$  
+$14=1+3+10$  
+$15=1+1+3+10$  
+$16=3+3+10$  
+$17=1+3+3+10$  
+$18=1+1+3+3+10$  
+$19=3+3+3+10$  
+$20=10+10$  
+$21=1+10+10$  
+$22=1+1+10+10$  
+$23=3+10+10$  
+$24=1+3+10+10$  
 
-$$
-\begin{aligned}
-& 19=3+3+3+10 \\
-& 20=10+10 \\
-& 21=1+10+10 \\
-& 22=1+1+10+10 \\
-& 23=3+10+10 \\
-& 24=1+3+10+10
-\end{aligned}
-$$
+Tad visas pārējās summas ar ne vairāk kā sešām banknotēm var iegūt kā $x+25$ 
+vai $x+25+25$, kur $0 \leq x<24$, izņemot summu $68$, ko var iegūt kā 
+$68=25+10+10+10+10+3$.
 
-Tad visas pārējās summas ar ne vairāk kā sešām banknotēm var iegūt kā $x+25$ vai $x+25+25$, kur $0 \leq x<24$, izņemot summu 68 , ko var iegūt kā $68=25+10+10+10+10+3$.
-
-Piezīme. Ar naudaszīmēm 1,3,10 un 25 var izveidot jebkuru summu no 1 līdz 91. Nākamais labākais komplekts ir $1,2,10,25$, bet ar to var izveidot summas no 1 līdz 67 .
+$textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $25$ var izveidot jebkuru 
+summu no $1$ līdz $91$. Nākamais labākais komplekts ir $1,\ 2,\ 10,\ 25$, bet 
+ar to var izveidot summas no $1$ līdz $67$.
 
 
 
 # <lo-sample/> LV.AMO.2018.11.1.
 
-11.1. Pierādīt, ka visām naturālām $n$ vērtībām izpildās $1^{3}+2^{3}+3^{3}+\cdots+n^{3}=(1+2+3+\cdots+n)^{2}$.
+Pierādīt, ka visām naturālām $n$ vērtībām izpildās 
+$1^{3}+2^{3}+3^{3}+\cdots+n^{3}=(1+2+3+\cdots+n)^{2}$.
 
 <small>
 
@@ -1192,46 +1242,48 @@ Piezīme. Ar naudaszīmēm 1,3,10 un 25 var izveidot jebkuru summu no 1 līdz 91
 
 ## Atrisinājums
 
-Atrisinājums. Izmantojot aritmētiskās progresijas pirmo $n$ loceklu summas formulu, iegūstam, ka $1+2+\cdots+n=\frac{(n+1) n}{2}$. Tātad pietiek pierādīt, ka visām naturālām $n$ vērtībām izpildās
+Izmantojot aritmētiskās progresijas pirmo $n$ locekļu summas formulu, iegūstam,
+ka $1+2+\cdots+n=\frac{(n+1)n}{2}$. Tātad pietiek pierādīt, ka visām naturālām 
+$n$ vērtībām izpildās
 
-$$
-1^{3}+2^{3}+3^{3}+\cdots+n^{3}=\frac{n^{2}(n+1)^{2}}{4}
-$$
+$$1^{3}+2^{3}+3^{3}+\cdots+n^{3}=\frac{n^{2}(n+1)^{2}}{4}$$
 
 Izmantosim matemātiskās indukcijas metodi.
 
-Indukcijas bāze. Ja $n=1$, tad $1^{3}=\frac{1^{2} \cdot 2^{2}}{4}$ jeb $1=1$.
+$\textit {Indukcijas bāze.}$ Ja $n=1$, tad $1^{3}=\frac{1^{2} \cdot 2^{2}}{4}$ 
+jeb $1=1$.
 
-Induktīvais pieņēmums. Pieņemsim, ka vienādība izpildās, ja $n=k$, tas ir,
+$\textit {Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, 
+tas ir,
 
-$$
-1^{3}+2^{3}+3^{3}+\cdots+k^{3}=\frac{k^{2}(k+1)^{2}}{4}
-$$
+$$1^{3}+2^{3}+3^{3}+\cdots+k^{3}=\frac{k^{2}(k+1)^{2}}{4}$$
 
-Induktīvā pāreja. Pierādīsim, ka vienādība ir spēkā arī tad, ja $n=k+1$, tas ir,
+$\textit {Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja 
+$n=k+1$, tas ir,
 
-$$
-1^{3}+2^{3}+3^{3}+\cdots+(k+1)^{3}=\frac{(k+1)^{2}(k+2)^{2}}{4}
-$$
+$$1^{3}+2^{3}+3^{3}+\cdots+(k+1)^{3}=\frac{(k+1)^{2}(k+2)^{2}}{4}$$
 
 Pārveidojam vienādības kreisās puses izteiksmi:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 \underbrace{1^{3}+2^{3}+3^{3}+\cdots+k^{3}}_{\text {induktivais pienēmums }}+(k+1)^{3}= \\
 =\frac{k^{2}(k+1)^{2}}{4}+(k+1)^{3}=\frac{(k+1)^{2}}{4}\left(k^{2}+4(k+1)\right)=\frac{(k+1)^{2}(k+2)^{2}}{4}
-\end{gathered}
-$$
+\end{gathered}$$
 
-Secinājums. Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
+$\textit {Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
+vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, 
+secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 
 # <lo-sample/> LV.AMO.2018.11.2.
 
-11.2. Cik dažādus taisnstūrus ar izmēriem $1 \times 12$ var izveidot no 28 .att. dotajām figūrinām? Taisnstūri, kas atškiras ar figūrinu secī̄u vai krāsu, ir dažādi, piemēram, 29 .att. izveidoti četri dažādi taisnstūri ar izmēriem $1 \times 4$.
+Cik dažādus taisnstūrus ar izmēriem $1 \times 12$ var izveidot no 28.att. 
+dotajām figūriņām? Taisnstūri, kas atšķiras ar figūriņu secību vai krāsu, ir 
+dažādi, piemēram, 29.att. izveidoti četri dažādi taisnstūri ar izmēriem 
+$1 \times 4$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-13.jpg?height=292&width=1010&top_left_y=1119&top_left_x=523)
+![](LV.AMO.2018.11.2.png)
 
 <small>
 
@@ -1242,33 +1294,55 @@ Secinājums. Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka vienādība
 
 ## Atrisinājums
 
-Atrisinājums. Ar $a_{n}$ apzīmējam dažādo taisnstūru ar izmēriem $1 \times n$ skaitu. Apskatām, kādā veidā var likt pirmo no dotajām figūrinām:
+Ar $a_{n}$ apzīmējam dažādo taisnstūru ar izmēriem $1 \times n$ skaitu. 
+Apskatām, kādā veidā var likt pirmo no dotajām figūriņām:
 
-- ja pirmo liek figūrinu ar izmēriem $1 \times 1$ (skat. 30.att.), tad paliek taisnstūris ar izmēriem $1 \times(n-1)$ un šādu taisnstūru skaits ir $a_{n-1}$;
+- ja pirmo liek figūriņu ar izmēriem $1 \times 1$ (skat. 30.att.), tad paliek 
+  taisnstūris ar izmēriem $1 \times(n-1)$ un šādu taisnstūru skaits ir 
+  $a_{n-1}$;
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-13.jpg?height=177&width=636&top_left_y=1648&top_left_x=710)
+![](LV.AMO.2018.11.2A.png)
 
-- ja pirmo liek balto figūrinu ar izmēriem $1 \times 3$ (skat. 31.att.), tad paliek taisnstūris ar izmēriem $1 \times(n-3)$ un šādu taisnstūru skaits ir $a_{n-3}$;
+- ja pirmo liek balto figūriņu ar izmēriem $1 \times 3$ (skat. 31.att.), tad 
+  paliek taisnstūris ar izmēriem $1 \times(n-3)$ un šādu taisnstūru skaits ir 
+  $a_{n-3}$;
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-13.jpg?height=189&width=686&top_left_y=1947&top_left_x=685)
+![](LV.AMO.2018.11.2B.png)
 
-- ja pirmo liek melno figūrinu ar izmēriem $1 \times 3$ (skat. 32.att.), tad paliek taisnstūris ar izmēriem $1 \times(n-3)$ un šādu taisnstūru skaits ir $a_{n-3}$;
+- ja pirmo liek melno figūriņu ar izmēriem $1 \times 3$ (skat. 32.att.), tad 
+  paliek taisnstūris ar izmēriem $1 \times(n-3)$ un šādu taisnstūru skaits ir 
+  $a_{n-3}$;
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-13.jpg?height=184&width=646&top_left_y=2258&top_left_x=702)
+![](LV.AMO.2018.11.2C.png)
 
-Līdz ar to iegūstam, ka $a_{n}=a_{n-1}+2 a_{n-3}$. Izmantojot šo sakarību un sākuma vērtības $a_{1}=1, a_{2}=2$ un $a_{3}=3$, aprēkinām $a_{18}$.
+Līdz ar to iegūstam, ka $a_{n}=a_{n-1}+2a_{n-3}$. Izmantojot šo sakarību un 
+sākuma vērtības $a_{1}=1,\ a_{2}=2$ un $a_{3}=3$, aprēķinām $a_{18}$.
 
-| $n$ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $a_{n}$ | 1 | 1 | 3 | 5 | 7 | 13 | 23 | 37 | 63 | 109 | 183 | 309 |
+| $n$ | $a_{n}$ |
+| --- | ------- |
+| $1$ | $1$ |
+| $2$ | $1$ |
+| $3$ | $3$ |
+| $4$ | $5$ |
+| $5$ | $7$ |
+| $6$ | $13$ |
+| $7$ | $23$ |
+| $8$ | $37$ |
+| $9$ | $63$ |
+| $10$ | $109$ |
+| $11$ | $183$ |
+| $12$ | $309$ |
 
-Tātad taisnstūri $1 \times 12$ var salikt 309 dažādos veidos.
+Tātad taisnstūri $1 \times 12$ var salikt $309$ dažādos veidos.
 
 
 
 # <lo-sample/> LV.AMO.2018.11.3.
 
-11.3. Riņka līnija $\omega_{1}$ iekšēji pieskaras rinka līnijai $\omega_{2}$ punktā $A$. No punkta $P$, kas atrodas uz $\omega_{2}$, novilktas hordas $P Q$ un $P R$, kas pieskaras $\omega_{1}$ attiecīgi punktos $X$ un $Y$. Pierādīt, ka $\sphericalangle Q A R=2 \sphericalangle X A Y$.
+Riņķa līnija $\omega_{1}$ iekšēji pieskaras riņķa līnijai $\omega_{2}$ punktā 
+$A$. No punkta $P$, kas atrodas uz $\omega_{2}$, novilktas hordas $PQ$ un $PR$,
+kas pieskaras $\omega_{1}$ attiecīgi punktos $X$ un $Y$. Pierādīt, ka 
+$\sphericalangle QAR=2 \sphericalangle XAY$.
 
 <small>
 
@@ -1279,23 +1353,27 @@ Tātad taisnstūri $1 \times 12$ var salikt 309 dažādos veidos.
 
 ## Atrisinājums
 
-Atrisinājums. Ar $O$ apzīmējam rinkaka līnijas $\omega_{1}$ centru (skat. 33.att.). Apzīmējam $\sphericalangle X O Y=2 \alpha$.
+Ar $O$ apzīmējam riņķa līnijas $\omega_{1}$ centru (skat. 33.att.). Apzīmējam 
+$\sphericalangle XOY=2 \alpha$.
 
-Tā kā $\sphericalangle O Y P=\sphericalangle O X P=90^{\circ}, \quad$ tad $\quad \sphericalangle X P Y=360^{\circ}-180^{\circ}-\sphericalangle X O Y=180^{\circ}-2 \alpha$. Ievērojam, ka $\sphericalangle X A Y=\frac{1}{2} \sphericalangle X O Y=\frac{1}{2} \cdot 2 \alpha=\alpha$ kā ievilktais un centra leņkis, kas balstās uz viena un tā paša loka $X Y$.
+Tā kā $\sphericalangle OYP=\sphericalangle OXP=90^{\circ}$, tad 
+$\sphericalangle XPY=360^{\circ}-180^{\circ}-\sphericalangle XOY=180^{\circ}-2 \alpha$.
+Ievērojam, ka 
+$\sphericalangle XAY=\frac{1}{2} \sphericalangle XOY=\frac{1}{2} \cdot 2 \alpha=\alpha$
+kā ievilktais un centra leņķis, kas balstās uz viena un tā paša loka $XY$.
 
-Tā kā četrstūris $A Q P R$ ir ievilkts četrstūris, tad $\sphericalangle Q A R=180^{\circ}-\sphericalangle Q P R=180^{\circ}-\left(180^{\circ}-2 \alpha\right)=2 \alpha$.
+Tā kā četrstūris $AQPR$ ir ievilkts četrstūris, tad 
+$\sphericalangle QAR=180^{\circ}-\sphericalangle QPR=180^{\circ}-\left(180^{\circ}-2 \alpha\right)=2 \alpha$.
 
-Līdz ar to esam pierādījuši, ka $\sphericalangle Q A R=2 \sphericalangle X A Y$.
+Līdz ar to esam pierādījuši, ka $\sphericalangle QAR=2 \sphericalangle XAY$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-14.jpg?height=494&width=545&top_left_y=604&top_left_x=824)
-
-33.att.
+![](LV.AMO.2018.11.3A.png)
 
 
 
 # <lo-sample/> LV.AMO.2018.11.4.
 
-11.4. Vai eksistē tādi naturāli skaitli $m$ un $n$, ka $m^{2}-n^{2}=2 m n$ ?
+Vai eksistē tādi naturāli skaitļi $m$ un $n$, ka $m^{2}-n^{2}=2mn$ ?
 
 <small>
 
@@ -1306,38 +1384,48 @@ Līdz ar to esam pierādījuši, ka $\sphericalangle Q A R=2 \sphericalangle X A
 
 ## Atrisinājums
 
-1. atrisinājums. Nē, neeksistē. Pārveidojam doto vienādību:
+Nē, neeksistē. Pārveidojam doto vienādību:
 
-$$
-\begin{gathered}
-m^{2}-2 m n+n^{2}=2 n^{2} \\
-(m-n)^{2}=2 n^{2}
-\end{gathered}
-$$
+$$\begin{gathered}
+m^{2}-2mn+n^{2}=2n^{2} \\
+(m-n)^{2}=2n^{2}
+\end{gathered}$$
 
-Kreisās puses izteiksme ir naturāla skait|a kvadrāts, bet labās puses izteiksme nav naturāla skaitļa kvadrāts, tāpēc neeksistē tādi naturāli skaitļi $m$ un $n$, lai izpildītos dotā vienādība.
+Kreisās puses izteiksme ir naturāla skaitļa kvadrāts, bet labās puses izteiksme
+nav naturāla skaitļa kvadrāts, tāpēc neeksistē tādi naturāli skaitļi $m$ un 
+$n$, lai izpildītos dotā vienādība.
 
 ## Atrisinājums
 
-2. atrisinājums. Nē, neeksistē. Ja $m$ un $n$ ir dažādas paritātes skaitli, tad vienādības $m^{2}-n^{2}=2 m n$ kreisajā pusē ir nepāra skaitlis, bet labajā - pāra skaitlis. Tātad $m$ un $n$ ir jābūt ar vienādu paritāti (tas ir, abi pāra skait!i vai abi nepāra skaitli).
+Nē, neeksistē. Ja $m$ un $n$ ir dažādas paritātes skaitļi, tad vienādības 
+$m^{2}-n^{2}=2mn$ kreisajā pusē ir nepāra skaitlis, bet labajā - pāra skaitlis.
+Tātad $m$ un $n$ ir jābūt ar vienādu paritāti (tas ir, abi pāra skaitļi vai abi
+nepāra skaitļi).
 
-Ja $m$ un $n$ ir nepāra skaitli, tad vienādības kreisajā pusē ir skaitlis, kas dalās ar 4 (jo $m^{2}-n^{2}=(m-n)(n-m)$ un gan $m-n$, gan $m+n$ dalās ar 2 ), bet labajā - skaitlis, kas dalās ar 2 , bet nedalās ar 4 . Tātad $m$ un $n$ var būt tikai pāra skaitli.
+Ja $m$ un $n$ ir nepāra skaitļi, tad vienādības kreisajā pusē ir skaitlis, kas 
+dalās ar $4$ (jo $m^{2}-n^{2}=(m-n)(n-m)$ un gan $m-n$, gan $m+n$ dalās ar 
+$2$), bet labajā - skaitlis, kas dalās ar $2$, bet nedalās ar $4$. Tātad $m$ un
+$n$ var būt tikai pāra skaitļi.
 
 Apzīmējam $m=2 m_{1}$ un $n=2 n_{1}$, tad iegūstam
 
-$$
-\left(2 m_{1}\right)^{2}-\left(2 n_{1}\right)^{2}=2 \cdot 2 m_{1} \cdot 2 n_{1} \quad \Rightarrow \quad 4 m_{1}^{2}-4 n_{1}^{2}=8 m_{1} n_{1}
-$$
+$$\left(2m_{1}\right)^{2}-\left(2n_{1}\right)^{2}=2 \cdot 2m_{1} \cdot 2n_{1} \quad \Rightarrow \quad 4m_{1}^{2}-4n_{1}^{2}=8m_{1}n_{1}$$
 
-Izdalot abas puses ar 4 , iegūstam $m_{1}^{2}-n_{1}^{2}=2 m_{1} n_{1}$ jeb esam ieguvuši sākotnējo vienādojumu ar divas reizes mazākām $m$ un $n$ vērtībām. Šādu vērtību samazināšanas procesu varam atkārtot, līdz iegūsim, ka kāds no skaitliem nav pāra skaitlis. Bet tad atrisinājuma nav, tātad arī gadījumam ar abiem pāru skaitliem atrisinājuma nav. Līdz ar to esam pierādījuši, ka neeksistē tādi naturāli skaitļi $m$ un $n$, lai izpildītos dotā vienādība.
+Izdalot abas puses ar $4$, iegūstam $m_{1}^{2}-n_{1}^{2}=2m_{1}n_{1}$ jeb esam 
+ieguvuši sākotnējo vienādojumu ar divas reizes mazākām $m$ un $n$ vērtībām. 
+Šādu vērtību samazināšanas procesu varam atkārtot, līdz iegūsim, ka kāds no 
+skaitļiem nav pāra skaitlis. Bet tad atrisinājuma nav, tātad arī gadījumam ar 
+abiem pāru skaitļiem atrisinājuma nav. Līdz ar to esam pierādījuši, ka 
+neeksistē tādi naturāli skaitļi $m$ un $n$, lai izpildītos dotā vienādība.
 
-Piezīme. 2. atrisinājumā tika izmantota bezgalīgā kritiena metode.
+$\textit {Piezīme.}$ 2. atrisinājumā tika izmantota bezgalīgā kritiena metode.
 
 
 
 # <lo-sample/> LV.AMO.2018.11.5.
 
-11.5. Vienādojuma $x^{3}-44 x^{2}+623 x-2860=0$ saknes ir trijstūra malu garumi. Aprēkināt šī trijstūra laukumu!
+Vienādojuma $x^{3}-44x^{2}+623x-2860=0$ saknes ir trijstūra malu garumi. 
+Aprēķināt šī trijstūra laukumu!
 
 <small>
 
@@ -1348,44 +1436,47 @@ Piezīme. 2. atrisinājumā tika izmantota bezgalīgā kritiena metode.
 
 ## Atrisinājums
 
-1. atrisinājums. Pēc Hērona formulas $S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}$, kur $a, b$ un $c$ ir trijstūra malu garumi, bet $p$ - pusperimetrs. Doto vienādojumu var pārrakstīt formā $(x-a)(x-b)(x-c)=0$ (jo vienādojuma saknes ir trijstūra malu garumi). Koeficients pie $x^{2}$ ir visu sakņu summa ar pretēju zīmi. Tātad $a+b+c=44$ un $p=22$. levietojot $x$ vietā $p$ un aprēkinot $p^{3}-44 p^{2}+623 p-2860$ vērtību, iegūstam izteiksmes $(p-a)(p-b)(p-c)$ vērtību. Tātad trijstūra laukums ir
+Pēc Hērona formulas $S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}$, kur $a,\ b$ un $c$ ir
+trijstūra malu garumi, bet $p$ - pusperimetrs. Doto vienādojumu var pārrakstīt 
+formā $(x-a)(x-b)(x-c)=0$ (jo vienādojuma saknes ir trijstūra malu garumi). 
+Koeficients pie $x^{2}$ ir visu sakņu summa ar pretēju zīmi. Tātad $a+b+c=44$ 
+un $p=22$. levietojot $x$ vietā $p$ un aprēķinot $p^{3}-44p^{2}+623p-2860$ 
+vērtību, iegūstam izteiksmes $(p-a)(p-b)(p-c)$ vērtību. Tātad trijstūra laukums
+ir
 
-$$
-S_{\Delta}=\sqrt{22\left(22^{3}-44 \cdot 22^{2}+623 \cdot 22-2860\right)}=22 \sqrt{22^{2}-2 \cdot 22^{2}+623-130}=22 \sqrt{9}=66
-$$
+$$S_{\Delta}=\sqrt{22\left(22^{3}-44 \cdot 22^{2}+623 \cdot 22-2860\right)}=22 \sqrt{22^{2}-2 \cdot 22^{2}+623-130}=22 \sqrt{9}=66$$
 
 ## Atrisinājums
 
-2. atrisinājums. Dotā trijstūra malu garumus apzīmējam ar $a, b$ un $c$. Tā kā $a, b$ un $c$ ir vienādojuma saknes, tad
+Dotā trijstūra malu garumus apzīmējam ar $a,\ b$ un $c$. Tā kā $a,\ b$ un $c$ 
+ir vienādojuma saknes, tad
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 (x-a)(x-b)(x-c)=0 \\
-x^{3}-(a+b+c) x^{2}+(a b+a c+b c) x-a b c=0
-\end{gathered}
-$$
+x^{3}-(a+b+c)x^{2}+(ab+ac+bc)x-abc=0
+\end{gathered}$$
 
 Pielīdzinot koeficientus pie vienādām $x$ pakāpēm, iegūstam vienādojumu sistēmu
 
-$$
-\left\{\begin{array}{c}
+$$\left\{\begin{array}{c}
 a+b+c=44 \\
-a b+a c+b c=623 \\
-a b c=2860
-\end{array}\right.
-$$
+ab+ac+bc=623 \\
+abc=2860
+\end{array}\right.$$
 
-Ievērojot, ka $2860=2 \cdot 5 \cdot 11 \cdot 13$, varam uzminēt, ka $a, b, c$ vērtības ir $10,11,13$ un pārbaudīt, ka tās tiešām apmierina šo vienādojumu sistēmu. Tā kā trešās pakāpes vienādojumam ir ne vairāk kā trīs saknes, tad trijstūra malu garumi ir $10,11,13$. Izmantojot Hērona formulu, aprēkinām trijstūra laukumu
+Ievērojot, ka $2860=2 \cdot 5 \cdot 11 \cdot 13$, varam uzminēt, ka $a,\ b,\ c$
+vērtības ir $10,\ 11,\ 13$ un pārbaudīt, ka tās tiešām apmierina šo vienādojumu
+sistēmu. Tā kā trešās pakāpes vienādojumam ir ne vairāk kā trīs saknes, tad 
+trijstūra malu garumi ir $10,\ 11,\ 13$. Izmantojot Hērona formulu, aprēķinām 
+trijstūra laukumu
 
-$$
-S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{22 \cdot 12 \cdot 11 \cdot 9}=22 \cdot 3=66
-$$
+$$S_{\Delta}=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{22 \cdot 12 \cdot 11 \cdot 9}=22 \cdot 3=66$$
 
 
 
 # <lo-sample/> LV.AMO.2018.12.1.
 
-12.1. Pierādīt, ka
+Pierādīt, ka
 
 $$
 \log _{81} 96=\frac{14-\log _{48} 54}{16 \log _{48} 54-4}
@@ -1400,30 +1491,33 @@ $$
 
 ## Atrisinājums
 
-Atrisinājums. Ievērojam, ka $48=2^{4} \cdot 3,54=2 \cdot 3^{3}, 81=3^{4}$ un $96=2^{5} \cdot 3$.
+Ievērojam, ka $48=2^{4} \cdot 3,54=2 \cdot 3^{3},\ 81=3^{4}$ un 
+$96=2^{5} \cdot 3$.
 
-Izmantosim formulu pārejai uz citu bāzi $\log _{a} b=\frac{\log _{c} b}{\log _{c} a}$. Nemam $c=3$ un apzīmējam $\log _{3} 2=x$. Tad
+Izmantosim formulu pārejai uz citu bāzi 
+$\log _{a} b=\frac{\log _{c} b}{\log _{c} a}$. Ņemam $c=3$ un apzīmējam 
+$\log _{3} 2=x$. Tad
 
-$$
-\log _{48} 54=\frac{\log _{3} 54}{\log _{3} 48}=\frac{\log _{3}\left(2 \cdot 3^{3}\right)}{\log _{3}\left(2^{4} \cdot 3\right)}=\frac{\log _{3} 2+3 \log _{3} 3}{4 \log _{3} 2+\log _{3} 3}=\frac{x+3}{4 x+1}
-$$
+$$\log _{48} 54=\frac{\log _{3} 54}{\log _{3} 48}=\frac{\log _{3}\left(2 \cdot 3^{3}\right)}{\log _{3}\left(2^{4} \cdot 3\right)}=\frac{\log _{3} 2+3 \log _{3} 3}{4 \log _{3} 2+\log _{3} 3}=\frac{x+3}{4x+1}$$
 
-Izsakot $x$, iegūstam $4 x \log _{48} 54+\log _{48} 54=x+3$ jeb $x=\frac{3-\log _{48} 54}{4 \log _{48} 54-1}$.
+Izsakot $x$, iegūstam $4x \log _{48} 54+\log _{48} 54=x+3$ jeb 
+$x=\frac{3-\log _{48} 54}{4 \log _{48} 54-1}$.
 
 Līdz ar to
 
-$$
-\begin{aligned}
-\log _{81} 96 & =\frac{\log _{3} 96}{\log _{3} 81}=\frac{\log _{3}\left(2^{5} \cdot 3\right)}{\log _{3}\left(3^{4}\right)}=\frac{5 \log _{3} 2+\log _{3} 3}{4 \log _{3} 3}=\frac{5 x+1}{4}=\frac{1}{4}\left(5 \cdot \frac{3-\log _{48} 54}{4 \log _{48} 54-1}+1\right)= \\
+$$\begin{aligned}
+\log _{81} 96 & =\frac{\log _{3} 96}{\log _{3} 81}=\frac{\log _{3}\left(2^{5} \cdot 3\right)}{\log _{3}\left(3^{4}\right)}=\frac{5 \log _{3} 2+\log _{3} 3}{4 \log _{3} 3}=\frac{5x+1}{4}=\frac{1}{4}\left(5 \cdot \frac{3-\log _{48} 54}{4 \log _{48} 54-1}+1\right)= \\
 & =\frac{1}{4}\left(\frac{15-5 \log _{48} 54+4 \log _{48} 54-1}{4 \log _{48} 54-1}\right)=\frac{14-\log _{48} 54}{16 \log _{48} 54-4}
-\end{aligned}
-$$
+\end{aligned}$$
 
 
 
 # <lo-sample/> LV.AMO.2018.12.2.
 
-12.2. Cik veidos rindā var iestādīt septinus kokus - liepas, ozolus, priedes un egles - tā, lai nekur blakus neatrastos divi skuju koki? (Nav obligāti jāizmanto visas koku sugas. Veidi, kas atškiras ar koku secību rindā, ir dažādi.)
+Cik veidos rindā var iestādīt septiņus kokus - liepas, ozolus, priedes un 
+egles - tā, lai nekur blakus neatrastos divi skuju koki? (Nav obligāti 
+jāizmanto visas koku sugas. Veidi, kas atšķiras ar koku secību rindā, ir 
+dažādi.)
 
 <small>
 
@@ -1434,33 +1528,41 @@ $$
 
 ## Atrisinājums
 
-Atrisinājums. Ar $k_{n}$ apzīmējam dažādo veidu skaitu, kā rindā iestādīt $n$ kokus atbilstoši uzdevuma nosacijumiem. Ja pirmais ir lapu koks ( 2 veidi), tad pārējos $n-1$ kokus var iestādīt $k_{n-1}$ veidos.
+Ar $k_{n}$ apzīmējam dažādo veidu skaitu, kā rindā iestādīt $n$ kokus 
+atbilstoši uzdevuma nosacījumiem. Ja pirmais ir lapu koks ($2$ veidi), tad 
+pārējos $n-1$ kokus var iestādīt $k_{n-1}$ veidos.
 
-Ja pirmais ir skuju koks (2 veidi), tad otrajam jābūt lapu kokam (2 veidi), bet pārējos $n-2$ kokus var iestādīt $k_{n-2}$ veidos.
+Ja pirmais ir skuju koks ($2$ veidi), tad otrajam jābūt lapu kokam ($2$ veidi),
+bet pārējos $n-2$ kokus var iestādīt $k_{n-2}$ veidos.
 
-Tātad $n$ kokus rindā, atbilstoši uzdevuma nosacijumiem, var iestādīt
+Tātad $n$ kokus rindā, atbilstoši uzdevuma nosacījumiem, var iestādīt
 
-$$
-k_{n}=2 \cdot k_{n-1}+2 \cdot 2 \cdot k_{n-2}=2 k_{n-1}+4 k_{n-2}
-$$
+$$k_{n}=2 \cdot k_{n-1}+2 \cdot 2 \cdot k_{n-2}=2k_{n-1}+4k_{n-2}$$
 
-Veidos. Tā kā $k_{1}=4$ (liepa, ozols, priede, egle) un $k_{2}=2 \cdot 4+2 \cdot 2=12$ (tas ir, ja pirmais ir lapu koks (2 veidi), tad otrais var būt jebkurš no pārējiem četriem kokiem, ja pirmais ir skuju koks (2 veidi), tad otrais var būt jebkurš no pārējiem diviem lapu kokiem).
+Veidos. Tā kā $k_{1}=4$ (liepa, ozols, priede, egle) un 
+$k_{2}=2 \cdot 4+2 \cdot 2=12$ (tas ir, ja pirmais ir lapu koks ($2$ veidi), 
+tad otrais var būt jebkurš no pārējiem četriem kokiem, ja pirmais ir skuju koks
+($2$ veidi), tad otrais var būt jebkurš no pārējiem diviem lapu kokiem).
 
-Tālāk, izmantojot iegūto formulu $k_{n}=2 k_{n-1}+4 k_{n-2}$, iegūstam, ka pavisam ir 4352 dažādi veidi, kā rindā iestādī septinus kokus, kas apmierina uzdevuma nosacijumus.
+Tālāk, izmantojot iegūto formulu $k_{n}=2k_{n-1}+4k_{n-2}$, iegūstam, ka 
+pavisam ir $4352$ dažādi veidi, kā rindā iestādīt septiņus kokus, kas apmierina
+uzdevuma nosacījumus.
 
-| $n$ | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| $n$ | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ | $7$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $k_{n}$ | 4 | 12 | 40 | 128 | 416 | 1344 | 4352 |
+| $k_{n}$ | $4$ | $12$ | $40$ | $128$ | $416$ | $1344$ | $4352$ |
 
 
 
 # <lo-sample/> LV.AMO.2018.12.3.
 
-12.3. Kvadrāta $A B C D$ mala $A D$ pārlocīta tā, ka pēc pārlocīšanas punkts $D$ sakrīt ar kādu $B C$ iekšēju punktu $D^{\prime}$, bet punkts $A$ nonāk punktā $A^{\prime}$. Nogrieznis $A^{\prime} D^{\prime}$ krusto $A B$ punktā $E$ (skat. 34.att.). Pierādīt, ka $A^{\prime} E$ garums ir vienāds ar trijstūrī $E B D^{\prime}$ ievilktās rinka līnijas rādiusu!
+Kvadrāta $ABCD$ mala $AD$ pārlocīta tā, ka pēc pārlocīšanas punkts $D$ sakrīt 
+ar kādu $BC$ iekšēju punktu $D^{\prime}$, bet punkts $A$ nonāk punktā 
+$A^{\prime}$. Nogrieznis $A^{\prime}D^{\prime}$ krusto $AB$ punktā $E$ (skat. 
+34.att.). Pierādīt, ka $A^{\prime}E$ garums ir vienāds ar trijstūrī 
+$EBD^{\prime}$ ievilktās riņķa līnijas rādiusu!
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-15.jpg?height=408&width=391&top_left_y=2280&top_left_x=838)
-
-34.att.
+![](LV.AMO.2018.12.3.png)
 
 <small>
 
@@ -1471,25 +1573,34 @@ Tālāk, izmantojot iegūto formulu $k_{n}=2 k_{n-1}+4 k_{n-2}$, iegūstam, ka p
 
 ## Atrisinājums
 
-Atrisinājums. Ievērojam, ka $\triangle F A^{\prime} E \sim \triangle D^{\prime} B E$ (skat. 35.att.) pēc pazīmes $\ell \ell$, jo $\sphericalangle F A^{\prime} E=\sphericalangle D^{\prime} B E=90^{\circ}$ un $\sphericalangle F E A^{\prime}=\sphericalangle D^{\prime} E B$ kā krustleņki. Šo trijstūru līdzības koeficients ir $k$, tad, apzīmējot $F A^{\prime}=y, A^{\prime} E=x$ un $F E=z$, iegūstam, ka $E B=k x, B D^{\prime}=k y$ un $E D^{\prime}=k z$. Tātad mums jāpierāda, ka $r=x$. Trijstūrī $E B D^{\prime}$ ievilktās rinka līnijas rādiusa garums ir $r=\frac{E B+B D^{\prime}-E D^{\prime}}{2}=\frac{k x+k y-k z}{2}=\frac{k(x+y-z)}{2}$.
+Ievērojam, ka $\triangle FA^{\prime}E \sim \triangle D^{\prime}BE$ (skat. 
+35.att.) pēc pazīmes $\ell \ell$, jo 
+$\sphericalangle FA^{\prime}E=\sphericalangle D^{\prime}BE=90^{\circ}$ un 
+$\sphericalangle FEA^{\prime}=\sphericalangle D^{\prime}EB$ kā krustleņķi. Šo 
+trijstūru līdzības koeficients ir $k$, tad, apzīmējot 
+$FA^{\prime}=y,\ A^{\prime}E=x$ un $FE=z$, iegūstam, ka 
+$EB=kx,\ BD^{\prime}=ky$ un $ED^{\prime}=kz$. Tātad mums jāpierāda, ka $r=x$. 
+Trijstūrī $EBD^{\prime}$ ievilktās riņķa līnijas rādiusa garums ir 
+$r=\frac{EB+BD^{\prime}-ED^{\prime}}{2}=\frac{kx+ky-kz}{2}=\frac{k(x+y-z)}{2}$.
 
-Ievērojam, ka simetrijas dē! $A F=F A^{\prime}=y$ un $A B=A^{\prime} D^{\prime}$ (kā kvadrāta malas) jeb $y+z+k x=x+k z$. Izsakām $k=\frac{y+z-x}{z-x}$. Līdz ar to iegūstam, ka $r=\frac{k(x+y-z)}{2}=\frac{(y+z-x)(y-z+x)}{2(z-x)}=\frac{2 x z+y^{2}-z^{2}-x^{2}}{2(z-x)}$.
+Ievērojam, ka simetrijas dēļ $AF=FA^{\prime}=y$ un $AB=A^{\prime}D^{\prime}$ 
+(kā kvadrāta malas) jeb $y+z+kx=x+kz$. Izsakām $k=\frac{y+z-x}{z-x}$. Līdz ar 
+to iegūstam, ka 
+$r=\frac{k(x+y-z)}{2}=\frac{(y+z-x)(y-z+x)}{2(z-x)}=\frac{2xz+y^{2}-z^{2}-x^{2}}{2(z-x)}$.
 
-Izmantojot Pitagora teorēmu trijstūrī $F A^{\prime} E$, iegūstam $y^{2}-z^{2}=-x^{2}$. Tātad
+Izmantojot Pitagora teorēmu trijstūrī $FA^{\prime}E$, iegūstam 
+$y^{2}-z^{2}=-x^{2}$. Tātad
 
-$$
-r=\frac{2 x z-2 x^{2}}{2(z-x)}=\frac{2 x(z-x)}{2(z-x)}=x
-$$
+$$r=\frac{2xz-2x^{2}}{2(z-x)}=\frac{2x(z-x)}{2(z-x)}=x$$
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-16.jpg?height=508&width=491&top_left_y=648&top_left_x=837)
-
-35.att.
+![](LV.AMO.2018.12.3A.png)
 
 
 
 # <lo-sample/> LV.AMO.2018.12.4.
 
-12.4. Naturāls skaitlis $B$ ir iegūts no naturāla skaitla $A$, samainot vietām tā ciparus. Zināms, ka $A+B=10^{45}$. Pierādīt, ka gan $A$, gan $B$ dalās ar 5 .
+Naturāls skaitlis $B$ ir iegūts no naturāla skaitļa $A$, samainot vietām tā 
+ciparus. Zināms, ka $A+B=10^{45}$. Pierādīt, ka gan $A$, gan $B$ dalās ar $5$.
 
 <small>
 
@@ -1500,26 +1611,51 @@ $$
 
 ## Atrisinājums
 
-Atrisinājums. Apzīmējam $A=\overline{a_{45} a_{44} \ldots a_{2} a_{1}}$ un $B=\overline{b_{45} b_{44} \ldots b_{2} b_{1}}$.
+Apzīmējam $A=\overline{a_{45}a_{44} \ldots a_{2}a_{1}}$ un 
+$B=\overline{b_{45}b_{44} \ldots b_{2}b_{1}}$.
 
-Desmitnieka pakāpes visi cipari, izņemot pirmo, ir 0. Apskatām abus iespējamos gadījumus: $a_{1}+b_{1}=0$ vai $a_{1}+b_{1}=10$
+Desmitnieka pakāpes visi cipari, izņemot pirmo, ir $0$. Apskatām abus 
+iespējamos gadījumus: $a_{1}+b_{1}=0$ vai $a_{1}+b_{1}=10$
 
-Ja $a_{1}+b_{1}=0$, tad $a_{1}=b_{1}=0$. Līdz ar to $A$ un $B$ dalās ar 5 .
+Ja $a_{1}+b_{1}=0$, tad $a_{1}=b_{1}=0$. Līdz ar to $A$ un $B$ dalās ar $5$.
 
-Ja $a_{1}+b_{1}=10$, tad derīgie ciparu komplekti (neņemot vērā $a_{1}$ un $b_{1}$ secību) ir (1; 9), (2; 8), (3; 7), $(4 ; 6),(5 ; 5)$ un veidojas pārnesums. Tas nozīmē, ka $\overline{a_{45} a_{44} \ldots a_{2}}+\overline{b_{45} b_{44} \ldots b_{2}}=\underbrace{9999 \ldots 9}_{45}$
+Ja $a_{1}+b_{1}=10$, tad derīgie ciparu komplekti (neņemot vērā $a_{1}$ un 
+$b_{1}$ secību) ir $(1; 9),\ (2; 8),\ (3; 7),\ (4 ; 6),\ (5 ; 5)$ un veidojas 
+pārnesums. Tas nozīmē, ka 
+$\overline{a_{45}a_{44} \ldots a_{2}}+\overline{b_{45}b_{44} \ldots b_{2}}=\underbrace{9999 \ldots 9}_{45}$
 
-Līdz ar to katram $i(2 \leq i \leq 45) i$-tajā pozīcijā $a_{i}+b_{i}=9$, jo divu viencipara skait|u summa nevar būt 19. Katrā pozīcijā zinot vienu no skaitlliem, viennozīmīgi ir noteikts arī otrs. Tātad pa visām šīm pozīcijām kopā sakrīt ciparu 0 un 9 skaits, 1 un 8 skaits, 2 un 7 skaits, 3 un 6 skaits, 4 un 5 skaits. Līdz ar to pa visām šīm pozīcijām kopā ir 45 pāra un 45 nepāra cipari, bet pēdējā pozīcijā abi cipari ir vai nu pāra, vai nepāra.
+Līdz ar to katram $i(2 \leq i \leq 45) i$-tajā pozīcijā $a_{i}+b_{i}=9$, jo 
+divu viencipara skaitļu summa nevar būt $19$. Katrā pozīcijā zinot vienu no 
+skaitļiem, viennozīmīgi ir noteikts arī otrs. Tātad pa visām šīm pozīcijām kopā
+sakrīt ciparu $0$ un $9$ skaits, $1$ un $8$ skaits, $2$ un $7$ skaits, $3$ un 
+$6$ skaits, $4$ un $5$ skaits. Līdz ar to pa visām šīm pozīcijām kopā ir $45$ 
+pāra un $45$ nepāra cipari, bet pēdējā pozīcijā abi cipari ir vai nu pāra, vai 
+nepāra.
 
-- Ja pēdējā pozīcijā abi ir nepāra cipari, tad visi pāra cipari, kas ietilpst $A$ un $B$ pierakstā, atrodas pozīcijās no pirmās līdz priekšpēdējai. Tā kā $A$ un $B$ ir veidoti no viena ciparu komplekta, tad pāra ciparu komplekts skaitlī $A$ sakrīt ar pāra ciparu komplektu skaitlī $B$. Tā kā katrs pāra cipars vienā skaitlī viennozīmīgi nosaka nepāra ciparu otrā skaitlī, tad abu skait|u pierakstā, bez pēdējā cipara, izmantoti arī vieni un tie paši nepāra cipari. Lai viss ciparu komplekts abiem skaitliem būtu vienāds, nepieciešams, lai $a_{1}=b_{1}$. Bet tas ir iespējams tikai tad, ja $a_{1}=b_{1}=5$. Tas nozīmē, ka $A$ un $B$ dalās ar 5 .
-- Ja pēdējā pozīcijā abi ir pāra cipari, tad izmantojot līdzīgus spriedumus, iegūstam, ka $a_{1}=b_{1}$, bet tas nav iespējams, jo skaitli 10 nav iespējams iegūt kā divu vienādu pāra ciparu summu.
+- Ja pēdējā pozīcijā abi ir nepāra cipari, tad visi pāra cipari, kas ietilpst 
+  $A$ un $B$ pierakstā, atrodas pozīcijās no pirmās līdz priekšpēdējai. Tā kā 
+  $A$ un $B$ ir veidoti no viena ciparu komplekta, tad pāra ciparu komplekts 
+  skaitlī $A$ sakrīt ar pāra ciparu komplektu skaitlī $B$. Tā kā katrs pāra 
+  cipars vienā skaitlī viennozīmīgi nosaka nepāra ciparu otrā skaitlī, tad abu 
+  skaitļu pierakstā, bez pēdējā cipara, izmantoti arī vieni un tie paši nepāra 
+  cipari. Lai viss ciparu komplekts abiem skaitļiem būtu vienāds, nepieciešams,
+  lai $a_{1}=b_{1}$. Bet tas ir iespējams tikai tad, ja $a_{1}=b_{1}=5$. Tas 
+  nozīmē, ka $A$ un $B$ dalās ar $5$.
+- Ja pēdējā pozīcijā abi ir pāra cipari, tad izmantojot līdzīgus spriedumus, 
+  iegūstam, ka $a_{1}=b_{1}$, bet tas nav iespējams, jo skaitli $10$ nav 
+  iespējams iegūt kā divu vienādu pāra ciparu summu.
 
-Tātad esam pierādījuši, ka gan $A$, gan $B$ dalās ar 5 .
+Tātad esam pierādījuši, ka gan $A$, gan $B$ dalās ar $5$.
 
 
 
 # <lo-sample/> LV.AMO.2018.12.5.
 
-12.5. Katras divas regulāra sešstūra virsotnes savieno vai nu ar sarkanu, vai zilu nogriezni. Aplūkosim visus trijstūrus, kuru virsotnes ir dotā sešstūra virsotnes. a) Pierādīt, ka starp tiem ir vismaz viens vienkrāsas trijstūris! b) Vai var gadīties, ka starp tiem ir tieši viens vienkrāsas trijstūris?
+Katras divas regulāra sešstūra virsotnes savieno vai nu ar sarkanu, vai zilu 
+nogriezni. Aplūkosim visus trijstūrus, kuru virsotnes ir dotā sešstūra 
+virsotnes. **a)** Pierādīt, ka starp tiem ir vismaz viens vienkrāsas 
+trijstūris! **b)** Vai var gadīties, ka starp tiem ir tieši viens vienkrāsas 
+trijstūris?
 
 Trijstūri sauc par vienkrāsas, ja tam visas malas ir nokrāsotas vienā krāsā.
 
@@ -1532,17 +1668,29 @@ Trijstūri sauc par vienkrāsas, ja tam visas malas ir nokrāsotas vienā krās�
 
 ## Atrisinājums
 
-Atrisinājums. Regulārā sešstūra virsotnes apzīmējam ar $A, B, C, D, E, F$.
+Regulārā sešstūra virsotnes apzīmējam ar $A, B, C, D, E, F$.
 
-a) Pierādīsim, ka vienmēr būs vismaz viens vienkrāsas trijstūris. Pienemsim, ka nav neviena vienkrāsas trijstūra. Aplūkojam patvalīgu sešstūra virsotni $A$. Tā kā no tās iziet 5 nogriežņi, tad vismaz trīs no tiem ir vienā krāsā (Dirihlē princips). Nezaudējot vispārīgumu, uzskatīsim, ka nogriežņi $A B, A C, A D$ ir sarkanā krasā. Tad $B C$ un $C D$ jābūt zilā krāsā un viens no trijstūriem $A B D$ vai $B C D$ ir vienkrāsas trijstūris (skat. 36.att.). legūta pretruna ar pienēmumu.
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-17.jpg?height=384&width=456&top_left_y=621&top_left_x=800)
+**a)** Pierādīsim, ka vienmēr būs vismaz viens vienkrāsas trijstūris. 
+Pieņemsim, ka nav neviena vienkrāsas trijstūra. Aplūkojam patvaļīgu sešstūra 
+virsotni $A$. Tā kā no tās iziet $5$ nogriežņi, tad vismaz trīs no tiem ir 
+vienā krāsā (Dirihlē princips). Nezaudējot vispārīgumu, uzskatīsim, ka 
+nogriežņi $\textcolor{red}{AB}, \textcolor{red}{AC}, \textcolor{red}{AD}$ ir 
+sarkanā krasā. Tad $\textcolor{blue}{BC}$ un $\textcolor{blue}{CD}$ jābūt zilā 
+krāsā un viens no trijstūriem $ABD$ vai $BCD$ ir vienkrāsas trijstūris (skat. 
+36.att.). legūta pretruna ar pieņēmumu.
 
-36.att.
+![](LV.AMO.2018.12.5A.png)
 
-b) Nē, nevar. Pierādīsim, ka vienmēr būs vismaz divi vienkrāsas trijstūri. Pieņemsim, ka ir tikai viens vienkrāsas trijstūris. Nezaudējot vispārīgumu, varam uzskatīt, ka tas ir sarkans trijstūris $A C E$ (skat. 37.att.). Vismaz viena no trijstūra $F B D$ malām $F B, B D$ vai $D F$ ir zilā krāsā, pretējā gadījumā uzreiz būtu divi vienkrāsas trijstūri. Nezaudējot vispārīgumu, varam uzskatīt, ka $F B$ ir zila. Viens no nogriežņiem $A F$ vai $A B$ ir sarkans, jo pretējā gadījumā būtu divi vienkrāsas trijstūri. Simetrijas dē! varam uzskatīt, ka $\boldsymbol{A F}$ ir sarkans. Tad $\boldsymbol{F} \boldsymbol{E}$ un $\boldsymbol{F} \boldsymbol{C}$ ir zilā krāsā, bet $B C$ ir sarkanā krāsā. Tagad vai nu $F E B$, vai $B E C$ ir vienkrāsas trijstūris. legūta pretruna ar pienēmumu.
+**b)** Nē, nevar. Pierādīsim, ka vienmēr būs vismaz divi vienkrāsas trijstūri. 
+Pieņemsim, ka ir tikai viens vienkrāsas trijstūris. Nezaudējot vispārīgumu, 
+varam uzskatīt, ka tas ir sarkans trijstūris $\textcolor{red}{ACE}$ (skat. 
+37.att.). Vismaz viena no trijstūra $FBD$ malām $FB,\ BD$ vai $DF$ ir zilā 
+krāsā, pretējā gadījumā uzreiz būtu divi vienkrāsas trijstūri. Nezaudējot 
+vispārīgumu, varam uzskatīt, ka $FB$ ir zila. Viens no nogriežņiem $AF$ vai 
+$AB$ ir sarkans, jo pretējā gadījumā būtu divi vienkrāsas trijstūri. Simetrijas
+dēļ varam uzskatīt, ka $\textcolor{red}{AF}$ ir sarkans. Tad 
+$\textcolor{blue}{FE}$ un $\textcolor{blue}{FC}$ ir zilā krāsā, bet 
+$\textcolor{red}{BC}$ ir sarkanā krāsā. Tagad vai nu $FEB$, vai $BEC$ ir 
+vienkrāsas trijstūris. legūta pretruna ar pieņēmumu.
 
-![](https://cdn.mathpix.com/cropped/2024_07_20_8fcd95cf03919221a9beg-17.jpg?height=383&width=371&top_left_y=1376&top_left_x=797)
-
-$\bullet D$
-
-37.att.
+![](LV.AMO.2018.12.5B.png)
