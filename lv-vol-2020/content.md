@@ -1,4 +1,4 @@
-# <lo-sample/> LV.VOL.2020.9.1.
+# <lo-sample/> LV.VOL.2020.9.1
 
 Reālus skaitļus $a$ un $b$ saista sakarība $\frac{4a^{2}-7b^{2}}{ab}=12$. Kāda
 var būt $\frac{4a^{2}+7b^{2}}{ab}$ vērtība?
@@ -41,7 +41,7 @@ $4 \frac{a}{b}-7 \frac{b}{a}=12$ jeb $4 x-\frac{7}{x}=12$.
 
 
 
-# <lo-sample/> LV.VOL.2020.9.2.
+# <lo-sample/> LV.VOL.2020.9.2
 
 Uz trijstūra $ABC$ malām $AC$ un $BC$ attiecīgi atlikti punkti $M$ un $N$. 
 Nogriežņi $AN$ un $BM$ krustojas punktā $P$. Aprēķināt trijstūra $ABC$ laukumu,
@@ -89,7 +89,7 @@ S(ACB)=48
 
 
 
-# <lo-sample/> LV.VOL.2020.9.3.
+# <lo-sample/> LV.VOL.2020.9.3
 
 Vai naturāla skaitļa kvadrāta ciparu summa var būt **a)** $19$, **b)** $2019$?
 
@@ -116,7 +116,7 @@ nedalās, tātad $2019$ nevar būt naturāla skaitļa kvadrāta ciparu summa.
 
 
 
-# <lo-sample/> LV.VOL.2020.9.4.
+# <lo-sample/> LV.VOL.2020.9.4
 
 Sākotnēji katrā kvadrāta $5 \times 5$ rūtiņā atradās tieši viena skudra. Tad 
 katra skudra pārvietojās uz kādu blakus rūtiņu (tas ir, uz rūtiņu, kam ar esošo
@@ -153,7 +153,7 @@ tajā pašā rūtiņā. Tātad var palikt ne vairāk kā $25-9=16$ tukšas rūti
 
 
 
-# <lo-sample/> LV.VOL.2020.9.5.
+# <lo-sample/> LV.VOL.2020.9.5
 
 Hokeja turnīrā piedalijās $16$ komandas. Katra komanda ar katru citu spēlēja 
 tieši vienu reizi; neizšķirtu nav. Apzīmēsim katras komandas uzvaru un 
@@ -191,7 +191,7 @@ $x_{1}^{2}+x_{2}^{2}+\ldots+x_{16}^{2}=y_{1}^{2}+y_{2}^{2}+\ldots+y_{16}^{2}$.
 
 
 
-# <lo-sample/> LV.VOL.2020.10.1.
+# <lo-sample/> LV.VOL.2020.10.1
 
 Pierādīt, ka visus naturālos skaitļus, kas lielāki nekā $100$, var izteikt kā 
 pirmskaitļa un salikta skaitļa summu! 
@@ -216,7 +216,7 @@ lielāki nekā $5$.
 
 
 
-# <lo-sample/> LV.VOL.2020.10.2.
+# <lo-sample/> LV.VOL.2020.10.2
 
 Izliekta četrstūra $ABCD$ diagonāle $AC$ ir leņķa $A$ bisektrise, $AC=AD$ un 
 $\sphericalangle B=90^{\circ}$. Trijstūrī $ADC$ novilkts augstums $DH$. 
@@ -266,7 +266,7 @@ $HPC$ ir vienādsānu un $HP=CP$. Līdz ar to $CP=PD$.
 
 
 
-# <lo-sample/> LV.VOL.2020.10.3.
+# <lo-sample/> LV.VOL.2020.10.3
 
 Pierādīt, ka nevienai naturālai $n$ vērtībai izteiksmes $13^{n}+7^{n}+2019$ 
 vērtība nav naturāla skaitļa kvadrāts!
@@ -298,7 +298,7 @@ skaitļa $3$ daudzkārtņa moduļa, tas ir, $6, 9, 12$ utt.
 
 
 
-# <lo-sample/> LV.VOL.2020.10.4.
+# <lo-sample/> LV.VOL.2020.10.4
 
 Komisijā ir $7$ cilvēki. lerodoties uz sēdi, daži no viņiem sarokojas. Kāds ir 
 mazākais iespējamais sarokošanos skaits, lai no katriem trim komisijas 
@@ -346,7 +346,7 @@ gadījumus.
 
 
 
-# <lo-sample/> LV.VOL.2020.10.5.
+# <lo-sample/> LV.VOL.2020.10.5
 
 Dots, ka $0 \leq a_{1} \leq a_{2} \leq \cdots \leq a_{1000}$ un 
 $a_{1}+a_{2}+\cdots+a_{1000}=1$. Pierādīt, ja $n$ ir naturāls skaitlis un 
@@ -385,7 +385,7 @@ $$\frac{a_{1}+a_{2}+\cdots+a_{n}}{n} \leq \frac{a_{1}+a_{2}+\cdots+a_{n}+a_{n+1}
 
 
 
-# <lo-sample/> LV.VOL.2020.11.1.
+# <lo-sample/> LV.VOL.2020.11.1
 
 Kādā valstī ir $100$ pilsētas. Starp dažām no tām organizēti avioreisi. Starp 
 katrām divām pilsētām ir augstākais viens reiss. Katrs reiss savieno tikai $2$ 
@@ -416,7 +416,7 @@ $\textit {Piezīme.}$ Risinājumā izmantots Dirihlē princips.
 
 
 
-# <lo-sample/> LV.VOL.2020.11.2.
+# <lo-sample/> LV.VOL.2020.11.2
 
 Ap četrstūri $ABCD$ apvilkta riņķa līnija. Taisne, kas ir paralēla $BC$ un iet 
 caur $D$, krusto nogriezni $AC$ punktā $M$. Taisne, kas ir paralēla $AB$ un iet
@@ -455,7 +455,7 @@ punktā $D$.
 
 
 
-# <lo-sample/> LV.VOL.2020.11.3.
+# <lo-sample/> LV.VOL.2020.11.3
 
 Pierādīt, ka nevienai naturālai $n$ vērtībai izteiksmes 
 $13^{n}+10^{n}+7^{n}+3^{n}$ vērtība nav naturāla skaitļa kvadrāts!
@@ -500,7 +500,7 @@ moduļa $9$ var būt tikai $0, 1, 4$ vai $7$.
 
 
 
-# <lo-sample/> LV.VOL.2020.11.4.
+# <lo-sample/> LV.VOL.2020.11.4
 
 Naturālu skaitļu virknes pirmie divi locekļi ir $a_{1}$ un $a_{2}$, turklāt 
 $a_{2}>a_{1}$. Katru nākamo virknes locekli, sākot ar trešo, aprēķina pēc 
@@ -544,7 +544,7 @@ vienādojums $89a_{1}+55p=100a_{1}$.
 
 
 
-# <lo-sample/> LV.VOL.2020.11.5.
+# <lo-sample/> LV.VOL.2020.11.5
 
 Koordinātu plaknē doti **a)** $8$; **b)** $9$ punkti, katram no tiem 
 koordinātas ir veseli skaitļi. Zināms, ka nekādi trīs punkti neatrodas uz 
@@ -639,7 +639,7 @@ Apskatīsim iespējamos gadījumus:
 
 
 
-# <lo-sample/> LV.VOL.2020.12.1.
+# <lo-sample/> LV.VOL.2020.12.1
 
 Vienādojumam $x^{3}-px+2019=0$, kur $p$ - naturāls skaitlis, ir trīs reālas 
 saknes $x_{1}, x_{2}, x_{3}$. Kāda var būt izteiksmes 
@@ -710,7 +710,7 @@ $$\begin{aligned}
 
 
 
-# <lo-sample/> LV.VOL.2020.12.2.
+# <lo-sample/> LV.VOL.2020.12.2
 
 Riņķa līnijā ar centru punktā $O$ novilkta horda $AB$, kas neiet caur $O$. Caur
 punktu $B$ novilkts perpendikuls pret $AB$, kas riņķa līniju vēlreiz krusto 
@@ -788,7 +788,7 @@ OE^{2}=OB^{2}+2 \cdot EB \cdot OB
 
 
 
-# <lo-sample/> LV.VOL.2020.12.3.
+# <lo-sample/> LV.VOL.2020.12.3
 
 Pierādīt, ka nevienai naturālai $n$ vērtībai izteiksmes
 
@@ -848,7 +848,7 @@ Tātad dotā izteiksme nevar būt naturāla skaitļa kvadrāts.
 
 
 
-# <lo-sample/> LV.VOL.2020.12.4.
+# <lo-sample/> LV.VOL.2020.12.4
 
 Doti seši dažādi iracionāli skaitļi. Pierādīt, ka no tiem var izvēlēties $3$ 
 skaitļus (apzīmēsim tos ar $x, y, z$) tā, ka visi trīs skaitļi $x+y, x+z, y+z$ 
@@ -886,7 +886,7 @@ ierakstītie skaitļi ir meklētie.
  
 
 
-# <lo-sample/> LV.VOL.2020.12.5.
+# <lo-sample/> LV.VOL.2020.12.5
 
 Atrast
 
