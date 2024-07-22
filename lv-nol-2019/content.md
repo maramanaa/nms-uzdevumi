@@ -17,7 +17,7 @@ esošās degvielas. Cik litru degvielas tagad ir katrā tvertnē?
 
 Vispirms no pirmās degvielas tvertnes izlēja $\frac{1}{5} \cdot 250=50$ litrus 
 degvielas un tvertnē palika $250-50=200$ litri degvielas. Pēc tam pielēja 
-\frac{1}{5} \cdot 200=40 litrus degvielas. Tātad pirmajā tvertnē tagad ir 
+$\frac{1}{5} \cdot 200=40$ litrus degvielas. Tātad pirmajā tvertnē tagad ir 
 $200+40=240$ litri degvielas.
 
 Vispirms otrajā degvielas tvertnē ielēja $\frac{1}{5} \cdot 250=50$ litrus 
@@ -253,7 +253,7 @@ savā starpā. Viltotā monēta atradīsies "vieglākajā" kausā.
 
 # <lo-sample/> LV.NOL.2019.6.3.
 
-Vai taisnstūri ar izmēriem **a)** $5 \times 8$, **b)** $5 \times 12$ rūtiņas 
+Vai taisnstūri ar izmēriem **(A)** $5 \times 8$, **(B)** $5 \times 12$ rūtiņas 
 var pārklāt ar 8.att. redzamajām figūrām? Taisnstūrim jābūt pilnībā pārklātam. 
 Figūras nedrīkst iziet ārpus taisnstūra un nedrīkst pārklāties, tās drīkst būt 
 pagrieztas vai apgrieztas spoguļattēlā.
@@ -269,9 +269,9 @@ pagrieztas vai apgrieztas spoguļattēlā.
 
 ## Atrisinājums
 
-**a)** Jā, var, piemēram, skat. 9.att.
+**(A)** Jā, var, piemēram, skat. 9.att.
 
-**b)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
+**(B)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
 taisnstūrī ir iekrāsotas $30$ (pāra skaitlis) melnas un $30$ (pāra skaitlis) 
 baltas rūtiņas. Ja taisnstūri varētu pārklāt, tad tas būtu pārklāts ar tieši 
 $60:4=15$ figūrām. Lai kā arī šajā kvadrātā tiktu novietota dotā figūra, tā 
@@ -482,8 +482,9 @@ Vai var atrast tādus veselus skaitļus $a$ un $b$, ka $ab(a+5b)=150015$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* genre:integer-equation
+* domain:NT
 
 </small>
 
@@ -509,8 +510,10 @@ uzvarēt?
 
 <small>
 
-* questionType:
-* domain:
+* genre:game
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -652,8 +655,10 @@ $\frac{4}{3},\ \frac{4}{5},\ \frac{5}{2}$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2000.7.5
+* genre:making-moves
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -681,8 +686,9 @@ izveidotais trīsciparu skaitlis $\overline{yxy}$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* concepts:divisibility
 
 </small>
 
@@ -931,8 +937,10 @@ iegūtu skaitli, kas dalās ar $2019$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* concepts:divisibility
+* genre:digit-manipulation
+* domain:NT
 
 </small>
 
@@ -1159,8 +1167,13 @@ Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+18n=2018$.
 
 <small>
 
-* questionType:
-* domain:
+
+* domain:NT
+* topic:DivisibilityRulesFor2And4
+* topic:CanonicalFactorization
+* concepts:primes
+* questionType:FindAll
+* genre:integer-equation
 
 </small>
 
@@ -1176,7 +1189,7 @@ $$\begin{gathered}
 
 Ievērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
 $(100-m)$ jābūt pozitīvam. Tā kā $10$ un $9$ ir savstarpēji pirmskaitļi, tad 
-$(100-m)$ ir jādalās ar $9$. lespējamās $m$ vērtības varētu būt 
+$(100-m)$ ir jādalās ar $9$. Iespējamās $m$ vērtības varētu būt 
 $1,\ 10,\ 19,\ 28,\ 37,\ 46,\ 55,\ 64,\ 73,\ 82$ un $91$, no kurām derīgas ir 
 tikai $19,\ 37$ un $73$, jo tie ir pirmskaitļi. Atrodam atbilstošās $n$ 
 vērtības:
@@ -1186,6 +1199,23 @@ vērtības:
 - ja $m=73$, tad $10 \cdot 27=9(n-1)$ jeb $n=31$ (pirmskaitlis).
 
 Tātad dotajam vienādojumam ir divi atrisinājumi: $m=37, n=71$ un $m=73, n=31$.
+
+
+## Atrisinājums
+
+Izdalām abas puses ar $2$: Iegūstam sakarību $10m+9n=1009$.
+
+Lai $1009 - 9n$ dalītos ar $10$, skaitļa $9n$ pēdējais cipars ir "9", bet paša 
+$n$ pēdējais cipars ir "1".  
+Ievietojam visas $n$ vērtības, kam $1009-9n$ ir pozitīvs, un $n$ beidzas ar ciparu "1": 
+Tas ir iespējams pie $n=1,11,21,31,41,51,61,71,81,91,101,111$. 
+
+Atrastie $(m,n)$ pāri: $(100,1)$, $(91,11)$, $(82,21)$, $(\mathbf{73},\mathbf{31})$, $(64,41)$, 
+$(55,51)$, $(46,61)$, $(\mathbf{37},\mathbf{71})$, $(28,81)$, $(19,91)$, $(10,101)$, $(1,111)$. 
+
+Tikai divos pāros abi skaitļi ir pirmskaitļi: $(m,n)$ var būt $(73,31)$ vai $(37,71)$.
+
+
 
 
 
@@ -1381,8 +1411,11 @@ Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+19n=2019$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* concepts:linear-expression,primes
+* genre:integer-equation
+* seeAlso:LV.NOL.2019.10.5
 
 </small>
 
@@ -1648,8 +1681,9 @@ naturālos skaitļos!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* genre:integer-equation
 
 </small>
 
