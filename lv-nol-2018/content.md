@@ -1207,7 +1207,7 @@ $30$ gadi vai $4$ tādus, kuru gadu skaits ir vienāds!
 Pieņemam pretējo tam, kas jāpierāda, tas ir, nav divu cilvēku, kuriem ir vairāk
 kā $30$ gadi un nav četru cilvēku, kuriem ir vienāds gadu skaits. Sadalām 
 cilvēkus grupās pēc to gadu skaita: 
-$\{21\};\{22\};\{23\}; \ldots ;\{29\};\{30\};\{$ vairāk nekā 30$\}$. Tad 
+$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{$ vairāk nekā 30$\}$. Tad 
 pirmajās $10$ grupās katrā ir ne vairāk kā $3$ cilvēki un pēdējā - ne vairāk kā
 viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ cilvēks - 
 pretruna. Tātad pieņēmums ir aplams un esam pierādījuši, ka var atrast divus 
@@ -1217,7 +1217,7 @@ ir vienāds.
 ## Atrisinājums
 
 Sadalām cilvēkus grupās pēc to gadu skaita: 
-$\{21\};\{22\};\{23\}; \ldots ; \{29\}; \{30\}; \{vairāk nekā 30$\}$. Ja pēdējā 
+$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{vairāk nekā 30$\}$. Ja pēdējā 
 grupā ir vismaz divi cilvēki, tad prasītais izpildās.
 
 Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām jāsadala 
