@@ -1345,7 +1345,7 @@ a^{4} & +b^{4}+c^{4}+d^{4}-4abcd+\left(a^{2}b^{2}-2abcd+c^{2}d^{2}\right)+\left(
 \end{aligned}$$
 
 $$\begin{aligned}
-\left(a^{4} & -2a^{2}b^{2}+b^{4}\right)+\left(c^{4}-2c^{2}d^{2}+d^{4}\right)+\left(2a^{2}b^{2}+2c^{2}d^{2}-4abcd\right)+(ab-cd)^{2}+(ac-bd)^{2}+ \\
+ & \left(a^{4}-2a^{2}b^{2}+b^{4}\right)+\left(c^{4}-2c^{2}d^{2}+d^{4}\right)+\left(2a^{2}b^{2}+2c^{2}d^{2}-4abcd\right)+(ab-cd)^{2}+(ac-bd)^{2}+ \\
  & +(bc-da)^{2} \geq 0
 \end{aligned}$$
 
