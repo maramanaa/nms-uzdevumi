@@ -1544,10 +1544,10 @@ $x^{4}=2884-912 \sqrt{10}$.
 
 levietojot doto sakni dotajā vienādojumā, iegūstam
 
-$$\begin{align*}
+$$\begin{align}
 & 2884-912 \sqrt{10}+b(38-12 \sqrt{10})+c=0  \tag{*}\\
 & 2884+38b+c-912 \sqrt{10}-12 \sqrt{10} b=0
-\end{align*}$$
+\end{align}$$
 
 Lai pastāvētu vienādība, iracionālajai un racionālajai daļai katrai atsevišķi 
 jābūt $0$, tas ir,
