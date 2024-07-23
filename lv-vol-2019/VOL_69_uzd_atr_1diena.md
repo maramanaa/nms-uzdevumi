@@ -61,7 +61,7 @@ ja $S(AMP)=S(BNP)=8$ un $S(NMP)=4$.
 levērojam, ka $S(MAN)=S(NBM)=8+4=12$ (skat. 1.att.) un šiem trijstūriem ir
 kopīga mala $MN$, tāpēc augstumi, kas no virsotnēm $A$ un $B$ novilkti pret šo
 malu $MN$, ir vienādi jeb punkti $A$ un $B$ atrodas vienādā attālumā no
-nogriežṇa $MN$. Tātad $MN \| A B$. Apskatām attiecību
+nogriežṇa $MN$. Tātad $MN || A B$. Apskatām attiecību
 
 $$
 \frac{S(M N P)}{S(P N B)}=\frac{\frac{1}{2} M P \cdot h_{M P}}{\frac{1}{2} B P \cdot h_{B P}}
