@@ -1,4 +1,4 @@
-# <lo-sample/> LV.AMO.2019.5.1.
+# <lo-sample/> LV.AMO.2019.5.1
 
 Doti trīs kvadrāti. Zilā kvadrāta malas garums ir $10~\mathrm{cm}$, sarkanā 
 kvadrāta perimetrs ir par $80 \%$ lielāks nekā zilā kvadrāta perimetrs, bet 
@@ -35,7 +35,7 @@ mazāks nekā zilā kvadrāta perimetrs.
 
 
 
-# <lo-sample/> LV.AMO.2019.5.2.
+# <lo-sample/> LV.AMO.2019.5.2
 
 Uz galda ir divas vāzes ar tulpēm - vienā vāzē ir $46$ tulpes, bet otrā - $43$ 
 tulpes. Divi spēlētāji pamīšus ņem no tām ārā tulpes. Vienā gājienā viens 
@@ -65,7 +65,7 @@ zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.5.3.
+# <lo-sample/> LV.AMO.2019.5.3
 
 Vai var novietot plaknē $5$ taisnes tā, lai katras divas no tām krustotos un 
 kopā būtu tieši $6$ krustpunkti?
@@ -85,7 +85,7 @@ Jā, var, skat., piemēram, 1.att.
 
 
 
-# <lo-sample/> LV.AMO.2019.5.4.
+# <lo-sample/> LV.AMO.2019.5.4
 
 Kāds mazākais skaits rūtiņu jāiekrāso kvadrātā $4 \times 4$, lai katrai no 
 neiekrāsotajām rūtiņām būtu vismaz viena kopēja mala ar iekrāsoto rūtiņu? 
@@ -114,7 +114,7 @@ iekrāsotām rūtiņām pietiek, lai izpildītos uzdevuma nosacījumi (skat. 2.a
 
 
 
-# <lo-sample/> LV.AMO.2019.5.5.
+# <lo-sample/> LV.AMO.2019.5.5
 
 Atrodi visus tādus sešciparu skaitļus, kuriem visi seši cipari ir vienādi un 
 kurus var izteikt kā sešu dažādu pirmskaitļu reizinājumu! Pamato, ka atrasti ir
@@ -145,7 +145,7 @@ $555555=3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 37$.
 
 
 
-# <lo-sample/> LV.AMO.2019.6.1.
+# <lo-sample/> LV.AMO.2019.6.1
 
 Uzraksti daļas augošā secībā! Pamato!
 
@@ -191,7 +191,7 @@ $\frac{21}{23}<\frac{11}{12}<\frac{16}{17}$.
 
 
 
-# <lo-sample/> LV.AMO.2019.6.2.
+# <lo-sample/> LV.AMO.2019.6.2
 
 Riņķis sadalīts $16$ vienādās daļās (skat. 4.att.). Divi spēlētāji pamīšus tās 
 aizkrāso. Vienā gājienā drīkst aizkrāsot vai nu vienu no šīm daļām, vai divas 
@@ -227,7 +227,7 @@ viņš zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.6.3.
+# <lo-sample/> LV.AMO.2019.6.3
 
 Cik lielu leņķi (šaurāko) veido pulksteņa stundu un minūšu rādītājs **a)** 
 plkst. 14:00; **b)** plkst. 13:40?
@@ -258,7 +258,7 @@ pulksteņa rādītājiem ir $180^{\circ}-10^{\circ}=170^{\circ}$
 
 
 
-# <lo-sample/> LV.AMO.2019.6.4.
+# <lo-sample/> LV.AMO.2019.6.4
 
 Parādi, kā no taisnstūra ar izmēriem $6 \times 10$ rūtiņas var izgriezt **a)** 
 $9$, **b)** $10$ figūras, kādas redzamas 9.att.! Figūras var būt pagrieztas vai
@@ -283,7 +283,7 @@ $\textit {Piezīme.}$ b) daļas atrisinājums der arī a) daļai.
 
 
 
-# <lo-sample/> LV.AMO.2019.6.5.
+# <lo-sample/> LV.AMO.2019.6.5
 
 Vai skaitlis $1234\ldots9899$ (pēc kārtas bez atstarpēm uzrakstīti visi 
 naturālie skaitļi no $1$ līdz $99$) dalās ar $9$?
@@ -314,7 +314,7 @@ ar $9$. Tātad arī dotais skaitlis dalās ar $9$.
 
 
 
-# <lo-sample/> LV.AMO.2019.7.1.
+# <lo-sample/> LV.AMO.2019.7.1
 
 Dotas divas funkcijas $f(x)=ax+b$ un $g(x)=cx+d$. Zināms, ka katrai $x$ 
 vērtībai pastāv nevienādība $f(x)>g(x)$. Noskaidrot, vai $(a-c)$ var būt 
@@ -335,7 +335,7 @@ vienādi, tātad $a-c=0$.
 
 
 
-# <lo-sample/> LV.AMO.2019.7.2.
+# <lo-sample/> LV.AMO.2019.7.2
 
 Riņķis sadalīts $15$ vienādās daļās (skat. 12.att.). Divi spēlētāji pamīšus tās
 aizkrāso. Vienā gājienā drīkst aizkrāsot vai nu vienu no šīm daļām, vai divas 
@@ -369,7 +369,7 @@ gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.7.3.
+# <lo-sample/> LV.AMO.2019.7.3
 
 Izliektā četrstūrī $ABCD$ leņķu $BAD$ un $ADC$ bisektrises krustojas punktā 
 $M$. Pierādīt, ka $BM=CM$, ja zināms, ka $AD=AB+CD$.
@@ -398,7 +398,7 @@ atrodas vienādā attālumā no nogriežņa galapunktiem. Tātad $MB=ME$ un $ME=
 
 
 
-# <lo-sample/> LV.AMO.2019.7.4.
+# <lo-sample/> LV.AMO.2019.7.4
 
 Andris apgalvo, ka sapnī bijis kādā Éģiptes piramīdā un kādā tās telpā redzējis
 tādu piecstūri, kas salikts no diviem vienādiem piecstūriem, kuri sastāvējuši 
@@ -422,7 +422,7 @@ pazīstams ar nosaukumu heksamonds sfinksa.
 
 
 
-# <lo-sample/> LV.AMO.2019.7.5.
+# <lo-sample/> LV.AMO.2019.7.5
 
 Kādai mazākajai naturālai $n$ vērtībai skaitli $10^{n}$ iespējams izteikt kā 
 septiņu naturālu skaitļu reizinājumu tā, lai to visu pēdējie cipari ir dažādi 
@@ -477,7 +477,7 @@ ar $2^{11}$. Tātad $n$ nevar būt mazāks kā $11$.
 
 
 
-# <lo-sample/> LV.AMO.2019.8.1.
+# <lo-sample/> LV.AMO.2019.8.1
 
 Atjaunojot taisnu žogu, Raimonds izraka vecos žoga stabus, kuri atradās $8$ 
 metru attālumā viens no otra un kuru skaits bija nepāra skaitlis. Raimonds 
@@ -537,7 +537,7 @@ kādu divu naturālu skaitļu reizinājums var būt $105$.
 
 
 
-# <lo-sample/> LV.AMO.2019.8.2.
+# <lo-sample/> LV.AMO.2019.8.2
 
 Divi spēlētāji pamīšus izvieto kauliņus tabulas $6 \times 6$ rūtiņās. Vienā 
 gājienā var aizpildīt vai nu vienu tukšu rūtiņu, vai vairākas tukšas rūtiņas, 
@@ -566,7 +566,7 @@ pirmajam spēlētājam un viņš zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.8.3.
+# <lo-sample/> LV.AMO.2019.8.3
 
 Dots paralelograms $ABCD$. Leņķa $BAD$ bisektrise krusto malu $BC$ iekšējā 
 punktā $E$ un $CD$ pagarinājumu punktā $F$. Pierādīt, ka $BC=DF$, ja zināms, ka
@@ -598,7 +598,7 @@ jāizmanto.
 
 
 
-# <lo-sample/> LV.AMO.2019.8.4.
+# <lo-sample/> LV.AMO.2019.8.4
 
 Mežā dzīvo $m$ rūķīši. Daži no tiem savā starpā draudzējas (ja $A$ draudzējas 
 ar $B$, tad $B$ draudzējas ar $A$ ), pie tam katra rūķīša draugu skaits ir kāda
@@ -639,7 +639,7 @@ lielākais nogriežņu galu skaits, kas var iziet no kāda punkta, ir $6$
 
 
 
-# <lo-sample/> LV.AMO.2019.8.5.
+# <lo-sample/> LV.AMO.2019.8.5
 
 Kādai mazākajai naturālai $n$ vērtībai skaitli $10^{n}$ iespējams izteikt kā 
 sešu naturālu skaitļu reizinājumu tā, ka neviens no tiem nav mazāks kā $10$ un 
@@ -690,7 +690,7 @@ ar $2^{23}$. Tātad $n$ nevar būt mazāks kā $23$.
 
 
 
-# <lo-sample/> LV.AMO.2019.9.1.
+# <lo-sample/> LV.AMO.2019.9.1
 
 Plaknē novilktas $5$ vertikālas, $4$ horizontālas un $3$ savstarpēji paralēlas 
 slīpas taisnes. Cik paralelogramu izveido šīs taisnes?
@@ -724,7 +724,7 @@ kā var izvēlēties pretējās malas (skat. 23.att.).
 
 
 
-# <lo-sample/> LV.AMO.2019.9.2.
+# <lo-sample/> LV.AMO.2019.9.2
 
 Divi spēlētāji pamīšus aizkrāso tabulas $9 \times 9$ rūtiņas. Spēlētājs, kurš 
 spēli sāk, krāso rūtiņas melnā krāsā, viņa pretinieks - zilā krāsā. Vienā 
@@ -759,7 +759,7 @@ Tātad vairāk punktus iegūs pirmais spēlētājs.
 
 
 
-# <lo-sample/> LV.AMO.2019.9.3.
+# <lo-sample/> LV.AMO.2019.9.3
 
 Dots vienādsānu taisnleņķa trijstūris $ABC$ ar taisno leņķi $C$. Uz tā 
 hipotenūzas konstruēts taisnstūris $ABNM$ tā, ka punkti $C$ un $N$ atrodas 
@@ -811,7 +811,7 @@ $CB=BN$, tad $QNBC$ ir rombs.
 
 
 
-# <lo-sample/> LV.AMO.2019.9.4.
+# <lo-sample/> LV.AMO.2019.9.4
 
 Ja naturāla sešciparu skaitļa visus nepāra ciparus aizvietotu ar $7$, iegūtu 
 skaitli, kas ir par $5998$ lielāks nekā sākotnējais skaitlis. Savukārt, ja 
@@ -860,7 +860,7 @@ Pārbaudām, ka skaitlis $271489$ apmierina uzdevuma nosacījumus:
 
 
 
-# <lo-sample/> LV.AMO.2019.9.5.
+# <lo-sample/> LV.AMO.2019.9.5
 
 Vai eksistē tāds kvadrātvienādojums ar veseliem koeficientiem, kuram ir sakne
 
@@ -897,7 +897,7 @@ $x_{1}=-2$ un $x_{2}=-1$.
 
 
 
-# <lo-sample/> LV.AMO.2019.10.1.
+# <lo-sample/> LV.AMO.2019.10.1
 
 Pierādīt, ka visām naturālām $n$ vērtībām ir spēkā vienādība
 
@@ -943,7 +943,7 @@ secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 
-# <lo-sample/> LV.AMO.2019.10.2.
+# <lo-sample/> LV.AMO.2019.10.2
 
 Dots taisnstūris $90 \times 19$ rūtiņas. Vienā gājienā spēlētājs var aizkrāsot 
 $n \times n$ rūtiņu kvadrātu (piemēram, $1 \times 1$, $2 \times 2$ utt.), kura 
@@ -973,7 +973,7 @@ skaits ir galīgs, tad pirmais spēlētājs uzvarēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.10.3.
+# <lo-sample/> LV.AMO.2019.10.3
 
 Dots taisnstūris $ABCD$, kur $AB < BC$. Uz malas $BC$ izvēlēts tāds punkts $E$, 
 ka $AE=AD$. Leņķa $DAE$ bisektrise krusto malu $CD$ punktā $F$. Trijstūrī $ADE$
@@ -1002,7 +1002,7 @@ Tātad $\sphericalangle AGC=\sphericalangle AFC=90^{\circ}+\alpha$.
 
 
 
-# <lo-sample/> LV.AMO.2019.10.4.
+# <lo-sample/> LV.AMO.2019.10.4
 
 Kādām naturālām $n$ vērtībām izteiksme $n^{2}+n+19$ ir kāda naturāla skaitļa 
 kvadrāts?
@@ -1050,7 +1050,7 @@ $1,2,3, \ldots, 18$.
 
 
 
-# <lo-sample/> LV.AMO.2019.10.5.
+# <lo-sample/> LV.AMO.2019.10.5
 
 No visiem karalienes dimantiem vissmagākais sver tieši $6$ reizes mazāk nekā 
 visi pārējie kopā, trešais smagākais sver tieši $9$ reizes mazāk nekā visi 
@@ -1118,7 +1118,7 @@ ir $7$, tātad $n=10$. Tātad karalienei ir $10$ dimanti.
 
 
 
-# <lo-sample/> LV.AMO.2019.11.1.
+# <lo-sample/> LV.AMO.2019.11.1
 
 Atrisināt nevienādību
 
@@ -1144,7 +1144,7 @@ iegūtos vienādojumus:
 - $x+4=0$ jeb $x=-4$  
 - $9-x^{2}=0$ jeb $x= \pm 3$  
 
-legūtās vērtības atliekam uz skaitļu ass, uzskicējam atbilstošo funkciju 
+Iegūtās vērtības atliekam uz skaitļu ass, uzskicējam atbilstošo funkciju 
 grafikus (skat. 28.att.) un nosakām dotās izteiksmes zīmi katrā intervālā. 
 Tātad dotās nevienādības atrisinājums ir $x \in[-4 ;-3) \cup(3 ; 20]$.
 
@@ -1152,7 +1152,7 @@ Tātad dotās nevienādības atrisinājums ir $x \in[-4 ;-3) \cup(3 ; 20]$.
 
 
 
-# <lo-sample/> LV.AMO.2019.11.2.
+# <lo-sample/> LV.AMO.2019.11.2
 
 Divi spēlētāji pamīšus raksta uz tāfeles skaitļa $216$ naturālos dalītājus. 
 Katrā gājienā jāievēro šādi noteikumi:
@@ -1211,7 +1211,7 @@ pirmajam spēlētājam un viņš zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.11.3.
+# <lo-sample/> LV.AMO.2019.11.3
 
 Uz trijstūra $ABC$ malām $AB$ un $BC$ izvēlēti attiecīgi tādi punkti $D$ un 
 $E$, ka $AC \parallel DE$. Nogriežņi $AE$ un $CD$ krustojas punktā $F$. Punkti 
@@ -1253,7 +1253,7 @@ paralēlas. Paralelograma diagonāles krustpunktā dalās uz pusēm, tāpēc $FH
 
 
 
-# <lo-sample/> LV.AMO.2019.11.4.
+# <lo-sample/> LV.AMO.2019.11.4
 
 Zināms, ka vairāku naturālu skaitļu summa ir **(A)** $2019$, **(B)** $2020$. Kāds
 ir lielākais iespējamais šo skaitļu reizinājums? 
@@ -1308,7 +1308,7 @@ Līdz ar to esam ieguvuši, ka
 
 
 
-# <lo-sample/> LV.AMO.2019.11.5.
+# <lo-sample/> LV.AMO.2019.11.5
 
 Dots reāls skaitlis $x$ un naturāls skaitlis $n$. Zināms, ka gan $x^{2}-nx$, 
 gan $x^{3}-nx$ ir racionāli skaitļi. Pierādīt, ka arī $x$ ir racionāls 
@@ -1353,7 +1353,7 @@ aprēķinot diskriminantu, attiecībā pret mainīgo $x$.
 
 
 
-# <lo-sample/> LV.AMO.2019.12.1.
+# <lo-sample/> LV.AMO.2019.12.1
 
 Atrisināt vienādojumu
 
@@ -1381,7 +1381,7 @@ $n \in \mathbb{Z}$.
 
 
 
-# <lo-sample/> LV.AMO.2019.12.2.
+# <lo-sample/> LV.AMO.2019.12.2
 
 Divi spēlētāji pamīšus raksta uz tāfeles skaitļa $144$ naturālos dalītājus. 
 Katrā gājienā jāievēro šādi noteikumi:
@@ -1453,7 +1453,7 @@ otrajam spēlētājam un viņš zaudēs.
 
 
 
-# <lo-sample/> LV.AMO.2019.12.3.
+# <lo-sample/> LV.AMO.2019.12.3
 
 Dots četrstūris $ABCD$, kuram $AB=AD$ un $BC=CD$. Riņķa līnija, kas iet caur 
 punktiem $A, B$ un $C$, krusto nogriežņus $AD$ un $CD$ attiecīgi to iekšējos 
@@ -1492,7 +1492,7 @@ pierādījuši, ka $EG=DG=FG$.
 
 
 
-# <lo-sample/> LV.AMO.2019.12.4.
+# <lo-sample/> LV.AMO.2019.12.4
 
 Sporta nometnē ir $100$ skolēni. Ar $N$ apzīmējam, cik veidos šos $100$ 
 skolēnus var sadalīt $50$ pāros (pāru secība un arī skolēnu secība pārī nav 
@@ -1571,7 +1571,7 @@ atrod lielāko pirmskaitļa pakāpi, ar ko dalās $n!$.
 
 
 
-# <lo-sample/> LV.AMO.2019.12.5.
+# <lo-sample/> LV.AMO.2019.12.5
 
 Miljonāru kluba visbagātākajam biedram ir tieši $8$ reizes mazāk naudas nekā 
 visiem pārējiem biedriem kopā, ceturtajam bagātākajam biedram ir tieši $11$ 

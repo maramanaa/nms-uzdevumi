@@ -1,4 +1,4 @@
-# <lo-sample/> LV.VOL.2021.9.1.
+# <lo-sample/> LV.VOL.2021.9.1
 
 Dots, ka $a$ un $b$ ir kaut kādi reāli skaitļi. Pierādīt, ka vismaz vienam no 
 vienādojumiem
@@ -32,7 +32,7 @@ līdz ar to vismaz vienam vienādojumam ir atrisinājums.
 
 
 
-# <lo-sample/> LV.VOL.2021.9.2.
+# <lo-sample/> LV.VOL.2021.9.2
 
 Dots naturāls skaitlis $n$. Pierādīt, ka $4n \times 4 n$ rūtiņu tabulā var 
 aizkrāsot $4n^{2}$ rūtiņas tā, ka katrā rindā un katrā kolonnā ir aizkrāsotas 
@@ -70,7 +70,7 @@ sakombinēti $4 \times 4$ tabulā, iegūstam nepieciešamo tabulas aizpildijumu
 
 
 
-# <lo-sample/> LV.VOL.2021.9.3.
+# <lo-sample/> LV.VOL.2021.9.3
 
 Atrast visus naturālu skaitļu pārus $(m; n)$, kuriem ir spēkā vienādība 
 $m^{5}+5n^{4}=81m$.
@@ -103,7 +103,7 @@ Līdz ar to esam ieguvuši, ka vienīgais derīgais skaitļu pāris ir $(1; 2)$.
 
 
 
-# <lo-sample/> LV.VOL.2021.9.4.
+# <lo-sample/> LV.VOL.2021.9.4
 
 Trijstūrī $ABC$ ievilktā riņķa līnija pieskaras tā malām $AB, BC$ un $AC$ 
 attiecīgi punktos $C_{1}, A_{1}$ un $B_{1}$. Taisne, kas vilkta caur punktu $A$
@@ -147,7 +147,7 @@ $$\sphericalangle KB_{1}A_{1}=180^{\circ}-\sphericalangle KB_{1}A-\sphericalangl
 
 
 
-# <lo-sample/> LV.VOL.2021.9.5.
+# <lo-sample/> LV.VOL.2021.9.5
 
 Dotas $8$ kastes, sākumā tās visas ir tukšas. Divi spēlētāji spēlē sekojošu 
 spēli, pirmais spēlētājs sāk. Vienā gājienā var izvēlēties jebkuras $7$ kastes 
@@ -185,7 +185,7 @@ uzvarēt.
 
 
 
-# <lo-sample/> LV.VOL.2021.10.1.
+# <lo-sample/> LV.VOL.2021.10.1
 
 Naturāls skaitlis $S$ ir izsakāms formā $S=9n^{2}+42n$, kur $n$ ir kāds 
 naturāls skaitlis. Pierādīt, ka, ja $S$ pēdējais cipars ir $6$, tad tā 
@@ -210,7 +210,7 @@ ar $76$.
 
 
  
-# <lo-sample/> LV.VOL.2021.10.2.
+# <lo-sample/> LV.VOL.2021.10.2
 
 Dota ģeometriskā progresija $x_{1}; x_{2}; x_{3}; x_{4}; x_{5}; x_{6}$, kuras 
 locekļi ir pozitīvi skaitļi. Zināms, ka $x_{4}+x_{3}-x_{2}-x_{1}=3$. Pierādīt, 
@@ -251,7 +251,7 @@ nevienādība, jo $q^{4}-4q^{2}+4=\left(q^{2}-2\right)^{2} \geq 0$.
 
 
 
-# <lo-sample/> LV.VOL.2021.10.3.
+# <lo-sample/> LV.VOL.2021.10.3
 
 Dota taisnleņķa trapece $ABCD$, tās pamati ir $AD$ un $BC$ un $AB \perp AD$. Uz
 malas $AB$ izvēlēts punkts $P$ tā, ka $\sphericalangle CPD=90^{\circ}$. 
@@ -287,7 +287,7 @@ $BP=AD$.
 
 
 
-# <lo-sample/> LV.VOL.2021.10.4.
+# <lo-sample/> LV.VOL.2021.10.4
 
 Uz tāfeles sākumā uzrakstīts vienādojums $2019x^{2}+2020x+2021=0$. Divi 
 spēlētāji pēc kārtas izdara gājienus, pirmais spēlētājs sāk. Vienā gājienā var 
@@ -323,7 +323,7 @@ vienādojuma sakne.
 
 
 
-# <lo-sample/> LV.VOL.2021.10.5.
+# <lo-sample/> LV.VOL.2021.10.5
 
 Taisnstūrveida tabulā, kurā ir $19$ rindas un $14$ kolonnas, ierakstīti kaut 
 kādi reāli skaitļi. Zināms, ka skaitļu summa katrā 6.att. dotajā figūrā ir $1$,
@@ -354,7 +354,7 @@ Tātad pirmās rindas skaitļu summa ir $38-36=2$.
 
 
 
-# <lo-sample/> LV.VOL.2021.11.1.
+# <lo-sample/> LV.VOL.2021.11.1
 
 Pierādìt, ka $\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=2$.
 
@@ -374,7 +374,7 @@ $$\sqrt[3]{6 \sqrt{3}+10}-\sqrt[3]{6 \sqrt{3}-10}=(\sqrt{3}+1)-(\sqrt{3}-1)=2$$
 
 
 
-# <lo-sample/> LV.VOL.2021.11.2.
+# <lo-sample/> LV.VOL.2021.11.2
 
 Dota ģeometriskā progresija $y_{1}; y_{2}; y_{3}; y_{4}; y_{5}; y_{6}$, kuras 
 locekļi ir pozitīvi skaitļi. Zināms, ka $y_{4}+y_{3}-y_{2}-y_{1}=15$. Kāda ir 
@@ -414,7 +414,7 @@ $y_{5}+y_{6}=y_{1}\left(q^{5}+q^{4}\right)=15(\sqrt{2}-1)(4 \sqrt{2}+4)=60$.
 
 
 
-# <lo-sample/> LV.VOL.2021.11.3.
+# <lo-sample/> LV.VOL.2021.11.3
 
 Naturālu skaitli sauksim par elegantu, ja tā decimālajā pierakstā nav nevienas 
 nulles un šis skaitlis dalās ar savu ciparu summu. (Eleganti ir visi viencipara
@@ -445,7 +445,7 @@ bezgalīgu elegantu skaitļu virkni ($36; 363636; 363636363636363636$ utt.).
 
 
 
-# <lo-sample/> LV.VOL.2021.11.4.
+# <lo-sample/> LV.VOL.2021.11.4
 
 Izliektā četrstūrī $ABCD$ ir spēkā $\sphericalangle CBD=\sphericalangle CAB$ un
 $\sphericalangle ACD=\sphericalangle ADB$. Pierādīt, ka no nogriežņiem 
@@ -479,7 +479,7 @@ un $AC$ kā hipotenūzas var salikt taisnleņķa trijstūri.
 
 
 
-# <lo-sample/> LV.VOL.2021.11.5.
+# <lo-sample/> LV.VOL.2021.11.5
 
 Dotam naturālam skaitlim $k>1$ torni būvē šādi: simetriski attiecībā pret 
 vertikālu simetrijas asi pirmajā rindā blakus saliek $k$ kvadrātus, otrajā 
@@ -527,7 +527,7 @@ vienlielās daļās sadalošais stars iet caur kvadrāta virsotni.
 
 
 
-# <lo-sample/> LV.VOL.2021.12.1.
+# <lo-sample/> LV.VOL.2021.12.1
 
 Pierādīt, ka kvadrātu var sagriezt sešos taisnstūros, kuriem visiem īsākās 
 malas attiecība pret garāko ir $2-\sqrt{2}$.
@@ -549,7 +549,7 @@ $\frac{2}{2+\sqrt{2}}=2-\sqrt{2}$, mazākajiem - arī tāda pati.
 
 
 
-# <lo-sample/> LV.VOL.2021.12.2.
+# <lo-sample/> LV.VOL.2021.12.2
 
 Doti reāli pozitīvi skaitļi $x, y, z$. Pierādīt, ka
 
@@ -576,7 +576,7 @@ $$\frac{x^{2}+y^{2}}{x+y}+\frac{y^{2}+z^{2}}{y+z}+\frac{z^{2}+x^{2}}{z+x} \geq \
 
 
 
-# <lo-sample/> LV.VOL.2021.12.3.
+# <lo-sample/> LV.VOL.2021.12.3
 
 Agita ir iedomājusies naturālu skaitli $x$, kura ciparu summa ir $2021$, un 
 Konstantīns cenšas skaitli uzminēt. Vienā gājienā Konstantīns nosauc patvaļīgu 
@@ -631,7 +631,7 @@ atrasties jebkurā pozīcijā.
 
 
 
-# <lo-sample/> LV.VOL.2021.12.4.
+# <lo-sample/> LV.VOL.2021.12.4
 
 Vienādmalu trijstūra $ABC$ malas garums ir $15$. Uz malas $AB$ atlikts punkts 
 $D$ tā, ka $AD=5$, bet uz malas $AC$ - punkts $E$ tā, ka $AE=3$. Pierādīt, ka 
@@ -668,7 +668,7 @@ $\sphericalangle BOD=90^{\circ}$. Tātad $BE \perp CD$.
 
 
 
-# <lo-sample/> LV.VOL.2021.12.5.
+# <lo-sample/> LV.VOL.2021.12.5
 
 Atrast visus veselu skaitļu pārus $(a; b)$, kuriem
 

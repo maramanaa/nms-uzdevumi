@@ -1,4 +1,4 @@
-# <lo-sample/> LV.NOL.2020.5.1.
+# <lo-sample/> LV.NOL.2020.5.1
 
 Doti četri trīsciparu skaitļi 
 $\overline{xzy};\ \overline{yaz};\ \overline{yax};\ \overline{zxa}$ un 
@@ -17,12 +17,12 @@ $\overline{xzy}<\overline{yaz}<\overline{yax}<\overline{zxa}$?
 Pieņemsim, ka šajā virknē katrs nākamais skaitlis ir lielāks nekā 
 iepriekšējais. Lielāks ir tas skaitlis, kuram lielāks ir vecākās šķiras cipars.
 Aplūkojot pirmo, otro un ceturto skaitli, iegūstam, ka $x < y < z$. Salīdzinot 
-otro un trešo skaitli, iegūstam $z < x$. legūta pretruna, tātad nevar būt, ka 
+otro un trešo skaitli, iegūstam $z < x$. Iegūta pretruna, tātad nevar būt, ka 
 šajā virknē katrs nākamais skaitlis ir lielāks nekā iepriekšējais.
 
 
 
-# <lo-sample/> LV.NOL.2020.5.2.
+# <lo-sample/> LV.NOL.2020.5.2
 
 Valentīns savā burtnīcā zīmē figūras, pirmās trīs no tām parādītas 1.att. Pirmā
 figūra sastāv no pieciem vienādiem kvadrātiem un tās perimetrs ir 
@@ -80,7 +80,7 @@ Tātad $70.$ figūras perimetrs ir $P_{70}=4+70 \cdot 8=564~\mathrm{cm}$.
 
 
 
-# <lo-sample/> LV.NOL.2020.5.3.
+# <lo-sample/> LV.NOL.2020.5.3
 
 Sagriez 5.att. doto figūru divpadsmit 6.att. figūrās!
 
@@ -101,7 +101,7 @@ Skat., piemēram, 7.att.
 
 
 
-# <lo-sample/> LV.NOL.2020.5.4.
+# <lo-sample/> LV.NOL.2020.5.4
 
 Dota tabula ar izmēriem $2 \times 12$ rūtiņas. Katrā rūtiņā ierakstīts naturāls
 skaitlis no $1$ līdz $24$ (katrā rūtiņā cits skaitlis). Vai iespējams, ka 
@@ -131,7 +131,7 @@ $11$, **b)** $12$?
 
 
 
-# <lo-sample/> LV.NOL.2020.5.5.
+# <lo-sample/> LV.NOL.2020.5.5
 
 Atrodi tādu trīsciparu skaitli, kam vienlaicīgi izpildās tālāk dotie nosacīumi!
 Šis skaitlis,
@@ -160,7 +160,7 @@ meklētais skaitlis ir $840-1=839$.
 
 
 
-# <lo-sample/> LV.NOL.2020.6.1.
+# <lo-sample/> LV.NOL.2020.6.1
 
 Doti trīs kvadrāti ar laukumiem attiecīgi $1~\mathrm{m^{2}}, 4~\mathrm{m^{2}}$ 
 un $9~\mathrm{m^{2}}$. Kvadrāti salikti viens virs otra tā, kā parādīts 9.att. 
@@ -186,7 +186,7 @@ ir $(6+3) \cdot 2=18~\mathrm{m}$.
 
 
 
-# <lo-sample/> LV.NOL.2020.6.2.
+# <lo-sample/> LV.NOL.2020.6.2
 
 Atrodi skaitļa $1^{3}+3^{3}+5^{3}+\cdots+101^{3}$ pēdējo ciparu!
 
@@ -221,7 +221,7 @@ Tātad uzdevumā dotā skaitļa pēdējais cipars ir $1$.
 
 
 
-# <lo-sample/> LV.NOL.2020.6.3.
+# <lo-sample/> LV.NOL.2020.6.3
 
 Izmantojot divas 11.att. un četrpadsmit 12.att. figūras, saliec taisnstūri ar 
 izmēriem $10 \times 9$ tā, lai 11.att. figūras nesaskartos! Figūras drīkst 
@@ -244,7 +244,7 @@ Skat., piemēram, 13.att.
 
 
 
-# <lo-sample/> LV.NOL.2020.6.4.
+# <lo-sample/> LV.NOL.2020.6.4
 
 Dota tabula ar izmēriem $3 \times 10$ rūtiņas. Katrā rūtiņā ierakstīts naturāls
 skaitlis no $1$ līdz $30$ (katrā rūtiņā cits skaitlis). Vai iespējams, ka 
@@ -274,7 +274,7 @@ $14$, **b)** $15$?
 
 
 
-# <lo-sample/> LV.NOL.2020.6.5.
+# <lo-sample/> LV.NOL.2020.6.5
 
 Sešciparu naturāliem skaitļiem katrs cipars aizstāts ar burtu tā, ka vienādi 
 burti aizstāj vienādus ciparus, bet dažādi burti - dažāus ciparus. Zināms, ka 
@@ -325,7 +325,7 @@ $GRIEZE - 285010$.
 
 
 
-# <lo-sample/> LV.NOL.2020.7.1.
+# <lo-sample/> LV.NOL.2020.7.1
 
 Dota taisne $y=2019x-2020$. Uzraksti vienādojumu taisnei, kas iet caur punktu 
 $(14; -2006)$ un krusto doto taisni punktā, kura abscisa ir $0$.
@@ -348,7 +348,7 @@ jeb $k=1$. Tātad meklētās taisnes vienādojums ir $y=x-2020$.
 
 
 
-# <lo-sample/> LV.NOL.2020.7.2.
+# <lo-sample/> LV.NOL.2020.7.2
 
 Uz tāfeles rindā uzrakstīti nepāra skaitļi $1;\ 3;\ 5;\ \ldots ;\ 2021;\ 2023$. 
 Katram no tiem priekšā pierakstīja vai nu "+", vai "-" zīmi. Vai var gadīties, 
@@ -382,7 +382,7 @@ $$\underbrace{-1+3-5+7}_{=4} \underbrace{+9-11-13+15}_{=0}+\ldots \underbrace{+2
 
 
 
-# <lo-sample/> LV.NOL.2020.7.3.
+# <lo-sample/> LV.NOL.2020.7.3
 
 Vai 15.att. figūru var pārklāt ar **a)** piecpadsmit 16.att. figūrām, **b)** 
 trīs 16.att. figūrām un divpadsmit 17.att. figūrām? Figūras drīkst pagriezt.
@@ -421,7 +421,7 @@ pamatojot, ka arī tālākais pārklājums ir noteikts viennozīmīgi.
 
 
 
-# <lo-sample/> LV.NOL.2020.7.4.
+# <lo-sample/> LV.NOL.2020.7.4
 
 Dota tabula ar izmēriem $2 \times n$ rūtiņas, kurā katrā rūtiņā ierakstīts 
 viens naturāls skaitlis no $1$ līdz $2n$ (katrā rūtiņā cits skaitlis) tā, ka 
@@ -449,12 +449,12 @@ Pamatosim, ka $K$ nevar būt vienāds ar $n$ vai lielāks nekā $n$. Pieņemsim
 pretējo, ka $K \geq n$. Ievērojam, ka katrai tabulas rūtiņai ir vismaz divas 
 blakus rūtiņas, un aplūkojam to rūtiņu, kurā ir ierakstīts skaitlis $N$. Šim 
 skaitlim tikai viens no tabulā ierakstītajiem skaitļiem var nodrošināt 
-starpību, kas ir vismaz $n$, tas ir skaitlis $2n$. legūta pretruna, tātad 
+starpību, kas ir vismaz $n$, tas ir skaitlis $2n$. Iegūta pretruna, tātad 
 derīgs tabulas aizpildījums šajā gadījumā neeksistē.
 
 
 
-# <lo-sample/> LV.NOL.2020.7.5.
+# <lo-sample/> LV.NOL.2020.7.5
 
 Atrodi tādu naturālu skaitli $n$, ka skaitļa $11n$ ciparu summa ir vismaz $11$ 
 reizes mazāka nekā skaitļa $n$ ciparu summa!
@@ -477,7 +477,7 @@ ar $11$.
 
 
 
-# <lo-sample/> LV.NOL.2020.8.1.
+# <lo-sample/> LV.NOL.2020.8.1
 
 Profesoram Cipariņam ir airu laiva. Profesors stāvošā ūdenī airē ar ātrumu 
 $7~\mathrm{km/h}$. Vienu dienu viņš nolēma doties braucienā pa vietējo upi. Izbraucot no
@@ -520,7 +520,7 @@ Līdz ar to esam ieguvuši, ka upes straumes ātrums ir $2~\mathrm{km/h}$.
 
 
 
-# <lo-sample/> LV.NOL.2020.8.2.
+# <lo-sample/> LV.NOL.2020.8.2
 
 Dīvainam kalkulatoram ir tikai divas pogas: "P", kas uz ekrāna redzamo skaitli 
 palielina par pieci, un "S", kas uz ekrāna redzamo skaitli palielina par 
@@ -559,7 +559,7 @@ $24; 25; 26; 27; 28$, nospiežot pogu "P" vajadzīgo reižu skaitu.
 
 
 
-# <lo-sample/> LV.NOL.2020.8.3.
+# <lo-sample/> LV.NOL.2020.8.3
 
 Trijstūrī $ABC$ novilktas bisektrises $AK$ un $BM$. Zināms, ka $AK=BM=AB$. 
 Aprēķini trijstūra $ABC$ leņķus!
@@ -594,7 +594,7 @@ un $\sphericalangle ACB=180^{\circ}-2 \cdot 72^{\circ}=36^{\circ}$.
 
 
 
-# <lo-sample/> LV.NOL.2020.8.4.
+# <lo-sample/> LV.NOL.2020.8.4
 
 Dota tabula ar izmēriem $3 \times 2n$ rūtiņas, kurā katrā rūtiņā ierakstīts 
 viens naturāls skaitlis no $1$ līdz $6n$ (katrā rūtiņā cits skaitlis) tā, ka 
@@ -627,7 +627,7 @@ blakus rūtiņās ierakstīto skaitļu starpības periodiski atkārtojas.
 
 
 
-# <lo-sample/> LV.NOL.2020.8.5.
+# <lo-sample/> LV.NOL.2020.8.5
 
 Dotas $8$ pēc ārējā izskata vienādas monētas. Ir zināms, ka vai nu visām tām 
 masas ir vienādas, vai arī $4$ monētām ir viena masa, bet $4$ monētām - cita 
@@ -662,7 +662,7 @@ vietā svaru kausā ieliekam abas nesvērtās monētas. lespējami divi gadījum
 
 
 
-# <lo-sample/> LV.NOL.2020.9.1.
+# <lo-sample/> LV.NOL.2020.9.1
 
 Vienādsānu trijstūra pamata malas garums ir $10~\mathrm{cm}$, bet perimetrs ir 
 mazāks nekā $30~\mathrm{cm}$. Kāds var būt trijstūra sānu malas garums?
@@ -692,7 +692,7 @@ $10~\mathrm{cm}$.
 
 
 
-# <lo-sample/> LV.NOL.2020.9.2.
+# <lo-sample/> LV.NOL.2020.9.2
 
 Pierādit, ka 
 $\frac{1}{1 \cdot 3}+\frac{1}{3 \cdot 5}+\frac{1}{5 \cdot 7}+\ldots+\frac{1}{2019 \cdot 2021}=\frac{1010}{2021}$.
@@ -725,7 +725,7 @@ kas arī bija jāpierāda.
 
 
 
-# <lo-sample/> LV.NOL.2020.9.3.
+# <lo-sample/> LV.NOL.2020.9.3
 
 Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ iekšēji pieskaras punktā $A$ 
 ($\omega_{2}$ atrodas $\omega_{1}$ iekšpusē) un $\omega_{1}$ centrs neatrodas 
@@ -784,7 +784,7 @@ $\frac{AB}{AC}=\frac{2R}{2r}=\frac{R}{r}=5$.
 
 
 
-# <lo-sample/> LV.NOL.2020.9.4.
+# <lo-sample/> LV.NOL.2020.9.4
 
 Uz katras no $2N$ kartītēm uzrakstīts viens naturāls skaitlis no $1$ līdz $N$, 
 katrs skaitlis uzrakstīts uz tieši divām kartītēm. Kartītes jāsaliek rindā 
@@ -827,7 +827,7 @@ iegūta pretruna, tātad prasīto izdarīt nevar.
 
 
 
-# <lo-sample/> LV.NOL.2020.9.5.
+# <lo-sample/> LV.NOL.2020.9.5
 
 Dota $N \times N$ rūtiņu tabula, kurā visas diagonāles ir sanumurētas pēc 
 kārtas ar skaitļiem no $1$ līdz $2N-1$. Visās rūtiņās, kas pieder vienai 
@@ -872,7 +872,7 @@ Ns & +N(1+2+\cdots+(N-1))=N(1+2+\cdots+N)+N \cdot \frac{N \cdot(N-1)}{2}= \\
 
 
 
-# <lo-sample/> LV.NOL.2020.10.1.
+# <lo-sample/> LV.NOL.2020.10.1
 
 Pierādīt, ka katram naturālam $n$ izpildās vienādība
 
@@ -916,7 +916,7 @@ vienādība ir spēkā visām naturālām $n$ vērtībām.
 
 
 
-# <lo-sample/> LV.NOL.2020.10.2.
+# <lo-sample/> LV.NOL.2020.10.2
 
 Vai eksistē tāds dažādmalu trijstūris, kura malu garumi ir naturāli skaitļi, 
 kas veido ģeometrisko progresiju?
@@ -936,7 +936,7 @@ skaitļi apmierina trijstūra nevienādību: $4+6>9,\ 4+9>6$ un $6+9>4$ un tie v
 
 
 
-# <lo-sample/> LV.NOL.2020.10.3.
+# <lo-sample/> LV.NOL.2020.10.3
 
 Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ iekšēji pieskaras punktā $A$ 
 ($\omega_{2}$ atrodas $\omega_{1}$ iekšpusē) un $\omega_{1}$ centrs neatrodas 
@@ -991,7 +991,7 @@ divi gadījumi:
 
 
 
-# <lo-sample/> LV.NOL.2020.10.4.
+# <lo-sample/> LV.NOL.2020.10.4
 
 Uz katras no $2N$ kartītēm uzrakstīts viens naturāls skaitlis no $1$ līdz $N$, 
 katrs skaitlis uzrakstīts uz tieši divām kartītēm. Kartītes jāsaliek rindā 
@@ -1031,7 +1031,7 @@ $6$ vietas ar nepāra numuriem, iegūta pretruna, tātad prasīto izdarīt nevar
 
 
 
-# <lo-sample/> LV.NOL.2020.10.5.
+# <lo-sample/> LV.NOL.2020.10.5
 
 Dota $N \times N$ rūtiņu tabula, kurā visas diagonāles ir sanumurētas pēc 
 kārtas ar skaitļiem no $1$ līdz $2N-1$. Katram $i$, kur $1 \leq i \leq 2N-1$ 
@@ -1092,7 +1092,7 @@ daudz.
 
 
 
-# <lo-sample/> LV.NOL.2020.11.1.
+# <lo-sample/> LV.NOL.2020.11.1
 
 Pierādīt, ka visām naturālām $n$ vērtībām $6^{2n}+19^{n}-2^{n+1}$ dalās ar 
 $17$.
@@ -1135,7 +1135,7 @@ $$6^{2n}+19^{n}-2^{n+1} \equiv 36^{n}+19^{n}-2 \cdot 2^{n} \equiv 2^{n}+2^{n}-2 
 
 
 
-# <lo-sample/> LV.NOL.2020.11.2.
+# <lo-sample/> LV.NOL.2020.11.2
 
 Bezgalīgas augošas aritmētiskās progresijas locekļi ir naturāli skaitļi. 
 Pierādīt, ka tajā ir tāds loceklis, kurā desmit cipari pēc kārtas ir 
@@ -1164,7 +1164,7 @@ $10$ piecinieki pēc kārtas.
 
 
 
-# <lo-sample/> LV.NOL.2020.11.3.
+# <lo-sample/> LV.NOL.2020.11.3
 
 Divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$ ārēji pieskaras. Taisne $t$ 
 pieskaras $\omega_{1}$ punktā $A$, bet $\omega_{2}$ - punktā $B$. Ir novilkts 
@@ -1223,7 +1223,7 @@ Līdz ar to $CD=2r$ un $AC=2 \cdot O_{1}A=2r$, un esam pierādījuši, ka $AC=CD
 
 
 
-# <lo-sample/> LV.NOL.2020.11.4.
+# <lo-sample/> LV.NOL.2020.11.4
 
 Pa apli uzrakstīti $10$ naturāli skaitļi, kuru summa ir $100$. Zināms, ka 
 jebkuru trīs pēc kārtas esošu skaitļu summa ir vismaz $29$. Kādu lielāko 
@@ -1246,7 +1246,7 @@ $a \leq 100-3 \cdot 29=13$.
 
 
 
-# <lo-sample/> LV.NOL.2020.11.5.
+# <lo-sample/> LV.NOL.2020.11.5
 
 Atrisināt veselos skaitļos vienādojumu $n^{3}=(n-1)^{3}+(n-2)^{3}+(n-3)^{3}$.
 
@@ -1281,7 +1281,7 @@ $\pm 1; \pm 2; \pm 3; \pm 6; \pm 9; \pm 18$.
 
 
 
-# <lo-sample/> LV.NOL.2020.12.1.
+# <lo-sample/> LV.NOL.2020.12.1
 
 Virkne $\left(x_{n}\right)$ definēta rekurenti: $x_{1}=1,\ x_{2}=-3,\ x_{3}=-29$ 
 un $x_{n+3}=9x_{n+2}-26x_{n+1}+24x_{n}$ visiem naturāliem $n$. Pierādīt, ka 
@@ -1322,7 +1322,7 @@ $n=k+3$, secinām, ka formula ir spēkā visām naturālām $n$ vērtībām.
 
 
 
-# <lo-sample/> LV.NOL.2020.12.2.
+# <lo-sample/> LV.NOL.2020.12.2
 
 **a)** Parādi vienu veidu, kā 34.att. figūras katrā rūtiņā ierakstīt veselu 
 skaitli tā, lai jebkurā taisnstūrī $1 \times 3$ vai $3 \times 1$ ierakstīto 
@@ -1358,7 +1358,7 @@ ar kādu citu.
 
 
 
-# <lo-sample/> LV.NOL.2020.12.3.
+# <lo-sample/> LV.NOL.2020.12.3
 
 Dots trijstūris $ABC$, kurā $\sphericalangle A<\sphericalangle C$. Uz malas 
 $BC$ pagarinājuma izvēlēts punkts $D$ tā, ka $B$ atrodas starp $C$ un $D$ un 
@@ -1406,7 +1406,7 @@ atbilstošās malas.
 
 
 
-# <lo-sample/> LV.NOL.2020.12.4.
+# <lo-sample/> LV.NOL.2020.12.4
 
 Debesskrāpī, kurā strādā profesors Cipariņš, ir $500$ stāvi un tā liftā ir 
 neparasta vadības pults: tajā var ievadīt naturālu skaitli $n$, kas nepārsniedz
@@ -1473,7 +1473,7 @@ levadīsim $1$ un nospiedīsim <uz augšu>:
 
 
 
-# <lo-sample/> LV.NOL.2020.12.5.
+# <lo-sample/> LV.NOL.2020.12.5
 
 Zināms, ka naturāli skaitļi $x$ un $y$ ir tādi, ka $x^{2}+y^{2}+1$ dalās ar 
 $13$. Pierādīt: **a)** $x^{2}-y^{2}$ nedalās ar $13$, **b)** tieši viens no 

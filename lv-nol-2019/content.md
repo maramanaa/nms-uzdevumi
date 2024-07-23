@@ -1,4 +1,4 @@
-# <lo-sample/> LV.NOL.2019.5.1.
+# <lo-sample/> LV.NOL.2019.5.1
 
 Sākumā katrā no divām tvertnēm bija $250$ litri degvielas. No pirmās tvertnes 
 vispirms izlēja $\frac{1}{5}$ degvielas un tad pielēja $\frac{1}{5}$ no 
@@ -17,7 +17,7 @@ esošās degvielas. Cik litru degvielas tagad ir katrā tvertnē?
 
 Vispirms no pirmās degvielas tvertnes izlēja $\frac{1}{5} \cdot 250=50$ litrus 
 degvielas un tvertnē palika $250-50=200$ litri degvielas. Pēc tam pielēja 
-\frac{1}{5} \cdot 200=40 litrus degvielas. Tātad pirmajā tvertnē tagad ir 
+$\frac{1}{5} \cdot 200=40$ litrus degvielas. Tātad pirmajā tvertnē tagad ir 
 $200+40=240$ litri degvielas.
 
 Vispirms otrajā degvielas tvertnē ielēja $\frac{1}{5} \cdot 250=50$ litrus 
@@ -27,7 +27,7 @@ $300-60=240$ litri degvielas.
 
 
 
-# <lo-sample/> LV.NOL.2019.5.2.
+# <lo-sample/> LV.NOL.2019.5.2
 
 Dotas $15$ pēc ārējā izskata vienādas monētas, bet visas to masas ir dažādas. 
 Kā, izmantojot sviras svarus bez atsvariem, ar $21$ svēršanu atrast gan pašu 
@@ -74,7 +74,7 @@ smagāko monētu.
 Sākumā izveidojam $7$ monētu pārus (skat. 2.att.) un katrā pārī noskaidrojam, 
 kura ir smagākā monēta ($1.$ kārta; $7$ svēršanas). Tad šīm septiņām atrastajām
 monētām klāt pievienojam vēl nesvērto monētu un izveidojam četrus monētu pārus.
-Katrā pārī atrodam smagāko monētu ($2.$ kārta; $4$ svēršanas). legūtās četras 
+Katrā pārī atrodam smagāko monētu ($2.$ kārta; $4$ svēršanas). Iegūtās četras 
 smagākās monētas atkal sadalām divos pāros un ar $2$ svēršanām ($3.$ kārta) 
 atrodam smagāko monētu katrā pārī. Veicot vēl vienu svēršanu ($4.$ kārta), esam
 atraduši vissmagāko monētu no visām.
@@ -90,7 +90,7 @@ Tātad kopā nepieciešama $7+4+2+1+7=21$ svēršana.
 
 
 
-# <lo-sample/> LV.NOL.2019.5.3.
+# <lo-sample/> LV.NOL.2019.5.3
 
 Anniņa kvadrātā $4 \times 4$ iekrāsoja dažas pelēkas rūtiņas tā, ka neveidojas 
 neviens stūrītis (skat. 3.att.), kam visas rūtiņas ir pelēkas. Ja Anniņa 
@@ -117,7 +117,7 @@ bet Jānītis iekrāsoja $8$ rūtiņas kā parādīts 5.att.
 
 
 
-# <lo-sample/> LV.NOL.2019.5.4.
+# <lo-sample/> LV.NOL.2019.5.4
 
 Veikalā par $28$ uzlīmēm var saņemt mašīnu. Valentīns ieradās veikalā, kur 
 pārdevējs viņam iedeva tikpat uzlīmes, cik Valentīnam jau bija, un tad viņš 
@@ -145,7 +145,7 @@ Tātad Valentīnam pirms pirmā veikala apmeklējuma bija $27$ uzlīmes.
 
 
 
-# <lo-sample/> LV.NOL.2019.5.5.
+# <lo-sample/> LV.NOL.2019.5.5
 
 Vai vārdā $NEAPJAUŠAMAIS$ var aizvietot burtus ar cipariem tā, ka dažādus 
 burtus aizstāj dažādi cipari (burti $S$ un $Š$ ir aizstāti ar atšķirīgiem 
@@ -171,7 +171,7 @@ desmitciparu skaitlis, tātad tas nevar būt pirmskaitlis.
 
 
 
-# <lo-sample/> LV.NOL.2019.6.1.
+# <lo-sample/> LV.NOL.2019.6.1
 
 Konkursā bija $90$ jautājumu. Par katru pareizu atbildi var iegūt $3$ punktus, 
 par katru nepareizu atbildi tiek atņemts $1$ punkts. Ja uz kādu jautājumu nav 
@@ -196,7 +196,7 @@ jautājumiem. Tātad Olafs nesniedza atbildi uz $90-10-70=10$ jautājumiem.
 
 
 
-# <lo-sample/> LV.NOL.2019.6.2.
+# <lo-sample/> LV.NOL.2019.6.2
 
 Dotas $11$ pēc ārējā izskata vienādas monētas, no kurām $10$ ir īstas, bet 
 viena ir viltota. Īstās monētas masa ir $12$ grami, bet viltotās - $11$ grami. 
@@ -251,9 +251,9 @@ savā starpā. Viltotā monēta atradīsies "vieglākajā" kausā.
 
 
 
-# <lo-sample/> LV.NOL.2019.6.3.
+# <lo-sample/> LV.NOL.2019.6.3
 
-Vai taisnstūri ar izmēriem **a)** $5 \times 8$, **b)** $5 \times 12$ rūtiņas 
+Vai taisnstūri ar izmēriem **(A)** $5 \times 8$, **(B)** $5 \times 12$ rūtiņas 
 var pārklāt ar 8.att. redzamajām figūrām? Taisnstūrim jābūt pilnībā pārklātam. 
 Figūras nedrīkst iziet ārpus taisnstūra un nedrīkst pārklāties, tās drīkst būt 
 pagrieztas vai apgrieztas spoguļattēlā.
@@ -269,9 +269,9 @@ pagrieztas vai apgrieztas spoguļattēlā.
 
 ## Atrisinājums
 
-**a)** Jā, var, piemēram, skat. 9.att.
+**(A)** Jā, var, piemēram, skat. 9.att.
 
-**b)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
+**(B)** Nē, nevar. lekrāsosim doto taisnstūri joslās (skat. 10.att.), tad 
 taisnstūrī ir iekrāsotas $30$ (pāra skaitlis) melnas un $30$ (pāra skaitlis) 
 baltas rūtiņas. Ja taisnstūri varētu pārklāt, tad tas būtu pārklāts ar tieši 
 $60:4=15$ figūrām. Lai kā arī šajā kvadrātā tiktu novietota dotā figūra, tā 
@@ -285,7 +285,7 @@ taisnstūrī, tad taisnstūri pārklāt nevar.
 
 
 
-# <lo-sample/> LV.NOL.2019.6.4.
+# <lo-sample/> LV.NOL.2019.6.4
 
 Aizpildi doto kvadrātu (skat. 11.att.), tukšajās rūtiņās ierakstot pa vienam 
 naturālam skaitlim, tā, lai visi deviņi skaitļi ir dažādi un visās rindās, 
@@ -321,7 +321,7 @@ kvadrāta, pieskaitot $1$.
 
 
 
-# <lo-sample/> LV.NOL.2019.6.5.
+# <lo-sample/> LV.NOL.2019.6.5
 
 Dots, ka $LAI + ŠIS + IR + LABS=2019$ un $IR + IR = LAI$. Parādi vienu piemēru,
 kādi cipari var būt burtu vietās, lai dotās vienādības būtu patiesas un 
@@ -352,7 +352,7 @@ atbilst vienādi cipari.
 
 
 
-# <lo-sample/> LV.NOL.2019.7.1.
+# <lo-sample/> LV.NOL.2019.7.1
 
 Doti trīs vienādojumi $ax+b=0,\ bx+c=0$ un $cx+a=0$. Neviens no koeficientiem 
 $a, b, c$ nav $0$.
@@ -382,7 +382,7 @@ tātad vismaz viena sakne ir negatīva.
 
 
 
-# <lo-sample/> LV.NOL.2019.7.2.
+# <lo-sample/> LV.NOL.2019.7.2
 
 Dotas $14$ pēc ārējā izskata vienādas monētas. Zināms, ka $13$ monētu masas ir 
 vienādas savā starpā, bet vienas monētas masa ir citāda. Kā ar divām svēršanām 
@@ -437,7 +437,7 @@ jebkurām $4$ jau svērtajām (parastajām) monētām.
 **(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
 atradusies uz svariem (skat. 14.att. (B)). Izvēlamies vieglākā kausa 
 monētas un tām pievienojam vienu parasto monētu, kas pirmajā svēršanā bija 
-atlikta malā. legūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
+atlikta malā. Iegūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
 kausā liekam pa $3$ monētām no šīs kaudzītes.
 
 - Ja svaru kausi ir līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi 
@@ -449,7 +449,7 @@ kausā liekam pa $3$ monētām no šīs kaudzītes.
 
 
 
-# <lo-sample/> LV.NOL.2019.7.3.
+# <lo-sample/> LV.NOL.2019.7.3
 
 Anniņa kvadrātā $6 \times 6$ iekrāsoja dažas pelēkas rūtiņas tā, ka neveidojas 
 neviens stūrītis (skat. 15.att.), kam visas rūtiņas ir pelēkas. Ja Anniņa 
@@ -476,14 +476,15 @@ Jā, var gadīties, piemēram, ja Anniņa iekrāsoja $12$ rūtiņas kā parādī
 
 
 
-# <lo-sample/> LV.NOL.2019.7.4.
+# <lo-sample/> LV.NOL.2019.7.4
 
 Vai var atrast tādus veselus skaitļus $a$ un $b$, ka $ab(a+5b)=150015$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* genre:integer-equation
+* domain:NT
 
 </small>
 
@@ -498,7 +499,7 @@ atrast tādus veselus skaitļus $a$ un $b$, lai dotā vienādība būtu patiesa.
 
 
 
-# <lo-sample/> LV.NOL.2019.7.5.
+# <lo-sample/> LV.NOL.2019.7.5
 
 Uz tāfeles uzrakstītas deviņas zvaigznītes $*********$. Mārtiņš ieraksta kādas 
 zvaigznītes vietā jebkuru ciparu no $1$ līdz $9$. Pēc tam Rihards jebkuru divu 
@@ -509,8 +510,10 @@ uzvarēt?
 
 <small>
 
-* questionType:
-* domain:
+* genre:game
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -540,7 +543,7 @@ $124;\ 155;\ 186;\ 217;\ 248;\ 279;\ 310;\ 341;\ 372;\ 403;\ 434;\ 465;\ 496;\ 5
 
 
 
-# <lo-sample/> LV.NOL.2019.8.1.
+# <lo-sample/> LV.NOL.2019.8.1
 
 Taisnstūra vienas malas garums ir $(2 \sqrt{3}-\sqrt{6})(2 \sqrt{3}+\sqrt{6})$,
 bet otras malas garums ir $(\sqrt{3})^{2}+\sqrt{1 \frac{7}{9}}$. Aprēķināt 
@@ -570,7 +573,7 @@ garums ir $\sqrt{26}$.
 
 
 
-# <lo-sample/> LV.NOL.2019.8.2.
+# <lo-sample/> LV.NOL.2019.8.2
 
 Zināms, ka no $26$ monētām viena ir viltota - tā ir vieglāka nekā pārējās, 
 kurām visām ir vienāda masa. Kā ar trīs svēršanām uz sviras svariem bez 
@@ -610,7 +613,7 @@ atsevišķi, varam šai kaudzītei pievienot vienu "parasto" monētu.
 
 
 
-# <lo-sample/> LV.NOL.2019.8.3.
+# <lo-sample/> LV.NOL.2019.8.3
 
 Izliekta piecstūra $ABCDE$ diagonāļu $AC$ un $BD$ krustpunkts ir $M,\ AC$ un 
 $BE$ krustpunkts ir $K$. Zināms, ka $AK=CM$ un $BK=KE=AE$. Pierādīt, ka 
@@ -641,7 +644,7 @@ Līdz ar to $EM=BC$ kā atbilstošās malas vienādos trijstūros.
 
 
 
-# <lo-sample/> LV.NOL.2019.8.4.
+# <lo-sample/> LV.NOL.2019.8.4
 
 Uz tāfeles uzrakstīti skaitļi $\frac{3}{2},\ \frac{4}{5},\ \frac{5}{3}$. Ar vienu
 gājienu atļauts izvēlēties divus no uzrakstītajiem skaitļiem (apzīmēsim tos ar 
@@ -652,8 +655,10 @@ $\frac{4}{3},\ \frac{4}{5},\ \frac{5}{2}$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2000.7.5
+* genre:making-moves
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -672,7 +677,7 @@ nav iespējams.
 
 
 
-# <lo-sample/> LV.NOL.2019.8.5.
+# <lo-sample/> LV.NOL.2019.8.5
 
 Izmantojot divus atšķirīgus nenulles ciparus $x$ un $y$ ir izveidoti divi 
 trīsciparu skaitļi $\overline{xyx}$ un $\overline{yxy}$. Zināms, ka 
@@ -681,8 +686,9 @@ izveidotais trīsciparu skaitlis $\overline{yxy}$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* concepts:divisibility
 
 </small>
 
@@ -716,7 +722,7 @@ visus divciparu skaitļus $\overline{xy}$, kas dalās ar $4$.
 
 
 
-# <lo-sample/> LV.NOL.2019.9.1.
+# <lo-sample/> LV.NOL.2019.9.1
 
 Lineāra funkcija $y=\left(m^{2}-3 m\right) x+4m-4$ krusto $x$ asi punktā, kura 
 abscisa ir $2$. Atrodi $m$ vērtības un noskaidro, vai atbilstošā funkcija ir 
@@ -743,7 +749,7 @@ gadījumi:
 
 
 
-# <lo-sample/> LV.NOL.2019.9.2.
+# <lo-sample/> LV.NOL.2019.9.2
 
 Dotas divas melnas, divas sarkanas un divas zaļas lodītes. Vienas lodītes masa 
 ir $99~\mathrm{g}$, bet tādas pašas krāsas otras lodītes masa ir 
@@ -820,7 +826,7 @@ kas sver $101~\mathrm{g}$. Otrajā svēršanā salīdzinām abas melnās lodīte
 
 
 
-# <lo-sample/> LV.NOL.2019.9.3.
+# <lo-sample/> LV.NOL.2019.9.3
 
 Uz kvadrāta $ABCD$ malām $AB,\ BC,\ CD$ un $DA$ attiecīgi atzīmēti punkti 
 $E,\ F,\ G,\ H$ tā, ka $AE=BF=CG=DH$. Kvadrāta iekšpusē atlikts patvaļīgs 
@@ -884,7 +890,7 @@ $S_{AEOH}+S_{FCGO}=S_{BFOE}+S_{DHOG}$.
 
 
 
-# <lo-sample/> LV.NOL.2019.9.4.
+# <lo-sample/> LV.NOL.2019.9.4
 
 Kvadrāts sastāv no $n \times n$ rūtiņām. Rindas sanumurētas no lejas uz augšu 
 ar skaitļiem $1; 2; \ldots$; $n$ tāpat sanumurētas kolonnas no kreisās uz labo 
@@ -924,15 +930,17 @@ piemēram, 24.att., kur tukšajās rūtiņās ierakstīts $(+1)$.
 
 
 
-# <lo-sample/> LV.NOL.2019.9.5.
+# <lo-sample/> LV.NOL.2019.9.5
 
 Kāds mazākais ciparu skaits jāpieraksta ciparu virknes $3456$ beigās, lai 
 iegūtu skaitli, kas dalās ar $2019$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* concepts:divisibility
+* genre:digit-manipulation
+* domain:NT
 
 </small>
 
@@ -986,7 +994,7 @@ $3456000=1711 \cdot 2019+1491$ un $1491+528=2019$.
 
 
 
-# <lo-sample/> LV.NOL.2019.10.1.
+# <lo-sample/> LV.NOL.2019.10.1
 
 Kvadrātfunkcija $y=x^{2}+\left(m^{2}+3m\right)x+m-1$ krusto $x$ asi punktā, 
 kura abscisa ir $1$. Kāda var būt $m$ vērtība? Atrast otru parabolas 
@@ -1013,7 +1021,7 @@ gadījumi:
 
 
 
-# <lo-sample/> LV.NOL.2019.10.2.
+# <lo-sample/> LV.NOL.2019.10.2
 
 Dotas $6$ pēc ārējā izskata vienādas monētas. Trim no tām masa katrai ir 
 $50~\mathrm{g}$, bet pārējām trim - katrai $51~\mathrm{g}$. Kā, lietojot sviras
@@ -1090,7 +1098,7 @@ Pirmajā svēršanā uz katra svaru kausa uzliekam pa $2$ monētām.
 
 
 
-# <lo-sample/> LV.NOL.2019.10.3.
+# <lo-sample/> LV.NOL.2019.10.3
 
 Plaknē dotas divas riņķa līnijas $\omega_{1}$ un $\omega_{2}$, kurām nav kopīgu
 punktu un kuru rādiusi nav vienāda garuma. Novilktas trīs pieskares 
@@ -1125,7 +1133,7 @@ $XA=XF$. Līdz ar to $AG=FB$, no kā izriet, ka $AC=BD$.
 
 
 
-# <lo-sample/> LV.NOL.2019.10.4.
+# <lo-sample/> LV.NOL.2019.10.4
 
 Doti $2019$ reāli skaitļi ar īpašību, ka jebkuru $1010$ skaitļu summa ir 
 lielāka nekā atlikušo $1009$ skaitļu summa. Pierādīt, ka visi dotie skaitļi ir 
@@ -1153,14 +1161,19 @@ $x \leq 0$. Tātad visi dotie skaitļi ir pozitīvi.
 
 
 
-# <lo-sample/> LV.NOL.2019.10.5.
+# <lo-sample/> LV.NOL.2019.10.5
 
 Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+18n=2018$.
 
 <small>
 
-* questionType:
-* domain:
+
+* domain:NT
+* topic:DivisibilityRulesFor2And4
+* topic:CanonicalFactorization
+* concepts:primes
+* questionType:FindAll
+* genre:integer-equation
 
 </small>
 
@@ -1176,7 +1189,7 @@ $$\begin{gathered}
 
 Ievērojam, ka iegūtās vienādības labās puses izteiksme ir pozitīva, tātad arī 
 $(100-m)$ jābūt pozitīvam. Tā kā $10$ un $9$ ir savstarpēji pirmskaitļi, tad 
-$(100-m)$ ir jādalās ar $9$. lespējamās $m$ vērtības varētu būt 
+$(100-m)$ ir jādalās ar $9$. Iespējamās $m$ vērtības varētu būt 
 $1,\ 10,\ 19,\ 28,\ 37,\ 46,\ 55,\ 64,\ 73,\ 82$ un $91$, no kurām derīgas ir 
 tikai $19,\ 37$ un $73$, jo tie ir pirmskaitļi. Atrodam atbilstošās $n$ 
 vērtības:
@@ -1188,8 +1201,25 @@ vērtības:
 Tātad dotajam vienādojumam ir divi atrisinājumi: $m=37, n=71$ un $m=73, n=31$.
 
 
+## Atrisinājums
 
-# <lo-sample/> LV.NOL.2019.11.1.
+Izdalām abas puses ar $2$: Iegūstam sakarību $10m+9n=1009$.
+
+Lai $1009 - 9n$ dalītos ar $10$, skaitļa $9n$ pēdējais cipars ir "9", bet paša 
+$n$ pēdējais cipars ir "1".  
+Ievietojam visas $n$ vērtības, kam $1009-9n$ ir pozitīvs, un $n$ beidzas ar ciparu "1": 
+Tas ir iespējams pie $n=1,11,21,31,41,51,61,71,81,91,101,111$. 
+
+Atrastie $(m,n)$ pāri: $(100,1)$, $(91,11)$, $(82,21)$, $(\mathbf{73},\mathbf{31})$, $(64,41)$, 
+$(55,51)$, $(46,61)$, $(\mathbf{37},\mathbf{71})$, $(28,81)$, $(19,91)$, $(10,101)$, $(1,111)$. 
+
+Tikai divos pāros abi skaitļi ir pirmskaitļi: $(m,n)$ var būt $(73,31)$ vai $(37,71)$.
+
+
+
+
+
+# <lo-sample/> LV.NOL.2019.11.1
 
 Vai var gadīties, ka 30.att. ir doti funkciju $y=ax^{2}+bx+c,\ y=cx^{2}+bx+a$ un
 $y=bx+c$ grafiki? (Funkciju grafiki nav zīmēti mērogā.)
@@ -1220,7 +1250,7 @@ $y=bx+c$ grafiki.
 
 
 
-# <lo-sample/> LV.NOL.2019.11.2.
+# <lo-sample/> LV.NOL.2019.11.2
 
 Šaha klubā ir $13$ šahisti. Visu viņu spēles prasme ir atšķirīga un partijā 
 vienmēr uzvar spēcīgākais. **a)** Kā, izspēlējot $12$ partijas, noskaidrot pašu
@@ -1269,7 +1299,7 @@ iespējams, izspēlējot $15$ partijas, atrast arī otru labāko šahistu.
 
 
 
-# <lo-sample/> LV.NOL.2019.11.3.
+# <lo-sample/> LV.NOL.2019.11.3
 
 Divas riņķa līijas $\omega_{1}$ (ar centru punktā $O_{1}$) un $\omega_{2}$ (ar 
 centru punktā $O_{2}$) krustojas punktā $A$. Taisne $O_{1} A$ krusto 
@@ -1310,7 +1340,7 @@ $\sphericalangle B_{2}B_{1}A=\sphericalangle C_{2}C_{1}A$.
 
 
 
-# <lo-sample/> LV.NOL.2019.11.4.
+# <lo-sample/> LV.NOL.2019.11.4
 
 Pierādīt, ka nevienādība 
 $\frac{a}{b}(a+1)^{2}+\frac{b}{a}(b+1)^{2} \geq 2(a+1)(b+1)$ ir spēkā visiem 
@@ -1326,7 +1356,7 @@ reāliem pozitīviem skaitļiem $a$ un $b$.
 ## Atrisinājums
 
 Tā kā $a$ un $b$ ir pozitīvi skaitļi, tad abas nevienādības puses drīkst 
-reizināt ar $ab$. legūstam pierādāmajai nevienādībai ekvivalentu nevienādību
+reizināt ar $ab$. Iegūstam pierādāmajai nevienādībai ekvivalentu nevienādību
 
 $$\begin{gathered}
 a^{2}(a+1)^{2}+b^{2}(b+1)^{2} \geq 2a(a+1)b(b+1) \\
@@ -1375,14 +1405,17 @@ kas arī bija jāpierāda.
 
 
 
-# <lo-sample/> LV.NOL.2019.11.5.
+# <lo-sample/> LV.NOL.2019.11.5
 
 Atrast visus pirmskaitļu pārus $(m, n)$, kuriem $20m+19n=2019$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* concepts:linear-expression,primes
+* genre:integer-equation
+* seeAlso:LV.NOL.2019.10.5
 
 </small>
 
@@ -1425,7 +1458,7 @@ Tātad dotajam vienādojumam ir divi atrisinājumi: $m=5,\ n=101$ un $m=43,\ n=6
 
 
 
-# <lo-sample/> LV.NOL.2019.12.1.
+# <lo-sample/> LV.NOL.2019.12.1
 
 Urnā atrodas $66$ baltas un nezināms skaits melnu lodīšu. Ja uz labu laimi tiek
 izvilktas divas lodītes, tad varbūtība, ka abas lodītes būs vienā krāsā, sakrīt
@@ -1481,7 +1514,7 @@ $\frac{m(m-1)}{(66+m)(65+m)}+\frac{66 \cdot 65}{(66+m)(65+m)}$.
 
 
 
-# <lo-sample/> LV.NOL.2019.12.2.
+# <lo-sample/> LV.NOL.2019.12.2
 
 Brigita ir iedomājusies naturālu skaitli, kas nepārsniedz $60$. Indra drīkst 
 Brigitai uzdot jautājumus, uz kuriem atbilde ir "jā" vai "nē". Kā, uzdodot 
@@ -1542,7 +1575,7 @@ iedomāto skaitli.
 
 
 
-# <lo-sample/> LV.NOL.2019.12.3.
+# <lo-sample/> LV.NOL.2019.12.3
 
 Trijstūrī $ABC$ ievilktās riņķa līnijas centrs ir $O$. Nogriežņi $OA, OB, OC$ 
 krusto šo riņķa līniju attiecīgi punktos $D, E, F$. Zināms, ka 
@@ -1590,7 +1623,7 @@ ir regulārs trijstūris. Līdz ar to arī trijstūris $ABC$ ir regulārs.
 
 
 
-# <lo-sample/> LV.NOL.2019.12.4.
+# <lo-sample/> LV.NOL.2019.12.4
 
 Pierādīt, ka pozitīviem skaitļiem $a,\ b,\ c$ izpildās nevienādība 
 $\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
@@ -1641,15 +1674,16 @@ $\left|\sqrt{a^{2}+b^{2}}-\sqrt{a^{2}+c^{2}}\right| \leq|b-c|$.
 
 
 
-# <lo-sample/> LV.NOL.2019.12.5.
+# <lo-sample/> LV.NOL.2019.12.5
 
 Pierādīt, ka vienādojumam $(a-b)^{2}=a+b$ ir bezgalīgi daudz atrisinājumu 
 naturālos skaitļos!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* genre:integer-equation
 
 </small>
 
