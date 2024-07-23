@@ -1301,7 +1301,7 @@ iespējams, izspēlējot $15$ partijas, atrast arī otru labāko šahistu.
 
 # <lo-sample/> LV.NOL.2019.11.3
 
-Divas riņķa līijas $\omega_{1}$ (ar centru punktā $O_{1}$) un $\omega_{2}$ (ar 
+Divas riņķa līnijas $\omega_{1}$ (ar centru punktā $O_{1}$) un $\omega_{2}$ (ar 
 centru punktā $O_{2}$) krustojas punktā $A$. Taisne $O_{1} A$ krusto 
 $\omega_{2}$ punktā $B_{2}$, bet $\omega_{1}-$ punktā $C_{1}$. Taisne $O_{2}A$ 
 krusto $\omega_{1}$ punktā $B_{1}$, bet $\omega_{2}$ - punktā $C_{2}$ (skat. 

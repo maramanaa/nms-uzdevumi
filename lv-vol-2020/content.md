@@ -730,7 +730,7 @@ $OE^{2}=OB^{2}+2 \cdot OB \cdot BE$.
 Apzīmējam $OB=OC=R$ (skat. 12.att.). Tā kā $C$ ir loka $AB$ viduspunkts, tad 
 $OC$ ir nogriežņa $AB$ vidusperpendikuls, kas krusto $AB$ punktā $F$. Tātad 
 $OC \parallel DE$. No $AO=OD$ un $OC \parallel DE$ izriet, ka $OC$ ir trijstūra
-$ADE$ viduslīija. Tātad $ED=2OC=2R$.
+$ADE$ viduslīnija. Tātad $ED=2OC=2R$.
 
 Taisnes $OE$ krustpunktus ar riņķa līniju apzīmējam ar $X$ un $Y$. Apskatām 
 starpību
