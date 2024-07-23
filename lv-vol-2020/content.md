@@ -493,7 +493,7 @@ nekā $1$, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
 Tātad dotā izteiksme, dalot ar $4$, dod atlikumu $3$, tātad tā nevar būt 
 naturāla skaitļa kvadrāts.
 
-$\textit {Piezīme.}$ legūt pretrunu var arī apskatot doto izteiksmi pēc moduļa 
+$\textit {Piezīme.}$ Iegūt pretrunu var arī apskatot doto izteiksmi pēc moduļa 
 $9$. Ja $n=1$, tad atlikums, dalot ar $9$, ir $6$, ja $n$ ir lielāks nekā $1$, 
 tad atlikums, dalot ar $9$, ir $3$, bet naturālu skaitļu kvadrātu vērtības pēc 
 moduļa $9$ var būt tikai $0, 1, 4$ vai $7$.
@@ -908,7 +908,7 @@ nenegatīvi veseli skaitļi, ir $2019$.
 
 **a)** Pamatosim, ka der, piemēram, skaitļi $a=2$ un $b=2021$.
 
-legūstam izteiksmi $2n+2021m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
+Iegūstam izteiksmi $2n+2021m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
 summu, jo
 
 $2021 \cdot 1=2021 > 2019$;

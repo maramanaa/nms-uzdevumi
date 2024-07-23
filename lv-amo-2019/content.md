@@ -1144,7 +1144,7 @@ iegūtos vienādojumus:
 - $x+4=0$ jeb $x=-4$  
 - $9-x^{2}=0$ jeb $x= \pm 3$  
 
-legūtās vērtības atliekam uz skaitļu ass, uzskicējam atbilstošo funkciju 
+Iegūtās vērtības atliekam uz skaitļu ass, uzskicējam atbilstošo funkciju 
 grafikus (skat. 28.att.) un nosakām dotās izteiksmes zīmi katrā intervālā. 
 Tātad dotās nevienādības atrisinājums ir $x \in[-4 ;-3) \cup(3 ; 20]$.
 

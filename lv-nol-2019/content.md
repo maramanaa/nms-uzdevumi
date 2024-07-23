@@ -74,7 +74,7 @@ smagāko monētu.
 Sākumā izveidojam $7$ monētu pārus (skat. 2.att.) un katrā pārī noskaidrojam, 
 kura ir smagākā monēta ($1.$ kārta; $7$ svēršanas). Tad šīm septiņām atrastajām
 monētām klāt pievienojam vēl nesvērto monētu un izveidojam četrus monētu pārus.
-Katrā pārī atrodam smagāko monētu ($2.$ kārta; $4$ svēršanas). legūtās četras 
+Katrā pārī atrodam smagāko monētu ($2.$ kārta; $4$ svēršanas). Iegūtās četras 
 smagākās monētas atkal sadalām divos pāros un ar $2$ svēršanām ($3.$ kārta) 
 atrodam smagāko monētu katrā pārī. Veicot vēl vienu svēršanu ($4.$ kārta), esam
 atraduši vissmagāko monētu no visām.
@@ -437,7 +437,7 @@ jebkurām $4$ jau svērtajām (parastajām) monētām.
 **(B)** Ja pirmajā svēršanā svari nav līdzsvarā, tad atšķirīgā monēta ir 
 atradusies uz svariem (skat. 14.att. (B)). Izvēlamies vieglākā kausa 
 monētas un tām pievienojam vienu parasto monētu, kas pirmajā svēršanā bija 
-atlikta malā. legūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
+atlikta malā. Iegūstam kaudzīti ar $6$ monētām. Otrajā svēršanā katrā svaru 
 kausā liekam pa $3$ monētām no šīs kaudzītes.
 
 - Ja svaru kausi ir līdzsvarā, tad atšķirīgā monēta pirmajā svēršanā ir bijusi 
@@ -1356,7 +1356,7 @@ reāliem pozitīviem skaitļiem $a$ un $b$.
 ## Atrisinājums
 
 Tā kā $a$ un $b$ ir pozitīvi skaitļi, tad abas nevienādības puses drīkst 
-reizināt ar $ab$. legūstam pierādāmajai nevienādībai ekvivalentu nevienādību
+reizināt ar $ab$. Iegūstam pierādāmajai nevienādībai ekvivalentu nevienādību
 
 $$\begin{gathered}
 a^{2}(a+1)^{2}+b^{2}(b+1)^{2} \geq 2a(a+1)b(b+1) \\

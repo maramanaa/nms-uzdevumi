@@ -17,7 +17,7 @@ $\overline{xzy}<\overline{yaz}<\overline{yax}<\overline{zxa}$?
 Pieņemsim, ka šajā virknē katrs nākamais skaitlis ir lielāks nekā 
 iepriekšējais. Lielāks ir tas skaitlis, kuram lielāks ir vecākās šķiras cipars.
 Aplūkojot pirmo, otro un ceturto skaitli, iegūstam, ka $x < y < z$. Salīdzinot 
-otro un trešo skaitli, iegūstam $z < x$. legūta pretruna, tātad nevar būt, ka 
+otro un trešo skaitli, iegūstam $z < x$. Iegūta pretruna, tātad nevar būt, ka 
 šajā virknē katrs nākamais skaitlis ir lielāks nekā iepriekšējais.
 
 
@@ -449,7 +449,7 @@ Pamatosim, ka $K$ nevar būt vienāds ar $n$ vai lielāks nekā $n$. Pieņemsim
 pretējo, ka $K \geq n$. Ievērojam, ka katrai tabulas rūtiņai ir vismaz divas 
 blakus rūtiņas, un aplūkojam to rūtiņu, kurā ir ierakstīts skaitlis $N$. Šim 
 skaitlim tikai viens no tabulā ierakstītajiem skaitļiem var nodrošināt 
-starpību, kas ir vismaz $n$, tas ir skaitlis $2n$. legūta pretruna, tātad 
+starpību, kas ir vismaz $n$, tas ir skaitlis $2n$. Iegūta pretruna, tātad 
 derīgs tabulas aizpildījums šajā gadījumā neeksistē.
 
 

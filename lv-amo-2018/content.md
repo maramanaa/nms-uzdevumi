@@ -1671,7 +1671,7 @@ vienā krāsā (Dirihlē princips). Nezaudējot vispārīgumu, uzskatīsim, ka
 nogriežņi $\textcolor{red}{AB}, \textcolor{red}{AC}, \textcolor{red}{AD}$ ir 
 sarkanā krasā. Tad $\textcolor{blue}{BC}$ un $\textcolor{blue}{CD}$ jābūt zilā 
 krāsā un viens no trijstūriem $ABD$ vai $BCD$ ir vienkrāsas trijstūris (skat. 
-36.att.). legūta pretruna ar pieņēmumu.
+36.att.). Iegūta pretruna ar pieņēmumu.
 
 ![](LV.AMO.2018.12.5A.png)
  
@@ -1685,7 +1685,7 @@ $AB$ ir sarkans, jo pretējā gadījumā būtu divi vienkrāsas trijstūri. Sime
 dēļ varam uzskatīt, ka $\textcolor{red}{AF}$ ir sarkans. Tad 
 $\textcolor{blue}{FE}$ un $\textcolor{blue}{FC}$ ir zilā krāsā, bet 
 $\textcolor{red}{BC}$ ir sarkanā krāsā. Tagad vai nu $FEB$, vai $BEC$ ir 
-vienkrāsas trijstūris. legūta pretruna ar pieņēmumu.
+vienkrāsas trijstūris. Iegūta pretruna ar pieņēmumu.
 
 ![](LV.AMO.2018.12.5B.png)
 
