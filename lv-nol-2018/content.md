@@ -28,15 +28,15 @@ $$\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1; \quad \frac{1}{2}+\frac{1}{4}+\frac{1}{
 Tautas deju kolektīvā ir $18$ dejotāji, jaunākajam no tiem ir $11$ gadi, bet 
 vecākajam - $15$ gadi.
 
-**a)** Vai noteikti šajā kolektīvā ir dejotājs, kuram ir $13$ gadi?
+**(A)** Vai noteikti šajā kolektīvā ir dejotājs, kuram ir $13$ gadi?
 
-**b)** Vai varētu gadīties, ka šajā kolektīvā ir tikai četru dažādu vecumu 
+**(B)** Vai varētu gadīties, ka šajā kolektīvā ir tikai četru dažādu vecumu 
 dejotāji?
 
-**c)** Vai noteikti šajā kolektīvā ir vismaz pieci dejotāji, kam ir vienāds 
+**(C)** Vai noteikti šajā kolektīvā ir vismaz pieci dejotāji, kam ir vienāds 
 gadu skaits?
 
-**d)** Vai noteikti šajā kolektīvā ir vismaz četri dejotāji, kam ir vienāds 
+**(D)** Vai noteikti šajā kolektīvā ir vismaz četri dejotāji, kam ir vienāds 
 gadu skaits?
 
 <small>
@@ -48,19 +48,19 @@ gadu skaits?
 
 ## Atrisinājums
 
-**a)** Nē, piemēram, varētu gadīties, ka vienam dejotājam ir $11$ gadi, bet 
+**(A)** Nē, piemēram, varētu gadīties, ka vienam dejotājam ir $11$ gadi, bet 
 pārējiem $17$ dejotājiem - $15$ gadi.
 
-**b)** Jā, piemēram, varētu gadīties, ka $1$ dejotājam ir $11$ gadi, $1$ 
+**(B)** Jā, piemēram, varētu gadīties, ka $1$ dejotājam ir $11$ gadi, $1$ 
 dejotājam - $12$ gadi, $1$ dejotājam - $13$ gadi un $15$ dejotājiem - $15$ 
 gadi.
 
-**c)** Nē, piemēram, varētu gadīties, ka $4$ dejotājiem ir $11$ gadi, $4$ 
+**(C)** Nē, piemēram, varētu gadīties, ka $4$ dejotājiem ir $11$ gadi, $4$ 
 dejotājiem - $12$ gadi, $4$ dejotājiem - $13$ gadi, $3$ dejotājiem - $14$ gadi 
 un $3$ dejotājiem - $15$ gadi.
 
-**d)** Jā, noteikti. Sadalīsim dejotājus grupās atbilstoši to gadu skaitam: 
-$\{11\};\ \{12\};\ \{13\};\ \{14\};\ \{15\}$. Ja katrā grupā būtu ne vairāk kā 
+**(D)** Jā, noteikti. Sadalīsim dejotājus grupās atbilstoši to gadu skaitam: 
+$\{ 11 \}$; $\{ 12 \}$; $\{ 13 \}$; $\{ 14 \}$; $\{ 15 \}$. Ja katrā grupā būtu ne vairāk kā 
 $3$ dejotāji, tad pavisam kopā kolektīvā būtu ne vairāk kā $3 \cdot 5=15$ 
 dejotāji, bet tā ir pretruna ar doto, ka kolektīvā ir $18$ dejotāji. Tātad 
 kolektīvā ir vismaz četri dejotāji, kam ir vienāds gadu skaits. (Izmantots 
@@ -127,7 +127,7 @@ Divi spēlētāji pēc kārtas ņem konfektes no konfekšu kaudzes. Katrā gāji
 jāpaņem vismaz viena, bet ne vairāk kā septiņas konfektes. Uzvar tas spēlētājs,
 kurš paņem pēdējo konfekti. Kurš no spēlētājiem (pirmais vai otrais) vienmēr 
 var uzvarēt (neatkarīgi no pretinieka gājieniem), ja sākumā konfekšu kaudzē ir 
-**a)** $64$ konfektes, **b)** $2018$ konfektes?
+**(A)** $64$ konfektes, **(B)** $2018$ konfektes?
 
 <small>
 
@@ -138,7 +138,7 @@ var uzvarēt (neatkarīgi no pretinieka gājieniem), ja sākumā konfekšu kaudz
 
 ## Atrisinājums
 
-Pamatosim, ka **a)** gadījumā vienmēr var uzvarēt otrais spēlētājs, bet **b)** 
+Pamatosim, ka **(A)** gadījumā vienmēr var uzvarēt otrais spēlētājs, bet **(B)** 
 gadījumā - pirmais spēlētājs.
 
 Vienmēr var uzvarēt tas spēlētājs, pēc kura gājiena atlikušais konfekšu skaits 
@@ -150,10 +150,10 @@ $8$. Tā turpinot, tas ir, pēc katriem diviem gājieniem (viens gājiens katram
 spēlētājam) samazinot konfekšu skaitu par $8$, var noteikti paņemt pēdējo 
 konfekti, tas ir, nodrošināt, ka pēc sava gājiena paliek $0$ konfektes.
 
-Tā kā $64$ dalās ar $8$, tad **a)** gadījumā vienmēr var uzvarēt otrais 
+Tā kā $64$ dalās ar $8$, tad **(A)** gadījumā vienmēr var uzvarēt otrais 
 spēlētājs, jo viņš varēs nodrošināt, ka pēc viņa gājiena paliek 
 $56,\ 48, \ldots, 16,\ 8,\ 0$ konfektes, bet $2018$ nedalās ar $8$, tāpēc 
-**b)** gadījumā vienmēr var uzvarēt pirmais spēlētājs, pirmajā gājienā viņam 
+**(B)** gadījumā vienmēr var uzvarēt pirmais spēlētājs, pirmajā gājienā viņam 
 jāņem $2$ konfektes (lai atlikušais skaits $2016$ dalītos ar $8$) un tad tālāk 
 jārīkojas atbilstoši iepriekš aprakstītajai shēmai.
 
@@ -969,13 +969,13 @@ un cik - gliemezis!
 Skudras ātrumu apzīmējam ar $x$ un gliemeža - ar $y$. Tad iegūstam vienādojumu 
 sistēmu
 
-$$\left\{\begin{array} {c} 
-{5x+5y=600} \\
-{20x=20y+600}
-\end{array} \quad \text { jeb } \quad \left\{\begin{array}{c}
+$$\left\{ \begin{array}{c} 
+5x+5y=600 \\
+20x=20y+600
+\end{array} \right. \quad \text { jeb } \quad \left\{ \begin{array}{c}
 x+y=120 \\
 x-y=30
-\end{array}\right.\right.$$
+\end{array} \right.$$
 
 Saskaitot pēdējās sistēmas vienādojumus, iegūstam $2x=150$ jeb 
 $x=75~\mathrm{cm/min}$ un $y=45~\mathrm{cm/min}$.
@@ -1168,13 +1168,13 @@ $23$ bildes, tad vismaz viena lapa paliktu tukša. Cik lapu ir fotoalbumā?
 Apzīmējam ar $x$ lapu skaitu katrā fotoalbumā. Tad bilžu skaits, kas Spīdolai 
 jāielīmē otrajā fotoalbumā, ir $(482-21 x)$. Iegūstam nevienādību sistēmu:
 
-$$\left\{\begin{array} { c } 
-{19x<482-21x} \\
-{23(x-1) \geq 482-21x}
-\end{array} \text { jeb } \left\{\begin{array}{l}
-x<\frac{482}{40}=12 \frac{2}{40} \\
-x \geq \frac{505}{44}=11 \frac{21}{44}
-\end{array}\right.\right.$$
+$$\left\{\begin{array}{c} 
+19x < 482-21x \\
+23(x-1) \geq 482-21x
+\end{array}\right. \text{ jeb } \left\{ \begin{array}{l}
+x < \frac{482}{40} = 12 \frac{2}{40} \\
+x \geq \frac{505}{44} = 11 \frac{21}{44}
+\end{array} \right.$$
 
 Tā kā lapu skaits ir naturāls skaitlis, tad fotoalbumā ir $12$ lapas.
 
@@ -1202,7 +1202,7 @@ $30$ gadi vai $4$ tādus, kuru gadu skaits ir vienāds!
 Pieņemam pretējo tam, kas jāpierāda, tas ir, nav divu cilvēku, kuriem ir vairāk
 kā $30$ gadi un nav četru cilvēku, kuriem ir vienāds gadu skaits. Sadalām 
 cilvēkus grupās pēc to gadu skaita: 
-$\{ 21\} ; \{ 22\} ; \{ 23\} ; \ldots ; \{ 29\} ; \{ 30\} ; \{$vairāk nekā $30\} $.
+$\{ 21\}$ ; $\{ 22\}$ ; $\{ 23\}$ ; $\ldots$ ; $\{ 29\}$ ; $\{ 30\}$ ; $\{\text{vairāk nekā}\ 30\}$.
 Tad pirmajās $10$ grupās katrā ir ne vairāk kā $3$ cilvēki un pēdējā - ne 
 vairāk kā viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ 
 cilvēks - pretruna. Tātad pieņēmums ir aplams un esam pierādījuši, ka var 
@@ -1212,7 +1212,7 @@ kuru gadu skaits ir vienāds.
 ## Atrisinājums
 
 Sadalām cilvēkus grupās pēc to gadu skaita: 
-$\{ 21\} ; \{ 22\} ; \{ 23\} ; \ldots ; \{ 29\} ; \{ 30\} ; \{$vairāk nekā $30\} $.
+$\{ 21\}$ ; $\{ 22\}$ ; $\{ 23\}$ ; $\ldots$ ; $\{ 29\}$ ; $\{ 30\}$ ; $\{\text{vairāk nekā}\ 30\}$.
 Ja pēdējā grupā ir vismaz divi cilvēki, tad prasītais izpildās.
 
 Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām jāsadala 
@@ -1393,13 +1393,13 @@ $\frac{2 \cdot 2,5}{x}+\frac{\frac{7}{3}}{y}=1$.
 
 Apzīmējot $\frac{1}{x}=a$ un $\frac{1}{y}=b$, iegūstam vienādojumu sistēmu:
 
-$$\left\{\begin{array} { c } 
-{4,2a+4,2b=1} \\
-{5a+\frac {7}{3}b=1}
-\end{array} \text { jeb } \left\{\begin{array}{c}
+$$\left\{\begin{array}{c} 
+4,2a + 4,2b = 1 \\
+5a + \frac{7}{3}b = 1
+\end{array}\right. \text { jeb } \left\{\begin{array}{c}
 21a+21b=5 \\
 -21a-9,8b=-4,2
-\end{array}\right.\right.$$
+\end{array}\right.$$
 
 Saskaitot abus pēdējās sistēmas vienādojumus, iegūstam $11,2b=0,8$ jeb 
 $b=\frac{8}{112}=\frac{1}{14}$. Tātad $y=\frac{1}{b}=14$. Līdz ar to esam 
@@ -1546,9 +1546,9 @@ $$\begin{align}
 Lai pastāvētu vienādība, iracionālajai un racionālajai daļai katrai atsevišķi 
 jābūt $0$, tas ir,
 
-$$\left\{\begin{array}{c}
+$$\left\{ \begin{array}{c}
 2884+38b+c=0 \\
--912 \sqrt{10}-12b \sqrt{10}=0
+-912\sqrt{10} - 12b\sqrt{10} = 0
 \end{array}\right.$$
 
 Atrisinot iegūto vienādojumu sistēmu, iegūstam $b=-\frac{912}{12}=-76$ un 
