@@ -408,7 +408,7 @@ ar doto, ka lentes izvēlējās $8$ meitenes. Tātad noteikti ir vismaz $3$
 meitenes, kas izvēlējās vienas krāsas lenti. (Izmantots Dirihlē princips.)
 
 **c)** Ar deviņām (vai mazāk) lentēm nepietiktu, jo tad varētu gadīties, ka no 
-katras krāsas ir pa $3$ lentēm (vai mazāk). Tātad, ja no maisina izņemtu $10$ 
+katras krāsas ir pa $3$ lentēm (vai mazāk). Tātad, ja no maisiņa izņemtu $10$ 
 lentes, tad pēc Dirihlē principa noteikti vismaz četras no tām būtu vienā 
 krāsā.
 
