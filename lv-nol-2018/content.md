@@ -417,7 +417,7 @@ krāsā.
 # <lo-sample/> LV.NOL.2018.7.3
 
 Aprēķināt $\sphericalangle BCD+\sphericalangle DEF+\sphericalangle FGH$ (skat. 
-8.att.), ja $AB \| GH, \sphericalangle ABC=120^{\circ}, \sphericalangle CDE=90^{\circ}$
+8.att.), ja $AB \parallel GH, \sphericalangle ABC=120^{\circ}, \sphericalangle CDE=90^{\circ}$
 un $\sphericalangle EFG=60^{\circ}$.
 
 ![](LV.NOL.2018.7.3.png)
@@ -509,7 +509,7 @@ kur katrs saskaitāmais dalās ar $11$.
 ## Atrisinājums
 
 Skaitlis dalās ar $11$, ja tā ciparu summas, kas atrodas nepāra pozīcijās, un 
-ciparu summas, kas atrodas pāra pozīijās, starpība dalās ar $11$. Dotais 
+ciparu summas, kas atrodas pāra pozīcijās, starpība dalās ar $11$. Dotais 
 skaitlis dalās ar $11$, tāpēc $(a+b+a)-(c+b)=2a-c$ dalās ar $11$.
 
 Aplūkojam skaitļus $\overline{acabb}, \overline{abbca}$ un $\overline{abacb}$. 
@@ -954,7 +954,7 @@ $(2 \cdot 8+4 \cdot 10-26):2=15$, to var iegūt, piemēram, kā parādīts 20.at
 Uz gara baļķa $600~\mathrm{cm}$ attālumā viens no otra atrodas gliemezis un 
 skudra. Ja tie pārvietotos viens otram pretī, tad tie sastaptos pēc $5$ 
 minūtēm. Ja tie kustētos vienā virzienā ar tiem pašiem ātrumiem, tad skudra 
-panāktu gliemeži pēc $20$ minūtēm. Noteikt, cik centimetrus minūtē veic skudra 
+panāktu gliemezi pēc $20$ minūtēm. Noteikt, cik centimetrus minūtē veic skudra 
 un cik - gliemezis!
 
 <small>
@@ -1087,9 +1087,6 @@ S= & \left(a_{1}+b_{1}+c_{1}\right) \cdot 10^{5}+\left(a_{2}+b_{2}+c_{2}\right) 
 $$\begin{aligned}
 S= & 99999\left(a_{1}+b_{1}+c_{1}\right)+9999\left(a_{2}+b_{2}+c_{2}\right)+999\left(a_{3}+b_{3}+c_{3}\right)+99\left(a_{4}+b_{4}+c_{4}\right)+9\left(a_{5}+b_{5}+\right. \\
 & \left.+c_{5}\right)+\left(a_{1}+b_{1}+c_{1}+a_{2}+b_{2}+c_{2}+a_{3}+b_{3}+c_{3}+a_{4}+b_{4}+c_{4}+a_{5}+b_{5}+c_{5}+a_{6}+b_{6}+c_{6}\right)=
-\end{aligned}$$
-
-$$\begin{aligned}
 = & 99999\left(a_{1}+b_{1}+c_{1}\right)+9999\left(a_{2}+b_{2}+c_{2}\right)+999\left(a_{3}+b_{3}+c_{3}\right)+99\left(a_{4}+b_{4}+c_{4}\right)+ \\
 & +9\left(a_{5}+b_{5}+c_{5}\right)+90
 \end{aligned}$$
@@ -1097,7 +1094,7 @@ $$\begin{aligned}
 Tātad izveidoto skaitļu summa $S$ dalās ar $9$.
 
 Trīs sešciparu skaitļu summa ir mazāka nekā $3\ 000\ 000$, jo katrs 
-saskaitāmais ir mazāks nekā $1000000$. Vienīgie divi skaitļi ar sešām nullēm 
+saskaitāmais ir mazāks nekā $1\ 000\ 000$. Vienīgie divi skaitļi ar sešām nullēm
 beigās, kas mazāki nekā $3\ 000\ 000$, ir $1\ 000\ 000$ un $2\ 000\ 000$, kas 
 nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar sešām nullēm.
 
@@ -1207,18 +1204,18 @@ $30$ gadi vai $4$ tādus, kuru gadu skaits ir vienāds!
 Pieņemam pretējo tam, kas jāpierāda, tas ir, nav divu cilvēku, kuriem ir vairāk
 kā $30$ gadi un nav četru cilvēku, kuriem ir vienāds gadu skaits. Sadalām 
 cilvēkus grupās pēc to gadu skaita: 
-$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{$ vairāk nekā 30$\}$. Tad 
-pirmajās $10$ grupās katrā ir ne vairāk kā $3$ cilvēki un pēdējā - ne vairāk kā
-viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ cilvēks - 
-pretruna. Tātad pieņēmums ir aplams un esam pierādījuši, ka var atrast divus 
-tādus cilvēkus, kuriem ir vairāk nekā $30$ gadi vai $4$ tādus, kuru gadu skaits
-ir vienāds.
+$\{ 21\} ; \{ 22\} ; \{ 23\} ; \ldots ; \{ 29\} ; \{ 30\} ; \{$vairāk nekā $30\} $.
+Tad pirmajās $10$ grupās katrā ir ne vairāk kā $3$ cilvēki un pēdējā - ne 
+vairāk kā viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ 
+cilvēks - pretruna. Tātad pieņēmums ir aplams un esam pierādījuši, ka var 
+atrast divus tādus cilvēkus, kuriem ir vairāk nekā $30$ gadi vai $4$ tādus, 
+kuru gadu skaits ir vienāds.
 
 ## Atrisinājums
 
 Sadalām cilvēkus grupās pēc to gadu skaita: 
-$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{vairāk nekā 30$\}$. Ja pēdējā 
-grupā ir vismaz divi cilvēki, tad prasītais izpildās.
+$\{ 21\} ; \{ 22\} ; \{ 23\} ; \ldots ; \{ 29\} ; \{ 30\} ; \{$vairāk nekā $30\} $.
+Ja pēdējā grupā ir vismaz divi cilvēki, tad prasītais izpildās.
 
 Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām jāsadala 
 vismaz $31$ cilvēks. Tā kā ir $10$ grupas un vismaz $31=3 \cdot 10+1$ cilvēks, 
@@ -1247,7 +1244,7 @@ un arī, ka $FB=FC$.
 
 Pierādīsim, ka $FB=FC$. Uz $AD$ izvēlamies tādu punktu $E$, ka $EA=AB$, tad 
 $DE=DC$ (jo $AE+ED=AD=AB+DC$). Tad $\triangle AEF=\triangle ABF$ pēc pazīmes 
-$m \ell m$, jo $\sphericalangle BAF=\sphericalangle EAF; AB=AE$ un $AF$ - 
+$m \ell m$, jo $\sphericalangle BAF=\sphericalangle EAF;\ AB=AE$ un $AF$ - 
 kopīga un $\triangle EDF=\triangle CDF$ pēc pazīmes $m \ell m$, jo 
 $\sphericalangle EDF=\sphericalangle CDF; ED=DC$ un $DF$ - kopīga. Tā kā 
 vienādos trijstūros attiecīgās malas ir vienādas, tad $BF=EF=CF$. Tātad punkts 
@@ -1257,15 +1254,14 @@ Atliek pierādīt, ka $F$ atrodas uz $BC$. Apskatot četrstūrus $ABFE$ un $EFCD
 un izmantojot, ka četrstūra iekšējo leņķu summa ir $360^{\circ}$ un ka trapeces
 sānu malas pieleņķu summa ir $180^{\circ}$, iegūstam
 
-$\sphericalangle BFC=\sphericalangle BFE+\sphericalangle EFC=$
-
 $$\begin{aligned}
+\sphericalangle BFC=\sphericalangle BFE+\sphericalangle EFC & =
 & =\left(360^{\circ}-\sphericalangle ABF-\sphericalangle BAE-\sphericalangle AEF\right)+\left(360^{\circ}-\sphericalangle FED-\sphericalangle EDC-\sphericalangle DCF\right)= \\
 & =720^{\circ}-(\sphericalangle ABF+\sphericalangle DCF)-(\sphericalangle BAE+\sphericalangle EDC)-(\sphericalangle AEF+\sphericalangle FED)= \\
 & =720^{\circ}-180^{\circ}-180^{\circ}-180^{\circ}=180^{\circ}
 \end{aligned}$$
 
-Esam ieguvuši, ka $\sphericalangle BFC$ ir izstiepts leņķis, lïdz ar to $F$ 
+Esam ieguvuši, ka $\sphericalangle BFC$ ir izstiepts leņķis, līdz ar to $F$ 
 atrodas uz $BC$.
 
 ![](LV.NOL.2018.11.3A.png)
@@ -1370,9 +1366,9 @@ $$\begin{aligned}
 # <lo-sample/> LV.NOL.2018.12.1
 
 Divas sniega tīrāmās mašīnas, strādājot vienlaicīgi, Sūnu ciema ielas var 
-notīrīt $4~\mathrm{h} 12~\mathrm{min}$. Ja pirmās mašīnas darba ražīgumu 
+notīrīt $4~\mathrm{h}\ 12~\mathrm{min}$. Ja pirmās mašīnas darba ražīgumu 
 palielinātu divas reizes, bet otra mašīna sāktu strādāt par $10$ minūtēm vēlāk 
-nekā pirmā, tad sniegu notīrītu $2~\mathrm{h} 30~\mathrm{min}$. Cik stundās 
+nekā pirmā, tad sniegu notīrītu $2~\mathrm{h}\ 30~\mathrm{min}$. Cik stundās 
 sniegu Sūnu ciemā notīrītu, ja strādātu tikai otrā sniega tīrāmā mašīna?
 
 <small>
@@ -1388,12 +1384,12 @@ Apzīmējam: $x$ - tik stundās pirmā mašīna notīrītu sniegu, ja strādātu
 $y$ - tik stundās otrā mašīna notīrītu sniegu, ja strādātu viena. Tad vienā 
 stundā pirmā mašīna notīrītu $\frac{1}{x}$ no visa sniega un otra mašīna 
 notīrītu $\frac{1}{y}$ no visa sniega. Tā kā, strādājot vienlaicīgi, abas 
-mašīnas sniegu var notīrīt $4~\mathrm{h} 12~\mathrm{min}$ jeb $4,2$ stundās, 
+mašīnas sniegu var notīrīt $4~\mathrm{h}\ 12~\mathrm{min}$ jeb $4,2$ stundās, 
 iegūstam vienādojumu $\frac{4,2}{x}+\frac{4,2}{y}=1$.
 
 Ja pirmās mašīnas darba ražīgumu palielinātu divas reizes, tad tā vienā stundā 
 notīītu $\frac{2}{x}$ no visa sniega. Ja otra mašīna sāktu strādāt par $10$ 
-minūtēm vēlāk nekā pirmā, tad tā būtu strādājusi $2~\mathrm{h} 20~\mathrm{min}$
+minūtēm vēlāk nekā pirmā, tad tā būtu strādājusi $2~\mathrm{h}\ 20~\mathrm{min}$
 jeb $\frac{7}{3} ~\mathrm{h}$. Iegūstam vienādojumu 
 $\frac{2 \cdot 2,5}{x}+\frac{\frac{7}{3}}{y}=1$.
 
@@ -1432,16 +1428,16 @@ Pavisam iespējamas $27$ dažādas ciparu summas vērtības:
 | Ciparu summa | Trīsciparu skaitļi |
 | :--- | :--- |
 | $\mathbf{1}$ | $100$ |
-| $\mathbf{2}$ | $101; 110; 200$ |
+| $\mathbf{2}$ | $101;\ 110;\ 200$ |
 | $\ldots$ | $\ldots$ |
-| $\mathbf{2 6}$ | $899; 989; 998$ |
+| $\mathbf{2 6}$ | $899;\ 989;\ 998$ |
 | $\mathbf{2 7}$ | $999$ |
 
 levērojam, ka
 
 1) ciparu summa $1$ un $27$ katra ir tikai vienam skaitlim ($100$ un $999$),  
-2) ciparu summa $2$ un $26$ katra ir tikai trīs skaitļiem ($101; 110; 200$ un 
-$899; 989; 998$).
+2) ciparu summa $2$ un $26$ katra ir tikai trīs skaitļiem ($101;\ 110;\ 200$ un
+$899;\ 989;\ 998$).
 
 Tātad šajās grupās vairāk skaitļu nevar būt neatkarīgi no tā, kurus $78$ 
 trīsciparu skaitļus izvēlamies. Pieņemsim, ka šīs četras grupas ir maksimāli 
