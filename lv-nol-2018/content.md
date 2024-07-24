@@ -969,15 +969,13 @@ un cik - gliemezis!
 Skudras ātrumu apzīmējam ar $x$ un gliemeža - ar $y$. Tad iegūstam vienādojumu 
 sistēmu
 
-$$
-\left\{\begin{array} {c} 
+$$\left\{\begin{array} {c} 
 {5x+5y=600} \\
 {20x=20y+600}
 \end{array} \quad \text { jeb } \quad \left\{\begin{array}{c}
 x+y=120 \\
 x-y=30
-\end{array}\right.\right.
-$$
+\end{array}\right.\right.$$
 
 Saskaitot pēdējās sistēmas vienādojumus, iegūstam $2x=150$ jeb 
 $x=75~\mathrm{cm/min}$ un $y=45~\mathrm{cm/min}$.
@@ -1541,7 +1539,7 @@ $x^{4}=2884-912 \sqrt{10}$.
 levietojot doto sakni dotajā vienādojumā, iegūstam
 
 $$\begin{align}
-& 2884-912 \sqrt{10}+b(38-12 \sqrt{10})+c=0  \tag{*}\\
+& 2884-912 \sqrt{10}+b(38-12 \sqrt{10})+c=0;  \tag{*}\\
 & 2884+38b+c-912 \sqrt{10}-12 \sqrt{10} b=0
 \end{align}$$
 
