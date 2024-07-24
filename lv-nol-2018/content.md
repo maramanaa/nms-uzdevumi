@@ -1047,13 +1047,17 @@ $\sphericalangle KLD=\sphericalangle KLE+\sphericalangle ELD=\sphericalangle KLE
 
 ![](LV.NOL.2018.10.3A.png)
 
-$\textit {Piezīme.}$ Iegūt prasīto var arī aprēkinot, ka $K D=\sqrt{\frac{5 a}{4}}$ un $K L=L D=\sqrt{\frac{5 a}{8}}$, kur $a-$ kvadrāta malas garums, un izmantojot Pitagora teorēmas apgriezto teorēmu.
+$\textit {Piezīme.}$ Iegūt prasīto var arī aprēķinot, ka 
+$KD=\sqrt{\frac{5a}{4}}$ un $KL=LD=\sqrt{\frac{5a}{8}}$, kur $a$ - kvadrāta 
+malas garums, un izmantojot Pitagora teorēmas apgriezto teorēmu.
 
 
 
 # <lo-sample/> LV.NOL.2018.10.4
 
-10.4. No cipariem $1,2,3,4,5,6,7,8,9$, katru izmantojot divas reizes, izveidoti trīs sešciparu skaitli. Ar kādu lielāko nullu skaitu var beigties trīs izveidoto skaitlu summa?
+No cipariem $1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9$, katru izmantojot divas reizes,
+izveidoti trīs sešciparu skaitļi. Ar kādu lielāko nuļļu skaitu var beigties 
+trīs izveidoto skaitļu summa?
 
 <small>
 
@@ -1064,52 +1068,53 @@ $\textit {Piezīme.}$ Iegūt prasīto var arī aprēkinot, ka $K D=\sqrt{\frac{5
 
 ## Atrisinājums
 
-Atrisinājums. Lielākais nullu skaits ir 5. To var iegūt, piemēram, $257899+327686+314415=900000$.
+Lielākais nuļļu skaits ir $5$. To var iegūt, piemēram, 
+$257899+327686+314415=900000$.
 
-Pierādīsim, ka ar vairāk kā 5 nullēm skaitlu summa nevar beigties.
+Pierādīsim, ka ar vairāk kā $5$ nullēm skaitļu summa nevar beigties.
 
-Ja izveidotos skait|us apzīmē ar $\overline{a_{1} a_{2} a_{3} a_{4} a_{5} a_{6}}, \overline{b_{1} b_{2} b_{3} b_{4} b_{5} b_{6}}$ un $\overline{c_{1} c_{2} c_{3} c_{4} c_{5} c_{6}}$, tad to summa izsakāma kā
+Ja izveidotos skaitļus apzīmē ar 
+$\overline{a_{1}a_{2}a_{3}a_{4}a_{5}a_{6}}, \overline{b_{1}b_{2}b_{3}b_{4}b_{5}b_{6}}$
+un $\overline{c_{1}c_{2}c_{3}c_{4}c_{5}c_{6}}$, tad to summa izsakāma kā
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 S= & \left(a_{1}+b_{1}+c_{1}\right) \cdot 10^{5}+\left(a_{2}+b_{2}+c_{2}\right) \cdot 10^{4}+\left(a_{3}+b_{3}+c_{3}\right) \cdot 10^{3}+\left(a_{4}+b_{4}+c_{4}\right) \cdot 10^{2}+ \\
 & +\left(a_{5}+b_{5}+c_{5}\right) \cdot 10+\left(a_{6}+b_{6}+c_{6}\right)
-\end{aligned}
-$$
+\end{aligned}$$
 
-Nemot vērā, ka visu izmantoto ciparu summa ir $45 \cdot 2=90$, iegūstam
+Ņemot vērā, ka visu izmantoto ciparu summa ir $45 \cdot 2=90$, iegūstam
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 S= & 99999\left(a_{1}+b_{1}+c_{1}\right)+9999\left(a_{2}+b_{2}+c_{2}\right)+999\left(a_{3}+b_{3}+c_{3}\right)+99\left(a_{4}+b_{4}+c_{4}\right)+9\left(a_{5}+b_{5}+\right. \\
 & \left.+c_{5}\right)+\left(a_{1}+b_{1}+c_{1}+a_{2}+b_{2}+c_{2}+a_{3}+b_{3}+c_{3}+a_{4}+b_{4}+c_{4}+a_{5}+b_{5}+c_{5}+a_{6}+b_{6}+c_{6}\right)=
-\end{aligned}
-$$
+\end{aligned}$$
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 = & 99999\left(a_{1}+b_{1}+c_{1}\right)+9999\left(a_{2}+b_{2}+c_{2}\right)+999\left(a_{3}+b_{3}+c_{3}\right)+99\left(a_{4}+b_{4}+c_{4}\right)+ \\
 & +9\left(a_{5}+b_{5}+c_{5}\right)+90
-\end{aligned}
-$$
+\end{aligned}$$
 
-Tātad izveidoto skait|u summa $S$ dalās ar 9 .
+Tātad izveidoto skaitļu summa $S$ dalās ar $9$.
 
-Trīs sešciparu skait!u summa ir mazāka nekā 3000 000, jo katrs saskaitāmais ir mazāks nekā 1000000 . Vienīgie divi skait|li ar sešām nullēm beigās, kas mazāki nekā 3000000 , ir 1000000 un 2000000 , kas nedalās ar 9. Tāpēc summa $S$ nevar beigties ar sešām nullēm.
+Trīs sešciparu skaitļu summa ir mazāka nekā $3\ 000\ 000$, jo katrs 
+saskaitāmais ir mazāks nekā $1000000$. Vienīgie divi skaitļi ar sešām nullēm 
+beigās, kas mazāki nekā $3\ 000\ 000$, ir $1\ 000\ 000$ un $2\ 000\ 000$, kas 
+nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar sešām nullēm.
 
-Piezīmes. 1) Der arī $493862+511382+794756=1800000$ un $921478+925176+853346=2700000$.
-
-2) Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot ar skait|u pēdējo ciparu.
+$\textit {Piezīmes.}$ 1) Der arī $493862+511382+794756=1800000$ un 
+$921478+925176+853346=2700000$. 2) Vajadzīgo piemēru var atrast, piemeklējot 
+ciparus, sākot ar skaitļu pēdējo ciparu.
 
 
 
 # <lo-sample/> LV.NOL.2018.10.5
 
-10.5. Dota figūra, kuras laukums ir 28 rūtinas (skat. 22.att.). Griežot pa rūtinu līnijām, tā sagriezta septiņās vienliel̄s daḹs (katras daļas laukums ir 4 rūtinas). Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka rūtinas malas garums ir viena vienība!
+Dota figūra, kuras laukums ir $28$ rūtiņas (skat. 22.att.). Griežot pa rūtiņu 
+līnijām, tā sagriezta septiņās vienlielās daļās (katras daļas laukums ir $4$ 
+rūtiņas). Noteikt, kāds ir mazākais iespējamais griezuma līniju kopgarums, 
+pieņemot, ka rūtiņas malas garums ir viena vienība!
 
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-11.jpg?height=331&width=272&top_left_y=691&top_left_x=892)
-
-22.att.
+![](LV.NOL.2018.10.5.png)
 
 <small>
 
@@ -1120,29 +1125,41 @@ Piezīmes. 1) Der arī $493862+511382+794756=1800000$ un $921478+925176+853346=2
 
 ## Atrisinājums
 
-Atrisinājums. Dotās figūras perimetrs ir 26 vienības. Iegūto septiņu daļu perimetrus apzīmējam ar $p_{1}, p_{2}, p_{3}, p_{4}, p_{5}, p_{6}, p_{7}$ un aplūkojam summu $p_{1}+p_{2}+p_{3}+p_{4}+p_{5}+p_{6}+p_{7}$. Šajā summā katrs griezuma posms ir ieskaitīts divas reizes, bet katras dalas ārmalas posms - vienu reizi. Tad griezuma līiju kopgarumu var izteikt kā $\frac{1}{2}\left(p_{1}+p_{2}+p_{3}+p_{4}+p_{5}+p_{6}+p_{7}-26\right)$. Tātad jācenšas minimizēt iegūto septinu daļu perimetru summu. Pavisam ir piecas dažādas figūras, kas sastāv no četrām rūtinām (skat. 23.att.). Visām figūrām, izņemot $2 \times 2$ kvadrātu, perimetrs ir 10 vienības, bet kvadrāta perimetrs ir 8 vienības.
+Dotās figūras perimetrs ir $26$ vienības. Iegūto septiņu daļu perimetrus 
+apzīmējam ar $p_{1}, p_{2}, p_{3}, p_{4}, p_{5}, p_{6}, p_{7}$ un aplūkojam 
+summu $p_{1}+p_{2}+p_{3}+p_{4}+p_{5}+p_{6}+p_{7}$. Šajā summā katrs griezuma 
+posms ir ieskaitīts divas reizes, bet katras daļas ārmalas posms - vienu reizi.
+Tad griezuma līniju kopgarumu var izteikt kā 
+$\frac{1}{2}\left(p_{1}+p_{2}+p_{3}+p_{4}+p_{5}+p_{6}+p_{7}-26\right)$. Tātad 
+jācenšas minimizēt iegūto septiņu daļu perimetru summu. Pavisam ir piecas 
+dažādas figūras, kas sastāv no četrām rūtiņām (skat. 23.att.). Visām figūrām, 
+izņemot $2 \times 2$ kvadrātu, perimetrs ir $10$ vienības, bet kvadrāta 
+perimetrs ir $8$ vienības.
 
-Pamatosim, ka dotajā laukumā iespējams izvietot ne vairāk kā četrus $2 \times 2$ kvadrātus. Katrs $2 \times 2$ rūtinu kvadrāts satur vienu rūtịu, kas atzīmēta ar burtu (skat. 24.att.), tāpēc no dotās figūras nevar izgriezt vairāk kā piecus kvadrātus. Pieņemsim, ka viens no kvadrātiem satur rūtinu " C ". Ja " C " ir $2 \times 2$ kvadrāta apakšēēs rindas rūtiņa, tad šis kvadrāts nelauj izgriezt vienu no kvadrātiem ar rūtinuu augšējā rindā (" $A$ " vai " $B$ "). Ja " $C$ " ir $2 \times 2$ kvadrāta augšējās rindas rūtina, tad, izgriežot kvadrātus, kas satur " $A$ " vai “ $B$ ", tiktu norobežots divu rūtinu liels laukums. Tātad no dotās figūras var izgriezt ne vairāk kā četrus $2 \times 2$ kvadrātus.
+Pamatosim, ka dotajā laukumā iespējams izvietot ne vairāk kā četrus 
+$2 \times 2$ kvadrātus. Katrs $2 \times 2$ rūtiņu kvadrāts satur vienu rūtiņu, 
+kas atzīmēta ar burtu (skat. 24.att.), tāpēc no dotās figūras nevar izgriezt 
+vairāk kā piecus kvadrātus. Pieņemsim, ka viens no kvadrātiem satur rūtiņu 
+" $C$ ". Ja " $C$ " ir $2 \times 2$ kvadrāta apakšējās rindas rūtiņa, tad šis 
+kvadrāts neļauj izgriezt vienu no kvadrātiem ar rūtiņu augšējā rindā (" $A$ " 
+vai " $B$ "). Ja " $C$ " ir $2 \times 2$ kvadrāta augšējās rindas rūtiņa, tad, 
+izgriežot kvadrātus, kas satur " $A$ " vai " $B$ ", tiktu norobežots divu 
+rūtiņu liels laukums. Tātad no dotās figūras var izgriezt ne vairāk kā četrus 
+$2 \times 2$ kvadrātus.
 
-Līdz ar to mazākais iespējamais griezuma līiju kopgarums ir $(4 \cdot 8+3 \cdot 10-26): 2=18$, to var iegūt, piemēram, kā parādīts 25 .att.
+Līdz ar to mazākais iespējamais griezuma līniju kopgarums ir 
+$(4 \cdot 8+3 \cdot 10-26):2=18$, to var iegūt, piemēram, kā parādīts 25.att.
 
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-11.jpg?height=211&width=329&top_left_y=1913&top_left_x=224)
-
-23.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-11.jpg?height=320&width=257&top_left_y=1799&top_left_x=908)
-
-24.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-11.jpg?height=322&width=262&top_left_y=1798&top_left_x=1548)
-
-25.att.
+![](LV.NOL.2018.10.5A.png)
 
 
 
 # <lo-sample/> LV.NOL.2018.11.1
 
-11.1. Spīdolai ir 482 bildes un divi vienādi fotoalbumi. Pirmā albuma katrā lapā viņa ielīmēja tieši 21 bildi. Ja otrā albuma katrā lapā viņa ielīmētu tieši 19 bildes, tad lapu pietrūktu, savukārt, ja katrā lapā viņa ielīmētu tieši 23 bildes, tad vismaz viena lapa paliktu tukša. Cik lapu ir fotoalbumā?
+Spīdolai ir $482$ bildes un divi vienādi fotoalbumi. Pirmā albuma katrā lapā 
+viņa ielīmēja tieši $21$ bildi. Ja otrā albuma katrā lapā viņa ielīmētu tieši 
+$19$ bildes, tad lapu pietrūktu, savukārt, ja katrā lapā viņa ielīmētu tieši 
+$23$ bildes, tad vismaz viena lapa paliktu tukša. Cik lapu ir fotoalbumā?
 
 <small>
 
@@ -1153,27 +1170,30 @@ Līdz ar to mazākais iespējamais griezuma līiju kopgarums ir $(4 \cdot 8+3 \c
 
 ## Atrisinājums
 
-Atrisinājums. Apzīmējam ar $x$ lapu skaitu katrā fotoalbumā. Tad bilžu skaits, kas Spīdolai jāielīmē otrajā fotoalbumā, ir $(482-21 x)$. Iegūstam nevienādību sistēmu:
+Apzīmējam ar $x$ lapu skaitu katrā fotoalbumā. Tad bilžu skaits, kas Spīdolai 
+jāielīmē otrajā fotoalbumā, ir $(482-21 x)$. Iegūstam nevienādību sistēmu:
 
-$$
-\left\{\begin{array} { c } 
-{ 1 9 x < 4 8 2 - 2 1 x } \\
-{ 2 3 ( x - 1 ) \geq 4 8 2 - 2 1 x }
+$$\left\{\begin{array} { c } 
+{19x<482-21x} \\
+{23(x-1) \geq 482-21x}
 \end{array} \text { jeb } \left\{\begin{array}{l}
 x<\frac{482}{40}=12 \frac{2}{40} \\
 x \geq \frac{505}{44}=11 \frac{21}{44}
-\end{array}\right.\right.
-$$
+\end{array}\right.\right.$$
 
-Tā kā lapu skaits ir naturāls skaitlis, tad fotoalbumā ir 12 lapas.
+Tā kā lapu skaits ir naturāls skaitlis, tad fotoalbumā ir $12$ lapas.
 
-Piezīme. Ja sistēmas otrā nevienādība ir $23 x>482-21 x$, tad iegūst, ka $x=11$ vai $x=12$, bet vērtība $x=11$ neder, jo tad albumā nepaliek vismaz viena tukša lapa.
+$\textit {Piezīme.}$ Ja sistēmas otrā nevienādība ir $23x>482-21x$, tad iegūst,
+ka $x=11$ vai $x=12$, bet vērtība $x=11$ neder, jo tad albumā nepaliek vismaz 
+viena tukša lapa.
 
 
 
 # <lo-sample/> LV.NOL.2018.11.2
 
-11.2. Sporta zālē trenējas 32 cilvēki, kuri visi ir vismaz 21 gadu veci. Pierādīt, ka no šiem cilvēkiem var atrast divus tādus, kuriem ir vairāk nekā 30 gadi vai 4 tādus, kuru gadu skaits ir vienāds!
+Sporta zālē trenējas $32$ cilvēki, kuri visi ir vismaz $21$ gadu veci. 
+Pierādīt, ka no šiem cilvēkiem var atrast divus tādus, kuriem ir vairāk nekā 
+$30$ gadi vai $4$ tādus, kuru gadu skaits ir vienāds!
 
 <small>
 
@@ -1184,19 +1204,34 @@ Piezīme. Ja sistēmas otrā nevienādība ir $23 x>482-21 x$, tad iegūst, ka $
 
 ## Atrisinājums
 
-1. atrisinājums. Pieņemam pretējo tam, kas jāpierāda, tas ir, nav divu cilvēku, kuriem ir vairāk kā 30 gadi un nav četru cilvēku, kuriem ir vienāds gadu skaits. Sadalām cilvēkus grupās pēc to gadu skaita: $\{21\} ;\{22\} ;\{23\} ; \ldots ;\{29\} ;\{30\} ;\{$ vairāk nekā 30$\}$. Tad pirmajās 10 grupās katrā ir ne vairāk kā 3 cilvēki un pēdējā - ne vairāk kā viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ cilvēks - pretruna. Tātad pienēmums ir aplams un esam pierādījuši, ka var atrast divus tādus cilvēkus, kuriem ir vairāk nekā 30 gadi vai 4 tādus, kuru gadu skaits ir vienāds.
+Pieņemam pretējo tam, kas jāpierāda, tas ir, nav divu cilvēku, kuriem ir vairāk
+kā $30$ gadi un nav četru cilvēku, kuriem ir vienāds gadu skaits. Sadalām 
+cilvēkus grupās pēc to gadu skaita: 
+$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{$ vairāk nekā 30$\}$. Tad 
+pirmajās $10$ grupās katrā ir ne vairāk kā $3$ cilvēki un pēdējā - ne vairāk kā
+viens cilvēks. Tātad sporta zālē nav vairāk kā $3 \cdot 10+1=31$ cilvēks - 
+pretruna. Tātad pieņēmums ir aplams un esam pierādījuši, ka var atrast divus 
+tādus cilvēkus, kuriem ir vairāk nekā $30$ gadi vai $4$ tādus, kuru gadu skaits
+ir vienāds.
 
 ## Atrisinājums
 
-2. atrisinājums. Sadalām cilvēkus grupās pēc to gadu skaita: $\{21\} ;\{22\} ;\{23\} ; \ldots$; $\{29\}$; \{30\}; \{vairāk nekā 30$\}$. Ja pēdējā grupā ir vismaz divi cilvēki, tad prasītais izpildās.
+Sadalām cilvēkus grupās pēc to gadu skaita: 
+$\{21\}; \{22\}; \{23\}; \ldots ; \{29\}; \{30\}; \{vairāk nekā 30$\}$. Ja pēdējā 
+grupā ir vismaz divi cilvēki, tad prasītais izpildās.
 
-Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām jāsadala vismaz 31 cilvēks. Tā kā ir 10 grupas un vismaz $31=3 \cdot 10+1$ cilvēks, tad pēc Dirihlē principa kādā no šīm grupām ir vismaz 4 cilvēki, tātad tiem gadu skaits ir vienāds.
+Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām jāsadala 
+vismaz $31$ cilvēks. Tā kā ir $10$ grupas un vismaz $31=3 \cdot 10+1$ cilvēks, 
+tad pēc Dirihlē principa kādā no šīm grupām ir vismaz $4$ cilvēki, tātad tiem 
+gadu skaits ir vienāds.
 
 
 
 # <lo-sample/> LV.NOL.2018.11.3
 
-11.3. Trapeces $A B C D$ pamatu $A B$ un $C D$ garumu summa ir vienāda ar sānu malas $A D$ garumu. Pierādīt, ka lenkku $D A B$ un $C D A$ bisektrises krustojas $B C$ viduspunktā!
+Trapeces $ABCD$ pamatu $AB$ un $CD$ garumu summa ir vienāda ar sānu malas $AD$ 
+garumu. Pierādīt, ka leņķu $DAB$ un $CDA$ bisektrises krustojas $BC$ 
+viduspunktā!
 
 <small>
 
@@ -1207,31 +1242,41 @@ Ja pēdējā grupā ir mazāk nekā divi cilvēki, tad pa atlikušajām grupām 
 
 ## Atrisinājums
 
-Atrisinājums. Bisektrišu krustpunktu apzīmējam ar $F$. Ir jāpierāda, ka $F$ atrodas uz $B C$, un arī, ka $F B=F C$.
+Bisektrišu krustpunktu apzīmējam ar $F$. Ir jāpierāda, ka $F$ atrodas uz $BC$, 
+un arī, ka $FB=FC$.
 
-Pierādīsim, ka $F B=F C$. Uz $A D$ izvēlamies tādu punktu $E$, ka $E A=A B$, tad $D E=D C$ (jo $A E+E D=A D=A B+D C$ ). Tad $\triangle A E F=\triangle A B F$ pēc pazīmes $m \ell m$, jo $\sphericalangle B A F=\sphericalangle E A F ; A B=A E$ un $A F$ - kopīga un $\triangle E D F=\triangle C D F$ pēc pazīmes $m \ell m$, jo $\sphericalangle E D F=\sphericalangle C D F ; E D=D C$ un $D F-$ kopīga. Tā kā vienādos trijstūros attiecīgās malas ir vienādas, $\operatorname{tad} B F=E F=C F$. Tātad punkts $F$ atrodas vienādā attālumā no $B$ un $C$.
+Pierādīsim, ka $FB=FC$. Uz $AD$ izvēlamies tādu punktu $E$, ka $EA=AB$, tad 
+$DE=DC$ (jo $AE+ED=AD=AB+DC$). Tad $\triangle AEF=\triangle ABF$ pēc pazīmes 
+$m \ell m$, jo $\sphericalangle BAF=\sphericalangle EAF; AB=AE$ un $AF$ - 
+kopīga un $\triangle EDF=\triangle CDF$ pēc pazīmes $m \ell m$, jo 
+$\sphericalangle EDF=\sphericalangle CDF; ED=DC$ un $DF$ - kopīga. Tā kā 
+vienādos trijstūros attiecīgās malas ir vienādas, tad $BF=EF=CF$. Tātad punkts 
+$F$ atrodas vienādā attālumā no $B$ un $C$.
 
-Atliek pierādīt, ka $F$ atrodas uz $B C$. Apskatot četrstūrus $A B F E$ un $E F C D$ un izmantojot, ka četrstūra iekšējo lenku summa ir $360^{\circ}$ un ka trapeces sānu malas pieleņku summa ir $180^{\circ}$, iegūstam
+Atliek pierādīt, ka $F$ atrodas uz $BC$. Apskatot četrstūrus $ABFE$ un $EFCD$ 
+un izmantojot, ka četrstūra iekšējo leņķu summa ir $360^{\circ}$ un ka trapeces
+sānu malas pieleņķu summa ir $180^{\circ}$, iegūstam
 
-$\sphericalangle B F C=\sphericalangle B F E+\sphericalangle E F C=$
+$\sphericalangle BFC=\sphericalangle BFE+\sphericalangle EFC=$
 
-$$
-\begin{aligned}
-& =\left(360^{\circ}-\sphericalangle A B F-\sphericalangle B A E-\sphericalangle A E F\right)+\left(360^{\circ}-\sphericalangle F E D-\sphericalangle E D C-\sphericalangle D C F\right)= \\
-& =720^{\circ}-(\sphericalangle A B F+\sphericalangle D C F)-(\sphericalangle B A E+\sphericalangle E D C)-(\sphericalangle A E F+\sphericalangle F E D)= \\
+$$\begin{aligned}
+& =\left(360^{\circ}-\sphericalangle ABF-\sphericalangle BAE-\sphericalangle AEF\right)+\left(360^{\circ}-\sphericalangle FED-\sphericalangle EDC-\sphericalangle DCF\right)= \\
+& =720^{\circ}-(\sphericalangle ABF+\sphericalangle DCF)-(\sphericalangle BAE+\sphericalangle EDC)-(\sphericalangle AEF+\sphericalangle FED)= \\
 & =720^{\circ}-180^{\circ}-180^{\circ}-180^{\circ}=180^{\circ}
-\end{aligned}
-$$
+\end{aligned}$$
 
-Esam ieguvuši, ka $\sphericalangle B F C$ ir izstiepts lenkis, lïdz ar to $F$ atrodas uz $B C$.
+Esam ieguvuši, ka $\sphericalangle BFC$ ir izstiepts leņķis, lïdz ar to $F$ 
+atrodas uz $BC$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-12.jpg?height=443&width=368&top_left_y=2223&top_left_x=844)
+![](LV.NOL.2018.11.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2018.11.4
 
-11.4. No cipariem $1,2,3,4,5,6,7,8,9$, katru izmantojot divas reizes, izveidoja vienu septinciparu, vienu sešciparu un vienu piecciparu skaitli. Ar kādu lielāko nullu skaitu var beigties trīs izveidoto skait|u summa?
+No cipariem $1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9$, katru izmantojot divas reizes,
+izveidoja vienu septiņciparu, vienu sešciparu un vienu piecciparu skaitli. Ar 
+kādu lielāko nuļļu skaitu var beigties trīs izveidoto skaitļu summa?
 
 <small>
 
@@ -1242,33 +1287,46 @@ Esam ieguvuši, ka $\sphericalangle B F C$ ir izstiepts lenkis, lïdz ar to $F$ 
 
 ## Atrisinājums
 
-Atrisinājums. Lielākais nullu skaits ir 6. To var iegūt, piemēram, $8514789+421679+63532=9000000$. Pierādīsim, ka ar vairāk kā 6 nullēm skait|u summa nevar beigties.
+Lielākais nuļļu skaits ir $6$. To var iegūt, piemēram, 
+$8514789+421679+63532=9000000$. Pierādīsim, ka ar vairāk kā $6$ nullēm skaitļu 
+summa nevar beigties.
 
-Izveidotos skait|us apzīmējam ar $\overline{a_{1} a_{2} a_{3} a_{4} a_{5} a_{6} a_{7}}, \overline{b_{1} b_{2} b_{3} b_{4} b_{5} b_{6}}$ un $\overline{c_{1} c_{2} c_{3} c_{4} c_{5}}$, tad to summa izsakāma kā $S=a_{1} \cdot 10^{6}+\left(a_{2}+b_{1}\right) \cdot 10^{5}+\left(a_{3}+b_{2}+c_{1}\right) \cdot 10^{4}+\left(a_{4}+b_{3}+c_{2}\right) \cdot 10^{3}+\left(a_{5}+b_{4}+c_{3}\right) \cdot 10^{2}+$ $+\left(a_{6}+b_{5}+c_{4}\right) \cdot 10+\left(a_{7}+b_{6}+c_{5}\right)$
+Izveidotos skaitļus apzīmējam ar 
+$\overline{a_{1}a_{2}a_{3}a_{4}a_{5}a_{6}a_{7}}, \overline{b_{1}b_{2}b_{3}b_{4}b_{5}b_{6}}$
+un $\overline{c_{1}c_{2}c_{3}c_{4}c_{5}}$, tad to summa izsakāma kā 
 
-Nemot vērā, ka visu izmantoto ciparu summa ir $45 \cdot 2=90$, iegūstam
+$$\begin{aligned}
+S= & a_{1} \cdot 10^{6}+\left(a_{2}+b_{1}\right) \cdot 10^{5}+\left(a_{3}+b_{2}+c_{1}\right) \cdot 10^{4}+\left(a_{4}+b_{3}+c_{2}\right) \cdot 10^{3}+\left(a_{5}+b_{4}+c_{3}\right) \cdot 10^{2}+ \\ 
+ & +\left(a_{6}+b_{5}+c_{4}\right) \cdot 10+\left(a_{7}+b_{6}+c_{5}\right)
+\end{aligned}$$
 
-$$
-\begin{aligned}
-S= & 999999 a_{1}+99999\left(a_{2}+b_{1}\right)+9999\left(a_{3}+b_{2}+c_{1}\right)+999\left(a_{4}+b_{3}+c_{2}\right)+99\left(a_{5}+b_{4}+c_{3}\right)+ \\
+Ņemot vērā, ka visu izmantoto ciparu summa ir $45 \cdot 2=90$, iegūstam
+
+$$\begin{aligned}
+S= & 999999a_{1}+99999\left(a_{2}+b_{1}\right)+9999\left(a_{3}+b_{2}+c_{1}\right)+999\left(a_{4}+b_{3}+c_{2}\right)+99\left(a_{5}+b_{4}+c_{3}\right)+ \\
 & +9\left(a_{6}+b_{5}+c_{4}\right)+\left(a_{1}+b_{1}+c_{1}+a_{2}+b_{2}+c_{2}+a_{3}+b_{3}+c_{3}+a_{4}+b_{4}+c_{4}+a_{5}+b_{5}+c_{5}+\right. \\
 & +a_{6}+b_{6}+a_{7}= \\
-= & 999999 a_{1}+99999\left(a_{2}+b_{1}\right)+9999\left(a_{3}+b_{2}+c_{1}\right)+999\left(a_{4}+b_{3}+c_{2}\right)+99\left(a_{5}+b_{4}+c_{3}\right)+ \\
+= & 999999a_{1}+99999\left(a_{2}+b_{1}\right)+9999\left(a_{3}+b_{2}+c_{1}\right)+999\left(a_{4}+b_{3}+c_{2}\right)+99\left(a_{5}+b_{4}+c_{3}\right)+ \\
 & +9\left(a_{6}+b_{5}+c_{4}\right)+90
-\end{aligned}
-$$
+\end{aligned}$$
 
-Tātad visu izveidoto skaitlu summa dalās ar 9 .
+Tātad visu izveidoto skaitļu summa dalās ar $9$.
 
-Septincciparu, sešciparu un piecciparu skaitlu summa ir mazāka nekā $10000000+1000000+100000=11100000$ un vienīgais skaitlis ar septinaām nullēm beigās, kas ir mazāks nekā 11100 000, ir 10000 000, kas nedalās ar 9. Tāpēc summa $S$ nevar beigties ar septinām nullēm.
+Septiņciparu, sešciparu un piecciparu skaitļu summa ir mazāka nekā 
+$10\ 000\ 000+1\ 000\ 000+100\ 000=11\ 100\ 000$ un vienīgais skaitlis ar 
+septiņām nullēm beigās, kas ir mazāks nekā $11\ 100\ 000$, ir $10\ 000\ 000$, 
+kas nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar septiņām nullēm.
 
-Piezīme. Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot ar skaitlu pēdējo ciparu.
+$\textit {Piezīme.}$ Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot 
+ar skaitļu pēdējo ciparu.
 
 
 
 # <lo-sample/> LV.NOL.2018.11.5
 
-11.5. Pierādīt, ka $a^{4}+b^{4}+c^{4}+d^{4}+a^{2} b^{2}+b^{2} c^{2}+c^{2} d^{2}+d^{2} a^{2}+a^{2} c^{2}+b^{2} d^{2} \geq 10 a b c d$ visiem reāliem skaitliem $a, b, c, d$.
+Pierādīt, ka 
+$a^{4}+b^{4}+c^{4}+d^{4}+a^{2}b^{2}+b^{2}c^{2}+c^{2}d^{2}+d^{2}a^{2}+a^{2}c^{2}+b^{2}d^{2} \geq 10abcd$
+visiem reāliem skaitļiem $a, b, c, d$.
 
 <small>
 
@@ -1279,33 +1337,43 @@ Piezīme. Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot ar skaitl
 
 ## Atrisinājums
 
-1. atrisinājums. Veicam ekvivalentus pārveidojumus:
+Veicam ekvivalentus pārveidojumus:
 
-$a^{4}+b^{4}+c^{4}+d^{4}-4 a b c d+\left(a^{2} b^{2}-2 a b c d+c^{2} d^{2}\right)+\left(a^{2} c^{2}-2 a b c d+b^{2} d^{2}\right)+$ $+\left(b^{2} c^{2}-2 a b c d+d^{2} a^{2}\right) \geq 0$
+$$\begin{aligned}
+a^{4} & +b^{4}+c^{4}+d^{4}-4abcd+\left(a^{2}b^{2}-2abcd+c^{2}d^{2}\right)+\left(a^{2}c^{2}-2abcd+b^{2}d^{2}\right)+ \\
+ & +\left(b^{2}c^{2}-2abcd+d^{2}a^{2}\right) \geq 0
+\end{aligned}$$
 
-$\left(a^{4}-2 a^{2} b^{2}+b^{4}\right)+\left(c^{4}-2 c^{2} d^{2}+d^{4}\right)+\left(2 a^{2} b^{2}+2 c^{2} d^{2}-4 a b c d\right)+(a b-c d)^{2}+(a c-b d)^{2}+$ $+(b c-d a)^{2} \geq 0$
+$$\begin{aligned}
+ & \left(a^{4}-2a^{2}b^{2}+b^{4}\right)+\left(c^{4}-2c^{2}d^{2}+d^{4}\right)+\left(2a^{2}b^{2}+2c^{2}d^{2}-4abcd\right)+(ab-cd)^{2}+(ac-bd)^{2}+ \\
+ & +(bc-da)^{2} \geq 0
+\end{aligned}$$
 
-$\left(a^{2}-b^{2}\right)^{2}+\left(c^{2}-d^{2}\right)^{2}+2(a b-c d)^{2}+(a b-c d)^{2}+(a c-b d)^{2}+(b c-d a)^{2} \geq 0$
+$$\left(a^{2}-b^{2}\right)^{2}+\left(c^{2}-d^{2}\right)^{2}+2(ab-cd)^{2}+(ab-cd)^{2}+(ac-bd)^{2}+(bc-da)^{2} \geq 0$$
 
-Tā kā katrs saskaitāmais ir nenegatīvs, tad pēdējā nevienādība ir patiesa un arī dotā nevienādība ir patiesa.
+Tā kā katrs saskaitāmais ir nenegatīvs, tad pēdējā nevienādība ir patiesa un 
+arī dotā nevienādība ir patiesa.
 
 ## Atrisinājums
 
-2. atrisinājums. Izmantojot nevienādību starp vidējo aritmētisko un vidējo ģeometrisko, novērtējam dotās nevienādības kreiso pusi:
+Izmantojot nevienādību starp vidējo aritmētisko un vidējo ģeometrisko, 
+novērtējam dotās nevienādības kreiso pusi:
 
-$$
-\begin{aligned}
-& a^{4}+b^{4}+c^{4}+d^{4}+a^{2} b^{2}+b^{2} c^{2}+c^{2} d^{2}+d^{2} a^{2}+a^{2} c^{2}+b^{2} d^{2} \geq \\
-& \geq 10 \cdot \sqrt[10]{a^{4} \cdot b^{4} \cdot c^{4} \cdot d^{4} \cdot a^{2} b^{2} \cdot b^{2} c^{2} \cdot c^{2} d^{2} \cdot d^{2} a^{2} \cdot a^{2} c^{2} \cdot b^{2} d^{2}}= \\
-& \quad=10 \cdot \sqrt[10]{a^{10} \cdot b^{10} \cdot c^{10} \cdot d^{10}}=10 \cdot|a b c d| \geq 10 a b c d
-\end{aligned}
-$$
+$$\begin{aligned}
+& a^{4}+b^{4}+c^{4}+d^{4}+a^{2}b^{2}+b^{2}c^{2}+c^{2}d^{2}+d^{2}a^{2}+a^{2}c^{2}+b^{2}d^{2} \geq \\
+& \geq 10 \cdot \sqrt[10]{a^{4} \cdot b^{4} \cdot c^{4} \cdot d^{4} \cdot a^{2}b^{2} \cdot b^{2}c^{2} \cdot c^{2}d^{2} \cdot d^{2}a^{2} \cdot a^{2}c^{2} \cdot b^{2}d^{2}}= \\
+& \quad=10 \cdot \sqrt[10]{a^{10} \cdot b^{10} \cdot c^{10} \cdot d^{10}}=10 \cdot|abcd| \geq 10abcd
+\end{aligned}$$
 
 
 
 # <lo-sample/> LV.NOL.2018.12.1
 
-12.1. Divas sniega tīrāmās mašīnas, strādājot vienlaicīgi, Sūnu ciema ielas var notīrīt 4 h 12 min. Ja pirmās mašīnas darba ražīgumu palielinātu divas reizes, bet otra mašīna sāktu strādāt par 10 minūtēm vēlāk nekā pirmā, tad sniegu notīrītu 2 h 30 min. Cik stundās sniegu Sūnu ciemā notīritu, ja strādātu tikai otrā sniega tīrāmā mašīna?
+Divas sniega tīrāmās mašīnas, strādājot vienlaicīgi, Sūnu ciema ielas var 
+notīrīt $4~\mathrm{h} 12~\mathrm{min}$. Ja pirmās mašīnas darba ražīgumu 
+palielinātu divas reizes, bet otra mašīna sāktu strādāt par $10$ minūtēm vēlāk 
+nekā pirmā, tad sniegu notīrītu $2~\mathrm{h} 30~\mathrm{min}$. Cik stundās 
+sniegu Sūnu ciemā notīrītu, ja strādātu tikai otrā sniega tīrāmā mašīna?
 
 <small>
 
@@ -1316,29 +1384,39 @@ $$
 
 ## Atrisinājums
 
-Atrisinājums. Apzīmējam: $x$ - tik stundās pirmā mašīna notīrītu sniegu, ja strādātu viena; $y-$ tik stundās otrā mašīna notīrītu sniegu, ja strādātu viena. Tad vienā stundā pirmā mašīna notīrītu $\frac{1}{x}$ no visa sniega un otra mašīna notīrītu $\frac{1}{y}$ no visa sniega. Tā kā, strādājot vienlaicīgi, abas mašīnas sniegu var notīrīt 4 h 12 min jeb 4,2 stundās, iegūstam vienādojumu $\frac{4,2}{x}+\frac{4,2}{y}=1$.
+Apzīmējam: $x$ - tik stundās pirmā mašīna notīrītu sniegu, ja strādātu viena; 
+$y$ - tik stundās otrā mašīna notīrītu sniegu, ja strādātu viena. Tad vienā 
+stundā pirmā mašīna notīrītu $\frac{1}{x}$ no visa sniega un otra mašīna 
+notīrītu $\frac{1}{y}$ no visa sniega. Tā kā, strādājot vienlaicīgi, abas 
+mašīnas sniegu var notīrīt $4~\mathrm{h} 12~\mathrm{min}$ jeb $4,2$ stundās, 
+iegūstam vienādojumu $\frac{4,2}{x}+\frac{4,2}{y}=1$.
 
-Ja pirmās mašīnas darba ražīgumu palielinātu divas reizes, tad tā vienā stundā notīītu $\frac{2}{x}$ no visa sniega. Ja otra mašīna sāktu strādāt par 10 minūtēm vēlāk nekā pirmā, tad tā būtu strādājusi 2 h 20 min jeb $\frac{7}{3}$ h. Iegūstam vienādojumu $\frac{2 \cdot 2,5}{x}+\frac{\frac{7}{3}}{y}=1$.
+Ja pirmās mašīnas darba ražīgumu palielinātu divas reizes, tad tā vienā stundā 
+notīītu $\frac{2}{x}$ no visa sniega. Ja otra mašīna sāktu strādāt par $10$ 
+minūtēm vēlāk nekā pirmā, tad tā būtu strādājusi $2~\mathrm{h} 20~\mathrm{min}$
+jeb $\frac{7}{3} ~\mathrm{h}$. Iegūstam vienādojumu 
+$\frac{2 \cdot 2,5}{x}+\frac{\frac{7}{3}}{y}=1$.
 
 Apzīmējot $\frac{1}{x}=a$ un $\frac{1}{y}=b$, iegūstam vienādojumu sistēmu:
 
-$$
-\left\{\begin{array} { c } 
-{ 4 , 2 a + 4 , 2 b = 1 } \\
-{ 5 a + \frac { 7 } { 3 } b = 1 }
+$$\left\{\begin{array} { c } 
+{4,2a+4,2b=1} \\
+{5a+\frac {7}{3}b=1}
 \end{array} \text { jeb } \left\{\begin{array}{c}
-21 a+21 b=5 \\
--21 a-9,8 b=-4,2
-\end{array}\right.\right.
-$$
+21a+21b=5 \\
+-21a-9,8b=-4,2
+\end{array}\right.\right.$$
 
-Saskaitot abus pēdējās sistēmas vienādojumus, iegūstam $11,2 b=0,8$ jeb $b=\frac{8}{112}=\frac{1}{14}$. Tātad $y=\frac{1}{b}=14$. Līdz ar to esam ieguvuši, ka otrā sniega tīrāmā mašīna sniegu Sūnu ciemā notīrītu 14 stundās.
+Saskaitot abus pēdējās sistēmas vienādojumus, iegūstam $11,2b=0,8$ jeb 
+$b=\frac{8}{112}=\frac{1}{14}$. Tātad $y=\frac{1}{b}=14$. Līdz ar to esam 
+ieguvuši, ka otrā sniega tīrāmā mašīna sniegu Sūnu ciemā notīrītu $14$ stundās.
 
 
 
 # <lo-sample/> LV.NOL.2018.12.2
 
-12.2. Pierādīt, ka starp jebkuriem 78 trīsciparu skaitliem var atrast četrus tādus skait|us, kuru ciparu summas ir vienādas!
+Pierādīt, ka starp jebkuriem $78$ trīsciparu skaitļiem var atrast četrus tādus 
+skaitļus, kuru ciparu summas ir vienādas!
 
 <small>
 
@@ -1349,30 +1427,44 @@ Saskaitot abus pēdējās sistēmas vienādojumus, iegūstam $11,2 b=0,8$ jeb $b
 
 ## Atrisinājums
 
-Atrisinājums. Pavisam iespējamas 27 dažādas ciparu summas vērtības:
+Pavisam iespējamas $27$ dažādas ciparu summas vērtības:
 
-| Ciparu summa | Trīsciparu skaitli |
+| Ciparu summa | Trīsciparu skaitļi |
 | :--- | :--- |
-| $\mathbf{1}$ | 100 |
-| $\mathbf{2}$ | $101 ; 110 ; 200$ |
+| $\mathbf{1}$ | $100$ |
+| $\mathbf{2}$ | $101; 110; 200$ |
 | $\ldots$ | $\ldots$ |
-| $\mathbf{2 6}$ | $899 ; 989 ; 998$ |
-| $\mathbf{2 7}$ | 999 |
+| $\mathbf{2 6}$ | $899; 989; 998$ |
+| $\mathbf{2 7}$ | $999$ |
 
 levērojam, ka
 
-1) ciparu summa 1 un 27 katra ir tikai vienam skaitlim (100 un 999),
-2) ciparu summa 2 un 26 katra ir tikai trīs skaitliem (101; 110; 200 un 899; 989; 998).
+1) ciparu summa $1$ un $27$ katra ir tikai vienam skaitlim ($100$ un $999$),  
+2) ciparu summa $2$ un $26$ katra ir tikai trīs skaitļiem ($101; 110; 200$ un 
+$899; 989; 998$).
 
-Tātad šajās grupās vairāk skait|u nevar būt neatkarīgi no tā, kurus 78 trīsciparu skait|us izvēlamies. Pieñemsim, ka šīs četras grupas ir maksimāli piepildītas - tajās kopā ievietoti 8 skaitli. Tad atlikušajās 23 grupās jāievieto $78-8=70$ skaitli. Ja katrā no šīm 23 grupām būtu ievietoti ne vairāk kā 3 skaitlli, tad kopā būtu izvietoti ne vairāk kā $3 \cdot 23=69$ skaitļi - pretruna tam, ka pa grupām jāizvieto 70 skaitļi. Līdz ar to noteikti ir tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie četri skaitli, kuru ciparu summas ir vienādas.
+Tātad šajās grupās vairāk skaitļu nevar būt neatkarīgi no tā, kurus $78$ 
+trīsciparu skaitļus izvēlamies. Pieņemsim, ka šīs četras grupas ir maksimāli 
+piepildītas - tajās kopā ievietoti $8$ skaitļi. Tad atlikušajās $23$ grupās 
+jāievieto $78-8=70$ skaitļi. **Ja katrā no šīm $23$ grupām būtu ievietoti ne** 
+**vairāk kā $3$ skaitļi, tad kopā būtu izvietoti ne vairāk kā $3 \cdot 23=69$** 
+**skaitļi - pretruna tam, ka pa grupām jāizvieto $70$ skaitļi. Līdz ar to** 
+**noteikti ir tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie** 
+**četri skaitļi, kuru ciparu summas ir vienādas.**
 
-Piezīme. Treknrakstā izceltā teksta vietā var būt, piemēram, arī šāds spriedums: tā kā $70=3 \cdot 23+1$, tad pēc Dirihlē principa noteikti ir tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie četri skaitli, kuru ciparu summas ir vienādas.
+$\textit {Piezīme.}$ Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
+šāds spriedums: tā kā $70=3 \cdot 23+1$, tad pēc Dirihlē principa noteikti ir 
+tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie četri skaitļi, 
+kuru ciparu summas ir vienādas.
 
 
 
 # <lo-sample/> LV.NOL.2018.12.3
 
-12.3. Trijstūrī $A B C$ ievilktā rinka līnija pieskaras malai $A B$ punktā $D$, bet malai $A C$ punktā $E$. Leņku $B$ un $C$ bisektrises krusto taisni $D E$ attiecīgi punktos $M$ un $N$. Pierādīt, ka punkti $B, C, M$ un $N$ atrodas uz vienas rinka līnijas!
+Trijstūrī $ABC$ ievilktā riņķa līnija pieskaras malai $AB$ punktā $D$, bet 
+malai $AC$ punktā $E$. Leņķu $B$ un $C$ bisektrises krusto taisni $DE$ 
+attiecīgi punktos $M$ un $N$. Pierādīt, ka punkti $B,\ C,\ M$ un $N$ atrodas uz
+vienas riņķa līnijas!
 
 <small>
 
@@ -1383,21 +1475,36 @@ Piezīme. Treknrakstā izceltā teksta vietā var būt, piemēram, arī šāds s
 
 ## Atrisinājums
 
-Atrisinājums. Tā kā $C N$ un $B M$ ir bisektrises, tad $\sphericalangle A C N=\sphericalangle N C B=\alpha$ un $\sphericalangle A B M=\sphericalangle M B C=\beta$ (skat. 27.att.). No trijstūra $A B C$ iegūstam, ka $\sphericalangle B A C=180^{\circ}-\sphericalangle A B C-\sphericalangle B C A=180^{\circ}-2 \alpha-2 \beta$. Tā kā $A E=A D$ kā pieskaru nogriežņi, kas vilkti no punkta $A$, tad trijstūris $E A D$ ir vienādsānu un $\sphericalangle A D E=\sphericalangle A E D=\alpha+\beta$. Tā kā $\sphericalangle A E N$ ir trijstūra $N E C$ ārējais lenkis, tad $\sphericalangle A E N=\sphericalangle E C N+\sphericalangle E N C$, no kurienes $\sphericalangle E N C=\sphericalangle A E N-\sphericalangle E C N=\alpha+\beta-\alpha=\beta$. Tā kā $\sphericalangle M N C=\sphericalangle M B C=\beta$, tad ap četrstūri $C M N B$ var apvilkt rinka līiju, tas ir, punkti $B, C, M$ un $N$ atrodas uz vienas rinka līijas.
+Tā kā $CN$ un $BM$ ir bisektrises, tad 
+$\sphericalangle ACN=\sphericalangle NCB=\alpha$ un 
+$\sphericalangle ABM=\sphericalangle MBC=\beta$ (skat. 27.att.). No trijstūra 
+$ABC$ iegūstam, ka 
+$\sphericalangle BAC=180^{\circ}-\sphericalangle ABC-\sphericalangle BCA=180^{\circ}-2 \alpha-2 \beta$.
+Tā kā $AE=AD$ kā pieskaru nogriežņi, kas vilkti no punkta $A$, tad trijstūris 
+$EAD$ ir vienādsānu un $\sphericalangle ADE=\sphericalangle AED=\alpha+\beta$. 
+Tā kā $\sphericalangle AEN$ ir trijstūra $NEC$ ārējais leņķis, tad 
+$\sphericalangle AEN=\sphericalangle ECN+\sphericalangle ENC$, no kurienes 
+$\sphericalangle ENC=\sphericalangle AEN-\sphericalangle ECN=\alpha+\beta-\alpha=\beta$.
+Tā kā $\sphericalangle MNC=\sphericalangle MBC=\beta$, tad ap četrstūri $CMNB$ 
+var apvilkt riņķa līniju, tas ir, punkti $B,\ C,\ M$ un $N$ atrodas uz vienas 
+riņķa līnijas.
 
-![](https://cdn.mathpix.com/cropped/2024_07_21_ba04268b1e4f622eb0dag-14.jpg?height=446&width=688&top_left_y=1790&top_left_x=730)
+![](LV.NOL.2018.12.3A.png)
 
-Piezīme. Risinājumā izmantota apgrieztā teorēma par ievilktajiem lenkiem: ja četrstūrī $A B C D$ ir spēkā vienādība $\sphericalangle A B D=\sphericalangle A C D$, tad ap četrstūri var apvilkt rinka līiju.
+$\textit {Piezīme.}$ Risinājumā izmantota apgrieztā teorēma par ievilktajiem 
+leņķiem: ja četrstūrī $ABCD$ ir spēkā vienādība 
+$\sphericalangle ABD=\sphericalangle ACD$, tad ap četrstūri var apvilkt riņķa 
+līniju.
 
 
 
 # <lo-sample/> LV.NOL.2018.12.4
 
-12.4. Doti naturāli skaitli $a$ un $b$. Pierādīt
+Doti naturāli skaitļi $a$ un $b$. Pierādīt
 
-a) ja $20 a+18 b$ dalās ar 7 , tad $201 a+8 b$ dalās ar 7;
+**a)** ja $20a+18b$ dalās ar $7$, tad $201a+8b$ dalās ar $7$;
 
-b) ja $201 a+8 b$ dalās ar 7 , tad $20 a+18 b$ dalās ar 7 .
+**b)** ja $201a+8b$ dalās ar $7$, tad $20a+18b$ dalās ar $7$.
 
 <small>
 
@@ -1408,15 +1515,20 @@ b) ja $201 a+8 b$ dalās ar 7 , tad $20 a+18 b$ dalās ar 7 .
 
 ## Atrisinājums
 
-Atrisinājums. a) Ja $20 a+18 b$ dalās ar 7, tad arī $6 a+4 b$ dalās ar 7, jo $20 a+18 b=14 a+14 b+(6 a+4 b)$. Tas nozīmē, ka arī $7 \cdot 27 a+2(6 a+4 b)=201 a+8 b$ dalās ar 7 .
+**a)** Ja $20a+18b$ dalās ar $7$, tad arī $6a+4b$ dalās ar $7$, jo 
+$20a+18b=14a+14b+(6a+4b)$. Tas nozīmē, ka arī $7 \cdot 27a+2(6a+4b)=201a+8b$ 
+dalās ar $7$.
 
-b) Ja $201 a+8 b$ dalās ar 7 , tad arī $201 a+8 b-7(28 a+b)=5 a+b$ dalās ar 7. Tas nozīmē, ka arī $18(5 a+b)-7 \cdot 10 a=20 a+18 b$ dalās ar 7 .
+**b)** Ja $201a+8b$ dalās ar $7$, tad arī $201a+8b-7(28a+b)=5a+b$ dalās ar $7$.
+Tas nozīmē, ka arī $18(5a+b)-7 \cdot 10a=20a+18b$ dalās ar $7$.
 
 
 
 # <lo-sample/> LV.NOL.2018.12.5
 
-12.5. Vienādojuma ar veseliem koeficientiem $x^{4}+b x^{2}+c=0$ vienas saknes vērtība ir $\sqrt{20}-\sqrt{18}$. Atrast vienādojuma koeficientus un pārējās trīs saknes!
+Vienādojuma ar veseliem koeficientiem $x^{4}+bx^{2}+c=0$ vienas saknes vērtība 
+ir $\sqrt{20}-\sqrt{18}$. Atrast vienādojuma koeficientus un pārējās trīs 
+saknes!
 
 <small>
 
@@ -1427,31 +1539,36 @@ b) Ja $201 a+8 b$ dalās ar 7 , tad arī $201 a+8 b-7(28 a+b)=5 a+b$ dalās ar 7
 
 ## Atrisinājums
 
-Atrisinājums. levērojam, ja $x=\sqrt{20}-\sqrt{18}$, tad $x^{2}=38-12 \sqrt{10}>0$ un $x^{4}=2884-912 \sqrt{10}$.
+levērojam, ja $x=\sqrt{20}-\sqrt{18}$, tad $x^{2}=38-12 \sqrt{10}>0$ un 
+$x^{4}=2884-912 \sqrt{10}$.
 
 levietojot doto sakni dotajā vienādojumā, iegūstam
 
-$$
-\begin{align*}
+$$\begin{align}
 & 2884-912 \sqrt{10}+b(38-12 \sqrt{10})+c=0  \tag{*}\\
-& 2884+38 b+c-912 \sqrt{10}-12 \sqrt{10} b=0
-\end{align*}
-$$
+& 2884+38b+c-912 \sqrt{10}-12 \sqrt{10} b=0
+\end{align}$$
 
-Lai pastāvētu vienādība, iracionālajai un racionālajai daļai katrai atseviški jābūt 0 , tas ir,
+Lai pastāvētu vienādība, iracionālajai un racionālajai daļai katrai atsevišķi 
+jābūt $0$, tas ir,
 
-$$
-\left\{\begin{array}{c}
-2884+38 b+c=0 \\
--912 \sqrt{10}-12 b \sqrt{10}=0
-\end{array}\right.
-$$
+$$\left\{\begin{array}{c}
+2884+38b+c=0 \\
+-912 \sqrt{10}-12b \sqrt{10}=0
+\end{array}\right.$$
 
-Atrisinot iegūto vienādojumu sistēmu, iegūstam $b=-\frac{912}{12}=-76$ un $c=-2884+2888=4$.
+Atrisinot iegūto vienādojumu sistēmu, iegūstam $b=-\frac{912}{12}=-76$ un 
+$c=-2884+2888=4$.
 
-Tātad sākotnējais vienādojums ir $x^{4}-76 x^{2}+4=0$.
+Tātad sākotnējais vienādojums ir $x^{4}-76x^{2}+4=0$.
 
-Aplūkojot $\left({ }^{*}\right)$, ievērojam, ka veiktie spriedumi un iegūtais vienādojums nebūtu mainijies, ja iracionālās daļas vērtība būtu ar pretēju zīmi, tas ir, $2884+912 \sqrt{10}+b(38+12 \sqrt{10})+c=0$, bet šādu sakarību var iegūt, ja $x=\sqrt{20}+\sqrt{18}$. No kā izriet, ka $x=\sqrt{20}+\sqrt{18}$ arī ir dotā vienādojuma sakne.
+Aplūkojot (*), ievērojam, ka veiktie spriedumi un iegūtais vienādojums nebūtu 
+mainījies, ja iracionālās daļas vērtība būtu ar pretēju zīmi, tas ir, 
+$2884+912 \sqrt{10}+b(38+12 \sqrt{10})+c=0$, bet šādu sakarību var iegūt, ja 
+$x=\sqrt{20}+\sqrt{18}$. No kā izriet, ka $x=\sqrt{20}+\sqrt{18}$ arī ir dotā 
+vienādojuma sakne.
 
-Ņemot vērā, ka $(-x)$ ir dotā vienādojuma sakne, ja $x$ ir š̃ vienādojuma sakne, iegūstam, ka vienādojuma saknes ir $x_{1,2}=\sqrt{20} \pm \sqrt{18}$ un $x_{3,4}=-\sqrt{20} \pm \sqrt{18}$.
+Ņemot vērā, ka $(-x)$ ir dotā vienādojuma sakne, ja $x$ ir šī vienādojuma 
+sakne, iegūstam, ka vienādojuma saknes ir $x_{1,2}=\sqrt{20} \pm \sqrt{18}$ un 
+$x_{3,4}=-\sqrt{20} \pm \sqrt{18}$.
 
