@@ -753,11 +753,11 @@ Der skaitļu pāri $(0; 1)$ un $(0; -1)$. Pierādīsim, ka citu atrisinājumu na
 
 Apzīmējam $x^{3}=a$, tad $y^{4}=a^{2}+3a+1$.
 
-Ja $a \geq 1$, tad $a^{2}+2a+1<a^{2}+3a+1<a^{2}+4a+4$, tātad arī 
-$(a+1)^{2}<y^{4}<(a+2)^{2}$, redzams, ka $y^{4}$ (kas ir naturāla skaitļa 
+Ja $a \geq 1$, tad $a^{2}+2a+1 < a^{2}+3a+1 < a^{2}+4a+4$, tātad arī 
+$(a+1)^{2} < y^{4} < (a+2)^{2}$, redzams, ka $y^{4}$ (kas ir naturāla skaitļa 
 kvadrāts) atrodas starp divu pēc kārtas esošu naturālu skaitļu kvadrātiem - 
-pretruna. Ja $a \leq-4$, tad $a^{2}+4a+4<a^{2}+3a+1<a^{2}+2a+1$, tātad arī 
-$(a+2)^{2}<y^{4}<(a+1)^{2}$ un, tieši tāpat kā iepriekš, iegūstam pretrunu, ka 
+pretruna. Ja $a \leq-4$, tad $a^{2}+4a+4 < a^{2}+3a+1 < a^{2}+2a+1$, tātad arī 
+$(a+2)^{2} < y^{4} < (a+1)^{2}$ un, tieši tāpat kā iepriekš, iegūstam pretrunu, ka 
 $y^{4}$ atrodas starp diviem pēc kārtas esošu skaitļu kvadrātiem.
 
 Tātad $-3 \leq a \leq 0$. Tā kā $a=x^{3}$, tad $a=0$ vai $a=-1$.
@@ -856,11 +856,11 @@ reizes veikta liešana no $C$ uz $A$.
 
 Pat, ja no $B$ uz $A$ būs jāveic tikai viena - pēdējā liešana, no $C$ 
 pārlietais ūdens daudzums nepārsniedz 
-$a\left(1+2+2^{2}+2^{3}+\cdots+2^{k-1}\right)<a2^{k} \leq b \leq c$, tātad mucā
+$a\left(1+2+2^{2}+2^{3}+\cdots+2^{k-1}\right) < a2^{k} \leq b \leq c$, tātad mucā
 $C$ pietiks ūdens, lai veiktu nepieciešamos gājienus.
 
 Ar aprakstītajiem gājieniem tiks panākts, ka mucā $B$ paliek $y$ litri ūdens, 
-bet, tā kā $y<a$, tad tagad mucā $B$ ir mazāk ūdens nekā sākotnēji bija mucā 
+bet, tā kā $y < a$, tad tagad mucā $B$ ir mazāk ūdens nekā sākotnēji bija mucā 
 $A$ (tas ir, tagad mucā $B$ ir vismazākais ūdens daudzums). Atkārtojot līdzīgas
 gājienu virknes, panāksim, ka kādā no mucām ūdens vairs nebūs.
 
