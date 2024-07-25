@@ -833,10 +833,10 @@ iegūt mazāk ūdens nekā šajā mucā. Tad skaidrs, ka, atkārtojot šo proces
 vai vēlāk kāda no mucām būs tukša.
 
 Apzīmējam mucas ar $A$ (sākumā tajā ir $a$ litri), $B$ ($b$ litri) un $C$ ($c$ 
-litri) un, nezaudējot vispārīgumu, pieņemam, ka $0<a \leq b \leq c$. Aplūkojam 
+litri) un, nezaudējot vispārīgumu, pieņemam, ka $0 < a \leq b \leq c$. Aplūkojam 
 mucas $A$ un $B$.
 
-Izsakām $b=a \cdot x+y$, kur $0 \leq y<a$, bet $x$ izsakām binārā formā:
+Izsakām $b=a \cdot x+y$, kur $0 \leq y < a$, bet $x$ izsakām binārā formā:
 
 $$x=x_{0}+2 x_{1}+2^{2}x_{2}+2^{3}x_{3}+\cdots+2^{k}x_{k}$$
 
