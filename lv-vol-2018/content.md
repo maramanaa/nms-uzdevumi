@@ -162,7 +162,7 @@ mediāna, tad $HC=\frac{1}{2} AC=3$, un pēc Pitagora teorēmas $\triangle BHC$
 aprēķinām $BH=\sqrt{BC^{2}-HC^{2}}=4$. Tad $S_{ABC}=\frac{1}{2} BH \cdot AC=12$.
 Tā kā trijstūriem $BCD$ un $DCA$ ir kopīgs augstums no virsotnes $C$, tad 
 $S_{BDC}=\frac{2}{5} S_{ABC}=\frac{24}{5}$ un 
-$S_{ADC}=\frac{3}{5} S_{ABC}=\frac{36}{5}$. legūstam, ka 
+$S_{ADC}=\frac{3}{5} S_{ABC}=\frac{36}{5}$. Iegūstam, ka 
 $h_{AC}=\frac{2S_{ADC}}{AC}=\frac{12}{5}$, kur $h_{AC}$ ir no virsotnes $D$ 
 vilktais augstums. Aprēķinām $S_{DEC}=\frac{1}{2} EC \cdot h_{AC}=\frac{24}{5}$.
 Tātad $S_{DEC}=S_{BDC}$. Tas nozīmē, ka augstums no $B$ pret $CD$ ir vienāds ar
@@ -337,7 +337,7 @@ pirmā cipara ievietojot $n$ nuļļu grupu:
 
 $$1 \underbrace{0 \ldots 0}_{n} 10; 1 \underbrace{0 \ldots 0}_{n} 11; 1 \underbrace{0 \ldots 0}_{n} 12$$
 
-legūtie skaitļi joprojām ir secīgi. Pirmā skaitļa ciparu summa ir $2$, un tas 
+Iegūtie skaitļi joprojām ir secīgi. Pirmā skaitļa ciparu summa ir $2$, un tas 
 dalās ar $2$. Otrā skaitļa ciparu summa ir $3$, tātad tas dalās ar $3$. Trešā 
 skaitļa ciparu summa ir $4$, un tas dalās ar $4$, jo tā pēdējo divu ciparu 
 veidotais skaitlis dalās ar $4$. Tā kā $n$ var būt jebkurš naturāls skaitlis, 
