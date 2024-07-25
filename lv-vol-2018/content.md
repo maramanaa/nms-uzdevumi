@@ -478,15 +478,15 @@ Atrisināt nevienādību $|||x-2|-3|-7|<5$.
 
 Tā kā moduļa vērtība ir mazāka nekā $5$, tad
 
-$-5<||x-2|-3|-7<5$ jeb $2<|| x-2|-3|<12$
+$-5 < ||x-2|-3|-7 < 5$ jeb $2 < || x-2|-3| < 12$
 
 Iespējami divi gadījumi:
 
-1) $2<|x-2|-3<12$ jeb $5<|x-2|<15$ un atkal iespējami divi gadījumi
-   a. $5<x-2<15$ jeb $7<x<17$;
-   b. $-15<x-2<-5$ jeb $-13<x<-3$;
-2) $-12<|x-2|-3<-2$ jeb $-9<|x-2|<1$ un tā kā modulis ir nenegatīvs, tad 
-   $-1<x-2<1$ jeb $1<x<3$.
+1) $2 < |x-2|-3 < 12$ jeb $5 < |x-2| < 15$ un atkal iespējami divi gadījumi
+   a. $5 < x-2 < 15$ jeb $7 < x < 17$;
+   b. $-15 < x-2 < -5$ jeb $-13 < x < -3$;
+2) $-12 < |x-2|-3 < -2$ jeb $-9 < |x-2| < 1$ un tā kā modulis ir nenegatīvs, tad 
+   $-1 < x-2 < 1$ jeb $1 < x < 3$.
 
 ## Atrisinājums
 
