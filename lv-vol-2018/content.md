@@ -478,15 +478,15 @@ Atrisināt nevienādību $|||x-2|-3|-7|<5$.
 
 Tā kā moduļa vērtība ir mazāka nekā $5$, tad
 
-$-5<||x-2|-3|-7<5$ jeb $2<|| x-2|-3|<12$
+$-5 < ||x-2|-3|-7 < 5$ jeb $2 < || x-2|-3| < 12$
 
 Iespējami divi gadījumi:
 
-1) $2<|x-2|-3<12$ jeb $5<|x-2|<15$ un atkal iespējami divi gadījumi
-   a. $5<x-2<15$ jeb $7<x<17$;
-   b. $-15<x-2<-5$ jeb $-13<x<-3$;
-2) $-12<|x-2|-3<-2$ jeb $-9<|x-2|<1$ un tā kā modulis ir nenegatīvs, tad 
-   $-1<x-2<1$ jeb $1<x<3$.
+1) $2 < |x-2|-3 < 12$ jeb $5 < |x-2| < 15$ un atkal iespējami divi gadījumi
+   a. $5 < x-2 < 15$ jeb $7 < x < 17$;
+   b. $-15 < x-2 < -5$ jeb $-13 < x < -3$;
+2) $-12 < |x-2|-3 < -2$ jeb $-9 < |x-2| < 1$ un tā kā modulis ir nenegatīvs, tad 
+   $-1 < x-2 < 1$ jeb $1 < x < 3$.
 
 ## Atrisinājums
 
@@ -753,11 +753,11 @@ Der skaitļu pāri $(0; 1)$ un $(0; -1)$. Pierādīsim, ka citu atrisinājumu na
 
 Apzīmējam $x^{3}=a$, tad $y^{4}=a^{2}+3a+1$.
 
-Ja $a \geq 1$, tad $a^{2}+2a+1<a^{2}+3a+1<a^{2}+4a+4$, tātad arī 
-$(a+1)^{2}<y^{4}<(a+2)^{2}$, redzams, ka $y^{4}$ (kas ir naturāla skaitļa 
+Ja $a \geq 1$, tad $a^{2}+2a+1 < a^{2}+3a+1 < a^{2}+4a+4$, tātad arī 
+$(a+1)^{2} < y^{4} < (a+2)^{2}$, redzams, ka $y^{4}$ (kas ir naturāla skaitļa 
 kvadrāts) atrodas starp divu pēc kārtas esošu naturālu skaitļu kvadrātiem - 
-pretruna. Ja $a \leq-4$, tad $a^{2}+4a+4<a^{2}+3a+1<a^{2}+2a+1$, tātad arī 
-$(a+2)^{2}<y^{4}<(a+1)^{2}$ un, tieši tāpat kā iepriekš, iegūstam pretrunu, ka 
+pretruna. Ja $a \leq-4$, tad $a^{2}+4a+4 < a^{2}+3a+1 < a^{2}+2a+1$, tātad arī 
+$(a+2)^{2} < y^{4} < (a+1)^{2}$ un, tieši tāpat kā iepriekš, iegūstam pretrunu, ka 
 $y^{4}$ atrodas starp diviem pēc kārtas esošu skaitļu kvadrātiem.
 
 Tātad $-3 \leq a \leq 0$. Tā kā $a=x^{3}$, tad $a=0$ vai $a=-1$.
@@ -833,10 +833,10 @@ iegūt mazāk ūdens nekā šajā mucā. Tad skaidrs, ka, atkārtojot šo proces
 vai vēlāk kāda no mucām būs tukša.
 
 Apzīmējam mucas ar $A$ (sākumā tajā ir $a$ litri), $B$ ($b$ litri) un $C$ ($c$ 
-litri) un, nezaudējot vispārīgumu, pieņemam, ka $0<a \leq b \leq c$. Aplūkojam 
+litri) un, nezaudējot vispārīgumu, pieņemam, ka $0 < a \leq b \leq c$. Aplūkojam 
 mucas $A$ un $B$.
 
-Izsakām $b=a \cdot x+y$, kur $0 \leq y<a$, bet $x$ izsakām binārā formā:
+Izsakām $b=a \cdot x+y$, kur $0 \leq y < a$, bet $x$ izsakām binārā formā:
 
 $$x=x_{0}+2 x_{1}+2^{2}x_{2}+2^{3}x_{3}+\cdots+2^{k}x_{k}$$
 
@@ -856,11 +856,11 @@ reizes veikta liešana no $C$ uz $A$.
 
 Pat, ja no $B$ uz $A$ būs jāveic tikai viena - pēdējā liešana, no $C$ 
 pārlietais ūdens daudzums nepārsniedz 
-$a\left(1+2+2^{2}+2^{3}+\cdots+2^{k-1}\right)<a2^{k} \leq b \leq c$, tātad mucā
+$a\left(1+2+2^{2}+2^{3}+\cdots+2^{k-1}\right) < a2^{k} \leq b \leq c$, tātad mucā
 $C$ pietiks ūdens, lai veiktu nepieciešamos gājienus.
 
 Ar aprakstītajiem gājieniem tiks panākts, ka mucā $B$ paliek $y$ litri ūdens, 
-bet, tā kā $y<a$, tad tagad mucā $B$ ir mazāk ūdens nekā sākotnēji bija mucā 
+bet, tā kā $y < a$, tad tagad mucā $B$ ir mazāk ūdens nekā sākotnēji bija mucā 
 $A$ (tas ir, tagad mucā $B$ ir vismazākais ūdens daudzums). Atkārtojot līdzīgas
 gājienu virknes, panāksim, ka kādā no mucām ūdens vairs nebūs.
 
