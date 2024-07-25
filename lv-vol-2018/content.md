@@ -79,15 +79,15 @@ var dot trīs izvēlētie skaitļi.
 
 **1)** Ja kāds no skaitļiem dalās ar $4$ (jeb dod atlikumu $0$), tad šī skaitļa
 reizinājums ar pārējiem diviem skaitļiem arī dalās ar $4$ jeb šie divi 
-reizinājumi dod atlikumu $0$.
+reizinājumi dod atlikumu $0$.  
 **2)** Ja neviens no skaitļiem nedalās ar $4$, tad iespējami divi gadījumi.
 
-   **(A)** Ja vismaz diviem skaitļiem atlikums, dalot ar $4$, ir vienāds, tas 
+   a. Ja vismaz diviem skaitļiem atlikums, dalot ar $4$, ir vienāds, tas 
    ir, skaitļus varam izteikt formā $4k+q;\ 4m+q$ un $4n+p$, tad reizinājumiem 
    $(4k+q)(4n+p)=4(4kn+kp+nq)+qp$ un $(4m+q)(4n+p)=4(4mn+mp+nq)+qp$ atlikums ir
    vienāds ar $qp$ atlikumu, dalot ar $4$.
 
-   **(B)** Ja visi atlikumi ir dažādi, tad viena skaitļa atlikums, dalot ar 
+   b. Ja visi atlikumi ir dažādi, tad viena skaitļa atlikums, dalot ar 
    $4$, ir $1$, otra - $2$, trešā - $3$, tas ir, skaitļus varam izteikt formā 
    $4k+1;\ 4m+2$ un $4n+3$. Tad reizinājuma $(4k+1)(4m+2)=4(4km+2k+m)+2$ 
    atlikums ir vienāds ar reizinājuma $(4m+2)(4n+3)=4(4mn+3m+2n+4)+2$ atlikumu,
@@ -128,6 +128,8 @@ skaits, tad divas malējās rūtiņas būs jāaizņem mušām, kuras atradās s�
 tabulas vidējās rūtiņās, bet tad tās būtu pazaudējušas vismaz vienu kaimiņu, 
 kas ir pretrunā ar pieņēmumu.
 
+![](LV.VOL.2018.9.3A.png)
+
 ## Atrisinājums
 
 Pamatosim, ka prasītais nav iespējams. Saskaitīsim, cik mušu pāri bija kaimiņi 
@@ -136,8 +138,6 @@ līniju, katra iekšējā līnija atdala divas kaimiņu mušas. Tātad pirms
 pārlidošanas kaimiņu skaits bija $7 \cdot 14+8 \cdot 13=202$, bet pēc 
 pārlidošanas tas ir $6 \cdot 16+7 \cdot 15=201$, tātad ir vismaz viens mušu 
 pāris, kas bija kaimiņi pirms pārlidošanas, bet nav kaimiņi pēc.
-
-![](LV.VOL.2018.9.3A.png)
 
 
 
@@ -294,7 +294,7 @@ $\triangle AED$, iegūstam $AD=\sqrt{AE^{2}+ED^{2}}=\sqrt{4+12}=4$.
 
 ![](LV.VOL.2018.10.2A.png)
 
-$\textit {Piezīme.} Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
+$\textit {Piezīme.}$ Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
 teorēmu trijstūrī $KAM$ :
 
 $$KM^{2}=AK^{2}+AM^{2}-2 \cdot AK \cdot AM \cdot \cos \sphericalangle KAM \quad \Rightarrow \quad KM=3 \sqrt{3}$$
@@ -369,7 +369,7 @@ $\textit {karaliskie neizšķirti}$?
 
 Šahistus apzīmējam ar punktiem. Ja divi šahisti spēlējuši neizšķirti viens ar 
 otru, tad atbilstošos punktus savienojam ar līniju. Tad, atbilstoši uzdevuma 
-nosacījumiem, no katra punkta iziet tik līiiju, cik parādīts 9.att.
+nosacījumiem, no katra punkta iziet tik līniju, cik parādīts 9.att.
 
 **(A)** No punktiem $A,\ B,\ C$ un $D$ (skat. 9.att.) kopā iziet $16$ līniju 
 gali, bet no sešiem atlikušajiem punktiem kopā iziet $14$ līniju gali. Tātad 
@@ -377,7 +377,7 @@ nevar būt tā, ka punkti $A,\ B,\ C$ un $D$ ir savienoti tikai ar atlikušajiem
 sešiem punktiem un nav savienoti savā starpā. Tātad esam ieguvuši, ka no tiem 
 šahistiem, kas neizšķirti spēlējuši tieši četras reizes, noteikti ir tādi divi,
 kas spēlējuši viens ar otru, tas ir, noteikti tika izspēlēts vismaz viens 
-$\textit {karaliskais neizškirts}$.
+$\textit {karaliskais neizšķirts}$.
 
 **(B)** Nē, skat., piemēram, 10.att.
 
@@ -425,7 +425,7 @@ levērojam, ka starpību
 - $32$ var iegūt tikai $3$ veidos $32=35-3=34-2=33-1$;
 - $31$ var iegūt tikai $4$ veidos $31=35-4=34-3=33-2=32-1$.
 
-Pieņemsim, ka šādi $12$ skaitlli ir atrasti.
+Pieņemsim, ka šādi $12$ skaitļi ir atrasti.
 
 Starpību $34$ var iegūt tikai no skaitļiem $1$ un $35$, starpību $33$ tikai no 
 skaitļu pāriem $(2; 35)$ un $(1; 34)$. Tas nozīmē, ja nav izvēlēts $1$ vai 
@@ -613,7 +613,7 @@ z^{3}+4z=5x
 
 ## Atrisinājums
 
-Dotās sistēmas atrisinājumi ir $(0; 0; 0); (1; 1; 1)$ un $(-1; -1; -1)$. 
+Dotās sistēmas atrisinājumi ir $(0; 0; 0);\ (1; 1; 1)$ un $(-1; -1; -1)$. 
 Pierādīsim, ka citu atrisinājumu nav. Tā kā vienādojums ir simetrisks attiecībā
 pret mainīgo rotāciju, tad nezaudējot vispārīgumu, varam pieņemt, ka $x \geq y$
 un $x \geq z$. Funkcija $f(a)=a^{3}+4a$ ir stingri augoša visā savā definīcijas
