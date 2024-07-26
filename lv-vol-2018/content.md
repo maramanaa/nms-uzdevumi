@@ -223,7 +223,7 @@ divām monētām katrā kaudzītē.
 Atrast visus tādus veselu skaitļu pārus $(x; y)$, kas apmierina nevienādību 
 sistēmu
 
-$$\left\{ \begin{array}{ll}
+$$\left\{ \begin{array}{c}
 2x^{2}+2y^{2}+24x-28y+167<0 \\
 x+2y<\frac{15}{2}
 \end{array} \right.$$
