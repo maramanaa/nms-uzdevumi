@@ -297,11 +297,12 @@ spēlētājs, pēc kura gājiena uz tāfeles uzrakstītajam vienādojumam ir kā
 vesela sakne. Kurš spēlētājs - pirmais vai otrais - uzvarēs, pareizi spēlējot?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:ProveDisprove
+* domain:Alg
+  
 </small>
+
 
 ## Atrisinājums
 
@@ -422,10 +423,10 @@ skaitli, kā arī, piemēram, skaitļi $36$ un $322$.) Pierādīt, ka ir bezgal�
 daudz elegantu skaitļu!
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:NT
+  
 </small>
 
 ## Atrisinājums
