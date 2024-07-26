@@ -736,7 +736,7 @@ Lai atrastu izteiksmes $F$ maksimālo vērtību, vispirms pierādīsim lemmu.
 Lemma. Funkcija $f(x)=x+\frac{k}{x}, k > 0$, dilst pa kreisi no tās minimuma
 punkta $x=\sqrt{k}$ un aug pa labi no tā, tas ir,
 
-$$0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v) \text { un } \sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$$
+$0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v)$ un $\sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$
 
 *Pierādīums.* Apskatām abus gadijumus.
 
