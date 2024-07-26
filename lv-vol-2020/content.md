@@ -19,7 +19,7 @@ $$\frac{(3n-1)(n+4)}{n+2}=\frac{3n^{2}+11n-4}{n+2}=\frac{3n(n+2)+5n-4}{n+2}=\fra
 
 Tā kā $3n+5$ ir naturāls skaitlis, tad dotās izteiksmes vērtība būs vesels
 skaitlis tikai tad, ja $\frac{-14}{n+2}$ ir vesels skaitlis, bet tas iespējams,
-ja $(n+2)$ ir skaitla $14$ dalītājs. levērojot, ka $n$ ir naturāls, iegūstam,
+ja $(n+2)$ ir skaitļa $14$ dalītājs. levērojot, ka $n$ ir naturāls, iegūstam,
 ka $n+2=7$ vai $n+2=14$, no kā iegūstam, ka $n=5$ vai $n=12$.
 
 
@@ -134,7 +134,7 @@ $a, b, c, d$, ka vienlaicīgi izpildās šādi nosacījumi:
 
 ## Atrisinājums
 
-**a)** Jā, eksistē. Skaitļiem $1, 2, 3, 6$ izpildās visi uzdevuma nosacijumi:
+**a)** Jā, eksistē. Skaitļiem $1, 2, 3, 6$ izpildās visi uzdevuma nosacījumi:
 
 - $2+3+6$ dalās ar $1$ ,
 - $1+3+6$ dalās ar $2$ ,
@@ -159,7 +159,7 @@ uzdevuma nosacījumi.
 
 # <lo-sample/> LV.VOL.2020.9.5
 
-Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no kieģeļiem,
+Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no ķieģeļiem,
 kuru izmēri ir $1 \times 1 \times 8$ ?
 
 <small>
@@ -338,7 +338,7 @@ Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100s_{k}+37$. Patiešām, skai
 pareizinot ar $100$ tam tiek galā pierakstītas divas nulles, bet pieskaitot
 $37$ šīs nulles pārvēršas par $37$, tātad šī operācija pieraksta skaitļa galā
 $37$. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar $17$,
-$a_{k}=s_{k}$ mod $17$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
+$a_{k}=s_{k}$ $mod 17$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
 nulles.
 
 Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs
@@ -736,7 +736,8 @@ Lai atrastu izteiksmes $F$ maksimālo vērtību, vispirms pierādīsim lemmu.
 Lemma. Funkcija $f(x)=x+\frac{k}{x}, k > 0$, dilst pa kreisi no tās minimuma
 punkta $x=\sqrt{k}$ un aug pa labi no tā, tas ir,
 
-$0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v)$ un $\sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$
+$0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v)$ un
+$\sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$
 
 *Pierādīums.* Apskatām abus gadijumus.
 
