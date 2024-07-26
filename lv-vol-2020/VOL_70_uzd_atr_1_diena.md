@@ -27,7 +27,7 @@ ka $n+2=7$ vai $n+2=14$, no kā iegūstam, ka $n=5$ vai $n=12$.
 # <lo-sample/> LV.VOL.2020.9.2
 
 Atrast visus naturālos skaitļus $B$ intervālā $1 < B < 99$, kuriem izpildās šāda
-īpašība: jebkuram naturālam skaitlim $C$, kuram $B<C<100$ ir spēkā
+īpašība: jebkuram naturālam skaitlim $C$, kuram $B < C < 100$ ir spēkā
 $B \leq V \leq C$, kur $V=\frac{1+B+C+100}{4}$ ir skaitļu $1, B, C, 100$
 vidējais aritmētiskais.
 
