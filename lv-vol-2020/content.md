@@ -50,8 +50,8 @@ $$V=\frac{1+B+B+x+100}{4}=\frac{2B+x+101}{4}$$
 Ņemot vērā, ka jāizpildās nevienādībām $B \leq V \leq C$, iegūstam
 
 $$\begin{gathered}
-B \leq \frac{2B+x+101}{4} \leq B+x  
-4B \leq 2B+x+101 \leq 4B+4x  
+B \leq \frac{2B+x+101}{4} \leq B+x \\
+4B \leq 2B+x+101 \leq 4B+4x
 \end{gathered}$$
 
 Pārrakstot iegūto divkāršo nevienādību kā nevienādību sistēmu, iegūstam
