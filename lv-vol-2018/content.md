@@ -64,10 +64,10 @@ iegūstot trīs reizinājumus. Pierādīt, ka šos reizinājumus, dalot ar $4$,
 vismaz divi dod vienādus atlikumus!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:Prove
+* domain:NT
+   
 </small>
 
 ## Atrisinājums
@@ -307,29 +307,33 @@ trijstūris $KAM$ ir taisnleņķa.
 
 # <lo-sample/> LV.VOL.2018.10.3
 
-Skaitļus $a,\ b,\ c$ sauksim par $\textit {skaistu trijnieku}$, ja tiem piemīt 
+Skaitļus $a,\ b,\ c$ sauksim par *skaistu trijnieku*, ja tiem piemīt 
 šādas īpašības:
 
 - tie ir trīs pēc kārtas esoši naturāli skaitļi;
 - katrs no tiem dalās ar savu ciparu summu.
 
-Piemēram, $\textit {skaists trijnieks}$ ir $8,\ 9,\ 10$.
+Piemēram, *skaists trijnieks* ir $8,\ 9,\ 10$.
 
-**(A)** Atrast tādu $\textit {skaistu trijnieku}$, kurā mazākais skaitlis ir 
+**(A)** Atrast tādu *skaistu trijnieku*, kurā mazākais skaitlis ir 
 lielāks nekā $10$.
 
-**(B)** Pierādīt, ka eksistē bezgalīgi daudz $\textit {skaistu trijnieku}$!
+**(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu trijnieku*!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindExample,Prove
+* domain:NT
+* topic:DivisibilityRulesFor2And4
+* topic:DivisibilityRulesFor3And9
+* topic:NotationInsert
+* concepts:sum-of-digits
+   
 </small>
 
 ## Atrisinājums
 
-**(A)** $\textit {Skaists trijnieks}$ ir, piemēram, $110$ (dalās ar $2$), $111$
+**(A)** *Skaists trijnieks* ir, piemēram, $110$ (dalās ar $2$), $111$
 (dalās ar $3$), $112$ (dalās ar $4$).
 
 **(B)** Aplūkosim skaitļus, ko iegūst no skaitļiem $110,\ 111$ un $112$, aiz 
@@ -342,6 +346,26 @@ dalās ar $2$. Otrā skaitļa ciparu summa ir $3$, tātad tas dalās ar $3$. Tre
 skaitļa ciparu summa ir $4$, un tas dalās ar $4$, jo tā pēdējo divu ciparu 
 veidotais skaitlis dalās ar $4$. Tā kā $n$ var būt jebkurš naturāls skaitlis, 
 tad $\textit {skaistu trijnieku}$ ir bezgalīgi daudz.
+
+
+## Atrisinājums 
+
+Vispirms apskatām vienkāršāku uzdevumu – "labu skaitļu" ķēdītes garumā $2$.  
+Var aplūkot tādus skaitļus, kuru vidū var iespraust neierobežotu skaitu nuļļu.
+
+* Pārītī $(20,21)$ pirmais skaitlis dalās ar $2$, bet otrais ar $3$.
+* Tas pats pārītim $(200, 201)$, $(2000, 2001)$, utt.
+
+Var izveidot Ķēdītes garumā 3 šādi:  
+Skaitļi $110,111,112$ dalās ar attiecīgi ar $2,3,4$.
+
+$$1\underbrace{0\ldots0}_n10,\;\;1\underbrace{0\ldots0}_n11,\;\;1\underbrace{0\ldots0}_n12$$
+
+
+
+
+
+
 
 
 
@@ -540,29 +564,31 @@ $\triangle BHE$ viduslīnija. Tāpēc $BE \perp AO$.
 
 # <lo-sample/> LV.VOL.2018.11.3
 
-Skaitļus $a, b, c, d, e$ sauksim par $\textit {skaistu piecinieku}$, ja tiem 
+Skaitļus $a, b, c, d, e$ sauksim par *skaistu piecinieku*, ja tiem 
 piemīt šādas īpašības:
 
 - tie ir pieci pēc kārtas esoši naturāli skaitļi;
 - katrs no tiem dalās ar savu ciparu summu.
 
-Piemēram, $\textit {skaists piecinieks}$ ir $6,\ 7,\ 8,\ 9,\ 10$.
+Piemēram, *skaists piecinieks* ir $6,\ 7,\ 8,\ 9,\ 10$.
 
-**(A)** Atrast tādu $\textit {skaistu piecinieku}$, kurā mazākais skaitlis ir 
+**(A)** Atrast tādu *skaistu piecinieku*, kurā mazākais skaitlis ir 
 lielāks nekā $10$.
 
-**(B)** Pierādīt, ka eksistē bezgalīgi daudz $\textit {skaistu piecinieku}$!
+**(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu piecinieku*!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindExample,Prove
+* domain:NT
+   
 </small>
+
+
 
 ## Atrisinājums
 
-**(A)** $\textit {Skaists piecinieks}$ ir, piemēram,
+**(A)** *Skaists piecinieks* ir, piemēram,
 
 - $27027024$ - ciparu summa ir $24$; tā kā šis skaitlis dalās ar $3$ (jo ciparu
   summa dalās ar $3$) un $8$ (jo pēdējo trīs ciparu veidotais skaitlis dalās ar
@@ -741,11 +767,12 @@ Tā kā $DR=2RF$ un $DP=PR$, tad $DP=PR=RF$.
 Atrisināt veselos skaitļos vienādojumu $x^{6}+3x^{3}+1=y^{4}$.
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindAll
+* domain:NT
+   
 </small>
+
 
 ## Atrisinājums
 

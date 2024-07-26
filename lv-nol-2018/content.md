@@ -1058,11 +1058,17 @@ izveidoti trīs sešciparu skaitļi. Ar kādu lielāko nuļļu skaitu var beigti
 trīs izveidoto skaitļu summa?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* topic:DivisibilityRulesFor3And9
+* topic:DigitsInOperationResult
+* topic:CountingFromEncoding
+* strategy:contradiction
+* questionType:FindOptimal
+* domain:NT
+  
 </small>
+
+
 
 ## Atrisinājums
 
@@ -1096,9 +1102,27 @@ saskaitāmais ir mazāks nekā $1\ 000\ 000$. Vienīgie divi skaitļi ar sešām
 beigās, kas mazāki nekā $3\ 000\ 000$, ir $1\ 000\ 000$ un $2\ 000\ 000$, kas 
 nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar sešām nullēm.
 
-$\textit {Piezīmes.}$ 1) Der arī $493862+511382+794756=1800000$ un 
+*Piezīmes.* 1) Der arī $493862+511382+794756=1800000$ un 
 $921478+925176+853346=2700000$. 2) Vajadzīgo piemēru var atrast, piemeklējot 
 ciparus, sākot ar skaitļu pēdējo ciparu.
+
+
+## Atrisinājums
+
+Katrs sešciparu skaitlis ir mazāks par 1 miljonu. 
+$3$ šādu skaitļu summa ir zem $10$ miljoniem - ne vairāk kā 7-ciparu skaitlis. 
+Vai šāds skaitlis var beigties ar $6$ nullēm?
+Nē nevar, jo ciparu summas dēļ šādam skaitlim būtu jādalās ar $9$, 
+bet summa $9000000$ būtu par lielu. 
+
+Vai var beigties ar $5$ nullēm? 
+Konstruējam, ikreiz liekot mazākos iespējamos ciparus.
+Sarkanās bultiņas norāda secību, kādā cipari tiek ierakstīti, lai 
+izpildītu prasības par ciparu atkārtošanos un arī piecām nullēm beigās.
+
+![](LV.NOL.2018.10.4A.png){ width=250px }
+
+
 
 
 
@@ -1496,9 +1520,9 @@ līniju.
 
 Doti naturāli skaitļi $a$ un $b$. Pierādīt
 
-**a)** ja $20a+18b$ dalās ar $7$, tad $201a+8b$ dalās ar $7$;
+**(A)** ja $20a+18b$ dalās ar $7$, tad $201a+8b$ dalās ar $7$;
 
-**b)** ja $201a+8b$ dalās ar $7$, tad $20a+18b$ dalās ar $7$.
+**(B)** ja $201a+8b$ dalās ar $7$, tad $20a+18b$ dalās ar $7$.
 
 <small>
 
@@ -1509,11 +1533,11 @@ Doti naturāli skaitļi $a$ un $b$. Pierādīt
 
 ## Atrisinājums
 
-**a)** Ja $20a+18b$ dalās ar $7$, tad arī $6a+4b$ dalās ar $7$, jo 
+**(A)** Ja $20a+18b$ dalās ar $7$, tad arī $6a+4b$ dalās ar $7$, jo 
 $20a+18b=14a+14b+(6a+4b)$. Tas nozīmē, ka arī $7 \cdot 27a+2(6a+4b)=201a+8b$ 
 dalās ar $7$.
 
-**b)** Ja $201a+8b$ dalās ar $7$, tad arī $201a+8b-7(28a+b)=5a+b$ dalās ar $7$.
+**(B)** Ja $201a+8b$ dalās ar $7$, tad arī $201a+8b-7(28a+b)=5a+b$ dalās ar $7$.
 Tas nozīmē, ka arī $18(5a+b)-7 \cdot 10a=20a+18b$ dalās ar $7$.
 
 
