@@ -422,7 +422,7 @@ $m$ vērtībām funkcija ir augoša intervālā $(1; 2)$ ?
 
 ## Atrisinājums
 
-levērojam, ka $m \neq$ 2019$ . Lai funkcija būtu augoša, jāizpildās
+levērojam, ka $m \neq 2019$ . Lai funkcija būtu augoša, jāizpildās
 nevienādībai $f(1) < f(2)$. Atrisinām šo nevienādību:
 
 $$\begin{aligned}
