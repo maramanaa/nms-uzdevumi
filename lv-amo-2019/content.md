@@ -275,11 +275,11 @@ apgāztas otrādi.
 
 ## Atrisinājums
 
-**a)** Skat., piemēram, 10.att. **b)** Skat., piemēram, 11.att.
+**(A)** Skat., piemēram, 10.att. **(B)** Skat., piemēram, 11.att.
 
 ![](LV.AMO.2019.6.4A.png)
 
-$\textit {Piezīme.}$ b) daļas atrisinājums der arī a) daļai.
+*Piezīme.* (B) daļas atrisinājums der arī (A) daļai.
 
 
 
@@ -374,7 +374,7 @@ gājieni pietrūks pirmajam spēlētājam un viņš zaudēs.
 Izliektā četrstūrī $ABCD$ leņķu $BAD$ un $ADC$ bisektrises krustojas punktā 
 $M$. Pierādīt, ka $BM=CM$, ja zināms, ka $AD=AB+CD$.
 
-$\textit {Piezīme.}$ Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir 
+*Piezīme.* Četrstūri sauc par izliektu, ja visi tā iekšējie leņķi ir 
 mazāki nekā $180^{\circ}$.
 
 <small>
@@ -415,7 +415,7 @@ no vienādiem regulāriem trijstūriem. Uzzīmē šādu piecstūri!
 
 Skat., piemēram, 16.att.
 
-$\textit {Piezīme.}$ Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
+*Piezīme.* Mazākais tāds piecstūris sastāv no sešiem trijstūriem un ir 
 pazīstams ar nosaukumu heksamonds sfinksa.
 
 ![](LV.AMO.2019.7.4A.png)
@@ -531,7 +531,7 @@ $k$ ir naturāls skaitlis). Tātad stabu skaits ir $2k+1=2 \cdot 7+1=15$.
 
 ![](LV.AMO.2019.8.1B.png)
 
-$\textit {Piezīme.}$ Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
+*Piezīme.* Vienādojumu $k \cdot(2 k+1)=105$ var risināt arī neizmantojot 
 kvadrātvienādojuma atrisināšanas metodes, bet apskatot visas dažādās iespējas, 
 kādu divu naturālu skaitļu reizinājums var būt $105$.
 
@@ -593,7 +593,7 @@ Tā kā $AD=BC$ kā paralelograma pretējās malas, tad esam ieguvuši, ka $BC=D
 
 ![](LV.AMO.2019.8.3A.png)
 
-$\textit {Piezīme.}$ Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
+*Piezīme.* Tas, ka $DE$ ir perpendikulārs $AF$, risinājumā nav obligāti 
 jāizmanto.
 
 
@@ -916,15 +916,15 @@ $$6+24+60+\cdots+n(n+1)(n+2)=\frac{n(n+1)(n+2)(n+3)}{4}$$
  
 Izmantosim matemātiskās indukcijas metodi.
 
-$\textit{Indukcijas bāze.}$ Ja $n=1$, tad 
+*Indukcijas bāze.* Ja $n=1$, tad 
 $1 \cdot 2 \cdot 3=\frac{1 \cdot 2 \cdot 3 \cdot 4}{4}$ jeb $6=6$.
 
-$\textit{Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, 
+*Induktīvais pieņēmums.* Pieņemsim, ka vienādība izpildās, ja $n=k$, 
 tas ir,
 
 $$6+24+60+\cdots+k(k+1)(k+2)=\frac{k(k+1)(k+2)(k+3)}{4}$$
 
-$\textit{Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja 
+*Induktīvā pāreja.* Pierādīsim, ka vienādība ir spēkā arī tad, ja 
 $n=k+1$, tas ir,
 
 $$6+24+60+\cdots+(k+1)(k+2)(k+3)=\frac{(k+1)(k+2)(k+3)(k+4)}{4}$$
@@ -937,7 +937,7 @@ $$\begin{gathered}
 =\frac{(k+1)(k+2)(k+3)(k+4)}{4}
 \end{gathered}$$
 
-$\textit{Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
+*Secinājums.* Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
 vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, 
 secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
@@ -1045,7 +1045,7 @@ Apskatām atlikušās $n$ vērtības, tas ir, vērtības $1, 2, 3, 4, 5, 18$.
 Līdz ar to esam ieguvuši, ka izteiksme $n^{2}+n+19$ ir naturāla skaitļa 
 kvadrāts, ja $n$ ir $2; 5$ vai $18$.
 
-$\textit {Piezīme.}$ Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
+*Piezīme.* Otrā novērtējuma vietā var arī pārbaudīt $n$ vērtības 
 $1,2,3, \ldots, 18$.
 
 
@@ -1348,7 +1348,7 @@ ja $n>\frac{4}{3}$. Atliek aplūkot gadījumu, kad $n=1$, tad vienādojums $(1)$
 ir formā $x^{2}-x=0$ un tam ir divi atrisinājumi $x=0$ un $x=1$, kas abi ir 
 racionāli skaitļi.
 
-$\textit {Piezīme.}$ To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, 
+*Piezīme.* To, ka vienādojumam $(1)$ nav atrisinājuma, var pamatot, 
 aprēķinot diskriminantu, attiecībā pret mainīgo $x$.
 
 
