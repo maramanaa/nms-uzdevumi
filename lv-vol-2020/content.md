@@ -490,7 +490,7 @@ Pirms pirmā skaitļa $k$ ir viens vieninieks, divi divnieki, trīs trijnieki,
 
 $$1+2+\ldots+(k-1)=\frac{k^{2}-k}{2}$$
 
-skaitļi. Tātad skaitlim $k$ indeksi šajā virnē būs
+skaitļi. Tātad skaitlim $k$ indeksi šajā virknē būs
 
 $$\frac{k^{2}-k}{2}+1 ; \frac{k^{2}-k}{2}+2 ; \ldots ; \frac{k^{2}-k}{2}+k$$
 
@@ -522,7 +522,7 @@ kāpinātas pozitīvas izteiksmes), tad sākotnējā izteiksme arī ir spēkā.
 # <lo-sample/> LV.VOL.2020.11.3
 
 Četrstūris $ABCD$ ievilkts riņka līnijā. Pierādīt, ka trijstūros
-$ABC, BCD, CDA, DAB$ ievilkto riņka līniju centri ir taisnstūra virsotnes!
+$ABC, BCD, CDA, DAB$ ievilkto riņķa līniju centri ir taisnstūra virsotnes!
 
 <small>
 
@@ -551,7 +551,7 @@ uz vienu un to pašu loku, tad $\sphericalangle AYB=\sphericalangle AXB$. Tātad
 punkti $A, X, Y, B$ atrodas uz vienas riņķa līnijas. Līdz ar to
 $\sphericalangle XYB=180^{\circ}-\sphericalangle XAB=180^{\circ}-\frac{1}{2} \sphericalangle DAB$.
 
-Ja $Z$ ir $\triangle BCD$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam,
+Ja $Z$ ir $\triangle BCD$ ievilktās riņķa līnijas centrs, tad līdzīgi iegūstam,
 ka $\sphericalangle ZYB=180^{\circ}-\frac{1}{2} \sphericalangle DCB$.
 
 Izmantojot šīs divas vienādības, iegūstam
@@ -561,7 +561,7 @@ $$\begin{gathered}
 =\frac{1}{2}(\sphericalangle DAB+\sphericalangle DCB)=\frac{1}{2} \cdot 180^{\circ}=90^{\circ} .
 \end{gathered}$$
 
-Līdzīgi pierāda, ka arī pārējie četrstūra leņki ir taisni, tātad tas ir
+Līdzīgi pierāda, ka arī pārējie četrstūra leņķi ir taisni, tātad tas ir
 taisnstūris.
 
 ![](LV.VOL.2020.11.3A.png)
@@ -599,7 +599,7 @@ $$a\left(10+x_{1}\right)\left(10+x_{2}\right)=100a+10b+c=\overline{abc}$$
 Tātad esam ieguvuši, ka $\overline{abc}$ ir salikts skaitlis, kas ir pretrunā
 ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-**b)** Nē, saknes nevar būt racionāli skaitļi. Pienemsim pretējo, ka saknes
+**b)** Nē, saknes nevar būt racionāli skaitļi. Pieņemsim pretējo, ka saknes
 vienādojumam ir racionālas, tas ir,
 $-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur
 $p_{1}, q_{1}$ ir savstarpēji pirmskaitļi un arī $p_{2}, q_{2}$ ir savstarpēji
@@ -674,7 +674,7 @@ izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtiņas. Tā k
 palikušas divas iekrāsotas rūtiņas, tad pietiek izvēlēties divas kolonnas, lai
 iekrāsotās rūtiņas atrastos šajās kolonnās.
 
-Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$,
+Pamatosim, ka lielākām $N$ vērtībām īpašība nav spēkā visām tabulām. Ja $N=7$,
 tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtiņu izvietojumam. levērojam,
 ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas
 iekrāsotās rūtiņas.
@@ -739,7 +739,7 @@ punkta $x=\sqrt{k}$ un aug pa labi no tā, tas ir,
 $0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v)$ un
 $\sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$
 
-*Pierādīums.* Apskatām abus gadijumus.
+*Pierādīums.* Apskatām abus gadījumus.
 
 $$\begin{aligned}
 & f(u) > f(v) \quad \Leftrightarrow \quad \frac{k}{u}-\frac{k}{v} > v-u \Leftrightarrow \frac{k}{uv} > 1 \quad \Leftrightarrow \quad k > uv \\
@@ -751,7 +751,7 @@ Saskaņā ar Lemmu fiksētiem $y, z \in[1 ; 2020]$, funkcija
 $$F(x)=x\left(\frac{1}{y}+\frac{1}{z}\right)+\frac{1}{x}(y+z)+\frac{y}{z}+\frac{z}{y}+3$$
 
 maksimālo vērtību sasniedz intervāla galapunktā, tas ir, kad $x=1$ vai $x=2020$.
-Simetrijas dēļ las pats attiecas uz gadījumiem, kad fiksējam $x, y$ un $x, z$.
+Simetrijas dēļ tas pats attiecas uz gadījumiem, kad fiksējam $x, y$ un $x, z$.
 Tātad izteiksme $F$ maksimālo vērtību sasniedz tad, kad $x, y, z \in\{1 ; 2020\}$.
 Apskatām izteiksmes $F$ vērtību, ja $x, y, z \in\{1 ; 2020\}$.
 
@@ -787,11 +787,11 @@ Pierādīsim, ka $H$ ir riņķa līnijas $\omega$ centrs. Tā kā $AC=DM$, tad
 $\overline{CDA}=\overline{DAM}$ un $\overline{AkM}=\overline{DAM}-\overline{DA}=$ $=\overline{CDA}-\overline{DA}=\overline{CmD}$
 (skat. 8.att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad
 $AM=CD$. levērojam, ka $\sphericalangle MAC=\sphericalangle CDM$ un
-$\sphericalangle AMD=\sphericalangle DCA$ kā ievilktie leņki, kas balstās
+$\sphericalangle AMD=\sphericalangle DCA$ kā ievilktie leņķi, kas balstās
 attiecīgi uz viena un tā paša loka. Tad $\triangle AYM=\triangle DYC$ pēc
 pazīmes $\ell m \ell$ un $MY=YC$ kā atbilstošās malas. Esam ieguvuši, ka
 punkts $Y$ atrodas vienādā attālumā no nogriežņa $MC$ galapunktiem. Trijstūris
-$MXC$ ir vienādsānu, jo $\sphericalangle DCM=\sphericalangle AMC$ kā leņki,
+$MXC$ ir vienādsānu, jo $\sphericalangle DCM=\sphericalangle AMC$ kā leņķi,
 kas balstās uz vienādiem lokiem $DAM$ un $ADC$, tātad punkts $X$ atrodas
 vienādā attālumā no nogriežņa $MC$ galapunktiem. Līdz ar to $XY$ (jeb $XH$ )
 ir nogriežņa $MC$ vidusperpendikuls. levērojam, ka simetrijas dēļ $MH$ ir malu
@@ -811,7 +811,7 @@ Pitagora teorēmas $AB^{2}=AM^{2}+MB^{2}=CD^{2}+CD^{2}=2CD^{2}$.
 
 Zināms, ka četrciparu skaitlis $\overline{abcd}$ ir pirmskaitlis un ka
 vienādojumam $ax^{3}+bx^{2}+cx+d=0$ ir trīs reālas saknes. Vai var gadīties,
-ka visas šīs saknes ir **a)** veseli skaitņi, **b)** racionāli skaitļi?
+ka visas šīs saknes ir **a)** veseli skaitļi, **b)** racionāli skaitļi?
 
 <small>
 
@@ -884,7 +884,7 @@ $q_{1} q_{2} q_{3} \cdot \overline{abcd}=a\left(10 q_{1}+p_{1}\right)\left(10 q_
 nevar pastāvēt, jo kreisajā pusē ir reizinātājs $\overline{abcd}$
 (četrciparu pirmskaitlis), bet labajā pusē $a$ ir viencipara skaitlis un
 pārējie reizinātāji - divciparu. Līdz ar to dotā vienādojuma saknes nav
-racionāli skaitli.
+racionāli skaitļi.
 
 
 
@@ -929,7 +929,7 @@ $2019-68-40=1911$ ceļi uz pilsētām, kas nav ne zaļas, ne sarkanas, bet ceļu
 pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai
 $(67+40+40) \cdot 10=1470$ ceļus.
 
-Uz doto brīdi ceļu pārvalde ir nojaukusi $1470$ celus, bet $40$ sarkanās ar $40$
+Uz doto brīdi ceļu pārvalde ir nojaukusi $1470$ ceļus, bet $40$ sarkanās ar $40$
 zaļajām pilsētām kopā savieno $40 \cdot 40=1600$ ceļi, tātad vismaz $130$ no
 tiem vēl nav nojaukti. Pieņemsim, ka nav nojaukts ceļš, starp pilsētām
 $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo ceļu un
