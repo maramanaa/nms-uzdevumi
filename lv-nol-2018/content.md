@@ -5,7 +5,7 @@ $\square$ vietā, lai ir patiesa vienādība
 
 $$\frac{1}{\square}+\frac{1}{\square}+\frac{1}{\square}=1$$
 
-$\textit {Piezīme.}$ Piemēri, kas atšķiras tikai ar saskaitāmo secību, nav 
+*Piezīme.* Piemēri, kas atšķiras tikai ar saskaitāmo secību, nav 
 dažādi.
 
 <small>
@@ -73,7 +73,7 @@ Dirihlē princips.)
 Sadali 1.att. doto figūru $8$ vienādās daļās, tā, lai dalījuma līnijas ietu pa 
 rūtiņu malām!
 
-$\textit {Piezīme.}$ Daļas var būt pagrieztas vai apmestas otrādi attiecībā 
+*Piezīme.* Daļas var būt pagrieztas vai apmestas otrādi attiecībā 
 viena pret otru. Divas figūras sauc par vienādām, ja tās var uzlikt vienu uz 
 otras tā, ka abas figūras pilnīgi sakrīt.
 
@@ -114,7 +114,7 @@ Ir viens vienīgs veids, kā ierakstīt skaitļus: $7;\ 9;\ 4;\ 7;\ 9;\ 4;\ 7;\ 
 Redzams, ka katri trīs pēc kārtas esoši skaitļi ir $7,\ 9,\ 4$, kaut kādā 
 secībā, to summa ir $20$.
 
-$\textit {Piezīme.}$ Skaitļus var palīdzēt atrast tālāk aprakstītie spriedumi. 
+*Piezīme.* Skaitļus var palīdzēt atrast tālāk aprakstītie spriedumi. 
 No tā, ka $a+b+c=b+c+d$ izriet, ka $a=d$, tātad skaitļi, kas atrodas $3$ 
 pozīcijas atstatu ir vienādi. Tātad $7=c=f$ un $a=d=9$, visbeidzot $b=e$ un to 
 vērtību var atrast, izmantojot to, ka $a+b+c=20$.
@@ -666,7 +666,7 @@ tad arī trijstūris $PQT$ ir vienādsānu un $PQ=QT$.
 
 Esam ieguvuši, ka $QR=QT+TR=PQ+2$ jeb mala $QR$ ir par $2$ garāka nekā $PQ$.
 
-$\textit {Piezīme.}$ Uzdevumu var risināt arī, atliekot uz $QR$ tādu punktu 
+*Piezīme.* Uzdevumu var risināt arī, atliekot uz $QR$ tādu punktu 
 $T$, ka $PQ=QT$. Pēc tam, spriežot līdzīgi, kā dotajā risinājumā, iegūst 
 vajadzīgo.
 
@@ -715,7 +715,7 @@ mazāks nekā $1000$. Vienīgie divi skaitļi ar trīs nullēm beigās, kas maz�
 nekā $3000$, ir $1000$ un $2000$, kas nedalās ar $9$. Tāpēc summa $S$ nevar 
 beigties ar trīs nullēm.
 
-$\textit {Piezīme.}$ Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot 
+*Piezīme.* Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot 
 ar skaitļu pēdējo ciparu.
 
 
@@ -813,7 +813,7 @@ $3 \cdot 3 \cdot 3-1=26$ dažādus pusdienu komplektus.
 **pusdienās būtu aizgājuši ne vairāk kā $26$ skolēni, kas ir pretrunā ar uzdevuma**
 **nosacījumiem. Tātad noteikti ir divi skolēni, kas pasūtīja vienu un to pašu.**
 
-$\textit {Piezīme.}$ Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
+*Piezīme.* Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
 šāds spriedums: tā kā pusdienās aizgāja $30$ skolēni un $30>26$, tad pēc 
 Dirihlē principa noteikti ir divi skolēni, kas pasūtīja vienu un to pašu.
 
@@ -1013,7 +1013,7 @@ ir iespējams, ka pirmos $18$ no $26$ dažādajiem pusdienu komplektiem izvēlē
 pa $8$ skolēniem un atlikušos $8$ pusdienu komplektus - pa $7$ skolēniem (tas 
 ir, $18 \cdot 8+8 \cdot 7=200$ ).
 
-$\textit {Piezīme.}$ Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
+*Piezīme.* Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
 šāds spriedums: tā kā skolēnu skaits ir $200=7 \cdot 26+18$, tad pēc Dirihlē 
 principa noteikti ir $8$ skolēni, kas pasūtīja vienu un to pašu.
 
@@ -1045,7 +1045,7 @@ $\sphericalangle KLD=\sphericalangle KLE+\sphericalangle ELD=\sphericalangle KLE
 
 ![](LV.NOL.2018.10.3A.png)
 
-$\textit {Piezīme.}$ Iegūt prasīto var arī aprēķinot, ka 
+*Piezīme.* Iegūt prasīto var arī aprēķinot, ka 
 $KD=\sqrt{\frac{5a}{4}}$ un $KL=LD=\sqrt{\frac{5a}{8}}$, kur $a$ - kvadrāta 
 malas garums, un izmantojot Pitagora teorēmas apgriezto teorēmu.
 
@@ -1096,7 +1096,7 @@ saskaitāmais ir mazāks nekā $1\ 000\ 000$. Vienīgie divi skaitļi ar sešām
 beigās, kas mazāki nekā $3\ 000\ 000$, ir $1\ 000\ 000$ un $2\ 000\ 000$, kas 
 nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar sešām nullēm.
 
-$\textit {Piezīmes.}$ 1) Der arī $493862+511382+794756=1800000$ un 
+*Piezīmes.* 1) Der arī $493862+511382+794756=1800000$ un 
 $921478+925176+853346=2700000$. 2) Vajadzīgo piemēru var atrast, piemeklējot 
 ciparus, sākot ar skaitļu pēdējo ciparu.
 
@@ -1178,7 +1178,7 @@ x \geq \frac{505}{44} = 11 \frac{21}{44}
 
 Tā kā lapu skaits ir naturāls skaitlis, tad fotoalbumā ir $12$ lapas.
 
-$\textit {Piezīme.}$ Ja sistēmas otrā nevienādība ir $23x>482-21x$, tad iegūst,
+*Piezīme.* Ja sistēmas otrā nevienādība ir $23x>482-21x$, tad iegūst,
 ka $x=11$ vai $x=12$, bet vērtība $x=11$ neder, jo tad albumā nepaliek vismaz 
 viena tukša lapa.
 
@@ -1311,7 +1311,7 @@ $10\ 000\ 000+1\ 000\ 000+100\ 000=11\ 100\ 000$ un vienīgais skaitlis ar
 septiņām nullēm beigās, kas ir mazāks nekā $11\ 100\ 000$, ir $10\ 000\ 000$, 
 kas nedalās ar $9$. Tāpēc summa $S$ nevar beigties ar septiņām nullēm.
 
-$\textit {Piezīme.}$ Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot 
+*Piezīme.* Vajadzīgo piemēru var atrast, piemeklējot ciparus, sākot 
 ar skaitļu pēdējo ciparu.
 
 
@@ -1446,7 +1446,7 @@ jāievieto $78-8=70$ skaitļi. **Ja katrā no šīm $23$ grupām būtu ievietoti
 **noteikti ir tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie** 
 **četri skaitļi, kuru ciparu summas ir vienādas.**
 
-$\textit {Piezīme.}$ Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
+*Piezīme.* Treknrakstā izceltā teksta vietā var būt, piemēram, arī 
 šāds spriedums: tā kā $70=3 \cdot 23+1$, tad pēc Dirihlē principa noteikti ir 
 tāda grupa, kurā ir vismaz četri skaitļi - tie arī ir meklētie četri skaitļi, 
 kuru ciparu summas ir vienādas.
@@ -1485,7 +1485,7 @@ riņķa līnijas.
 
 ![](LV.NOL.2018.12.3A.png)
 
-$\textit {Piezīme.}$ Risinājumā izmantota apgrieztā teorēma par ievilktajiem 
+*Piezīme.* Risinājumā izmantota apgrieztā teorēma par ievilktajiem 
 leņķiem: ja četrstūrī $ABCD$ ir spēkā vienādība 
 $\sphericalangle ABD=\sphericalangle ACD$, tad ap četrstūri var apvilkt riņķa 
 līniju.

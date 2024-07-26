@@ -47,7 +47,7 @@ Tātad $b=\frac{1009^{2}}{a}$ un
 $y_{v_{1}}=-\frac{1009^{2}}{a}+\frac{1009^{2}}{a}=0$. Līdzīgi iegūst, ka 
 $y_{v_{2}}=0$.
 
-$\textit {Piezīme.}$ Kvadrātfunkcijas minimālo vērtību var atrast arī atdalot 
+*Piezīme.* Kvadrātfunkcijas minimālo vērtību var atrast arī atdalot 
 pilno kvadrātu:
 
 $$y=ax^{2}+2018 x+b=a\left(x^{2}+2 \cdot 1009 \cdot x \cdot \frac{1}{a}+\frac{1009^{2}}{a^{2}}\right)+b-\frac{1009^{2}}{a^{2}}=a\left(x+\frac{1009}{a}\right)^{2}+b-\frac{1009^{2}}{a^{2}}$$
@@ -294,7 +294,7 @@ $\triangle AED$, iegūstam $AD=\sqrt{AE^{2}+ED^{2}}=\sqrt{4+12}=4$.
 
 ![](LV.VOL.2018.10.2A.png)
 
-$\textit {Piezīme.}$ Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
+*Piezīme.* Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
 teorēmu trijstūrī $KAM$ :
 
 $$KM^{2}=AK^{2}+AM^{2}-2 \cdot AK \cdot AM \cdot \cos \sphericalangle KAM \quad \Rightarrow \quad KM=3 \sqrt{3}$$
@@ -307,18 +307,18 @@ trijstūris $KAM$ ir taisnleņķa.
 
 # <lo-sample/> LV.VOL.2018.10.3
 
-Skaitļus $a,\ b,\ c$ sauksim par $\textit {skaistu trijnieku}$, ja tiem piemīt 
+Skaitļus $a,\ b,\ c$ sauksim par *skaistu trijnieku*, ja tiem piemīt 
 šādas īpašības:
 
 - tie ir trīs pēc kārtas esoši naturāli skaitļi;
 - katrs no tiem dalās ar savu ciparu summu.
 
-Piemēram, $\textit {skaists trijnieks}$ ir $8,\ 9,\ 10$.
+Piemēram, *skaists trijnieks* ir $8,\ 9,\ 10$.
 
-**(A)** Atrast tādu $\textit {skaistu trijnieku}$, kurā mazākais skaitlis ir 
+**(A)** Atrast tādu *skaistu trijnieku*, kurā mazākais skaitlis ir 
 lielāks nekā $10$.
 
-**(B)** Pierādīt, ka eksistē bezgalīgi daudz $\textit {skaistu trijnieku}$!
+**(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu trijnieku*!
 
 <small>
 
@@ -329,7 +329,7 @@ lielāks nekā $10$.
 
 ## Atrisinājums
 
-**(A)** $\textit {Skaists trijnieks}$ ir, piemēram, $110$ (dalās ar $2$), $111$
+**(A)** *Skaists trijnieks* ir, piemēram, $110$ (dalās ar $2$), $111$
 (dalās ar $3$), $112$ (dalās ar $4$).
 
 **(B)** Aplūkosim skaitļus, ko iegūst no skaitļiem $110,\ 111$ un $112$, aiz 
@@ -341,7 +341,7 @@ Iegūtie skaitļi joprojām ir secīgi. Pirmā skaitļa ciparu summa ir $2$, un 
 dalās ar $2$. Otrā skaitļa ciparu summa ir $3$, tātad tas dalās ar $3$. Trešā 
 skaitļa ciparu summa ir $4$, un tas dalās ar $4$, jo tā pēdējo divu ciparu 
 veidotais skaitlis dalās ar $4$. Tā kā $n$ var būt jebkurš naturāls skaitlis, 
-tad $\textit {skaistu trijnieku}$ ir bezgalīgi daudz.
+tad *skaistu trijnieku* ir bezgalīgi daudz.
 
 
 
@@ -352,11 +352,11 @@ beidzās neizšķirti. Ir zināms, ka bija tieši viens šahists, kas neizšķir
 nospēlēja tieši vienu partiju, divi šahisti - kas nospēlēja divas, trīs 
 šahisti - kas nospēlēja trīs, un četri šahisti, kas neizšķirti nospēlēja tieši 
 četras partijas. Šos pēdējos četrus šahistus (kas katrs četras partijas 
-nospēlēja neizšķirti) sauksim par $\textit {neizšķirtu karaļiem}$, bet par 
-$\textit {karalisku neizšķirtu}$ sauksim partiju, kurā neizšķirtu izcīnija divi
-$\textit {neizšķirtu karaļi}$. Vai var apgalvot, ka tika izspēlēts **(A)** 
-vismaz viens $\textit {karaliskais neizšķirts}$, **(B)** vismaz divi 
-$\textit {karaliskie neizšķirti}$?
+nospēlēja neizšķirti) sauksim par *neizšķirtu karaļiem*, bet par 
+*karalisku neizšķirtu* sauksim partiju, kurā neizšķirtu izcīnija divi
+*neizšķirtu karaļi*. Vai var apgalvot, ka tika izspēlēts **(A)** 
+vismaz viens *karaliskais neizšķirts*, **(B)** vismaz divi 
+*karaliskie neizšķirti*?
 
 <small>
 
@@ -377,7 +377,7 @@ nevar būt tā, ka punkti $A,\ B,\ C$ un $D$ ir savienoti tikai ar atlikušajiem
 sešiem punktiem un nav savienoti savā starpā. Tātad esam ieguvuši, ka no tiem 
 šahistiem, kas neizšķirti spēlējuši tieši četras reizes, noteikti ir tādi divi,
 kas spēlējuši viens ar otru, tas ir, noteikti tika izspēlēts vismaz viens 
-$\textit {karaliskais neizšķirts}$.
+*karaliskais neizšķirts*.
 
 **(B)** Nē, skat., piemēram, 10.att.
 
@@ -540,18 +540,18 @@ $\triangle BHE$ viduslīnija. Tāpēc $BE \perp AO$.
 
 # <lo-sample/> LV.VOL.2018.11.3
 
-Skaitļus $a, b, c, d, e$ sauksim par $\textit {skaistu piecinieku}$, ja tiem 
+Skaitļus $a, b, c, d, e$ sauksim par *skaistu piecinieku*, ja tiem 
 piemīt šādas īpašības:
 
 - tie ir pieci pēc kārtas esoši naturāli skaitļi;
 - katrs no tiem dalās ar savu ciparu summu.
 
-Piemēram, $\textit {skaists piecinieks}$ ir $6,\ 7,\ 8,\ 9,\ 10$.
+Piemēram, *skaists piecinieks* ir $6,\ 7,\ 8,\ 9,\ 10$.
 
-**(A)** Atrast tādu $\textit {skaistu piecinieku}$, kurā mazākais skaitlis ir 
+**(A)** Atrast tādu *skaistu piecinieku*, kurā mazākais skaitlis ir 
 lielāks nekā $10$.
 
-**(B)** Pierādīt, ka eksistē bezgalīgi daudz $\textit {skaistu piecinieku}$!
+**(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu piecinieku*!
 
 <small>
 
@@ -562,7 +562,7 @@ lielāks nekā $10$.
 
 ## Atrisinājums
 
-**(A)** $\textit {Skaists piecinieks}$ ir, piemēram,
+**(A)** *Skaists piecinieks* ir, piemēram,
 
 - $27027024$ - ciparu summa ir $24$; tā kā šis skaitlis dalās ar $3$ (jo ciparu
   summa dalās ar $3$) un $8$ (jo pēdējo trīs ciparu veidotais skaitlis dalās ar
@@ -589,8 +589,8 @@ un ka pirmais saskaitāmais dalās ar visām iespējamām $x$ vērtībām, tas i
 $24,\ 25,\ 26,\ 27$ un $28$. Tā kā abi saskaitāmie dalās ar $x$, tad arī pats 
 skaitlis dalās ar $x$.
 
-Tā kā $n$ var būt jebkurš naturāls skaitlis, tad $\textit {skaistu piecinieku}$
-ir bezgalīgi daudz.
+Tā kā $n$ var būt jebkurš naturāls skaitlis, tad *skaistu piecinieku* ir 
+bezgalīgi daudz.
 
 
 

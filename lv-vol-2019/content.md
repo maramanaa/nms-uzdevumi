@@ -34,7 +34,7 @@ $$\frac{4a^{2}+7b^{2}}{ab}=\frac{4a^{2}+7(-2a)^{2}}{-2a^{2}}=\frac{4a^{2}+28a^{2
 Tātad izteiksmes $\frac{4a^{2}+7b^{2}}{ab}$ vērtība ir vai nu $16$ (ja 
 $a=\frac{7b}{2}$), vai $-16$ (ja $b=-2a$).
 
-$\textit {Piezīme.}$ Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
+*Piezīme.* Sakarību starp $a$ un $b$ var iegūt arī, dotās vienādības kreisās 
 puses izteiksmes skaitītāja katru saskaitāmo izdalot ar $ab$, apzīmējot 
 $\frac{a}{b}=x$ un atrisinot iegūto vienādojumu 
 $4 \frac{a}{b}-7 \frac{b}{a}=12$ jeb $4 x-\frac{7}{x}=12$.
@@ -104,7 +104,7 @@ Vai naturāla skaitļa kvadrāta ciparu summa var būt **a)** $19$, **b)** $2019
 
 **a)** Jā, var, piemēram, $17^{2}=289$ un $2+8+9=19$.
 
-$\textit {Piezīme.}$ Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
+*Piezīme.* Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
 kongruents ar $1(\bmod 9)$, tātad paši skaitļi ir $\pm 1$ $(\bmod 9)$. Der arī 
 skaitļi $26, 28, 37, 44, 53, 62, 64, 73, 82, 89, 91$, utt.
 
@@ -211,7 +211,7 @@ Visus nepāra skaitļus, kas lielāki nekā $100$, var izteikt kā summu $(3+p)$
 kur $p$ ir pāra skaitlis, kas lielāks nekā $98$, tātad $p$ ir salikts skaitlis.
 Saskaitāmie $2$ un attiecīgi $3$ ir pirmskaitļi.
 
-$\textit {Piezīme.}$ Minētā īpašība ir spēkā visiem naturāliem skaitļiem, kas 
+*Piezīme.* Minētā īpašība ir spēkā visiem naturāliem skaitļiem, kas 
 lielāki nekā $5$.
 
 
@@ -293,7 +293,7 @@ Apskatot doto izteiksmi pēc moduļa $3$, iegūstam
 $13^{n}+7^{n}+2019 \equiv 1^{n}+1^{n}+0=1+1=2(\bmod 3)$. Tātad dotā izteiksme, 
 dalot ar $3$, dod atlikumu $2$, tātad tā nevar būt naturāla skaitļa kvadrāts.
 
-$\textit {Piezīme.}$ Uzdevumu var atrisināt arī aplūkojot izteiksmi pēc jebkura
+*Piezīme.* Uzdevumu var atrisināt arī aplūkojot izteiksmi pēc jebkura
 skaitļa $3$ daudzkārtņa moduļa, tas ir, $6, 9, 12$ utt.
 
 
@@ -412,7 +412,7 @@ $9 \cdot 90=810$. Ja katrā no $100$ pilsētām būtu ne vairāk kā $8$ biroji,
 kopā būtu ne vairāk kā $8 \cdot 100=800$ biroji, bet biroju kopskaits ir vismaz
 $810$. Tātad ir tāda pilsēta, kurā ir vismaz $9$ biroji.
 
-$\textit {Piezīme.}$ Risinājumā izmantots Dirihlē princips. 
+*Piezīme.* Risinājumā izmantots Dirihlē princips. 
 
 
 
@@ -493,7 +493,7 @@ nekā $1$, tad $2^{n} \equiv 0(\bmod 4)$, un šķirojam divus gadījumus:
 Tātad dotā izteiksme, dalot ar $4$, dod atlikumu $3$, tātad tā nevar būt 
 naturāla skaitļa kvadrāts.
 
-$\textit {Piezīme.}$ Iegūt pretrunu var arī apskatot doto izteiksmi pēc moduļa 
+*Piezīme.* Iegūt pretrunu var arī apskatot doto izteiksmi pēc moduļa 
 $9$. Ja $n=1$, tad atlikums, dalot ar $9$, ir $6$, ja $n$ ir lielāks nekā $1$, 
 tad atlikums, dalot ar $9$, ir $3$, bet naturālu skaitļu kvadrātu vērtības pēc 
 moduļa $9$ var būt tikai $0, 1, 4$ vai $7$.
@@ -539,7 +539,7 @@ tad
 
 $$a_{11}=89a_{1}+55p=89 \cdot 5+55=445+55=500=100a_{1}$$
 
-$\textit {Piezīme.}$ Lai atrastu $a_{1}$ un $a_{2}$ vērtības, jāatrisina 
+*Piezīme.* Lai atrastu $a_{1}$ un $a_{2}$ vērtības, jāatrisina 
 vienādojums $89a_{1}+55p=100a_{1}$.
 
 
@@ -973,6 +973,6 @@ Ievērojot, ka $2020=2 \cdot 2 \cdot 5 \cdot 101$, iegūstam
 | $10$ | $202$ | $11$ | $203$ | $(11; 203)$ |  |
 | $20$ | $101$ | $21$ | $102$ |  | Neder, jo nav savstarpēji pirmskaitļi |
 
-$\textit {Piezīme.}$ Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 
+*Piezīme.* Skaitļu pāri $(2; 2021), (5; 506)$ un $(11; 203)$ ir vienīgie 
 derīgie.
 

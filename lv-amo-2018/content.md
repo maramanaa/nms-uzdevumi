@@ -190,7 +190,7 @@ $28=(3+10)+15$
 $29=(1+3+10)+15$  
 $30=15+15$  
 
-$\textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $15$ var izveidot jebkuru 
+*Piezīme.* Ar naudaszīmēm $1,\ 3,\ 10$ un $15$ var izveidot jebkuru 
 summu no $1$ līdz $36$. Nākamie labākie komplekti ir $1,\ 2,\ 5,\ 10$ un 
 $1,\ 2,\ 5,\ 15$, bet ar tiem var izveidot summas no $1$ līdz $27$.
 
@@ -357,7 +357,7 @@ $1,\ 2,\ 2,\ 3,\ 3$ un $4$. Visas iespējamās summas skat. tabulā.
 | $\mathbf{3}$ | $4$ | $6$ | $7$ | $8$ | $9$ | $11$ |
 | $\mathbf{4}$ | $5$ | $7$ | $8$ | $9$ | $10$ | $12$ |
 
-$\textit {Piezīme.}$ Noskaidrot, kādi skaitļi uzrakstīti uz neparastā metamā 
+*Piezīme.* Noskaidrot, kādi skaitļi uzrakstīti uz neparastā metamā 
 kauliņa skaldnēm, var palīdzēt tālāk dotie spriedumi. Ja uz viena neparastā 
 kauliņa skaldnēm uzrakstīti skaitļi $1,\ 3,\ 4,\ 5,\ 6$ un $8$, tad, lai summā 
 būtu iespējams iegūt $2$, uz otra neparastā kauliņa skaldnes noteikti jābūt 
@@ -493,7 +493,7 @@ $(n-2021)(n-2018)(n-2017)(n-2016)=2016$ būtu patiesa!
 
 Der $n=2025$, tad $4 \cdot 7 \cdot 8 \cdot 9=2016$.
 
-$\textit {Piezīme.}$ Uzdevumu palīdz atrisināt, ja ievērojam, ka starpības 
+*Piezīme.* Uzdevumu palīdz atrisināt, ja ievērojam, ka starpības 
 starp blakus esošiem reizinātājiem attiecīgi ir $3,\ 1,\ 1$ un ka skaitļi 
 $2016$ var izteikt kā $2016=4 \cdot 7 \cdot 8 \cdot 9$.
 
@@ -1155,7 +1155,7 @@ dažādus atlikumus: $0,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6$. Apskatām visus šos gadījumu
 
 Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar $252$.
 
-$\textit {Piezīme.}$ Dalāmību ar $7$ var pierādīt, arī izmantojot Mazo Fermā 
+*Piezīme.* Dalāmību ar $7$ var pierādīt, arī izmantojot Mazo Fermā 
 teorēmu: "Ja $p$ ir pirmskaitlis un $a$ nedalās ar $p$, tad $a^{p-1}-1$ dalās 
 ar $p$." Pārveidojam doto izteiksmi formā 
 $x^{8}-x^{2}=x^{2}\left(x^{6}-1\right)$. Ja $x$ dalās ar $7$, tad dotā 
@@ -1218,7 +1218,7 @@ Tad visas pārējās summas ar ne vairāk kā sešām banknotēm var iegūt kā 
 vai $x+25+25$, kur $0 \leq x<24$, izņemot summu $68$, ko var iegūt kā 
 $68=25+10+10+10+10+3$.
 
-$\textit {Piezīme.}$ Ar naudaszīmēm $1,\ 3,\ 10$ un $25$ var izveidot jebkuru 
+*Piezīme.* Ar naudaszīmēm $1,\ 3,\ 10$ un $25$ var izveidot jebkuru 
 summu no $1$ līdz $91$. Nākamais labākais komplekts ir $1,\ 2,\ 10,\ 25$, bet 
 ar to var izveidot summas no $1$ līdz $67$.
 
@@ -1246,15 +1246,15 @@ $$1^{3}+2^{3}+3^{3}+\cdots+n^{3}=\frac{n^{2}(n+1)^{2}}{4}$$
 
 Izmantosim matemātiskās indukcijas metodi.
 
-$\textit {Indukcijas bāze.}$ Ja $n=1$, tad $1^{3}=\frac{1^{2} \cdot 2^{2}}{4}$ 
+*Indukcijas bāze.* Ja $n=1$, tad $1^{3}=\frac{1^{2} \cdot 2^{2}}{4}$ 
 jeb $1=1$.
 
-$\textit {Induktīvais pieņēmums.}$ Pieņemsim, ka vienādība izpildās, ja $n=k$, 
+*Induktīvais pieņēmums.* Pieņemsim, ka vienādība izpildās, ja $n=k$, 
 tas ir,
 
 $$1^{3}+2^{3}+3^{3}+\cdots+k^{3}=\frac{k^{2}(k+1)^{2}}{4}$$
 
-$\textit {Induktīvā pāreja.}$ Pierādīsim, ka vienādība ir spēkā arī tad, ja 
+*Induktīvā pāreja.* Pierādīsim, ka vienādība ir spēkā arī tad, ja 
 $n=k+1$, tas ir,
 
 $$1^{3}+2^{3}+3^{3}+\cdots+(k+1)^{3}=\frac{(k+1)^{2}(k+2)^{2}}{4}$$
@@ -1266,7 +1266,7 @@ $$\begin{gathered}
 =\frac{k^{2}(k+1)^{2}}{4}+(k+1)^{3}=\frac{(k+1)^{2}}{4}\left(k^{2}+4(k+1)\right)=\frac{(k+1)^{2}(k+2)^{2}}{4}
 \end{gathered}$$
 
-$\textit {Secinājums.}$ Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
+*Secinājums.* Tā kā vienādība ir patiesa, ja $n=1$, un no tā, ka 
 vienādība ir spēkā, ja $n=k$, izriet, ka vienādība ir spēkā arī $n=k+1$, 
 secinām, ka vienādība ir spēkā visām naturālām $n$ vērtībām.
 
@@ -1414,7 +1414,7 @@ skaitļiem nav pāra skaitlis. Bet tad atrisinājuma nav, tātad arī gadījumam
 abiem pāru skaitļiem atrisinājuma nav. Līdz ar to esam pierādījuši, ka 
 neeksistē tādi naturāli skaitļi $m$ un $n$, lai izpildītos dotā vienādība.
 
-$\textit {Piezīme.}$ 2. atrisinājumā tika izmantota bezgalīgā kritiena metode.
+*Piezīme.* 2. atrisinājumā tika izmantota bezgalīgā kritiena metode.
 
 
 
