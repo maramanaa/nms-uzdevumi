@@ -1,6 +1,7 @@
 # <lo-sample/> LV.VOL.2020.9.1
 
-Kādām naturālām $n$ vērtībām izteiksmes $\frac{(3 n-1)(n+4)}{n+2}$ vērtība ir vesels skaitlis?
+Kādām naturālām $n$ vērtībām izteiksmes $\frac{(3n-1)(n+4)}{n+2}$ vērtība ir
+vesels skaitlis?
 
 <small>
 
@@ -14,17 +15,21 @@ Kādām naturālām $n$ vērtībām izteiksmes $\frac{(3 n-1)(n+4)}{n+2}$ vērt�
 
 Ekvivalenti pārveidojam doto izteiksmi:
 
-$$
-\frac{(3 n-1)(n+4)}{n+2}=\frac{3 n^{2}+11 n-4}{n+2}=\frac{3 n(n+2)+5 n-4}{n+2}=\frac{3 n(n+2)}{n+2}+\frac{5(n+2)-14}{n+2}=3 n+5-\frac{14}{n+2}
-$$
+$$\frac{(3n-1)(n+4)}{n+2}=\frac{3n^{2}+11n-4}{n+2}=\frac{3n(n+2)+5n-4}{n+2}=\frac{3n(n+2)}{n+2}+\frac{5(n+2)-14}{n+2}=3n+5-\frac{14}{n+2}$$
 
-Tā kā $3 n+5$ ir naturāls skaitlis, tad dotās izteiksmes vērtība būs vesels skaitlis tikai tad, ja $\frac{-14}{n+2}$ ir vesels skaitlis, bet tas iespējams, ja $(n+2)$ ir skaitla 14 dalītājs. levērojot, ka $n$ ir naturāls, iegūstam, ka $n+2=7$ vai $n+2=14$, no kā iegūstam, ka $n=5$ vai $n=12$.
+Tā kā $3n+5$ ir naturāls skaitlis, tad dotās izteiksmes vērtība būs vesels
+skaitlis tikai tad, ja $\frac{-14}{n+2}$ ir vesels skaitlis, bet tas iespējams,
+ja $(n+2)$ ir skaitla $14$ dalītājs. levērojot, ka $n$ ir naturāls, iegūstam,
+ka $n+2=7$ vai $n+2=14$, no kā iegūstam, ka $n=5$ vai $n=12$.
 
 
 
 # <lo-sample/> LV.VOL.2020.9.2
 
-Atrast visus naturālos skait|us $B$ intervālā $1<B<99$, kuriem izpildās šāda īpašība: jebkuram naturālam skaitlim $C$, kuram $B<C<100$ ir spēkā $B \leq V \leq C$, kur $V=\frac{1+B+C+100}{4}$ ir skait!u $1, B, C, 100$ vidējais aritmētiskais.
+Atrast visus naturālos skaitļus $B$ intervālā $1<B<99$, kuriem izpildās šāda
+īpašība: jebkuram naturālam skaitlim $C$, kuram $B<C<100$ ir spēkā
+$B \leq V \leq C$, kur $V=\frac{1+B+C+100}{4}$ ir skaitļu $1, B, C, 100$
+vidējais aritmētiskais.
 
 <small>
 
@@ -36,32 +41,26 @@ Atrast visus naturālos skait|us $B$ intervālā $1<B<99$, kuriem izpildās šā
 
 ## Atrisinājums
 
-Pēc dotā $1<B<C<100$. Tā kā $B<C$, tad var pieṇemt, ka $C=B+x$, kur $1 \leq x \leq 99-B$. Līdz ar to iegūstam, ka četru doto skait|u vidējais aritmētiskais ir
+Pēc dotā $1<B<C<100$. Tā kā $B<C$, tad var pieņemt, ka $C=B+x$, kur
+$1 \leq x \leq 99-B$. Līdz ar to iegūstam, ka četru doto skaitļu vidējais
+aritmētiskais ir
 
-$$
-V=\frac{1+B+B+x+100}{4}=\frac{2 B+x+101}{4}
-$$
+$$V=\frac{1+B+B+x+100}{4}=\frac{2B+x+101}{4}$$
 
-Nemot vērā, ka jāizpildās nevienādībām $B \leq V \leq C$, iegūstam
+Ņemot vērā, ka jāizpildās nevienādībām $B \leq V \leq C$, iegūstam
 
-$$
-\begin{gathered}
-B \leq \frac{2 B+x+101}{4} \leq B+x \\
-4 B \leq 2 B+x+101 \leq 4 B+4 x
-\end{gathered}
-$$
+$$\begin{gathered}
+B \leq \frac{2B+x+101}{4} \leq B+x
+4B \leq 2B+x+101 \leq 4B+4x
+\end{gathered}$$
 
 Pārrakstot iegūto divkāršo nevienādību kā nevienādību sistēmu, iegūstam
 
-$$
-\left\{\begin{array} { l } 
-{ 4 B \leq 2 B + x + 1 0 1 } \\
-{ 2 B + x + 1 0 1 \leq 4 B + 4 x }
-\end{array} \quad \text { jeb } \quad \left\{\begin{array}{l}
-2 B \leq 101+x \\
-2 B \geq 101-3 x
-\end{array}\right.\right.
-$$
+${ 4B \leq 2B + x + 1 0 1 }   
+{ 2B + x + 1 0 1 \leq 4B + 4x }$
+jeb
+$2B \leq 101+x  
+2B \geq 101-3x$
 
 Ievērojam, ja nevienādība izpildās pie $x=1$, tad tā izpildās arī pie lielākiem $x$. Tāpēc tas, ka šī nevienādība izpildās visiem $x \geq 1$ ir ekvivalents apgalvojumam, ka tā izpildās pie $x=1$. Tātad
 
@@ -81,7 +80,7 @@ Līdz ar to esam ieguvuši, ka jebkurai derīgai $C$ vērtībai ir spēkā sakar
 
 # <lo-sample/> LV.VOL.2020.9.3
 
-Punkts $R$ atrodas uz stara $O B$ un punkti $P$ un $Q$ atrodas uz stara $O A$ tā, ka $O P<O Q$ un $\Varangle O R P=\Varangle B R Q$. Leṇka $R P A$ bisektrise krusto staru $O B$ punktā $T$. Pierādīt, ka $Q T$ ir $\Varangle R Q A$ bisektrise!
+Punkts $R$ atrodas uz stara $O B$ un punkti $P$ un $Q$ atrodas uz stara $O A$ tā, ka $O P<O Q$ un $\Varangle O R P=\Varangle B R Q$. Leņka $R P A$ bisektrise krusto staru $O B$ punktā $T$. Pierādīt, ka $Q T$ ir $\Varangle R Q A$ bisektrise!
 
 <small>
 
@@ -93,12 +92,12 @@ Punkts $R$ atrodas uz stara $O B$ un punkti $P$ un $Q$ atrodas uz stara $O A$ t�
 
 ## Atrisinājums
 
-Pagarinām nogriezni $P R$, tad $\Varangle O R P=\Varangle N R B$ kā krustleṇki (skat. 1. att.) un līdz ar to arī $B R Q=\Varangle N R B$. Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā attālumā no
+Pagarinām nogriezni $P R$, tad $\Varangle O R P=\Varangle N R B$ kā krustleņki (skat. 1. att.) un līdz ar to arī $B R Q=\Varangle N R B$. Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā attālumā no
 
-- leṇk.a $N R Q$ malām $N R$ un $R Q$, tas ir, $T C=T D$;
-- leṇka $Q P R$ malām $P R$ un $P Q$, tas ir, $T C=T E$.
+- leņk.a $N R Q$ malām $N R$ un $R Q$, tas ir, $T C=T D$;
+- leņka $Q P R$ malām $P R$ un $P Q$, tas ir, $T C=T E$.
 
-Tātad $T D=T E$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leṇka $R Q A$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$ atrodas uz $\Varangle R Q A$ bisektrises jeb $Q T$ ir $\Varangle R Q A$ bisektrise.
+Tātad $T D=T E$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leņka $R Q A$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$ atrodas uz $\Varangle R Q A$ bisektrises jeb $Q T$ ir $\Varangle R Q A$ bisektrise.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-02.jpg?height=555&width=713&top_left_y=105&top_left_x=706)
 
@@ -157,7 +156,7 @@ Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no kieǵeliem, 
 
 ## Atrisinājums
 
-Pamatosim, ka prasīto nevar izdarīt. Sadalām kubu 9 mazākos kubos, kuru izmēri ir $4 \times 4 \times 4$, un iekrāsojam tos kā šaha galdinuu (skat. 2. att.). Pavisam ir $64 \cdot 14=896$ melni un $64 \cdot 13=832$ balti kubiṇi ar izmēriem $1 \times 1 \times 1$. Tā kā katrs kieǵelis pārklāj 4 melnus un 4 baltus kubinuus ar izmēriem $1 \times 1 \times 1$ (skat. 3. att.), tad, ja no šiem kiegeliem būtu salikts kubs, tas saturētu vienāda skaita melnos un baltos kubinus ar izmēriem $1 \times 1 \times 1$, bet $896 \neq 832$.
+Pamatosim, ka prasīto nevar izdarīt. Sadalām kubu 9 mazākos kubos, kuru izmēri ir $4 \times 4 \times 4$, un iekrāsojam tos kā šaha galdinuu (skat. 2. att.). Pavisam ir $64 \cdot 14=896$ melni un $64 \cdot 13=832$ balti kubiņi ar izmēriem $1 \times 1 \times 1$. Tā kā katrs kieǵelis pārklāj 4 melnus un 4 baltus kubinuus ar izmēriem $1 \times 1 \times 1$ (skat. 3. att.), tad, ja no šiem kiegeliem būtu salikts kubs, tas saturētu vienāda skaita melnos un baltos kubinus ar izmēriem $1 \times 1 \times 1$, bet $896 \neq 832$.
 
 2. att.
 3. att.
@@ -187,7 +186,7 @@ $$
 \end{aligned}
 $$
 
-Tā kā naturālam skaitlim $x=p_{1}^{k_{1}} \cdot p_{2}^{k_{2}} \cdot \ldots \cdot p_{m}^{k_{m}}$, kur $p_{i}$ ir dažādi pirmskaitli, pavisam ir $\left(k_{1}+1\right)\left(k_{2}+1\right) \ldots\left(k_{m}+1\right)$ dažādi naturālie dalītāji, tad dotajam skaitlim ir vismaz $(2+1)(1+1)(1+1)(1+1)=24$ dažādi dalītāji, pat neṇemot vērā reizinātāju $2020^{2}+2$. Patiesībā dotajam skaitlim ir 640 dažādi dalītāji.
+Tā kā naturālam skaitlim $x=p_{1}^{k_{1}} \cdot p_{2}^{k_{2}} \cdot \ldots \cdot p_{m}^{k_{m}}$, kur $p_{i}$ ir dažādi pirmskaitli, pavisam ir $\left(k_{1}+1\right)\left(k_{2}+1\right) \ldots\left(k_{m}+1\right)$ dažādi naturālie dalītāji, tad dotajam skaitlim ir vismaz $(2+1)(1+1)(1+1)(1+1)=24$ dažādi dalītāji, pat neņemot vērā reizinātāju $2020^{2}+2$. Patiesībā dotajam skaitlim ir 640 dažādi dalītāji.
 
 
 
@@ -224,7 +223,7 @@ $$
 x^{2}+2 x y+y^{2}-x y=3 \quad \Rightarrow \quad x y=(x+y)^{2}-3 \quad \Rightarrow \quad x y=t^{2}-3
 $$
 
-Sastādām kvadrātvienādojumu $a^{2}-t a+t^{2}-3=0$, kura sakṇu summa ir $a_{1}+a_{2}=t$ un sakṇu reizinājums ir $a_{1} a_{2}=t^{2}-3$. Ja šim vienādojumam ir atrisinājums dotai $t$ vērtībai, tad tā saknes ir meklētās $x$ un $y$ vērtības. Aprēkinām diskriminantu $D=(-t)^{2}-4 \cdot 1 \cdot\left(t^{2}-3\right)=12-3 t^{2}$, tā kā $-2 \leq t \leq 2$, tad $t^{2} \leq 4$, tātad visām pielaujamajām $t$ vērtībām $D \geq 0$. Tātad $-2 \leq x+y \leq 2$.
+Sastādām kvadrātvienādojumu $a^{2}-t a+t^{2}-3=0$, kura sakņu summa ir $a_{1}+a_{2}=t$ un sakņu reizinājums ir $a_{1} a_{2}=t^{2}-3$. Ja šim vienādojumam ir atrisinājums dotai $t$ vērtībai, tad tā saknes ir meklētās $x$ un $y$ vērtības. Aprēkinām diskriminantu $D=(-t)^{2}-4 \cdot 1 \cdot\left(t^{2}-3\right)=12-3 t^{2}$, tā kā $-2 \leq t \leq 2$, tad $t^{2} \leq 4$, tātad visām pielaujamajām $t$ vērtībām $D \geq 0$. Tātad $-2 \leq x+y \leq 2$.
 
 <small>
 
@@ -252,7 +251,7 @@ Lai pēdējā vienādība būtu patiesa, tad $-1 \leq u \leq 1$. Tā kā $x+y=(u
 
 # <lo-sample/> LV.VOL.2020.10.3
 
-Taisnlenka trijstūrī $A B C$, kurā $\Varangle A B C=90^{\circ}$, novilkts augstums $B D$, nogriežṇa $B D$ viduspunkts ir $E$. Punkti $F$ un $G$ ir attiecīgi nogriežṇu $A D$ un $C D$ viduspunkti. Pierādīt, ka $\Varangle A E C+\Varangle F B G=180^{\circ}$.
+Taisnlenka trijstūrī $A B C$, kurā $\Varangle A B C=90^{\circ}$, novilkts augstums $B D$, nogriežņa $B D$ viduspunkts ir $E$. Punkti $F$ un $G$ ir attiecīgi nogriežņu $A D$ un $C D$ viduspunkti. Pierādīt, ka $\Varangle A E C+\Varangle F B G=180^{\circ}$.
 
 <small>
 
@@ -428,7 +427,7 @@ $$
 k \leq \sqrt{k^{2}-k+2 i}+\frac{1}{2}<k+1
 $$
 
-Atṇemot $\frac{1}{2}$ un kāpinot kvadrātā, iegūstam
+Atņemot $\frac{1}{2}$ un kāpinot kvadrātā, iegūstam
 
 $$
 \begin{gathered}
@@ -443,7 +442,7 @@ Redzams, ka pēdējā nevienādība ir patiesa visiem $1 \leq i \leq k$. Tā kā
 
 # <lo-sample/> LV.VOL.2020.11.3
 
-Četrstūris $A B C D$ ievilkts riṇka līnijā. Pierādīt, ka trijstūros $A B C, B C D, C D A, D A B$ ievilkto riṇka līniju centri ir taisnstūra virsotnes!
+Četrstūris $A B C D$ ievilkts riņka līnijā. Pierādīt, ka trijstūros $A B C, B C D, C D A, D A B$ ievilkto riņka līniju centri ir taisnstūra virsotnes!
 
 <small>
 
@@ -469,7 +468,7 @@ Līdzīgi $\Varangle A X B=90^{\circ}+\frac{1}{2} \Varangle A D B$.
 
 Tā kā $\Varangle A C B=\Varangle A D B$ kā ievilktie lenki, kas balstās uz vienu un to pašu loku, tad $\Varangle A Y B=\Varangle A X B$. Tātad punkti $A, X, Y, B$ atrodas uz vienas rinka līnijas. Līdz ar to $\Varangle X Y B=180^{\circ}-\Varangle X A B=180^{\circ}-\frac{1}{2} \Varangle D A B$.
 
-Ja $Z$ ir $\triangle B C D$ ievilktās riṇka līnijas centrs, tad līdzīgi iegūstam, ka $\Varangle Z Y B=180^{\circ}-\frac{1}{2} \Varangle D C B$.
+Ja $Z$ ir $\triangle B C D$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam, ka $\Varangle Z Y B=180^{\circ}-\frac{1}{2} \Varangle D C B$.
 
 Izmantojot šīs divas vienādības, iegūstam
 
@@ -480,7 +479,7 @@ $$
 \end{gathered}
 $$
 
-Līdzīgi pierāda, ka arī pārējie četrstūra leṇki ir taisni, tātad tas ir taisnstūris.
+Līdzīgi pierāda, ka arī pārējie četrstūra leņki ir taisni, tātad tas ir taisnstūris.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-06.jpg?height=454&width=462&top_left_y=586&top_left_x=823)
 
@@ -508,13 +507,13 @@ $$
 a x^{2}+b x+c=a\left(x+x_{1}\right)\left(x+x_{2}\right)
 $$
 
-Pieṇemsim, ka šīs saknes ir veseli skaitḷi. Ja $x=10$, tad iegūstam
+Pieņemsim, ka šīs saknes ir veseli skaitḷi. Ja $x=10$, tad iegūstam
 
 $$
 a\left(10+x_{1}\right)\left(10+x_{2}\right)=100 a+10 b+c=\overline{a b c}
 $$
 
-Tātad esam ieguvuši, ka $\overline{a b c}$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakṇu.
+Tātad esam ieguvuši, ka $\overline{a b c}$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
 b) Nē, saknes nevar būt racionāli skaitḷi. Pienemsim pretējo, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur $p_{1}, q_{1}$ ir savstarpēji pirmskaitli un arī $p_{2}, q_{2}$ ir savstarpēji pirmskaitli. Sadalām vienādojuma kreiso pusi reizinātājos:
 
@@ -541,7 +540,7 @@ q(c q+b p)=-a p^{2}
 \end{gathered}
 $$
 
-Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieṇēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
+Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieņēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
 
 Līdz ar to secinām, ka $q_{i}$ ir viencipara skaitlis, jo $a$ ir cipars.
 
@@ -565,11 +564,11 @@ Atrast lielāko naturālo skaitli $N$, kuram ir spēkā īpašība: lai kuras $N
 
 ## Atrisinājums
 
-Lielākā $N$ vērtība ir 6. Pamatosim, ja iekrāsotas 6 rūtinas, tad jebkuram krāsojumam izpildās uzdevuma nosacījumi. Ja kādā rindā ir vairāk nekā divas iekrāsotas rūtinas, tad izvēlamies šo rindu un vēl kādu rindu, kurā ir kāda iekrāsota rūtina. Tātad izvēlētajās divās rindās jau ir vismaz četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēlēties divas kolonnas, lai iekrāsotās rūtiṇas atrastos šajās kolonnās.
+Lielākā $N$ vērtība ir 6. Pamatosim, ja iekrāsotas 6 rūtinas, tad jebkuram krāsojumam izpildās uzdevuma nosacījumi. Ja kādā rindā ir vairāk nekā divas iekrāsotas rūtinas, tad izvēlamies šo rindu un vēl kādu rindu, kurā ir kāda iekrāsota rūtina. Tātad izvēlētajās divās rindās jau ir vismaz četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēlēties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās kolonnās.
 
-Ja nevienā rindā nav vairāk kā divas iekrāsotas rūtiṇas, tad pēc Dirihlē principa divas iekrāsotas rūtinas ir vismaz divās rindās. Izvēlamies šīs divas (vai divas no trim, ja trīs rindās ir pa divām iekrāsotām rūtiṇām) rindas. Tad izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēēeties divas kolonnas, lai iekrāsotās rūtiṇas atrastos šajās kolonnās.
+Ja nevienā rindā nav vairāk kā divas iekrāsotas rūtiņas, tad pēc Dirihlē principa divas iekrāsotas rūtinas ir vismaz divās rindās. Izvēlamies šīs divas (vai divas no trim, ja trīs rindās ir pa divām iekrāsotām rūtiņām) rindas. Tad izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēēeties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās kolonnās.
 
-Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$, tad īpašība nav spēkā, piemēram, 7. att. dotajam rūtinuu izvietojumam. levērojam, ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas iekrāsotās rūtiṇas.
+Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$, tad īpašība nav spēkā, piemēram, 7. att. dotajam rūtinuu izvietojumam. levērojam, ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas iekrāsotās rūtiņas.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-07.jpg?height=237&width=215&top_left_y=1193&top_left_x=955)
 
@@ -638,7 +637,7 @@ $$
 \end{aligned}
 $$
 
-Saskaṇā ar Lemmu fiksētiem $y, z \in[1 ; 2020]$, funkcija
+Saskaņā ar Lemmu fiksētiem $y, z \in[1 ; 2020]$, funkcija
 
 $$
 F(x)=x\left(\frac{1}{y}+\frac{1}{z}\right)+\frac{1}{x}(y+z)+\frac{y}{z}+\frac{z}{y}+3
@@ -660,7 +659,7 @@ Līdz ar to dotās izteiksmes vislielākā vērtība ir $\frac{4041 \cdot 2022}{
 
 # <lo-sample/> LV.VOL.2020.12.3
 
-Riṇka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir garākā pamata $A B$ viduspunkts. Punkts $M$ ir viduspunkts tam lokam $A B$, kas nesatur punktus $C$ un $D$. Taisnes $C D$ un $A M$ krustojas punktā $X$. Zināms, ka nogriežņi $H X, D M$ un $A C$ krustojas vienā punktā $Y$ un $D M=A C$. Pierādīt, ka $A B^{2}=2 C D^{2}$.
+Riņka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir garākā pamata $A B$ viduspunkts. Punkts $M$ ir viduspunkts tam lokam $A B$, kas nesatur punktus $C$ un $D$. Taisnes $C D$ un $A M$ krustojas punktā $X$. Zināms, ka nogriežņi $H X, D M$ un $A C$ krustojas vienā punktā $Y$ un $D M=A C$. Pierādīt, ka $A B^{2}=2 C D^{2}$.
 
 <small>
 
@@ -672,9 +671,9 @@ Riṇka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir
 
 ## Atrisinājums
 
-Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8. att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\Varangle M A C=\Varangle C D M$ un $\Varangle A M D=\Varangle D C A$ kā ievilktie leṇki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežṇa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\Varangle D C M=\Varangle A M C$ kā leṇki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežṇa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežṇa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
+Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8. att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\Varangle M A C=\Varangle C D M$ un $\Varangle A M D=\Varangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\Varangle D C M=\Varangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
 
-Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleṇka trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
+Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleņka trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-08.jpg?height=500&width=638&top_left_y=1555&top_left_x=771)
 
@@ -702,15 +701,15 @@ $$
 a x^{3}+b x^{2}+c x+d=a\left(x+x_{1}\right)\left(x+x_{2}\right)\left(x+x_{3}\right)
 $$
 
-Pieṇemsim, ka vienādojuma saknes ir veseli skaitli. Ja $x=10$, tad iegūstam
+Pieņemsim, ka vienādojuma saknes ir veseli skaitli. Ja $x=10$, tad iegūstam
 
 $$
 a\left(10+x_{1}\right)\left(10+x_{2}\right)\left(10+x_{3}\right)=1000 a+100 b+10 c+d=\overline{a b c d}
 $$
 
-Tātad esam ieguvuši, ka $\overline{a b c} d$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakṇu.
+Tātad esam ieguvuši, ka $\overline{a b c} d$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-b) Nē, saknes nevar būt racionāli skaitli. Pieṇemsim, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam daḷas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitḷi. Pārveidojam vienādojuma kreisās puses izteiksmi:
+b) Nē, saknes nevar būt racionāli skaitli. Pieņemsim, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam daḷas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitḷi. Pārveidojam vienādojuma kreisās puses izteiksmi:
 
 $$
 a x^{3}+b x^{2}+c x+d=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)\left(x+\frac{p_{3}}{q_{3}}\right)=\frac{a}{q_{1} q_{2} q_{3}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)\left(q_{3} x+p_{3}\right)
@@ -742,7 +741,7 @@ q\left(b p^{2}+c q p+d q^{2}\right)=-a p^{3}
 \end{gathered}
 $$
 
-Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieṇēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
+Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieņēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
 
 Līdz ar to secinām, ka $q_{i}$ ir viencipara skaitlis, jo $a$ ir cipars.
 
@@ -754,7 +753,7 @@ Tātad vienādība $q_{1} q_{2} q_{3} \cdot \overline{a b c d}=a\left(10 q_{1}+p
 
 # <lo-sample/> LV.VOL.2020.12.5
 
-Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceḷu, celi ārpus pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceḷu pārvaldi spēlē šādu spēli: katru dienu biznesmenis privatizē vienu celu, bet celu pārvalde nojauc desmit neprivatizētus celus. Pierādīt, ka biznesmenis var panākt, ka pēc kāda laika viṇam pieder ciklisks celu maršruts kas iet caur tieši 70 pilsētām, katrā iegriežoties tieši vienu reizi!
+Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceḷu, celi ārpus pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceḷu pārvaldi spēlē šādu spēli: katru dienu biznesmenis privatizē vienu celu, bet celu pārvalde nojauc desmit neprivatizētus celus. Pierādīt, ka biznesmenis var panākt, ka pēc kāda laika viņam pieder ciklisks celu maršruts kas iet caur tieši 70 pilsētām, katrā iegriežoties tieši vienu reizi!
 
 <small>
 
@@ -776,7 +775,7 @@ Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsēt
 
 Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{68}$ un iet uz pilsētām $D_{1}, D_{2}, \ldots, D_{40}$, kas nav ne zalas, ne sarkanas. To noteikti var izdarīt, jo no pilsētas $A_{68}$ iziet $2019-68-40=1911$ ceḷi uz pilsētām, kas nav ne zaḷas, ne sarkanas, bet ceḷu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40+40) \cdot 10=1470$ celus.
 
-Uz doto brīdi ceḷu pārvalde ir nojaukusi 1470 celus, bet 40 sarkanās ar 40 zalajām pilsētām kopā savieno $40 \cdot 40=1600$ ceḷi, tātad vismaz 130 no tiem vēl nav nojaukti. Pienemsim, ka nav nojaukts celšs, starp pilsētām $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo celu un viṇš būs ieguvis ciklisku maršrutu caur 70 pilsētām (skat. 10. att.).
+Uz doto brīdi ceḷu pārvalde ir nojaukusi 1470 celus, bet 40 sarkanās ar 40 zalajām pilsētām kopā savieno $40 \cdot 40=1600$ ceḷi, tātad vismaz 130 no tiem vēl nav nojaukti. Pienemsim, ka nav nojaukts celšs, starp pilsētām $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo celu un viņš būs ieguvis ciklisku maršrutu caur 70 pilsētām (skat. 10. att.).
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-10.jpg?height=399&width=335&top_left_y=1389&top_left_x=922)
 
