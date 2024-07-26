@@ -338,7 +338,7 @@ Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100s_{k}+37$. Patiešām, skai
 pareizinot ar $100$ tam tiek galā pierakstītas divas nulles, bet pieskaitot
 $37$ šīs nulles pārvēršas par $37$, tātad šī operācija pieraksta skaitļa galā
 $37$. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar $17$,
-$a_{k}=s_{k}$ $mod 17$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
+$a_{k}=s_{k}$ $\pmod {17}$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
 nulles.
 
 Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs
