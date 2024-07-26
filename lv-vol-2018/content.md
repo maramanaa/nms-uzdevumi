@@ -47,7 +47,7 @@ Tātad $b=\frac{1009^{2}}{a}$ un
 $y_{v_{1}}=-\frac{1009^{2}}{a}+\frac{1009^{2}}{a}=0$. Līdzīgi iegūst, ka 
 $y_{v_{2}}=0$.
 
-$\textit {Piezīme.}$ Kvadrātfunkcijas minimālo vērtību var atrast arī atdalot 
+*Piezīme.* Kvadrātfunkcijas minimālo vērtību var atrast arī atdalot 
 pilno kvadrātu:
 
 $$y=ax^{2}+2018 x+b=a\left(x^{2}+2 \cdot 1009 \cdot x \cdot \frac{1}{a}+\frac{1009^{2}}{a^{2}}\right)+b-\frac{1009^{2}}{a^{2}}=a\left(x+\frac{1009}{a}\right)^{2}+b-\frac{1009^{2}}{a^{2}}$$
@@ -294,8 +294,8 @@ $\triangle AED$, iegūstam $AD=\sqrt{AE^{2}+ED^{2}}=\sqrt{4+12}=4$.
 
 ![](LV.VOL.2018.10.2A.png)
 
-$\textit {Piezīme.}$ Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
-teorēmu trijstūrī $KAM$ :
+*Piezīme.* Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
+teorēmu trijstūrī $KAM$:
 
 $$KM^{2}=AK^{2}+AM^{2}-2 \cdot AK \cdot AM \cdot \cos \sphericalangle KAM \quad \Rightarrow \quad KM=3 \sqrt{3}$$
 
@@ -345,7 +345,7 @@ Iegūtie skaitļi joprojām ir secīgi. Pirmā skaitļa ciparu summa ir $2$, un 
 dalās ar $2$. Otrā skaitļa ciparu summa ir $3$, tātad tas dalās ar $3$. Trešā 
 skaitļa ciparu summa ir $4$, un tas dalās ar $4$, jo tā pēdējo divu ciparu 
 veidotais skaitlis dalās ar $4$. Tā kā $n$ var būt jebkurš naturāls skaitlis, 
-tad $\textit {skaistu trijnieku}$ ir bezgalīgi daudz.
+tad *skaistu trijnieku* ir bezgalīgi daudz.
 
 
 ## Atrisinājums 
@@ -376,11 +376,11 @@ beidzās neizšķirti. Ir zināms, ka bija tieši viens šahists, kas neizšķir
 nospēlēja tieši vienu partiju, divi šahisti - kas nospēlēja divas, trīs 
 šahisti - kas nospēlēja trīs, un četri šahisti, kas neizšķirti nospēlēja tieši 
 četras partijas. Šos pēdējos četrus šahistus (kas katrs četras partijas 
-nospēlēja neizšķirti) sauksim par $\textit {neizšķirtu karaļiem}$, bet par 
-$\textit {karalisku neizšķirtu}$ sauksim partiju, kurā neizšķirtu izcīnija divi
-$\textit {neizšķirtu karaļi}$. Vai var apgalvot, ka tika izspēlēts **(A)** 
-vismaz viens $\textit {karaliskais neizšķirts}$, **(B)** vismaz divi 
-$\textit {karaliskie neizšķirti}$?
+nospēlēja neizšķirti) sauksim par *neizšķirtu karaļiem*, bet par 
+*karalisku neizšķirtu* sauksim partiju, kurā neizšķirtu izcīnija divi
+*neizšķirtu karaļi*. Vai var apgalvot, ka tika izspēlēts **(A)** 
+vismaz viens *karaliskais neizšķirts*, **(B)** vismaz divi 
+*karaliskie neizšķirti*?
 
 <small>
 
@@ -401,7 +401,7 @@ nevar būt tā, ka punkti $A,\ B,\ C$ un $D$ ir savienoti tikai ar atlikušajiem
 sešiem punktiem un nav savienoti savā starpā. Tātad esam ieguvuši, ka no tiem 
 šahistiem, kas neizšķirti spēlējuši tieši četras reizes, noteikti ir tādi divi,
 kas spēlējuši viens ar otru, tas ir, noteikti tika izspēlēts vismaz viens 
-$\textit {karaliskais neizšķirts}$.
+*karaliskais neizšķirts*.
 
 **(B)** Nē, skat., piemēram, 10.att.
 
@@ -615,7 +615,7 @@ un ka pirmais saskaitāmais dalās ar visām iespējamām $x$ vērtībām, tas i
 $24,\ 25,\ 26,\ 27$ un $28$. Tā kā abi saskaitāmie dalās ar $x$, tad arī pats 
 skaitlis dalās ar $x$.
 
-Tā kā $n$ var būt jebkurš naturāls skaitlis, tad $\textit {skaistu piecinieku}$
+Tā kā $n$ var būt jebkurš naturāls skaitlis, tad *skaistu piecinieku*
 ir bezgalīgi daudz.
 
 
