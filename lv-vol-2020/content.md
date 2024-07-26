@@ -684,8 +684,9 @@ iekrāsotās rūtiņas.
 
 # <lo-sample/> LV.VOL.2020.12.1
 
-G̣eometriskās progresijas pirmais, desmitais un $2020~\mathrm{-ais}$ loceklis ir naturāls
-skaitlis. Vai noteikti arī tās $2019$ -ais loceklis ir naturāls skaitlis?
+G̣eometriskās progresijas pirmais, desmitais un $2020~\mathrm{-ais}$ loceklis ir
+naturāls skaitlis. Vai noteikti arī tās $2019~\mathrm{-ais}$ loceklis ir
+naturāls skaitlis?
 
 <small>
 
@@ -697,17 +698,20 @@ skaitlis. Vai noteikti arī tās $2019$ -ais loceklis ir naturāls skaitlis?
 
 ## Atrisinājums
 
-Nē, 2019-ais loceklis var nebūt naturāls skaitlis, piemēram, ja $b_{1}=1 \in \mathbb{N}$ un $q=\sqrt[3]{2}$, tad
+Nē, $2019~\mathrm{-ais}$ loceklis var nebūt naturāls skaitlis, piemēram,
+ja $b_{1}=1 \in \mathbb{N}$ un $q=\sqrt[3]{2}$, tad
 
 - $b_{10}=b_{1} \cdot q^{9}=(\sqrt[3]{2})^{9}=2^{3}=8 \in \mathbb{N}$,
 - $b_{2020}=b_{1} \cdot q^{2019}=(\sqrt[3]{2})^{2019}=2^{673} \in \mathbb{N}$,
-- $b_{2019}=b_{1} \cdot q^{2018}=(\sqrt[3]{2})^{2016} \cdot(\sqrt[3]{2})^{2}=2^{672} \cdot \sqrt[3]{4}$, kas nav naturāls skaitlis.
+- $b_{2019}=b_{1} \cdot q^{2018}=(\sqrt[3]{2})^{2016} \cdot(\sqrt[3]{2})^{2}=2^{672} \cdot \sqrt[3]{4}$,
+  kas nav naturāls skaitlis.
 
 
 
 # <lo-sample/> LV.VOL.2020.12.2
 
-Noteikt izteiksmes $(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)$ vislielāko un vismazāko vēttību, ja $1 \leq x, y, z \leq 2020$.
+Noteikt izteiksmes $(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)$
+vislielāko un vismazāko vērtību, ja $1 \leq x, y, z \leq 2020$.
 
 <small>
 
@@ -719,54 +723,54 @@ Noteikt izteiksmes $(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)$ vis
 
 ## Atrisinājums
 
-Pārveidojam doto izteiksmi un lietojam nevienādību $\frac{a}{b}+\frac{b}{a} \geq 2$ :
+Pārveidojam doto izteiksmi un lietojam nevienādību
+$\frac{a}{b}+\frac{b}{a} \geq 2$ :
 
-$$
-(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)=3+\frac{x}{y}+\frac{y}{x}+\frac{x}{z}+\frac{z}{x}+\frac{y}{z}+\frac{z}{y} \geq 3+2+2+2=9
-$$
+$$(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right)=3+\frac{x}{y}+\frac{y}{x}+\frac{x}{z}+\frac{z}{x}+\frac{y}{z}+\frac{z}{y} \geq 3+2+2+2=9$$
 
-Tātad dotās izteiksmes mazākā vērtība ir 9 un to var iegūt, ja $x=y=z$.
+Tātad dotās izteiksmes mazākā vērtība ir $9$ un to var iegūt, ja $x=y=z$.
 
 Lai atrastu izteiksmes $F$ maksimālo vērtību, vispirms pierādīsim lemmu.
 
-Lemma. Funkcija $f(x)=x+\frac{k}{x}, k>0$, dilst pa kreisi no tās minimuma punkta $x=\sqrt{k}$ un aug pa labi no tā, tas ir,
+Lemma. Funkcija $f(x)=x+\frac{k}{x}, k > 0$, dilst pa kreisi no tās minimuma
+punkta $x=\sqrt{k}$ un aug pa labi no tā, tas ir,
 
-$$
-0<u<v \leq \sqrt{k} \Rightarrow f(u)>f(v) \text { un } \sqrt{k} \leq u<v \Rightarrow f(u)<f(v)
-$$
+$$0 < u < v \leq \sqrt{k} \Rightarrow f(u) > f(v) \text { un } \sqrt{k} \leq u < v \Rightarrow f(u) < f(v)$$
 
-Pierādīums. Apskatām abus gadijumus.
+*Pierādīums.* Apskatām abus gadijumus.
 
-$$
-\begin{aligned}
-& f(u)>f(v) \quad \Leftrightarrow \quad \frac{k}{u}-\frac{k}{v}>v-u \Leftrightarrow \frac{k}{u v}>1 \quad \Leftrightarrow \quad k>u v \\
-& f(u)<f(v) \Leftrightarrow \frac{k}{u}-\frac{k}{v}<v-u \Leftrightarrow \frac{k}{u v}<1 \quad \Leftrightarrow \quad k<u v
-\end{aligned}
-$$
+$$\begin{aligned}
+& f(u) > f(v) \quad \Leftrightarrow \quad \frac{k}{u}-\frac{k}{v} > v-u \Leftrightarrow \frac{k}{uv} > 1 \quad \Leftrightarrow \quad k > uv \\
+& f(u) < f(v) \Leftrightarrow \frac{k}{u}-\frac{k}{v} < v-u \Leftrightarrow \frac{k}{uv} < 1 \quad \Leftrightarrow \quad k < uv
+\end{aligned}$$
 
 Saskaņā ar Lemmu fiksētiem $y, z \in[1 ; 2020]$, funkcija
 
-$$
-F(x)=x\left(\frac{1}{y}+\frac{1}{z}\right)+\frac{1}{x}(y+z)+\frac{y}{z}+\frac{z}{y}+3
-$$
+$$F(x)=x\left(\frac{1}{y}+\frac{1}{z}\right)+\frac{1}{x}(y+z)+\frac{y}{z}+\frac{z}{y}+3$$
 
-maksimālo vērtību sasniedz intervāla galapunktā, tas ir, kad $x=1$ vai $x=2020$. Simetrijas dē las pats attiecas uz gadījumiem, kad fiksējam $x, y$ un $x, z$. Tātad izteiksme $F$ maksimālo vērtību sasniedz tad, kad $x, y, z \in\{1 ; 2020\}$. Apskatām izteiksmes $F$ vērtību, ja $x, y, z \in\{1 ; 2020\}$ :
+maksimālo vērtību sasniedz intervāla galapunktā, tas ir, kad $x=1$ vai $x=2020$.
+Simetrijas dēļ las pats attiecas uz gadījumiem, kad fiksējam $x, y$ un $x, z$.
+Tātad izteiksme $F$ maksimālo vērtību sasniedz tad, kad $x, y, z \in\{1 ; 2020\}$.
+Apskatām izteiksmes $F$ vērtību, ja $x, y, z \in\{1 ; 2020\}$.
 
-$$
-\begin{aligned}
-& \quad x=y=z=1 \text { vai } x=y=z=2020, \operatorname{tad} F(x ; x ; x)=9 \\
-& \quad x=y=1 \text { un } z=2020, \operatorname{tad} F(1 ; 1 ; 2020)=2022 \cdot 2 \frac{1}{2020}=\frac{2022 \cdot 4041}{2020} \\
-& \quad x=y=2020 \text { un } z=1, \operatorname{tad} F(2020 ; 2020 ; 1)=4041 \cdot 1 \frac{2}{2020}=\frac{4041 \cdot 2022}{2020}
-\end{aligned}
-$$
+$$\begin{aligned}
+& \quad x=y=z=1 \text { vai } x=y=z=2020, \operatorname{tad} F(x ;x ;x)=9 \\
+& \quad x=y=1 \text { un } z=2020, \operatorname{tad} F(1 ;1 ;2020)=2022 \cdot 2 \frac{1}{2020}=\frac{2022 \cdot 4041}{2020} \\
+& \quad x=y=2020 \text { un } z=1, \operatorname{tad} F(2020 ;2020 ;1)=4041 \cdot 1 \frac{2}{2020}=\frac{4041 \cdot 2022}{2020}
+\end{aligned}$$
 
-Līdz ar to dotās izteiksmes vislielākā vērtība ir $\frac{4041 \cdot 2022}{2020}$.
+Līdz ar to dotās izteiksmes vislielākā vērtība ir
+$\frac{4041 \cdot 2022}{2020}$.
 
 
 
 # <lo-sample/> LV.VOL.2020.12.3
 
-Riņka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir garākā pamata $A B$ viduspunkts. Punkts $M$ ir viduspunkts tam lokam $A B$, kas nesatur punktus $C$ un $D$. Taisnes $C D$ un $A M$ krustojas punktā $X$. Zināms, ka nogriežņi $H X, D M$ un $A C$ krustojas vienā punktā $Y$ un $D M=A C$. Pierādīt, ka $A B^{2}=2 C D^{2}$.
+Riņka līnijā $\omega$ ievilkta vienādsānu trapece $ABCD$, punkts $H$ ir garākā
+pamata $AB$ viduspunkts. Punkts $M$ ir viduspunkts tam lokam $AB$, kas nesatur
+punktus $C$ un $D$. Taisnes $CD$ un $AM$ krustojas punktā $X$. Zināms, ka
+nogriežņi $HX, DM$ un $AC$ krustojas vienā punktā $Y$ un $DM=AC$. Pierādīt, ka
+$AB^{2}=2CD^{2}$.
 
 <small>
 
@@ -778,19 +782,35 @@ Riņka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir 
 
 ## Atrisinājums
 
-Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8.att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\sphericalangle M A C=\sphericalangle C D M$ un $\sphericalangle A M D=\sphericalangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\sphericalangle D C M=\sphericalangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
+Pierādīsim, ka $H$ ir riņķa līnijas $\omega$ centrs. Tā kā $AC=DM$, tad
+$\overline{CDA}=\overline{DAM}$ un $\overline{AkM}=\overline{DAM}-\overline{DA}=$ $=\overline{CDA}-\overline{DA}=\overline{CmD}$
+(skat. 8.att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad
+$AM=CD$. levērojam, ka $\sphericalangle MAC=\sphericalangle CDM$ un
+$\sphericalangle AMD=\sphericalangle DCA$ kā ievilktie leņki, kas balstās
+attiecīgi uz viena un tā paša loka. Tad $\triangle AYM=\triangle DYC$ pēc
+pazīmes $\ell m \ell$ un $MY=YC$ kā atbilstošās malas. Esam ieguvuši, ka
+punkts $Y$ atrodas vienādā attālumā no nogriežņa $MC$ galapunktiem. Trijstūris
+$MXC$ ir vienādsānu, jo $\sphericalangle DCM=\sphericalangle AMC$ kā leņki,
+kas balstās uz vienādiem lokiem $DAM$ un $ADC$, tātad punkts $X$ atrodas
+vienādā attālumā no nogriežņa $MC$ galapunktiem. Līdz ar to $XY$ (jeb $XH$ )
+ir nogriežņa $MC$ vidusperpendikuls. levērojam, ka simetrijas dēļ $MH$ ir malu
+$AB$ un $CD$ vidusperpendikuls. Tā kā četrstūris $DAMC$ ir ievilkts četrstūris,
+tad tam apvilktās riņķa līnijas centrs atrodas malu vidusperpendikulu
+krustpunktā, līdz ar to punkts $H$ ir riņķa līnijas $\omega$ centrs.
 
-Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleņķa trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
+Tā kā punkts $M$ ir mazākā loka $AB$ viduspunkts, tad $AM=MB$. Trijstūris
+$AMB$ ir vienādsānu taisnleņķa trijstūris, jo balstās uz diametra $AB$, tad pēc
+Pitagora teorēmas $AB^{2}=AM^{2}+MB^{2}=CD^{2}+CD^{2}=2CD^{2}$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-08.jpg?height=500&width=638&top_left_y=1555&top_left_x=771)
-
-8.att.
+![](LV.VOL.2020.12.3A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.12.4
 
-Zināms, ka četrciparu skaitlis $\overline{a b c d}$ ir pirmskaitlis un ka vienādojumam $a x^{3}+b x^{2}+c x+d=0$ ir trīs reālas saknes. Vai var gadīties, ka visas šīs saknes ir a) veseli skaitli, b) racionāli skaitlli?
+Zināms, ka četrciparu skaitlis $\overline{abcd}$ ir pirmskaitlis un ka
+vienādojumam $ax^{3}+bx^{2}+cx+d=0$ ir trīs reālas saknes. Vai var gadīties,
+ka visas šīs saknes ir **a)** veseli skaitņi, **b)** racionāli skaitļi?
 
 <small>
 
@@ -802,65 +822,79 @@ Zināms, ka četrciparu skaitlis $\overline{a b c d}$ ir pirmskaitlis un ka vien
 
 ## Atrisinājums
 
-a) Nē, saknes nevar būt veseli skaitli. levērojam, ka $d \neq 0$, jo pretējā gadījumā $\overline{a b c d}$ nav pirmskaitlis. Tas nozīmē, ka 0 nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{3}+b x^{2}+c x+d \geq d>0$. Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar $-x_{1},-x_{2},-x_{3}$ un sadalot kreisās puses izteiksmi reizinātājos, iegūstam
+**a)** Nē, saknes nevar būt veseli skaitļi. levērojam, ka $d \neq 0$, jo
+pretējā gadījumā $\overline{abcd}$ nav pirmskaitlis. Tas nozīmē, ka $0$ nav
+vienādojuma sakne. Ja $x \geq 0$, tad $ax^{3}+bx^{2}+cx+d \geq d > 0$. Tātad
+vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar
+$-x_{1},-x_{2},-x_{3}$ un sadalot kreisās puses izteiksmi reizinātājos,
+iegūstam
 
-$$
-a x^{3}+b x^{2}+c x+d=a\left(x+x_{1}\right)\left(x+x_{2}\right)\left(x+x_{3}\right)
-$$
+$$ax^{3}+bx^{2}+cx+d=a\left(x+x_{1}\right)\left(x+x_{2}\right)\left(x+x_{3}\right)$$
 
-Pieņemsim, ka vienādojuma saknes ir veseli skaitli. Ja $x=10$, tad iegūstam
+Pieņemsim, ka vienādojuma saknes ir veseli skaitļi. Ja $x=10$, tad iegūstam
 
-$$
-a\left(10+x_{1}\right)\left(10+x_{2}\right)\left(10+x_{3}\right)=1000 a+100 b+10 c+d=\overline{a b c d}
-$$
+$$a\left(10+x_{1}\right)\left(10+x_{2}\right)\left(10+x_{3}\right)=1000a+100 b+10c+d=\overline{abcd}$$
 
-Tātad esam ieguvuši, ka $\overline{a b c} d$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
+Tātad esam ieguvuši, ka $\overline{abc} d$ ir salikts skaitlis, kas ir
+pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-b) Nē, saknes nevar būt racionāli skaitli. Pieņemsim, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam daļas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitļi. Pārveidojam vienādojuma kreisās puses izteiksmi:
+**b)** Nē, saknes nevar būt racionāli skaitļi. Pieņemsim, ka saknes
+vienādojumam ir racionālas, tas ir,
+$-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam
+daļas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitļi.
+Pārveidojam vienādojuma kreisās puses izteiksmi:
 
-$$
-a x^{3}+b x^{2}+c x+d=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)\left(x+\frac{p_{3}}{q_{3}}\right)=\frac{a}{q_{1} q_{2} q_{3}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)\left(q_{3} x+p_{3}\right)
-$$
+$$ax^{3}+bx^{2}+cx+d=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)\left(x+\frac{p_{3}}{q_{3}}\right)=\frac{a}{q_{1} q_{2} q_{3}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)\left(q_{3} x+p_{3}\right)$$
 
 levietojot $x=10$, iegūstam
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 \frac{a}{q_{1} q_{2} q_{3}}\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)\left(10 q_{3}+p_{3}\right)= \\
 =1000 a+100\left(\frac{p_{1}}{q_{1}}+\frac{p_{2}}{q_{2}}+\frac{p_{3}}{q_{3}}\right)+10\left(\frac{p_{1}}{q_{1}} \cdot \frac{p_{2}}{q_{2}}+\frac{p_{1}}{q_{1}} \cdot \frac{p_{3}}{q_{3}}+\frac{p_{2}}{q_{2}} \cdot \frac{p_{3}}{q_{3}}\right)+\frac{p_{1}}{q_{1}} \cdot \frac{p_{2}}{q_{2}} \cdot \frac{p_{3}}{q_{3}}= \\
 =1000 a+100 b+10 c+d=\overline{a b c d} .
-\end{gathered}
-$$
+\end{gathered}$$
 
 Reizinot abas puses ar $q_{1} q_{2} q_{3} \neq 0$, iegūstam
 
-$$
-q_{1} q_{2} q_{3} \cdot \overline{a b c d}=a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)\left(10 q_{3}+p_{3}\right)
-$$
+$$q_{1} q_{2} q_{3} \cdot \overline{abcd}=a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)\left(10 q_{3}+p_{3}\right)$$
 
-Pamatosim, ja vienādojuma $a x^{3}+b x^{2}+c x+d=0$ sakne ir $\frac{p}{q}$ (nesaīsināma dala), tad $a$ dalās ar $q$. levietojam vienādojumā $a x^{3}+b x^{2}+c x+d=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto identitāti:
+Pamatosim, ja vienādojuma $ax^{3}+bx^{2}+cx+d=0$ sakne ir $\frac{p}{q}$
+(nesaīsināma daļa), tad $a$ dalās ar $q$. levietojam vienādojumā
+$ax^{3}+bx^{2}+cx+d=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto
+identitāti:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 a\left(\frac{p}{p}\right)^{3}+b\left(\frac{p}{q}\right)^{2}+c\left(\frac{p}{q}\right)+d=0 \\
-a p^{3}+b p^{2} q+c q^{2} p+d q^{3}=0 \\
-q\left(b p^{2}+c q p+d q^{2}\right)=-a p^{3}
-\end{gathered}
-$$
+ap^{3}+bp^{2}q+cq^{2}p+d q^{3}=0 \\
+q\left(bp^{2}+cqp+dq^{2}\right)=-ap^{3}
+\end{gathered}$$
 
-Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieņēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
+Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses
+izteiksmei jādalās ar $q$. Ņemot vērā, ka pēc pieņēmuma $p$ un $q$ ir
+savstarpēji pirmskaitļi, secinām, ka $a$ ir jādalās ar $q$.
 
 Līdz ar to secinām, ka $q_{i}$ ir viencipara skaitlis, jo $a$ ir cipars.
 
-Analogi iegūst, ka $c$ dalās ar $p_{i}$. Tas nozīmē, ka $10 q_{i}+p_{i}$ ir divciparu skaitlis.
+Analogi iegūst, ka $c$ dalās ar $p_{i}$. Tas nozīmē, ka $10 q_{i}+p_{i}$ ir
+divciparu skaitlis.
 
-Tātad vienādība $q_{1} q_{2} q_{3} \cdot \overline{a b c d}=a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)\left(10 q_{3}+p_{3}\right)$ nevar pastāvēt, jo kreisajā pusē ir reizinātājs $\overline{a b c d}$ (četrciparu pirmskaitlis), bet labajā pusē $a$ ir viencipara skaitlis un pārējie reizinātāji - divciparu. Līdz ar to dotā vienādojuma saknes nav racionāli skaitli.
+Tātad vienādība
+$q_{1} q_{2} q_{3} \cdot \overline{abcd}=a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)\left(10 q_{3}+p_{3}\right)$
+nevar pastāvēt, jo kreisajā pusē ir reizinātājs $\overline{abcd}$
+(četrciparu pirmskaitlis), bet labajā pusē $a$ ir viencipara skaitlis un
+pārējie reizinātāji - divciparu. Līdz ar to dotā vienādojuma saknes nav
+racionāli skaitli.
 
 
 
 # <lo-sample/> LV.VOL.2020.12.5
 
-Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceļu, celi ārpus pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceļu pārvaldi spēlē šādu spēli: katru dienu biznesmenis privatizē vienu celu, bet celu pārvalde nojauc desmit neprivatizētus celus. Pierādīt, ka biznesmenis var panākt, ka pēc kāda laika viņam pieder ciklisks celu maršruts kas iet caur tieši 70 pilsētām, katrā iegriežoties tieši vienu reizi!
+Kādā valstī ir $2020$ pilsētas, katra ar katru ir savienota ar ceļu, ceļi ārpus
+pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceļu pārvaldi spēlē
+šādu spēli: katru dienu biznesmenis privatizē vienu ceļu, bet ceļu pārvalde
+nojauc desmit neprivatizētus ceļus. Pierādīt, ka biznesmenis var panākt, ka
+pēc kāda laika viņam pieder ciklisks ceļu maršruts kas iet caur tieši $70$
+pilsētām, katrā iegriežoties tieši vienu reizi!
 
 <small>
 
@@ -872,17 +906,33 @@ Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceļu, celi ār
 
 ## Atrisinājums
 
-Vispirms biznesmenis sev var izveidot celu virkni no 67 celiem caur kādām pilsētām $A_{1}-A_{2}-A_{3}-\ldots-A_{67}-A_{68}$. To noteikti var izdarī, jo pat pēc pēdējā gājiena ceļu pārvalde ir nojaukusi tikai $67 \cdot 10=670$ celus, bet no katras pilsētas iziet 2019 ceļi. Nosauksim pilsētas $A_{1}, A_{2}, \ldots, A_{68}$ par zalām.
+Vispirms biznesmenis sev var izveidot ceļu virkni no $67$ ceļiem caur kādām
+pilsētām $A_{1}-A_{2}-A_{3}-\ldots-A_{67}-A_{68}$. To noteikti var izdarīt, jo
+pat pēc pēdējā gājiena ceļu pārvalde ir nojaukusi tikai $67 \cdot 10=670$ ceļus,
+bet no katras pilsētas iziet $2019$ ceļi. Nosauksim pilsētas
+$A_{1}, A_{2}, \ldots, A_{68}$ par zaļām.
 
-Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{1}$ un iet uz pilsētām $S_{1}, S_{2}, \ldots, S_{40}$ (skat. 9.att.), kas nav zalas. To noteikti var izdarī, jo no pilsētas $A_{1}$ iziet $2019-68=1951$ celš uz pilsētām, kas nav zaļas, bet ceļu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40) \cdot 10=1070$ celus. Nosauksim pilsētas $S_{1}, \ldots, S_{40}$ par sarkanām.
+Nākamajā etapā biznesmenis var sev privatizēt $40$ ceļus, kas iziet no pilsētas
+$A_{1}$ un iet uz pilsētām $S_{1}, S_{2}, \ldots, S_{40}$ (skat. 9.att.), kas
+nav zaļas. To noteikti var izdarīt, jo no pilsētas $A_{1}$ iziet $2019-68=1951$
+ceļš uz pilsētām, kas nav zaļas, bet ceļu pārvalde pat pēdējā gājienā kopā ir
+nojaukusi tikai $(67+40) \cdot 10=1070$ ceļus. Nosauksim pilsētas
+$S_{1}, \ldots, S_{40}$ par sarkanām.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-10.jpg?height=262&width=1418&top_left_y=658&top_left_x=381)
+![](LV.VOL.2020.12.5A.png)
 
-9.att.
+Nākamajā etapā biznesmenis var sev privatizēt $40$ ceļus, kas iziet no pilsētas
+$A_{68}$ un iet uz pilsētām $D_{1}, D_{2}, \ldots, D_{40}$, kas nav ne zaļas,
+ne sarkanas. To noteikti var izdarīt, jo no pilsētas $A_{68}$ iziet
+$2019-68-40=1911$ ceļi uz pilsētām, kas nav ne zaļas, ne sarkanas, bet ceļu
+pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai
+$(67+40+40) \cdot 10=1470$ ceļus.
 
-Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{68}$ un iet uz pilsētām $D_{1}, D_{2}, \ldots, D_{40}$, kas nav ne zalas, ne sarkanas. To noteikti var izdarīt, jo no pilsētas $A_{68}$ iziet $2019-68-40=1911$ ceļi uz pilsētām, kas nav ne zaļas, ne sarkanas, bet ceļu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40+40) \cdot 10=1470$ celus.
+Uz doto brīdi ceļu pārvalde ir nojaukusi $1470$ celus, bet $40$ sarkanās ar $40$
+zaļajām pilsētām kopā savieno $40 \cdot 40=1600$ ceļi, tātad vismaz $130$ no
+tiem vēl nav nojaukti. Pieņemsim, ka nav nojaukts ceļš, starp pilsētām
+$S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo ceļu un
+viņš būs ieguvis ciklisku maršrutu caur $70$ pilsētām (skat. 10.att.).
 
-Uz doto brīdi ceļu pārvalde ir nojaukusi 1470 celus, bet 40 sarkanās ar 40 zalajām pilsētām kopā savieno $40 \cdot 40=1600$ ceļi, tātad vismaz 130 no tiem vēl nav nojaukti. Pienemsim, ka nav nojaukts celšs, starp pilsētām $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo celu un viņš būs ieguvis ciklisku maršrutu caur 70 pilsētām (skat. 10.att.).
-
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-10.jpg?height=399&width=335&top_left_y=1389&top_left_x=922)
+![](LV.VOL.2020.12.5B.png)
 
