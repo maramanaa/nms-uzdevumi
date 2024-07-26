@@ -426,12 +426,18 @@ levērojam, ka $m \neq$ 2019$ . Lai funkcija būtu augoša, jāizpildās
 nevienādībai $f(1) < f(2)$. Atrisinām šo nevienādību:
 
 $$\begin{aligned}
-m+(m-1)+\frac{2020}{m-2019} & < 4 m+(m-1) \cdot 2+\frac{2020}{m-2019} \\
+m+(m-1)+\frac{2020}{m-2019} & < 4m+(m-1) \cdot 2+\frac{2020}{m-2019} \\
 2m-1 & < 6m-2 \\
 m & >\frac{1}{4}
 \end{aligned}$$
 
-Vēl jāgarantē, ka parabolas virsotne neatrodas intervālā $(1 ; 2)$. Tā kā $m$ vērtības ir pozitīvas, tad parabolas zari ir vērsti uz augšu un, lai dotajā intervālā funkcija būtu augoša, jāizpildās nevienādībai $x_{v} \leq 1$ jeb $\frac{1-m}{2 m} \leq 1$. Reizinot nevienādību ar $2 m>0$, iegūstam $1-m \leq 2 m$ jeb $m \geq \frac{1}{3}$. Līdz ar to funkcija ir augoša intervālā $(1 ; 2)$, ja $m \in\left[\frac{1}{3} ; 2019\right) \cup$ $\cup(2019 ;+\infty)$ .
+Vēl jāgarantē, ka parabolas virsotne neatrodas intervālā $(1 ; 2)$. Tā kā $m$
+vērtības ir pozitīvas, tad parabolas zari ir vērsti uz augšu un, lai dotajā
+intervālā funkcija būtu augoša, jāizpildās nevienādībai
+$x_{v} \leq 1$ jeb $\frac{1-m}{2m} \leq 1$. Reizinot nevienādību ar $2m > 0$,
+iegūstam $1-m \leq 2m$ jeb $m \geq \frac{1}{3}$. Līdz ar to funkcija ir augoša
+intervālā $(1; 2)$, ja
+$m \in\left[\frac{1}{3} ; 2019\right) \cup$ $\cup(2019 ;+\infty)$ .
 
 <small>
 
@@ -443,15 +449,28 @@ Vēl jāgarantē, ka parabolas virsotne neatrodas intervālā $(1 ; 2)$. Tā kā
 
 ## Atrisinājums
 
-levērojam, ka $m \neq 2019$. Ja $m<0$, tad parabolas virsotnes abscisa $\frac{1-m}{2 m}<0$, kas nozīmē, ka funkcija nav augoša dotajā intervālā. Ja $m=0$, tad iegūstam $f(x)=-x-\frac{2020}{2019}$ un tā ir dilstoša funkcija. Ja $m>0$, tad parabolas zari ir vērsti uz augšu un, lai dotajā intervālā funkcija būtu augoša, jāizpildās nevienādībai $\frac{1-m}{2 m} \leq 1$. Reizinot nevienādību ar $2 m>0$, iegūstam $1-m \leq 2 m$ jeb $m \geq \frac{1}{3}$. Līdz ar to funkcija ir augoša intervālā $(1 ; 2)$, ja $m \in\left[\frac{1}{3} ; 2019\right) \cup(2019 ;+\infty)$.
+levērojam, ka $m \neq 2019$. Ja $m<0$, tad parabolas virsotnes abscisa
+$\frac{1-m}{2m}<0$, kas nozīmē, ka funkcija nav augoša dotajā intervālā.
+Ja $m=0$, tad iegūstam $f(x)=-x-\frac{2020}{2019}$ un tā ir dilstoša funkcija.
+Ja $m>0$, tad parabolas zari ir vērsti uz augšu un, lai dotajā intervālā
+funkcija būtu augoša, jāizpildās nevienādībai $\frac{1-m}{2m} \leq 1$.
+Reizinot nevienādību ar $2m>0$, iegūstam
+$1-m \leq 2 m$ jeb $m \geq \frac{1}{3}$. Līdz ar to funkcija ir augoša
+intervālā $(1; 2)$, ja
+$m \in\left[\frac{1}{3} ; 2019\right) \cup(2019 ;+\infty)$.
 
 
 
 # <lo-sample/> LV.VOL.2020.11.2
 
-Aplūkojam virkni $1 ; 2 ; 2 ; 3 ; 3 ; 3 ; 4 ; 4 ; 4 ; 4 ; 5 ; 5 ; 5 ; 5 ; 5 ; 6 ; 6 ; 6 ; 6 ; 6 ; 6 ; \ldots$, kurā katrs naturālais skaitlis $k$ tiek atkārtots $k$ reizes. Pierādīt, ka šīs virknes $n$-to locekli var aprēkināt pēc formulas $\left[\sqrt{2 n}+\frac{1}{2}\right]$.
+Aplūkojam virkni
+$1 ; 2 ; 2 ; 3 ; 3 ; 3 ; 4 ; 4 ; 4 ; 4 ; 5 ; 5 ; 5 ; 5 ; 5 ; 6 ; 6 ; 6 ; 6 ; 6 ; 6 ; \ldots$,
+kurā katrs naturālais skaitlis $k$ tiek atkārtots $k$ reizes. Pierādīt, ka šīs
+virknes $n$-to locekli var aprēķināt pēc formulas
+$\left[\sqrt{2n}+\frac{1}{2}\right]$.
 
-$\operatorname{Ar}[x]$ apzīmējam skaitļa veselo daļu, tas ir, lielāko veselo skaitli, kas nepārsniedz $x$. Piemēram, $[3,1]=3,[17]=17$, $[6,99]=6$.
+Ar $[x]$ apzīmējam skaitļa veselo daļu, tas ir, lielāko veselo skaitli, kas
+nepārsniedz $x$. Piemēram, $[3,1]=3,[17]=17$, $[6,99]=6$.
 
 <small>
 
@@ -463,48 +482,46 @@ $\operatorname{Ar}[x]$ apzīmējam skaitļa veselo daļu, tas ir, lielāko vesel
 
 ## Atrisinājums
 
-Katrs naturāls skaitlis $k$ dotajā virknē atkārtojas $k$ reizes, noskaidrosim, ar kādiem indeksiem (kurās pozīcijās) tas tajā parādās.
+Katrs naturāls skaitlis $k$ dotajā virknē atkārtojas $k$ reizes, noskaidrosim,
+ar kādiem indeksiem (kurās pozīcijās) tas tajā parādās.
 
-Pirms pirmā skaitla $k$ ir viens vieninieks, divi divnieki, trīs trijnieki, ..., $(k-1)$ skaitlis $(k-1)$, tātad kopā
+Pirms pirmā skaitļa $k$ ir viens vieninieks, divi divnieki, trīs trijnieki,
+..., $(k-1)$ skaitlis $(k-1)$, tātad kopā
 
-$$
-1+2+\ldots+(k-1)=\frac{k^{2}-k}{2}
-$$
+$$1+2+\ldots+(k-1)=\frac{k^{2}-k}{2}$$
 
-skaitli. Tātad skaitlim $k$ indeksi šajā virnē būs
+skaitļi. Tātad skaitlim $k$ indeksi šajā virnē būs
 
-$$
-\frac{k^{2}-k}{2}+1 ; \frac{k^{2}-k}{2}+2 ; \ldots ; \frac{k^{2}-k}{2}+k
-$$
+$$\frac{k^{2}-k}{2}+1 ; \frac{k^{2}-k}{2}+2 ; \ldots ; \frac{k^{2}-k}{2}+k$$
 
-jeb, citiem vārdiem sakot, jebkurš skaitlis $k$ šajā virknē parādās ar indeksu $\frac{k^{2}-k}{2}+i$, kur $1 \leq i \leq k$. Lai pierādītu formulu, jāpierāda, ka visiem naturāliem $k$ un visiem naturāliem $1 \leq i \leq k$ izpildās
+jeb, citiem vārdiem sakot, jebkurš skaitlis $k$ šajā virknē parādās ar indeksu
+$\frac{k^{2}-k}{2}+i$, kur $1 \leq i \leq k$. Lai pierādītu formulu, jāpierāda,
+ka visiem naturāliem $k$ un visiem naturāliem $1 \leq i \leq k$ izpildās
 
-$$
-\left[\sqrt{2\left(\frac{k^{2}-k}{2}+i\right)}+\frac{1}{2}\right]=k \quad \text { jeb } \quad\left[\sqrt{k^{2}-k+2 i}+\frac{1}{2}\right]=k
-$$
+$$\left[\sqrt{2\left(\frac{k^{2}-k}{2}+i\right)}+\frac{1}{2}\right]=k \quad \text { jeb } \quad\left[\sqrt{k^{2}-k+2 i}+\frac{1}{2}\right]=k$$
 
-Vienādība $[x]=y$, kur $y$ ir naturāls skaitlis izpildās tad un tikai tad, ja $y \leq x<y+1$, tāpēc vienādība pārvēršas par divkāršo nevienādību
+Vienādība $[x]=y$, kur $y$ ir naturāls skaitlis izpildās tad un tikai tad, ja
+$y \leq x < y+1$, tāpēc vienādība pārvēršas par divkāršo nevienādību
 
-$$
-k \leq \sqrt{k^{2}-k+2 i}+\frac{1}{2}<k+1
-$$
+$$k \leq \sqrt{k^{2}-k+2 i}+\frac{1}{2} < k+1$$
 
 Atņemot $\frac{1}{2}$ un kāpinot kvadrātā, iegūstam
 
-$$
-\begin{gathered}
-\left(k-\frac{1}{2}\right)^{2} \leq k^{2}-k+2 i<\left(k+\frac{1}{2}\right)^{2} \\
-\frac{1}{4} \leq 2 i<2 k+\frac{1}{4}
-\end{gathered}
-$$
+$$\begin{gathered}
+\left(k-\frac{1}{2}\right)^{2} \leq k^{2}-k+2i < \left(k+\frac{1}{2}\right)^{2} \\
+\frac{1}{4} \leq 2i < 2k+\frac{1}{4}
+\end{gathered}$$
 
-Redzams, ka pēdējā nevienādība ir patiesa visiem $1 \leq i \leq k$. Tā kā visi pārveidojumi bija ekvivalenti (kvadrātā tika kāpinātas pozitīvas izteiksmes), tad sākotnējā izteiksme arī ir spēkā.
+Redzams, ka pēdējā nevienādība ir patiesa visiem
+$1 \leq i \leq k$. Tā kā visi pārveidojumi bija ekvivalenti (kvadrātā tika
+kāpinātas pozitīvas izteiksmes), tad sākotnējā izteiksme arī ir spēkā.
 
 
 
 # <lo-sample/> LV.VOL.2020.11.3
 
-Četrstūris $A B C D$ ievilkts riņka līnijā. Pierādīt, ka trijstūros $A B C, B C D, C D A, D A B$ ievilkto riņka līniju centri ir taisnstūra virsotnes!
+Četrstūris $ABCD$ ievilkts riņka līnijā. Pierādīt, ka trijstūros
+$ABC, BCD, CDA, DAB$ ievilkto riņka līniju centri ir taisnstūra virsotnes!
 
 <small>
 
@@ -516,42 +533,45 @@ Redzams, ka pēdējā nevienādība ir patiesa visiem $1 \leq i \leq k$. Tā kā
 
 ## Atrisinājums
 
-Ja $X$ un $Y$ ir attiecīgi $\triangle A B D$ un $\triangle A B C$ ievilkto rinka līniju centri (skat. 6.att.), tad $A Y$ un $B Y$ ir attiecīgi $\sphericalangle B A C$ un $\sphericalangle A B C$ bisektrises. Tātad
+Ja $X$ un $Y$ ir attiecīgi $\triangle ABD$ un $\triangle ABC$ ievilkto riņķa
+līniju centri (skat. 6.att.), tad $AY$ un $BY$ ir attiecīgi
+$\sphericalangle BAC$ un $\sphericalangle ABC$ bisektrises. Tātad
 
-$$
-\begin{gathered}
-\sphericalangle A Y B=180^{\circ}-(\sphericalangle B A Y+\sphericalangle A B Y)=180^{\circ}-\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C)= \\
-=\sphericalangle B A C+\sphericalangle A B C+\sphericalangle A C B-\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C)= \\
-=\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C+\sphericalangle A C B)+\frac{1}{2} \sphericalangle A C B=90^{\circ}+\frac{1}{2} \sphericalangle A C B .
-\end{gathered}
-$$
+$$\begin{gathered}
+\sphericalangle AYB=180^{\circ}-(\sphericalangle BAY+\sphericalangle ABY)=180^{\circ}-\frac{1}{2}(\sphericalangle BAC+\sphericalangle ABC)= \\
+=\sphericalangle BAC+\sphericalangle ABC+\sphericalangle ACB-\frac{1}{2}(\sphericalangle BAC+\sphericalangle ABC)= \\
+=\frac{1}{2}(\sphericalangle BAC+\sphericalangle ABC+\sphericalangle ACB)+\frac{1}{2} \sphericalangle ACB=90^{\circ}+\frac{1}{2} \sphericalangle ACB .
+\end{gathered}$$
 
-Līdzīgi $\sphericalangle A X B=90^{\circ}+\frac{1}{2} \sphericalangle A D B$.
+Līdzīgi $\sphericalangle AXB=90^{\circ}+\frac{1}{2} \sphericalangle ADB$.
 
-Tā kā $\sphericalangle A C B=\sphericalangle A D B$ kā ievilktie lenki, kas balstās uz vienu un to pašu loku, tad $\sphericalangle A Y B=\sphericalangle A X B$. Tātad punkti $A, X, Y, B$ atrodas uz vienas rinka līnijas. Līdz ar to $\sphericalangle X Y B=180^{\circ}-\sphericalangle X A B=180^{\circ}-\frac{1}{2} \sphericalangle D A B$.
+Tā kā $\sphericalangle ACB=\sphericalangle ADB$ kā ievilktie leņķi, kas balstās
+uz vienu un to pašu loku, tad $\sphericalangle AYB=\sphericalangle AXB$. Tātad
+punkti $A, X, Y, B$ atrodas uz vienas riņķa līnijas. Līdz ar to
+$\sphericalangle XYB=180^{\circ}-\sphericalangle XAB=180^{\circ}-\frac{1}{2} \sphericalangle DAB$.
 
-Ja $Z$ ir $\triangle B C D$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam, ka $\sphericalangle Z Y B=180^{\circ}-\frac{1}{2} \sphericalangle D C B$.
+Ja $Z$ ir $\triangle BCD$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam,
+ka $\sphericalangle ZYB=180^{\circ}-\frac{1}{2} \sphericalangle DCB$.
 
 Izmantojot šīs divas vienādības, iegūstam
 
-$$
-\begin{gathered}
-\sphericalangle X Y Z=360^{\circ}-\sphericalangle X Y B-\sphericalangle Z Y B=360^{\circ}-\left(180^{\circ}-\frac{1}{2} \sphericalangle D A B\right)-\left(180^{\circ}-\frac{1}{2} \sphericalangle D C B\right)= \\
-=\frac{1}{2}(\sphericalangle D A B+\sphericalangle D C B)=\frac{1}{2} \cdot 180^{\circ}=90^{\circ} .
-\end{gathered}
-$$
+$$\begin{gathered}
+\sphericalangle XYZ=360^{\circ}-\sphericalangle XYB-\sphericalangle ZYB=360^{\circ}-\left(180^{\circ}-\frac{1}{2} \sphericalangle DAB\right)-\left(180^{\circ}-\frac{1}{2} \sphericalangle DCB\right)= \\
+=\frac{1}{2}(\sphericalangle DAB+\sphericalangle DCB)=\frac{1}{2} \cdot 180^{\circ}=90^{\circ} .
+\end{gathered}$$
 
-Līdzīgi pierāda, ka arī pārējie četrstūra leņki ir taisni, tātad tas ir taisnstūris.
+Līdzīgi pierāda, ka arī pārējie četrstūra leņki ir taisni, tātad tas ir
+taisnstūris.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-06.jpg?height=454&width=462&top_left_y=586&top_left_x=823)
-
-6.att.
+![](LV.VOL.2020.11.3A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.11.4
 
-Zināms, ka trīsciparu skaitlis $\overline{a b c}$ ir pirmskaitlis un ka vienādojumam $a x^{2}+b x+c=0$ ir divas reālas saknes. Vai var gadīties, ka šīs saknes ir a) veseli skaitli, b) racionāli skaitlii?
+Zināms, ka trīsciparu skaitlis $\overline{abc}$ ir pirmskaitlis un ka
+vienādojumam $ax^{2}+bx+c=0$ ir divas reālas saknes. Vai var gadīties, ka šīs
+saknes ir **a)** veseli skaitļi, **b)** racionāli skaitļi?
 
 <small>
 
@@ -563,58 +583,70 @@ Zināms, ka trīsciparu skaitlis $\overline{a b c}$ ir pirmskaitlis un ka vienā
 
 ## Atrisinājums
 
-a) Nē, saknes nevar būt veseli skaitļi. levērojam, ka $c \neq 0$, jo pretējā gadījumā $\overline{a b c}$ nav pirmskaitlis. Tas nozīmē, ka 0 nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{2}+b x+c \geq c>0$. Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar $-x_{1},-x_{2}$ un sadalot kreisās puses izteiksmi reizinātājos, iegūstam
+**a)** Nē, saknes nevar būt veseli skaitļi. levērojam, ka
+$c \neq 0$, jo pretējā gadījumā $\overline{abc}$ nav pirmskaitlis. Tas nozīmē,
+ka $0$ nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{2}+b x+c \geq c>0$.
+Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar
+$-x_{1},-x_{2}$ un sadalot kreisās puses izteiksmi reizinātājos, iegūstam
 
-$$
-a x^{2}+b x+c=a\left(x+x_{1}\right)\left(x+x_{2}\right)
-$$
+$$ax^{2}+bx+c=a\left(x+x_{1}\right)\left(x+x_{2}\right)$$
 
 Pieņemsim, ka šīs saknes ir veseli skaitļi. Ja $x=10$, tad iegūstam
 
-$$
-a\left(10+x_{1}\right)\left(10+x_{2}\right)=100 a+10 b+c=\overline{a b c}
-$$
+$$a\left(10+x_{1}\right)\left(10+x_{2}\right)=100a+10b+c=\overline{abc}$$
 
-Tātad esam ieguvuši, ka $\overline{a b c}$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
+Tātad esam ieguvuši, ka $\overline{abc}$ ir salikts skaitlis, kas ir pretrunā
+ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-b) Nē, saknes nevar būt racionāli skaitļi. Pienemsim pretējo, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur $p_{1}, q_{1}$ ir savstarpēji pirmskaitli un arī $p_{2}, q_{2}$ ir savstarpēji pirmskaitli. Sadalām vienādojuma kreiso pusi reizinātājos:
+**b)** Nē, saknes nevar būt racionāli skaitļi. Pienemsim pretējo, ka saknes
+vienādojumam ir racionālas, tas ir,
+$-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur
+$p_{1}, q_{1}$ ir savstarpēji pirmskaitļi un arī $p_{2}, q_{2}$ ir savstarpēji
+pirmskaitļi. Sadalām vienādojuma kreiso pusi reizinātājos:
 
-$$
-a x^{2}+b x+c=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)=\frac{a}{q_{1} q_{2}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)
-$$
+$$ax^{2}+bx+c=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)=\frac{a}{q_{1} q_{2}}\left(q_{1}x+p_{1}\right)\left(q_{2}x+p_{2}\right)$$
 
 Ievietojot $x=10$, iegūstam
 
-$$
-\begin{gathered}
-\frac{a}{q_{1} q_{2}}\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)=100 a+10\left(\frac{p_{1}}{q_{1}}+\frac{p_{2}}{q_{2}}\right)+\frac{p_{1} p_{2}}{q_{1} q_{2}}=100 a+10 b+c=\overline{a b c} \\
-a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)=\overline{a b c} \cdot q_{1} q_{2}
-\end{gathered}
-$$
+$$\begin{gathered}
+\frac{a}{q_{1}q_{2}}\left(10q_{1}+p_{1}\right)\left(10q_{2}+p_{2}\right)=100a+10\left(\frac{p_{1}}{q_{1}}+\frac{p_{2}}{q_{2}}\right)+\frac{p_{1}p_{2}}{q_{1}q_{2}}=100a+10b+c=\overline{abc} \\
+a\left(10q_{1}+p_{1}\right)\left(10q_{2}+p_{2}\right)=\overline{abc} \cdot q_{1}q_{2}
+\end{gathered}$$
 
-Pamatosim, ja kvadrātvienādojuma $a x^{2}+b x+c=0$ sakne ir $\frac{p}{q}$ (nesaīsināma daļa), tad $a$ dalās ar $q$. levietojam vienādojumā $a x^{2}+b x+c=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto identitāti:
+Pamatosim, ja kvadrātvienādojuma $ax^{2}+bx+c=0$ sakne ir $\frac{p}{q}$
+(nesaīsināma daļa), tad $a$ dalās ar $q$. levietojam vienādojumā
+$ax^{2}+bx+c=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto identitāti:
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 a\left(\frac{p}{q}\right)^{2}+b\left(\frac{p}{q}\right)+c=0 \\
-a p^{2}+b p q+c q^{2}=0 \\
-q(c q+b p)=-a p^{2}
-\end{gathered}
-$$
+ap^{2}+bpq+cq^{2}=0 \\
+q(cq+bp)=-ap^{2}
+\end{gathered}$$
 
-Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses izteiksmei jādalās ar $q$. Nemot vērā, ka pēc pieņēmuma $p$ un $q$ ir savstarpēji pirmskaitli, secinām, ka $a$ ir jādalās ar $q$.
+Tā kā pēdējās vienādības kreisā puse dalās ar $q$, tad arī labās puses
+izteiksmei jādalās ar $q$. Ņemot vērā, ka pēc pieņēmuma $p$ un $q$ ir
+savstarpēji pirmskaitļi, secinām, ka $a$ ir jādalās ar $q$.
 
 Līdz ar to secinām, ka $q_{i}$ ir viencipara skaitlis, jo $a$ ir cipars.
 
-Analogi iegūst, ka $c$ dalās ar $p_{i}$. Tas nozīmē, ka $10 q_{i}+p_{i}$ ir divciparu skaitlis.
+Analogi iegūst, ka $c$ dalās ar $p_{i}$. Tas nozīmē, ka $10 q_{i}+p_{i}$ ir
+divciparu skaitlis.
 
-Tātad vienādība $q_{1} q_{2} \cdot \overline{a b c}=a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)$ nevar pastāvēt, jo kreisajā pusē ir reizinātājs $\overline{a b c}$ (trīsciparu pirmskaitlis), bet labajā pusē $a$ ir viencipara skaitlis un pārējie reizinātāji - divciparu. Līdz ar to dotā vienādojuma saknes nav racionāli skaitli.
+Tātad vienādība
+$q_{1} q_{2} \cdot \overline{abc}=a\left(10q_{1}+p_{1}\right)\left(10q_{2}+p_{2}\right)$ 
+nevar pastāvēt, jo kreisajā pusē ir reizinātājs $\overline{abc}$ (trīsciparu
+pirmskaitlis), bet labajā pusē $a$ ir viencipara skaitlis un pārējie
+reizinātāji - divciparu. Līdz ar to dotā vienādojuma saknes nav racionāli
+skaitļi.
 
 
 
 # <lo-sample/> LV.VOL.2020.11.5
 
-Atrast lielāko naturālo skaitli $N$, kuram ir spēkā īpašība: lai kuras $N$ rūtinas būtu aizkrāsotas $4 \times 4$ rūtinu tabulā, vienmēr varēs izvēlēties divas rindas un divas kolonnas tā, ka katra aizkrāsotā rūtina atrodas vai nu izvēlētajā rindā, vai izvēlētajā kolonnā (vai abās).
+Atrast lielāko naturālo skaitli $N$, kuram ir spēkā īpašība: lai kuras $N$
+rūtiņas būtu aizkrāsotas $4 \times 4$ rūtiņu tabulā, vienmēr varēs izvēlēties
+divas rindas un divas kolonnas tā, ka katra aizkrāsotā rūtiņa atrodas vai nu
+izvēlētajā rindā, vai izvēlētajā kolonnā (vai abās).
 
 <small>
 
@@ -626,21 +658,34 @@ Atrast lielāko naturālo skaitli $N$, kuram ir spēkā īpašība: lai kuras $N
 
 ## Atrisinājums
 
-Lielākā $N$ vērtība ir 6. Pamatosim, ja iekrāsotas 6 rūtinas, tad jebkuram krāsojumam izpildās uzdevuma nosacījumi. Ja kādā rindā ir vairāk nekā divas iekrāsotas rūtinas, tad izvēlamies šo rindu un vēl kādu rindu, kurā ir kāda iekrāsota rūtina. Tātad izvēlētajās divās rindās jau ir vismaz četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēlēties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās kolonnās.
+Lielākā $N$ vērtība ir $6$ . Pamatosim, ja iekrāsotas $6$ rūtiņas, tad
+jebkuram krāsojumam izpildās uzdevuma nosacījumi. Ja kādā rindā ir vairāk
+nekā divas iekrāsotas rūtiņas, tad izvēlamies šo rindu un vēl kādu rindu,
+kurā ir kāda iekrāsota rūtiņa. Tātad izvēlētajās divās rindās jau ir vismaz
+četras iekrāsotas rūtiņas. Tā kā ir palikušas divas iekrāsotas rūtiņas, tad
+pietiek izvēlēties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās
+kolonnās.
 
-Ja nevienā rindā nav vairāk kā divas iekrāsotas rūtiņas, tad pēc Dirihlē principa divas iekrāsotas rūtinas ir vismaz divās rindās. Izvēlamies šīs divas (vai divas no trim, ja trīs rindās ir pa divām iekrāsotām rūtiņām) rindas. Tad izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēēeties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās kolonnās.
+Ja nevienā rindā nav vairāk kā divas iekrāsotas rūtiņas, tad pēc Dirihlē
+principa divas iekrāsotas rūtiņas ir vismaz divās rindās. Izvēlamies šīs divas
+(vai divas no trim, ja trīs rindās ir pa divām iekrāsotām rūtiņām) rindas. Tad
+izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtiņas. Tā kā ir
+palikušas divas iekrāsotas rūtiņas, tad pietiek izvēlēties divas kolonnas, lai
+iekrāsotās rūtiņas atrastos šajās kolonnās.
 
-Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$, tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtinuu izvietojumam. levērojam, ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas iekrāsotās rūtiņas.
+Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$,
+tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtiņu izvietojumam. levērojam,
+ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas
+iekrāsotās rūtiņas.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-07.jpg?height=237&width=215&top_left_y=1193&top_left_x=955)
-
-7.att.
+![](LV.VOL.2020.11.5A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.12.1
 
-G̣eometriskās progresijas pirmais, desmitais un 2020 -ais loceklis ir naturāls skaitlis. Vai noteikti arī tās 2019 -ais loceklis ir naturāls skaitlis?
+G̣eometriskās progresijas pirmais, desmitais un $2020~\mathrm{-ais}$ loceklis ir naturāls
+skaitlis. Vai noteikti arī tās $2019$ -ais loceklis ir naturāls skaitlis?
 
 <small>
 
