@@ -318,7 +318,9 @@ $\sphericalangle AEC+\sphericalangle FBG=(\sphericalangle AED+\sphericalangle DE
 
 # <lo-sample/> LV.VOL.2020.10.4
 
-Aplūkojam skaitlu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais loceklis ir 7 un katru nākamo iegūst, iepriekšējam pierakstot galā 37. Pierādīt, ka neviens šīs virknes loceklis nedalās ar 17.
+Aplūkojam skaitļu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais
+loceklis ir $7$ un katru nākamo iegūst, iepriekšējam pierakstot galā $37$.
+Pierādīt, ka neviens šīs virknes loceklis nedalās ar $17$.
 
 <small>
 
@@ -330,15 +332,19 @@ Aplūkojam skaitlu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais lo
 
 ## Atrisinājums
 
-Apzīmējam virknes loceklus ar $s_{0}=7, s_{1}=737, s_{2}=73737, \ldots$
+Apzīmējam virknes locekļus ar $s_{0}=7, s_{1}=737, s_{2}=73737, \ldots$
 
-Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100 s_{k}+37$. Patiešām, skaitli pareizinot ar 100 tam tiek galā pierakstītas divas nulles, bet pieskaitot 37 šīs nulles pārvēršas par 37, tātad šī operācija pieraksta skaitla galā 37. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar 17, $a_{k}=s_{k}$ mod 17. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas nulles.
+Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100s_{k}+37$. Patiešām, skaitļi
+pareizinot ar $100$ tam tiek galā pierakstītas divas nulles, bet pieskaitot
+$37$ šīs nulles pārvēršas par $37$, tātad šī operācija pieraksta skaitļa galā
+$37$. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar $17$,
+$a_{k}=s_{k}$ mod $17$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
+nulles.
 
-Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs tikai no iepriekšējā
+Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs
+tikai no iepriekšējā
 
-$$
-a_{k+1}=s_{k+1} \bmod 17=100 s_{k}+37 \bmod 17=15 a_{k}+3 \bmod 17
-$$
+$$a_{k+1}=s_{k+1} \bmod 17=100s_{k}+37 \bmod 17=15a_{k}+3 \bmod 17$$
 
 Izmantojot šo formulu un to, ka $a_{0}=7 \bmod 17=7$, aprēkināsim virknes $a_{k}$ pirmos loceklus.
 
