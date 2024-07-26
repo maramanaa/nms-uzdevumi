@@ -50,37 +50,42 @@ $$V=\frac{1+B+B+x+100}{4}=\frac{2B+x+101}{4}$$
 Ņemot vērā, ka jāizpildās nevienādībām $B \leq V \leq C$, iegūstam
 
 $$\begin{gathered}
-B \leq \frac{2B+x+101}{4} \leq B+x
+B \leq \frac{2B+x+101}{4} \leq B+x  
 4B \leq 2B+x+101 \leq 4B+4x
 \end{gathered}$$
 
 Pārrakstot iegūto divkāršo nevienādību kā nevienādību sistēmu, iegūstam
 
-${ 4B \leq 2B + x + 1 0 1 }   
-{ 2B + x + 1 0 1 \leq 4B + 4x }$
-jeb
-$2B \leq 101+x  
-2B \geq 101-3x$
+$$\left\{\begin{array} { l } 
+{ 4B \leq 2B+x+101 } \\
+{ 2B+x+101 \leq 4B+4x }
+\end{array} \quad \text { jeb } \quad \left\{\begin{array}{l}
+2B \leq 101+x \\
+2B \geq 101-3x
+\end{array}\right.\right.$$
 
-Ievērojam, ja nevienādība izpildās pie $x=1$, tad tā izpildās arī pie lielākiem $x$. Tāpēc tas, ka šī nevienādība izpildās visiem $x \geq 1$ ir ekvivalents apgalvojumam, ka tā izpildās pie $x=1$. Tātad
+Ievērojam, ja nevienādība izpildās pie $x=1$, tad tā izpildās arī pie lielākiem
+$x$. Tāpēc tas, ka šī nevienādība izpildās visiem $x \geq 1$ ir ekvivalents
+apgalvojumam, ka tā izpildās pie $x=1$. Tātad
 
-$$
-\left\{\begin{array} { l } 
-{ 2 B \leq 1 0 2 } \\
-{ 2 B \geq 9 8 }
+$$\left\{\begin{array} { l } 
+{ 2B \leq 102 } \\
+{ 2B \geq 98 }
 \end{array} \text { jeb } \quad \left\{\begin{array}{l}
 B \leq 51 \\
 B \geq 49
-\end{array}\right.\right.
-$$
+\end{array}\right.\right.$$
 
-Līdz ar to esam ieguvuši, ka jebkurai derīgai $C$ vērtībai ir spēkā sakarība $B \leq V \leq C$, ja $B$ ir 49, 50 vai 51 .
+Līdz ar to esam ieguvuši, ka jebkurai derīgai $C$ vērtībai ir spēkā sakarība
+$B \leq V \leq C$, ja $B$ ir $49$, $50$ vai $51$.
 
 
 
 # <lo-sample/> LV.VOL.2020.9.3
 
-Punkts $R$ atrodas uz stara $O B$ un punkti $P$ un $Q$ atrodas uz stara $O A$ tā, ka $O P<O Q$ un $\Varangle O R P=\Varangle B R Q$. Leņka $R P A$ bisektrise krusto staru $O B$ punktā $T$. Pierādīt, ka $Q T$ ir $\Varangle R Q A$ bisektrise!
+Punkts $R$ atrodas uz stara $OB$ un punkti $P$ un $Q$ atrodas uz stara $OA$ tā,
+ka $OP<OQ$ un $\sphericalangle ORP=\sphericalangle BRQ$. Leņka $RPA$ bisektrise krusto
+staru $OB$ punktā $T$. Pierādīt, ka $QT$ ir $\sphericalangle RQA$ bisektrise!
 
 <small>
 
@@ -92,12 +97,12 @@ Punkts $R$ atrodas uz stara $O B$ un punkti $P$ un $Q$ atrodas uz stara $O A$ t�
 
 ## Atrisinājums
 
-Pagarinām nogriezni $P R$, tad $\Varangle O R P=\Varangle N R B$ kā krustleņki (skat. 1. att.) un līdz ar to arī $B R Q=\Varangle N R B$. Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā attālumā no
+Pagarinām nogriezni $P R$, tad $\sphericalangle O R P=\sphericalangle N R B$ kā krustleņki (skat. 1. att.) un līdz ar to arī $B R Q=\sphericalangle N R B$. Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā attālumā no
 
 - leņk.a $N R Q$ malām $N R$ un $R Q$, tas ir, $T C=T D$;
 - leņka $Q P R$ malām $P R$ un $P Q$, tas ir, $T C=T E$.
 
-Tātad $T D=T E$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leņka $R Q A$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$ atrodas uz $\Varangle R Q A$ bisektrises jeb $Q T$ ir $\Varangle R Q A$ bisektrise.
+Tātad $T D=T E$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leņka $R Q A$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$ atrodas uz $\sphericalangle R Q A$ bisektrises jeb $Q T$ ir $\sphericalangle R Q A$ bisektrise.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-02.jpg?height=555&width=713&top_left_y=105&top_left_x=706)
 
@@ -251,7 +256,7 @@ Lai pēdējā vienādība būtu patiesa, tad $-1 \leq u \leq 1$. Tā kā $x+y=(u
 
 # <lo-sample/> LV.VOL.2020.10.3
 
-Taisnlenka trijstūrī $A B C$, kurā $\Varangle A B C=90^{\circ}$, novilkts augstums $B D$, nogriežņa $B D$ viduspunkts ir $E$. Punkti $F$ un $G$ ir attiecīgi nogriežņu $A D$ un $C D$ viduspunkti. Pierādīt, ka $\Varangle A E C+\Varangle F B G=180^{\circ}$.
+Taisnlenka trijstūrī $A B C$, kurā $\sphericalangle A B C=90^{\circ}$, novilkts augstums $B D$, nogriežņa $B D$ viduspunkts ir $E$. Punkti $F$ un $G$ ir attiecīgi nogriežņu $A D$ un $C D$ viduspunkti. Pierādīt, ka $\sphericalangle A E C+\sphericalangle F B G=180^{\circ}$.
 
 <small>
 
@@ -263,14 +268,14 @@ Taisnlenka trijstūrī $A B C$, kurā $\Varangle A B C=90^{\circ}$, novilkts aug
 
 ## Atrisinājums
 
-levērojam, ka $\triangle A B D \sim \triangle B D C$ pēc pazīmes $\ell \ell$, jo $\Varangle A D B=\Varangle B D C=90^{\circ}$ un $\Varangle B A D=90^{\circ}-\Varangle A B D=\Varangle D B C$ (skat. 4. att.). Tātad trijstūru malas ir proporcionālas, tas ir, $\frac{B D}{C D}=\frac{A D}{B D}$. Tā kā
+levērojam, ka $\triangle A B D \sim \triangle B D C$ pēc pazīmes $\ell \ell$, jo $\sphericalangle A D B=\sphericalangle B D C=90^{\circ}$ un $\sphericalangle B A D=90^{\circ}-\sphericalangle A B D=\sphericalangle D B C$ (skat. 4. att.). Tātad trijstūru malas ir proporcionālas, tas ir, $\frac{B D}{C D}=\frac{A D}{B D}$. Tā kā
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-03.jpg?height=80&width=1830&top_left_y=2009&top_left_x=169)
-$\Varangle F B D=\Varangle D C E=90^{\circ}-\Varangle D E C$ jeb $\Varangle F B D+\Varangle D E C=90^{\circ}$.
+$\sphericalangle F B D=\sphericalangle D C E=90^{\circ}-\sphericalangle D E C$ jeb $\sphericalangle F B D+\sphericalangle D E C=90^{\circ}$.
 
-Līdzīgi pierāda, ka $\Varangle G B D+\Varangle A E D=90^{\circ}$.
+Līdzīgi pierāda, ka $\sphericalangle G B D+\sphericalangle A E D=90^{\circ}$.
 
-Tātad $\Varangle A E C+\Varangle F B G=(\Varangle A E D+\Varangle D E C)+(\Varangle F B D+\Varangle G B D)=90^{\circ}+90^{\circ}=180^{\circ}$.
+Tātad $\sphericalangle A E C+\sphericalangle F B G=(\sphericalangle A E D+\sphericalangle D E C)+(\sphericalangle F B D+\sphericalangle G B D)=90^{\circ}+90^{\circ}=180^{\circ}$.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-03.jpg?height=285&width=527&top_left_y=2221&top_left_x=823)
 
@@ -454,28 +459,28 @@ Redzams, ka pēdējā nevienādība ir patiesa visiem $1 \leq i \leq k$. Tā kā
 
 ## Atrisinājums
 
-Ja $X$ un $Y$ ir attiecīgi $\triangle A B D$ un $\triangle A B C$ ievilkto rinka līniju centri (skat. 6. att.), tad $A Y$ un $B Y$ ir attiecīgi $\Varangle B A C$ un $\Varangle A B C$ bisektrises. Tātad
+Ja $X$ un $Y$ ir attiecīgi $\triangle A B D$ un $\triangle A B C$ ievilkto rinka līniju centri (skat. 6. att.), tad $A Y$ un $B Y$ ir attiecīgi $\sphericalangle B A C$ un $\sphericalangle A B C$ bisektrises. Tātad
 
 $$
 \begin{gathered}
-\Varangle A Y B=180^{\circ}-(\Varangle B A Y+\Varangle A B Y)=180^{\circ}-\frac{1}{2}(\Varangle B A C+\Varangle A B C)= \\
-=\Varangle B A C+\Varangle A B C+\Varangle A C B-\frac{1}{2}(\Varangle B A C+\Varangle A B C)= \\
-=\frac{1}{2}(\Varangle B A C+\Varangle A B C+\Varangle A C B)+\frac{1}{2} \Varangle A C B=90^{\circ}+\frac{1}{2} \Varangle A C B .
+\sphericalangle A Y B=180^{\circ}-(\sphericalangle B A Y+\sphericalangle A B Y)=180^{\circ}-\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C)= \\
+=\sphericalangle B A C+\sphericalangle A B C+\sphericalangle A C B-\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C)= \\
+=\frac{1}{2}(\sphericalangle B A C+\sphericalangle A B C+\sphericalangle A C B)+\frac{1}{2} \sphericalangle A C B=90^{\circ}+\frac{1}{2} \sphericalangle A C B .
 \end{gathered}
 $$
 
-Līdzīgi $\Varangle A X B=90^{\circ}+\frac{1}{2} \Varangle A D B$.
+Līdzīgi $\sphericalangle A X B=90^{\circ}+\frac{1}{2} \sphericalangle A D B$.
 
-Tā kā $\Varangle A C B=\Varangle A D B$ kā ievilktie lenki, kas balstās uz vienu un to pašu loku, tad $\Varangle A Y B=\Varangle A X B$. Tātad punkti $A, X, Y, B$ atrodas uz vienas rinka līnijas. Līdz ar to $\Varangle X Y B=180^{\circ}-\Varangle X A B=180^{\circ}-\frac{1}{2} \Varangle D A B$.
+Tā kā $\sphericalangle A C B=\sphericalangle A D B$ kā ievilktie lenki, kas balstās uz vienu un to pašu loku, tad $\sphericalangle A Y B=\sphericalangle A X B$. Tātad punkti $A, X, Y, B$ atrodas uz vienas rinka līnijas. Līdz ar to $\sphericalangle X Y B=180^{\circ}-\sphericalangle X A B=180^{\circ}-\frac{1}{2} \sphericalangle D A B$.
 
-Ja $Z$ ir $\triangle B C D$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam, ka $\Varangle Z Y B=180^{\circ}-\frac{1}{2} \Varangle D C B$.
+Ja $Z$ ir $\triangle B C D$ ievilktās riņka līnijas centrs, tad līdzīgi iegūstam, ka $\sphericalangle Z Y B=180^{\circ}-\frac{1}{2} \sphericalangle D C B$.
 
 Izmantojot šīs divas vienādības, iegūstam
 
 $$
 \begin{gathered}
-\Varangle X Y Z=360^{\circ}-\Varangle X Y B-\Varangle Z Y B=360^{\circ}-\left(180^{\circ}-\frac{1}{2} \Varangle D A B\right)-\left(180^{\circ}-\frac{1}{2} \Varangle D C B\right)= \\
-=\frac{1}{2}(\Varangle D A B+\Varangle D C B)=\frac{1}{2} \cdot 180^{\circ}=90^{\circ} .
+\sphericalangle X Y Z=360^{\circ}-\sphericalangle X Y B-\sphericalangle Z Y B=360^{\circ}-\left(180^{\circ}-\frac{1}{2} \sphericalangle D A B\right)-\left(180^{\circ}-\frac{1}{2} \sphericalangle D C B\right)= \\
+=\frac{1}{2}(\sphericalangle D A B+\sphericalangle D C B)=\frac{1}{2} \cdot 180^{\circ}=90^{\circ} .
 \end{gathered}
 $$
 
@@ -671,7 +676,7 @@ Riņka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir 
 
 ## Atrisinājums
 
-Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8. att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\Varangle M A C=\Varangle C D M$ un $\Varangle A M D=\Varangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\Varangle D C M=\Varangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
+Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8. att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\sphericalangle M A C=\sphericalangle C D M$ un $\sphericalangle A M D=\sphericalangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\sphericalangle D C M=\sphericalangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
 
 Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleņka trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
 
