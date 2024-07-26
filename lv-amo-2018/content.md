@@ -456,8 +456,9 @@ ka $CD>\frac{1}{2}(CA+CB-AB)$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -484,8 +485,8 @@ $(n-2021)(n-2018)(n-2017)(n-2016)=2016$ būtu patiesa!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -567,8 +568,9 @@ Kāds ir šīs virknes $2018.$ loceklis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* concepts:sequence,product
 
 </small>
 
@@ -627,8 +629,8 @@ Par maģisko kvadrātu sauc $n \times n$ rūtiņu tabulu, kuras rūtiņās ierak
 skaitļi no $1$ līdz $n^{2}$ tā, ka visās tabulas rindās, kolonnās un uz abām 
 galvenajām diagonālēm rūtiņās ierakstīto skaitļu summas ir vienādas. (Katrs no 
 skaitļiem ierakstīts tieši vienā rūtiņā.) Vai noteikti maģiskā kvadrāta 
-centrālajā rūtiņā ir ierakstīts skaitlis $\frac{n^{2}+1}{2}$, ja **a)** $n=3$, 
-**b)** $n=5$?
+centrālajā rūtiņā ir ierakstīts skaitlis $\frac{n^{2}+1}{2}$, ja **(A)** $n=3$, 
+**(B)** $n=5$?
 
 <small>
 
@@ -639,7 +641,7 @@ centrālajā rūtiņā ir ierakstīts skaitlis $\frac{n^{2}+1}{2}$, ja **a)** $n
 
 ## Atrisinājums
 
-**a)** Jā, var apgalvot. Apzīmējam tabulā ierakstītos skaitļus ar 
+**(A)** Jā, var apgalvot. Apzīmējam tabulā ierakstītos skaitļus ar 
 $a, b, c, d, e, f, g, h$ un $i$ (skat. 12.att.).
 
 ![](LV.AMO.2018.8.4A.png)
@@ -660,7 +662,7 @@ e=5
 Tātad esam pierādījuši, ka centrālajā rūtiņā vienmēr ir ierakstīts skaitlis 
 $5$.
 
-**b)** Nē, nevar apgalvot. Centrālajā rūtiņā būtu jābūt $13$, bet ir iespējams 
+**(B)** Nē, nevar apgalvot. Centrālajā rūtiņā būtu jābūt $13$, bet ir iespējams 
 izveidot maģisko kvadrātu, kura centrālajā rūtiņā nav skaitlis $13$, bet gan ir
 skaitlis $12$, skat., piemēram, 14.att., kur atbilstošā summa ir $65$.
 
@@ -670,9 +672,9 @@ skaitlis $12$, skat., piemēram, 14.att., kur atbilstošā summa ir $65$.
 
 # <lo-sample/> LV.AMO.2018.8.5
 
-**a)** Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $6 \times 6$ rūtiņu 
+**(A)** Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $6 \times 6$ rūtiņu 
 kvadrātā, lai katrā šī kvadrāta $2 \times 3$ rūtiņu taisnstūrī (tas var būt arī
-pagriezts vertikāli) būtu vismaz viena iekrāsota rūtiņa? **b)** Vai noteikti 
+pagriezts vertikāli) būtu vismaz viena iekrāsota rūtiņa? **(B)** Vai noteikti 
 tad, kad ir iekrāsots mazākais rūtiņu skaits, visas četras stūra rūtiņas paliks
 neiekrāsotas?
 
@@ -685,7 +687,7 @@ neiekrāsotas?
 
 ## Atrisinājums
 
-**a)** Mazākais rūtiņu skaits, kas jāiekrāso, ir 6, skat., piemēram, 15.att.
+**(A)** Mazākais rūtiņu skaits, kas jāiekrāso, ir 6, skat., piemēram, 15.att.
 
 ![](LV.AMO.2018.8.5A.png)
 
@@ -694,7 +696,7 @@ taisnstūros $2 \times 3$ (skat. 16.att.), katrā šādā taisnstūrī jābūt
 iekrāsotai vismaz vienai rūtiņai, tātad kopā jābūt iekrāsotām vismaz $6$ 
 rūtiņām.
 
-**b)** Pierādīsim, ka visas stūra rūtiņas paliks neiekrāsotas. Pieņemsim, ka 
+**(B)** Pierādīsim, ka visas stūra rūtiņas paliks neiekrāsotas. Pieņemsim, ka 
 kāda stūra rūtiņa ir iekrāsota, piemēram, labā stūra augšējā rūtiņa, tad ar 
 " $o$ " atzīmējam tās rūtiņas, ko nedrīkst iekrāsot (lai pietiktu ar $6$ 
 iekrāsotām rūtiņām, katrā 16.att. taisnstūrī $2 \times 3$ jāiekrāso tieši viena
@@ -713,8 +715,8 @@ neiekrāsotas.
 
 # <lo-sample/> LV.AMO.2018.9.1
 
-Dots vienādojums $(a-3)x^{2}+5x-2=0$. **a)** Kādām $a$ vērtībām vienādojumam ir
-tieši viena sakne? **b)** Kādām $a$ vērtībām vienādojumam ir divas dažādas 
+Dots vienādojums $(a-3)x^{2}+5x-2=0$. **(A)** Kādām $a$ vērtībām vienādojumam ir
+tieši viena sakne? **(B)** Kādām $a$ vērtībām vienādojumam ir divas dažādas 
 reālas saknes?
 
 <small>
@@ -726,7 +728,7 @@ reālas saknes?
 
 ## Atrisinājums
 
-**a)** Ja $a=3$, tad iegūstam lineāru vienādojumu $5x-2=0$, kuram ir viens 
+**(A)** Ja $a=3$, tad iegūstam lineāru vienādojumu $5x-2=0$, kuram ir viens 
 atrisinājums $x=0,4$. Ja $a \neq 3$, tad dotais vienādojums ir 
 kvadrātvienādojums un tam ir viena sakne, ja diskriminants $D=0$. Aprēķinām 
 diskriminantu $D=5^{2}-4(a-3)(-2)=25+8a-24=8a+1$. Pielīdzinot iegūto izteiksmi 
@@ -734,7 +736,7 @@ $0$, iegūstam $8a+1=0$ jeb $a=-\frac{1}{8}$.
 
 Tātad dotajam vienādojumam ir viena sakne, ja $a=3$ vai $a=-\frac{1}{8}$.
 
-**b)** Lai iegūtu divas dažādas reālas saknes, dotajam vienādojumam ir jābūt 
+**(B)** Lai iegūtu divas dažādas reālas saknes, dotajam vienādojumam ir jābūt 
 kvadrātvienādojumam un tā diskriminantam jābūt pozitīvam. Līdz ar to iegūstam 
 nosacījumus:
 
@@ -847,8 +849,9 @@ un kuram neviens cipars nav $0$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,sum
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -1077,11 +1080,17 @@ $$MN=\frac{1}{2} M_{1}N_{1}=\frac{1}{2}\left(M_{1}A+AB+BN_{1}\right)=\frac{1}{2}
 Pierādīt, ja $x$ - naturāls skaitlis, tad $x^{8}-x^{2}$ dalās ar $252$.
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* topic:DivisibilityRulesFor3And9
+* topic:DivisibilityProperties
+* topic:ModularArithmetic
+* topic:PolynomialDifferenceDivisibility
+* questionType:Prove
+* domain:NT
+* concepts:divisibility
+  
 </small>
+
 
 ## Atrisinājums
 
@@ -1121,6 +1130,21 @@ Ja $x$ ir pāra skaitlis, tad $x^{2}$ dalās ar $4$. Ja $x$ ir nepāra skaitlis,
 tad $x-1$ un $x+1$ ir pāra skaitļi un tad ar $4$ dalās to reizinājums.
 
 Līdz ar to esam pierādījuši, ka $x^{8}-x^{2}$ dalās ar $252$.
+
+*Piezīme:* Pamatojot polinoma vērtības dalāmību ar $8$, $7$ un $9$, pietika aplūkot 
+pa vienam atlikumam no katras kongruenču klases. Tas seko no šāda 
+apgalvojuma:
+
+**Apgalvojums:** Ja $P(x)$ ir polinoms ar veseliem koeficientiem, 
+ja $x_1, x_2, m$ ir naturāli skaitļi, pie tam $x_1$ un $x_2$ dod vienādus 
+atlikumus, dalot ar $m$ , tad 
+arī polinomu vērtības $P(x_1)$ un $P(x_2)$ dod vienādus atlikumus, dalot ar $m$:
+
+$$x_1 \equiv x_2 \pmod m\;\;\Rightarrow\;\;P(x_1) \equiv P(x_2) \pmod m$$
+
+
+
+
 
 ## Atrisinājums
 
@@ -1230,11 +1254,12 @@ Pierādīt, ka visām naturālām $n$ vērtībām izpildās
 $1^{3}+2^{3}+3^{3}+\cdots+n^{3}=(1+2+3+\cdots+n)^{2}$.
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:Alg
+  
 </small>
+
 
 ## Atrisinājums
 
@@ -1372,11 +1397,13 @@ Līdz ar to esam pierādījuši, ka $\sphericalangle QAR=2 \sphericalangle XAY$.
 Vai eksistē tādi naturāli skaitļi $m$ un $n$, ka $m^{2}-n^{2}=2mn$ ?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:ProveDisprove
+* domain:Alg
+  
 </small>
+
+
 
 ## Atrisinājums
 
@@ -1597,11 +1624,14 @@ Naturāls skaitlis $B$ ir iegūts no naturāla skaitļa $A$, samainot vietām t�
 ciparus. Zināms, ka $A+B=10^{45}$. Pierādīt, ka gan $A$, gan $B$ dalās ar $5$.
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* concepts:divisibility
+* questionType:Prove
+* domain:NT
+  
 </small>
+
+
 
 ## Atrisinājums
 

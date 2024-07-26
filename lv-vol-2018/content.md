@@ -64,10 +64,10 @@ iegūstot trīs reizinājumus. Pierādīt, ka šos reizinājumus, dalot ar $4$,
 vismaz divi dod vienādus atlikumus!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:Prove
+* domain:NT
+   
 </small>
 
 ## Atrisinājums
@@ -223,7 +223,7 @@ divām monētām katrā kaudzītē.
 Atrast visus tādus veselu skaitļu pārus $(x; y)$, kas apmierina nevienādību 
 sistēmu
 
-$$\left\{ \begin{array}{ll}
+$$\left\{ \begin{array}{c}
 2x^{2}+2y^{2}+24x-28y+167<0 \\
 x+2y<\frac{15}{2}
 \end{array} \right.$$
@@ -295,7 +295,11 @@ $\triangle AED$, iegūstam $AD=\sqrt{AE^{2}+ED^{2}}=\sqrt{4+12}=4$.
 ![](LV.VOL.2018.10.2A.png)
 
 *Piezīme.* Malas $KM$ garumu var aprēķināt arī izmantojot kosinusu 
+<<<<<<< HEAD
 teorēmu trijstūrī $KAM$ :
+=======
+teorēmu trijstūrī $KAM$:
+>>>>>>> 52493569e01e32faa41676aa42a782d2400ab975
 
 $$KM^{2}=AK^{2}+AM^{2}-2 \cdot AK \cdot AM \cdot \cos \sphericalangle KAM \quad \Rightarrow \quad KM=3 \sqrt{3}$$
 
@@ -321,10 +325,14 @@ lielāks nekā $10$.
 **(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu trijnieku*!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindExample,Prove
+* domain:NT
+* topic:DivisibilityRulesFor2And4
+* topic:DivisibilityRulesFor3And9
+* topic:NotationInsert
+* concepts:sum-of-digits
+   
 </small>
 
 ## Atrisinājums
@@ -342,6 +350,29 @@ dalās ar $2$. Otrā skaitļa ciparu summa ir $3$, tātad tas dalās ar $3$. Tre
 skaitļa ciparu summa ir $4$, un tas dalās ar $4$, jo tā pēdējo divu ciparu 
 veidotais skaitlis dalās ar $4$. Tā kā $n$ var būt jebkurš naturāls skaitlis, 
 tad *skaistu trijnieku* ir bezgalīgi daudz.
+<<<<<<< HEAD
+=======
+
+
+## Atrisinājums 
+
+Vispirms apskatām vienkāršāku uzdevumu – "labu skaitļu" ķēdītes garumā $2$.  
+Var aplūkot tādus skaitļus, kuru vidū var iespraust neierobežotu skaitu nuļļu.
+
+* Pārītī $(20,21)$ pirmais skaitlis dalās ar $2$, bet otrais ar $3$.
+* Tas pats pārītim $(200, 201)$, $(2000, 2001)$, utt.
+
+Var izveidot Ķēdītes garumā 3 šādi:  
+Skaitļi $110,111,112$ dalās ar attiecīgi ar $2,3,4$.
+
+$$1\underbrace{0\ldots0}_n10,\;\;1\underbrace{0\ldots0}_n11,\;\;1\underbrace{0\ldots0}_n12$$
+
+
+
+
+
+
+>>>>>>> 52493569e01e32faa41676aa42a782d2400ab975
 
 
 
@@ -554,11 +585,13 @@ lielāks nekā $10$.
 **(B)** Pierādīt, ka eksistē bezgalīgi daudz *skaistu piecinieku*!
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindExample,Prove
+* domain:NT
+   
 </small>
+
+
 
 ## Atrisinājums
 
@@ -589,8 +622,13 @@ un ka pirmais saskaitāmais dalās ar visām iespējamām $x$ vērtībām, tas i
 $24,\ 25,\ 26,\ 27$ un $28$. Tā kā abi saskaitāmie dalās ar $x$, tad arī pats 
 skaitlis dalās ar $x$.
 
+<<<<<<< HEAD
 Tā kā $n$ var būt jebkurš naturāls skaitlis, tad *skaistu piecinieku* ir 
 bezgalīgi daudz.
+=======
+Tā kā $n$ var būt jebkurš naturāls skaitlis, tad *skaistu piecinieku*
+ir bezgalīgi daudz.
+>>>>>>> 52493569e01e32faa41676aa42a782d2400ab975
 
 
 
@@ -741,11 +779,12 @@ Tā kā $DR=2RF$ un $DP=PR$, tad $DP=PR=RF$.
 Atrisināt veselos skaitļos vienādojumu $x^{6}+3x^{3}+1=y^{4}$.
 
 <small>
-
-* questionType:
-* domain:
-
+   
+* questionType:FindAll
+* domain:NT
+   
 </small>
+
 
 ## Atrisinājums
 

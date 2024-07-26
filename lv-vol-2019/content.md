@@ -91,24 +91,29 @@ S(ACB)=48
 
 # <lo-sample/> LV.VOL.2019.9.3
 
-Vai naturāla skaitļa kvadrāta ciparu summa var būt **a)** $19$, **b)** $2019$?
+Vai naturāla skaitļa kvadrāta ciparu summa var būt **(A)** $19$, **(B)** $2019$?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:ProveDisprove
+* domain:NT
+  
 </small>
 
 ## Atrisinājums
 
-**a)** Jā, var, piemēram, $17^{2}=289$ un $2+8+9=19$.
+**(A)** Jā, var, piemēram, $17^{2}=289$ un $2+8+9=19$.
 
+<<<<<<< HEAD
 *Piezīme.* Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
 kongruents ar $1(\bmod 9)$, tātad paši skaitļi ir $\pm 1$ $(\bmod 9)$. Der arī 
+=======
+$\textit {Piezīme.}$ Tā kā $19 \equiv 1(\bmod 9)$, tad jāmeklē skaitļi, kuru kvadrāts ir 
+kongruents ar $1 \pmod 9$, tātad paši skaitļi ir $\pm 1 \pmod 9$. Der arī 
+>>>>>>> 52493569e01e32faa41676aa42a782d2400ab975
 skaitļi $26, 28, 37, 44, 53, 62, 64, 73, 82, 89, 91$, utt.
 
-**b)** Nē, nevar. Naturālā skaitļa $n$ kvadrāta ciparu summa $2019$ dalās ar 
+**(B)** Nē, nevar. Naturālā skaitļa $n$ kvadrāta ciparu summa $2019$ dalās ar 
 $3$, tātad arī $n^{2}$ dalās ar $3$. Tā kā naturāla skaitļa kvadrāts dalās ar 
 $3$, tad arī pats skaitlis $n$ dalās ar $3$, bet tādā gadījumā $n^{2}$ ir 
 jādalās ar $9$. Bet skaitļa $n^{2}$ ciparu summa ir $2019$, kas nedalās ar $9$ 
@@ -197,10 +202,13 @@ Pierādīt, ka visus naturālos skaitļus, kas lielāki nekā $100$, var izteikt
 pirmskaitļa un salikta skaitļa summu! 
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:NT
+* strategy:TrialAndError
+* topic:ModularParity
+* concepts:prime
+  
 </small>
 
 ## Atrisinājums
@@ -213,6 +221,26 @@ Saskaitāmie $2$ un attiecīgi $3$ ir pirmskaitļi.
 
 *Piezīme.* Minētā īpašība ir spēkā visiem naturāliem skaitļiem, kas 
 lielāki nekā $5$.
+
+
+
+## Atrisinājums
+
+Mēģinām izteikt, piemēram $101$ dažādos veidos:
+
+$$101 \;=\; 2+99 \;=\; 3+98 \;=\; 4+97 \;=\;$$
+$$\;=\; 5+96 \;=\; 7+94 \;=\; \cdots$$
+
+Skaitļus, kas lielāki par $100$ ($101,102,103,\ldots$) 
+var ļoti daudzos veidos. 
+Lai konkretizētu, kuru veidu mums vajag, izvēlamies tā:
+
+* Ja $n$ ir pāru, tad $n-2$ noteikti nav pirmskaitlis. 
+* Ja $n$ ir nepāru, tad $n-3$ noteikti nav pirmskaitlis.
+
+
+
+
 
 
 
@@ -272,11 +300,16 @@ Pierādīt, ka nevienai naturālai $n$ vērtībai izteiksmes $13^{n}+7^{n}+2019$
 vērtība nav naturāla skaitļa kvadrāts!
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:NT
+* topic:PeriodicRemainders
+* topic:DivisibilityRulesOther
+* concept:full-square
+  
 </small>
+
+
 
 ## Atrisinājums
 
@@ -461,10 +494,10 @@ Pierādīt, ka nevienai naturālai $n$ vērtībai izteiksmes
 $13^{n}+10^{n}+7^{n}+3^{n}$ vērtība nav naturāla skaitļa kvadrāts!
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:NT
+  
 </small>
 
 ## Atrisinājums
@@ -797,11 +830,12 @@ $$4^{n}+5^{n}+6^{n}+7^{n}+8^{n}+9^{n}+10^{n}+11^{n}+12^{n}+13^{n}$$
 vērtība nav naturāla skaitļa kvadrāts!
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:Prove
+* domain:NT
+  
 </small>
+
 
 ## Atrisinājums
 
@@ -890,23 +924,23 @@ ierakstītie skaitļi ir meklētie.
 
 Atrast
 
-**a)** vienu tādu naturālu skaitļu pāri $(a; b)$,
+**(A)** vienu tādu naturālu skaitļu pāri $(a; b)$,
 
-**b)** trīs tādus naturālu skaitļu pārus $(a; b), a < b$,
+**(B)** trīs tādus naturālu skaitļu pārus $(a; b), a < b$,
 
 ka lielākais skaitlis, ko nevar izteikt formā $an+bm$, kur $m$ un $n$ ir 
 nenegatīvi veseli skaitļi, ir $2019$.
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* questionType:FindExample,FindExample
+* domain:NT
+  
 </small>
 
 ## Atrisinājums
 
-**a)** Pamatosim, ka der, piemēram, skaitļi $a=2$ un $b=2021$.
+**(A)** Pamatosim, ka der, piemēram, skaitļi $a=2$ un $b=2021$.
 
 Iegūstam izteiksmi $2n+2021m$. Skaitļi $2019$ nevar izteikt kā šo skaitļu 
 summu, jo
@@ -925,7 +959,7 @@ $2n+2021m$. Ievērojam, ka
   $2021$ un, dalot ar $2$, dod atlikumu $1$, iegūstam kā summu 
   $2 \cdot k+2021 \cdot 1$, kur $k \in \mathbb{N}$.
 
-**b)** Pierādīsim, ja $a$ un $b$ ir savstarpēji pirmskaitļi, tad lielākais 
+**(B)** Pierādīsim, ja $a$ un $b$ ir savstarpēji pirmskaitļi, tad lielākais 
 skaitlis, ko nevar izteikt ar šiem skaitļiem, ir $ab-a-b$.
 
 Pieņemsim pretējo, ka $ab-b-a$ var izteikt kā $an+bm$. Apskatot izteiksmi 
