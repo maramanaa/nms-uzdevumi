@@ -498,8 +498,8 @@ jeb, citiem vārdiem sakot, jebkurš skaitlis $k$ šajā virknē parādās ar in
 $\frac{k^{2}-k}{2}+i$, kur $1 \leq i \leq k$. Lai pierādītu formulu, jāpierāda,
 ka visiem naturāliem $k$ un visiem naturāliem $1 \leq i \leq k$ izpildās
 
-$$\left[\sqrt{2\left(\frac{k^{2}-k}{2}+i\right)}+\frac{1}{2}\right]=k \quad$
-jeb $\quad\left[\sqrt{k^{2}-k+2 i}+\frac{1}{2}\right]=k$$
+$\left[\sqrt{2\left(\frac{k^{2}-k}{2}+i\right)}+\frac{1}{2}\right]=k \quad$
+jeb $\quad\left[\sqrt{k^{2}-k+2 i}+\frac{1}{2}\right]=k$
 
 Vienādība $[x]=y$, kur $y$ ir naturāls skaitlis izpildās tad un tikai tad, ja
 $y \leq x < y+1$, tāpēc vienādība pārvēršas par divkāršo nevienādību
