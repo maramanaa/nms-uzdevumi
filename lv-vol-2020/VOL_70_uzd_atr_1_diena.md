@@ -41,7 +41,7 @@ vidējais aritmētiskais.
 
 ## Atrisinājums
 
-Pēc dotā $1<B<C<100$. Tā kā $B<C$, tad var pieņemt, ka $C=B+x$, kur
+Pēc dotā $1 < B < C < 100$. Tā kā $B < C$, tad var pieņemt, ka $C=B+x$, kur
 $1 \leq x \leq 99-B$. Līdz ar to iegūstam, ka četru doto skaitļu vidējais
 aritmētiskais ir
 
