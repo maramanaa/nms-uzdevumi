@@ -84,7 +84,7 @@ $B \leq V \leq C$, ja $B$ ir $49$, $50$ vai $51$.
 # <lo-sample/> LV.VOL.2020.9.3
 
 Punkts $R$ atrodas uz stara $OB$ un punkti $P$ un $Q$ atrodas uz stara $OA$ tā,
-ka $OP<OQ$ un $\sphericalangle ORP=\sphericalangle BRQ$. Leņka $RPA$ bisektrise krusto
+ka $OP < OQ$ un $\sphericalangle ORP=\sphericalangle BRQ$. leņķa $RPA$ bisektrise krusto
 staru $OB$ punktā $T$. Pierādīt, ka $QT$ ir $\sphericalangle RQA$ bisektrise!
 
 <small>
@@ -97,23 +97,29 @@ staru $OB$ punktā $T$. Pierādīt, ka $QT$ ir $\sphericalangle RQA$ bisektrise!
 
 ## Atrisinājums
 
-Pagarinām nogriezni $P R$, tad $\sphericalangle O R P=\sphericalangle N R B$ kā krustleņki (skat. 1. att.) un līdz ar to arī $B R Q=\sphericalangle N R B$. Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā attālumā no
+Pagarinām nogriezni $PR$, tad $\sphericalangle ORP=\sphericalangle NRB$ kā
+krustleņķi (skat. 1.att.) un līdz ar to arī $BRQ=\sphericalangle NRB$.
+Izmantojot bisektrises īpašību, iegūstam, ka punkts $T$ atrodas vienādā
+attālumā no
 
-- leņk.a $N R Q$ malām $N R$ un $R Q$, tas ir, $T C=T D$;
-- leņka $Q P R$ malām $P R$ un $P Q$, tas ir, $T C=T E$.
+- leņķa $NRQ$ malām $NR$ un $RQ$, tas ir, $TC=TD$;
+- leņķa $QPR$ malām $PR$ un $PQ$, tas ir, $TC=TE$.
 
-Tātad $T D=T E$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leņka $R Q A$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$ atrodas uz $\sphericalangle R Q A$ bisektrises jeb $Q T$ ir $\sphericalangle R Q A$ bisektrise.
+Tātad $TD=TE$ un esam ieguvuši, ka punkts $T$ atrodas vienādā attālumā no leņķa
+$RQA$ malām. Līdz ar to pēc bisektrises pazīmes esam ieguvuši, ka punkts $T$
+atrodas uz $\sphericalangle RQA$ bisektrises jeb $QT$ ir
+$\sphericalangle RQA$ bisektrise.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-02.jpg?height=555&width=713&top_left_y=105&top_left_x=706)
+![](LV.VOL.2020.9.3A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.9.4
 
-Vai eksistē tādi četri dažādi a) naturāli skaiți, b) pirmskaitḷi $a, b, c, d$, ka vienlaicīgi izpildās šādi nosacījumi:
+Vai eksistē tādi četri dažādi **a)** naturāli skaitļi, **b)** pirmskaitļi
+$a, b, c, d$, ka vienlaicīgi izpildās šādi nosacījumi:
 
-○ $b+c+d$ dalās ar $a$,
-
+- $b+c+d$ dalās ar $a$,
 - $c+d+a$ dalās ar $b$,
 - $d+a+b$ dalās ar $c$,
 - $a+b+c$ dalās ar $d$ ?
@@ -128,28 +134,33 @@ Vai eksistē tādi četri dažādi a) naturāli skaiți, b) pirmskaitḷi $a, b,
 
 ## Atrisinājums
 
-a) Jā, eksistē. Skaitliem 1, 2, 3, 6 izpildās visi uzdevuma nosacijumi:
+**a)** Jā, eksistē. Skaitļiem $1, 2, 3, 6$ izpildās visi uzdevuma nosacijumi:
 
-- $2+3+6$ dalās ar 1 ,
-- $1+3+6$ dalās ar 2 ,
-- $1+2+6$ dalās ar 3 ,
-- $1+2+3$ dalās ar 6 .
+- $2+3+6$ dalās ar $1$ ,
+- $1+3+6$ dalās ar $2$ ,
+- $1+2+6$ dalās ar $3$ ,
+- $1+2+3$ dalās ar $6$ .
 
-b) Nē, neeksistē. levērojam, ka
+**b)** Nē, neeksistē. levērojam, ka
 
 - $a+(b+c+d)$ dalās ar $a$ (jo abi saskaitāmie dalās ar $a$ ),
 - $b+(c+d+a)$ dalās ar $b$,
 - $c+(d+a+b)$ dalās ar $c$,
+- $d+(a+b+c)$ dalās ar $d$.
 
-○ $d+(a+b+c)$ dalās ar $d$.
-
-Tā kā $a, b, c, d$ ir pirmskaitḷi, tad $a+b+c+d$ dalās ar $a b c d$, no kā izriet, ka $a+b+c+d \geq a b c d$. Nezaudējot vispārīgumu varam pienemt, ka $a \leq b \leq c \leq d$. Tādā gadījumā $a+b+c+d \leq 4 d<a b c d$, jo pat trīs mazāko atškirīgo pirmskaitlu reizinājums $2 \cdot 3 \cdot 5>4$. Esam ieguvuši pretrunu, tātad neeksistē tādi četri dažādi pirmskaitli, kuriem izpildās visi uzdevuma nosacijumi.
+Tā kā $a, b, c, d$ ir pirmskaitļi, tad $a+b+c+d$ dalās ar $abcd$, no kā izriet,
+ka $a+b+c+d \geq abcd$. Nezaudējot vispārīgumu varam pieņemt, ka
+$a \leq b \leq c \leq d$. Tādā gadījumā $a+b+c+d \leq 4d < abcd$, jo pat trīs
+mazāko atšķirīgo pirmskaitļu reizinājums $2 \cdot 3 \cdot 5 > 4$. Esam ieguvuši
+pretrunu, tātad neeksistē tādi četri dažādi pirmskaitļi, kuriem izpildās visi
+uzdevuma nosacījumi.
 
 
 
 # <lo-sample/> LV.VOL.2020.9.5
 
-Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no kieǵeliem, kuru izmēri ir $1 \times 1 \times 8$ ?
+Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no kieģeļiem,
+kuru izmēri ir $1 \times 1 \times 8$ ?
 
 <small>
 
@@ -161,16 +172,22 @@ Vai kubu ar izmēriem $12 \times 12 \times 12$ iespējams salikt no kieǵeliem, 
 
 ## Atrisinājums
 
-Pamatosim, ka prasīto nevar izdarīt. Sadalām kubu 9 mazākos kubos, kuru izmēri ir $4 \times 4 \times 4$, un iekrāsojam tos kā šaha galdinuu (skat. 2. att.). Pavisam ir $64 \cdot 14=896$ melni un $64 \cdot 13=832$ balti kubiņi ar izmēriem $1 \times 1 \times 1$. Tā kā katrs kieǵelis pārklāj 4 melnus un 4 baltus kubinuus ar izmēriem $1 \times 1 \times 1$ (skat. 3. att.), tad, ja no šiem kiegeliem būtu salikts kubs, tas saturētu vienāda skaita melnos un baltos kubinus ar izmēriem $1 \times 1 \times 1$, bet $896 \neq 832$.
+Pamatosim, ka prasīto nevar izdarīt. Sadalām kubu $9$ mazākos kubos, kuru
+izmēri ir $4 \times 4 \times 4$, un iekrāsojam tos kā šaha galdiņu
+(skat. 2.att.). Pavisam ir $64 \cdot 14=896$ melni un $64 \cdot 13=832$ balti
+kubiņi ar izmēriem $1 \times 1 \times 1$. Tā kā katrs kieģelis pārklāj $4$
+melnus un $4$ baltus kubiņus ar izmēriem $1 \times 1 \times 1$ (skat. 3.att.),
+tad, ja no šiem kieģeļiem būtu salikts kubs, tas saturētu vienāda skaita melnos
+un baltos kubiņus ar izmēriem $1 \times 1 \times 1$, bet $896 \neq 832$.
 
-2. att.
-3. att.
+![](LV.VOL.2020.9.5A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.10.1
 
-Pierādīt, ka skaitlim $2019^{3}+2020^{3}+2021^{3}$ ir vismaz 20 dažādi pozitīvi dalītāji!
+Pierādīt, ka skaitlim $2019^{3}+2020^{3}+2021^{3}$ ir vismaz $20$ dažādi
+pozitīvi dalītāji!
 
 <small>
 
@@ -184,20 +201,24 @@ Pierādīt, ka skaitlim $2019^{3}+2020^{3}+2021^{3}$ ir vismaz 20 dažādi pozit
 
 Apzīmējam $n=2020$ un pārveidojam doto skaitli:
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 (n-1)^{3} & +n^{3}+(n+1)^{3}=n^{3}-3 \cdot n^{2}+3 \cdot n-1+n^{3}+n^{3}+3 \cdot n^{2}+3 \cdot n+1= \\
 & =n \cdot\left(3 n^{2}+6\right)=n \cdot 3 \cdot\left(n^{2}+2\right)=2^{2} \cdot 5 \cdot 101 \cdot 3 \cdot\left(2020^{2}+2\right)
-\end{aligned}
-$$
+\end{aligned}$$
 
-Tā kā naturālam skaitlim $x=p_{1}^{k_{1}} \cdot p_{2}^{k_{2}} \cdot \ldots \cdot p_{m}^{k_{m}}$, kur $p_{i}$ ir dažādi pirmskaitli, pavisam ir $\left(k_{1}+1\right)\left(k_{2}+1\right) \ldots\left(k_{m}+1\right)$ dažādi naturālie dalītāji, tad dotajam skaitlim ir vismaz $(2+1)(1+1)(1+1)(1+1)=24$ dažādi dalītāji, pat neņemot vērā reizinātāju $2020^{2}+2$. Patiesībā dotajam skaitlim ir 640 dažādi dalītāji.
+Tā kā naturālam skaitlim
+$x=p_{1}^{k_{1}} \cdot p_{2}^{k_{2}} \cdot \ldots \cdot p_{m}^{k_{m}}$,
+kur $p_{i}$ ir dažādi pirmskaitļi, pavisam ir
+$\left(k_{1}+1\right)\left(k_{2}+1\right) \ldots\left(k_{m}+1\right)$ dažādi
+naturālie dalītāji, tad dotajam skaitlim ir vismaz
+$(2+1)(1+1)(1+1)(1+1)=24$ dažādi dalītāji, pat neņemot vērā reizinātāju 
+$2020^{2}+2$. Patiesībā dotajam skaitlim ir $640$ dažādi dalītāji.
 
 
 
 # <lo-sample/> LV.VOL.2020.10.2
 
-Zināms, ka $x^{2}+y^{2}+x y=3$. Kāda var būt $x+y$ vērtība?
+Zināms, ka $x^{2}+y^{2}+xy=3$. Kāda var būt $x+y$ vērtība?
 
 <small>
 
@@ -209,26 +230,32 @@ Zināms, ka $x^{2}+y^{2}+x y=3$. Kāda var būt $x+y$ vērtība?
 
 ## Atrisinājums
 
-Pamatosim, ka $x^{2}+y^{2}+x y \geq \frac{3}{4}(x+y)^{2}$. Veicam ekvivalentus pārveidojumus:
+Pamatosim, ka $x^{2}+y^{2}+xy \geq \frac{3}{4}(x+y)^{2}$. Veicam ekvivalentus
+pārveidojumus:
 
-$$
-\begin{gathered}
-x^{2}+y^{2}+x y \geq \frac{3}{4} x^{2}+\frac{3}{2} x y+\frac{3}{4} y^{2} \\
-\frac{1}{4} x^{2}+\frac{1}{4} y^{2}-\frac{1}{2} x y \geq 0 \\
+$$\begin{gathered}
+x^{2}+y^{2}+xy \geq \frac{3}{4}x^{2}+\frac{3}{2}xy+\frac{3}{4}y^{2} \\
+\frac{1}{4}x^{2}+\frac{1}{4}y^{2}-\frac{1}{2}xy \geq 0 \\
 x^{2}+y^{2}-2 x y \geq 0 \\
 (x-y)^{2} \geq 0 .
-\end{gathered}
-$$
+\end{gathered}$$
 
-Tā kā iegūta patiesa nevienādība, tad arī dotā nevienādība ir patiesa. Līdz ar to esam ieguvuši, ka $3 \geq \frac{3}{4}(x+y)^{2}$ jeb $4 \geq(x+y)^{2}$, tātad $-2 \leq x+y \leq 2$.
+Tā kā iegūta patiesa nevienādība, tad arī dotā nevienādība ir patiesa. Līdz ar
+to esam ieguvuši, ka $3 \geq \frac{3}{4}(x+y)^{2}$ jeb $4 \geq(x+y)^{2}$,
+tātad $-2 \leq x+y \leq 2$.
 
-Vēl jāparāda, ka visām vērtībām šajā intervālā ir atbilstošas $x$ un $y$ vērtības. Apzīmējam $x+y=t(-2 \leq t \leq 2)$. No dotās vienādības iegūstam
+Vēl jāparāda, ka visām vērtībām šajā intervālā ir atbilstošas $x$ un $y$
+vērtības. Apzīmējam $x+y=t(-2 \leq t \leq 2)$. No dotās vienādības iegūstam
 
-$$
-x^{2}+2 x y+y^{2}-x y=3 \quad \Rightarrow \quad x y=(x+y)^{2}-3 \quad \Rightarrow \quad x y=t^{2}-3
-$$
+$$x^{2}+2xy+y^{2}-xy=3 \quad \Rightarrow \quad xy=(x+y)^{2}-3 \quad \Rightarrow \quad xy=t^{2}-3$$
 
-Sastādām kvadrātvienādojumu $a^{2}-t a+t^{2}-3=0$, kura sakņu summa ir $a_{1}+a_{2}=t$ un sakņu reizinājums ir $a_{1} a_{2}=t^{2}-3$. Ja šim vienādojumam ir atrisinājums dotai $t$ vērtībai, tad tā saknes ir meklētās $x$ un $y$ vērtības. Aprēkinām diskriminantu $D=(-t)^{2}-4 \cdot 1 \cdot\left(t^{2}-3\right)=12-3 t^{2}$, tā kā $-2 \leq t \leq 2$, tad $t^{2} \leq 4$, tātad visām pielaujamajām $t$ vērtībām $D \geq 0$. Tātad $-2 \leq x+y \leq 2$.
+Sastādām kvadrātvienādojumu $a^{2}-ta+t^{2}-3=0$, kura sakņu summa ir
+$a_{1}+a_{2}=t$ un sakņu reizinājums ir $a_{1} a_{2}=t^{2}-3$. Ja šim
+vienādojumam ir atrisinājums dotai $t$ vērtībai, tad tā saknes ir meklētās
+$x$ un $y$ vērtības. Aprēķinām diskriminantu
+$D=(-t)^{2}-4 \cdot 1 \cdot\left(t^{2}-3\right)=12-3t^{2}$, tā kā
+$-2 \leq t \leq 2$, tad $t^{2} \leq 4$, tātad visām pieļaujamajām $t$ vērtībām
+$D \geq 0$. Tātad $-2 \leq x+y \leq 2$.
 
 <small>
 
@@ -240,23 +267,26 @@ Sastādām kvadrātvienādojumu $a^{2}-t a+t^{2}-3=0$, kura sakņu summa ir $a_{
 
 ## Atrisinājums
 
-Apzīmējam $x=u+v$ un $y=u-v$. levietojot apzīmējumus dotajā vienādībā, jegūstam
+Apzīmējam $x=u+v$ un $y=u-v$. levietojot apzīmējumus dotajā vienādībā,
+jegūstam
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 (u+v)^{2}+(u-v)^{2}+(u+v)(u-v)=3 \\
-u^{2}+2 u v+v^{2}+u^{2}-2 u v+v^{2}+u^{2}-v^{2}=3 \\
-3 u^{2}+v^{2}=3
-\end{gathered}
-$$
+u^{2}+2uv+v^{2}+u^{2}-2uv+v^{2}+u^{2}-v^{2}=3 \\
+3u^{2}+v^{2}=3
+\end{gathered}$$
 
-Lai pēdējā vienādība būtu patiesa, tad $-1 \leq u \leq 1$. Tā kā $x+y=(u+v)+(u-v)=2 u$, tad $-2 \leq x+y \leq 2$.
+Lai pēdējā vienādība būtu patiesa, tad
+$-1 \leq u \leq 1$. Tā kā $x+y=(u+v)+(u-v)=2u$, tad $-2 \leq x+y \leq 2$.
 
 
 
 # <lo-sample/> LV.VOL.2020.10.3
 
-Taisnlenka trijstūrī $A B C$, kurā $\sphericalangle A B C=90^{\circ}$, novilkts augstums $B D$, nogriežņa $B D$ viduspunkts ir $E$. Punkti $F$ un $G$ ir attiecīgi nogriežņu $A D$ un $C D$ viduspunkti. Pierādīt, ka $\sphericalangle A E C+\sphericalangle F B G=180^{\circ}$.
+Taisnleņķa trijstūrī $ABC$, kurā $\sphericalangle ABC=90^{\circ}$,
+novilkts augstums $BD$, nogriežņa $BD$ viduspunkts ir $E$. Punkti $F$ un $G$
+ir attiecīgi nogriežņu $AD$ un $CD$ viduspunkti. Pierādīt, ka
+$\sphericalangle AEC+\sphericalangle FBG=180^{\circ}$.
 
 <small>
 
@@ -268,18 +298,21 @@ Taisnlenka trijstūrī $A B C$, kurā $\sphericalangle A B C=90^{\circ}$, novilk
 
 ## Atrisinājums
 
-levērojam, ka $\triangle A B D \sim \triangle B D C$ pēc pazīmes $\ell \ell$, jo $\sphericalangle A D B=\sphericalangle B D C=90^{\circ}$ un $\sphericalangle B A D=90^{\circ}-\sphericalangle A B D=\sphericalangle D B C$ (skat. 4. att.). Tātad trijstūru malas ir proporcionālas, tas ir, $\frac{B D}{C D}=\frac{A D}{B D}$. Tā kā
+levērojam, ka $\triangle ABD \sim \triangle BDC$ pēc pazīmes
+$\ell \ell$, jo $\sphericalangle ADB=\sphericalangle BDC=90^{\circ}$ un 
+$\sphericalangle BAD=90^{\circ}-\sphericalangle ABD=\sphericalangle DBC$
+(skat. 4.att.). Tātad trijstūru malas ir proporcionālas, tas ir,
+$\frac{BD}{CD}=\frac{AD}{BD}$. Tā kā $AD=2FD$ un $BD=2ED$, tad
+$\frac{BD}{CD}=\frac{FD}{ED}$. Līdz ar to $\triangle BDF \sim \triangle CDE$
+pēc pazīmes $m \ell m$. Tātad
+$\sphericalangle FBD=\sphericalangle DCE=90^{\circ}-\sphericalangle DEC$ jeb $\sphericalangle FBD+\sphericalangle DEC=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-03.jpg?height=80&width=1830&top_left_y=2009&top_left_x=169)
-$\sphericalangle F B D=\sphericalangle D C E=90^{\circ}-\sphericalangle D E C$ jeb $\sphericalangle F B D+\sphericalangle D E C=90^{\circ}$.
+Līdzīgi pierāda, ka $\sphericalangle GBD+\sphericalangle AED=90^{\circ}$.
 
-Līdzīgi pierāda, ka $\sphericalangle G B D+\sphericalangle A E D=90^{\circ}$.
+Tātad
+$\sphericalangle AEC+\sphericalangle FBG=(\sphericalangle AED+\sphericalangle DEC)+(\sphericalangle FBD+\sphericalangle GBD)=90^{\circ}+90^{\circ}=180^{\circ}$.
 
-Tātad $\sphericalangle A E C+\sphericalangle F B G=(\sphericalangle A E D+\sphericalangle D E C)+(\sphericalangle F B D+\sphericalangle G B D)=90^{\circ}+90^{\circ}=180^{\circ}$.
-
-![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-03.jpg?height=285&width=527&top_left_y=2221&top_left_x=823)
-
-4. att.
+![](LV.VOL.2020.10.3A.png)
 
 
 
@@ -338,7 +371,7 @@ Apzīmējam monētas ar $A, B, C, D$. Pirmajā svēršanā uz svariem liekam $A$
 - Ja $A+B=40$ vai $A+B=42$, tad $A$ un $B$ masas jau zināmas, tās attiecīgi ir 20 g un 20 g vai 21 g un 21 g . Pēc tam ar divām svēřǎanām atrodam $C$ un $D$ masu.
 - Ja $A+B=41$, tad otrajā svēršanā uz svariem liekam $A$ un $C$.
 - Ja $A+C=40$ un $A+C=42$, tad zinām $A$ un $C$ masu, tātad arī $B$ masu. Trešajā svēršanā uz svariem liekam $D$ un nosakām tās masu.
-- Ja $A+C=41$, tad no tā, ka $A+B=A+C$, secinām, ka $B=C$. Trešajā reizē uz svariem liekam $B, C$ un D. levērojam, ka $B+C$ ir pāra skaitlis (40 vai 42). Apskatot visus iespējamos svēršanas iznākumus, iegūstam katras monētas masu, skat. 5. att.
+- Ja $A+C=41$, tad no tā, ka $A+B=A+C$, secinām, ka $B=C$. Trešajā reizē uz svariem liekam $B, C$ un D. levērojam, ka $B+C$ ir pāra skaitlis (40 vai 42). Apskatot visus iespējamos svēršanas iznākumus, iegūstam katras monētas masu, skat. 5.att.
 
 | $\boldsymbol{B}+\boldsymbol{C}$ | $\boldsymbol{B}+\boldsymbol{C}+\boldsymbol{D}$ | $\boldsymbol{D}$ | $\boldsymbol{B}$ | $\boldsymbol{C}$ | $\boldsymbol{A}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -346,7 +379,7 @@ Apzīmējam monētas ar $A, B, C, D$. Pirmajā svēršanā uz svariem liekam $A$
 | 40 | 61 | 21 | 20 | 20 | 21 |
 | 42 | 62 | 20 | 21 | 21 | 20 |
 | 42 | 63 | 21 | 21 | 21 | 20 |
-| 5. att. |  |  |  |  |  |
+| 5.att. |  |  |  |  |  |
 
 
 
@@ -394,7 +427,7 @@ levērojam, ka $m \neq 2019$. Ja $m<0$, tad parabolas virsotnes abscisa $\frac{1
 
 Aplūkojam virkni $1 ; 2 ; 2 ; 3 ; 3 ; 3 ; 4 ; 4 ; 4 ; 4 ; 5 ; 5 ; 5 ; 5 ; 5 ; 6 ; 6 ; 6 ; 6 ; 6 ; 6 ; \ldots$, kurā katrs naturālais skaitlis $k$ tiek atkārtots $k$ reizes. Pierādīt, ka šīs virknes $n$-to locekli var aprēkināt pēc formulas $\left[\sqrt{2 n}+\frac{1}{2}\right]$.
 
-$\operatorname{Ar}[x]$ apzīmējam skaitḷa veselo daḷu, tas ir, lielāko veselo skaitli, kas nepārsniedz $x$. Piemēram, $[3,1]=3,[17]=17$, $[6,99]=6$.
+$\operatorname{Ar}[x]$ apzīmējam skaitļa veselo daļu, tas ir, lielāko veselo skaitli, kas nepārsniedz $x$. Piemēram, $[3,1]=3,[17]=17$, $[6,99]=6$.
 
 <small>
 
@@ -459,7 +492,7 @@ Redzams, ka pēdējā nevienādība ir patiesa visiem $1 \leq i \leq k$. Tā kā
 
 ## Atrisinājums
 
-Ja $X$ un $Y$ ir attiecīgi $\triangle A B D$ un $\triangle A B C$ ievilkto rinka līniju centri (skat. 6. att.), tad $A Y$ un $B Y$ ir attiecīgi $\sphericalangle B A C$ un $\sphericalangle A B C$ bisektrises. Tātad
+Ja $X$ un $Y$ ir attiecīgi $\triangle A B D$ un $\triangle A B C$ ievilkto rinka līniju centri (skat. 6.att.), tad $A Y$ un $B Y$ ir attiecīgi $\sphericalangle B A C$ un $\sphericalangle A B C$ bisektrises. Tātad
 
 $$
 \begin{gathered}
@@ -488,7 +521,7 @@ Līdzīgi pierāda, ka arī pārējie četrstūra leņki ir taisni, tātad tas i
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-06.jpg?height=454&width=462&top_left_y=586&top_left_x=823)
 
-6. att.
+6.att.
 
 
 
@@ -506,13 +539,13 @@ Zināms, ka trīsciparu skaitlis $\overline{a b c}$ ir pirmskaitlis un ka vienā
 
 ## Atrisinājums
 
-a) Nē, saknes nevar būt veseli skaitḷi. levērojam, ka $c \neq 0$, jo pretējā gadījumā $\overline{a b c}$ nav pirmskaitlis. Tas nozīmē, ka 0 nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{2}+b x+c \geq c>0$. Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar $-x_{1},-x_{2}$ un sadalot kreisās puses izteiksmi reizinātājos, iegūstam
+a) Nē, saknes nevar būt veseli skaitļi. levērojam, ka $c \neq 0$, jo pretējā gadījumā $\overline{a b c}$ nav pirmskaitlis. Tas nozīmē, ka 0 nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{2}+b x+c \geq c>0$. Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar $-x_{1},-x_{2}$ un sadalot kreisās puses izteiksmi reizinātājos, iegūstam
 
 $$
 a x^{2}+b x+c=a\left(x+x_{1}\right)\left(x+x_{2}\right)
 $$
 
-Pieņemsim, ka šīs saknes ir veseli skaitḷi. Ja $x=10$, tad iegūstam
+Pieņemsim, ka šīs saknes ir veseli skaitļi. Ja $x=10$, tad iegūstam
 
 $$
 a\left(10+x_{1}\right)\left(10+x_{2}\right)=100 a+10 b+c=\overline{a b c}
@@ -520,7 +553,7 @@ $$
 
 Tātad esam ieguvuši, ka $\overline{a b c}$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-b) Nē, saknes nevar būt racionāli skaitḷi. Pienemsim pretējo, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur $p_{1}, q_{1}$ ir savstarpēji pirmskaitli un arī $p_{2}, q_{2}$ ir savstarpēji pirmskaitli. Sadalām vienādojuma kreiso pusi reizinātājos:
+b) Nē, saknes nevar būt racionāli skaitļi. Pienemsim pretējo, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}}$ un $-\frac{p_{2}}{q_{2}}$, kur $p_{1}, q_{1}$ ir savstarpēji pirmskaitli un arī $p_{2}, q_{2}$ ir savstarpēji pirmskaitli. Sadalām vienādojuma kreiso pusi reizinātājos:
 
 $$
 a x^{2}+b x+c=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)=\frac{a}{q_{1} q_{2}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)
@@ -535,7 +568,7 @@ a\left(10 q_{1}+p_{1}\right)\left(10 q_{2}+p_{2}\right)=\overline{a b c} \cdot q
 \end{gathered}
 $$
 
-Pamatosim, ja kvadrātvienādojuma $a x^{2}+b x+c=0$ sakne ir $\frac{p}{q}$ (nesaīsināma daḷa), tad $a$ dalās ar $q$. levietojam vienādojumā $a x^{2}+b x+c=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto identitāti:
+Pamatosim, ja kvadrātvienādojuma $a x^{2}+b x+c=0$ sakne ir $\frac{p}{q}$ (nesaīsināma daļa), tad $a$ dalās ar $q$. levietojam vienādojumā $a x^{2}+b x+c=0$ tā sakni $x=\frac{p}{q}$ un pārveidojam iegūto identitāti:
 
 $$
 \begin{gathered}
@@ -573,11 +606,11 @@ Lielākā $N$ vērtība ir 6. Pamatosim, ja iekrāsotas 6 rūtinas, tad jebkuram
 
 Ja nevienā rindā nav vairāk kā divas iekrāsotas rūtiņas, tad pēc Dirihlē principa divas iekrāsotas rūtinas ir vismaz divās rindās. Izvēlamies šīs divas (vai divas no trim, ja trīs rindās ir pa divām iekrāsotām rūtiņām) rindas. Tad izvēlētajās divās rindās jau ir tieši četras iekrāsotas rūtinas. Tā kā ir palikušas divas iekrāsotas rūtinas, tad pietiek izvēēeties divas kolonnas, lai iekrāsotās rūtiņas atrastos šajās kolonnās.
 
-Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$, tad īpašība nav spēkā, piemēram, 7. att. dotajam rūtinuu izvietojumam. levērojam, ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas iekrāsotās rūtiņas.
+Pamatosim, ka lielākām $N$ vētībām īpašība nav spēkā visām tabulām. Ja $N=7$, tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtinuu izvietojumam. levērojam, ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas iekrāsotās rūtiņas.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-07.jpg?height=237&width=215&top_left_y=1193&top_left_x=955)
 
-7. att.
+7.att.
 
 
 
@@ -676,13 +709,13 @@ Riņka līnijā $\omega$ ievilkta vienādsānu trapece $A B C D$, punkts $H$ ir 
 
 ## Atrisinājums
 
-Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8. att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\sphericalangle M A C=\sphericalangle C D M$ un $\sphericalangle A M D=\sphericalangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\sphericalangle D C M=\sphericalangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
+Pierādīsim, ka $H$ ir rinka līnijas $\omega$ centrs. Tā kā $A C=D M$, tad $\overline{C D A}=\overline{D A M}$ un $\overline{A k M}=\overline{D A M}-\overline{D A}=$ $=\overline{C D A}-\overline{D A}=\overline{C m D}$ (skat. 8.att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad $A M=C D$. levērojam, ka $\sphericalangle M A C=\sphericalangle C D M$ un $\sphericalangle A M D=\sphericalangle D C A$ kā ievilktie leņki, kas balstās attiecīgi uz viena un tā paša loka. Tad $\triangle A Y M=\triangle D Y C$ pēc pazīmes $\ell m \ell$ un $M Y=Y C$ kā atbilstošās malas. Esam ieguvuši, ka punkts $Y$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Trijstūris $M X C$ ir vienādsānu, jo $\sphericalangle D C M=\sphericalangle A M C$ kā leņki, kas balstās uz vienādiem lokiem $D A M$ un $A D C$, tātad punkts $X$ atrodas vienādā attālumā no nogriežņa $M C$ galapunktiem. Līdz ar to $X Y$ (jeb $X H$ ) ir nogriežņa $M C$ vidusperpendikuls. levērojam, ka simetrijas dē! $M H$ ir malu $A B$ un $C D$ vidusperpendikuls. Tā kā četrstūris $D A M C$ ir ievilkts četrstūris, tad tam apvilktās rinka līnijas centrs atrodas malu vidusperpendikulu krustpunktā, līdz ar to punkts $H$ ir rinka līnijas $\omega$ centrs.
 
-Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleņka trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
+Tā kā punkts $M$ ir mazākā loka $A B$ viduspunkts, tad $A M=M B$. Trijstūris $A M B$ ir vienādsānu taisnleņķa trijstūris, jo balstās uz diametra $A B$, tad pēc Pitagora teorēmas $A B^{2}=A M^{2}+M B^{2}=C D^{2}+C D^{2}=2 C D^{2}$.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-08.jpg?height=500&width=638&top_left_y=1555&top_left_x=771)
 
-8. att.
+8.att.
 
 
 
@@ -714,7 +747,7 @@ $$
 
 Tātad esam ieguvuši, ka $\overline{a b c} d$ ir salikts skaitlis, kas ir pretrunā ar doto. Līdz ar to vienādojumam nav veselu sakņu.
 
-b) Nē, saknes nevar būt racionāli skaitli. Pieņemsim, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam daḷas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitḷi. Pārveidojam vienādojuma kreisās puses izteiksmi:
+b) Nē, saknes nevar būt racionāli skaitli. Pieņemsim, ka saknes vienādojumam ir racionālas, tas ir, $-\frac{p_{1}}{q_{1}},-\frac{p_{2}}{q_{2}}$ un $-\frac{p_{3}}{q_{3}}$, pie kam daļas ir nesaīsināmas jeb $p_{i}$ un $q_{i}$ ir savstarpēji pirmskaitļi. Pārveidojam vienādojuma kreisās puses izteiksmi:
 
 $$
 a x^{3}+b x^{2}+c x+d=a\left(x+\frac{p_{1}}{q_{1}}\right)\left(x+\frac{p_{2}}{q_{2}}\right)\left(x+\frac{p_{3}}{q_{3}}\right)=\frac{a}{q_{1} q_{2} q_{3}}\left(q_{1} x+p_{1}\right)\left(q_{2} x+p_{2}\right)\left(q_{3} x+p_{3}\right)
@@ -758,7 +791,7 @@ Tātad vienādība $q_{1} q_{2} q_{3} \cdot \overline{a b c d}=a\left(10 q_{1}+p
 
 # <lo-sample/> LV.VOL.2020.12.5
 
-Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceḷu, celi ārpus pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceḷu pārvaldi spēlē šādu spēli: katru dienu biznesmenis privatizē vienu celu, bet celu pārvalde nojauc desmit neprivatizētus celus. Pierādīt, ka biznesmenis var panākt, ka pēc kāda laika viņam pieder ciklisks celu maršruts kas iet caur tieši 70 pilsētām, katrā iegriežoties tieši vienu reizi!
+Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceļu, celi ārpus pilsētām nekrustojas (izmantoti viadukti). Biznesmenis ar ceļu pārvaldi spēlē šādu spēli: katru dienu biznesmenis privatizē vienu celu, bet celu pārvalde nojauc desmit neprivatizētus celus. Pierādīt, ka biznesmenis var panākt, ka pēc kāda laika viņam pieder ciklisks celu maršruts kas iet caur tieši 70 pilsētām, katrā iegriežoties tieši vienu reizi!
 
 <small>
 
@@ -770,17 +803,17 @@ Kādā valstī ir 2020 pilsētas, katra ar katru ir savienota ar ceḷu, celi ā
 
 ## Atrisinājums
 
-Vispirms biznesmenis sev var izveidot celu virkni no 67 celiem caur kādām pilsētām $A_{1}-A_{2}-A_{3}-\ldots-A_{67}-A_{68}$. To noteikti var izdarī, jo pat pēc pēdējā gājiena ceḷu pārvalde ir nojaukusi tikai $67 \cdot 10=670$ celus, bet no katras pilsētas iziet 2019 ceḷi. Nosauksim pilsētas $A_{1}, A_{2}, \ldots, A_{68}$ par zalām.
+Vispirms biznesmenis sev var izveidot celu virkni no 67 celiem caur kādām pilsētām $A_{1}-A_{2}-A_{3}-\ldots-A_{67}-A_{68}$. To noteikti var izdarī, jo pat pēc pēdējā gājiena ceļu pārvalde ir nojaukusi tikai $67 \cdot 10=670$ celus, bet no katras pilsētas iziet 2019 ceļi. Nosauksim pilsētas $A_{1}, A_{2}, \ldots, A_{68}$ par zalām.
 
-Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{1}$ un iet uz pilsētām $S_{1}, S_{2}, \ldots, S_{40}$ (skat. 9. att.), kas nav zalas. To noteikti var izdarī, jo no pilsētas $A_{1}$ iziet $2019-68=1951$ celš uz pilsētām, kas nav zaḷas, bet ceḷu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40) \cdot 10=1070$ celus. Nosauksim pilsētas $S_{1}, \ldots, S_{40}$ par sarkanām.
+Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{1}$ un iet uz pilsētām $S_{1}, S_{2}, \ldots, S_{40}$ (skat. 9.att.), kas nav zalas. To noteikti var izdarī, jo no pilsētas $A_{1}$ iziet $2019-68=1951$ celš uz pilsētām, kas nav zaļas, bet ceļu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40) \cdot 10=1070$ celus. Nosauksim pilsētas $S_{1}, \ldots, S_{40}$ par sarkanām.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-10.jpg?height=262&width=1418&top_left_y=658&top_left_x=381)
 
-9. att.
+9.att.
 
-Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{68}$ un iet uz pilsētām $D_{1}, D_{2}, \ldots, D_{40}$, kas nav ne zalas, ne sarkanas. To noteikti var izdarīt, jo no pilsētas $A_{68}$ iziet $2019-68-40=1911$ ceḷi uz pilsētām, kas nav ne zaḷas, ne sarkanas, bet ceḷu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40+40) \cdot 10=1470$ celus.
+Nākamajā etapā biznesmenis var sev privatizēt 40 celus, kas iziet no pilsētas $A_{68}$ un iet uz pilsētām $D_{1}, D_{2}, \ldots, D_{40}$, kas nav ne zalas, ne sarkanas. To noteikti var izdarīt, jo no pilsētas $A_{68}$ iziet $2019-68-40=1911$ ceļi uz pilsētām, kas nav ne zaļas, ne sarkanas, bet ceļu pārvalde pat pēdējā gājienā kopā ir nojaukusi tikai $(67+40+40) \cdot 10=1470$ celus.
 
-Uz doto brīdi ceḷu pārvalde ir nojaukusi 1470 celus, bet 40 sarkanās ar 40 zalajām pilsētām kopā savieno $40 \cdot 40=1600$ ceḷi, tātad vismaz 130 no tiem vēl nav nojaukti. Pienemsim, ka nav nojaukts celšs, starp pilsētām $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo celu un viņš būs ieguvis ciklisku maršrutu caur 70 pilsētām (skat. 10. att.).
+Uz doto brīdi ceļu pārvalde ir nojaukusi 1470 celus, bet 40 sarkanās ar 40 zalajām pilsētām kopā savieno $40 \cdot 40=1600$ ceļi, tātad vismaz 130 no tiem vēl nav nojaukti. Pienemsim, ka nav nojaukts celšs, starp pilsētām $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo celu un viņš būs ieguvis ciklisku maršrutu caur 70 pilsētām (skat. 10.att.).
 
 ![](https://cdn.mathpix.com/cropped/2024_07_24_55494e53b52a18028c6bg-10.jpg?height=399&width=335&top_left_y=1389&top_left_x=922)
 
