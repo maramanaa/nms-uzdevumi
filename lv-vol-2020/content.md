@@ -753,11 +753,10 @@ Simetrijas dēļ las pats attiecas uz gadījumiem, kad fiksējam $x, y$ un $x, z
 Tātad izteiksme $F$ maksimālo vērtību sasniedz tad, kad $x, y, z \in\{1 ; 2020\}$.
 Apskatām izteiksmes $F$ vērtību, ja $x, y, z \in\{1 ; 2020\}$.
 
-$$\begin{aligned}
-& \quad x=y=z=1 \text { vai } x=y=z=2020, \operatorname{tad} F(x ;x ;x)=9 \\
-& \quad x=y=1 \text { un } z=2020, \operatorname{tad} F(1 ;1 ;2020)=2022 \cdot 2 \frac{1}{2020}=\frac{2022 \cdot 4041}{2020} \\
-& \quad x=y=2020 \text { un } z=1, \operatorname{tad} F(2020 ;2020 ;1)=4041 \cdot 1 \frac{2}{2020}=\frac{4041 \cdot 2022}{2020}
-\end{aligned}$$
+
+- $x=y=z=1$ vai $x=y=z=2020$, tad $F(x ;x ;x)=9$
+- $x=y=1$ un $z=2020$, tad $F(1 ;1 ;2020)=2022 \cdot 2 \frac{1}{2020}=\frac{2022 \cdot 4041}{2020}$
+- $x=y=2020$ un $z=1$, tad $F(2020 ;2020 ;1)=4041 \cdot 1 \frac{2}{2020}=\frac{4041 \cdot 2022}{2020}$
 
 Līdz ar to dotās izteiksmes vislielākā vērtība ir
 $\frac{4041 \cdot 2022}{2020}$.
@@ -935,4 +934,3 @@ $S_{i}$ un $D_{j}$. Tad pēdējā gājienā biznesmenis var privatizēt šo ceļ
 viņš būs ieguvis ciklisku maršrutu caur $70$ pilsētām (skat. 10.att.).
 
 ![](LV.VOL.2020.12.5B.png)
-
