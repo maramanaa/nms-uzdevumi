@@ -318,7 +318,9 @@ $\sphericalangle AEC+\sphericalangle FBG=(\sphericalangle AED+\sphericalangle DE
 
 # <lo-sample/> LV.VOL.2020.10.4
 
-Aplūkojam skaitlu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais loceklis ir 7 un katru nākamo iegūst, iepriekšējam pierakstot galā 37. Pierādīt, ka neviens šīs virknes loceklis nedalās ar 17.
+Aplūkojam skaitļu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais
+loceklis ir $7$ un katru nākamo iegūst, iepriekšējam pierakstot galā $37$.
+Pierādīt, ka neviens šīs virknes loceklis nedalās ar $17$.
 
 <small>
 
@@ -330,31 +332,52 @@ Aplūkojam skaitlu virkni $7 ; 737 ; 73737 ; 7373737 ; \ldots$, kuras pirmais lo
 
 ## Atrisinājums
 
-Apzīmējam virknes loceklus ar $s_{0}=7, s_{1}=737, s_{2}=73737, \ldots$
+Apzīmējam virknes locekļus ar $s_{0}=7, s_{1}=737, s_{2}=73737, \ldots$
 
-Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100 s_{k}+37$. Patiešām, skaitli pareizinot ar 100 tam tiek galā pierakstītas divas nulles, bet pieskaitot 37 šīs nulles pārvēršas par 37, tātad šī operācija pieraksta skaitla galā 37. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar 17, $a_{k}=s_{k}$ mod 17. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas nulles.
+Redzams, ka virknē ir spēkā sakarība $s_{k+1}=100s_{k}+37$. Patiešām, skaitļi
+pareizinot ar $100$ tam tiek galā pierakstītas divas nulles, bet pieskaitot
+$37$ šīs nulles pārvēršas par $37$, tātad šī operācija pieraksta skaitļa galā
+$37$. Apzīmēsim ar $a_{k}$ atlikumu virkni, kas rodas $s_{k}$ dalot ar $17$,
+$a_{k}=s_{k}$ mod $17$. Mums jāpierāda, ka virknē ( $a_{k}$ ) nav nevienas
+nulles.
 
-Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs tikai no iepriekšējā
+Arī virknes $a_{k}$ katrs loceklis (tāpat kā virknei $s_{k}$ ) ir atkarīgs
+tikai no iepriekšējā
 
-$$
-a_{k+1}=s_{k+1} \bmod 17=100 s_{k}+37 \bmod 17=15 a_{k}+3 \bmod 17
-$$
+$$a_{k+1}=s_{k+1} \bmod 17=100s_{k}+37 \bmod 17=15a_{k}+3 \bmod 17$$
 
-Izmantojot šo formulu un to, ka $a_{0}=7 \bmod 17=7$, aprēkināsim virknes $a_{k}$ pirmos loceklus.
+Izmantojot šo formulu un to, ka $a_{0}=7 \bmod 17=7$, aprēķināsim virknes
+$a_{k}$ pirmos locekļus.
 
-| $k$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $a_{k}(\bmod 17)$ | 7 | 6 | 8 | 4 | 12 | 13 | 11 | 15 | 7 |
 
-Esam ieguvušì, ka $a_{0}=a_{8}=7$. Tā kā šajā virknē katrs loceklis ir atkarīgs tikai no iepriekšējā, tad šī virkne būs periodiska ar periodu 8: no tā, ka $a_{0}=a_{8}$, secinām, ka $a_{1}=a_{9}$, tad $a_{2}=a_{10}$ utt.
+| $k$  | $a_{k}(\bmod 17)$ |  
+| ---- | ----------------- |  
+| $0$  | $7$               |  
+| $1$  | $6$               |  
+| $2$  | $8$               |  
+| $3$  | $4$               |  
+| $4$  | $12$              |  
+| $5$  | $13$              |  
+| $6$  | $11$              |  
+| $7$  | $15$              |  
+| $8$  | $7$               |
 
-Tā kā starp pirmajiem 8 locekliem šajā virknē nav nevienas nulles, tad, tā kā tā ir periodiska, tad arī tālāk tajā nebūs nevienas nulles.
+
+Esam ieguvuši, ka $a_{0}=a_{8}=7$. Tā kā šajā virknē katrs loceklis ir
+atkarīgs tikai no iepriekšējā, tad šī virkne būs periodiska ar periodu $8$ :
+no tā, ka $a_{0}=a_{8}$, secinām, ka $a_{1}=a_{9}$, tad $a_{2}=a_{10}$ utt.
+
+Tā kā starp pirmajiem $8$ locekļiem šajā virknē nav nevienas nulles, tad, tā kā
+tā ir periodiska, tad arī tālāk tajā nebūs nevienas nulles.
 
 
 
 # <lo-sample/> LV.VOL.2020.10.5
 
-Dotas četras pēc ārējā izskata vienādas monētas, katras monētas masa ir 20 g vai 21 g . Kā noteikt katras monētas masu ar trīs svēršanām uz elektroniskajiem svariem, kas rāda uz svariem uzlikto monētu kopējo masu?
+Dotas četras pēc ārējā izskata vienādas monētas, katras monētas masa ir
+$20~\mathrm{g}$ vai $21~\mathrm{g}$ . Kā noteikt katras monētas masu ar trīs
+svēršanām uz elektroniskajiem svariem, kas rāda uz svariem uzlikto monētu
+kopējo masu?
 
 <small>
 
@@ -366,26 +389,28 @@ Dotas četras pēc ārējā izskata vienādas monētas, katras monētas masa ir 
 
 ## Atrisinājums
 
-Apzīmējam monētas ar $A, B, C, D$. Pirmajā svēršanā uz svariem liekam $A$ un $B$.
+Apzīmējam monētas ar $A, B, C, D$. Pirmajā svēršanā uz svariem liekam $A$ un
+$B$.
 
-- Ja $A+B=40$ vai $A+B=42$, tad $A$ un $B$ masas jau zināmas, tās attiecīgi ir 20 g un 20 g vai 21 g un 21 g . Pēc tam ar divām svēřǎanām atrodam $C$ un $D$ masu.
+- Ja $A+B=40$ vai $A+B=42$, tad $A$ un $B$ masas jau zināmas, tās attiecīgi ir
+  $20~\mathrm{g}$ un $20~\mathrm{g}$ vai $21~\mathrm{g}$ un $21~\mathrm{g}$ .
+  Pēc tam ar divām svēršanām atrodam $C$ un $D$ masu.
 - Ja $A+B=41$, tad otrajā svēršanā uz svariem liekam $A$ un $C$.
-- Ja $A+C=40$ un $A+C=42$, tad zinām $A$ un $C$ masu, tātad arī $B$ masu. Trešajā svēršanā uz svariem liekam $D$ un nosakām tās masu.
-- Ja $A+C=41$, tad no tā, ka $A+B=A+C$, secinām, ka $B=C$. Trešajā reizē uz svariem liekam $B, C$ un D. levērojam, ka $B+C$ ir pāra skaitlis (40 vai 42). Apskatot visus iespējamos svēršanas iznākumus, iegūstam katras monētas masu, skat. 5.att.
+- Ja $A+C=40$ un $A+C=42$, tad zinām $A$ un $C$ masu, tātad arī $B$ masu.
+  Trešajā svēršanā uz svariem liekam $D$ un nosakām tās masu.
+- Ja $A+C=41$, tad no tā, ka $A+B=A+C$, secinām, ka $B=C$. Trešajā reizē uz
+  svariem liekam $B , C$ un $D$. levērojam, ka $B+C$ ir pāra skaitlis ($40$
+  vai $42$). Apskatot visus iespējamos svēršanas iznākumus, iegūstam katras
+  monētas masu, skat. 5.att.
 
-| $\boldsymbol{B}+\boldsymbol{C}$ | $\boldsymbol{B}+\boldsymbol{C}+\boldsymbol{D}$ | $\boldsymbol{D}$ | $\boldsymbol{B}$ | $\boldsymbol{C}$ | $\boldsymbol{A}$ |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 40 | 60 | 20 | 20 | 20 | 21 |
-| 40 | 61 | 21 | 20 | 20 | 21 |
-| 42 | 62 | 20 | 21 | 21 | 20 |
-| 42 | 63 | 21 | 21 | 21 | 20 |
-| 5.att. |  |  |  |  |  |
+![](LV.VOL.2020.10.5A.png)
 
 
 
 # <lo-sample/> LV.VOL.2020.11.1
 
-Dota funkcija $f(x)=m x^{2}+(m-1) x+\frac{2020}{m-2019}$. Ar kādām parametra $m$ vērtībām funkcija ir augoša intervālā $(1 ; 2)$ ?
+Dota funkcija $f(x)=mx^{2}+(m-1)x+\frac{2020}{m-2019}$. Ar kādām parametra
+$m$ vērtībām funkcija ir augoša intervālā $(1; 2)$ ?
 
 <small>
 
@@ -397,15 +422,14 @@ Dota funkcija $f(x)=m x^{2}+(m-1) x+\frac{2020}{m-2019}$. Ar kādām parametra $
 
 ## Atrisinājums
 
-levērojam, ka $m \neq$ 2019. Lai funkcija būtu augoša, jāizpildās nevienādībai $f(1)<f(2)$. Atrisinām šo nevienādību:
+levērojam, ka $m \neq$ 2019$ . Lai funkcija būtu augoša, jāizpildās
+nevienādībai $f(1) < f(2)$. Atrisinām šo nevienādību:
 
-$$
-\begin{aligned}
-m+(m-1)+\frac{2020}{m-2019} & <4 m+(m-1) \cdot 2+\frac{2020}{m-2019} \\
-2 m-1 & <6 m-2 \\
+$$\begin{aligned}
+m+(m-1)+\frac{2020}{m-2019} & < 4 m+(m-1) \cdot 2+\frac{2020}{m-2019} \\
+2m-1 & < 6m-2 \\
 m & >\frac{1}{4}
-\end{aligned}
-$$
+\end{aligned}$$
 
 Vēl jāgarantē, ka parabolas virsotne neatrodas intervālā $(1 ; 2)$. Tā kā $m$ vērtības ir pozitīvas, tad parabolas zari ir vērsti uz augšu un, lai dotajā intervālā funkcija būtu augoša, jāizpildās nevienādībai $x_{v} \leq 1$ jeb $\frac{1-m}{2 m} \leq 1$. Reizinot nevienādību ar $2 m>0$, iegūstam $1-m \leq 2 m$ jeb $m \geq \frac{1}{3}$. Līdz ar to funkcija ir augoša intervālā $(1 ; 2)$, ja $m \in\left[\frac{1}{3} ; 2019\right) \cup$ $\cup(2019 ;+\infty)$ .
 
