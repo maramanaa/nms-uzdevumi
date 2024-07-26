@@ -19,7 +19,7 @@ $$\frac{(3n-1)(n+4)}{n+2}=\frac{3n^{2}+11n-4}{n+2}=\frac{3n(n+2)+5n-4}{n+2}=\fra
 
 Tā kā $3n+5$ ir naturāls skaitlis, tad dotās izteiksmes vērtība būs vesels
 skaitlis tikai tad, ja $\frac{-14}{n+2}$ ir vesels skaitlis, bet tas iespējams,
-ja $(n+2)$ ir skaitļa $14$ dalītājs. levērojot, ka $n$ ir naturāls, iegūstam,
+ja $(n+2)$ ir skaitļa $14$ dalītājs. Ievērojot, ka $n$ ir naturāls, iegūstam,
 ka $n+2=7$ vai $n+2=14$, no kā iegūstam, ka $n=5$ vai $n=12$.
 
 
@@ -141,7 +141,7 @@ $a, b, c, d$, ka vienlaicīgi izpildās šādi nosacījumi:
 - $1+2+6$ dalās ar $3$ ,
 - $1+2+3$ dalās ar $6$ .
 
-**b)** Nē, neeksistē. levērojam, ka
+**b)** Nē, neeksistē. Ievērojam, ka
 
 - $a+(b+c+d)$ dalās ar $a$ (jo abi saskaitāmie dalās ar $a$ ),
 - $b+(c+d+a)$ dalās ar $b$,
@@ -298,7 +298,7 @@ $\sphericalangle AEC+\sphericalangle FBG=180^{\circ}$.
 
 ## Atrisinājums
 
-levērojam, ka $\triangle ABD \sim \triangle BDC$ pēc pazīmes
+Ievērojam, ka $\triangle ABD \sim \triangle BDC$ pēc pazīmes
 $\ell \ell$, jo $\sphericalangle ADB=\sphericalangle BDC=90^{\circ}$ un 
 $\sphericalangle BAD=90^{\circ}-\sphericalangle ABD=\sphericalangle DBC$
 (skat. 4.att.). Tātad trijstūru malas ir proporcionālas, tas ir,
@@ -399,7 +399,7 @@ $B$.
 - Ja $A+C=40$ un $A+C=42$, tad zinām $A$ un $C$ masu, tātad arī $B$ masu.
   Trešajā svēršanā uz svariem liekam $D$ un nosakām tās masu.
 - Ja $A+C=41$, tad no tā, ka $A+B=A+C$, secinām, ka $B=C$. Trešajā reizē uz
-  svariem liekam $B , C$ un $D$. levērojam, ka $B+C$ ir pāra skaitlis ($40$
+  svariem liekam $B , C$ un $D$. Ievērojam, ka $B+C$ ir pāra skaitlis ($40$
   vai $42$). Apskatot visus iespējamos svēršanas iznākumus, iegūstam katras
   monētas masu, skat. 5.att.
 
@@ -422,7 +422,7 @@ $m$ vērtībām funkcija ir augoša intervālā $(1; 2)$ ?
 
 ## Atrisinājums
 
-levērojam, ka $m \neq 2019$ . Lai funkcija būtu augoša, jāizpildās
+Ievērojam, ka $m \neq 2019$ . Lai funkcija būtu augoša, jāizpildās
 nevienādībai $f(1) < f(2)$. Atrisinām šo nevienādību:
 
 $$\begin{aligned}
@@ -449,7 +449,7 @@ $m \in\left[\frac{1}{3} ; 2019\right) \cup$ $\cup(2019 ;+\infty)$ .
 
 ## Atrisinājums
 
-levērojam, ka $m \neq 2019$. Ja $m<0$, tad parabolas virsotnes abscisa
+Ievērojam, ka $m \neq 2019$. Ja $m<0$, tad parabolas virsotnes abscisa
 $\frac{1-m}{2m}<0$, kas nozīmē, ka funkcija nav augoša dotajā intervālā.
 Ja $m=0$, tad iegūstam $f(x)=-x-\frac{2020}{2019}$ un tā ir dilstoša funkcija.
 Ja $m>0$, tad parabolas zari ir vērsti uz augšu un, lai dotajā intervālā
@@ -584,7 +584,7 @@ saknes ir **a)** veseli skaitļi, **b)** racionāli skaitļi?
 
 ## Atrisinājums
 
-**a)** Nē, saknes nevar būt veseli skaitļi. levērojam, ka
+**a)** Nē, saknes nevar būt veseli skaitļi. Ievērojam, ka
 $c \neq 0$, jo pretējā gadījumā $\overline{abc}$ nav pirmskaitlis. Tas nozīmē,
 ka $0$ nav vienādojuma sakne. Ja $x \geq 0$, tad $a x^{2}+b x+c \geq c>0$.
 Tātad vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar
@@ -675,7 +675,7 @@ palikušas divas iekrāsotas rūtiņas, tad pietiek izvēlēties divas kolonnas,
 iekrāsotās rūtiņas atrastos šajās kolonnās.
 
 Pamatosim, ka lielākām $N$ vērtībām īpašība nav spēkā visām tabulām. Ja $N=7$,
-tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtiņu izvietojumam. levērojam,
+tad īpašība nav spēkā, piemēram, 7.att. dotajam rūtiņu izvietojumam. Ievērojam,
 ka, izvēloties jebkuras divas rindas, paliek trīs kolonnas, kurās atrodas
 iekrāsotās rūtiņas.
 
@@ -786,7 +786,7 @@ $AB^{2}=2CD^{2}$.
 Pierādīsim, ka $H$ ir riņķa līnijas $\omega$ centrs. Tā kā $AC=DM$, tad
 $\overline{CDA}=\overline{DAM}$ un $\overline{AkM}=\overline{DAM}-\overline{DA}=$ $=\overline{CDA}-\overline{DA}=\overline{CmD}$
 (skat. 8.att.). Tā kā uz vienādiem lokiem balstās vienādas hordas, tad
-$AM=CD$. levērojam, ka $\sphericalangle MAC=\sphericalangle CDM$ un
+$AM=CD$. Ievērojam, ka $\sphericalangle MAC=\sphericalangle CDM$ un
 $\sphericalangle AMD=\sphericalangle DCA$ kā ievilktie leņķi, kas balstās
 attiecīgi uz viena un tā paša loka. Tad $\triangle AYM=\triangle DYC$ pēc
 pazīmes $\ell m \ell$ un $MY=YC$ kā atbilstošās malas. Esam ieguvuši, ka
@@ -794,7 +794,7 @@ punkts $Y$ atrodas vienādā attālumā no nogriežņa $MC$ galapunktiem. Trijst
 $MXC$ ir vienādsānu, jo $\sphericalangle DCM=\sphericalangle AMC$ kā leņķi,
 kas balstās uz vienādiem lokiem $DAM$ un $ADC$, tātad punkts $X$ atrodas
 vienādā attālumā no nogriežņa $MC$ galapunktiem. Līdz ar to $XY$ (jeb $XH$ )
-ir nogriežņa $MC$ vidusperpendikuls. levērojam, ka simetrijas dēļ $MH$ ir malu
+ir nogriežņa $MC$ vidusperpendikuls. Ievērojam, ka simetrijas dēļ $MH$ ir malu
 $AB$ un $CD$ vidusperpendikuls. Tā kā četrstūris $DAMC$ ir ievilkts četrstūris,
 tad tam apvilktās riņķa līnijas centrs atrodas malu vidusperpendikulu
 krustpunktā, līdz ar to punkts $H$ ir riņķa līnijas $\omega$ centrs.
@@ -823,7 +823,7 @@ ka visas šīs saknes ir **a)** veseli skaitļi, **b)** racionāli skaitļi?
 
 ## Atrisinājums
 
-**a)** Nē, saknes nevar būt veseli skaitļi. levērojam, ka $d \neq 0$, jo
+**a)** Nē, saknes nevar būt veseli skaitļi. Ievērojam, ka $d \neq 0$, jo
 pretējā gadījumā $\overline{abcd}$ nav pirmskaitlis. Tas nozīmē, ka $0$ nav
 vienādojuma sakne. Ja $x \geq 0$, tad $ax^{3}+bx^{2}+cx+d \geq d > 0$. Tātad
 vienādojumam var būt tikai negatīvas saknes. Apzīmējot saknes ar
