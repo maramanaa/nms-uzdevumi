@@ -372,7 +372,7 @@ pirmskaitļi, tad $c$ jādalās ar $13$, tas iespējams tikai tad, kad $c=0$.
 
 # <lo-sample/> LV.NOL.2017.7.3
 
-Zane uz papīra lapas uzzīmēja riņka līniju un kvadrātu (tā, ka neviens no tiem
+Zane uz papīra lapas uzzīmēja riņķa līniju un kvadrātu (tā, ka neviens no tiem
 nepieskaras lapas malai) un tad sagrieza lapu pa to kontūriem. Cik daļās var būt
 sagriezta lapa? Atrodi visus variantus, nav jāpamato, ka citu nav! Vienu piemēru,
 kā lapa var būt sagriezta $4$ daļās, skat. 14.att.
@@ -1277,9 +1277,10 @@ $x=1521, y=4836, z=496$.
 
 # <lo-sample/> LV.NOL.2017.11.4
 
-Četras riņka līnijas ārēji pieskaras tā, kā parādīts 34.att. Pierādīt, ka četrstūrim, ko veido riņka līniju pieskaršanās punkti, var apvilkt riņ̂ka līniju!
+Četras riņķa līnijas ārēji pieskaras tā, kā parādīts 34.att. Pierādīt, ka
+četrstūrim, ko veido riņķa līniju pieskaršanās punkti, var apvilkt riņķa līniju!
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-14.jpg?height=438&width=393&top_left_y=1683&top_left_x=860)
+![](LV.NOL.2017.11.4.png)
 
 <small>
 
@@ -1291,19 +1292,37 @@ $x=1521, y=4836, z=496$.
 
 ## Atrisinājums
 
-Riņka līniju pieskaršanās punktus apzīmējam $\operatorname{ar} A, B, C$ un $D$ (skat. 35.att.). Novelkam doto riņķa līniju kopīgās pieskares $A M$ un $B M$. Trijstūris $A M B$ ir vienādsānu, jo $A M=M B$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no punkta ārpus tās. Līdz ar to $\sphericalangle M A B=\sphericalangle M B A=\alpha$ kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru vienādības.
+Riņķa līniju pieskaršanās punktus apzīmējam ar $A, B, C$ un $D$ (skat. 35.att.).
+Novelkam doto riņķa līniju kopīgās pieskares $AM$ un $BM$. Trijstūris $AMB$ ir
+vienādsānu, jo $AM=MB$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no
+punkta ārpus tās. Līdz ar to $\sphericalangle MAB=\sphericalangle MBA=\alpha$
+kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru
+vienādības.
 
-levērojam, ka $\sphericalangle D A B+\sphericalangle A B C+\sphericalangle B C D+\sphericalangle C D A=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$, no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā $\sphericalangle D A B+\sphericalangle B C D=\alpha+\beta+\gamma+\delta=180^{\circ}$, tad četrstūrim $A B C D$ var apvilkt rink, līniju, kas arī bija jāpierāda.
+levērojam, ka
+$\sphericalangle DAB+\sphericalangle ABC+\sphericalangle BCD+\sphericalangle CDA=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$,
+no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā
+$\sphericalangle DAB+\sphericalangle BCD=\alpha+\beta+\gamma+\delta=180^{\circ}$,
+tad četrstūrim $ABCD$ var apvilkt riņķa, līniju, kas arī bija jāpierāda.
 
-*Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares leņķi.
+*Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares
+leņķi.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-15.jpg?height=844&width=958&top_left_y=189&top_left_x=572)
+![](LV.NOL.2017.11.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.11.5
 
-Antra un Baiba spēlē spēli uz $3 \times 3$ rūtiņuu laukuma. Spēlētājas gājienus izdara pēc kārtas, katrā gājienā kādā no tukšajām rūtiņām ierakstot vai nu nullíti, vai krustinu (katra spēlētāja katrā gājienā var rakstīt jebkuru no šiem simboliem). Kad viss laukums aizpildīts, tiek saskaitīts spēles rezultāts. Par katru rindu, kolonnu un diagonāli (tādu, kas satur 3 rūtiņas), ja tajā ir pāra skaits krustiņu, punktu saņem Antra, bet, ja krustinu skaits ir nepāra, tad punktu saņem Baiba. Uzvar spēlētāja, kuras punktu kopsumma ir lielāka. Pierādīt, ka spēlētājai, kura sāk spēli, ir uzvaroša stratēḡija, un aprakstīt to!
+Antra un Baiba spēlē spēli uz $3 \times 3$ rūtiņu laukuma. Spēlētājas gājienus
+izdara pēc kārtas, katrā gājienā kādā no tukšajām rūtiņām ierakstot vai nu
+nullīti, vai krustiņu (katra spēlētāja katrā gājienā var rakstīt jebkuru no
+šiem simboliem). Kad viss laukums aizpildīts, tiek saskaitīts spēles rezultāts.
+Par katru rindu, kolonnu un diagonāli (tādu, kas satur $3$ rūtiņas), ja tajā ir
+pāra skaits krustiņu, punktu saņem Antra, bet, ja krustiņu skaits ir nepāra,
+tad punktu saņem Baiba. Uzvar spēlētāja, kuras punktu kopsumma ir lielāka.
+Pierādīt, ka spēlētājai, kura sāk spēli, ir uzvaroša stratēģija, un aprakstīt
+to!
 
 <small>
 
@@ -1315,27 +1334,38 @@ Antra un Baiba spēlē spēli uz $3 \times 3$ rūtiņuu laukuma. Spēlētājas g
 
 ## Atrisinājums
 
-Aplūkosim gadījumu, kad pirmā gājienu izdara Antra un izmanto tālāk aprakstīto stratēģiju. Pirmajā gājienā centrālajā rūtịnā Antra ieliek krustiņu (skat. 36.att.).
+Aplūkosim gadījumu, kad pirmā gājienu izdara Antra un izmanto tālāk aprakstīto
+stratēģiju. Pirmajā gājienā centrālajā rūtiņā Antra ieliek krustiņu
+(skat. 36.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-15.jpg?height=130&width=121&top_left_y=1460&top_left_x=996)
+![](LV.NOL.2017.11.5A.png)
 
-36.att.
+Uz katru Baibas gājienu Antra atbild, ieliekot pretēju simbolu rūtiņā, kas ir
+simetriska attiecībā pret kvadrāta centru. Piemēram, uz Baibas gājienu „ $0$ ”
+laukuma kreisā apakšējā stūrī, Antra atbild ar „ $x $” laukuma augšējā labajā
+stūrī (skat. 37.att.).
 
-Uz katru Baibas gājienu Antra atbild, ieliekot pretēju simbolu rūtiņā, kas ir simetriska attiecībā pret kvadrāta centru. Piemēram, uz Baibas gājienu „,” laukuma kreisā apakšējā stūrī, Antra atbild ar „x” laukuma augšējā labajā stūrī (skat. 37.att.).
+![](LV.NOL.2017.11.5B.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-15.jpg?height=136&width=138&top_left_y=1808&top_left_x=979)
+Tādējādi pēc katra Antras gājiena veidojas viens trijnieks, kas iet caur
+centrālo rūtiņu un Antra saņem punktu. Šādi par otro rindu, otro kolonnu un
+abām diagonālēm Antra kopā iegūst $4$ punktus. Ja aplūko pirmo un trešo kolonnu,
+tad simetrijas dēļ vienā kolonnā punktu ir ieguvusi viena spēlētāja, bet
+otrā-otra spēlētāja. Tas pats attiecas uz pirmo un trešo rindu. Tātad
+aprakstītā stratēģija vienmēr garantē Antras uzvaru ar rezultātu $6:2$.
 
-37.att.
-
-Tādējādi pēc katra Antras gājiena veidojas viens trijnieks, kas iet caur centrālo rūtiņu un Antra saņem punktu. Šādi par otro rindu, otro kolonnu un abām diagonālēm Antra kopā iegūst 4 punktus. Ja aplūko pirmo un trešo kolonnu, tad simetrijas dē! vienā kolonnā punktu ir ieguvusi viena spēlētāja, bet otrā-otra spēlētāja. Tas pats attiecas uz pirmo un trešo rindu. Tātad aprakstītā stratéġija vienmēr garantē Antras uzvaru ar rezultātu 6:2.
-
-levērosim, ka spēle ir simetriska attiecī̄ā uz izmantotajiem simboliem - pāra skaits krustinuu kādā virzienā nozīmē nepāra skaitu nullišu un otrādi. Tātad, ja pirmā gājienu izdara Baiba, tad viņai centrālajā rūtiņā jāieliek „, 0 ” un tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
+levērosim, ka spēle ir simetriska attiecībā uz izmantotajiem simboliem- pāra
+skaits krustiņu kādā virzienā nozīmē nepāra skaitu nullīšu un otrādi. Tātad,
+ja pirmā gājienu izdara Baiba, tad viņai centrālajā rūtiņā jāieliek „ $0$ ” un
+tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
 
 
 
 # <lo-sample/> LV.NOL.2017.12.1
 
-Jebkuriem diviem pozitīviem skaitlliem $x$ un $y$ piekārtots trešais skaitlis $x^{\lg y}$, ko apzīmēsim ar $x * y$. Pierādīt, ka pozitīviem skaitlliem $x, y$ un $z$ izpildās $(x * y) * z=x *(y * z)$.
+Jebkuriem diviem pozitīviem skaitļiem $x$ un $y$ piekārtots trešais skaitlis
+$x^{\lg y}$, ko apzīmēsim ar $x*y$. Pierādīt, ka pozitīviem skaitļiem $x, y$ un
+$z$ izpildās $(x*y)*z=x*(y*z)$.
 
 <small>
 
@@ -1347,26 +1377,23 @@ Jebkuriem diviem pozitīviem skaitlliem $x$ un $y$ piekārtots trešais skaitlis
 
 ## Atrisinājums
 
-Pierādāmā vienādība $(x * y) * z=x *(y * z)$ ir ekvivalenta vienādībām:
+Pierādāmā vienādība $(x*y)*z=x*(y*z)$ ir ekvivalenta vienādībām:
 
-$$
-x^{\lg y} * z=x * y^{\lg z}
-$$
+$$x^{\lg y}*z=x*y^{\lg z}$$
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 \left(x^{\lg y}\right)^{\lg z}=x^{\lg \left(y^{\lg z}\right)} \\
 x^{\lg y \cdot \lg z}=x^{\lg z \cdot \lg y}
-\end{gathered}
-$$
+\end{gathered}$$
 
-Pēdējā vienādība ir patiesa, tātad pozitīviem skaitliem $x, y$ un $z$ izpildās $(x * y) * z=x *(y * z)$.
+Pēdējā vienādība ir patiesa, tātad pozitīviem skaitļiem $x, y$ un $z$ izpildās
+$(x*y)*z=x*(y*z)$.
 
 
 
 # <lo-sample/> LV.NOL.2017.12.2
 
-Pierādīt, ka $x^{2}+y^{2}+4 \geq 2 x-2 y-x y$, ja $x, y-$ reāli skait!i!
+Pierādīt, ka $x^{2}+y^{2}+4 \geq 2x-2y-xy$, ja $x, y-$ reāli skaitļi!
 
 <small>
 
@@ -1378,24 +1405,29 @@ Pierādīt, ka $x^{2}+y^{2}+4 \geq 2 x-2 y-x y$, ja $x, y-$ reāli skait!i!
 
 ## Atrisinājums
 
-Reizinām nevienādības abas puses ar 2 un veicam ekvivalentus pārveidojumus:
+Reizinām nevienādības abas puses ar $2$ un veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-2 x^{2}+2 y^{2}+8 \geq 4 x-4 y-2 x y \\
-x^{2}+2 x y+y^{2}+x^{2}-4 x+y^{2}+4 y+8 \geq 0 \\
-(x+y)^{2}+\left(x^{2}-4 x+4\right)+\left(y^{2}+4 y+4\right) \geq 0 \\
+$$\begin{gathered}
+2x^{2}+2y^{2}+8 \geq 4x-4y-2xy \\
+x^{2}+2xy+y^{2}+x^{2}-4x+y^{2}+4y+8 \geq 0 \\
+(x+y)^{2}+\left(x^{2}-4x+4\right)+\left(y^{2}+4y+4\right) \geq 0 \\
 (x+y)^{2}+(x-2)^{2}+(y+2)^{2} \geq 0
-\end{gathered}
-$$
+\end{gathered}$$
 
-Tā kā skaitļa kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir trīs nenegatīvu skait|u summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitliem $x$ un $y$.
+Tā kā skaitļa kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir
+trīs nenegatīvu skaitļu summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā
+nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī
+dotā nevienādība ir patiesa visiem reāliem skaitļiem $x$ un $y$.
 
 
 
 # <lo-sample/> LV.NOL.2017.12.3
 
-Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā secībā, iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais skaitlis dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir 1089, jo 9801: 1089 = 9. a) Atrast vēl divus citus pārdabiskus skait|us! b) Pierādīt, ka pārdabisku skait|u ir bezgalīgi daudz!
+Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā
+secībā, iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais
+skaitlis dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir
+$1089$, jo $9801:1089=9$. **a)** Atrast vēl divus citus pārdabiskus skaitļus!
+**b)** Pierādīt, ka pārdabisku skaitļu ir bezgalīgi daudz!
 
 <small>
 
@@ -1407,23 +1439,38 @@ Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā s
 
 ## Atrisinājums
 
-a) Nākamie pārdabiskie skaitļi ir 2178; 10989; 21978; 109989; 219978; 1099989; 2199978; $10891089 ; 10999989 ; 21782178 ; 21999978$.
+**a)** Nākamie pārdabiskie skaitļi ir
+$2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089 ; 10999989 ; 21782178 ; 21999978$.
 
-b) Aplūkojam skait|us, ko veido pierakstot skaitlim 1089 beigās $k(k>1)$ reizes skaitli 1089, tas ir, skait|us formā 10891089...1089. Šāda "pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli 100010001...0001, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem ir trīs nulles. No uzdevuma nosacījumiem, zinot, ka $9801=1089 \cdot 9$, iegūstam
+**b)** Aplūkojam skaitļus, ko veido pierakstot skaitlim $1089$ beigās $k(k > 1)$
+reizes skaitli $1089$, tas ir, skaitļus formā $10891089...1089$. Šāda
+"pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli
+$100010001...0001$, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem
+ir trīs nulles. No uzdevuma nosacījumiem, zinot, ka $9801=1089 \cdot 9$,
+iegūstam
 
 $10891089 \ldots 1089 \cdot 9=1089 \cdot 10001 \ldots 001 \cdot 9=9801 \cdot 10001 \ldots 001=98019801 \ldots 9801$.
 
-Rezultātā ir iegūts sākotnējais skaitlis, kura cipari ir uzrakstīti pretējā secībā. Tā kā $k$ var būt jebkurš naturāls skaitlis, tad esam pierādījuši, ka pārdabisku skait|u ir bezgalīgi daudz.
+Rezultātā ir iegūts sākotnējais skaitlis, kura cipari ir uzrakstīti pretējā
+secībā. Tā kā $k$ var būt jebkurš naturāls skaitlis, tad esam pierādījuši, ka
+pārdabisku skaitļu ir bezgalīgi daudz.
 
-*Piezīme.* Var pierādīt arī, ka visi skaitli, kas iegūti no 1089 vai 2178 , ierakstot tiem vidū patvalīgu skaitu devītnieku, ir pārdabiski, bet šajā gadījumā pierādījums ir sarežḡītāks.
+*Piezīme.* Var pierādīt arī, ka visi skaitli, kas iegūti no $1089$ vai $2178$,
+ierakstot tiem vidū patvaļīgu skaitu devītnieku, ir pārdabiski, bet šajā
+gadījumā pierādījums ir sarežģītāks.
 
 
 
 # <lo-sample/> LV.NOL.2017.12.4
 
-Divas dažādas riņka līnijas iekšēji pieskaras punktā $A$. Lielākās riņka līnijas centrs ir $O$ un taisne $O A$ krusto mazāko riņka līniju punktā $B$, bet lielāko - punktā $C$. Lielākās riņka līnijas diametrs, kas ir perpendikulārs $O A$, krusto mazāko rinķa līniju punktā $D$, bet lielāko - punktā $E$ (punkts $D$ atrodas starp $O$ un $E$, skat. 38.att.). Aprēkināt abu riņka līniju rādiusu garumus, ja $D E=5$ un $B C=7$.
+Divas dažādas riņķa līnijas iekšēji pieskaras punktā $A$. Lielākās riņķa
+līnijas centrs ir $O$ un taisne $OA$ krusto mazāko riņķa līniju punktā $B$,
+bet lielāko- punktā $C$. Lielākās riņķa līnijas diametrs, kas ir perpendikulārs
+$OA$, krusto mazāko riņķa līniju punktā $D$, bet lielāko- punktā $E$ (punkts
+$D$ atrodas starp $O$ un $E$, skat. 38.att.). Aprēķināt abu riņķa līniju
+rādiusu garumus, ja $DE=5$ un $BC=7$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-16.jpg?height=449&width=424&top_left_y=1763&top_left_x=839)
+![](LV.NOL.2017.12.4A.png)
 
 <small>
 
@@ -1435,19 +1482,27 @@ Divas dažādas riņka līnijas iekšēji pieskaras punktā $A$. Lielākās riņ
 
 ## Atrisinājums
 
-Lielākās riņka līnijas rādiusa garumu apzīmējam ar $R$, tad $A O=O E=O C=R$, $O D=O E-E D=R-5$ un $O B=O C-B C=R-7$.
+Lielākās riņķa līnijas rādiusa garumu apzīmējam ar $R$, tad $AO=OE=OC=R$,
+$OD=OE-ED=R-5$ un $OB=OC-BC=R-7$.
 
-Trijstūris $A D B$ ir taisnleņka, jo $\sphericalangle A D B$ balstās uz mazākās riņka līnijas diametra $A B$.
+Trijstūris $ADB$ ir taisnleņka, jo $\sphericalangle ADB$ balstās uz mazākās
+riņķa līnijas diametra $AB$.
 
-Taisnleņka trijstūrī augstuma pret hipotenūzu kvadrāts ir vienāds ar katešu projekciju uz diagonāles reizinājumu, tas ir, $O D^{2}=A O \cdot O B$ jeb $(R-5)^{2}=R(R-7)$. Atrisinot iegūto vienādojumu, iegūstam $3 R=25$ jeb $R=\frac{25}{3}$. Mazākās riņķa līnijas rādiusa garums ir $\frac{A C-B C}{2}=\frac{50}{6}-\frac{7}{2}=\frac{29}{6}$.
+Taisnleņka trijstūrī augstuma pret hipotenūzu kvadrāts ir vienāds ar katešu
+projekciju uz diagonāles reizinājumu, tas ir,
+$OD^{2}=AO \cdot OB$ jeb $(R-5)^{2}=R(R-7)$. Atrisinot iegūto vienādojumu,
+iegūstam $3R=25$ jeb $R=\frac{25}{3}$. Mazākās riņķa līnijas rādiusa garums ir
+$\frac{AC-BC}{2}=\frac{50}{6}-\frac{7}{2}=\frac{29}{6}$.
 
-*Piezīme.* Vienādību $O D^{2}=A O \cdot O B$ var iegūt arī pamatojot, ka $\triangle A O D \sim \triangle D O B$.
+*Piezīme.* Vienādību $OD^{2}=AO \cdot OB$ var iegūt arī pamatojot, ka
+$\triangle AOD \sim \triangle DOB$.
 
 
 
 # <lo-sample/> LV.NOL.2017.12.5
 
-Kādu lielāko skaitu $5 \times 13$ rūtiņu taisnstūru var izgriezt no rūtiņu lapas, kuras izmēri ir a) $41 \times 65$; b) $47 \times 65$ rūtiņas?
+Kādu lielāko skaitu $5 \times 13$ rūtiņu taisnstūru var izgriezt no rūtiņu
+lapas, kuras izmēri ir **a)** $41 \times 65$; **b)** $47 \times 65$ rūtiņas?
 
 <small>
 
@@ -1459,20 +1514,30 @@ Kādu lielāko skaitu $5 \times 13$ rūtiņu taisnstūru var izgriezt no rūtiņ
 
 ## Atrisinājums
 
-a) Lielākais skaits taisnstūru $5 \times 13$, ko var izgriezt no rūtiņuu lapas $41 \times 65$, ir 41, piemēram, skat. 39.att. Vairāk taisnstūrus nav iespējams izgriezt, jo $(41 \cdot 65):(5 \cdot 13)=41$.
+**a)** Lielākais skaits taisnstūru $5 \times 13$, ko var izgriezt no rūtiņu
+lapas $41 \times 65$, ir $41$, piemēram, skat. 39.att. Vairāk taisnstūrus nav
+iespējams izgriezt, jo $(41 \cdot 65):(5 \cdot 13)=41$.
 
-b) No rūtiņu lapas $47 \times 65$ rūtiņas var izgriezt 46 taisnstūrus, skat., piemēram, 40 .att.
+**b)** No rūtiņu lapas $47 \times 65$ rūtiņas var izgriezt $46$ taisnstūrus,
+skat., piemēram, 40.att.
 
-Pierādīsim, ka 47 taisnstūrus izgriezt nevar. Ja varētu izgriezt 47 taisnstūrus, tad visa sākotnējā rūtiņu lapa būtu jāsagriež $5 \times 13$ rūtiņu taisnstūros. Pieņemsim, ka tas ir izdevies un aplūkosim 47 rūtiņu garo malu. Pieņemsim, ka pie šīs malas pieskaras $m$ taisnstūri ar garo malu (13) un $n$ - ar īso malu (5), tad $13 m+5 n=47$. Pamatosim, ka šim vienādojumam nav atrisinājuma nenegatīvos veselos skaitlos. Ja $m \geq 4$, tad vienādojuma kreisās puses izteiksmes vērtība ir vismaz $13 \cdot 4+5 n \geq 52>47$, tātad $m<4$. Pārbaudām visas iespējamās $m$ vērtības:
+Pierādīsim, ka $47$ taisnstūrus izgriezt nevar. Ja varētu izgriezt $47$
+taisnstūrus, tad visa sākotnējā rūtiņu lapa būtu jāsagriež
+$5 \times 13$ rūtiņu taisnstūros. Pieņemsim, ka tas ir izdevies un aplūkosim
+$47$ rūtiņu garo malu. Pieņemsim, ka pie šīs malas pieskaras $m$ taisnstūri
+ar garo malu (13) un $n$- ar īso malu (5), tad $13m+5n=47$. Pamatosim, ka šim
+vienādojumam nav atrisinājuma nenegatīvos veselos skaitļos. Ja
+$m \geq 4$, tad vienādojuma kreisās puses izteiksmes vērtība ir vismaz
+$13 \cdot 4+5n \geq 52 > 47$, tātad $m < 4$. Pārbaudām visas iespējamās $m$
+vērtības:
 
-$$
-\begin{aligned}
-& \circ \text { ja } m=0, \operatorname{tad} n=\frac{47}{5} \\
-& \text { ○ ja } m=1, \operatorname{tad} n=\frac{34}{5} \\
-& \text { ○ ja } m=2, \operatorname{tad} n=\frac{21}{5} \\
-& \text { ○ ja } m=3, \operatorname{tad} n=\frac{8}{5}
-\end{aligned}
-$$
 
-Nevienā gadījumā $n$ nav nenegatīvs vesels skaitlis. Tātad 47 taisnstūros doto lapu sagriezt nav iespējams.
+- ja $m=0$, tad $n=\frac{47}{5}$
+- ja $m=1$, tad $n=\frac{34}{5}$
+- ja $m=2$, tad $n=\frac{21}{5}$
+- ja $m=3$, tad $n=\frac{8}{5}$
+
+
+Nevienā gadījumā $n$ nav nenegatīvs vesels skaitlis. Tātad $47$ taisnstūros
+doto lapu sagriezt nav iespējams.
 
