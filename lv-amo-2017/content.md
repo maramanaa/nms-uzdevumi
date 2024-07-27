@@ -70,6 +70,8 @@ summa uz katras trijstūra malas būtu viena un tā pati!
 Der, piemēram, jebkurš no 4.att. dotajiem skaitļu izkārtojumiem, tiem 
 atbilstošās summas ir $17;\ 19;\ 20;\ 21;\ 23$.
 
+![](LV.AMO.2017.5.2A.png)
+
 *Piezīme.* Lai atrastu skaitļu izvietojumu, var palīdzēt tālākie spriedumi. 
 Aprēķināsim kopējo skaitļu summu $S$ visām trim trijstūra malām, ievērojot, ka 
 virsotnēs ierakstītie skaitļi $a,\ b$ un $c$ tiek pieskaitīti divas reizes: 
@@ -128,7 +130,7 @@ iegūstam, ka vienīgā derīgā $E$ vērtība ir $6$. Tātad iegūstam
 $AH \cdot 6=UHH$. Cipars $A$ nevar būt $2$, jo pat $28 \cdot 6=168$, kas neder,
 jo cipars $U$ ir vismaz divi. Atliek pārbaudīt četrus iespējamos gadījumus: 
 $42 \cdot 6=252$ (neder); $48 \cdot 6=288$ (der); $82 \cdot 6=492$ (neder); 
-$84 \cdot 6=504$ (neder). Tātad vienīgā iespēja, ka $A=4;\ H=8$;\ $E=6$ un 
+$84 \cdot 6=504$ (neder). Tātad vienīgā iespēja, ka $A=4;\ H=8;\ E=6$ un 
 $U=2$.
 
 
@@ -286,7 +288,7 @@ bet teiks patiesību zēniem, un meitenes vienmēr melos zēniem, bet teiks
 patiesību meitenēm. Viens no bērniem savam blakussēdētājam, kas sēž no vina pa 
 kreisi, teica: "Pie šī galda sēž vairāk zēnu nekā meiteņu." Tad šis 
 blakussēdētājs savam kreisajam blakussēdētājam teica: "Pie šī galda sēž vairāk 
-meiteņu nekā zēnu." Tā viņi pamišus turpināja - viens teica, ka zēnu ir vairāk 
+meiteņu nekā zēnu." Tā viņi pamīšus turpināja - viens teica, ka zēnu ir vairāk 
 nekā meiteņu, bet nākamais, ka meiteņu ir vairāk nekā zēnu, kamēr pēdējais 
 (trīspadsmitais) bērns teica pirmajam: "Pie šī galda sēž vairāk zēnu nekā 
 meiteņu." Cik zēnu sēž pie apaļā galda?
@@ -654,12 +656,6 @@ $$A(x+2)>B(x+1)>C(x)>D(x-1)>E(x-2)$$
 
 Svēršanu rezultātiem jābūt:
 
-$\begin{array}{lllll}
-A+B>C+D; & A+C>B+D; &  &  &  \\ 
- &  &  &  &  \\ 
- &  &  &  & 
-\end{array}$
-
 $A+B > C+D; \quad A+C > B+D; \quad A+D=B+C; \quad A+E=B+D; \quad B+C > D+E;$  
 $A+B > C+E; \quad A+C > B+E; \quad A+D > B+E; \quad A+E < B+C; \quad B+D > C+E;$  
 $A+B > D+E; \quad A+C > D+E; \quad A+D > C+E; \quad A+E > C+D; \quad B+E=C+D.$  
@@ -870,13 +866,13 @@ varētu izvietot saskaņā ar uzdevuma nosacījumiem?
 **(A)** Apzīmējam rūtiņās ierakstītos skaitļus tā, kā parādīts 24.att. 
 Ievērojam, ka
 
-- $A_{1}<A_{2}$ (no $1.$ rindas);
-- $A_{2}<A_{3}$ (no $3.$ kolonnas);
-- $A_{3}<A_{4}$ (no $2.$ rindas);
-- $A_{4}<A_{1}$ (no $2.$ kolonnas).
+- $A_{1} < A_{2}$ (no $1.$ rindas);
+- $A_{2} < A_{3}$ (no $3.$ kolonnas);
+- $A_{3} < A_{4}$ (no $2.$ rindas);
+- $A_{4} < A_{1}$ (no $2.$ kolonnas).
 
-Līdz ar to esam ieguvuši, ka vienlaicīgi jāizpildās nevienādībām $A_{1}<A_{4}$ 
-un $A_{4}<A_{1}$. Tas nav iespējams, tāpēc rūtiņās skaitļus ierakstīt nevar.
+Līdz ar to esam ieguvuši, ka vienlaicīgi jāizpildās nevienādībām $A_{1} < A_{4}$ 
+un $A_{4} < A_{1}$. Tas nav iespējams, tāpēc rūtiņās skaitļus ierakstīt nevar.
 
 **(B)** Jāapvērš vismaz divas bultiņas. Šajā laukumā var atrast trīs četru 
 rūtiņu ciklus, kas atzīmēti ar burtiem $A$, $B$ un $C$ (skat. 24.att.). Katrai 
@@ -973,12 +969,12 @@ saknes. Lai noteiktu parametra $a$ vērtības, izmantosim aritmētiskās
 progresijas īpašību $d=a_{2}-a_{1}=a_{3}-a_{2}$.
 
 1) Ja secība ir $1;\ a;\ 2a$ (vai $2a;\ a;\ 1$), tad jāizpildās vienādībai 
-   $a-1=2a-a$ jeb $-1=0$. Tā nevar būt, tātad šajā gadīumā saknes nevar veidot 
+   $a-1=2a-a$ jeb $-1=0$. Tā nevar būt, tātad šajā gadījumā saknes nevar veidot 
    aritmētisko progresiju.
 2) Ja secība ir $a;\ 1;\ 2a$ (vai $2a;\ 1;\ a$), tad jāizpildās vienādībai 
    $1-a=2a-1$ jeb $3a=2$. Tātad $a=\frac{2}{3}$ un atbilstošā aritmētiskā 
    progresija ir $\frac{2}{3};\ 1;\ \frac{4}{3}$.
-3) Ja secība ir $a;\ $2a;\ 1$ (vai $1;\ 2a;\ a$), tad jāizpildās vienādībai 
+3) Ja secība ir $a;\ 2a;\ 1$ (vai $1;\ 2a;\ a$), tad jāizpildās vienādībai 
    $2a-1=a-2a$ jeb $3a=1$. Tātad $a=\frac{1}{3}$ un atbilstošā aritmētiskā 
    progresija ir $\frac{1}{3};\ \frac{2}{3};\ 1$.
 
@@ -1019,7 +1015,7 @@ Ekvivalenti pārveidojam pierādāmo nevienādību:
 
 $$\begin{gathered}
 \frac{3a}{b}+\frac{3b}{a}+1+9 \geq 16 \\
-\left.\frac{3a}{b}+\frac{3b}{a} \geq 6 \quad \right\rvert\,:3 \\
+\left.\frac{3a}{b}+\frac{3b}{a} \geq 6 \quad \right\rvert\ :3 \\
 \frac{a}{b}+\frac{b}{a} \geq 2
 \end{gathered}$$
 
@@ -1179,9 +1175,9 @@ tas ir, bultiņa vērsta uz leju. Apzīmējam skaitļus, kas ierakstīti rūtiņ
 kā parādīts 30.att.
 
 Ņemot vērā bultiņu virzienu, skaitļiem jābūt sakārtotiem šādi: 
-$B_{1}<B_{2}<B_{3}<B_{4}<B_{1}$. Iegūta pretruna, jo skaitlis $B_{1}$ nevar būt
-mazāks pats par sevi. Līdz ar to šāds skaitļu izvietojums nav iespējams. Tātad 
-otrajā kolonnā bultiņai jābūt vērstai uz augšu.
+$B_{1} < B_{2} < B_{3} < B_{4} < B_{1}$. Iegūta pretruna, jo skaitlis $B_{1}$ 
+nevar būtmazāks pats par sevi. Līdz ar to šāds skaitļu izvietojums nav 
+iespējams. Tātad otrajā kolonnā bultiņai jābūt vērstai uz augšu.
 
 Analoģiski pierāda, ka arī trešajā kolonnā bultiņai jābūt vērstai uz augšu.
 
@@ -1227,7 +1223,7 @@ Aplūkojam abus iespējamos gadījumus.
    $n+11=6k+12=6(k+2)$ dalās ar $6$.
 2) Ja $n=6k+5$, tad $n+22=6k+27=3(2k+9)$, kas nav pirmskaitlis.
 
-Līdz ar esam pierādījuši prasīto.
+Līdz ar to esam pierādījuši prasīto.
 
 
 
@@ -1350,7 +1346,7 @@ $1$, bet uz svariem uzlikto vieglo atsvaru starpība ir vismaz $10$, tātad
 kopējā kausu masu starpība ir vismaz $9$.
 
 Tālāk pierādīsim, ja jebkurā svēršanā samaina vietām atsvarus ar masām $100$ un
-$99$, tad svēršanas rezultāts nemainīsies. Šāda maina var izmainīt vienā svaru 
+$99$, tad svēršanas rezultāts nemainīsies. Šāda maiņa var izmainīt vienā svaru 
 kausā esošo masu maksimums par viens, tātad kausu masu starpību - maksimums par
 $2$. Bet jebkurā svēršanā kausu masu starpība ir vismaz $9$, tātad šāda maiņa 
 nespēj pārsvērt kausus uz otru pusi.
@@ -1523,7 +1519,7 @@ turnīrā paredzēto spēli!
 
 ## Atrisinājums
 
-Izveidosim grafu, kur virsotnes (punkti) ir tenisisti, bet škautne (līnija) 
+Izveidosim grafu, kur virsotnes (punkti) ir tenisisti, bet šķautne (līnija) 
 divas virsotnes saista tad un tikai tad, ja atbilstošie tenisisti turnīrā vēl 
 savu spēli nav izspēlējuši. Tā kā katram tenisistam pavisam jāizspēlē septiņas 
 spēles, bet izspēlētas ir trīs, tad katra virsotne ir tieši četru šķautņu 
@@ -1537,7 +1533,7 @@ sākotnējā virsotnē.
 
 Atradīsim šajā grafā garāko ceļu, tas ir, garāko virsotņu virkni 
 $v_{1}v_{2} \ldots v_{k}$, tādu, ka $v_{i}$ un $v_{i+1}$ ir saistītas. 
-Parādīsim, ka šo ceļu var pārtaisīt par ciklu. Visas četras škautnes, kas iziet
+Parādīsim, ka šo ceļu var pārtaisīt par ciklu. Visas četras šķautnes, kas iziet
 no virsotnes $v_{1}$ iet uz kādu no virsotnēm $v_{2}, \ldots, v_{k}$, jo, ja 
 tās ietu uz kādu virsotni, kas neietilpst garākajā ceļā, tad šo ceļu varētu 
 pagarināt. Tā kā $k \leq 8$, tad no tā varam secināt, ka starp virsotnēm 
@@ -1549,7 +1545,7 @@ $v_{i_{1}+1},\ v_{i_{2}+1},\ v_{i_{3}+1},\ v_{i_{4}+1}$ noteikti ir saistīta ar
 $v_{1}$, jo starp virsotnēm $v_{2}, \ldots, v_{k}$ ir ne vairāk kā $3$, kas nav
 saistītas ar $v_{1}$.
 
-Esam pierādījuši, ka ir tāda virsotne $v_{i}(1 \leq i<k)$, ka $v_{1}$ ir 
+Esam pierādījuši, ka ir tāda virsotne $v_{i}(1 \leq i < k)$, ka $v_{1}$ ir 
 saistīta ar $v_{i+1}$, bet $v_{i}$ ir saistīta ar $v_{k}$. Tas nozīmē, ka 
 sakārtojot mūsu garākā ceļa virsotnes secībā 
 $v_{1} \ldots v_{i}v_{k}v_{k-1} \ldots v_{i+1} v_{1}$ tās veido ciklu.
@@ -1606,7 +1602,7 @@ saistīta ar $C_{1}$ un $C_{2}$, bet $B_{2}$ ar $C_{2}$ un $C_{3}$ (skat.
 
 ![](LV.AMO.2017.12.4D.png)
 
-Tādā gadījumā virsotnei $B_{3}$ varam ņemt patvalīgu pāri no $C$ - virsotnēm, 
+Tādā gadījumā virsotnei $B_{3}$ varam ņemt patvaļīgu pāri no $C$ - virsotnēm, 
 ar ko tā ir saistīta.
 
 Ja šī virsotne ir $C_{2}$ (vai $C_{4}$), tad varam salikt pārus $B_{3}-C_{2}$ 
