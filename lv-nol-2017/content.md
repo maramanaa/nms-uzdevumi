@@ -836,9 +836,12 @@ $2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089; 10999989; 21782
 
 # <lo-sample/> LV.NOL.2017.9.5
 
-a) Pierādīt, ka starp 1010 dažādiem naturāliem skaitļiem, no kuriem neviens nepārsniedz 2017, vienmēr iespējams izvēlēties trīs skait|us tā, ka divu izvēlēto skait|u summa ir vienāda ar trešo skaitli!
+**a)** Pierādīt, ka starp $1010$ dažādiem naturāliem skaitļiem, no kuriem
+neviens nepārsniedz $2017$, vienmēr iespējams izvēlēties trīs skaitļus tā, ka
+divu izvēlēto skaitļu summa ir vienāda ar trešo skaitli!
 
-b) Vai šāda īpašība ir spēkā arī 1009 dažādiem naturāliem skaitlliem, kas nepārsniedz 2017?
+**b)** Vai šāda īpašība ir spēkā arī $1009$ dažādiem naturāliem skaitļiem, kas
+nepārsniedz $2017$?
 
 <small>
 
@@ -850,31 +853,37 @@ b) Vai šāda īpašība ir spēkā arī 1009 dažādiem naturāliem skaitlliem,
 
 ## Atrisinājums
 
-a) Lielāko starp izvēlētajiem skaitliem apzīmējam ar $x$ un pierādīsim, ka var atrast divus citus skait!us, kuru summa ir $x$.
+**a)** Lielāko starp izvēlētajiem skaitļiem apzīmējam ar $x$ un pierādīsim, ka
+var atrast divus citus skaitļus, kuru summa ir $x$.
 
-Visus skait|us, kas mazāki nekā $x$, sadalām pāros tā, ka vienā pārī esošo skait|u summa ir $x$ :
+Visus skaitļus, kas mazāki nekā $x$, sadalām pāros tā, ka vienā pārī esošo
+skaitļu summa ir $x$ :
 
-1) ja $x$ ir nepāra skaitlis jeb $x=2 n+1$, tad tie sadalās $n$ pāros
+1) ja $x$ ir nepāra skaitlis jeb $x=2n+1$, tad tie sadalās $n$ pāros
 
-$$
-(1 ; 2 n),(2 ; 2 n-1), \ldots,(n ; n+1)
-$$
+$$(1; 2n),(2; 2n-1), \ldots,(n; n+1)$$
 
-2) ja $x$ ir pāra skaitlis jeb $x=2 n$, tad tie sadalās $n-1$ pāros
+2) ja $x$ ir pāra skaitlis jeb $x=2n$, tad tie sadalās $n-1$ pāros
 
-$$
-(1 ; 2 n-1),(2 ; 2 n-2), \ldots,(n-1 ; n+1)
-$$
+$$(1; 2n-1),(2; 2n-2), \ldots,(n-1; n+1)$$
 
 skaitlim $n$ pāra nav, to atstāsim vienu pašu.
 
 Tā kā $x \leq 2017$, tad abos gadījumos $n \leq 1008$.
 
-Tā kā ir izvēlēti 1009 skaitlli, kas mazāki nekā $x$, tad pēc Dirihlē principa vismaz divi no tiem būs no viena pāra, kas summā dod $x$, tie arī būs trīs meklētie skaitli.
+Tā kā ir izvēlēti $1009$ skaitļi, kas mazāki nekā $x$, tad pēc Dirihlē principa
+vismaz divi no tiem būs no viena pāra, kas summā dod $x$, tie arī būs trīs
+meklētie skaitļi.
 
-b) Savukārt 1009 dažādiem skaitļiem, kas nepārsniedz 2017, minētā īpašība nav spēkā. Ja izvēlamies visus nepāra skaitlus no 1 līdz 2017, tad izvēlēti ir 1009 skaitļi, no kuriem nekādi divi summā nedod citu skaitli no šī komplekta, jo divu nepāra skaitlu summa vienmēr ir pāra skaitlis.
+**b)** Savukārt $1009$ dažādiem skaitļiem, kas nepārsniedz $2017$, minētā
+īpašība nav spēkā. Ja izvēlamies visus nepāra skaitļus no $1$ līdz $2017$, tad
+izvēlēti ir $1009$ skaitļi, no kuriem nekādi divi summā nedod citu skaitli no
+šī komplekta, jo divu nepāra skaiļu summa vienmēr ir pāra skaitlis.
 
-*Piezīme.* Alternatīvi varam izvēlēties 1009 lielākos skait|us (no 1009 līdz 2017), tad jebkuru divu šādu skait|u summa būs lielāka nekā divu mazāko skaitlu summa, tas ir, $1009+1010=2019$, kas jau ir lielāka nekā vislielākais skaitlis 2017.
+*Piezīme.* Alternatīvi varam izvēlēties $1009$ lielākos skaitļus (no $1009$
+līdz $2017$), tad jebkuru divu šādu skaitļu summa būs lielāka nekā divu mazāko
+skaitļu summa, tas ir, $1009+1010=2019$, kas jau ir lielāka nekā vislielākais
+skaitlis $2017$.
 
 
 
