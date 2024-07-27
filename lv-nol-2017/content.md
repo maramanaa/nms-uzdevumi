@@ -1140,7 +1140,10 @@ iespējamos variantus atkarībā no $T$ vērtības.
 
 # <lo-sample/> LV.NOL.2017.11.1
 
-Zināms, ka skait|u $a_{1} ; a_{2} ; a_{3}$ summa ir 105 un tie veido aritmētisko progresiju, bet skaitlii $a_{1} ; a_{2}$; $a_{3}+4$ veido ģeometrisko progresiju. Atrast visas iespējamās $a_{1} ; a_{2} ; a_{3}$ vērtības un pamatot, ka citu nav!
+Zināms, ka skaitļu $a_{1}; a_{2}; a_{3}$ summa ir $105$ un tie veido
+aritmētisko progresiju, bet skaitļi $a_{1}; a_{2}$; $a_{3}+4$ veido ģeometrisko
+progresiju. Atrast visas iespējamās $a_{1}; a_{2}; a_{3}$ vērtības un pamatot,
+ka citu nav!
 
 <small>
 
@@ -1152,38 +1155,40 @@ Zināms, ka skait|u $a_{1} ; a_{2} ; a_{3}$ summa ir 105 un tie veido aritmētis
 
 ## Atrisinājums
 
-No aritmētiskās progresijas definīcijas izriet, ka $a_{2}=a_{1}+d$ un $a_{3}=a_{1}+2 d$, kur $d$ ir diference. Līdz ar to iegūstam vienādojumu
+No aritmētiskās progresijas definīcijas izriet, ka $a_{2}=a_{1}+d$ un
+$a_{3}=a_{1}+2d$, kur $d$ ir diference. Līdz ar to iegūstam vienādojumu
 
-$$
-\begin{gathered}
-a_{1}+a_{1}+d+a_{1}+2 d=105 \\
-3 a_{1}+3 d=105 \\
+$$\begin{gathered}
+a_{1}+a_{1}+d+a_{1}+2d=105 \\
+3a_{1}+3d=105 \\
 a_{1}+d=35 \\
 a_{1}=35-d
-\end{gathered}
-$$
+\end{gathered}$$
 
-Tā kā $a_{1} ; a_{2} ; a_{3}+4$ veido ģeometrisko progresiju, tad izpildās vienādība $\frac{a_{2}}{a_{1}}=\frac{a_{3}+4}{a_{2}}$ jeb $a_{2}^{2}=a_{1}\left(a_{3}+4\right)$. Izsakot $a_{1}, a_{2}$ un $a_{3}$ ar $d$, iegūstam
+Tā kā $a_{1}; a_{2}; a_{3}+4$ veido ģeometrisko progresiju, tad izpildās
+vienādība $\frac{a_{2}}{a_{1}}=\frac{a_{3}+4}{a_{2}}$ jeb
+$a_{2}^{2}=a_{1}\left(a_{3}+4\right)$. Izsakot $a_{1}, a_{2}$ un $a_{3}$ ar
+$d$, iegūstam
 
-$$
-\begin{gathered}
-(35-d+d)^{2}=(35-d)(35-d+2 d+4) \\
+$$\begin{gathered}
+(35-d+d)^{2}=(35-d)(35-d+2d+4) \\
 35^{2}=(35-d)(39+d) \\
-d^{2}+4 d-35 \cdot 39+35^{2}=0 \\
-d^{2}+4 d-35 \cdot 4=0 \\
-d^{2}+4 d-140=0
-\end{gathered}
-$$
+d^{2}+4d-35 \cdot 39+35^{2}=0 \\
+d^{2}+4d-35 \cdot 4=0 \\
+d^{2}+4d-140=0
+\end{gathered}$$
 
 Izmantojot Vjeta teorēmu, iegūstam $d_{1}=10$ un $d_{2}=-14$
 
-Līdz ar to esam ieguvuši, ka $a_{1}=25 ; a_{2}=35 ; a_{3}=45$ vai $a_{1}=49 ; a_{2}=35 ; a_{3}=21$
+Līdz ar to esam ieguvuši, ka
+$a_{1}=25 ; a_{2}=35 ; a_{3}=45$ vai $a_{1}=49; a_{2}=35 ; a_{3}=21$
 
 
 
 # <lo-sample/> LV.NOL.2017.11.2
 
-Pierādīt, ka $x^{4}+2 x^{3} y+2 x y^{3}+y^{4} \geq 6 x^{2} y^{2}$, ja $x$ un $y$ ir reāli pozitīvi skaitli!
+Pierādīt, ka $x^{4}+2x^{3}y+2xy^{3}+y^{4} \geq 6x^{2}y^{2}$, ja $x$ un $y$ ir
+reāli pozitīvi skaitļi!
 
 <small>
 
@@ -1197,28 +1202,26 @@ Pierādīt, ka $x^{4}+2 x^{3} y+2 x y^{3}+y^{4} \geq 6 x^{2} y^{2}$, ja $x$ un $
 
 Veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-\left(x^{4}-2 x^{2} y^{2}+y^{4}\right)+2 x^{3} y+2 x y^{3}-4 x^{2} y^{2} \geq 0 \\
-\left(x^{2}-y^{2}\right)^{2}+2 x y\left(x^{2}+y^{2}-2 x y\right) \geq 0 \\
-\left(x^{2}-y^{2}\right)^{2}+2 x y(x-y)^{2} \geq 0
-\end{gathered}
-$$
+$$\begin{gathered}
+\left(x^{4}-2x^{2}y^{2}+y^{4}\right)+2x^{3}y+2xy^{3}-4x^{2}y^{2} \geq 0 \\
+\left(x^{2}-y^{2}\right)^{2}+2xy\left(x^{2}+y^{2}-2xy\right) \geq 0 \\
+\left(x^{2}-y^{2}\right)^{2}+2xy(x-y)^{2} \geq 0
+\end{gathered}$$
 
-Tā kā skait|a kvadrāts ir nenegatīvs un $x y>0$ pēc dotā, tad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem pozitīviem skaitliem $x$ un $y$.
+Tā kā skaitļa kvadrāts ir nenegatīvs un $xy > 0$ pēc dotā, tad pēdējā
+nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī
+dotā nevienādība ir patiesa visiem pozitīviem skaitļiem $x$ un $y$.
 
 
 
 # <lo-sample/> LV.NOL.2017.11.3
 
-Atrisināt naturālos skaitlos vienādojumu sistēmu:
+Atrisināt naturālos skaitļos vienādojumu sistēmu:
 
-$$
-\left\{\begin{array}{l}
+$$\left\{\begin{array}{l}
 x+z=2017  \tag{1}\\
-31 x z=y^{2}
-\end{array}\right.
-$$
+31xz=y^{2}
+\end{array}\right.$$
 
 <small>
 
@@ -1230,38 +1233,45 @@ $$
 
 ## Atrisinājums
 
-No (2) izriet, ka $y$ jādalās ar 31 jeb
+No (2) izriet, ka $y$ jādalās ar $31$ jeb
 
-$$
-y=31 t
-$$
+$$y=31t$$
 
-un, tātad arī kādam no reizinātājiem $x$ vai $z$ jādalās ar 31. Turklāt dalīties ar 31 var tikai viens no šiem skaitlliem, pretējā gadījumā no (1) iegūtu, ka 2017 dalās ar 31, bet tā nav. Tā kā 2017 ir pirmskaitlis, tad $x$ un $z$ nav kopīgu dalītāju. Dotā vienādojumu sistēma ir simetriska attiecībā pret $x$ un $z$, tāpēc pieņemsim, ka $x$ dalās ar 31, tas ir,
+un, tātad arī kādam no reizinātājiem $x$ vai $z$ jādalās ar $31$. Turklāt
+dalīties ar $31$ var tikai viens no šiem skaitļiem, pretējā gadījumā no (1)
+iegūtu, ka $2017$ dalās ar $31$, bet tā nav. Tā kā $2017$ ir pirmskaitlis, tad
+$x$ un $z$ nav kopīgu dalītāju. Dotā vienādojumu sistēma ir simetriska
+attiecībā pret $x$ un $z$, tāpēc pieņemsim, ka $x$ dalās ar $31$, tas ir,
 
-$$
-\begin{equation*}
-x=31 p \tag{4}
-\end{equation*}
-$$
+$$\begin{equation*}
+x=31p \tag{4}
+\end{equation*}$$
 
-(pienemot, ka $z$ dalās ar 31, visi spriedumi ir analogiski).
+(pieņemot, ka $z$ dalās ar $31$, visi spriedumi ir analoģiski).
 
-Izmantojot (3) un (4), no (2) iegūstam, ka $31 \cdot 31 p \cdot z=(31 t)^{2}$ jeb $p z=t^{2}$. Tā kā $p$ un $z$ nav kopīgu dalītāju, tad katram no skaitļiem $p$ un $z$ ir jābūt kāda naturāla skaitļa kvadrātam, tas ir, $p=p_{1}^{2}$ un $z=z_{1}^{2}$. Izmantojot (1) un (4), iegūstam $p=\frac{x}{31}=\frac{2017-z}{31}<\frac{2017}{31}$ jeb $p_{1}^{2}<\frac{2017}{31}<65$. Tātad $p_{1} \leq 8$.
+Izmantojot (3) un (4), no (2) iegūstam, ka
+$31 \cdot 31p \cdot z=(31t)^{2}$ jeb $pz=t^{2}$. Tā kā $p$ un $z$ nav kopīgu
+dalītāju, tad katram no skaitļiem $p$ un $z$ ir jābūt kāda naturāla skaitļa
+kvadrātam, tas ir, $p=p_{1}^{2}$ un $z=z_{1}^{2}$. Izmantojot (1) un (4),
+iegūstam $p=\frac{x}{31}=\frac{2017-z}{31} < \frac{2017}{31}$ jeb
+$p_{1}^{2} < \frac{2017}{31} < 65$. Tātad $p_{1} \leq 8$.
 
 Izveidojam tabulu, kurā analizējam visas iespējamās $p_{1}$ vērtības.
 
-| $p_{1}$ | $p=p_{1}^{2}$ | $x=31 p$ | $z=2017-x$ | $z$ ir kvadrāts | Paskaidrojums |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 1 | 31 | 1986 | nē | 1986 dalās ar 2, bet nedalās ar 4 |
-| 2 | 4 | 124 | 1893 | nē | kvadrāta pēdējais cipars nevar būt 3 |
-| 3 | 9 | 279 | 1738 | nē | kvadrāta pēdējais cipars nevar būt 8 |
-| 4 | 16 | 496 | $1521=39^{2}$ | jā |  |
-| 5 | 25 | 775 | 1242 | nē | kvadrāta pēdējais cipars nevar būt 2 |
-| 6 | 36 | 1116 | 901 | nē | $30^{2}=900$ un $31^{2}=961$ |
-| 7 | 49 | 1519 | 498 | nē | kvadrāta pēdējais cipars nevar būt 8 |
-| 8 | 64 | 1984 | 33 | nē | kvadrāta pēdējais cipars nevar būt 3 |
+| $p_{1}$ | $p=p_{1}^{2}$ | $x=31 p$ | $z=2017-x$    | $z$ ir kvadrāts | Paskaidrojums                           |
+| :-----: | :-----------: | :------: | :-----------: | :-------------: | :-------------------------------------: |
+| $1$     | $1$           | $31$     | $1986$        | nē              | $1986$ dalās ar $2$, bet nedalās ar $4$ |
+| $2$     | $4$           | $124$    | $1893$        | nē              | kvadrāta pēdējais cipars nevar būt $3$  |
+| $3$     | $9$           | $279$    | $1738$        | nē              | kvadrāta pēdējais cipars nevar būt $8$  |
+| $4$     | $16$          | $496$    | $1521=39^{2}$ | jā              |                                         |
+| $5$     | $25$          | $775$    | $1242$        | nē              | kvadrāta pēdējais cipars nevar būt $2$  |
+| $6$     | $36$          | $1116$   | $901$         | nē              | $30^{2}=900$ un $31^{2}=961$            |
+| $7$     | $49$          | $1519$   | $498$         | nē              | kvadrāta pēdējais cipars nevar būt $8$  |
+| $8$     | $64$          | $1984$   | $33$          | nē              | kvadrāta pēdējais cipars nevar būt $3$  |
 
-Esam ieguvuši atrisinājumu $x=496, y=4836, z=1521$ un tā kā vienādojumu sistēma ir simetriska attiecībā pret $x$ un $z$, iegūstam otru atrisinājumu $x=1521, y=4836, z=496$.
+Esam ieguvuši atrisinājumu $x=496, y=4836, z=1521$ un tā kā vienādojumu sistēma
+ir simetriska attiecībā pret $x$ un $z$, iegūstam otru atrisinājumu
+$x=1521, y=4836, z=496$.
 
 
 
