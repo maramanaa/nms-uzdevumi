@@ -1128,13 +1128,13 @@ ka $\overline{TE}$ jādalās ar $4$, un līdzīgi no dalāmības pazīmes ar $8$
 iegūstam, ka $\overline{\mathrm{A} TI}$ jādalās ar $8$. Pārbaudām visus
 iespējamos variantus atkarībā no $T$ vērtības.
 
-| $\boldsymbol{T}$ | $\boldsymbol{E}$ | $\boldsymbol{Ā}$ |  |
-| :--- | :--- | :--- | :--- |
-| $1$ | $2$ | $8$ | $I=6$ un, lai $\overline{MATEMĀTIK}$ dalītos ar $9$, tad $K$ būtu jābūt $8$, kas neder, jo $Ā=8$. |
-|     | $6$ | $4$ | Neder, jo $5016541$ nedalās ar $7$. |
-| $4$ | $8$ | $2$ | Neder, jo $5048524$ nedalās ar $7$. |
-| $7$ | $2$ | $8$ | Neder, jo $5072587$ nedalās ar $7$. |
-|     | $6$ | $4$ | $I=2$ un $K=9$, līdz ar to sākotnējais skaitlis bija $5076547290$. |
+| $\boldsymbol{T}$ | $\boldsymbol{E}$ | $\boldsymbol{Ā}$ |                                                                                                           |
+| :--------------- | :--------------- | :--------------- | :-------------------------------------------------------------------------------------------------------- |
+| $1$              | $2$              | $8$              | $I=6$ un, lai $\overline{MATEMA \bar{A} IK}$ dalītos ar $9$, tad $K$ būtu jābūt $8$, kas neder, jo $Ā=8$. |
+|                  | $6$              | $4$              | Neder, jo $5016541$ nedalās ar $7$.                                                                       |
+| $4$              | $8$              | $2$              | Neder, jo $5048524$ nedalās ar $7$.                                                                       |
+| $7$              | $2$              | $8$              | Neder, jo $5072587$ nedalās ar $7$.                                                                       |
+|                  | $6$              | $4$              | $I=2$ un $K=9$, līdz ar to sākotnējais skaitlis bija $5076547290$.                                        |
 
 
 
