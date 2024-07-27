@@ -889,9 +889,18 @@ skaitlis $2017$.
 
 # <lo-sample/> LV.NOL.2017.10.1
 
-Punkti $A$ un $B$ ir 16 km attālumā viens no otra, bet $B$ un $C-12 \mathrm{~km}$ attālumā. Šoseja $A-B-C$ punktā $B$ izveido taisnu leņki (skat. 26.att.). Ceļinieka ātrums pa šoseju ir $v \mathrm{~km} / \mathrm{h}$, bet pa lauku celu ātrums ir $c \mathrm{~km} / \mathrm{h}$. Ja ce!̣inieks dodas no $A$ uz $C$ pa šoseju (maršruts $A \rightarrow B \rightarrow C$ ), tad viņš nonāk galapunktā par 20 min ātrāk nekā ejot no $A$ uz $C$ pa lauku celu (maršruts $A \rightarrow C$ ). Ja turpretī viņš iet 11 km pa šoseju no $A$ uz $D$ un pēc tam uz $C$ pa lauku celu (maršruts $A \rightarrow D \rightarrow C$ ), tad viņš ceļā pavada 5 stundas un 5 minūtes. Aprēkināt $v$ un $c$ !
+Punkti $A$ un $B$ ir $16~\mathrm{km}$ attālumā viens no otra, bet $B$ un
+$C-12 \mathrm{~km}$ attālumā. Šoseja $A-B-C$ punktā $B$ izveido taisnu leņķi
+(skat. 26.att.). Ceļinieka ātrums pa šoseju ir $v \mathrm{~km} / \mathrm{h}$,
+bet pa lauku ceļu ātrums ir $c \mathrm{~km} / \mathrm{h}$. Ja ceļinieks dodas no
+$A$ uz $C$ pa šoseju (maršruts $A \rightarrow B \rightarrow C$ ), tad viņš
+nonāk galapunktā par $20~\mathrm{min}$ ātrāk nekā ejot no $A$ uz $C$ pa lauku
+ceļu (maršruts $A \rightarrow C$ ). Ja turpretī viņš iet $11~\mathrm{km}$ pa
+šoseju no $A$ uz $D$ un pēc tam uz $C$ pa lauku ceļu (maršruts
+$A \rightarrow D \rightarrow C$ ), tad viņš ceļā pavada $5$ stundas un $5$
+minūtes. Aprēķināt $v$ un $c$!
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-10.jpg?height=309&width=355&top_left_y=2367&top_left_x=859)
+![](LV.NOL.2017.10.1.png)
 
 <small>
 
@@ -903,39 +912,39 @@ Punkti $A$ un $B$ ir 16 km attālumā viens no otra, bet $B$ un $C-12 \mathrm{~k
 
 ## Atrisinājums
 
-Izmantojot Pitagora teorēmu trijstūrī $A B C$, iegūstam $A C=20 \mathrm{~km}$ (skat. 27.att.). Tā kā $B D=A B-A D=16-11=5 \mathrm{~km}$, tad, lietojot Pitagora teorēmu trijstūrī $D B C$, iegūstam, ka $C D=13 \mathrm{~km}$.
+Izmantojot Pitagora teorēmu trijstūrī $ABC$, iegūstam $AC=20 \mathrm{~km}$
+(skat. 27.att.). Tā kā $BD=AB-AD=16-11=5 \mathrm{~km}$, tad, lietojot Pitagora
+teorēmu trijstūrī $DBC$, iegūstam, ka $CD=13 \mathrm{~km}$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-11.jpg?height=361&width=355&top_left_y=342&top_left_x=865)
+![](LV.NOL.2017.10.1A.png)
 
 No uzdevuma nosacījumiem iegūstam vienādojumu sistēmu:
 
-$$
-\left\{\begin{array}{l}
+$$\left\{\begin{array}{l}
 \frac{20}{c}-\frac{28}{v}=\frac{1}{3} \\
 \frac{13}{c}+\frac{11}{v}=\frac{61}{12}
-\end{array}\right.
-$$
+\end{array}\right.$$
 
-Reizinot sistēmas pirmo vienādojumu ar 11 un otro ar 28 , iegūstam
+Reizinot sistēmas pirmo vienādojumu ar $11$ un otro ar $28$, iegūstam
 
-$$
-\left\{\begin{array}{l}
+$$\left\{\begin{array}{l}
 \frac{220}{c}-\frac{308}{v}=\frac{11}{3} \\
 \frac{364}{c}+\frac{308}{v}=\frac{427}{3}
-\end{array}\right.
-$$
+\end{array}\right.$$
 
 Saskaitot abus vienādojumus, iegūstam $\frac{584}{c}=\frac{438}{3}$ jeb $c=4$.
 
-levietojot iegūto $c$ vērtību pirmajā vienādojumā, aprēkinām otru nezināmo: $5-\frac{28}{v}=\frac{1}{3}$ jeb $v=6$.
+levietojot iegūto $c$ vērtību pirmajā vienādojumā, aprēķinām otru nezināmo:
+$5-\frac{28}{v}=\frac{1}{3}$ jeb $v=6$.
 
-Tātad ceļinieka ātrums pa šoseju $v=6 \mathrm{~km} / \mathrm{h}$, bet pa lauku viņa ātrums ir $c=4 \mathrm{~km} / \mathrm{h}$.
+Tātad ceļinieka ātrums pa šoseju $v=6 \mathrm{~km} / \mathrm{h}$, bet pa lauku
+viņa ātrums ir $c=4 \mathrm{~km} / \mathrm{h}$.
 
 
 
 # <lo-sample/> LV.NOL.2017.10.2
 
-Pierādīt, ka $x^{2}+2 y^{2}+2 x y+y+1>0$, ja $x, y$ - reāli skaitli!
+Pierādīt, ka $x^{2}+2y^{2}+2xy+y+1 > 0$, ja $x, y$ - reāli skaitļi!
 
 <small>
 
@@ -949,21 +958,23 @@ Pierādīt, ka $x^{2}+2 y^{2}+2 x y+y+1>0$, ja $x, y$ - reāli skaitli!
 
 Veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-\left(x^{2}+2 x y+y^{2}\right)+y^{2}+y+1>0 \\
-(x+y)^{2}+\left(y^{2}+2 \cdot y \cdot \frac{1}{2}+\left(\frac{1}{2}\right)^{2}\right)+\frac{3}{4}>0 \\
-(x+y)^{2}+\left(y+\frac{1}{2}\right)^{2}+\frac{3}{4}>0
-\end{gathered}
-$$
+$$\begin{gathered}
+\left(x^{2}+2xy+y^{2}\right)+y^{2}+y+1 > 0 \\
+(x+y)^{2}+\left(y^{2}+2 \cdot y \cdot \frac{1}{2}+\left(\frac{1}{2}\right)^{2}\right)+\frac{3}{4} > 0 \\
+(x+y)^{2}+\left(y+\frac{1}{2}\right)^{2}+\frac{3}{4} > 0
+\end{gathered}$$
 
-Tā kā skaitļa kvadrāts ir nenegatīvs un $\frac{3}{4}$ ir pozitīvs skaitlis, tad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitliem $x$ un $y$.
+Tā kā skaitļa kvadrāts ir nenegatīvs un $\frac{3}{4}$ ir pozitīvs skaitlis, tad
+pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad
+arī dotā nevienādība ir patiesa visiem reāliem skaitļiem $x$ un $y$.
 
 
 
 # <lo-sample/> LV.NOL.2017.10.3
 
-Kvadrāta $A B C D$ diagonāles krustojas punktā $O$, punkts $E$ ir nogriežņa $A O$ viduspunkts. Taisne $B E$ krusto malu $A D$ punktā $F$, bet taisne $F O$ krusto malu $B C$ punktā $G$. Pierādīt, ka trijstūris $B F G$ ir vienādsānu!
+Kvadrāta $ABCD$ diagonāles krustojas punktā $O$, punkts $E$ ir nogriežņa
+$AO$ viduspunkts. Taisne $BE$ krusto malu $AD$ punktā $F$, bet taisne $FO$
+krusto malu $BC$ punktā $G$. Pierādīt, ka trijstūris $BFG$ ir vienādsānu!
 
 <small>
 
@@ -975,29 +986,52 @@ Kvadrāta $A B C D$ diagonāles krustojas punktā $O$, punkts $E$ ir nogriežņa
 
 ## Atrisinājums
 
-Trijstūri $A E F$ un $C E B$ ir līdzīgi pēc pazīmes $\ell \ell$, jo $\sphericalangle A E F=\sphericalangle C E B$ kā krustleņki un $\sphericalangle F A E=\sphericalangle B C E$ kā iekšējie škērsleņki pie paralēlām taisnēm (skat. 28.att.). Tā kā $A E=O E$ un $A O=O C$, tad $E C=3 A E$ un līdz ar to trijstūru $C E B$ un $A E F$ līdzības koeficients $k=\frac{E C}{A E}=3$. Tātad $A F=x$ un $B C=3 x$
+Trijstūri $AEF$ un $CEB$ ir līdzīgi pēc pazīmes $\ell \ell$, jo 
+$\sphericalangle AEF=\sphericalangle CEB$ kā krustleņķi un
+$\sphericalangle FAE=\sphericalangle BCE$ kā iekšējie škērsleņķi pie paralēlām
+taisnēm (skat. 28.att.). Tā kā $AE=OE$ un $AO=OC$, tad $EC=3AE$ un līdz ar to
+trijstūru $CEB$ un $AEF$ līdzības koeficients $k=\frac{EC}{AE}=3$. Tātad
+$AF=x$ un $BC=3x$
 
-Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\sphericalangle O A F=\sphericalangle O C G$ (iekšējie škē̄rsleņki), $A O=O C$ un $\sphericalangle A O F=\sphericalangle C O G$ (krustleņki). Tāpēc $A F=C G=x$, no kā izriet, ka $B G=B C-C G=3 x-x=2 x$. Trijstūrī $B F G$ no punkta $F$ novelkam augstumu $F U$. levērojam, ka četrstūris $A B U F$ ir taisnstūris, tāpēc $A F=B U=x$ kā taisnstūra pretējās malas. Esam ieguvuši, ka $U G=B G-B U=2 x-x=x=B U$. Tātad $F U$ ir trijstūra $B F G$ mediāna. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
+Trijstūri $AOF$ un $COG$ ir vienādi pēc pazīmes $\ell m \ell$, jo
+$\sphericalangle OAF=\sphericalangle OCG$ (iekšējie šķērsleņķi), $AO=OC$ un
+$\sphericalangle AOF=\sphericalangle COG$ (krustleņķi). Tāpēc $AF=CG=x$, no kā
+izriet, ka $BG=BC-CG=3x-x=2x$. Trijstūrī $BFG$ no punkta $F$ novelkam augstumu
+$FU$. levērojam, ka četrstūris $ABUF$ ir taisnstūris, tāpēc $AF=BU=x$ kā
+taisnstūra pretējās malas. Esam ieguvuši, ka $UG=BG-BU=2x-x=x=B U$. Tātad $FU$
+ir trijstūra $BFG$ mediāna. Tā kā $FU$ trijstūrī $BFG$ ir gan mediāna, gan
+augstums, tad trijstūris $BFG$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=315&width=307&top_left_y=188&top_left_x=452)
-
-28.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=301&width=318&top_left_y=198&top_left_x=1326)
-
-29.att.
+![](LV.NOL.2017.10.3A.png)
 
 ## Atrisinājums
 
-Savienojam diagonāļu krustpunktu $O$ ar malas $A B$ viduspunktu $T$, nogriežña $O T$ krustpunktu ar $B E$ apzīmējam ar $P$ (skat. 29.att.). Tad $O T \| A D$, jo $O T$ ir trijstūra $A B D$ viduslīnija. Tā kā $O T$ un $B E$ ir trijstūra $A B O$ mediānas, tad $P O: T P=2: 1$. Apzīmējam kvadrāta $A B C D$ malas garumu ar a. Tad $T P=\frac{1}{3} O T=\frac{1}{3} \cdot \frac{1}{2} a=\frac{a}{6}$. Nogrieznis $T P$ ir trijstūra $A B F$ viduslīnija, tāpēc $A F=2 T P=\frac{a}{3}$. Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\sphericalangle O A F=\sphericalangle O C G$ (iekšējie škeērslenki.), $A O=O C$ un $\sphericalangle A O F=\sphericalangle C O G$ (krustlenki. . Tāpēc $G C=\frac{a}{3}$ un $B G=\frac{2 a}{3}$.
+Savienojam diagonāļu krustpunktu $O$ ar malas $AB$ viduspunktu $T$, nogriežņa
+$OT$ krustpunktu ar $BE$ apzīmējam ar $P$ (skat. 29.att.). Tad $OT || AD$,
+jo $OT$ ir trijstūra $ABD$ viduslīnija. Tā kā $OT$ un $BE$ ir trijstūra $ABO$
+mediānas, tad $PO:TP=2:1$. Apzīmējam kvadrāta $ABCD$ malas garumu ar $a$. Tad
+$TP=\frac{1}{3}OT=\frac{1}{3} \cdot \frac{1}{2} a=\frac{a}{6}$. Nogrieznis
+$TP$ ir trijstūra $ABF$ viduslīnija, tāpēc $AF=2TP=\frac{a}{3}$. Trijstūri
+$AOF$ un $COG$ ir vienādi pēc pazīmes $\ell m \ell$, jo
+$\sphericalangle OAF=\sphericalangle OCG$ (iekšējie šķērsleņķi.), $AO=OC$ un
+$\sphericalangle AOF=\sphericalangle COG$ (krustleņķi). Tāpēc
+$GC=\frac{a}{3}$ un $BG=\frac{2a}{3}$.
 
-Savienojam punktu $F$ ar nogriežna $B G$ viduspunktu $U$, tad $F U$ ir trijstūra $B F G$ mediāna un $B U=U G=\frac{a}{3}$. Četrstūris $A B U F$ ir taisnstūris, jo $B U=A F=\frac{a}{3}$ un $B U \| A F$, un $\sphericalangle A B U$ ir taisns. Līdz ar to $F U$ ir trijstūra $B F G$ augstums. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
+Savienojam punktu $F$ ar nogriežņa $BG$ viduspunktu $U$, tad $FU$ ir trijstūra
+$BFG$ mediāna un $BU=UG=\frac{a}{3}$. Četrstūris $ABUF$ ir taisnstūris,
+jo $BU=AF=\frac{a}{3}$ un $BU || AF$, un $\sphericalangle ABU$ ir taisns. Līdz
+ar to $FU$ ir trijstūra $BFG$ augstums. Tā kā $FU$ trijstūrī $BFG$ ir gan
+mediāna, gan augstums, tad trijstūris $BFG$ ir vienādsānu trijstūris, kas arī
+bija jāpierāda.
 
 
 
 # <lo-sample/> LV.NOL.2017.10.4
 
-Dots taisnstūris ar izmēriem $7 \times 5$ rūtiņas. Griežot pa rūtiņu līnijām, tas sagriezts septinās vienlielās da!ās (katras dalas laukums ir 5 rūtiņas). Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka rūtiņas malas garums ir viena vienība!
+Dots taisnstūris ar izmēriem $7 \times 5$ rūtiņas. Griežot pa rūtiņu līnijām,
+tas sagriezts septiņās vienlielās daļās (katras daļas laukums ir $5$ rūtiņas).
+Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka
+rūtiņas malas garums ir viena vienība!
 
 <small>
 
@@ -1009,37 +1043,54 @@ Dots taisnstūris ar izmēriem $7 \times 5$ rūtiņas. Griežot pa rūtiņu līn
 
 ## Atrisinājums
 
-Mazākais iespējamais griezuma līiju kopgarums ir 24 vienības, skat., piemēram, 30.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=198&width=258&top_left_y=1323&top_left_x=905)
-
+Mazākais iespējamais griezuma līiju kopgarums ir $24$ vienības, skat., piemēram,
 30.att.
 
-Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņemsim, ka taisnstūris ir sagriezts 7 dalās, kuru perimetri ir $P_{1}, P_{2}, \ldots, P_{7}$, un griezuma līniju kopgarums ir $L$. Aplūkojam summu $P_{1}+P_{2}+\ldots+P_{7}$. Šajā summā katrs griezuma posms ir ieskaitīts divas reizes, bet katras dalas ārmalas posms - vienu reizi. Tā kā taisnstūra perimetrs ir $(7+5) \cdot 2=24$, tad iegūstam $P_{1}+P_{2}+\ldots+P_{7}=2 L+24$ jeb $L=\frac{P_{1}+P_{2}+\ldots+P_{7}-24}{2}$. Tātad $L$ būs minimāls, ja perimetru summa būs vismazākā. Apskatīsim, kādas figūras, kuru laukums ir 5 rūtiņas, var iegūt, griežot pa rūtiņu līnijām. Figūru, ko iegūst no pieciem vienības kvadrātiem, pievienojot tos vienu otram pa vesela garuma malām, sauc par pentamino. Pavisam ir 12 dažādi pentamino (skat. 31.att.).
+![](LV.NOL.2017.10.4A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=229&width=623&top_left_y=2030&top_left_x=248)
 
-31.att.
+Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņemsim,
+ka taisnstūris ir sagriezts $7$ daļās, kuru perimetri ir
+$P_{1}, P_{2}, \ldots, P_{7}$, un griezuma līniju kopgarums ir $L$. Aplūkojam
+summu $P_{1}+P_{2}+\ldots+P_{7}$. Šajā summā katrs griezuma posms ir
+ieskaitīts divas reizes, bet katras daļas ārmalas posms - vienu reizi. Tā kā
+taisnstūra perimetrs ir $(7+5) \cdot 2=24$, tad iegūstam
+$P_{1}+P_{2}+\ldots+P_{7}=2 L+24$ jeb $L=\frac{P_{1}+P_{2}+\ldots+P_{7}-24}{2}$.
+Tātad $L$ būs minimāls, ja perimetru summa būs vismazākā. Apskatīsim, kādas
+figūras, kuru laukums ir $5$ rūtiņas, var iegūt, griežot pa rūtiņu līnijām.
+Figūru, ko iegūst no pieciem vienības kvadrātiem, pievienojot tos vienu otram
+pa vesela garuma malām, sauc par pentamino. Pavisam ir $12$ dažādi pentamino
+(skat. 31.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=86&width=118&top_left_y=2167&top_left_x=1066)
+![](LV.NOL.2017.10.4B.png)
 
-32.att.
+No visām pentamino figūrām mazākais perimetrs ir 32.att. dotajai figūrai un tas
+ir $10$ vienības, pārējām figūrām perimetrs ir $12$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=206&width=261&top_left_y=2053&top_left_x=1480)
+Tagad pierādīsim, ka doto taisnstūri nevar sagriezt $7$ šādās figūrās.
+lekrāsojam rūtiņas, kā redzams 33.att., ievērojam, ka katra 32.att. figūriņa
+aizņem vismaz vienu iekrāsoto rūtiņu. Tad, ja būtu izdevies sagriezt taisnstūri
+$7$ šādās figūrās, tad būtu vajadzīgas vismaz $7$ iekrāsotās rūtiņas, bet ir
+tikai $6$, pretruna.
 
-33.att.
-
-No visām pentamino figūrām mazākais perimetrs ir 32.att. dotajai figūrai un tas ir 10 vienības, pārējām figūrām perimetrs ir 12 .
-
-Tagad pierādīsim, ka doto taisnstūri nevar sagriezt 7 šādās figūrās. lekrāsojam rūtiņas, kā redzams 33.att., ievērojam, ka katra 32.att. figūriņa aizņem vismaz vienu iekrāsoto rūtiņu. Tad, ja būtu izdevies sagriezt taisnstūri 7 šādās figūras, tad būtu vajadzīgas vismaz 7 iekrāsotās rūtiņas, bet ir tikai 6 , pretruna.
-
-Tātad ir ne vairāk kā sešas 32.att. figūras un septītā figūra ir citādāka, turklāt tās perimetrs ir 12. Līdz ar to perimetru summa ir vismaz $6 \cdot 10+12=72$, un griezuma līniju garumu summa $L \geq \frac{72-24}{2}=24$.
+Tātad ir ne vairāk kā sešas 32.att. figūras un septītā figūra ir citādāka,
+turklāt tās perimetrs ir $12$. Līdz ar to perimetru summa ir vismaz
+$6 \cdot 10+12=72$, un griezuma līniju garumu summa 
+$L \geq \frac{72-24}{2}=24$.
 
 
 
 # <lo-sample/> LV.NOL.2017.10.5
 
-Desmitciparu skaitlī vienādus ciparus aizvietojot ar vienādiem burtiem, bet dažādus - ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" aizstāj atškirīgus ciparus). Papildus zināms, ka skaitlis $\overline{M A}$ dalās ar 2, $\overline{M A T}-\operatorname{ar} 3, \overline{M A T E}-$ ar 4, $\overline{\text { MATEM }}-$ ar 5, $\overline{\text { MATEMA }}-$ ar 6, $\overline{\text { MATEMĀT }}-$ ar 7, $\overline{\text { MATEMĀTI }}$ - ar 8, $\overline{\text { MATEMĀTIK }}$ - ar 9, $\overline{\text { MATEMĀTIKA }}$ - ar 10. Noteikt, kāds bija sākotnējais desmitciparu skaitlis!
+Desmitciparu skaitlī vienādus ciparus aizvietojot ar vienādiem burtiem, bet
+dažādus - ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" aizstāj
+atškirīgus ciparus). Papildus zināms, ka skaitlis
+$\overline{MA}$ dalās ar $2$, $\overline{MAT}-\operatorname{ar} $3$,
+\overline{MATE}-$ ar $4$, $\overline{\text { MATEM }}-$ ar $5$,
+$\overline{\text { MATEMA }}-$ ar $6$, $\overline{\text { MATEMĀT }}-$ ar $7$,
+$\overline{\text { MATEMĀTI }}$ - ar $8$, $\overline{\text { MATEMĀTIK }}$
+- ar $9$, $\overline{\text { MATEMĀTIKA }}$ - ar $10$. Noteikt, kāds bija
+sākotnējais desmitciparu skaitlis!
 
 <small>
 
@@ -1051,28 +1102,39 @@ Desmitciparu skaitlī vienādus ciparus aizvietojot ar vienādiem burtiem, bet d
 
 ## Atrisinājums
 
-Ja skaitlis dalās ar 10, tā pēdējais cipars ir 0 . Tātad $A=0$.
+Ja skaitlis dalās ar $10$, tā pēdējais cipars ir $0$ . Tātad $A=0$.
 
-Ja skaitlis dalās ar 5 , tad tā pēdējais cipars ir vai nu 0 , vai 5 . Tā kā jau ieguvām, ka $A=0$, tad $M=5$. Apskatām skait|us $\overline{M A T}=\overline{50 T}$ un $\overline{M A T E M \bar{A}}=\overline{50 T E 5 \bar{A}}$. No dalāmības pazīmes ar 3 izriet, ka
+Ja skaitlis dalās ar $5$ , tad tā pēdējais cipars ir vai nu $0$ , vai $5$.
+Tā kā jau ieguvām, ka $A=0$, tad $M=5$. Apskatām skaitļus
+$\overline{MAT}=\overline{50T}$ un
+$\overline{MATEM \bar{A}}=\overline{50TE5 \bar{A}}$. No dalāmības pazīmes ar
+$3$ izriet, ka
 
-$$
-\begin{align*}
-& 5+0+T \text { jādalās ar } 3  \tag{1}\\
-& E+5+\bar{A} \text { jādalās ar } 3 \tag{2}
-\end{align*}
-$$
 
-Tātad no (1) iegūstam, ka iespējamās $T$ vērtības ir 1; 4 vai 7. Lai skaitlis dalītos ar pāra skaitli, tad nepieciešams, lai skaitļa pēdējais cipars būtu pāra. Tā kā $\overline{M A T E}$ un $\overline{M A T E M \bar{A}}$ jādalās attiecīgi ar 4 un 6, tad $E$ un Ā ir jābūt pāra skaitliem un, nemot vērā (2), iegūstam, ka $E+\bar{A}$ iespējamās vērtības ir 4; 10 vai 16. Tā kā $E$ un Ā jābūt dažādiem pāra skaitļiem, tad iespējama ir tikai summa 10, un der varianti $2+8$; $4+6 ; 6+4 ; 8+2$
+$5+0+T$ jādalās ar $3$
+$E+5+\bar{A}$ jādalās ar $3$
 
-Tā kā $\overline{M A T E}$ jādalās ar 4, tad no dalāmības pazīmes ar 4 izriet, ka $\overline{T E}$ jādalās ar 4, un līdzīgi no dalāmības pazīmes ar 8 iegūstam, ka $\overline{\mathrm{A} T I}$ jādalās ar 8. Pārbaudām visus iespējamos variantus atkarībā no $T$ vērtības.
+
+Tātad no (1) iegūstam, ka iespējamās $T$ vērtības ir $1; 4$ vai $7$. Lai
+skaitlis dalītos ar pāra skaitli, tad nepieciešams, lai skaitļa pēdējais
+cipars būtu pāra. Tā kā $\overline{MATE}$ un $\overline{MATEM \bar{A}}$
+jādalās attiecīgi ar $4$ un $6$, tad $E$ un $Ā$ ir jābūt pāra skaitļiem un,
+ņemot vērā (2), iegūstam, ka $E+\bar{A}$ iespējamās vērtības ir $4; 10$ vai $16$.
+Tā kā $E$ un $Ā$ jābūt dažādiem pāra skaitļiem, tad iespējama ir tikai summa
+$10$, un der varianti $2+8$; $4+6$ ; $6+4$ ; $8+2$
+
+Tā kā $\overline{MATE}$ jādalās ar $4$, tad no dalāmības pazīmes ar $4$ izriet,
+ka $\overline{TE}$ jādalās ar $4$, un līdzīgi no dalāmības pazīmes ar $8$
+iegūstam, ka $\overline{\mathrm{A} TI}$ jādalās ar $8$. Pārbaudām visus
+iespējamos variantus atkarībā no $T$ vērtības.
 
 | $\boldsymbol{T}$ | $\boldsymbol{E}$ | $\overline{\mathrm{A}}$ |  |
 | :--- | :--- | :--- | :--- |
-| 1 | 2 | 8 | $I=6$ un, lai $\overline{M A T E M A \bar{A} I K}$ dalītos ar 9, tad $K$ būtu jābūt 8, kas neder, jo $\overline{\mathrm{A}}=8$. |
-|  | 6 | 4 | Neder, jo 5016541 nedalās ar 7. |
-| 4 | 8 | 2 | Neder, jo 5048524 nedalās ar 7. |
-| 7 | 2 | 8 | Neder, jo 5072587 nedalās ar 7. |
-|  | 6 | 4 | $I=2$ un $K=9$, līdz ar to sākotnējais skaitlis bija 5076547290. |
+| $1$ | $2$ | $8$ | $I=6$ un, lai $\overline{MATEMA \bar{A} IK}$ dalītos ar $9$, tad $K$ būtu jābūt $8$, kas neder, jo $\overline{\mathrm{A}}=8$. |
+|     | $6$ | $4$ | Neder, jo $5016541$ nedalās ar $7$. |
+| $4$ | $8$ | $2$ | Neder, jo $5048524$ nedalās ar $7$. |
+| $7$ | $2$ | $8$ | Neder, jo $5072587$ nedalās ar $7$. |
+|     | $6$ | $4$ | $I=2$ un $K=9$, līdz ar to sākotnējais skaitlis bija $5076547290$. |
 
 
 
@@ -1219,11 +1281,11 @@ Esam ieguvuši atrisinājumu $x=496, y=4836, z=1521$ un tā kā vienādojumu sis
 
 ## Atrisinājums
 
-Riņka līniju pieskaršanās punktus apzīmējam $\operatorname{ar} A, B, C$ un $D$ (skat. 35.att.). Novelkam doto riņķa līniju kopīgās pieskares $A M$ un $B M$. Trijstūris $A M B$ ir vienādsānu, jo $A M=M B$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no punkta ārpus tās. Līdz ar to $\sphericalangle M A B=\sphericalangle M B A=\alpha$ kā leņki pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru vienādības.
+Riņka līniju pieskaršanās punktus apzīmējam $\operatorname{ar} A, B, C$ un $D$ (skat. 35.att.). Novelkam doto riņķa līniju kopīgās pieskares $A M$ un $B M$. Trijstūris $A M B$ ir vienādsānu, jo $A M=M B$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no punkta ārpus tās. Līdz ar to $\sphericalangle M A B=\sphericalangle M B A=\alpha$ kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru vienādības.
 
 levērojam, ka $\sphericalangle D A B+\sphericalangle A B C+\sphericalangle B C D+\sphericalangle C D A=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$, no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā $\sphericalangle D A B+\sphericalangle B C D=\alpha+\beta+\gamma+\delta=180^{\circ}$, tad četrstūrim $A B C D$ var apvilkt rink, līniju, kas arī bija jāpierāda.
 
-*Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares leņki.
+*Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares leņķi.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-15.jpg?height=844&width=958&top_left_y=189&top_left_x=572)
 
