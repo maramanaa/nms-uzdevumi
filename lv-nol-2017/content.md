@@ -1088,8 +1088,8 @@ atšķirīgus ciparus). Papildus zināms, ka skaitlis
 $\overline{MA}$ dalās ar $2$, $\overline{MAT}$- ar $3$,
 $\overline{MATE}$- ar $4$, $\overline{\text { MATEM }}$- ar $5$,
 $\overline{MATEM \bar{A}}$- ar $6$, $\overline{MATEM \bar{A}T}$- ar $7$,
-$\overline{{\text MATEMĀTI}}$- ar $8$, $\overline{{\text MATEMĀTIK}}$- ar $9$,
-$\overline{{\text MATEMĀTIKA}}$- ar $10$. Noteikt, kāds bija
+$\overline{MATEM \bar{A}TI}$- ar $8$, $\overline{MATEM \bar{A}TIK}$- ar $9$,
+$\overline{MATEM \bar{A}TIKA}$- ar $10$. Noteikt, kāds bija
 sākotnējais desmitciparu skaitlis!
 
 <small>
