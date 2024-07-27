@@ -700,7 +700,9 @@ visiem $8.$ klases skolēniem ir $8$ punkti ($14$ neizšķirti un viena uzvara).
 
 # <lo-sample/> LV.NOL.2017.9.1
 
-Koka sija sver 90 kg , bet par 2 m garāka dzelzs sija sver 160 kg , pie tam viens metrs dzelzs sijas sver par 5 kilogramiem vairāk nekā viens metrs koka sijas. Cik sver viens metrs katras sijas?
+Koka sija sver $90~\mathrm{kg}$, bet par $2~\mathrm{m}$ garāka dzelzs sija sver
+$160~\mathrm{kg}$, pie tam viens metrs dzelzs sijas sver par $5$ kilogramiem
+vairāk nekā viens metrs koka sijas. Cik sver viens metrs katras sijas?
 
 <small>
 
@@ -712,28 +714,32 @@ Koka sija sver 90 kg , bet par 2 m garāka dzelzs sija sver 160 kg , pie tam vie
 
 ## Atrisinājums
 
-Koka sijas garumu apzīmējam ar $x$, bet dzelzs sijas garumu - ar $x+2$. Tad viens metrs koka sijas sver $\frac{90}{x} \mathrm{~kg}$, bet viens metrs dzelzs sijas sver $\frac{160}{x+2} \mathrm{~kg}$. Tā kā viens metrs dzelzs sijas sver par 5 kilogramiem vairāk nekā viens metrs koka sijas, tad iegūstam vienādojumu $\frac{160}{x+2}-\frac{90}{x}=5$.
+Koka sijas garumu apzīmējam ar $x$, bet dzelzs sijas garumu - ar $x+2$. Tad
+viens metrs koka sijas sver $\frac{90}{x} \mathrm{~kg}$, bet viens metrs dzelzs
+sijas sver $\frac{160}{x+2} \mathrm{~kg}$. Tā kā viens metrs dzelzs sijas sver
+par $5$ kilogramiem vairāk nekā viens metrs koka sijas, tad iegūstam vienādojumu
+$\frac{160}{x+2}-\frac{90}{x}=5$.
 
-Tā kā $x$ un $x+2$ ir siju garumi, tad $x>0$ un $x+2>0$. Vienādojuma abas puses reizinot ar $x(x+2)>0$, iegūstam
+Tā kā $x$ un $x+2$ ir siju garumi, tad $x > 0$ un $x+2 > 0$. Vienādojuma abas
+puses reizinot ar $x(x+2) > 0$, iegūstam
 
-$$
-\begin{aligned}
-160 x-90(x+2) & =5 x(x+2) \\
-32 x-18(x+2) & =x(x+2) \\
-32 x-18 x-36 & =x^{2}+2 x \\
-x^{2}-12 x+36 & =0
-\end{aligned}
-$$
+$$\begin{aligned}
+160x-90(x+2) & =5x(x+2) \\
+32x-18(x+2) & =x(x+2) \\
+32x-18x-36 & =x^{2}+2x \\
+x^{2}-12x+36 & =0
+\end{aligned}$$
 
 Līdz ar to esam ieguvuši, ka $x_{1}=x_{2}=6$.
 
-Tātad viens metrs koka sijas sver $90: 6=15 \mathrm{~kg}$ un viens metrs dzelzs sijas sver $160: 8=20 \mathrm{~kg}$.
+Tātad viens metrs koka sijas sver $90:6=15 \mathrm{~kg}$ un viens metrs dzelzs
+sijas sver $160:8=20 \mathrm{~kg}$.
 
 
 
 # <lo-sample/> LV.NOL.2017.9.2
 
-Pierādīt, ka $9 x^{6}-x^{3}+1>0$ visiem reāliem $x$.
+Pierādīt, ka $9x^{6}-x^{3}+1 > 0$ visiem reāliem $x$.
 
 <small>
 
@@ -747,34 +753,37 @@ Pierādīt, ka $9 x^{6}-x^{3}+1>0$ visiem reāliem $x$.
 
 Veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-\left(3 x^{3}\right)^{2}-2 \cdot 3 x^{3} \cdot \frac{1}{6}+\left(\frac{1}{6}\right)^{2}+\frac{35}{36}>0 \\
-\left(3 x^{3}-\frac{1}{6}\right)^{2}+\frac{35}{36}>0
-\end{gathered}
-$$
+$$\begin{gathered}
+\left(3x^{3}\right)^{2}-2 \cdot 3x^{3} \cdot \frac{1}{6}+\left(\frac{1}{6}\right)^{2}+\frac{35}{36} > 0 \\
+\left(3x^{3}-\frac{1}{6}\right)^{2}+\frac{35}{36} > 0
+\end{gathered}$$
 
-Tā kā skaitļa kvadrāts ir nenegatīvs un $\frac{35}{36}$ ir pozitīvs skaitlis, tad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitliem $x$.
+Tā kā skaitļa kvadrāts ir nenegatīvs un $\frac{35}{36}$ ir pozitīvs skaitlis,
+tad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi,
+tad arī dotā nevienādība ir patiesa visiem reāliem skaitļiem $x$.
 
 ## Atrisinājums
 
-Reizinām nevienādības abas puses ar 2 un veicam ekvivalentus pārveidojumus:
+Reizinām nevienādības abas puses ar $2$ un veicam ekvivalentus pārveidojumus:
 
-$$
-\begin{gathered}
-18 x^{6}-2 x^{3}+2>0 \\
-x^{6}-2 x^{3}+1+17 x^{6}+1>0 \\
-\left(x^{3}-1\right)^{2}+17 x^{6}+1>0
-\end{gathered}
-$$
+$$\begin{gathered}
+18x^{6}-2x^{3}+2 > 0 \\
+x^{6}-2x^{3}+1+17x^{6}+1 > 0 \\
+\left(x^{3}-1\right)^{2}+17x^{6}+1 > 0
+\end{gathered}$$
 
-Tā kā skaitļa kvadrāts ir nenegatīvs, saskaitāmais $17 x^{6}$ ir nenegatīvs un skaitlis 1 ir pozitīvs skaitlis, tad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitlliem $x$.
+Tā kā skaitļa kvadrāts ir nenegatīvs, saskaitāmais $17x^{6}$ ir nenegatīvs un
+skaitlis $1$ ir pozitīvs skaitlis, tad pēdējā nevienādība ir patiesa. Tā kā tika
+veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem
+reāliem skaitļiem $x$.
 
 
 
 # <lo-sample/> LV.NOL.2017.9.3
 
-Trapeces $A B C D$ pamatu attiecība $B C: A D=3: 5$. Uz sānu malas $C D$ atlikts punkts $E$ tā, ka nogrieznis $A E$ dala trapeces laukumu uz pusēm. Kādā attiecībā punkts $E$ sadala sānu malu $C D$ ?
+Trapeces $ABCD$ pamatu attiecība $BC:AD=3:5$. Uz sānu malas $CD$ atlikts punkts
+$E$ tā, ka nogrieznis $AE$ dala trapeces laukumu uz pusēm. Kādā attiecībā punkts
+$E$ sadala sānu malu $CD$ ?
 
 <small>
 
@@ -786,16 +795,24 @@ Trapeces $A B C D$ pamatu attiecība $B C: A D=3: 5$. Uz sānu malas $C D$ atlik
 
 ## Atrisinājums
 
-Tā kā $B C: A D=3: 5$, tad $S(A B C): S(A C D)=3: 5$, jo šiem trijstūriem ir vienādi augstumi, kas sakrīt ar trapeces augstumu (skat. 25.att.). Tātad $S(A B C)=3 x$ un $S(A C D)=5 x$. Tad $S(A B C D)=S(A B C)+S(A C D)=3 x+5 x=8 x$. Tā kā nogrieznis $A E$ dala trapeces laukumu uz pusēm, $\operatorname{tad} S(A B C E)=4 x$ un $S(A E D)=4 x$. Līdz ar to $S(A C E)=S(A C D)-S(A E D)=5 x-4 x=x$. Tātad
-$S(A C E): S(A E D)=1: 4$. Tā kā šiem trijstūriem ir kopīgs augstums (no punkta $A$ ), tad $C E: E D=1: 4$ jeb punkts $E$ dala malu $C D$ attiecībā $1: 4$.
+Tā kā $BC:AD=3:5$, tad $S(ABC):S(ACD)=3:5$, jo šiem trijstūriem ir vienādi
+augstumi, kas sakrīt ar trapeces augstumu (skat. 25.att.). Tātad $S(ABC)=3x$ un
+$S(ACD)=5x$. Tad $S(ABCD)=S(ABC)+S(ACD)=3x+5x=8x$. Tā kā nogrieznis $AE$ dala
+trapeces laukumu uz pusēm, tad $S(ABCE)=4x$ un $S(AED)=4x$. Līdz ar to
+$S(ACE)=S(ACD)-S(AED)=5x-4x=x$. Tātad
+$S(ACE):S(AED)=1:4$. Tā kā šiem trijstūriem ir kopīgs augstums (no punkta $A$ ),
+tad $CE:ED=1:4$ jeb punkts $E$ dala malu $CD$ attiecībā $1:4$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-10.jpg?height=261&width=324&top_left_y=292&top_left_x=889)
+![](LV.NOL.2017.9.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.9.4
 
-Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā secībā, iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais skaitlis dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir 1089, jo $9801: 1089=9$. Atrast vēl divus citus pārdabiskus skait!us!
+Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā secībā,
+iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais skaitlis
+dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir $1089$, jo
+$9801:1089=9$. Atrast vēl divus citus pārdabiskus skaitļus!
 
 <small>
 
@@ -807,9 +824,13 @@ Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā s
 
 ## Atrisinājums
 
-Var ievērot, ka, pierakstot pārdabiskam skaitlim galā pašam sevi, arī iegūst pārdabisku skaitli, tāpēc der, piemēram, skaitli 10891089 un 108910891089, jo 98019801:10891089 = 9 un $980198019801: 108910891089=9$.
+Var ievērot, ka, pierakstot pārdabiskam skaitlim galā pašam sevi, arī iegūst
+pārdabisku skaitli, tāpēc der, piemēram, skaitļi $10891089$ un $108910891089$,
+jo $98019801:10891089=9$ un $980198019801:108910891089=9$.
 
-*Piezīme.* Pārdabisku skait|u ir bezgalīgi daudz (skat. 12.3. pierādījumu), nākamie mazākie ir 2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089; 10999989; 21782178; 21999978.
+*Piezīme.* Pārdabisku skaitļu ir bezgalīgi daudz (skat. 12.3.pierādījumu),
+nākamie mazākie ir
+$2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089; 10999989; 21782178; 21999978$.
 
 
 
