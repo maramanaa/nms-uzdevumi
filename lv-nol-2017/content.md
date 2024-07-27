@@ -1377,9 +1377,9 @@ $z$ izpildās $(x * y) * z=x * (y * z)$.
 
 ## Atrisinājums
 
-Pierādāmā vienādība $(x*y)*z=x*(y*z)$ ir ekvivalenta vienādībām:
+Pierādāmā vienādība $(x * y) * z=x * (y * z)$ ir ekvivalenta vienādībām:
 
-$$x^{\lg y}*z=x*y^{\lg z}$$
+$$x^{\lg y} * z=x * y^{\lg z}$$
 
 $$\begin{gathered}
 \left(x^{\lg y}\right)^{\lg z}=x^{\lg \left(y^{\lg z}\right)} \\
@@ -1387,7 +1387,7 @@ x^{\lg y \cdot \lg z}=x^{\lg z \cdot \lg y}
 \end{gathered}$$
 
 Pēdējā vienādība ir patiesa, tātad pozitīviem skaitļiem $x, y$ un $z$ izpildās
-$(x*y)*z=x*(y*z)$.
+$(x * y) * z=x * (y * z)$.
 
 
 
@@ -1442,7 +1442,7 @@ $1089$, jo $9801:1089=9$. **a)** Atrast vēl divus citus pārdabiskus skaitļus!
 **a)** Nākamie pārdabiskie skaitļi ir
 $2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089 ; 10999989 ; 21782178 ; 21999978$.
 
-**b)** Aplūkojam skaitļus, ko veido pierakstot skaitlim $1089$ beigās $k(k > 1)$
+**b)** Aplūkojam skaitļus, ko veido pierakstot skaitlim $1089$ beigās $k$ ($k > $1)
 reizes skaitli $1089$, tas ir, skaitļus formā $10891089...1089$. Šāda
 "pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli
 $100010001...0001$, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem
@@ -1470,7 +1470,7 @@ $OA$, krusto mazāko riņķa līniju punktā $D$, bet lielāko- punktā $E$ (pun
 $D$ atrodas starp $O$ un $E$, skat. 38.att.). Aprēķināt abu riņķa līniju
 rādiusu garumus, ja $DE=5$ un $BC=7$.
 
-![](LV.NOL.2017.12.4A.png)
+![](LV.NOL.2017.12.4.png)
 
 <small>
 
@@ -1517,6 +1517,8 @@ lapas, kuras izmēri ir **a)** $41 \times 65$; **b)** $47 \times 65$ rūtiņas?
 **a)** Lielākais skaits taisnstūru $5 \times 13$, ko var izgriezt no rūtiņu
 lapas $41 \times 65$, ir $41$, piemēram, skat. 39.att. Vairāk taisnstūrus nav
 iespējams izgriezt, jo $(41 \cdot 65):(5 \cdot 13)=41$.
+
+![](LV.NOL.2017.12.5A.png)
 
 **b)** No rūtiņu lapas $47 \times 65$ rūtiņas var izgriezt $46$ taisnstūrus,
 skat., piemēram, 40.att.
