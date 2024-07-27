@@ -889,13 +889,13 @@ skaitlis $2017$.
 
 # <lo-sample/> LV.NOL.2017.10.1
 
-Punkti $A$ un $B$ ir $16~\mathrm{km}$ attālumā viens no otra, bet $B$ un
-$C-12 \mathrm{~km}$ attālumā. Šoseja $A-B-C$ punktā $B$ izveido taisnu leņķi
+Punkti $A$ un $B$ ir $16 ~\mathrm{km}$ attālumā viens no otra, bet $B$ un
+$C-12 ~\mathrm{km}$ attālumā. Šoseja $A-B-C$ punktā $B$ izveido taisnu leņķi
 (skat. 26.att.). Ceļinieka ātrums pa šoseju ir $v ~\mathrm{km/h}$,
 bet pa lauku ceļu ātrums ir $c ~\mathrm{km/h}$. Ja ceļinieks dodas no
 $A$ uz $C$ pa šoseju (maršruts $A \rightarrow B \rightarrow C$ ), tad viņš
-nonāk galapunktā par $20~\mathrm{min}$ ātrāk nekā ejot no $A$ uz $C$ pa lauku
-ceļu (maršruts $A \rightarrow C$ ). Ja turpretī viņš iet $11~\mathrm{km}$ pa
+nonāk galapunktā par $20 ~\mathrm{min}$ ātrāk nekā ejot no $A$ uz $C$ pa lauku
+ceļu (maršruts $A \rightarrow C$ ). Ja turpretī viņš iet $11 ~\mathrm{km}$ pa
 šoseju no $A$ uz $D$ un pēc tam uz $C$ pa lauku ceļu (maršruts
 $A \rightarrow D \rightarrow C$ ), tad viņš ceļā pavada $5$ stundas un $5$
 minūtes. Aprēķināt $v$ un $c$!
