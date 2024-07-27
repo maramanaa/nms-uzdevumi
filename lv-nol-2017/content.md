@@ -399,7 +399,7 @@ Lapa var būt sagriezta $3,4,5,6,7,8,9,10$ daļās, skat., piemēram, 15.att.
 
 Trijstūrī $ABC(AB < BC)$ novilkta bisektrise $BD$. Uz $BD$ izvēlēts tāds punkts
 $F$, ka $\sphericalangle AFD=\sphericalangle ADF$, un uz $BC$ izvēlēts tāds
-punkts $E$, ka $FE \| AC$. Pierādīt, ka $\sphericalangle B A F=\sphericalangle B E F!$
+punkts $E$, ka $FE || AC$. Pierādīt, ka $\sphericalangle B A F=\sphericalangle B E F!$
 
 <small>
 
