@@ -589,11 +589,12 @@ ar līniju ar vairāk nekā vienu lauciņu - pretruna.
 
 # <lo-sample/> LV.NOL.2017.8.4
 
-Uz kvadrāta $A B C D$ malām atzīmēti punkti $E, F, G$ un $H$ tā, ka $\frac{A E}{E B}=\frac{B F}{F C}=\frac{C G}{G D}=\frac{D H}{A H}=9$. Aprēkināt iekrāsotās daļas (skat. 23.att.) laukuma attiecību pret $A B C D$ laukumu!
+Uz kvadrāta $ABCD$ malām atzīmēti punkti $E, F, G$ un $H$ tā, ka
+$\frac{AE}{EB}=\frac{BF}{FC}=\frac{CG}{GD}=\frac{DH}{AH}=9$. Aprēķināt
+iekrāsotās daļas (skat. 23.att.) laukuma attiecību pret $ABCD$ laukumu!
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-07.jpg?height=335&width=349&top_left_y=1980&top_left_x=882)
+![](LV.NOL.2017.8.4.png)
 
-23.att.
 
 <small>
 
@@ -605,23 +606,34 @@ Uz kvadrāta $A B C D$ malām atzīmēti punkti $E, F, G$ un $H$ tā, ka $\frac{
 
 ## Atrisinājums
 
-Apzīmējam $E B=x$, tad $E B=C F=D G=A H=x$ un $A E=B F=C G=D H=9 x$ (skat. 24.att.). Kvadrāta $A B C D$ malas garums ir $10 x$ un $S(A B C D)=100 x^{2}$
+Apzīmējam $EB=x$, tad $EB=CF=DG=AH=x$ un $AE=BF=CG=DH=9x$ (skat. 24.att.).
+Kvadrāta $ABCD$ malas garums ir $10x$ un $S(ABCD)=100x^{2}$
 
-Tā kā trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi pēc pazīmes $m \ell m$, tad $H E=E F=F G=G H$. Tā kā $\sphericalangle H E F=180^{\circ}-(\sphericalangle A E H+\sphericalangle B E F)=180^{\circ}-(\sphericalangle A E H+\sphericalangle A H E)=180^{\circ}-90^{\circ}=90^{\circ}$, tad četrstūris $E F G H$ ir kvadrāts, kura laukums ir
+Tā kā trijstūri $HAE, EBF, FCG$ un $GDH$ ir vienādi pēc pazīmes $m \ell m$, tad
+$HE=EF=FG=GH$. Tā kā
+$\sphericalangle HEF=180^{\circ}-(\sphericalangle AEH+\sphericalangle BEF)=180^{\circ}-(\sphericalangle AEH+\sphericalangle AHE)=180^{\circ}-90^{\circ}=90^{\circ}$,
+tad četrstūris $EFGH$ ir kvadrāts, kura laukums ir
 
-$$
-S(E F G H)=S(A B C D)-4 \cdot S(H A E)=100 x^{2}-4 \cdot \frac{1}{2} \cdot x \cdot 9 x=82 x^{2}
-$$
+$$S(EFGH)=S(ABCD)-4 \cdot S(HAE)=100x^{2}-4 \cdot \frac{1}{2} \cdot x \cdot 9x=82x^{2}$$
 
-lekrāsotās daļas laukums ir puse no kvadrāta $E F G H$ laukuma, tātad tas ir $41 x^{2}$. Tātad iekrāsotās daļas laukuma attiecība pret kvadrāta $A B C D$ laukumu ir $\frac{41 x^{2}}{100 x^{2}}=\frac{41}{100}$.
+lekrāsotās daļas laukums ir puse no kvadrāta $EFGH$ laukuma, tātad tas ir
+$41x^{2}$. Tātad iekrāsotās daļas laukuma attiecība pret kvadrāta $ABCD$
+laukumu ir $\frac{41x^{2}}{100x^{2}}=\frac{41}{100}$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-08.jpg?height=401&width=370&top_left_y=319&top_left_x=860)
+![](LV.NOL.2017.8.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.8.5
 
-Divi septītās klases skolēni un vairāki astotās klases skolēni piedalījās skolas šaha turnīrā. Turnīrā katrs dalībnieks ar katru izspēlēja vienu partiju. Katrā partijā par uzvaru dalībniekam tika pieškirts viens punkts, par neizškirtu katrs dalībnieks saņēma 0,5 punktus, bet par zaudējumu punkti netika pieškirti. Turnīra beigās septītās klases skolēni kopā bija ieguvuši 8 punktus, bet visi astotās klases skolēni bija ieguvuši vienādu punktu skaitu. Cik astotās klases skolēni piedalijās turnīrā? Atrodi visus iespējamos variantus un pamato, ka citu nav!
+Divi septītās klases skolēni un vairāki astotās klases skolēni piedalījās skolas
+šaha turnīrā. Turnīrā katrs dalībnieks ar katru izspēlēja vienu partiju. Katrā
+partijā par uzvaru dalībniekam tika piešķirts viens punkts, par neizšķirtu katrs
+dalībnieks saņēma $0,5$ punktus, bet par zaudējumu punkti netika piešķirti.
+Turnīra beigās septītās klases skolēni kopā bija ieguvuši $8$ punktus, bet visi
+astotās klases skolēni bija ieguvuši vienādu punktu skaitu. Cik astotās klases
+skolēni piedalījās turnīrā? Atrodi visus iespējamos variantus un pamato, ka citu
+nav!
 
 <small>
 
@@ -633,51 +645,56 @@ Divi septītās klases skolēni un vairāki astotās klases skolēni piedalījā
 
 ## Atrisinājums
 
-Ar $n$ apzīmējam astotās klases skolēnu skaitu, kas piedalījās turnīrā un ar $x$ - punktu skaitu, ko ieguva katrs astotās klases skolēns. Tātad turnīrā kopā piedalījās $n+2$ skolēni un tā kā katrs dalībnieks ar katru izspēlēja vienu partiju, tad kopējais spēlu un arī punktu skaits ir $\frac{(n+2)(n+1)}{2}$. Astotās klases skolēni kopā ieguva
+Ar $n$ apzīmējam astotās klases skolēnu skaitu, kas piedalījās turnīrā un ar
+$x$ - punktu skaitu, ko ieguva katrs astotās klases skolēns. Tātad turnīrā kopā
+piedalījās $n+2$ skolēni un tā kā katrs dalībnieks ar katru izspēlēja vienu
+partiju, tad kopējais spēļu un arī punktu skaits ir $\frac{(n+2)(n+1)}{2}$.
+Astotās klases skolēni kopā ieguva
 
-$$
-n x=\frac{(n+2)(n+1)}{2}-8
-$$
+$$nx=\frac{(n+2)(n+1)}{2}-8$$
 
-punktus. Reizinot abas vienādojuma puses ar 2 , iegūstam
+punktus. Reizinot abas vienādojuma puses ar $2$ , iegūstam
 
-$$
-\begin{gathered}
-2 n x=(n+2)(n+1)-16 \\
-2 n x=n^{2}+3 n-14
-\end{gathered}
-$$
+$$\begin{gathered}
+2nx=(n+2)(n+1)-16 \\
+2nx=n^{2}+3n-14
+\end{gathered}$$
 
 Dalot abas vienādojuma puses ar $n$, iegūstam
 
-$$
-\begin{array}{r}
-2 x=\frac{n^{2}}{n}+\frac{3 n}{n}-\frac{14}{n} \\
-2 x=n+3-\frac{14}{n}
-\end{array}
-$$
+$$\begin{array}{r}
+2x=\frac{n^{2}}{n}+\frac{3 n}{n}-\frac{14}{n} \\
+2x=n+3-\frac{14}{n}
+\end{array}$$
 
-Tā kā $2 x$ ir vesels skaitlis, tad $n$ ir jābūt skaitļa 14 dalītājam, tas ir, $n$ iespējamās vērtības ir $1 ; 2 ; 7 ; 14$. Apskatām visus gadījumus.
+Tā kā $2x$ ir vesels skaitlis, tad $n$ ir jābūt skaitļa $14$ dalītājam, tas ir,
+$n$ iespējamās vērtības ir $1 ; 2 ; 7 ; 14$. Apskatām visus gadījumus.
 
-- Ja $n=1$, tad $2 x=1+3-14=-10$, kas nav iespējams, jo punktu skaits nevar būt negatīvs.
-- Ja $n=2$, tad $2 x=2+3-7=-2$, kas nav iespējams, jo punktu skaits nevar būt negatīvs.
-- Ja $n=7, \operatorname{tad} 2 x=7+3-2=8$ jeb $x=4$.
-- Ja $n=14, \operatorname{tad} 2 x=14+3-1=16$ jeb $x=8$.
+- Ja $n=1$, tad $2x=1+3-14=-10$, kas nav iespējams, jo punktu skaits nevar būt
+  negatīvs.
+- Ja $n=2$, tad $2x=2+3-7=-2$, kas nav iespējams, jo punktu skaits nevar būt
+  negatīvs.
+- Ja $n=7$, tad $2x=7+3-2=8$ jeb $x=4$.
+- Ja $n=14$, tad $2x=14+3-1=16$ jeb $x=8$.
 
-Tātad turnīrā piedalījās 7 vai 14 astotās klases skolēni. Parādīsim, ka abi šie gadījumi ir iespējami.
+Tātad turnīrā piedalījās $7$ vai $14$ astotās klases skolēni. Parādīsim, ka abi
+šie gadījumi ir iespējami.
 
-- Ja turnīrā piedalījās 7 astotās klases skolēni, tad turnīrā kopā piedalījās 9 skolēni un katrs izspēlēja 8 spēles. Piemēram, ja visas spēles beidzās neizškirti, tad katrs turnīra dalībnieks izcīnīja 4 punktus, kas atbilst uzdevuma nosacijumiem.
-- Ja turnīrā piedalījās 14 astotās klases skolēni, tad doto turnīra rezultātu varēja panākt, piemēram, sekojošā veidā, kur ar A un B apzīmēti 7. klases skolēni:
-- spēle starp A un B beidzās neizškirti;
-- visas spēles starp 8. klases skolēniem beidzās neizškirti;
-- septini 8. klases skolēni uzvarēja A, bet spēlēja neizškirti ar B;
-- otri septinii 8. klases skolēni uzvarēja $B$, bet spēēēja neizškirti ar $A$.
+- Ja turnīrā piedalījās $7$ astotās klases skolēni, tad turnīrā kopā piedalījās
+  $9$ skolēni un katrs izspēlēja $8$ spēles. Piemēram, ja visas spēles beidzās
+  neizšķirti, tad katrs turnīra dalībnieks izcīnīja $4$ punktus, kas atbilst
+  uzdevuma nosacījumiem.
+- Ja turnīrā piedalījās $14$ astotās klases skolēni, tad doto turnīra rezultātu
+  varēja panākt, piemēram, sekojošā veidā, kur ar $A$ un $B$ apzīmēti $7.$
+  klases skolēni:
+   - spēle starp $A$ un $B$ beidzās neizšķirti;
+   - visas spēles starp $8.$ klases skolēniem beidzās neizšķirti;
+   - septiņi $8.$ klases skolēni uzvarēja $A$, bet spēlēja neizšķirti ar $B$;
+   - otri septiņi $8.$ klases skolēni uzvarēja $B$, bet spēlēja neizšķirti ar
+     $A$.
 
-Šajā gadijumā abiem 7. klases skolēniem ir 4 punkti (8 neizškirti), bet visiem 8. klases skolēniem ir 8 punkti (14 neizškirti un viena uzvara).
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-09.jpg?height=209&width=1694&top_left_y=364&top_left_x=181)
-
-I E G U L D Ī J U M S T A V Ā N Ā K O T N Ē
+Šajā gadījumā abiem $7.$ klases skolēniem ir $4$ punkti ($8$ neizšķirti), bet
+visiem $8.$ klases skolēniem ir $8$ punkti ($14$ neizšķirti un viena uzvara).
 
 
 
@@ -1290,7 +1307,7 @@ Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā s
 
 a) Nākamie pārdabiskie skaitļi ir 2178; 10989; 21978; 109989; 219978; 1099989; 2199978; $10891089 ; 10999989 ; 21782178 ; 21999978$.
 
-b) Aplūkojam skait|us, ko veido pierakstot skaitlim 1089 beigās $k(k>1)$ reizes skaitli 1089, tas ir, skait|us formā 10891089...1089. Šāda "pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli 100010001...0001, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem ir trīs nulles. No uzdevuma nosacijumiem, zinot, ka $9801=1089 \cdot 9$, iegūstam
+b) Aplūkojam skait|us, ko veido pierakstot skaitlim 1089 beigās $k(k>1)$ reizes skaitli 1089, tas ir, skait|us formā 10891089...1089. Šāda "pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli 100010001...0001, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem ir trīs nulles. No uzdevuma nosacījumiem, zinot, ka $9801=1089 \cdot 9$, iegūstam
 
 $10891089 \ldots 1089 \cdot 9=1089 \cdot 10001 \ldots 001 \cdot 9=9801 \cdot 10001 \ldots 001=98019801 \ldots 9801$.
 
