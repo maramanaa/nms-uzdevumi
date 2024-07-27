@@ -1083,7 +1083,7 @@ $L \geq \frac{72-24}{2}=24$.
 # <lo-sample/> LV.NOL.2017.10.5
 
 Desmitciparu skaitlī vienādus ciparus aizvietojot ar vienādiem burtiem, bet
-dažādus- ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" aizstāj
+dažādus- ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais " $A$ " un garais " $Ā$ " aizstāj
 atšķirīgus ciparus). Papildus zināms, ka skaitlis
 $\overline{MA}$ dalās ar $2$, $\overline{MAT}$- ar $3$,
 $\overline{MATE}$- ar $4$, $\overline{\text { MATEM }}$- ar $5$,
@@ -1111,7 +1111,7 @@ $\overline{MATEM \bar{A}}=\overline{50TE5 \bar{A}}$. No dalāmības pazīmes ar
 $3$ izriet, ka
 
 
-$5+0+T$ jādalās ar $3$
+$5+0+T$ jādalās ar $3$  
 $E+5+\bar{A}$ jādalās ar $3$
 
 
