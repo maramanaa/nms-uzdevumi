@@ -484,7 +484,7 @@ Izmantojot iepriekš pierādīto, no sākotnējiem $17$ skaitļiem varam izveido
 piecas grupas pa trīs skaitļiem tā, lai tajās esošo skaitļu summa dalās ar $3$.
 Apzīmējam
 
-$$\left\{a_{1}, a_{2}, a_{3}\right\} ;\left\{b_{1}, b_{2}, b_{3}\right\} ;\left\{c_{1}, c_{2}, c_{3}\right\} ;\left\{d_{1}, d_{2}, d_{3}\right\} ;\left\{e_{1}, e_{2}, e_{3}\right\}$$
+$$\{a_{1}, a_{2}, a_{3} \}; \{b_{1}, b_{2}, b_{3}\}; \{c_{1}, c_{2}, c_{3}\}; \{d_{1}, d_{2}, d_{3}\}; \{e_{1}, e_{2}, e_{3}t\}.$$
 
 Skaitļus, kurus iegūst katras grupas skaitļu summu dalot ar $3$, apzīmējam 
 attiecīgi ar $A,\ B,\ C,\ D$ un $E$. No iepriekš pierādītā izriet, ka no šiem 
