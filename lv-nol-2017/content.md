@@ -579,10 +579,10 @@ Pieņemsim pretējo, ka zirdziņam šādā veidā ir izdevies apstaigāt laukumu
 Aplūkosim tikai zirdziņa īsos gājienus, savienosim ar līniju katrus divus
 lauciņu centrus, starp kuriem zirdziņš veic īso gājienu. Starta lauciņš (no kura
 zirdziņš sāk) šajā gadījumā paliek nesavienots, pārējie $24$ lauciņi ir pa
-pāriem savienoti. Aplūkosim ar $"x"$ atzīmētos lauciņus (skat. 22.att.), tādi
+pāriem savienoti. Aplūkosim ar " $x$ " atzīmētos lauciņus (skat. 22.att.), tādi
 ir $9$, tātad vismaz $8$ no tiem būs savienoti ar līniju ar kādu citu lauciņu,
-bet līnija (īsais gājiens) no tiem var iet tikai uz ar $"o"$ apzīmēto lauciņu,
-kādi ir tikai $4$. Tātad kāds no ar $"o"$ apzīmētajiem lauciņiem būs savienots
+bet līnija (īsais gājiens) no tiem var iet tikai uz ar " $o$ " apzīmēto lauciņu,
+kādi ir tikai $4$. Tātad kāds no ar " $o$ " apzīmētajiem lauciņiem būs savienots
 ar līniju ar vairāk nekā vienu lauciņu - pretruna.
 
 
