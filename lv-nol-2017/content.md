@@ -339,7 +339,7 @@ $C$ varde var nokļūt $c$ veidos, bet rūtiņā $D$ tā var nokļūt $d$ veidos
 rūtiņā $X$ varde var nokļūt $c+d$ veidos. Tātad no rūtiņas $A$ rūtiņā $B$ varde
 var nokļūt $19$ dažādos veidos (skat. 13.att.).
 
-![](LV.NOL.2017.7.1Apng)
+![](LV.NOL.2017.7.1A.png)
 
 
 
@@ -399,7 +399,8 @@ Lapa var būt sagriezta $3,4,5,6,7,8,9,10$ daļās, skat., piemēram, 15.att.
 
 Trijstūrī $ABC(AB < BC)$ novilkta bisektrise $BD$. Uz $BD$ izvēlēts tāds punkts
 $F$, ka $\sphericalangle AFD=\sphericalangle ADF$, un uz $BC$ izvēlēts tāds
-punkts $E$, ka $FE || AC$. Pierādīt, ka $\sphericalangle B A F=\sphericalangle B E F!$
+punkts $E$, ka $FE || AC$. Pierādīt, ka
+$\sphericalangle BAF=\sphericalangle BEF!$
 
 <small>
 
@@ -411,27 +412,37 @@ punkts $E$, ka $FE || AC$. Pierādīt, ka $\sphericalangle B A F=\sphericalangle
 
 ## Atrisinājums
 
-Apzīmējam $\sphericalangle A B F=\sphericalangle E B F=\beta$ un $\sphericalangle A F D=\sphericalangle A D F=\alpha$ un aprēķināsim $\sphericalangle B A F$ un $\sphericalangle B E F$. levērojam, ka $\sphericalangle A F B=180^{\circ}-\sphericalangle A F D=180^{\circ}-\alpha$ (blakuslenku summa ir $180^{\circ}$ ), tad no trijstūra $B A F$ iegūstam, ka $\sphericalangle B A F=180^{\circ}-\sphericalangle A B F-\sphericalangle A F B=180^{\circ}-\beta-\left(180^{\circ}-\alpha\right)=\alpha-\beta \quad$ (trijstūra iekšējo lenku summa ir $180^{\circ}$ ).
+Apzīmējam $\sphericalangle ABF=\sphericalangle EBF=\beta$ un
+$\sphericalangle AFD=\sphericalangle ADF=\alpha$ un aprēķināsim
+$\sphericalangle BAF$ un $\sphericalangle BEF$. levērojam, ka
+$\sphericalangle AFB=180^{\circ}-\sphericalangle AFD=180^{\circ}-\alpha$
+(blakusleņķu summa ir $180^{\circ}$ ), tad no trijstūra $BAF$ iegūstam, ka
+$\sphericalangle BAF=180^{\circ}-\sphericalangle ABF-\sphericalangle AFB=180^{\circ}-\beta-\left(180^{\circ}-\alpha\right)=\alpha-\beta \quad$
+(trijstūra iekšējo leņķu summa ir $180^{\circ}$ ).
 
-Līdzīgi iegūstam $\sphericalangle B D C=180^{\circ}-\sphericalangle A D F=180^{\circ}-\alpha$ un
+Līdzīgi iegūstam
+$\sphericalangle BDC=180^{\circ}-\sphericalangle ADF=180^{\circ}-\alpha$ un
 
-$$
-\sphericalangle D C B=180^{\circ}-\sphericalangle B D C-\sphericalangle D B C=180^{\circ}-\left(180^{\circ}-\alpha\right)-\beta=\alpha-\beta
-$$
+$$\sphericalangle DCB=180^{\circ}-\sphericalangle BDC-\sphericalangle DBC=180^{\circ}-\left(180^{\circ}-\alpha\right)-\beta=\alpha-\beta$$
 
-Tā kā $\sphericalangle B E F=\sphericalangle D C B$ (kāpš|u leņki pie paralēlām taisnēm), tāpēc arī $\sphericalangle B E F=\alpha-\beta$.
+Tā kā $\sphericalangle BEF=\sphericalangle DCB$ (kāpšļu leņķi pie paralēlām
+taisnēm), tāpēc arī $\sphericalangle BEF=\alpha-\beta$.
 
-Līdz ar to esam ieguvuši, ka $\sphericalangle B A F=\sphericalangle B E F=\alpha-\beta$.
+Līdz ar to esam ieguvuši, ka
+$\sphericalangle BAF=\sphericalangle BEF=\alpha-\beta$.
 
-*Piezīme.* Prasīto var iegūt arī, pierādot, ka $\triangle A B F=\triangle E B F$ pēc pazīmes $\ell m \ell$.
+*Piezīme.* Prasīto var iegūt arī, pierādot, ka
+$\triangle ABF=\triangle EBF$ pēc pazīmes $\ell m \ell$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=501&width=740&top_left_y=1988&top_left_x=675)
+![](LV.NOL.2017.7.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.7.5
 
-Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $4 \times 4$ rūtiņu kvadrātā, lai neatkarīgi no tā, kuras divas rūtiņu rindas un divas rūtiņuu kolonnas tiktu izmestas, vismaz viena iekrāsotā rūtiņa paliktu neizmesta?
+Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $4 \times 4$ rūtiņu kvadrātā, lai
+neatkarīgi no tā, kuras divas rūtiņu rindas un divas rūtiņuu kolonnas tiktu
+izmestas, vismaz viena iekrāsotā rūtiņa paliktu neizmesta?
 
 <small>
 
@@ -443,25 +454,36 @@ Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $4 \times 4$ rūtiņu kvadr�
 
 ## Atrisinājums
 
-Mazākais skaits rūtiņu, kas jāiekrāso, ir 7. Tās var iekrāsot, piemēram, kā parādīts 17.att. Redzams, ka, izmetot jebkuras divas rindas, aizkrāsotas paliek vēl rūtiņas trīs dažādās kolonnās, tātad ar 2 kolonnu izmešanu visas atlikušās iekrāsotās rūtiņas izmest nevar.
+Mazākais skaits rūtiņu, kas jāiekrāso, ir $7$. Tās var iekrāsot, piemēram, kā
+parādīts 17.att. Redzams, ka, izmetot jebkuras divas rindas, aizkrāsotas paliek
+vēl rūtiņas trīs dažādās kolonnās, tātad ar $2$ kolonnu izmešanu visas atlikušās
+iekrāsotās rūtiņas izmest nevar.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-06.jpg?height=252&width=230&top_left_y=448&top_left_x=913)
+![](LV.NOL.2017.7.5A.png)
 
-17.att.
+Pierādīsim, ka mazāk rūtiņu nevar iekrāsot, tas ir, ka sešas iekrāsotas rūtiņas
+vienmēr var izmest, izmetot divas rindas un divas kolonnas.
 
-Pierādīsim, ka mazāk rūtiņu nevar iekrāsot, tas ir, ka sešas iekrāsotas rūtiņas vienmēr var izmest, izmetot divas rindas un divas kolonnas.
+Ja kādā rindā ir $3$ vai vairāk iekrāsotas rūtiņas, tad, izvēloties šo rindu,
+atliek vēl $3$ vai mazāk rūtiņas, ko viegli izmest ar $3$ gājieniem.
 
-Ja kādā rindā ir 3 vai vairāk iekrāsotas rūtiņas, tad, izvēloties šo rindu, atliek vēl 3 vai mazāk rūtiņas, ko viegli izmest ar 3 gājieniem.
-
-Ja nav tādas rindas, kurā ir 3 vai vairāk iekrāsotas rūtiņas, tad pēc Dirihlē principa noteikti ir rinda, kurā ir 2 iekrāsotas rūtiņas, izmetot to, paliek 3 rindas un 4 iekrāsotas rūtiņas, tātad atkal pēc Dirihlē principa ir vēl viena rinda, kurā ir 2 iekrāsotas rūtiņas. Izmetot arī to, atliek 2 iekrāsotas rūtinas, kuras var izmest, izmetot divas kolonnas.
+Ja nav tādas rindas, kurā ir $3$ vai vairāk iekrāsotas rūtiņas, tad pēc Dirihlē
+principa noteikti ir rinda, kurā ir $2$ iekrāsotas rūtiņas, izmetot to, paliek
+$3$ rindas un $4$ iekrāsotas rūtiņas, tātad atkal pēc Dirihlē principa ir vēl
+viena rinda, kurā ir $2$ iekrāsotas rūtiņas. Izmetot arī to, atliek $2$
+iekrāsotas rūtiņas, kuras var izmest, izmetot divas kolonnas.
 
 
 
 # <lo-sample/> LV.NOL.2017.8.1
 
-Slidotavai "Pa plānu ledu" ir taisnstūrveida forma un tās perimetrs ir 120 metri. Pie slidotavas vienas malas atrodas kvadrātveida laukums, kurā uzbūvēta slidu noma, bet pie blakus malas atrodas kvadrātveida stāvlaukums (skat. 18.att.). Stāvlaukuma platība ir par $1200 \mathrm{~m}^{2}$ lielāka nekā slidu nomas platība. Aprēķini slidotavas platību!
+Slidotavai "Pa plānu ledu" ir taisnstūrveida forma un tās perimetrs ir $120$
+metri. Pie slidotavas vienas malas atrodas kvadrātveida laukums, kurā uzbūvēta
+slidu noma, bet pie blakus malas atrodas kvadrātveida stāvlaukums (skat. 18.att.).
+Stāvlaukuma platība ir par $1200 \mathrm{~m}^{2}$ lielāka nekā slidu nomas
+platība. Aprēķini slidotavas platību!
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-06.jpg?height=358&width=307&top_left_y=1489&top_left_x=880)
+![](LV.NOL.2017.8.1.png)
 
 <small>
 
@@ -473,16 +495,16 @@ Slidotavai "Pa plānu ledu" ir taisnstūrveida forma un tās perimetrs ir 120 me
 
 ## Atrisinājums
 
-Slidu nomas malas garumu apzīmējam ar $x$, tad stāvlaukuma malas garums ir $60-x$. Slidu nomas platība ir $x^{2}$ un stāvlaukuma platība ir $(60-x)^{2}$. Līdz ar to iegūstam vienādojumu
+Slidu nomas malas garumu apzīmējam ar $x$, tad stāvlaukuma malas garums ir
+$60-x$. Slidu nomas platība ir $x^{2}$ un stāvlaukuma platība ir
+$(60-x)^{2}$. Līdz ar to iegūstam vienādojumu
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 (60-x)^{2}-x^{2}=1200 \\
-3600-120 x+x^{2}-x^{2}=1200 \\
-120 x=2400 \\
+3600-120x+x^{2}-x^{2}=1200 \\
+120x=2400 \\
 x=20
-\end{gathered}
-$$
+\end{gathered}$$
 
 Tātad slidotavas platība ir $x \cdot(60-x)=20 \cdot 40=800 \mathrm{~m}^{2}$.
 
@@ -490,7 +512,10 @@ Tātad slidotavas platība ir $x \cdot(60-x)=20 \cdot 40=800 \mathrm{~m}^{2}$.
 
 # <lo-sample/> LV.NOL.2017.8.2
 
-Ja no piecciparu skait!a, kam pirmais cipars vienāds ar ceturto, bet otrais - ar piekto, atnem vieninieku tad iegūtais skaitlis dalās ar 11. Kāds var būt sākotnējā piecciparu skait!̣a trešais cipars? Atrodi visus iespējamos variantus un pamato, ka citu nav!
+Ja no piecciparu skaitļa, kam pirmais cipars vienāds ar ceturto, bet otrais
+- ar piekto, atņem vieninieku tad iegūtais skaitlis dalās ar $11$. Kāds var būt
+sākotnējā piecciparu skaitļa trešais cipars? Atrodi visus iespējamos variantus
+un pamato, ka citu nav!
 
 <small>
 
@@ -502,21 +527,34 @@ Ja no piecciparu skait!a, kam pirmais cipars vienāds ar ceturto, bet otrais - a
 
 ## Atrisinājums
 
-Doto piecciparu skaitli varam uzrakstīt kā $\overline{a b c a b}$. Pārveidojam šo skaitli
+Doto piecciparu skaitli varam uzrakstīt kā $\overline{abcab}$. Pārveidojam šo
+skaitli
 
-$\overline{a b c a b}-1=\overline{a b} \cdot 1000+c \cdot 100+\overline{a b}-1=\overline{a b} \cdot 1001+100 c-1=\overline{a b} \cdot 1001+99 c+c-1$.
+$\overline{abcab}-1=\overline{ab} \cdot 1000+c \cdot 100+\overline{ab}-1=\overline{ab} \cdot 1001+100c-1=\overline{ab} \cdot 1001+99c+c-1$.
 
-Tā kā 1001 dalās ar $11(1001: 11=91)$ un 99 dalās ar 11 , tad, lai viss skaitlis dalītos ar 11, arī $c-1$ jādalās ar 11. Tas iespējams tikai tad, ja $c=1$.
+Tā kā $1001$ dalās ar $11(1001:11=91)$ un $99$ dalās ar $11$ , tad, lai viss
+skaitlis dalītos ar $11$, arī $c-1$ jādalās ar $11$. Tas iespējams tikai tad,
+ja $c=1$.
 
 
 
 # <lo-sample/> LV.NOL.2017.8.3
 
-a) Parādi, kā šaha zirdziņš var apstaigāt šaha galdiņu ar izmēriem $5 \times 5$ lauciņi! Vienā lēcienā no tās rūtinas, kurā stāv zirdziņš, tas var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "x", skat. 19.att.
+**a)** Parādi, kā šaha zirdziņš var apstaigāt šaha galdiņu ar izmēriem
+$5 \times 5$ lauciņi! Vienā lēcienā no tās rūtiņas, kurā stāv zirdziņš, tas var
+aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "x", skat. 19.att.
 
-b) Šaha zirdziņš ir sasitis kāju, tāpēc tas veic vienu garu lēcienu (skat. 19.att.) un vienu īsu lēcienu (no tās rūtinas, kurā stāv zirdziņš, tas var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y", skat. 20.att.). Vai klibais zirdziņš var apstaigāt šaha galdiņu izmēriem $5 \times 5$ laucini, pamǐšus izpildot vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu lēcienu, ....?
+**b)** Šaha zirdziņš ir sasitis kāju, tāpēc tas veic vienu garu lēcienu
+(skat. 19.att.) un vienu īsu lēcienu (no tās rūtiņas, kurā stāv zirdziņš, tas
+var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y", skat. 20.att.). Vai klibais
+zirdziņš var apstaigāt šaha galdiņu izmēriem $5 \times 5$ laucini, pamīšus
+izpildot vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu
+lēcienu, ....?
 
-*Piezīme.* Apstaigāt galdiņu nozīmē, ka zirdziņš katrā šaha galdina lauciņā ir bijis tieši vienu reizi.
+*Piezīme.* Apstaigāt galdiņu nozīmē, ka zirdziņš katrā šaha galdiņa lauciņā
+ir bijis tieši vienu reizi.
+
+![](LV.NOL.2017.8.3.png)
 
 <small>
 
@@ -528,24 +566,24 @@ b) Šaha zirdziņš ir sasitis kāju, tāpēc tas veic vienu garu lēcienu (skat
 
 ## Atrisinājums
 
-a) Šaha zirdziņš galdiņu var apstaigāt tā, kā parādīts, piemēram, 21.att.
+**a)** Šaha zirdziņš galdiņu var apstaigāt tā, kā parādīts, piemēram, 21.att.
 
-| 1 | 14 | 9 | 20 | 3 |
-| :---: | :---: | :---: | :---: | :---: |
-| 24 | 19 | 2 | 15 | 10 |
-| 13 | 8 | 25 | 4 | 21 |
-| 18 | 23 | 6 | 11 | 16 |
-| 7 | 12 | 17 | 22 | 5 |
 
-21.att.
+![](LV.NOL.2017.8.3A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-07.jpg?height=373&width=370&top_left_y=1007&top_left_x=1317)
 
-22.att.
+**b)** Pierādīsim, ka klibais zirdziņš nevar apstaigāt šaha galdiņu ar izmēriem
+$5 \times 5$ lauciņi.
 
-b) Pierādīsim, ka klibais zirdziņš nevar apstaigāt šaha galdiņu ar izmēriem $5 \times 5$ laucini.
-
-Pieņemsim pretējo, ka zirdziņam šādā veidā ir izdevies apstaigāt laukumu. Aplūkosim tikai zirdziņa īsos gājienus, savienosim ar līniju katrus divus lauciņu centrus, starp kuriem zirdziņš veic īso gājienu. Starta lauciņš (no kura zirdziņš sāk) šajā gadījumā paliek nesavienots, pārējie 24 laucini ir pa pāriem savienoti. Aplūkosim ar "x" atzīmētos lauciņus (skat. 22.att.), tādi ir 9, tātad vismaz 8 no tiem būs savienoti ar līniju ar kādu citu lauciņu, bet līnija (īsais gājiens) no tiem var iet tikai uz ar "o" apzīmēto lauciņu, kādi ir tikai 4. Tātad kāds no ar "o" apzīmētajiem lauciņiem būs savienots ar līniju ar vairāk nekā vienu laucinu pretruna.
+Pieņemsim pretējo, ka zirdziņam šādā veidā ir izdevies apstaigāt laukumu.
+Aplūkosim tikai zirdziņa īsos gājienus, savienosim ar līniju katrus divus
+lauciņu centrus, starp kuriem zirdziņš veic īso gājienu. Starta lauciņš (no kura
+zirdziņš sāk) šajā gadījumā paliek nesavienots, pārējie $24$ lauciņi ir pa
+pāriem savienoti. Aplūkosim ar $ "x" $ atzīmētos lauciņus (skat. 22.att.), tādi
+ir $9$, tātad vismaz $8$ no tiem būs savienoti ar līniju ar kādu citu lauciņu,
+bet līnija (īsais gājiens) no tiem var iet tikai uz ar $ "o" $ apzīmēto lauciņu,
+kādi ir tikai $4$. Tātad kāds no ar $ "o" $ apzīmētajiem lauciņiem būs savienots
+ar līniju ar vairāk nekā vienu lauciņu - pretruna.
 
 
 
@@ -912,7 +950,7 @@ Savienojam punktu $F$ ar nogriežna $B G$ viduspunktu $U$, tad $F U$ ir trijstū
 
 # <lo-sample/> LV.NOL.2017.10.4
 
-Dots taisnstūris ar izmēriem $7 \times 5$ rūtinas. Griežot pa rūtiņu līnijām, tas sagriezts septinās vienlielās da!ās (katras dalas laukums ir 5 rūtinas). Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka rūtinas malas garums ir viena vienība!
+Dots taisnstūris ar izmēriem $7 \times 5$ rūtiņas. Griežot pa rūtiņu līnijām, tas sagriezts septinās vienlielās da!ās (katras dalas laukums ir 5 rūtiņas). Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka rūtiņas malas garums ir viena vienība!
 
 <small>
 
@@ -930,7 +968,7 @@ Mazākais iespējamais griezuma līiju kopgarums ir 24 vienības, skat., piemēr
 
 30.att.
 
-Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņemsim, ka taisnstūris ir sagriezts 7 dalās, kuru perimetri ir $P_{1}, P_{2}, \ldots, P_{7}$, un griezuma līniju kopgarums ir $L$. Aplūkojam summu $P_{1}+P_{2}+\ldots+P_{7}$. Šajā summā katrs griezuma posms ir ieskaitīts divas reizes, bet katras dalas ārmalas posms - vienu reizi. Tā kā taisnstūra perimetrs ir $(7+5) \cdot 2=24$, tad iegūstam $P_{1}+P_{2}+\ldots+P_{7}=2 L+24$ jeb $L=\frac{P_{1}+P_{2}+\ldots+P_{7}-24}{2}$. Tātad $L$ būs minimāls, ja perimetru summa būs vismazākā. Apskatīsim, kādas figūras, kuru laukums ir 5 rūtinas, var iegūt, griežot pa rūtiņu līnijām. Figūru, ko iegūst no pieciem vienības kvadrātiem, pievienojot tos vienu otram pa vesela garuma malām, sauc par pentamino. Pavisam ir 12 dažādi pentamino (skat. 31.att.).
+Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņemsim, ka taisnstūris ir sagriezts 7 dalās, kuru perimetri ir $P_{1}, P_{2}, \ldots, P_{7}$, un griezuma līniju kopgarums ir $L$. Aplūkojam summu $P_{1}+P_{2}+\ldots+P_{7}$. Šajā summā katrs griezuma posms ir ieskaitīts divas reizes, bet katras dalas ārmalas posms - vienu reizi. Tā kā taisnstūra perimetrs ir $(7+5) \cdot 2=24$, tad iegūstam $P_{1}+P_{2}+\ldots+P_{7}=2 L+24$ jeb $L=\frac{P_{1}+P_{2}+\ldots+P_{7}-24}{2}$. Tātad $L$ būs minimāls, ja perimetru summa būs vismazākā. Apskatīsim, kādas figūras, kuru laukums ir 5 rūtiņas, var iegūt, griežot pa rūtiņu līnijām. Figūru, ko iegūst no pieciem vienības kvadrātiem, pievienojot tos vienu otram pa vesela garuma malām, sauc par pentamino. Pavisam ir 12 dažādi pentamino (skat. 31.att.).
 
 ![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=229&width=623&top_left_y=2030&top_left_x=248)
 
@@ -946,7 +984,7 @@ Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņe
 
 No visām pentamino figūrām mazākais perimetrs ir 32.att. dotajai figūrai un tas ir 10 vienības, pārējām figūrām perimetrs ir 12 .
 
-Tagad pierādīsim, ka doto taisnstūri nevar sagriezt 7 šādās figūrās. lekrāsojam rūtinas, kā redzams 33.att., ievērojam, ka katra 32.att. figūriņa aizņem vismaz vienu iekrāsoto rūtiņu. Tad, ja būtu izdevies sagriezt taisnstūri 7 šādās figūras, tad būtu vajadzīgas vismaz 7 iekrāsotās rūtinas, bet ir tikai 6 , pretruna.
+Tagad pierādīsim, ka doto taisnstūri nevar sagriezt 7 šādās figūrās. lekrāsojam rūtiņas, kā redzams 33.att., ievērojam, ka katra 32.att. figūriņa aizņem vismaz vienu iekrāsoto rūtiņu. Tad, ja būtu izdevies sagriezt taisnstūri 7 šādās figūras, tad būtu vajadzīgas vismaz 7 iekrāsotās rūtiņas, bet ir tikai 6 , pretruna.
 
 Tātad ir ne vairāk kā sešas 32.att. figūras un septītā figūra ir citādāka, turklāt tās perimetrs ir 12. Līdz ar to perimetru summa ir vismaz $6 \cdot 10+12=72$, un griezuma līniju garumu summa $L \geq \frac{72-24}{2}=24$.
 
@@ -1146,7 +1184,7 @@ levērojam, ka $\sphericalangle D A B+\sphericalangle A B C+\sphericalangle B C 
 
 # <lo-sample/> LV.NOL.2017.11.5
 
-Antra un Baiba spēlē spēli uz $3 \times 3$ rūtiņuu laukuma. Spēlētājas gājienus izdara pēc kārtas, katrā gājienā kādā no tukšajām rūtiņām ierakstot vai nu nullíti, vai krustinu (katra spēlētāja katrā gājienā var rakstīt jebkuru no šiem simboliem). Kad viss laukums aizpildīts, tiek saskaitīts spēles rezultāts. Par katru rindu, kolonnu un diagonāli (tādu, kas satur 3 rūtinas), ja tajā ir pāra skaits krustiņu, punktu saņem Antra, bet, ja krustinu skaits ir nepāra, tad punktu saņem Baiba. Uzvar spēlētāja, kuras punktu kopsumma ir lielāka. Pierādīt, ka spēlētājai, kura sāk spēli, ir uzvaroša stratēḡija, un aprakstīt to!
+Antra un Baiba spēlē spēli uz $3 \times 3$ rūtiņuu laukuma. Spēlētājas gājienus izdara pēc kārtas, katrā gājienā kādā no tukšajām rūtiņām ierakstot vai nu nullíti, vai krustinu (katra spēlētāja katrā gājienā var rakstīt jebkuru no šiem simboliem). Kad viss laukums aizpildīts, tiek saskaitīts spēles rezultāts. Par katru rindu, kolonnu un diagonāli (tādu, kas satur 3 rūtiņas), ja tajā ir pāra skaits krustiņu, punktu saņem Antra, bet, ja krustinu skaits ir nepāra, tad punktu saņem Baiba. Uzvar spēlētāja, kuras punktu kopsumma ir lielāka. Pierādīt, ka spēlētājai, kura sāk spēli, ir uzvaroša stratēḡija, un aprakstīt to!
 
 <small>
 
@@ -1290,7 +1328,7 @@ Taisnleņka trijstūrī augstuma pret hipotenūzu kvadrāts ir vienāds ar kate�
 
 # <lo-sample/> LV.NOL.2017.12.5
 
-Kādu lielāko skaitu $5 \times 13$ rūtiņu taisnstūru var izgriezt no rūtiņu lapas, kuras izmēri ir a) $41 \times 65$; b) $47 \times 65$ rūtinas?
+Kādu lielāko skaitu $5 \times 13$ rūtiņu taisnstūru var izgriezt no rūtiņu lapas, kuras izmēri ir a) $41 \times 65$; b) $47 \times 65$ rūtiņas?
 
 <small>
 
