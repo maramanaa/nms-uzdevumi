@@ -29,7 +29,7 @@ gadījumi.
 starp tiem ir $30~\mathrm{km}$ (skat. 1.att.). Tad, sākot no plkst. 8:00, tie 
 abi kopā ir veikuši $80-30=50~\mathrm{km}$. Tā kā abi velosipēdisti viens otram
 tuvojas ar ātrumu $20+10=30~\mathrm{km/h}$, tad $50~\mathrm{km}$ tie abi kopā 
-būs veikuši $50:30=1 \frac{2}{3}~\mathrm{h}$ jeb 
+būs veikuši $50:30=1 \frac{2}{3} ~\mathrm{h}$ jeb 
 $1~\mathrm{h}\ 40~\mathrm{min}$. Tātad abi velosipēdisti būs $30~\mathrm{km}$ 
 attālumā viens no otra plkst. 9:40.
 
