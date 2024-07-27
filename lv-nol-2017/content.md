@@ -38,7 +38,7 @@ Apskatām, kādi ir nākamie simetriskie skaitļi, ko var redzēt odometra displ
 
 - Pēc skaitļa $16161$ var redzēt skaitli $16261$. Šajā gadījumā autovadītājs
   divās stundās būtu nobraucis $16261-15951=310 \mathrm{~km}$. Pat braucot ar
-  vislielāko atlauto ātrumu $140 \mathrm{~km} / \mathrm{h}$ divās stundās var
+  vislielāko atļauto ātrumu $140 \mathrm{~km} / \mathrm{h}$ divās stundās var
   nobraukt tikai $140 \cdot 2=280 \mathrm{~km}$, kas ir mazāk nekā $310$ km.
 
 Ja autovadītājs brauktu pa trešo joslu ar mazāko iespējamo ātrumu
@@ -136,7 +136,7 @@ Var iegūt $1, 2, 3, 4$ vai $5$ pelēkas daļas, skat., piemēram, 2.att.
 
 Šaha zirdziņš ir sasitis kāju, tāpēc viņš veic vienu garu lēcienu (tas ir, no
 tās rūtiņas, kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas
-atzīmēta ar "x", skat. 3.att.) un vienu īsu lēcienu (tas ir, no tās rūtiņas,
+atzīmēta ar " $x$ ", skat. 3.att.) un vienu īsu lēcienu (tas ir, no tās rūtiņas,
 kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar " $y$ ",
 skat. 4.att.). Parādi, kā klibais zirdziņš var apstaigāt šaha galdiņu ar
 izmēriem $4 \times 4$ lauciņi, pamīšus izpildot vienu garu lēcienu, vienu īsu
@@ -225,7 +225,7 @@ izsvītrot ciparus $7$ un $8$ .
 Šaha zirdziņš ir sasitis kāju, tāpēc viņš veic vienu garu lēcienu (tas ir, no
 tās rūtiņas, kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas
 atzīmēta ar " $x$ ", skat. 6.att.) un vienu īsu lēcienu (tas ir, no tās rūtiņas,
-kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y",
+kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar " $y$ ",
 skat. 7.att.). Vai zirdziņš var apstaigāt 8.att. doto figūru, pamīšus izpildot
 vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu
 lēcienu, .... ?
@@ -441,7 +441,7 @@ $\triangle ABF=\triangle EBF$ pēc pazīmes $\ell m \ell$.
 # <lo-sample/> LV.NOL.2017.7.5
 
 Kāds ir mazākais rūtiņu skaits, kas jāiekrāso $4 \times 4$ rūtiņu kvadrātā, lai
-neatkarīgi no tā, kuras divas rūtiņu rindas un divas rūtiņuu kolonnas tiktu
+neatkarīgi no tā, kuras divas rūtiņu rindas un divas rūtiņu kolonnas tiktu
 izmestas, vismaz viena iekrāsotā rūtiņa paliktu neizmesta?
 
 <small>
@@ -532,7 +532,7 @@ skaitli
 
 $\overline{abcab}-1=\overline{ab} \cdot 1000+c \cdot 100+\overline{ab}-1=\overline{ab} \cdot 1001+100c-1=\overline{ab} \cdot 1001+99c+c-1$.
 
-Tā kā $1001$ dalās ar $11(1001:11=91)$ un $99$ dalās ar $11$ , tad, lai viss
+Tā kā $1001$ dalās ar $11$ $(1001:11=91)$ un $99$ dalās ar $11$ , tad, lai viss
 skaitlis dalītos ar $11$, arī $c-1$ jādalās ar $11$. Tas iespējams tikai tad,
 ja $c=1$.
 
@@ -542,12 +542,12 @@ ja $c=1$.
 
 **a)** Parādi, kā šaha zirdziņš var apstaigāt šaha galdiņu ar izmēriem
 $5 \times 5$ lauciņi! Vienā lēcienā no tās rūtiņas, kurā stāv zirdziņš, tas var
-aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "x", skat. 19.att.
+aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar " $x$ ", skat. 19.att.
 
 **b)** Šaha zirdziņš ir sasitis kāju, tāpēc tas veic vienu garu lēcienu
 (skat. 19.att.) un vienu īsu lēcienu (no tās rūtiņas, kurā stāv zirdziņš, tas
-var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y", skat. 20.att.). Vai klibais
-zirdziņš var apstaigāt šaha galdiņu izmēriem $5 \times 5$ laucini, pamīšus
+var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar " $y$ ", skat. 20.att.). Vai klibais
+zirdziņš var apstaigāt šaha galdiņu izmēriem $5 \times 5$ lauciņi, pamīšus
 izpildot vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu
 lēcienu, ....?
 
@@ -1030,7 +1030,7 @@ bija jāpierāda.
 
 Dots taisnstūris ar izmēriem $7 \times 5$ rūtiņas. Griežot pa rūtiņu līnijām,
 tas sagriezts septiņās vienlielās daļās (katras daļas laukums ir $5$ rūtiņas).
-Noteikt, kāds ir mazākais iespējamais griezuma līiju kopgarums, pieņemot, ka
+Noteikt, kāds ir mazākais iespējamais griezuma līniju kopgarums, pieņemot, ka
 rūtiņas malas garums ir viena vienība!
 
 <small>
@@ -1043,13 +1043,13 @@ rūtiņas malas garums ir viena vienība!
 
 ## Atrisinājums
 
-Mazākais iespējamais griezuma līiju kopgarums ir $24$ vienības, skat., piemēram,
+Mazākais iespējamais griezuma līniju kopgarums ir $24$ vienības, skat., piemēram,
 30.att.
 
 ![](LV.NOL.2017.10.4A.png)
 
 
-Pierādīsim, ka nav iespējams iegūt mazāku griezuma līiju kopgarumu. Pieņemsim,
+Pierādīsim, ka nav iespējams iegūt mazāku griezuma līniju kopgarumu. Pieņemsim,
 ka taisnstūris ir sagriezts $7$ daļās, kuru perimetri ir
 $P_{1}, P_{2}, \ldots, P_{7}$, un griezuma līniju kopgarums ir $L$. Aplūkojam
 summu $P_{1}+P_{2}+\ldots+P_{7}$. Šajā summā katrs griezuma posms ir
@@ -1296,7 +1296,7 @@ Riņķa līniju pieskaršanās punktus apzīmējam ar $A, B, C$ un $D$ (skat. 35
 Novelkam doto riņķa līniju kopīgās pieskares $AM$ un $BM$. Trijstūris $AMB$ ir
 vienādsānu, jo $AM=MB$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no
 punkta ārpus tās. Līdz ar to $\sphericalangle MAB=\sphericalangle MBA=\alpha$
-kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru
+kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņķu pāru
 vienādības.
 
 levērojam, ka
@@ -1305,7 +1305,7 @@ no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā
 $\sphericalangle DAB+\sphericalangle BCD=\alpha+\beta+\gamma+\delta=180^{\circ}$,
 tad četrstūrim $ABCD$ var apvilkt riņķa, līniju, kas arī bija jāpierāda.
 
-*Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares
+*Piezīme.* Leņķu vienādību varēja pierādīt arī izmantojot hordas-pieskares
 leņķi.
 
 ![](LV.NOL.2017.11.4A.png)
@@ -1364,8 +1364,8 @@ tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
 # <lo-sample/> LV.NOL.2017.12.1
 
 Jebkuriem diviem pozitīviem skaitļiem $x$ un $y$ piekārtots trešais skaitlis
-$x^{\lg y}$, ko apzīmēsim ar $x*y$. Pierādīt, ka pozitīviem skaitļiem $x, y$ un
-$z$ izpildās $(x*y)*z=x*(y*z)$.
+$x^{\lg y}$, ko apzīmēsim ar $x * y$. Pierādīt, ka pozitīviem skaitļiem $x, y$ un
+$z$ izpildās $(x * y) * z=x * (y * z)$.
 
 <small>
 
