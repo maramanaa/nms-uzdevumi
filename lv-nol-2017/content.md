@@ -1083,11 +1083,11 @@ $L \geq \frac{72-24}{2}=24$.
 # <lo-sample/> LV.NOL.2017.10.5
 
 Desmitciparu skaitlī vienādus ciparus aizvietojot ar vienādiem burtiem, bet
-dažādus - ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" aizstāj
-atškirīgus ciparus). Papildus zināms, ka skaitlis
-$\overline{MA}$ dalās ar $2$, $\overline{MAT}-\operatorname{ar} $3$,
-\overline{MATE}-$ ar $4$, $\overline{\text { MATEM }}-$ ar $5$,
-$\overline{\text { MATEMA }}-$ ar $6$, $\overline{\text { MATEMĀT }}-$ ar $7$,
+dažādus- ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" aizstāj
+atšķirīgus ciparus). Papildus zināms, ka skaitlis
+$\overline{MA}$ dalās ar $2$, $\overline{MAT}$- ar $3$,
+$\overline{MATE}$- ar $4$, $\overline{\text { MATEM }}$- ar $5$,
+$\overline{MATEMA}$- ar $6$, $\overline{\text { MATEMĀT }}-$ ar $7$,
 $\overline{\text { MATEMĀTI }}$ - ar $8$, $\overline{\text { MATEMĀTIK }}$
 - ar $9$, $\overline{\text { MATEMĀTIKA }}$ - ar $10$. Noteikt, kāds bija
 sākotnējais desmitciparu skaitlis!
