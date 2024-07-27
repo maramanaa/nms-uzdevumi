@@ -175,7 +175,8 @@ iepakojumiem, kuru cenu neatceros.
 
 Kases aparāts izdrukā čeku par $€ 5,30$.
 
-Pircējs nav ar mieru un lūdz pārrēkināt. Tik tiešām - jaunajā čekā ir cita summa. Kā var noteikti zināt, ka pirmais čeks bija klūdains?
+Pircējs nav ar mieru un lūdz pārrēķināt. Tik tiešām - jaunajā čekā ir cita
+summa. Kā var noteikti zināt, ka pirmais čeks bija kļūdains?
 
 <small>
 
@@ -187,13 +188,17 @@ Pircējs nav ar mieru un lūdz pārrēkināt. Tik tiešām - jaunajā čekā ir 
 
 ## Atrisinājums
 
-Par 1 kg apelsīnu un 2 kg banānu pircējam kopā jāmaksā $1 \cdot 0,90+2 \cdot 0,60=2,10$ eiro. Līdz ar to par 3 vienādiem dzērveņu želejkonfekšu iepakojumiem būtu jāmaksā $5,30-2,10=3,20$ eiro jeb 320 centi. Tā kā 320 nedalās ar 3, tad pirmais čeks noteikti bija kļūdains.
+Par $1~\mathrm{kg}$ apelsīnu un $2~\mathrm{kg}$ banānu pircējam kopā jāmaksā
+$1 \cdot 0,90+2 \cdot 0,60=2,10$ eiro. Līdz ar to par $3$ vienādiem dzērveņu
+želejkonfekšu iepakojumiem būtu jāmaksā $5,30-2,10=3,20$ eiro jeb $320$ centi.
+Tā kā $320$ nedalās ar $3$, tad pirmais čeks noteikti bija kļūdains.
 
 
 
 # <lo-sample/> LV.NOL.2017.6.2
 
-Skaitlim 201720182019 izsvītroja vienu vai vairākus ciparus tā, ka iegūtais skaitlis dalās ar 9. Kādu lielāko skaitli varēja iegūt?
+Skaitlim $201720182019$ izsvītroja vienu vai vairākus ciparus tā, ka iegūtais
+skaitlis dalās ar $9$. Kādu lielāko skaitli varēja iegūt?
 
 <small>
 
@@ -205,15 +210,30 @@ Skaitlim 201720182019 izsvītroja vienu vai vairākus ciparus tā, ka iegūtais 
 
 ## Atrisinājums
 
-Lielākais skaitlis, kādu var iegūt, ir 2012012019. Pamatosim, ka lielāku skaitli nevar iegūt. Lai iegūtu lielāko skaitli, jāizsvītro pēc iespējas mazāk cipari. Lai skaitlis dalītos ar 9, tā ciparu summai jādalās ar 9. Dotā skait|la ciparu summa ir 33. Nav iespējams izsvītrot vienu ciparu, lai iegūtā skait|la ciparu summa dalītos ar 9 . Vienīgā iespēja izsvītrot divus ciparus, lai iegūtā skaitla ciparu summa un tātad arī pats skaitlis dalītos ar 9, ir izsvītrot ciparus 7 un 8 .
+Lielākais skaitlis, kādu var iegūt, ir $2012012019$. Pamatosim, ka lielāku
+skaitli nevar iegūt. Lai iegūtu lielāko skaitli, jāizsvītro pēc iespējas mazāk
+cipari. Lai skaitlis dalītos ar $9$, tā ciparu summai jādalās ar $9$. Dotā
+skaitļa ciparu summa ir $33$. Nav iespējams izsvītrot vienu ciparu, lai iegūtā
+skaitļa ciparu summa dalītos ar $9$ . Vienīgā iespēja izsvītrot divus ciparus,
+lai iegūtā skaitļa ciparu summa un tātad arī pats skaitlis dalītos ar $9$, ir
+izsvītrot ciparus $7$ un $8$ .
 
 
 
 # <lo-sample/> LV.NOL.2017.6.3
 
-Šaha zirdziņš ir sasitis kāju, tāpēc viņš veic vienu garu lēcienu (tas ir, no tās rūtinas, kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar " $x$ ", skat. 6.att.) un vienu īsu lēcienu (tas ir, no tās rūtiņas, kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y", skat. 7.att.). Vai zirdziņš var apstaigāt 8.att. doto figūru, pamīšus izpildot vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu lēcienu, .... ?
+Šaha zirdziņš ir sasitis kāju, tāpēc viņš veic vienu garu lēcienu (tas ir, no
+tās rūtiņas, kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas
+atzīmēta ar " $x$ ", skat. 6.att.) un vienu īsu lēcienu (tas ir, no tās rūtiņas,
+kurā stāv zirdziņš, viņš var aizlēkt uz jebkuru rūtiņu, kas atzīmēta ar "y",
+skat. 7.att.). Vai zirdziņš var apstaigāt 8.att. doto figūru, pamīšus izpildot
+vienu garu lēcienu, vienu īsu lēcienu, vienu garu lēcienu, vienu īsu
+lēcienu, .... ?
 
-*Piezīme.* Apstaigāt figūru nozīmē, ka zirdziņš katrā figūras rūtiņā ir bijis tieši vienu reizi.
+*Piezīme.* Apstaigāt figūru nozīmē, ka zirdziņš katrā figūras rūtiņā ir bijis
+tieši vienu reizi.
+
+![](LV.NOL.2017.6.3.png)
 
 <small>
 
@@ -227,20 +247,22 @@ Lielākais skaitlis, kādu var iegūt, ir 2012012019. Pamatosim, ka lielāku ska
 
 Jā, zirdziņš var apstaigāt uzdevumā doto figūru, skat., piemēram, 9.att.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-03.jpg?height=432&width=395&top_left_y=1920&top_left_x=839)
+![](LV.NOL.2017.6.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.6.4
 
-Uz rūtiņu lapas uzzīmē tādu trijstūri $A B C$, lai vienlaicīgi izpildītos šādi nosacījumi:
+Uz rūtiņu lapas uzzīmē tādu trijstūri $ABC$, lai vienlaicīgi izpildītos šādi
+nosacījumi:
 
 - visas trijstūra virsotnes atrodas rūtiņu krustpunktos;
-- punkts $X$ ir nogriežņa $A B$ viduspunkts;
-- punkts $Y$ ir nogriežņa $A C$ viduspunkts;
-- nogriežņi $B Y$ un $C X$ krustojoties veido $90^{\circ}$ lielu lenkiki.
+- punkts $X$ ir nogriežņa $AB$ viduspunkts;
+- punkts $Y$ ir nogriežņa $AC$ viduspunkts;
+- nogriežņi $BY$ un $CX$ krustojoties veido $90^{\circ}$ lielu leņķi.
 
-*Piezīme.* Nogriežņa viduspunkts ir tāds punkts, kas sadala nogriezni divos vienāda garuma nogriežnoos.
+*Piezīme.* Nogriežņa viduspunkts ir tāds punkts, kas sadala nogriezni divos
+vienāda garuma nogriežnoos.
 
 <small>
 
@@ -254,13 +276,19 @@ Uz rūtiņu lapas uzzīmē tādu trijstūri $A B C$, lai vienlaicīgi izpildīto
 
 Kā uzzīmēt trijstūri skat., piemēram, 10.att.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-04.jpg?height=341&width=336&top_left_y=246&top_left_x=860)
+![](LV.NOL.2017.6.4A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.6.5
 
-Parkā aug liepas un ozoli. No visiem kokiem liepas ir $25 \%$, bet ozoli $-75 \%$. Pavasara talkas pirmajā dienā skolēni parkā stādīja tikai liepas, kā rezultātā dienas beigās ozolu īpatsvars parkā nokritās līdz 15\%. Talkas otrajā dienā skolēni parkā stādīja tikai ozolus, kā rezultātā dienas beigās parkā izveidojās tāda pati koku proporcija ( $25 \%$ liepu un $75 \%$ ozolu), kāda bija pirms talkas. Cik reizes parkā pieauga ozolu skaits pēc talkas beigām, salīdzinot ar situāciju pirms tās?
+Parkā aug liepas un ozoli. No visiem kokiem liepas ir $25 \%$, bet ozoli-
+$75 \%$. Pavasara talkas pirmajā dienā skolēni parkā stādīja tikai liepas, kā
+rezultātā dienas beigās ozolu īpatsvars parkā nokritās līdz $15\%$. Talkas
+otrajā dienā skolēni parkā stādīja tikai ozolus, kā rezultātā dienas beigās
+parkā izveidojās tāda pati koku proporcija ( $25 \%$ liepu un $75 \%$ ozolu),
+kāda bija pirms talkas. Cik reizes parkā pieauga ozolu skaits pēc talkas beigām,
+salīdzinot ar situāciju pirms tās?
 
 <small>
 
@@ -272,19 +300,28 @@ Parkā aug liepas un ozoli. No visiem kokiem liepas ir $25 \%$, bet ozoli $-75 \
 
 ## Atrisinājums
 
-Koku skaitu pirms talkas apzīmējam ar $x$, tad liepu skaits ir $\frac{1}{4} x$ un ozolu skaits ir $\frac{3}{4} x$. Pēc pirmās talkas dienas ozolu īpatsvars samazinājās piecas reizes un tā kā tika stādītas tikai liepas, tad koku kopskaits palielinājās piecas reizes, tas ir, pēc pirmās talkas dienas visu koku skaits bija $5 x$ ). Tātad pirmajā talkas dienā tika iestādītas $5 x-x=4 x$ liepas un kopējais liepu skaits pēc talkas bija $\frac{1}{4} x+4 x=4 \frac{1}{4} x=\frac{17}{4} x$.
+Koku skaitu pirms talkas apzīmējam ar $x$, tad liepu skaits ir $\frac{1}{4} x$
+un ozolu skaits ir $\frac{3}{4} x$. Pēc pirmās talkas dienas ozolu īpatsvars
+samazinājās piecas reizes un tā kā tika stādītas tikai liepas, tad koku
+kopskaits palielinājās piecas reizes, tas ir, pēc pirmās talkas dienas visu
+koku skaits bija $5x$ ). Tātad pirmajā talkas dienā tika iestādītas
+$5x-x=4x$ liepas un kopējais liepu skaits pēc talkas bija
+$\frac{1}{4}x+4x=4 \frac{1}{4}x=\frac{17}{4}x$.
 
-Pēc otrās talkas dienas ozolu skaits atkal ir trīs reizes lielāks nekā liepu skaits, tātad ozolu skaits ir $\frac{17}{4} x \cdot 3=\frac{51}{4} x$. Tātad ozolu skaits parkā pēc talkas beigām ir pieaudzis $\frac{51}{4} x: \frac{3}{4} x=\frac{51 \cdot 4}{4 \cdot 3}=17$ reizes.
+Pēc otrās talkas dienas ozolu skaits atkal ir trīs reizes lielāks nekā liepu
+skaits, tātad ozolu skaits ir $\frac{17}{4} x \cdot 3=\frac{51}{4} x$. Tātad
+ozolu skaits parkā pēc talkas beigām ir pieaudzis
+$\frac{51}{4}x: \frac{3}{4}x=\frac{51 \cdot 4}{4 \cdot 3}=17$ reizes.
 
 
 
 # <lo-sample/> LV.NOL.2017.7.1
 
-Varde vienā lēcienā var pārvietoties vienu rūtiņu uz augšu vai vienu rūtiņu pa labi. Cik dažādos veidos varde no rūtiņas A var nokļut rūtinā B (skat. 11.att.)? Iekrāsotajās rūtinās ir škē̄rslis, tajās varde neiet.
+Varde vienā lēcienā var pārvietoties vienu rūtiņu uz augšu vai vienu rūtiņu pa
+labi. Cik dažādos veidos varde no rūtiņas $A$ var nokļut rūtiņā $B$
+(skat. 11.att.)? Iekrāsotajās rūtiņās ir šķērslis, tajās varde neiet.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-04.jpg?height=289&width=349&top_left_y=1500&top_left_x=859)
-
-11.att.
+![](LV.NOL.2017.7.1.png)
 
 <small>
 
@@ -296,21 +333,21 @@ Varde vienā lēcienā var pārvietoties vienu rūtiņu uz augšu vai vienu rūt
 
 ## Atrisinājums
 
-Pakāpeniski aprēḳinām, cik veidos varde var nok|ūt katrā rūtiņā. levērojam, ka rūtiņā X (skat. 12.att.) varde var nok!̣ut no rūtiņas $C$ vai $D$. Ja rūtinā $C$ varde var noklūt $c$ veidos, bet rūtiņā $D$ tā var noklūt $d$ veidos, tad rūtiņā X varde var noklūt $c+d$ veidos. Tātad no rūtiņas A rūtinā B varde var noklūt 19 dažādos veidos (skat. 13.att.).
+Pakāpeniski aprēķinām, cik veidos varde var nokļūt katrā rūtiņā. levērojam, ka
+rūtiņā $X$ (skat. 12.att.) varde var nokļūt no rūtiņas $C$ vai $D$. Ja rūtiņā
+$C$ varde var nokļūt $c$ veidos, bet rūtiņā $D$ tā var nokļūt $d$ veidos, tad
+rūtiņā $X$ varde var nokļūt $c+d$ veidos. Tātad no rūtiņas $A$ rūtiņā $B$ varde
+var nokļūt $19$ dažādos veidos (skat. 13.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-04.jpg?height=135&width=129&top_left_y=2194&top_left_x=541)
-
-12.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-04.jpg?height=284&width=350&top_left_y=2028&top_left_x=1324)
-
-13.att.
+![](LV.NOL.2017.7.1Apng)
 
 
 
 # <lo-sample/> LV.NOL.2017.7.2
 
-Piecciparu skait!̣, kas dalās ar 13, pirmais cipars ir vienāds ar ceturto, bet otrais - ar piekto. Kāds ir šī skaitla trešais cipars? Atrodi visas iespējamās vērtības un pamato, ka citu nav!
+Piecciparu skaitļa kas dalās ar $13$, pirmais cipars ir vienāds ar ceturto, bet
+otrais - ar piekto. Kāds ir šī skaitļa trešais cipars? Atrodi visas iespējamās
+vērtības un pamato, ka citu nav!
 
 <small>
 
@@ -322,21 +359,25 @@ Piecciparu skait!̣, kas dalās ar 13, pirmais cipars ir vienāds ar ceturto, be
 
 ## Atrisinājums
 
-Doto piecciparu skaitli varam uzrakstīt kā $\overline{a b c a b}$. Pārveidojam šo skaitli
+Doto piecciparu skaitli varam uzrakstīt kā $\overline{abcab}$. Pārveidojam šo
+skaitli
 
-$$
-\overline{a b c a b}=\overline{a b} \cdot 1000+c \cdot 100+\overline{a b}=1001 \cdot \overline{a b}+100 c
-$$
+$$\overline{abcab}=\overline{ab} \cdot 1000+c \cdot 100+\overline{ab}=1001 \cdot \overline{ab}+100c$$
 
-Tā kā 1001 dalās ar $13(1001: 13=77)$, tad, lai viss skaitlis dalītos ar 13 , arī saskaitāmajam $100 c$ jādalās ar 13. Tā kā 100 un 13 ir savstarpēji pirmskaitli, tad $c$ jādalās ar 13, tas iespējams tikai tad, kad $c=0$.
+Tā kā $1001$ dalās ar $13(1001:13=77)$, tad, lai viss skaitlis dalītos ar $13$,
+arī saskaitāmajam $100c$ jādalās ar $13$. Tā kā $100$ un $13$ ir savstarpēji
+pirmskaitļi, tad $c$ jādalās ar $13$, tas iespējams tikai tad, kad $c=0$.
 
 
 
 # <lo-sample/> LV.NOL.2017.7.3
 
-Zane uz papīra lapas uzzīmēja riņka līniju un kvadrātu (tā, ka neviens no tiem nepieskaras lapas malai) un tad sagrieza lapu pa to kontūriem. Cik daļās var būt sagriezta lapa? Atrodi visus variantus, nav jāpamato, ka citu nav! Vienu piemēru, kā lapa var būt sagriezta 4 daļās, skat. 14.att.
+Zane uz papīra lapas uzzīmēja riņka līniju un kvadrātu (tā, ka neviens no tiem
+nepieskaras lapas malai) un tad sagrieza lapu pa to kontūriem. Cik daļās var būt
+sagriezta lapa? Atrodi visus variantus, nav jāpamato, ka citu nav! Vienu piemēru,
+kā lapa var būt sagriezta $4$ daļās, skat. 14.att.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=407&width=472&top_left_y=342&top_left_x=792)
+![](LV.NOL.2017.7.3.png)
 
 <small>
 
@@ -350,32 +391,15 @@ Zane uz papīra lapas uzzīmēja riņka līniju un kvadrātu (tā, ka neviens no
 
 Lapa var būt sagriezta $3,4,5,6,7,8,9,10$ daļās, skat., piemēram, 15.att.
 
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=210&width=230&top_left_y=843&top_left_x=593)
-
-3
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=252&width=232&top_left_y=1116&top_left_x=592)
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=210&width=192&top_left_y=843&top_left_x=858)
-
-4
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=254&width=228&top_left_y=1112&top_left_x=834)
-
-15. att
-
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=229&width=221&top_left_y=842&top_left_x=1066)
-
-5
-![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-05.jpg?height=476&width=218&top_left_y=845&top_left_x=1293)
-
-10
+![](LV.NOL.2017.7.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2017.7.4
 
-Trijstūrī $A B C(A B<B C)$ novilkta bisektrise $B D$. Uz $B D$ izvēlēts tāds punkts $F$, ka $\Varangle A F D=\Varangle A D F$, un uz $B C$ izvēlēts tāds punkts $E$, ka $F E \| A C$. Pierādīt, ka $\Varangle B A F=\Varangle B E F!$
+Trijstūrī $ABC(AB < BC)$ novilkta bisektrise $BD$. Uz $BD$ izvēlēts tāds punkts
+$F$, ka $\sphericalangle AFD=\sphericalangle ADF$, un uz $BC$ izvēlēts tāds
+punkts $E$, ka $FE \| AC$. Pierādīt, ka $\sphericalangle B A F=\sphericalangle B E F!$
 
 <small>
 
@@ -387,17 +411,17 @@ Trijstūrī $A B C(A B<B C)$ novilkta bisektrise $B D$. Uz $B D$ izvēlēts tād
 
 ## Atrisinājums
 
-Apzīmējam $\Varangle A B F=\Varangle E B F=\beta$ un $\Varangle A F D=\Varangle A D F=\alpha$ un aprēḳināsim $\Varangle B A F$ un $\Varangle B E F$. levērojam, ka $\Varangle A F B=180^{\circ}-\Varangle A F D=180^{\circ}-\alpha$ (blakuslenku summa ir $180^{\circ}$ ), tad no trijstūra $B A F$ iegūstam, ka $\Varangle B A F=180^{\circ}-\Varangle A B F-\Varangle A F B=180^{\circ}-\beta-\left(180^{\circ}-\alpha\right)=\alpha-\beta \quad$ (trijstūra iekšējo lenku summa ir $180^{\circ}$ ).
+Apzīmējam $\sphericalangle A B F=\sphericalangle E B F=\beta$ un $\sphericalangle A F D=\sphericalangle A D F=\alpha$ un aprēķināsim $\sphericalangle B A F$ un $\sphericalangle B E F$. levērojam, ka $\sphericalangle A F B=180^{\circ}-\sphericalangle A F D=180^{\circ}-\alpha$ (blakuslenku summa ir $180^{\circ}$ ), tad no trijstūra $B A F$ iegūstam, ka $\sphericalangle B A F=180^{\circ}-\sphericalangle A B F-\sphericalangle A F B=180^{\circ}-\beta-\left(180^{\circ}-\alpha\right)=\alpha-\beta \quad$ (trijstūra iekšējo lenku summa ir $180^{\circ}$ ).
 
-Līdzīgi iegūstam $\Varangle B D C=180^{\circ}-\Varangle A D F=180^{\circ}-\alpha$ un
+Līdzīgi iegūstam $\sphericalangle B D C=180^{\circ}-\sphericalangle A D F=180^{\circ}-\alpha$ un
 
 $$
-\Varangle D C B=180^{\circ}-\Varangle B D C-\Varangle D B C=180^{\circ}-\left(180^{\circ}-\alpha\right)-\beta=\alpha-\beta
+\sphericalangle D C B=180^{\circ}-\sphericalangle B D C-\sphericalangle D B C=180^{\circ}-\left(180^{\circ}-\alpha\right)-\beta=\alpha-\beta
 $$
 
-Tā kā $\Varangle B E F=\Varangle D C B$ (kāpš|u leņki pie paralēlām taisnēm), tāpēc arī $\Varangle B E F=\alpha-\beta$.
+Tā kā $\sphericalangle B E F=\sphericalangle D C B$ (kāpš|u leņki pie paralēlām taisnēm), tāpēc arī $\sphericalangle B E F=\alpha-\beta$.
 
-Līdz ar to esam ieguvuši, ka $\Varangle B A F=\Varangle B E F=\alpha-\beta$.
+Līdz ar to esam ieguvuši, ka $\sphericalangle B A F=\sphericalangle B E F=\alpha-\beta$.
 
 *Piezīme.* Prasīto var iegūt arī, pierādot, ka $\triangle A B F=\triangle E B F$ pēc pazīmes $\ell m \ell$.
 
@@ -435,7 +459,7 @@ Ja nav tādas rindas, kurā ir 3 vai vairāk iekrāsotas rūtiņas, tad pēc Dir
 
 # <lo-sample/> LV.NOL.2017.8.1
 
-Slidotavai "Pa plānu ledu" ir taisnstūrveida forma un tās perimetrs ir 120 metri. Pie slidotavas vienas malas atrodas kvadrātveida laukums, kurā uzbūvēta slidu noma, bet pie blakus malas atrodas kvadrātveida stāvlaukums (skat. 18.att.). Stāvlaukuma platība ir par $1200 \mathrm{~m}^{2}$ lielāka nekā slidu nomas platība. Aprēḳini slidotavas platību!
+Slidotavai "Pa plānu ledu" ir taisnstūrveida forma un tās perimetrs ir 120 metri. Pie slidotavas vienas malas atrodas kvadrātveida laukums, kurā uzbūvēta slidu noma, bet pie blakus malas atrodas kvadrātveida stāvlaukums (skat. 18.att.). Stāvlaukuma platība ir par $1200 \mathrm{~m}^{2}$ lielāka nekā slidu nomas platība. Aprēķini slidotavas platību!
 
 ![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-06.jpg?height=358&width=307&top_left_y=1489&top_left_x=880)
 
@@ -545,7 +569,7 @@ Uz kvadrāta $A B C D$ malām atzīmēti punkti $E, F, G$ un $H$ tā, ka $\frac{
 
 Apzīmējam $E B=x$, tad $E B=C F=D G=A H=x$ un $A E=B F=C G=D H=9 x$ (skat. 24.att.). Kvadrāta $A B C D$ malas garums ir $10 x$ un $S(A B C D)=100 x^{2}$
 
-Tā kā trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi pēc pazīmes $m \ell m$, tad $H E=E F=F G=G H$. Tā kā $\Varangle H E F=180^{\circ}-(\Varangle A E H+\Varangle B E F)=180^{\circ}-(\Varangle A E H+\Varangle A H E)=180^{\circ}-90^{\circ}=90^{\circ}$, tad četrstūris $E F G H$ ir kvadrāts, kura laukums ir
+Tā kā trijstūri $H A E, E B F, F C G$ un $G D H$ ir vienādi pēc pazīmes $m \ell m$, tad $H E=E F=F G=G H$. Tā kā $\sphericalangle H E F=180^{\circ}-(\sphericalangle A E H+\sphericalangle B E F)=180^{\circ}-(\sphericalangle A E H+\sphericalangle A H E)=180^{\circ}-90^{\circ}=90^{\circ}$, tad četrstūris $E F G H$ ir kvadrāts, kura laukums ir
 
 $$
 S(E F G H)=S(A B C D)-4 \cdot S(H A E)=100 x^{2}-4 \cdot \frac{1}{2} \cdot x \cdot 9 x=82 x^{2}
@@ -866,9 +890,9 @@ Kvadrāta $A B C D$ diagonāles krustojas punktā $O$, punkts $E$ ir nogriežņa
 
 ## Atrisinājums
 
-Trijstūri $A E F$ un $C E B$ ir līdzīgi pēc pazīmes $\ell \ell$, jo $\Varangle A E F=\Varangle C E B$ kā krustleņki un $\Varangle F A E=\Varangle B C E$ kā iekšējie škērsleņki pie paralēlām taisnēm (skat. 28.att.). Tā kā $A E=O E$ un $A O=O C$, tad $E C=3 A E$ un līdz ar to trijstūru $C E B$ un $A E F$ līdzības koeficients $k=\frac{E C}{A E}=3$. Tātad $A F=x$ un $B C=3 x$
+Trijstūri $A E F$ un $C E B$ ir līdzīgi pēc pazīmes $\ell \ell$, jo $\sphericalangle A E F=\sphericalangle C E B$ kā krustleņki un $\sphericalangle F A E=\sphericalangle B C E$ kā iekšējie škērsleņki pie paralēlām taisnēm (skat. 28.att.). Tā kā $A E=O E$ un $A O=O C$, tad $E C=3 A E$ un līdz ar to trijstūru $C E B$ un $A E F$ līdzības koeficients $k=\frac{E C}{A E}=3$. Tātad $A F=x$ un $B C=3 x$
 
-Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\Varangle O A F=\Varangle O C G$ (iekšējie škē̄rsleņki), $A O=O C$ un $\Varangle A O F=\Varangle C O G$ (krustleņki). Tāpēc $A F=C G=x$, no kā izriet, ka $B G=B C-C G=3 x-x=2 x$. Trijstūrī $B F G$ no punkta $F$ novelkam augstumu $F U$. levērojam, ka četrstūris $A B U F$ ir taisnstūris, tāpēc $A F=B U=x$ kā taisnstūra pretējās malas. Esam ieguvuši, ka $U G=B G-B U=2 x-x=x=B U$. Tātad $F U$ ir trijstūra $B F G$ mediāna. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
+Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\sphericalangle O A F=\sphericalangle O C G$ (iekšējie škē̄rsleņki), $A O=O C$ un $\sphericalangle A O F=\sphericalangle C O G$ (krustleņki). Tāpēc $A F=C G=x$, no kā izriet, ka $B G=B C-C G=3 x-x=2 x$. Trijstūrī $B F G$ no punkta $F$ novelkam augstumu $F U$. levērojam, ka četrstūris $A B U F$ ir taisnstūris, tāpēc $A F=B U=x$ kā taisnstūra pretējās malas. Esam ieguvuši, ka $U G=B G-B U=2 x-x=x=B U$. Tātad $F U$ ir trijstūra $B F G$ mediāna. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-12.jpg?height=315&width=307&top_left_y=188&top_left_x=452)
 
@@ -880,9 +904,9 @@ Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\Vara
 
 ## Atrisinājums
 
-Savienojam diagonāļu krustpunktu $O$ ar malas $A B$ viduspunktu $T$, nogriežña $O T$ krustpunktu ar $B E$ apzīmējam ar $P$ (skat. 29.att.). Tad $O T \| A D$, jo $O T$ ir trijstūra $A B D$ viduslīnija. Tā kā $O T$ un $B E$ ir trijstūra $A B O$ mediānas, tad $P O: T P=2: 1$. Apzīmējam kvadrāta $A B C D$ malas garumu ar a. Tad $T P=\frac{1}{3} O T=\frac{1}{3} \cdot \frac{1}{2} a=\frac{a}{6}$. Nogrieznis $T P$ ir trijstūra $A B F$ viduslīnija, tāpēc $A F=2 T P=\frac{a}{3}$. Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\Varangle O A F=\Varangle O C G$ (iekšējie škeērslenki.), $A O=O C$ un $\Varangle A O F=\Varangle C O G$ (krustlenki. . Tāpēc $G C=\frac{a}{3}$ un $B G=\frac{2 a}{3}$.
+Savienojam diagonāļu krustpunktu $O$ ar malas $A B$ viduspunktu $T$, nogriežña $O T$ krustpunktu ar $B E$ apzīmējam ar $P$ (skat. 29.att.). Tad $O T \| A D$, jo $O T$ ir trijstūra $A B D$ viduslīnija. Tā kā $O T$ un $B E$ ir trijstūra $A B O$ mediānas, tad $P O: T P=2: 1$. Apzīmējam kvadrāta $A B C D$ malas garumu ar a. Tad $T P=\frac{1}{3} O T=\frac{1}{3} \cdot \frac{1}{2} a=\frac{a}{6}$. Nogrieznis $T P$ ir trijstūra $A B F$ viduslīnija, tāpēc $A F=2 T P=\frac{a}{3}$. Trijstūri $A O F$ un $C O G$ ir vienādi pēc pazīmes $\ell m \ell$, jo $\sphericalangle O A F=\sphericalangle O C G$ (iekšējie škeērslenki.), $A O=O C$ un $\sphericalangle A O F=\sphericalangle C O G$ (krustlenki. . Tāpēc $G C=\frac{a}{3}$ un $B G=\frac{2 a}{3}$.
 
-Savienojam punktu $F$ ar nogriežna $B G$ viduspunktu $U$, tad $F U$ ir trijstūra $B F G$ mediāna un $B U=U G=\frac{a}{3}$. Četrstūris $A B U F$ ir taisnstūris, jo $B U=A F=\frac{a}{3}$ un $B U \| A F$, un $\Varangle A B U$ ir taisns. Līdz ar to $F U$ ir trijstūra $B F G$ augstums. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
+Savienojam punktu $F$ ar nogriežna $B G$ viduspunktu $U$, tad $F U$ ir trijstūra $B F G$ mediāna un $B U=U G=\frac{a}{3}$. Četrstūris $A B U F$ ir taisnstūris, jo $B U=A F=\frac{a}{3}$ un $B U \| A F$, un $\sphericalangle A B U$ ir taisns. Līdz ar to $F U$ ir trijstūra $B F G$ augstums. Tā kā $F U$ trijstūrī $B F G$ ir gan mediāna, gan augstums, tad trijstūris $B F G$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
 
 
 
@@ -953,7 +977,7 @@ $$
 \end{align*}
 $$
 
-Tātad no (1) iegūstam, ka iespējamās $T$ vērtības ir 1; 4 vai 7. Lai skaitlis dalītos ar pāra skaitli, tad nepieciešams, lai skaitla pēdējais cipars būtu pāra. Tā kā $\overline{M A T E}$ un $\overline{M A T E M \bar{A}}$ jādalās attiecīgi ar 4 un 6, tad $E$ un Ā ir jābūt pāra skaitliem un, nemot vērā (2), iegūstam, ka $E+\bar{A}$ iespējamās vērtības ir 4; 10 vai 16. Tā kā $E$ un Ā jābūt dažādiem pāra skaitļiem, tad iespējama ir tikai summa 10, un der varianti $2+8$; $4+6 ; 6+4 ; 8+2$
+Tātad no (1) iegūstam, ka iespējamās $T$ vērtības ir 1; 4 vai 7. Lai skaitlis dalītos ar pāra skaitli, tad nepieciešams, lai skaitļa pēdējais cipars būtu pāra. Tā kā $\overline{M A T E}$ un $\overline{M A T E M \bar{A}}$ jādalās attiecīgi ar 4 un 6, tad $E$ un Ā ir jābūt pāra skaitliem un, nemot vērā (2), iegūstam, ka $E+\bar{A}$ iespējamās vērtības ir 4; 10 vai 16. Tā kā $E$ un Ā jābūt dažādiem pāra skaitļiem, tad iespējama ir tikai summa 10, un der varianti $2+8$; $4+6 ; 6+4 ; 8+2$
 
 Tā kā $\overline{M A T E}$ jādalās ar 4, tad no dalāmības pazīmes ar 4 izriet, ka $\overline{T E}$ jādalās ar 4, un līdzīgi no dalāmības pazīmes ar 8 iegūstam, ka $\overline{\mathrm{A} T I}$ jādalās ar 8. Pārbaudām visus iespējamos variantus atkarībā no $T$ vērtības.
 
@@ -1075,7 +1099,7 @@ $$
 
 (pienemot, ka $z$ dalās ar 31, visi spriedumi ir analogiski).
 
-Izmantojot (3) un (4), no (2) iegūstam, ka $31 \cdot 31 p \cdot z=(31 t)^{2}$ jeb $p z=t^{2}$. Tā kā $p$ un $z$ nav kopīgu dalītāju, tad katram no skaitļiem $p$ un $z$ ir jābūt kāda naturāla skaitla kvadrātam, tas ir, $p=p_{1}^{2}$ un $z=z_{1}^{2}$. Izmantojot (1) un (4), iegūstam $p=\frac{x}{31}=\frac{2017-z}{31}<\frac{2017}{31}$ jeb $p_{1}^{2}<\frac{2017}{31}<65$. Tātad $p_{1} \leq 8$.
+Izmantojot (3) un (4), no (2) iegūstam, ka $31 \cdot 31 p \cdot z=(31 t)^{2}$ jeb $p z=t^{2}$. Tā kā $p$ un $z$ nav kopīgu dalītāju, tad katram no skaitļiem $p$ un $z$ ir jābūt kāda naturāla skaitļa kvadrātam, tas ir, $p=p_{1}^{2}$ un $z=z_{1}^{2}$. Izmantojot (1) un (4), iegūstam $p=\frac{x}{31}=\frac{2017-z}{31}<\frac{2017}{31}$ jeb $p_{1}^{2}<\frac{2017}{31}<65$. Tātad $p_{1} \leq 8$.
 
 Izveidojam tabulu, kurā analizējam visas iespējamās $p_{1}$ vērtības.
 
@@ -1110,9 +1134,9 @@ Esam ieguvuši atrisinājumu $x=496, y=4836, z=1521$ un tā kā vienādojumu sis
 
 ## Atrisinājums
 
-Riņka līniju pieskaršanās punktus apzīmējam $\operatorname{ar} A, B, C$ un $D$ (skat. 35.att.). Novelkam doto riņķa līniju kopīgās pieskares $A M$ un $B M$. Trijstūris $A M B$ ir vienādsānu, jo $A M=M B$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no punkta ārpus tās. Līdz ar to $\Varangle M A B=\Varangle M B A=\alpha$ kā leņki pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru vienādības.
+Riņka līniju pieskaršanās punktus apzīmējam $\operatorname{ar} A, B, C$ un $D$ (skat. 35.att.). Novelkam doto riņķa līniju kopīgās pieskares $A M$ un $B M$. Trijstūris $A M B$ ir vienādsānu, jo $A M=M B$ kā riņķa līnijas pieskaru nogriežņi, kas novilkti no punkta ārpus tās. Līdz ar to $\sphericalangle M A B=\sphericalangle M B A=\alpha$ kā leņki pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņku pāru vienādības.
 
-levērojam, ka $\Varangle D A B+\Varangle A B C+\Varangle B C D+\Varangle C D A=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$, no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā $\Varangle D A B+\Varangle B C D=\alpha+\beta+\gamma+\delta=180^{\circ}$, tad četrstūrim $A B C D$ var apvilkt rink, līniju, kas arī bija jāpierāda.
+levērojam, ka $\sphericalangle D A B+\sphericalangle A B C+\sphericalangle B C D+\sphericalangle C D A=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$, no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā $\sphericalangle D A B+\sphericalangle B C D=\alpha+\beta+\gamma+\delta=180^{\circ}$, tad četrstūrim $A B C D$ var apvilkt rink, līniju, kas arī bija jāpierāda.
 
 *Piezīme.* Leņku vienādību varēja pierādīt arī izmantojot hordas-pieskares leņki.
 
@@ -1148,7 +1172,7 @@ Uz katru Baibas gājienu Antra atbild, ieliekot pretēju simbolu rūtiņā, kas 
 
 Tādējādi pēc katra Antras gājiena veidojas viens trijnieks, kas iet caur centrālo rūtiņu un Antra saņem punktu. Šādi par otro rindu, otro kolonnu un abām diagonālēm Antra kopā iegūst 4 punktus. Ja aplūko pirmo un trešo kolonnu, tad simetrijas dē! vienā kolonnā punktu ir ieguvusi viena spēlētāja, bet otrā-otra spēlētāja. Tas pats attiecas uz pirmo un trešo rindu. Tātad aprakstītā stratéġija vienmēr garantē Antras uzvaru ar rezultātu 6:2.
 
-levērosim, ka spēle ir simetriska attiecī̄ā uz izmantotajiem simboliem - pāra skaits krustinuu kādā virzienā nozīmē nepāra skaitu nullišu un otrādi. Tātad, ja pirmā gājienu izdara Baiba, tad viņai centrālajā rūtinā jāieliek „, 0 ” un tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
+levērosim, ka spēle ir simetriska attiecī̄ā uz izmantotajiem simboliem - pāra skaits krustinuu kādā virzienā nozīmē nepāra skaitu nullišu un otrādi. Tātad, ja pirmā gājienu izdara Baiba, tad viņai centrālajā rūtiņā jāieliek „, 0 ” un tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
 
 
 
@@ -1208,7 +1232,7 @@ x^{2}+2 x y+y^{2}+x^{2}-4 x+y^{2}+4 y+8 \geq 0 \\
 \end{gathered}
 $$
 
-Tā kā skaitla kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir trīs nenegatīvu skait|u summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitliem $x$ un $y$.
+Tā kā skaitļa kvadrāts ir nenegatīvs, tad pēdējās nevienādības kreisajā pusē ir trīs nenegatīvu skait|u summa, kas arī ir nenegatīvs skaitlis. Tātad pēdējā nevienādība ir patiesa. Tā kā tika veikti ekvivalenti pārveidojumi, tad arī dotā nevienādība ir patiesa visiem reāliem skaitliem $x$ un $y$.
 
 
 
@@ -1240,7 +1264,7 @@ Rezultātā ir iegūts sākotnējais skaitlis, kura cipari ir uzrakstīti pretē
 
 # <lo-sample/> LV.NOL.2017.12.4
 
-Divas dažādas riņka līnijas iekšēji pieskaras punktā $A$. Lielākās riņka līnijas centrs ir $O$ un taisne $O A$ krusto mazāko riņka līniju punktā $B$, bet lielāko - punktā $C$. Lielākās riņka līnijas diametrs, kas ir perpendikulārs $O A$, krusto mazāko rinḳa līniju punktā $D$, bet lielāko - punktā $E$ (punkts $D$ atrodas starp $O$ un $E$, skat. 38.att.). Aprēkināt abu riņka līniju rādiusu garumus, ja $D E=5$ un $B C=7$.
+Divas dažādas riņka līnijas iekšēji pieskaras punktā $A$. Lielākās riņka līnijas centrs ir $O$ un taisne $O A$ krusto mazāko riņka līniju punktā $B$, bet lielāko - punktā $C$. Lielākās riņka līnijas diametrs, kas ir perpendikulārs $O A$, krusto mazāko rinķa līniju punktā $D$, bet lielāko - punktā $E$ (punkts $D$ atrodas starp $O$ un $E$, skat. 38.att.). Aprēkināt abu riņka līniju rādiusu garumus, ja $D E=5$ un $B C=7$.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_25_478571ed15087b6bfe03g-16.jpg?height=449&width=424&top_left_y=1763&top_left_x=839)
 
@@ -1256,7 +1280,7 @@ Divas dažādas riņka līnijas iekšēji pieskaras punktā $A$. Lielākās riņ
 
 Lielākās riņka līnijas rādiusa garumu apzīmējam ar $R$, tad $A O=O E=O C=R$, $O D=O E-E D=R-5$ un $O B=O C-B C=R-7$.
 
-Trijstūris $A D B$ ir taisnleņka, jo $\Varangle A D B$ balstās uz mazākās riņka līnijas diametra $A B$.
+Trijstūris $A D B$ ir taisnleņka, jo $\sphericalangle A D B$ balstās uz mazākās riņka līnijas diametra $A B$.
 
 Taisnleņka trijstūrī augstuma pret hipotenūzu kvadrāts ir vienāds ar katešu projekciju uz diagonāles reizinājumu, tas ir, $O D^{2}=A O \cdot O B$ jeb $(R-5)^{2}=R(R-7)$. Atrisinot iegūto vienādojumu, iegūstam $3 R=25$ jeb $R=\frac{25}{3}$. Mazākās riņķa līnijas rādiusa garums ir $\frac{A C-B C}{2}=\frac{50}{6}-\frac{7}{2}=\frac{29}{6}$.
 
