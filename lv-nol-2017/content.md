@@ -1087,7 +1087,7 @@ dažādus- ar dažādiem, ieguva vārdu MATEMĀTIKA (īsais "A" un garais "Ā" a
 atšķirīgus ciparus). Papildus zināms, ka skaitlis
 $\overline{MA}$ dalās ar $2$, $\overline{MAT}$- ar $3$,
 $\overline{MATE}$- ar $4$, $\overline{\text { MATEM }}$- ar $5$,
-$\overline{MATEM \bar{A}}$- ar $6$, $\overline{{\text MATEMĀT}}$- ar $7$,
+$\overline{MATEM \bar{A}}$- ar $6$, $\overline{MATEM \bar{A}T}$- ar $7$,
 $\overline{{\text MATEMĀTI}}$- ar $8$, $\overline{{\text MATEMĀTIK}}$- ar $9$,
 $\overline{{\text MATEMĀTIKA}}$- ar $10$. Noteikt, kāds bija
 sākotnējais desmitciparu skaitlis!
