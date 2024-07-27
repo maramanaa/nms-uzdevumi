@@ -1377,9 +1377,9 @@ $z$ izpildās $(x * y) * z=x * (y * z)$.
 
 ## Atrisinājums
 
-Pierādāmā vienādība $(x*y)*z=x*(y*z)$ ir ekvivalenta vienādībām:
+Pierādāmā vienādība $(x * y) * z=x * (y * z)$ ir ekvivalenta vienādībām:
 
-$$x^{\lg y}*z=x*y^{\lg z}$$
+$$x^{\lg y} * z=x * y^{\lg z}$$
 
 $$\begin{gathered}
 \left(x^{\lg y}\right)^{\lg z}=x^{\lg \left(y^{\lg z}\right)} \\
@@ -1387,7 +1387,7 @@ x^{\lg y \cdot \lg z}=x^{\lg z \cdot \lg y}
 \end{gathered}$$
 
 Pēdējā vienādība ir patiesa, tātad pozitīviem skaitļiem $x, y$ un $z$ izpildās
-$(x*y)*z=x*(y*z)$.
+$(x * y) * z=x * (y * z)$.
 
 
 
