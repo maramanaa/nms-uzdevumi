@@ -313,7 +313,7 @@ $\sphericalangle BDC+\sphericalangle ABD=90^{\circ}$.
 # <lo-sample/> LV.VOL.2017.10.4
 
 Dotas $40$ kartītes, uz divām no tām uzrakstīts skaitlis $1$, uz divām - 
-skaitlis $2$,\ \ldots$, uz divām - skaitlis $20$. Kāds ir lielākais iespējamais
+skaitlis $2,\ \ldots$, uz divām - skaitlis $20$. Kāds ir lielākais iespējamais
 komplektu skaits, ko vienlaicīgi var izveidot no šīm $40$ kartītēm tā, lai 
 katrā komplektā būtu trīs kartītes, uz kurām uzrakstīto skaitļu summa ir $21$?
 
@@ -484,7 +484,7 @@ Izmantojot iepriekš pierādīto, no sākotnējiem $17$ skaitļiem varam izveido
 piecas grupas pa trīs skaitļiem tā, lai tajās esošo skaitļu summa dalās ar $3$.
 Apzīmējam
 
-$$\{a_{1}, a_{2}, a_{3} \}; \{b_{1}, b_{2}, b_{3}\}; \{c_{1}, c_{2}, c_{3}\}; \{d_{1}, d_{2}, d_{3}\}; \{e_{1}, e_{2}, e_{3}t\}.$$
+$\{a_{1}, a_{2}, a_{3} \}$; $\{b_{1}, b_{2}, b_{3}\}$; $\{c_{1}, c_{2}, c_{3}\}$; $\{d_{1}, d_{2}, d_{3}\}$; $\{e_{1}, e_{2}, e_{3}\}.$
 
 Skaitļus, kurus iegūst katras grupas skaitļu summu dalot ar $3$, apzīmējam 
 attiecīgi ar $A,\ B,\ C,\ D$ un $E$. No iepriekš pierādītā izriet, ka no šiem 
@@ -791,8 +791,8 @@ $9$ (dalītāju summa ir attiecīgi $1+2=3$ un $1+3+9=13$), to reizinājums
 $2 \cdot 9=18$ nav naturāla skaitļa kvadrāts.
 
 Pierādīsim, ka ar $k=3$ pietiek. Jebkuru naturālu skaitli $n$ var izteikt formā
-$n=2^{u} \cdot v$, kur $v$ ir nepāra skaitlis. Skaidrs, ja $n$ ir skaists, tad 
-arī $v$ ir skaists, jo visi $n$ nepāra dalītāji ir visi $v$ dalītāji, bet pāra 
+$n=2^{u} \cdot v$, kur $v$ ir nepāra skaitlis. Skaidrs, ja $n$ ir *skaists*, tad 
+arī $v$ ir *skaists*, jo visi $n$ nepāra dalītāji ir visi $v$ dalītāji, bet pāra 
 dalītāji nemaina dalītāju summas paritāti. Visi $v$ dalītāji ir nepāra skaitļi,
 sadalām tos pāros tā, ka vienā pārī ietilpst $v$ dalītāji, kuru reizinājums ir 
 $v$. Iespējami divi gadījumi.
