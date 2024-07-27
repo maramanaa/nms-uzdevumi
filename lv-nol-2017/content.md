@@ -1128,7 +1128,7 @@ ka $\overline{TE}$ jādalās ar $4$, un līdzīgi no dalāmības pazīmes ar $8$
 iegūstam, ka $\overline{\mathrm{A} TI}$ jādalās ar $8$. Pārbaudām visus
 iespējamos variantus atkarībā no $T$ vērtības.
 
-| $\boldsymbol{T}$ | $\boldsymbol{E}$ | $\overline{\mathrm{A}}$ |  |
+| $\boldsymbol{T}$ | $\boldsymbol{E}$ | $\boldsymbol{Ā}$ |  |
 | :--- | :--- | :--- | :--- |
 | $1$ | $2$ | $8$ | $I=6$ un, lai $\overline{MATEMA \bar{A} IK}$ dalītos ar $9$, tad $K$ būtu jābūt $8$, kas neder, jo $\overline{\mathrm{A}}=8$. |
 |     | $6$ | $4$ | Neder, jo $5016541$ nedalās ar $7$. |
