@@ -26,22 +26,22 @@ attālums starp abiem velosipēdistiem būs $80~\mathrm{km}$. lespējami divi
 gadījumi.
 
 1) Apskatīsim gadījumu, kad abi velosipēdisti vēl nav satikušies un attālums 
-starp tiem ir $30~\mathrm{km}$ (skat. 1.att.). Tad, sākot no plkst. 8:00, tie 
-abi kopā ir veikuši $80-30=50~\mathrm{km}$. Tā kā abi velosipēdisti viens otram
-tuvojas ar ātrumu $20+10=30~\mathrm{km/h}$, tad $50~\mathrm{km}$ tie abi kopā 
+starp tiem ir $30 ~\mathrm{km}$ (skat. 1.att.). Tad, sākot no plkst. 8:00, tie 
+abi kopā ir veikuši $80-30=50 ~\mathrm{km}$. Tā kā abi velosipēdisti viens otram
+tuvojas ar ātrumu $20+10=30 ~\mathrm{km/h}$, tad $50 ~\mathrm{km}$ tie abi kopā 
 būs veikuši $50:30=1 \frac{2}{3} ~\mathrm{h}$ jeb 
-$1~\mathrm{h}\ 40~\mathrm{min}$. Tātad abi velosipēdisti būs $30~\mathrm{km}$ 
+$1 ~\mathrm{h}\ 40 ~\mathrm{min}$. Tātad abi velosipēdisti būs $30 ~\mathrm{km}$ 
 attālumā viens no otra plkst. 9:40.
 
 ![](LV.AMO.2017.5.1A.png)
 
 2) Apskatīsim gadījumu, kad abi velosipēdisti ir pabraukuši viens otram garām 
-un attālums starp tiem ir $30~\mathrm{km}$ (skat. 2.att.). Tad, sākot no 
-plkst. 8:00, tie abi kopā ir veikuši $80+30=110~\mathrm{km}$. Tā kā abi 
-velosipēdisti viens otram tuvojas un attālinās ar ātrumu $30~\mathrm{km/h}$, 
-tad $110~\mathrm{km}$ tie abi kopā būs veikuši $110:30=3 \frac{2}{3}~\mathrm{h}$ 
-jeb $3~\mathrm{h}\ 40~\mathrm{min}$. Tātad abi velosipēdisti būs 
-$30~\mathrm{km}$ attālumā viens no otra plkst. 11:40.
+un attālums starp tiem ir $30 ~\mathrm{km}$ (skat. 2.att.). Tad, sākot no 
+plkst. 8:00, tie abi kopā ir veikuši $80+30=110 ~\mathrm{km}$. Tā kā abi 
+velosipēdisti viens otram tuvojas un attālinās ar ātrumu $30 ~\mathrm{km/h}$, 
+tad $110 ~\mathrm{km}$ tie abi kopā būs veikuši $110:30=3 \frac{2}{3} ~\mathrm{h}$ 
+jeb $3 ~\mathrm{h}\ 40 ~\mathrm{min}$. Tātad abi velosipēdisti būs 
+$30 ~\mathrm{km}$ attālumā viens no otra plkst. 11:40.
 
 ![](LV.AMO.2017.5.1B.png)
 
