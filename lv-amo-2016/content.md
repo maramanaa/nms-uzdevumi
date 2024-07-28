@@ -748,7 +748,7 @@ $8~ \mathrm{m} vai $19,5~ \mathrm{m}$ un $22,5~ \mathrm{m}$.
 
 # <lo-sample/> LV.AMO.2016.10.2
 
-Vai var atrast tādus veselus skaitļus $x, y$ un $z$, ka $x^{3}-2016 x y z=120$ ?
+Vai var atrast tādus veselus skaitļus $x, y$ un $z$, ka $x^{3}-2016xyz=120$ ?
 
 <small>
 
@@ -760,27 +760,34 @@ Vai var atrast tādus veselus skaitļus $x, y$ un $z$, ka $x^{3}-2016 x y z=120$
 
 ## Atrisinājums
 
-Gan 2016 gan 120 dalās ar 3, tātad arī $x^{3}$ jādalās ar 3. Tas nozīmē, ka arī $x$ jādalās ar 3, bet tad $x^{3}$ noteikti dalās ar 9. Tas nozīmē, ka vienādojuma kreisā puse dalās ar 9, jo arī 2016 dalās ar 9, bet vienādojuma labā puse ar 9 nedalās. Tātad šādus skaitļus atrast nav iespējams.
+Gan $2016$ gan $120$ dalās ar $3$, tātad arī $x^{3}$ jādalās ar $3$. Tas nozīmē,
+ka arī $x$ jādalās ar $3$, bet tad $x^{3}$ noteikti dalās ar $9$. Tas nozīmē, ka
+vienādojuma kreisā puse dalās ar $9$, jo arī $2016$ dalās ar $9$, bet vienādojuma
+labā puse ar $9$ nedalās. Tātad šādus skaitļus atrast nav iespējams.
 
 ## Atrisinājums
 
-Apskatām dotā vienādojuma kreisās puses izteiksmi pēc moduļa 9.
+Apskatām dotā vienādojuma kreisās puses izteiksmi pēc moduļa $9$.
 
-| $\boldsymbol{x}(\bmod 9)$ | $x^{3}-\mathbf{2 0 1 6 x y z}(\bmod 9)$ |
-| :---: | :--- |
-| 0 | $0^{3}-0 \equiv 0(\bmod 9)$ |
-| $\pm 1$ | $( \pm 1)^{3}-0 \equiv \pm 1(\bmod 9)$ |
-| $\pm 2$ | $( \pm 2)^{3}-0 \equiv \mp 1(\bmod 9)$ |
-| $\pm 3$ | $( \pm 3)^{3}-0 \equiv 0(\bmod 9)$ |
-| $\pm 4$ | $( \pm 4)^{3}-0 \equiv \pm 1(\bmod 9)$ |
+| $\boldsymbol{x}(\bmod 9)$ | $x^{3}-\mathbf{2016xyz}(\bmod 9)$      |
+| :-----------------------: | :------------------------------------- |
+| $0$                       | $0^{3}-0 \equiv 0(\bmod 9)$            |
+| $\pm 1$                   | $( \pm 1)^{3}-0 \equiv \pm 1(\bmod 9)$ |
+| $\pm 2$                   | $( \pm 2)^{3}-0 \equiv \mp 1(\bmod 9)$ |
+| $\pm 3$                   | $( \pm 3)^{3}-0 \equiv 0(\bmod 9)$     |
+| $\pm 4$                   | $( \pm 4)^{3}-0 \equiv \pm 1(\bmod 9)$ |
 
-Esam ieguvuši, ka $x^{3}-2016 x y z$ pēc moduļ 9 var pieņemt vērtības $0 ; 1$ vai -1 , bet $120 \equiv 3(\bmod 9)$. Tātad dotajam vienādojumam nav atrisinājuma veselos skaitlos.
+Esam ieguvuši, ka $x^{3}-2016xyz$ pēc moduļa $9$ var pieņemt vērtības $0; 1$ vai
+$-1, bet $120 \equiv 3(\bmod 9)$. Tātad dotajam vienādojumam nav atrisinājuma
+veselos skaitļos.
 
 
 
 # <lo-sample/> LV.AMO.2016.10.3
 
-Aritmētiskās progresijas četri pēc kārtas nemti locek!̣i ir veseli skaitļi $A, B, C$ un $D$. Pierādīt, ka $A^{2}+2 B^{2}+3 C^{2}+4 D^{2}$ var izteikt kā divu veselu skaitlu kvadrātu summu!
+Aritmētiskās progresijas četri pēc kārtas ņemti locekļi ir veseli skaitļi
+$A, B, C$ un $D$. Pierādīt, ka $A^{2}+2B^{2}+3C^{2}+4D^{2}$ var izteikt kā divu
+veselu skaitļu kvadrātu summu!
 
 <small>
 
@@ -792,26 +799,30 @@ Aritmētiskās progresijas četri pēc kārtas nemti locek!̣i ir veseli skaitļ
 
 ## Atrisinājums
 
-Izmantojot aritmētiskās progresijas definīciju, izsakām $B=A+d, C=A+2 d, D=A+3 d$, kur $d$ - aritmētiskās progresijas diference.
+Izmantojot aritmētiskās progresijas definīciju, izsakām
+$B=A+d, C=A+2d, D=A+3d$, kur $d$- aritmētiskās progresijas diference.
 
 Apskatām summu
 
-$$
-\begin{gathered}
-A^{2}+2 B^{2}+3 C^{2}+4 D^{2}=A^{2}+2(A+d)^{2}+3(A+2 d)^{2}+4(A+3 d)^{2}= \\
-=A^{2}+2\left(A^{2}+2 A d+d^{2}\right)+3\left(A^{2}+4 A d+4 d^{2}\right)+4\left(A^{2}+6 A d+9 d^{2}\right)= \\
-=10 A^{2}+40 A d+50 d^{2}=\left(9 A^{2}+42 A d+49 d^{2}\right)+\left(A^{2}-2 A d+d^{2}\right)= \\
-=(3 A+7 d)^{2}+(A-d)^{2}
-\end{gathered}
-$$
+$$\begin{gathered}
+A^{2}+2B^{2}+3C^{2}+4D^{2}=A^{2}+2(A+d)^{2}+3(A+2d)^{2}+4(A+3d)^{2}= \\
+=A^{2}+2\left(A^{2}+2Ad+d^{2}\right)+3\left(A^{2}+4Ad+4d^{2}\right)+4\left(A^{2}+6Ad+9d^{2}\right)= \\
+=10A^{2}+40Ad+50d^{2}=\left(9A^{2}+42Ad+49d^{2}\right)+\left(A^{2}-2Ad+d^{2}\right)= \\
+=(3A+7d)^{2}+(A-d)^{2}
+\end{gathered}$$
 
-Tā kā $A, B, C, D$ ir veseli skaitli (tātad arī $d$ ir vesels skaitlis), tad summa $A^{2}+2 B^{2}+3 C^{2}+4 D^{2}$ ir izteikta kā divu veselu skaitlu kvadrātu summa.
+Tā kā $A, B, C, D$ ir veseli skaitļi (tātad arī $d$ ir vesels skaitlis), tad
+summa $A^{2}+2B^{2}+3C^{2}+4D^{2}$ ir izteikta kā divu veselu skaitļu kvadrātu
+summa.
 
 
 
 # <lo-sample/> LV.AMO.2016.10.4
 
-Trijstūrī $A B C$ leņķa $\sphericalangle A B C$ bisektrise krusto malu $A C$ punktā $D$. Caur punktu $C$ paralēli $B D$ novilkta taisne, kas krusto $A B$ pagarinājumu punktā $P$ un ap trijstūri $B D C$ apvilkto rinka līniju punktā $Q$. Taisne $P D$ krusto nogriezni $B Q$ punktā $M$. Pierādit, ka $P M=M D$.
+Trijstūrī $ABC$ leņķa $\sphericalangle ABC$ bisektrise krusto malu $AC$ punktā
+$D$. Caur punktu $C$ paralēli $BD$ novilkta taisne, kas krusto $AB$ pagarinājumu
+punktā $P$ un ap trijstūri $BDC$ apvilkto riņķa līniju punktā $Q$. Taisne
+$PD$ krusto nogriezni $BQ$ punktā $M$. Pierādit, ka $PM=MD$.
 
 <small>
 
@@ -823,15 +834,24 @@ Trijstūrī $A B C$ leņķa $\sphericalangle A B C$ bisektrise krusto malu $A C$
 
 ## Atrisinājums
 
-Nogrieznis $B D$ ir bisektrise, tāpēc $\sphericalangle A B D=\sphericalangle D B C$ (skat. 17.att.). Tā kā $B D \| C Q$, tad $\sphericalangle B C Q=\sphericalangle D B C$ kā iekšējie škērslenki. Savukārt $\sphericalangle B D Q=\sphericalangle B C Q$ kā ievilktie lenkki, kas balstās uz viena un tā paša Ioka $B Q$. Līdz ar to iekšējie škērsleņķi $\sphericalangle A B D=\sphericalangle B D Q$ un tāpēc $A B \| D Q$. Četrstūris $B D Q P$ ir paralelograms, jo $B D \| Q P$ un $B P \| D Q$. Paralelogramā diagonāles krustpunktā dalās uz pusēm, tāpēc $P M=M D$.
+Nogrieznis $BD$ ir bisektrise, tāpēc
+$\sphericalangle ABD=\sphericalangle DBC$ (skat. 17.att.). Tā kā
+$BD || CQ$, tad $\sphericalangle BCQ=\sphericalangle DBC$ kā iekšējie
+šķērsleņķi. Savukārt $\sphericalangle BDQ=\sphericalangle BCQ$ kā ievilktie
+leņķi, kas balstās uz viena un tā paša loka $BQ$. Līdz ar to iekšējie škērsleņķi
+$\sphericalangle ABD=\sphericalangle BDQ$ un tāpēc $AB || DQ$. Četrstūris
+$BDQP$ ir paralelograms, jo $BD || QP$ un $BP || DQ$. Paralelogramā diagonāles
+krustpunktā dalās uz pusēm, tāpēc $PM=MD$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_0f86255347be299a0103g-07.jpg?height=784&width=736&top_left_y=1019&top_left_x=726)
+![](LV.AMO.2016.10.4A.png)
 
 
 
 # <lo-sample/> LV.AMO.2016.10.5
 
-Laukumā, kura izmēri ir $9 \times 9$ rūtiņas, novietoti 16 taisnstūri ar izmēriem $1 \times 5$ rūtiņas tā, ka to malas iet pa rūtiņuu līnijām un taisnstūri nepārklājas. Pierādīt, ka nenoklāta paliek laukuma centrālā rūtiņa!
+Laukumā, kura izmēri ir $9 \times 9$ rūtiņas, novietoti $16$ taisnstūri ar
+izmēriem $1 \times 5$ rūtiņas tā, ka to malas iet pa rūtiņu līnijām un
+taisnstūri nepārklājas. Pierādīt, ka nenoklāta paliek laukuma centrālā rūtiņa!
 
 <small>
 
@@ -843,28 +863,23 @@ Laukumā, kura izmēri ir $9 \times 9$ rūtiņas, novietoti 16 taisnstūri ar iz
 
 ## Atrisinājums
 
-Ierakstām katrā laukuma rūtinā pa skaitlim tā, kā parādīts 18.att.
+Ierakstām katrā laukuma rūtiņā pa skaitlim tā, kā parādīts 18.att.
 
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 |
+![](LV.AMO.2016.10.5A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_0f86255347be299a0103g-07.jpg?height=429&width=389&top_left_y=1964&top_left_x=1322)
-
-Tad katra $1 \times 5$ rūtiņas lielā taisnstūra pārklāto rūtiņu skaitļu summa ir 4 un visu pārklāto rūtiņu skaitlu summa ir $16 \cdot 4=64$. Tā kā laukuma rūtinā̄s visu ierakstīto skaitļu summa ir 68 un nepārklāta paliek $81-16 \cdot 5=1$ rūtina, tad nepārklāta paliek rūtiņa, kurā ierakstīts skaitlis 4. Tāda ir tikai laukuma centrālā rūtina. Taisnstūrus ar izmēriem $1 \times 5$ rūtiņas var izvietot, piemēram, tā, kā parādīts 19.att.
+Tad katra $1 \times 5$ rūtiņas lielā taisnstūra pārklāto rūtiņu skaitļu summa ir
+$4$ un visu pārklāto rūtiņu skaitļu summa ir $16 \cdot 4=64$. Tā kā laukuma
+rūtiņās visu ierakstīto skaitļu summa ir $68$ un nepārklāta paliek
+$81-16 \cdot 5=1$ rūtiņa, tad nepārklāta paliek rūtiņa, kurā ierakstīts skaitlis
+$4$. Tāda ir tikai laukuma centrālā rūtiņa. Taisnstūrus ar izmēriem
+$1 \times 5$ rūtiņas var izvietot, piemēram, tā, kā parādīts 19.att.
 
 
 
 # <lo-sample/> LV.AMO.2016.11.1
 
-No visiem vienādsānu trijstūriem ar sānu malas garumu 10 cm atrast to, kuram ir vislielākais laukums!
+No visiem vienādsānu trijstūriem ar sānu malas garumu $10~ \mathrm{cm} atrast to,
+kuram ir vislielākais laukums!
 
 <small>
 
@@ -876,13 +891,19 @@ No visiem vienādsānu trijstūriem ar sānu malas garumu 10 cm atrast to, kuram
 
 ## Atrisinājums
 
-Vienādsānu trijstūra laukums ir $S=\frac{1}{2} 10^{2} \sin \alpha=50 \sin \alpha$, kur $\alpha-$ virsotnes leņķis. Tā kā $\sin \alpha \in[-1 ; 1]$, tad lielākais iespējamais laukums būs gadījumā, ja $\sin \alpha=1$. Tā kā $\alpha$ ir trijstūra leņķis, tad $\alpha=90^{\circ}$. Tātad no visiem vienādsānu trijstūriem vislielākais laukums ir taisnlenkka trijstūrim.
+Vienādsānu trijstūra laukums ir
+$S=\frac{1}{2} 10^{2} \sin \alpha=50 \sin \alpha$, kur
+$\alpha-$ virsotnes leņķis. Tā kā $\sin \alpha \in[-1 ; 1]$, tad lielākais
+iespējamais laukums būs gadījumā, ja $\sin \alpha=1$. Tā kā $\alpha$ ir
+trijstūra leņķis, tad $\alpha=90^{\circ}$. Tātad no visiem vienādsānu
+trijstūriem vislielākais laukums ir taisnleņķa trijstūrim.
 
 
 
 # <lo-sample/> LV.AMO.2016.11.2
 
-Vai var atrast tādus naturālus skaitļus $x, y$ un $z$, ka $x^{2}+y^{2}+z^{2}=\underbrace{1111 \ldots 1}_{2016}$ ?
+Vai var atrast tādus naturālus skaitļus $x, y$ un $z$, ka
+$x^{2}+y^{2}+z^{2}=\underbrace{1111 \ldots 1}_{2016}$ ?
 
 <small>
 
@@ -894,17 +915,20 @@ Vai var atrast tādus naturālus skaitļus $x, y$ un $z$, ka $x^{2}+y^{2}+z^{2}=
 
 ## Atrisinājums
 
-Apskatām doto vienādojumu pēc moduļa 8. Viegli pārbaudīt, ka veselu skaitļu kvadrāti, dalot ar 8 , var dot tikai atlikumus 0,1 vai 4 .
+Apskatām doto vienādojumu pēc moduļa $8$. Viegli pārbaudīt, ka veselu skaitļu
+kvadrāti, dalot ar $8$, var dot tikai atlikumus $0$, $1$ vai $4$.
 
-$$
-\begin{array}{|c|c|c|c|c|c|c|c|c|}
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|}
 \hline \boldsymbol{a}(\bmod 8) & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
 \hline \boldsymbol{a}^{2}(\bmod 8) & 0 & 1 & 4 & 1 & 0 & 1 & 4 & 1 \\
 \hline
-\end{array}
-$$
+\end{array}$$
 
-Tā kā vienādojuma labajā pusē ir nepāra skaitlis, tad vai nu vienam, vai trim no kreisās puses saskaitāmajiem jādod nepāra atlikums. Līdz ar to iespējamās vērtības ir $0+0+1 \equiv 1(\bmod 8) ; 4+4+1 \equiv 1(\bmod 8)$; $0+4+1 \equiv 5(\bmod 8)$ vai $1+1+1 \equiv 3(\bmod 8)$.
+Tā kā vienādojuma labajā pusē ir nepāra skaitlis, tad vai nu vienam, vai trim no
+kreisās puses saskaitāmajiem jādod nepāra atlikums. Līdz ar to iespējamās
+vērtības ir
+$0+0+1 \equiv 1(\bmod 8) ; 4+4+1 \equiv 1(\bmod 8)$; $0+4+1 \equiv 5(\bmod 8)$
+vai $1+1+1 \equiv 3(\bmod 8)$.
 
 Tā kā $\underbrace{1111 \ldots 1}_{2016} \equiv \underbrace{1111 \ldots 1}_{2013} 000+111 \equiv 0+7 \equiv 7(\bmod 8)$, tad nevar atrast tādus naturālus skaitļus $x, y$ un $z$, lai dotā vienādība būtu patiesa.
 
@@ -1068,7 +1092,7 @@ Tātad $\frac{y^{2}}{4}>2 x z$ jeb $y^{2}>8 x z$.
 
 # <lo-sample/> LV.AMO.2016.12.4
 
-Trijstūrī $A B C$ leņka $\sphericalangle A B C$ bisektrise krusto tam apvilkto rinka līniju punktā $D$. Nogriežņi $D P$ un $D Q$ ir attiecīgi trijstūru $A B D$ un $B C D$ augstumi. Pierādīt, ka nogrieznis $P Q$ krusto malu $A C$ tās viduspunktā!
+Trijstūrī $A B C$ leņka $\sphericalangle A B C$ bisektrise krusto tam apvilkto riņķa līniju punktā $D$. Nogriežņi $D P$ un $D Q$ ir attiecīgi trijstūru $A B D$ un $B C D$ augstumi. Pierādīt, ka nogrieznis $P Q$ krusto malu $A C$ tās viduspunktā!
 
 <small>
 
@@ -1080,7 +1104,7 @@ Trijstūrī $A B C$ leņka $\sphericalangle A B C$ bisektrise krusto tam apvilkt
 
 ## Atrisinājums
 
-Apzīmējam $\sphericalangle A B D=\sphericalangle D B C=\alpha$ un $P Q$ un $A C$ krustpunktu ar $M$ (skat 21.att.). Četrstūra $B P D Q$ pretējo leņu summa ir $\sphericalangle B P D+\sphericalangle B Q D=90^{\circ}+90^{\circ}=180^{\circ}$, tāpēc tam var apvilkt riņka līniju. legūstam, ka $\sphericalangle D P Q=\sphericalangle D B Q=\alpha$ kā ievilktie leņķi, kas balstās uz vienu un to pašu loku $D Q$. Savukārt $\sphericalangle D A C=\sphericalangle D B C=\alpha$ kā ievilktie leņķi, kas balstās uz viena un tā paša loka $D C$ (riņ, līnijā, kas apvilkta ap $\triangle A B C)$. Tas nozīmē, ka ap četrstūri $A P M D$ var apvilkt rinka līniju, jo $\sphericalangle D A M=\sphericalangle D P M=\alpha$. Līdz ar to $\sphericalangle A M D=\sphericalangle A P D=90^{\circ}$ kā ievilktie leņķi, kas balstās uz diametra $A D$.
+Apzīmējam $\sphericalangle A B D=\sphericalangle D B C=\alpha$ un $P Q$ un $A C$ krustpunktu ar $M$ (skat 21.att.). Četrstūra $B P D Q$ pretējo leņu summa ir $\sphericalangle B P D+\sphericalangle B Q D=90^{\circ}+90^{\circ}=180^{\circ}$, tāpēc tam var apvilkt riņka līniju. legūstam, ka $\sphericalangle D P Q=\sphericalangle D B Q=\alpha$ kā ievilktie leņķi, kas balstās uz vienu un to pašu loku $D Q$. Savukārt $\sphericalangle D A C=\sphericalangle D B C=\alpha$ kā ievilktie leņķi, kas balstās uz viena un tā paša loka $D C$ (riņ, līnijā, kas apvilkta ap $\triangle A B C)$. Tas nozīmē, ka ap četrstūri $A P M D$ var apvilkt riņķa līniju, jo $\sphericalangle D A M=\sphericalangle D P M=\alpha$. Līdz ar to $\sphericalangle A M D=\sphericalangle A P D=90^{\circ}$ kā ievilktie leņķi, kas balstās uz diametra $A D$.
 
 levērojam, ka $\sphericalangle A C D=\sphericalangle A B D=\alpha$ kā ievilktie leņķi, kas balstās uz vienu un to pašu loku $A D$. Tāpēc trijstūris $A D C$ ir vienādsānu ar pamatu $A C$ un $A D=D C$. Vienādsānu trijstūrī augstums pret pamatu vienlaicīgi ir arī mediāna, tāpēc $A M=M C$.
 
