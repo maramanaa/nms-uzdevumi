@@ -779,17 +779,17 @@ $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
 
    - Ja $q \in(-\infty; 0) \cup(0; 1)$, tad $\triangle AOD \sim \triangle COB$ 
      pēc pazīmes $\ell \ell$, jo 
-	 $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
-	 $\sphericalangle ADC=\sphericalangle ABC$ kā ievilktie leņķi, kas balstās 
-	 uz viena un tā paša loka (skat. 16.att.). Tāpēc
+     $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
+     $\sphericalangle ADC=\sphericalangle ABC$ kā ievilktie leņķi, kas balstās 
+     uz viena un tā paša loka (skat. 16.att.). Tāpēc
 
      $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
    - Ja $q>1$, tad $\triangle AOD \sim \triangle COB$ pēc pazīmes $\ell \ell$, 
      jo $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
-	 $\sphericalangle ADO=180^{\circ}-\sphericalangle CDA=\sphericalangle CBA$ 
-	 pēc blakusleņķu īpašības un īpašības, ka ievilkta četrstūra pretējo leņķu 
-	 summa ir $180^{\circ}$ (skat. 17.att.). Tāpēc
+     $\sphericalangle ADO=180^{\circ}-\sphericalangle CDA=\sphericalangle CBA$ 
+     pēc blakusleņķu īpašības un īpašības, ka ievilkta četrstūra pretējo leņķu 
+     summa ir $180^{\circ}$ (skat. 17.att.). Tāpēc
 
      $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
