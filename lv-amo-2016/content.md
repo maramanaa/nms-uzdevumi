@@ -924,6 +924,19 @@ $$\begin{array}{|c|c|c|c|c|c|c|c|c|}
 \hline
 \end{array}$$
 
+| ${a}(\bmod 8)$ | ${a}^{2}(\bmod 8)$ |
+| :------------: | :----------------- |
+| $0$            | $0$                |
+| $1$            | $1$                |
+| $2$            | $4$                |
+| $3$            | $1$                |
+| $4$            | $0$                |
+| $5$            | $1$                |
+| $6$            | $4$                |
+| $7$            | $1$                |
+
+
+
 Tā kā vienādojuma labajā pusē ir nepāra skaitlis, tad vai nu vienam, vai trim no
 kreisās puses saskaitāmajiem jādod nepāra atlikums. Līdz ar to iespējamās
 vērtības ir
