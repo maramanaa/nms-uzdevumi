@@ -557,7 +557,7 @@ pievienošanas un noapaļošanas tās arī būs dažādas. Ievērojam, ka, noapa
 skaitļus no intervāla $[a-0,5; a+0,5)$, iegūstam $a$. Tā kā šī intervāla garums
 ir $1$, tad secinām, ja starpība starp diviem skaitļiem ir lielāka nekā $1$, 
 tad, tos noapaļojot, iegūst dažādus skaitļus. Ņemam divas blakus esošas cenas 
-$a$ un $a+1$ pirms PVN pievienošanas un reizinām tās ar $1,21$. legūto skaitļu 
+$a$ un $a+1$ pirms PVN pievienošanas un reizinām tās ar $1,21$. Iegūto skaitļu 
 starpība $1,21(a+1)$ - $1,21a=1,21$ ir lielāka nekā $1$, tātad pēc noapaļšanas 
 iegūtie skaitļi ir dažādi.
 
@@ -942,37 +942,23 @@ intervālos (skat. 4.att.).
 
 | Ja $k \in\left(-\frac{4}{9}; 0\right)$, | Ja $k=-\frac{4}{9}$ vai $k=0$, | Ja $k \in\left(-\infty; -\frac{4}{9}\right) \cup(0; +\infty)$, |
 | ---- | ---- | ---- |
-| tad $D<0$ un funkcijas $y=x^{2}+3kx-k$ grafiks $x$ asi nekrusto. <br> ![](LV.NOL.2016.11.1B.png) <br> Tātad dotās nevienādības atrisinājums ir $x \in(-\infty; +\infty)$ | tad $D=0$ un funkcijas $y=x^{2}+3kx-k$ grafiks pieskaras $x$ asij. <br> ![](LV.NOL.2016.11.1C.png) <br> Apskatām katru $k$ vērtību atsevišķi. <br> Ja $k=-\frac{4}{9}$, tad dotās nevienādības atrisinājums ir $x \in\left(-\infty; \frac{2}{3}\right) \cup\left(\frac{2}{3} ;+\infty\right)$ Ja $k=0$, tad dotās nevienādības atrisinājums ir $x \in(-\infty; 0) \cup(0 ;+\infty)$ |  |
-
-
-
-
-
-
-
- tad $D>0$ un funkcijas $y=x^{2}+3kx-k$ grafiks krusto $x$ asi divos punktos:
-
-![](https://cdn.mathpix.com/cropped/2024_07_27_42e931639016127720feg-10.jpg?height=335&width=464&top_left_y=701&top_left_x=1393)
-
-Tātad dotās nevienādības atrisinājums ir
-
-$$
-x \in\left(-\infty ; x_{1}\right) \cup\left(x_{2} ;+\infty\right)
-$$
+| tad $D<0$ un funkcijas $y=x^{2}+3kx-k$ grafiks $x$ asi nekrusto. <br> ![](LV.NOL.2016.11.1B.png) <br> Tātad dotās nevienādības atrisinājums ir $x \in(-\infty; +\infty)$ | tad $D=0$ un funkcijas $y=x^{2}+3kx-k$ grafiks pieskaras $x$ asij. <br> ![](LV.NOL.2016.11.1C.png) <br> Apskatām katru $k$ vērtību atsevišķi. <br> Ja $k=-\frac{4}{9}$, tad dotās nevienādības atrisinājums ir $x \in\left(-\infty; \frac{2}{3}\right) \cup\left(\frac{2}{3} ;+\infty\right)$ Ja $k=0$, tad dotās nevienādības atrisinājums ir $x \in(-\infty; 0) \cup(0 ;+\infty)$ | tad $D>0$ un funkcijas $y=x^{2}+3kx-k$ grafiks krusto $x$ asi divos punktos: <br> $x_{1}=\frac{-3k-\sqrt{9k^{2}+4k}}{2}$ <br> $x_{2}=\frac{-3k+\sqrt{9k^{2}+4k}}{2}$ <br> ![](LV.NOL.2016.11.1D.png) <br> Tātad dotās nevienādības atrisinājums ir $x \in\left(-\infty; x_{1}\right) \cup\left(x_{2};+\infty\right)$ |
 
 Apkoposim nevienādības atrisinājumu.
 
-- Ja $k \in\left(-\frac{4}{9} ; 0\right)$, tad $x \in(-\infty ;+\infty)$.
-- Ja $k=-\frac{4}{9}, \operatorname{tad} x \in\left(-\infty ; \frac{2}{3}\right) \cup\left(\frac{2}{3} ;+\infty\right)$.
-- Ja $k=0, \operatorname{tad} x \in(-\infty ; 0) \cup(0 ;+\infty)$.
-
-○ Ja $k \in\left(-\infty ;-\frac{4}{9}\right) \cup(0 ;+\infty)$, tad $x \in\left(-\infty ; \frac{-3 k-\sqrt{9 k^{2}+4 k}}{2}\right) \cup\left(\frac{-3 k+\sqrt{9 k^{2}+4 k}}{2} ;+\infty\right)$.
+- Ja $k \in\left(-\frac{4}{9}; 0\right)$, tad $x \in(-\infty ;+\infty)$.
+- Ja $k=-\frac{4}{9}$, tad 
+  $x \in\left(-\infty; \frac{2}{3}\right) \cup\left(\frac{2}{3};+\infty\right)$.
+- Ja $k=0$, tad $x \in(-\infty; 0) \cup(0;+\infty)$.
+- Ja $k \in\left(-\infty;-\frac{4}{9}\right) \cup(0;+\infty)$, tad 
+  $x \in\left(-\infty; \frac{-3k-\sqrt{9k^{2}+4k}}{2}\right) \cup\left(\frac{-3k+\sqrt{9k^{2}+4k}}{2};+\infty\right)$.
 
 
 
 # <lo-sample/> LV.NOL.2016.11.2
 
-11.2. Pierādīt, ka starp jebkuriem pieciem naturālu skaitlu kvadrātiem var atrast divus tādus, ka to summa vai starpība dalās ar 13.
+Pierādīt, ka starp jebkuriem pieciem naturālu skaitļu kvadrātiem var atrast 
+divus tādus, ka to summa vai starpība dalās ar $13$.
 
 <small>
 
@@ -983,22 +969,43 @@ Apkoposim nevienādības atrisinājumu.
 
 ## Atrisinājums
 
-Vispirms noskaidrosim, ar ko var būt kongruents naturāla skaitla kvadrāts pēc modula 13.
+Vispirms noskaidrosim, ar ko var būt kongruents naturāla skaitļa kvadrāts pēc 
+moduļa $13$.
 
-| $n(\bmod 13)$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| $n^{2}(\bmod 13)$ | 0 | 1 | 4 | 9 | 3 | 12 | 10 | 10 | 12 | 3 | 9 | 4 | 1 |
+| $n(\bmod 13)$ | $n^{2}(\bmod 13)$ |
+| ---- | ---- |
+| $0$ | $0$ |
+| $1$ | $1$ |
+| $2$ | $4$ |
+| $3$ | $9$ |
+| $4$ | $3$ |
+| $5$ | $12$ |
+| $6$ | $10$ |
+| $7$ | $10$ |
+| $8$ | $12$ |
+| $9$ | $3$ |
+| $10$ | $9$ |
+| $11$ | $4$ |
+| $12$ | $1$ |
 
-Tātad naturāla skaitla kvadrāts pēc modulala 13 var būt kongruents ar $0,1,3,4,9,10$ vai 12 .
+Tātad naturāla skaitļa kvadrāts pēc moduļa $13$ var būt kongruents ar 
+$0,\ 1,\ 3,\ 4,\ 9,\ 10$ vai $12$.
 
-- Ja divi kvadrāti dod vienādu atlikumu, dalot ar 13, tad to starpība dalās ar 13 .
-- Ja nekādi divi no šiem pieciem kvadrātiem nav kongruenti pēc moduļa 13, tad sadalām šo kvadrātu iespējamās vērtības pēc moduļa 13 četrās grupās: $\{0\},\{1 ; 12\},\{3 ; 10\},\{4 ; 9\}$. Tā kā ir jāizvēlas pieci naturālu skait|u kvadrāti, tad vismaz divi no tiem būs vienā grupā (Dirihlē princips). Šo divu skaitlu summa dalās ar 13 .
+- Ja divi kvadrāti dod vienādu atlikumu, dalot ar $13$, tad to starpība dalās 
+  ar $13$.
+- Ja nekādi divi no šiem pieciem kvadrātiem nav kongruenti pēc moduļa $13$, tad
+  sadalām šo kvadrātu iespējamās vērtības pēc moduļa $13$ četrās grupās: 
+  $\{0\}$, $\{1; 12\}$, $\{3; 10\}$, $\{4; 9\}$. Tā kā ir jāizvēlas pieci 
+  naturālu skaitļu kvadrāti, tad vismaz divi no tiem būs vienā grupā (Dirihlē 
+  princips). Šo divu skaitļu summa dalās ar $13$.
 
 
 
 # <lo-sample/> LV.NOL.2016.11.3
 
-11.3. Izliekta četrstūra $A B C D$ diagonāles krustojas punktā $E$. Ap trijstūriem $A B E$ un $C D E$ apvilktās rinka līnijas krustojas arī punktā $F$. Pierādīt, ka trijstūri $A B F$ un $C D F$ ir līdzīgi!
+Izliekta četrstūra $ABCD$ diagonāles krustojas punktā $E$. Ap trijstūriem $ABE$
+un $CDE$ apvilktās riņķa līnijas krustojas arī punktā $F$. Pierādīt, ka 
+trijstūri $ABF$ un $CDF$ ir līdzīgi!
 
 <small>
 
@@ -1009,18 +1016,28 @@ Tātad naturāla skaitla kvadrāts pēc modulala 13 var būt kongruents ar $0,1,
 
 ## Atrisinājums
 
-levērojam, ka $\sphericalangle D E C=\sphericalangle A E B$ kā krustleņi (skat. 5.att.) un $\sphericalangle C F D=\sphericalangle D E C$ kā ievilktie leņki, kas balstās uz vienu loku $C D$, un $\sphericalangle A F B=\sphericalangle A E B$ kā ievilktie leņki, kas balstās uz vienu loku $A B$. Tātad $\sphericalangle C F D=\sphericalangle A F B$.
+Ievērojam, ka $\sphericalangle DEC=\sphericalangle AEB$ kā krustleņķi (skat. 
+5.att.) un $\sphericalangle CFD=\sphericalangle DEC$ kā ievilktie leņķi, kas 
+balstās uz vienu loku $CD$, un $\sphericalangle AFB=\sphericalangle AEB$ kā 
+ievilktie leņķi, kas balstās uz vienu loku $AB$. Tātad 
+$\sphericalangle CFD=\sphericalangle AFB$.
 
-levilktie lenki $\sphericalangle D C F$ un $\sphericalangle D E F$ ir vienādi, jo balstās uz vienu loku $F D$. No blakusleņku īpašības izriet, ka $\sphericalangle B E F=180^{\circ}-\sphericalangle D E F$. Tā kā ap četrstūri $A B E F$ ir apvilkta rinka līnija, tad tā pretējo leņku summa ir $180^{\circ}$,
-tāpēc $\sphericalangle B A F=180^{\circ}-\sphericalangle B E F=180^{\circ}-\left(180^{\circ}-\sphericalangle D E F\right)=\sphericalangle D E F$. Esam ieguvuši, ka $\triangle C D F \sim \triangle A B F$ pēc pazīmes $\ell \ell$.
+Ievilktie leņķi $\sphericalangle DCF$ un $\sphericalangle DEF$ ir vienādi, jo 
+balstās uz vienu loku $FD$. No blakusleņķu īpašības izriet, ka 
+$\sphericalangle BEF=180^{\circ}-\sphericalangle DEF$. Tā kā ap četrstūri 
+$ABEF$ ir apvilkta riņķa līnija, tad tā pretējo leņķu summa ir $180^{\circ}$, tāpēc 
+$\sphericalangle BAF=180^{\circ}-\sphericalangle BEF=180^{\circ}-\left(180^{\circ}-\sphericalangle DEF\right)=\sphericalangle DEF$.
+Esam ieguvuši, ka $\triangle CDF \sim \triangle ABF$ pēc pazīmes $\ell \ell$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_42e931639016127720feg-11.jpg?height=521&width=783&top_left_y=279&top_left_x=682)
-
+![](LV.NOL.2016.11.3A.png)
 
 
 # <lo-sample/> LV.NOL.2016.11.4
 
-11.4. ķērpjbārdis, Puszābaks un Uzrocis spēlē novusu pie tam tas, kurš zaudē partiju, atdod savu vietu tam, kurš iepriekšējo partiju nespēlēja. Beigās izrādijās, ka ķērpjbārdis ir izspēlējis 12 partijas, Puszābaks - 15, bet Uzrocis - 19. ķērpjbārdis uzvarēja 14. partijā. Kurš zaudēja otrajā partijā?
+Ķērpjbārdis, Puszābaks un Uzrocis spēlē novusu pie tam tas, kurš zaudē partiju,
+atdod savu vietu tam, kurš iepriekšējo partiju nespēlēja. Beigās izrādijās, ka 
+Ķērpjbārdis ir izspēlējis $12$ partijas, Puszābaks - $15$, bet Uzrocis - $19$. 
+Ķērpjbārdis uzvarēja $14.$ partijā. Kurš zaudēja otrajā partijā?
 
 <small>
 
@@ -1031,13 +1048,25 @@ tāpēc $\sphericalangle B A F=180^{\circ}-\sphericalangle B E F=180^{\circ}-\le
 
 ## Atrisinājums
 
-Pamatosim, ka otrajā partijā zaudēja ķērpjbārdis. Tā kā katrā partijā spēlē 2 spēlētāji, tad kopā tika izspēlētas $(12+15+19): 2=23$ partijas. Katrs spēlētājs spēlē vismaz vienā no divām pēc kārtas sekojošām partijām. Tā kā ķērpjbārdis uzvarēja 14. partijā, tad viņš spēlēja arī 15. partijā. No astoņām partijām ar numuriem no 16 līdz 23 viņš spēlēja vismaz četrās. Tā kā kopā viņš spēlēja 12 partijas, tad pirmajās 13 partijās viņš spēlēja ne vairāk kā 6 reizes. Tas ir iespējams tikai tad, ja viņš spēlēja 2., 4., 6., 8., 10. un 12. partijā un visās zaudēja. Tātad viņš zaudēja otrajā partijā.
+Pamatosim, ka otrajā partijā zaudēja Ķērpjbārdis. Tā kā katrā partijā spēlē $2$
+spēlētāji, tad kopā tika izspēlētas $(12+15+19):2=23$ partijas. Katrs spēlētājs
+spēlē vismaz vienā no divām pēc kārtas sekojošām partijām. Tā kā Ķērpjbārdis 
+uzvarēja $14.$ partijā, tad viņš spēlēja arī $15.$ partijā. No astoņām partijām
+ar numuriem no $16$ līdz $23$ viņš spēlēja vismaz četrās. Tā kā kopā viņš 
+spēlēja $12$ partijas, tad pirmajās $13$ partijās viņš spēlēja ne vairāk kā $6$
+reizes. Tas ir iespējams tikai tad, ja viņš spēlēja $2.,\ 4.,\ 6.,\ 8.,\ 10.$ 
+un $12.$ partijā un visās zaudēja. Tātad viņš zaudēja otrajā partijā.
 
 
 
 # <lo-sample/> LV.NOL.2016.11.5
 
-11.5. Uz tāfeles uzrakstīts vienādojums $\square x^{4}-\square x^{3}+\square x^{2}-\square x+\square=0$. Makss un Morics spēlē spēli: Makss nosauc vienu reālu skaitli, tad Morics nosauc otru, tad Makss nosauc trešo, Morics - ceturto un visbeidzot Makss - piekto. Pēc tam Morics kaut kādā secībā ieraksta šos skaitļus tukšajos kvadrātinos. Vai Makss vienmēr var panākt, lai iegūtajam vienādojumam ir vismaz viena vesela sakne?
+Uz tāfeles uzrakstīts vienādojums 
+$\square x^{4}-\square x^{3}+\square x^{2}-\square x+\square=0$. Makss un 
+Morics spēlē spēli: Makss nosauc vienu reālu skaitli, tad Morics nosauc otru, 
+tad Makss nosauc trešo, Morics - ceturto un visbeidzot Makss - piekto. Pēc tam 
+Morics kaut kādā secībā ieraksta šos skaitļus tukšajos kvadrātiņos. Vai Makss 
+vienmēr var panākt, lai iegūtajam vienādojumam ir vismaz viena vesela sakne?
 
 <small>
 
@@ -1048,13 +1077,18 @@ Pamatosim, ka otrajā partijā zaudēja ķērpjbārdis. Tā kā katrā partijā 
 
 ## Atrisinājums
 
-Jā, Makss prasīto vienmēr var panākt. Aplūkosim vienādojumu $a x^{4}-b x^{3}+c x^{2}-d x+e=0$. levietojot $x=-1$, iegūstam, ka $a+b+c+d+e=0$. Tātad, ja $a+b+c+d+e=0$, tad $x=-1$ ir šī vienādojuma sakne. Līdz ar to Maksam pēdējais skaitlis ir jāizvēlas tāds, lai visu piecu skait|u summa būtu 0 , jo tad, lai kā Morics tos ierakstītu tukšajos kvadrātinos, vienādojumam noteikti būs vismaz viena vesela sakne $x=-1$.
+Jā, Makss prasīto vienmēr var panākt. Aplūkosim vienādojumu 
+$ax^{4}-bx^{3}+cx^{2}-dx+e=0$. Ievietojot $x=-1$, iegūstam, ka $a+b+c+d+e=0$. 
+Tātad, ja $a+b+c+d+e=0$, tad $x=-1$ ir šī vienādojuma sakne. Līdz ar to Maksam 
+pēdējais skaitlis ir jāizvēlas tāds, lai visu piecu skaitļu summa būtu $0$, jo 
+tad, lai kā Morics tos ierakstītu tukšajos kvadrātiņos, vienādojumam noteikti 
+būs vismaz viena vesela sakne $x=-1$.
 
 
 
 # <lo-sample/> LV.NOL.2016.12.1
 
-12.1. Noteikt funkcijas $y=\sqrt{5 \cdot 2^{x}-3^{x}}$ definīcijas kopu!
+Noteikt funkcijas $y=\sqrt{5 \cdot 2^{x}-3^{x}}$ definīcijas kopu!
 
 <small>
 
@@ -1065,13 +1099,18 @@ Jā, Makss prasīto vienmēr var panākt. Aplūkosim vienādojumu $a x^{4}-b x^{
 
 ## Atrisinājums
 
-Zemsaknes izteiksmei jābūt nenegatīvai, tāpēc $5 \cdot 2^{x}-3^{x} \geq 0$. Tā kā $2^{x}>0$ visiem reāliem $x$, tad, nevienādības abas puses dalot ar $2^{x}$, iegūst $5-1,5^{x} \geq 0$ jeb $5 \geq 1,5^{x}$. Logaritmējot abas puses pie bāzes $1,5>1$, iegūst $\log _{1,5} 5 \geq x$. Līdz ar to dotās funkcijas definīcijas kopa ir $x \in\left(-\infty ; \log _{1,5} 5\right]$.
+Zemsaknes izteiksmei jābūt nenegatīvai, tāpēc $5 \cdot 2^{x}-3^{x} \geq 0$. Tā 
+kā $2^{x}>0$ visiem reāliem $x$, tad, nevienādības abas puses dalot ar $2^{x}$,
+iegūst $5-1,5^{x} \geq 0$ jeb $5 \geq 1,5^{x}$. Logaritmējot abas puses pie 
+bāzes $1,5>1$, iegūst $\log _{1,5} 5 \geq x$. Līdz ar to dotās funkcijas 
+definīcijas kopa ir $x \in\left(-\infty; \log _{1,5} 5\right]$.
 
 
 
 # <lo-sample/> LV.NOL.2016.12.2
 
-12.2. Atrast visu skait|u, kas pierakstāmi formā $a^{4}-b^{4}$, kur $a>b>5$ un $a$ un $b$ ir pirmskait|i, lielāko kopīgo dalītāju!
+Atrast visu skaitļu, kas pierakstāmi formā $a^{4}-b^{4}$, kur $a>b>5$ un $a$ un
+$b$ ir pirmskaitļi, lielāko kopīgo dalītāju!
 
 <small>
 
@@ -1082,36 +1121,56 @@ Zemsaknes izteiksmei jābūt nenegatīvai, tāpēc $5 \cdot 2^{x}-3^{x} \geq 0$.
 
 ## Atrisinājums
 
-levērojam, ka $a^{4}-b^{4}=\left(a^{2}-b^{2}\right)\left(a^{2}+b^{2}\right)=(a-b)(a+b)\left(a^{2}+b^{2}\right)$.
+Ievērojam, ka 
+$a^{4}-b^{4}=\left(a^{2}-b^{2}\right)\left(a^{2}+b^{2}\right)=(a-b)(a+b)\left(a^{2}+b^{2}\right)$.
 
-Tā kā $11^{4}-7^{4}=4 \cdot 18 \cdot(121+49)=2^{4} \cdot 3^{2} \cdot 5 \cdot 17=240 \cdot 51$ un $13^{4}-11^{4}=2 \cdot 24 \cdot(169+121)=$ $=2^{4} \cdot 3 \cdot 5 \cdot 29=240 \cdot 29$, tad meklētais lielākais kopīgais dalītājs $d$ nevar būt lielāks kā 240 . Pamatosim, ka visi skaitļi dalās ar 240 , līdz ar to būs pierādīts, ka $d=240$. levērosim, ka $240=16 \cdot 3 \cdot 5$; tā kā visi reizinātāji ir savstarpēji pirmskaitli, tad pietiekami parādīt, ka katrs no dotajiem skaitļiem dalās gan ar 16, gan ar 3, gan ar 5 .
+Tā kā $11^{4}-7^{4}=4 \cdot 18 \cdot(121+49)=2^{4} \cdot 3^{2} \cdot 5 \cdot 17=240 \cdot 51$
+un $13^{4}-11^{4}=2 \cdot 24 \cdot(169+121)=$ $=2^{4} \cdot 3 \cdot 5 \cdot 29=240 \cdot 29$,
+tad meklētais lielākais kopīgais dalītājs $d$ nevar būt lielāks kā $240$. 
+Pamatosim, ka visi skaitļi dalās ar $240$, līdz ar to būs pierādīts, ka 
+$d=240$. Ievērosim, ka $240=16 \cdot 3 \cdot 5$; tā kā visi reizinātāji ir 
+savstarpēji pirmskaitļi, tad pietiekami parādīt, ka katrs no dotajiem skaitļiem
+dalās gan ar $16$, gan ar $3$, gan ar $5$.
 
-- Tā kā jebkurš pirmskaitlis $p$, kas lielāks nekā 5, ir nepāra skaitlis, tad, to dalot ar pāra skaitli, nevar iegūt atlikumu, kas ir pāra skaitlis, līdz ar to var rasties tikai nepāra atlikums: $1,3,5,7,9,11,13,15$. Tātad $p$ var būt kongruents ar $\pm 1, \pm 3, \pm 5$ vai $\pm 7$ pēc moduļa 16. Noskaidrosim, ar ko var būt kongruenta pirmskait|a ceturtā pakāpe pēc moduļa 16:
+- Tā kā jebkurš pirmskaitlis $p$, kas lielāks nekā $5$, ir nepāra skaitlis, 
+  tad, to dalot ar pāra skaitli, nevar iegūt atlikumu, kas ir pāra skaitlis, 
+  līdz ar to var rasties tikai nepāra atlikums: 
+  $1,\ 3,\ 5,\ 7,\ 9,\ 11,\ 13,\ 15$. Tātad $p$ var būt kongruents ar 
+  $\pm 1, \pm 3, \pm 5$ vai $\pm 7$ pēc moduļa $16$. Noskaidrosim, ar ko var 
+  būt kongruenta pirmskaitļa ceturtā pakāpe pēc moduļa $16$:
 
-$$
-\begin{aligned}
-p^{4} & \equiv( \pm 1)^{4} \equiv 1(\bmod 16) ; \\
-p^{4} & \equiv( \pm 3)^{4} \equiv 81 \equiv 1(\bmod 16) \\
-p^{4} & \equiv( \pm 5)^{4} \equiv 25 \cdot 25 \equiv 9 \cdot 9 \equiv 81 \equiv 1(\bmod 16) \\
-p^{4} & \equiv( \pm 7)^{4} \equiv 49 \cdot 49 \equiv 1 \cdot 1 \equiv 1(\bmod 16) \\
-\text { Tātad } p^{4} & \equiv 1(\bmod 16)
-\end{aligned}
-$$
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_42e931639016127720feg-12.jpg?height=52&width=392&top_left_y=408&top_left_x=312)
+     $p^{4} \equiv( \pm 1)^{4} \equiv 1(\bmod 16)$;  
+     $p^{4} \equiv( \pm 3)^{4} \equiv 81 \equiv 1(\bmod 16)$;  
+     $p^{4} \equiv( \pm 5)^{4} \equiv 25 \cdot 25 \equiv 9 \cdot 9 \equiv 81 \equiv 1(\bmod 16)$;  
+     $p^{4} \equiv( \pm 7)^{4} \equiv 49 \cdot 49 \equiv 1 \cdot 1 \equiv 1(\bmod 16)$.  
+  Tātad $p^{4} \equiv 1(\bmod 16)$
 
-- Pirmskaitli $p>5$, dalot ar 3 , var iegūt tikai atlikumu 1 vai 2 , tāpēc pēc modula 3 šāds pirmskaitlis $p$ var pieņemt tikai vērtības $\pm 1$ un $p^{4} \equiv 1(\bmod 3)$.
-- Pirmskaitli $p>5$, dalot ar 5 , var iegūt tikai atlikumu $1,2,3$ vai 4 , tāpēc pēc moduļa 5 šāds pirmskaitlis $p$ var pienemt tikai vērtības $\pm 1$ un $\pm 2$. Tad $p^{4} \equiv( \pm 1)^{4} \equiv 1(\bmod 5)$ vai $p^{4} \equiv( \pm 2)^{4} \equiv 16 \equiv 1(\bmod 5)$. Tātad $p^{4} \equiv 1(\bmod 5)$.
+- Pirmskaitļi $p>5$, dalot ar $3$, var iegūt tikai atlikumu $1$ vai $2$, tāpēc 
+  pēc moduļa $3$ šāds pirmskaitlis $p$ var pieņemt tikai vērtības $\pm 1$ un 
+  $p^{4} \equiv 1(\bmod 3)$.
+- Pirmskaitļi $p>5$, dalot ar $5$, var iegūt tikai atlikumu $1,\ 2,\ 3$ vai 
+  $4$, tāpēc pēc moduļa $5$ šāds pirmskaitlis $p$ var pieņemt tikai vērtības 
+  $\pm 1$ un $\pm 2$. Tad $p^{4} \equiv( \pm 1)^{4} \equiv 1(\bmod 5)$ vai 
+  $p^{4} \equiv( \pm 2)^{4} \equiv 16 \equiv 1(\bmod 5)$. Tātad 
+  $p^{4} \equiv 1(\bmod 5)$.
 
-Līdz ar to $p^{4} \equiv 1(\bmod 240)$ un tāpēc $a^{4}-b^{4} \equiv 1-1 \equiv 0(\bmod 240)$ jeb $a^{4}-b^{4}$ dalās ar 240 . Esam pierādīuši, ka visu skait!u, kas pierakstāmi formā $a^{4}-b^{4}$, kur $a>b>5$ un $a$ un $b$ ir pirmskaitli, lielākais kopīgais dalītājs ir 240 .
+Līdz ar to $p^{4} \equiv 1(\bmod 240)$ un tāpēc 
+$a^{4}-b^{4} \equiv 1-1 \equiv 0(\bmod 240)$ jeb $a^{4}-b^{4}$ dalās ar $240$. 
+Esam pierādīuši, ka visu skaitļu, kas pierakstāmi formā $a^{4}-b^{4}$, kur 
+$a>b>5$ un $a$ un $b$ ir pirmskaitļi, lielākais kopīgais dalītājs ir $240$.
 
-*Piezīme.* Pamatot to, ka $a^{4}-b^{4}$ dalās ar 16, var, ievērojot, ka jebkuriem nepāra skaitliem $a$ un $b$ to kvadrātu summa dalās ar 2, bet kvadrātu starpība dalās ar 8 .
+*Piezīme.* Pamatot to, ka $a^{4}-b^{4}$ dalās ar $16$, var, ievērojot, ka 
+jebkuriem nepāra skaitļiem $a$ un $b$ to kvadrātu summa dalās ar $2$, bet 
+kvadrātu starpība dalās ar $8$.
 
 
 
 # <lo-sample/> LV.NOL.2016.12.3
 
-12.3. Četrstūris $A B C D$ ir ievilkts ringa līnijā, arī tā malu viduspunkti atrodas uz vienas riņka līnijas. Pierādīt, ka $\sphericalangle A B D+\sphericalangle B D C=90^{\circ}$.
+Četrstūris $ABCD$ ir ievilkts riņķa līnijā, arī tā malu viduspunkti atrodas uz 
+vienas riņķa līnijas. Pierādīt, ka 
+$\sphericalangle ABD+\sphericalangle BDC=90^{\circ}$.
 
 <small>
 
@@ -1122,17 +1181,34 @@ Līdz ar to $p^{4} \equiv 1(\bmod 240)$ un tāpēc $a^{4}-b^{4} \equiv 1-1 \equi
 
 ## Atrisinājums
 
-Apzīmējam malu $A B, B C, C D$ un $D A$ viduspunktus attiecīgi ar $E, F, G$ un $H$ (skat. 6.att.). Tā kā $E F$ un $H G$ ir attiecīgi trijstūru $A B C$ un $A D C$ viduslīnijas, tad $E F\parallelA C\parallel H G$. Līdzīgi $E H\parallelB D\parallel F G$. Līdz ar to četrstūris EFGH ir paralelograms, jo tā pretējās malas ir pa pāriem paralēlas. Tā kā $E F G H$ visas virsotnes atrodas uz riņka līnijas, tad tā pretējo leņku summa ir $180^{\circ}$, no kā izriet, ka paralelograma $E F G H$ katra leņka lielums ir $90^{\circ}$ un $E F G H$ ir taisnstūris. levērojam, ka $E F \parallel A C$ un $E H \parallel B D$, tāpēc $A C \perp B D$ jeb $\sphericalangle B O A=90^{\circ}$, kur $O$ ir $A C$ un $B D$ krustpunkts.
+Apzīmējam malu $AB,\ BC,\ CD$ un $DA$ viduspunktus attiecīgi ar $E,\ F,\ G$ un 
+$H$ (skat. 6.att.). Tā kā $EF$ un $HG$ ir attiecīgi trijstūru $ABC$ un $ADC$ 
+viduslīnijas, tad $EF \parallel AC \parallel HG$. Līdzīgi 
+$EH \parallel BD \parallel FG$. Līdz ar to četrstūris $EFGH$ ir paralelograms, 
+jo tā pretējās malas ir pa pāriem paralēlas. Tā kā $EFGH$ visas virsotnes 
+atrodas uz riņķa līnijas, tad tā pretējo leņķu summa ir $180^{\circ}$, no kā 
+izriet, ka paralelograma $EFGH$ katra leņķa lielums ir $90^{\circ}$ un $EFGH$ 
+ir taisnstūris. Ievērojam, ka $EF \parallel AC$ un $EH \parallel BD$, tāpēc 
+$AC \perp BD$ jeb $\sphericalangle BOA=90^{\circ}$, kur $O$ ir $AC$ un $BD$ 
+krustpunkts.
 
-levilktie leņ̂ki, kas balstās uz viena un tā paša loka, ir vienādi, tad $\sphericalangle C D B=\sphericalangle C A B$. Tā kā $\triangle B O A$ iekšējo leņku summa ir $180^{\circ}$, tad $180^{\circ}=\sphericalangle B A O+\sphericalangle A O B+\sphericalangle O B A=\sphericalangle B D C+90^{\circ}+\sphericalangle D B A \quad$ jeb $\sphericalangle A B D+\sphericalangle B D C=90^{\circ}$, kas arī bija jāpierāda.
+Ievilktie leņķi, kas balstās uz viena un tā paša loka, ir vienādi, tad 
+$\sphericalangle CDB=\sphericalangle CAB$. Tā kā $\triangle BOA$ iekšējo leņķu 
+summa ir $180^{\circ}$, tad 
+$180^{\circ}=\sphericalangle BAO+\sphericalangle AOB+\sphericalangle OBA=\sphericalangle BDC+90^{\circ}+\sphericalangle DBA$
+jeb $\sphericalangle ABD+\sphericalangle BDC=90^{\circ}$, kas arī bija 
+jāpierāda.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_42e931639016127720feg-12.jpg?height=501&width=373&top_left_y=1531&top_left_x=910)
+![](LV.NOL.2016.12.3A.png)
 
 
 
 # <lo-sample/> LV.NOL.2016.12.4
 
-12.4. Kērpjbārdis, Puszābaks un Uzrocis spēlē novusu, pie tam tas, kurš zaudē partiju, atdod savu vietu tam, kurš iepriekšējo partiju nespēlēja. Beigās izrādīās, ka Kērpjbārdis ir uzvarējis 10 partijās, Puszābaks - 12, bet Uzrocis - 14 partijās. Cik partijas izspēlēja katrs no viniem?
+Ķērpjbārdis, Puszābaks un Uzrocis spēlē novusu, pie tam tas, kurš zaudē 
+partiju, atdod savu vietu tam, kurš iepriekšējo partiju nespēlēja. Beigās 
+izrādīās, ka Ķērpjbārdis ir uzvarējis $10$ partijās, Puszābaks - $12$, bet 
+Uzrocis - $14$ partijās. Cik partijas izspēlēja katrs no viņiem?
 
 <small>
 
@@ -1143,14 +1219,26 @@ levilktie leņ̂ki, kas balstās uz viena un tā paša loka, ir vienādi, tad $\
 
 ## Atrisinājums
 
-Tā kā katrā partijā ir tieši viens uzvarētājs, tad kopā tika izspēlētas $10+12+14=36$ partijas. Aplūkosim jebkuru spēlētāju un apzīmēsim ar $z$ tā zaudēto partiju skaitu un ar $n$ to partiju skaitu, kurā vingš nespēlēja. Pēc katras zaudētas partijas nāk partija, kurā viņ̂ nespēlē, izņemot varbūt pēdējo partiju, tātad $z \leq n+1$. Un arī otrādi - pirms katras nespēlētas partijas ir zaudēta partija, izņemot varbūt pašu pirmo, tātad $n \leq z+1$. Līdz ar to $-1 \leq z-n \leq 1$. ķērpjbārdis neuzvarēja $36-10=26$ partijās, vinam $z+n=26$. Tā kā 26 ir pāra skaitlis, tad $z$ un $n$ ir ar vienādu paritāti un gadijumi $z-n= \pm 1$ nav iespējami, tātad atliek $z-n=0$, no kā izriet, ka $z=n=13$, tātad viņs piedalijā̄s $z+10=23$ partijās. Analogi Puszābakam $z+n=24$, tātad vinam $z=n=12$, un $z+12=24$ partijas, kurās viņš spēlēja, Uzrocim $z+n=22$,
-tātad viņam $z=n=11$ un $z+14=25$ partijas. Esam ieguvuši, ka ķērpjbārdis izspēlēja 23 partijas, Puszābaks - 24 partijas, bet Uzrocis - 25 partijas.
+Tā kā katrā partijā ir tieši viens uzvarētājs, tad kopā tika izspēlētas 
+$10+12+14=36$ partijas. Aplūkosim jebkuru spēlētāju un apzīmēsim ar $z$ tā 
+zaudēto partiju skaitu un ar $n$ to partiju skaitu, kurā viņš nespēlēja. Pēc 
+katras zaudētas partijas nāk partija, kurā viņš nespēlē, izņemot varbūt pēdējo 
+partiju, tātad $z \leq n+1$. Un arī otrādi - pirms katras nespēlētas partijas 
+ir zaudēta partija, izņemot varbūt pašu pirmo, tātad $n \leq z+1$. Līdz ar to 
+$-1 \leq z-n \leq 1$. Ķērpjbārdis neuzvarēja $36-10=26$ partijās, viņam 
+$z+n=26$. Tā kā $26$ ir pāra skaitlis, tad $z$ un $n$ ir ar vienādu paritāti un
+gadījumi $z-n= \pm 1$ nav iespējami, tātad atliek $z-n=0$, no kā izriet, ka 
+$z=n=13$, tātad viņš piedalijās $z+10=23$ partijās. Analogi Puszābakam 
+$z+n=24$, tātad viņam $z=n=12$, un $z+12=24$ partijas, kurās viņš spēlēja, 
+Uzrocim $z+n=22$, tātad viņam $z=n=11$ un $z+14=25$ partijas. Esam ieguvuši, ka
+Ķērpjbārdis izspēlēja $23$ partijas, Puszābaks - $24$ partijas, bet Uzrocis - 
+$25$ partijas.
 
 
 
 # <lo-sample/> LV.NOL.2016.12.5
 
-12.5. Kurš skaitlis ir lielāks: $\log _{2015} 2016$ vai $\log _{2016} 2017$ ?
+Kurš skaitlis ir lielāks: $\log _{2015} 2016$ vai $\log _{2016} 2017$?
 
 <small>
 
@@ -1163,19 +1251,20 @@ tātad viņam $z=n=11$ un $z+14=25$ partijas. Esam ieguvuši, ka ķērpjbārdis 
 
 Pamatosim, ka lielāks ir skaitlis $\log _{2015} 2016$.
 
-Pierādīsim vispārīgu apgalvojumu: ja $x<y$, tad $\log _{x}(x+1)>\log _{y}(y+1)$.
+Pierādīsim vispārīgu apgalvojumu: ja $x<y$, tad 
+$\log _{x}(x+1)>\log _{y}(y+1)$.
 
-Aplūkosim funkciju $f(x)=\log _{x}(x+1)$ intervālā $x \in(1,+\infty)$ un pierādīsim, ka tā šajā intervālā ir dilstoša. Varam pārveidot
+Aplūkosim funkciju $f(x)=\log _{x}(x+1)$ intervālā $x \in(1,+\infty)$ un 
+pierādīsim, ka tā šajā intervālā ir dilstoša. Varam pārveidot
 
-$$
-f(x)=\log _{x}\left(\frac{(x+1) \cdot x}{x}\right)=\log _{x}\left(\frac{x+1}{x}\right)+1=1+\log _{x}\left(1+\frac{1}{x}\right)=1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}
-$$
+$$f(x)=\log _{x}\left(\frac{(x+1) \cdot x}{x}\right)=\log _{x}\left(\frac{x+1}{x}\right)+1=1+\log _{x}\left(1+\frac{1}{x}\right)=1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}$$
 
-Ja $x<y$, tad $1+\frac{1}{x}>1+\frac{1}{y}$, tātad arī $\lg \left(1+\frac{1}{x}\right)>\lg \left(1+\frac{1}{y}\right)$, jo logaritmiskā funkcija pie bāzes 10 ir augoša funkcija. Šī paša iemesla dē! arī $\lg x<\lg y$, tātad arī
+Ja $x<y$, tad $1+\frac{1}{x}>1+\frac{1}{y}$, tātad arī 
+$\lg \left(1+\frac{1}{x}\right)>\lg \left(1+\frac{1}{y}\right)$, jo 
+logaritmiskā funkcija pie bāzes $10$ ir augoša funkcija. Šī paša iemesla dēļ 
+arī $\lg x<\lg y$, tātad arī
 
-$$
-1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}>1+\frac{\lg \left(1+\frac{1}{y}\right)}{\lg y}
-$$
+$$1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}>1+\frac{\lg \left(1+\frac{1}{y}\right)}{\lg y}$$
 
 kas nozīmē, ka $f(x)>f(y)$, ja $x<y$.
 
