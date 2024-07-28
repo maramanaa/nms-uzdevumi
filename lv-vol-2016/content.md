@@ -156,7 +156,7 @@ $11$.
 
 # <lo-sample/> LV.VOL.2016.9.5
 
-Naturālu skaitļu virkni $\left(s_{i}\right)$ pēc parauga "2016" veido šādi: 
+Naturālu skaitļu virkni $\left(s_{i}\right)$ pēc parauga " $2016$ " veido šādi: 
 virknes pirmais loceklis $s_{1}$ ir $2$; virknes otrais loceklis $s_{2}$ - 
 mazākais naturālais skaitlis, kas lielāks nekā $s_{1}$ un tā pierakstā ir 
 cipars $0$; virknes trešais loceklis $s_{3}$ - mazākais naturālais skaitlis, 
@@ -762,7 +762,7 @@ krustpunktu ar $y$ asi: $A\left(x_{1}; 0\right), B\left(x_{2}; 0\right)$ un
 $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
 
 1. Ja riņķa līnijai ar $y$ asi ir tikai viens krustpunkts, tas ir, tā pieskaras
-   $y$ asij (skat. 15.att.), tad $\triangle COA \sim \triangle BOC$ pēc pazìmes 
+   $y$ asij (skat. 15.att.), tad $\triangle COA \sim \triangle BOC$ pēc pazīmes 
    $\ell \ell$, jo $\sphericalangle COB$ - kopīgs un 
    $\sphericalangle OCA=\sphericalangle OBC=\frac{1}{2} \overline{AC}$. Tad
 
@@ -783,7 +783,7 @@ $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
 	 $\sphericalangle ADC=\sphericalangle ABC$ kā ievilktie leņķi, kas balstās 
 	 uz viena un tā paša loka (skat. 16.att.). Tāpēc
 
-   $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
+     $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
    - Ja $q>1$, tad $\triangle AOD \sim \triangle COB$ pēc pazīmes $\ell \ell$, 
      jo $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
@@ -791,7 +791,7 @@ $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
 	 pēc blakusleņķu īpašības un īpašības, ka ievilkta četrstūra pretējo leņķu 
 	 summa ir $180^{\circ}$ (skat. 17.att.). Tāpēc
 
-   $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
+     $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
    Tā kā punkts $D$ nevar būt $(0;-1)$, jo tad iegūst ieliektu četrstūri, kuram
    nevar apvilkt riņķa līniju, tad šīs riņķa līnijas iet caur punktu $(0; 1)$
