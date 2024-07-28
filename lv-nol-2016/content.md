@@ -1144,6 +1144,7 @@ dalās gan ar $16$, gan ar $3$, gan ar $5$.
      $p^{4} \equiv( \pm 3)^{4} \equiv 81 \equiv 1(\bmod 16)$;  
      $p^{4} \equiv( \pm 5)^{4} \equiv 25 \cdot 25 \equiv 9 \cdot 9 \equiv 81 \equiv 1(\bmod 16)$;  
      $p^{4} \equiv( \pm 7)^{4} \equiv 49 \cdot 49 \equiv 1 \cdot 1 \equiv 1(\bmod 16)$.  
+  
   Tātad $p^{4} \equiv 1(\bmod 16)$
 
 - Pirmskaitļi $p>5$, dalot ar $3$, var iegūt tikai atlikumu $1$ vai $2$, tāpēc 
@@ -1251,7 +1252,7 @@ Kurš skaitlis ir lielāks: $\log _{2015} 2016$ vai $\log _{2016} 2017$?
 
 Pamatosim, ka lielāks ir skaitlis $\log _{2015} 2016$.
 
-Pierādīsim vispārīgu apgalvojumu: ja $x<y$, tad 
+Pierādīsim vispārīgu apgalvojumu: ja $x < y$, tad 
 $\log _{x}(x+1)>\log _{y}(y+1)$.
 
 Aplūkosim funkciju $f(x)=\log _{x}(x+1)$ intervālā $x \in(1,+\infty)$ un 
@@ -1259,12 +1260,12 @@ pierādīsim, ka tā šajā intervālā ir dilstoša. Varam pārveidot
 
 $$f(x)=\log _{x}\left(\frac{(x+1) \cdot x}{x}\right)=\log _{x}\left(\frac{x+1}{x}\right)+1=1+\log _{x}\left(1+\frac{1}{x}\right)=1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}$$
 
-Ja $x<y$, tad $1+\frac{1}{x}>1+\frac{1}{y}$, tātad arī 
+Ja $x < y$, tad $1+\frac{1}{x}>1+\frac{1}{y}$, tātad arī 
 $\lg \left(1+\frac{1}{x}\right)>\lg \left(1+\frac{1}{y}\right)$, jo 
 logaritmiskā funkcija pie bāzes $10$ ir augoša funkcija. Šī paša iemesla dēļ 
 arī $\lg x<\lg y$, tātad arī
 
 $$1+\frac{\lg \left(1+\frac{1}{x}\right)}{\lg x}>1+\frac{\lg \left(1+\frac{1}{y}\right)}{\lg y}$$
 
-kas nozīmē, ka $f(x)>f(y)$, ja $x<y$.
+kas nozīmē, ka $f(x) > f(y)$, ja $x < y$.
 
