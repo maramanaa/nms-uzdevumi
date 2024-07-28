@@ -269,7 +269,7 @@ funkcijas grafiku un iet caur punktu $(1; 43)$ !
 ## Atrisinājums
 
 **a)** Funkcijas grafiks krusto $y$ asi, ja $x=0$, tātad krustpunkts ar $y$ asi
-ir (0; 2016). Funkcijas grafiks krusto $x$ asi, ja $y=0$, tātad krustpunkts ar
+ir $(0; 2016)$. Funkcijas grafiks krusto $x$ asi, ja $y=0$, tātad krustpunkts ar
 $x$ asi ir $\left(-\frac{2016}{2015} ; 0\right)$.
 
 **b)** Lai lineāru funkciju grafiki nekrustotos, tiem jābūt paralēliem, tātad
@@ -325,9 +325,9 @@ Pierādīt, ka $\sphericalangle ANC=90^{\circ}$.
 ## Atrisinājums
 
 Ievērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
-$\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie škērsleņķi pie paralēlām
+$\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie šķērsleņķi pie paralēlām
 taisnēm, $BD$- kopīga mala un $\sphericalangle ADB=\sphericalangle CBD$ kā
-iekšējie škērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
+iekšējie šķērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
 vienādu trijstūru atbilstošās malas. Līdzīgi $\triangle AMD=\triangle CMB$ pēc
 pazīmes $\ell m \ell$, jo $\sphericalangle MAD=\sphericalangle MCB, AD=BC$ un
 $\sphericalangle ADM=\sphericalangle CBM$, tātad $AM=MC$. Trijstūri $AMN$ un
@@ -496,7 +496,7 @@ atrodas uz malas $BC$ vidusperpendikula. No vidusperpendikula īpašības (katrs
 vidusperpendikula punkts atrodas vienādā attālumā no nogriežņa galapunktiem)
 iegūstam, ka $CN=BN$ un $CM=BM$. Nogrieznis $MK$ ir trijstūra $CAD$ viduslīiija,
 tāpēc $MK=\frac{1}{2} AC=CN$. Līdz ar to esam ieguvuši, ka
-$\triangle MNB=\triangle CKM$ pēc pazīmes mmm .
+$\triangle MNB=\triangle CKM$ pēc pazīmes $mmm$.
 
 ![](LV.AMO.2016.8.4A.png)
 
@@ -698,9 +698,8 @@ pārbaudot ne vairāk kā četrus podus!
 ## Atrisinājums
 
 Ir skaidrs, ka attiecīgās progresijas diference $d$ var būt tikai $1, 2$ vai $3$.
-Pierādīsim, ka Sivēns var izdomāt atbildi,
-
-pārbaudot $4$, $5.$, $6.$ podu un vēl vienu podu.
+Pierādīsim, ka Sivēns var izdomāt atbildi, pārbaudot $4$, $5.$, $6.$
+podu un vēl vienu podu.
 
 - Ja $4.$, $5.$ un $6.$ pods ir pilns, tad izēstie podi ir $7.$, $8.$, $9.$ un
   $10.$
@@ -741,8 +740,8 @@ $\frac{65}{x}$. Otrā kabeļa garums ir $x+3$ un tā katra metra masa ir
 $\frac{120}{x+3}$. legūstam vienādojumu $\frac{120}{x+3}=\frac{65}{x}+2$.
 Reizinot vienādojuma abas puses ar $x(x+3) > 0$, iegūstam vienādojumu
 $120x=65x+195+2x^{2}+6x$ jeb $2x^{2}-49x+195=0$, kura saknes ir $x=5$ un
-$x=19,5$. Tātad pirmā un otrā kabeļa garums attiecīgi var būt $5~ \mathrm{m} un
-$8~ \mathrm{m} vai $19,5~ \mathrm{m}$ un $22,5~ \mathrm{m}$.
+$x=19,5$. Tātad pirmā un otrā kabeļa garums attiecīgi var būt $5~ \mathrm{m}$ un
+$8~ \mathrm{m}$ vai $19,5~ \mathrm{m}$ un $22,5~ \mathrm{m}$.
 
 
 
@@ -838,7 +837,7 @@ Nogrieznis $BD$ ir bisektrise, tāpēc
 $\sphericalangle ABD=\sphericalangle DBC$ (skat. 17.att.). Tā kā
 $BD || CQ$, tad $\sphericalangle BCQ=\sphericalangle DBC$ kā iekšējie
 šķērsleņķi. Savukārt $\sphericalangle BDQ=\sphericalangle BCQ$ kā ievilktie
-leņķi, kas balstās uz viena un tā paša loka $BQ$. Līdz ar to iekšējie škērsleņķi
+leņķi, kas balstās uz viena un tā paša loka $BQ$. Līdz ar to iekšējie šķērsleņķi
 $\sphericalangle ABD=\sphericalangle BDQ$ un tāpēc $AB || DQ$. Četrstūris
 $BDQP$ ir paralelograms, jo $BD || QP$ un $BP || DQ$. Paralelogramā diagonāles
 krustpunktā dalās uz pusēm, tāpēc $PM=MD$.
@@ -878,7 +877,7 @@ $1 \times 5$ rūtiņas var izvietot, piemēram, tā, kā parādīts 19.att.
 
 # <lo-sample/> LV.AMO.2016.11.1
 
-No visiem vienādsānu trijstūriem ar sānu malas garumu $10~ \mathrm{cm} atrast to,
+No visiem vienādsānu trijstūriem ar sānu malas garumu $10~ \mathrm{cm}$ atrast to,
 kuram ir vislielākais laukums!
 
 <small>
@@ -1131,7 +1130,7 @@ Tātad $\frac{y^{2}}{4} > 2xz$ jeb $y^{2} > 8xz$.
 
 # <lo-sample/> LV.AMO.2016.12.4
 
-Trijstūrī $ABC$ leņka $\sphericalangle ABC$ bisektrise krusto tam apvilkto
+Trijstūrī $ABC$ leņķa $\sphericalangle ABC$ bisektrise krusto tam apvilkto
 riņķa līniju punktā $D$. Nogriežņi $DP$ un $DQ$ ir attiecīgi trijstūru $ABD$ un
 $BCD$ augstumi. Pierādīt, ka nogrieznis $PQ$ krusto malu $AC$ tās viduspunktā!
 
@@ -1148,7 +1147,7 @@ $BCD$ augstumi. Pierādīt, ka nogrieznis $PQ$ krusto malu $AC$ tās viduspunkt�
 Apzīmējam $\sphericalangle ABD=\sphericalangle DBC=\alpha$ un $PQ$ un $AC$
 krustpunktu ar $M$ (skat 21.att.). Četrstūra $BPDQ$ pretējo leņķu summa ir
 $\sphericalangle BPD+\sphericalangle BQD=90^{\circ}+90^{\circ}=180^{\circ}$,
-tāpēc tam var apvilkt riņka līniju. legūstam, ka
+tāpēc tam var apvilkt riņķa līniju. legūstam, ka
 $\sphericalangle DPQ=\sphericalangle DBQ=\alpha$ kā ievilktie leņķi, kas
 balstās uz vienu un to pašu loku $DQ$. Savukārt
 $\sphericalangle DAC=\sphericalangle DBC=\alpha$ kā ievilktie leņķi, kas
