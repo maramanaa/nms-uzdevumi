@@ -1,6 +1,7 @@
 # <lo-sample/> LV.VOL.2016.9.1
 
-9.1. Zināms, ka $x$ un $y$ ir tādi naturāli skaitḷi, ka $x y^{2}$ ir naturāla skaitḷa kubs. Pierādīt, ka arī $x^{2} y$ ir naturāla skait!a kubs!
+Zināms, ka $x$ un $y$ ir tādi naturāli skaitļi, ka $xy^{2}$ ir naturāla skaitļa
+kubs. Pierādīt, ka arī $x^{2}y$ ir naturāla skaitļa kubs!
 
 <small>
 
@@ -11,19 +12,24 @@
 
 ## Atrisinājums
 
-Apzīmējam $x y^{2}=z^{3}$, kur $z$-naturāls skaitlis. Kāpinot abas puses kvadrātā, iegūstam $x^{2} y^{4}=z^{6}$. Izsakām
+Apzīmējam $xy^{2}=z^{3}$, kur $z$ - naturāls skaitlis. Kāpinot abas puses 
+kvadrātā, iegūstam $x^{2}y^{4}=z^{6}$. Izsakām
 
-$$
-x^{2} y=\frac{z^{6}}{y^{3}}=\left(\frac{z^{2}}{y}\right)^{3}
-$$
+$$x^{2} y=\frac{z^{6}}{y^{3}}=\left(\frac{z^{2}}{y}\right)^{3}$$
 
-Skaitlis $x^{2} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{2}}{y}\right)^{3}$ ir naturāls. Ja $z^{2}$ nedalītos ar $y$, tad $\frac{z^{2}}{y}$ varētu izteikt kā nesaīsināmu daḷu $\frac{m}{n}$. Bet tad arī $\frac{m^{3}}{n^{3}}$ būtu nesaīsināma daḷa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{2}$ dalās ar $y$ un tātad $x^{2} y$ ir naturāla skaitla kubs.
+Skaitlis $x^{2}y$ ir naturāls skaitlis, tāpēc arī 
+$\left(\frac{z^{2}}{y}\right)^{3}$ ir naturāls. Ja $z^{2}$ nedalītos ar $y$, 
+tad $\frac{z^{2}}{y}$ varētu izteikt kā nesaīsināmu daļu $\frac{m}{n}$. Bet tad
+arī $\frac{m^{3}}{n^{3}}$ būtu nesaīsināma daļa, taču tam jābūt naturālam 
+skaitlim - pretruna. Tāpēc $z^{2}$ dalās ar $y$ un tātad $x^{2} y$ ir naturāla 
+skaitļa kubs.
 
 
 
 # <lo-sample/> LV.VOL.2016.9.2
 
-9.2. Trijstūrī $A B C$ novilkta mediāna $A F$, punkts $D$ ir tās viduspunkts. Taisne $C D$ krusto malu $A B$ punktā $E$. Pierādīt: ja $B D=B F$, tad $A E=D E$ !
+Trijstūrī $ABC$ novilkta mediāna $AF$, punkts $D$ ir tās viduspunkts. Taisne 
+$CD$ krusto malu $AB$ punktā $E$. Pierādīt: ja $BD=BF$, tad $AE=DE$ !
 
 <small>
 
@@ -34,15 +40,26 @@ Skaitlis $x^{2} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{2}}{y}\ri
 
 ## Atrisinājums
 
-Trijstūris $D B F$ ir vienādsānu $(B D=B F$ pēc dotā), tāpēc $\Varangle B D F=\Varangle B F D$ kā leṇki pie pamata malas (skat. 1. att.). Tā kā $A D=D F$ (jo $D$ ir $A F$ viduspunkts), $\Varangle A D B=\Varangle D F C$ (kā vienādu leṇku blakuslenkik) un $B D=F C$, tad $\triangle A D B=\triangle D F C$ pēc pazīmes $m \ell m$. Tātad $\Varangle B A D=\Varangle C D F$ kā atbilstošie leṇki vienādos trijstūros. Tā kā $\Varangle E D A=\Varangle C D F$ kā krustleṇki, tad $\Varangle E A D=\Varangle E D A$ un $\triangle A E D$ ir vienādsānu trijstūris. Līdz ar to $A E=D E$ kā sānu malas vienādsānu trijstūrī.
+Trijstūris $DBF$ ir vienādsānu ($BD=BF$ pēc dotā), tāpēc 
+$\sphericalangle BDF=\sphericalangle BFD$ kā leņķi pie pamata malas (skat. 
+1.att.). Tā kā $AD=DF$ (jo $D$ ir $AF$ viduspunkts), 
+$\sphericalangle ADB=\sphericalangle DFC$ (kā vienādu leņķu blakusleņķi) un 
+$BD=FC$, tad $\triangle ADB=\triangle DFC$ pēc pazīmes $m \ell m$. Tātad 
+$\sphericalangle BAD=\sphericalangle CDF$ kā atbilstošie leņķi vienādos 
+trijstūros. Tā kā $\sphericalangle EDA=\sphericalangle CDF$ kā krustleņķi, tad 
+$\sphericalangle EAD=\sphericalangle EDA$ un $\triangle AED$ ir vienādsānu 
+trijstūris. Līdz ar to $AE=DE$ kā sānu malas vienādsānu trijstūrī.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-1.jpg?height=398&width=495&top_left_y=1206&top_left_x=838)
+![](LV.VOL.2016.9.2A.png)
 
 
 
 # <lo-sample/> LV.VOL.2016.9.3
 
-9.3. Vai tabulā, kuras izmēri ir $4 \times 4$ rūtiṇas, var ierakstīt naturālus skait|us no 1 līdz 16 (katrā rūtiṇā citu) tā, lai katrās divās rūtiṇās, kurām ir kopīga mala, ierakstīto skait!̣u starpība būtu vismaz a) 6; b) 7?
+Vai tabulā, kuras izmēri ir $4 \times 4$ rūtiņas, var ierakstīt naturālus 
+skaitļus no $1$ līdz $16$ (katrā rūtiņā citu) tā, lai katrās divās rūtiņās, 
+kurām ir kopīga mala, ierakstīto skaitļu starpība būtu vismaz **(A)** $6$; 
+**(B)** $7$?
 
 <small>
 
@@ -53,29 +70,44 @@ Trijstūris $D B F$ ir vienādsānu $(B D=B F$ pēc dotā), tāpēc $\Varangle B
 
 ## Atrisinājums
 
-a) Jā, skait|us tabulā var ierakstīt, piemēram, skat. 2. att., kur pelēkā krāsā norādītas skait|u starpības.
+**(A)** Jā, skaitļus tabulā var ierakstīt, piemēram, skat. 2.att., kur pelēkā 
+krāsā norādītas skaitļu starpības.
 
-b) Pamatosim, ka skaitlus tabulā nevar ierakstīt tā, lai izpildās uzdevuma nosacījumi. Skaitlim 8 blakus var atrasties tikai skait!i 1, 15 un 16. Pienemsim, ka 1 neatrodas blakus 8. Tad skaitlim 8 ir tikai divi kaimini, tātad tas atrodas stūrī (skat. 3. att.).
+**(B)** Pamatosim, ka skaitļus tabulā nevar ierakstīt tā, lai izpildās uzdevuma
+nosacījumi. Skaitlim $8$ blakus var atrasties tikai skaitļi $1,\ 15$ un $16$. 
+Pieņemsim, ka $1$ neatrodas blakus $8$. Tad skaitlim $8$ ir tikai divi kaimiņi,
+tātad tas atrodas stūrī (skat. 3.att.).
 
-Skaitlim 7 var atrasties blakus tikai skaitli 14, 15,16, tātad tas noteikti ir blakus skaitlim 15 vai 16 (skat. 3. att.), līdz ar to tas atrodas kādā no vietām $a, b, c$. Tas nevar būt $b$ vietā, jo tur tam būtu četri kaimiṇi. Tas nevar atrasties $a$ vietā, jo tur tam ir trīs kaimini, bet viens no skaitlliem, kas tam varētu būt blakus (skaitlis 16) tam blakus neatrodas. Līdzīgi skaitlis 7 nevar atrasties arī $c$ vietā.
+Skaitlim $7$ var atrasties blakus tikai skaitļi $14,\ 15,\ 16$, tātad tas 
+noteikti ir blakus skaitlim $15$ vai $16$ (skat. 3.att.), līdz ar to tas 
+atrodas kādā no vietām $a,\ b,\ c$. Tas nevar būt $b$ vietā, jo tur tam būtu 
+četri kaimiņi. Tas nevar atrasties $a$ vietā, jo tur tam ir trīs kaimiņi, bet 
+viens no skaitļiem, kas tam varētu būt blakus (skaitlis $16$) tam blakus 
+neatrodas. Līdzīgi skaitlis $7$ nevar atrasties arī $c$ vietā.
 
-Līdz ar to esam ieguvuši, ka skaitḷiem 1 un 8 jābūt blakus. Nezaudējot vispārīgumu, varam pienemt, ka skaitḷi izkārtoti tā, kā parādīts 4. att. Skaitlis $x$ nevar būt 15, jo tad $y$ vietā būtu jāieraksta skaitlis 8 , bet tas jau ir
-ierakstīts tabulā. Tātad $x$ vietā jābūt skaitlim 16, un tad vienīgā iespējamā $y$ vērtība ir 9 . Līdz ar to esam ieguvuši 5. att. parādīto skaitḷu izkārtojumu.
+Līdz ar to esam ieguvuši, ka skaitļiem $1$ un $8$ jābūt blakus. Nezaudējot 
+vispārīgumu, varam pieņemt, ka skaitļi izkārtoti tā, kā parādīts 4.att. 
+Skaitlis $x$ nevar būt $15$, jo tad $y$ vietā būtu jāieraksta skaitlis $8$, bet
+tas jau ir ierakstīts tabulā. Tātad $x$ vietā jābūt skaitlim $16$, un tad 
+vienīgā iespējamā $y$ vērtība ir $9$. Līdz ar to esam ieguvuši 5.att. parādīto 
+skaitļu izkārtojumu.
 
-| 8 | $x$ |
-| :--- | :--- |
-| 1 | $y$ |
-| 4. att. |  |
+![](LV.VOL.2016.9.3A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-2.jpg?height=167&width=141&top_left_y=219&top_left_x=1437)
-
-Ievērojam, ka skaitlim 9 blakus rūtiṇās var būt ierakstīti tikai skaitḷi 1, 2, 16. Tātad skaitlis 8 nav stūrī, jo tad skaitlim 9 būtu četri kaimiṇi. Tieši tāpat stūrī nav arī skaitlis 9 , jo tad skaitlim 8 būtu četri kaimiṇi. Tātad tiem ir vēl pa vienam kaimiṇam. Skaidrs, ka skaitlim 8 vēl ir kaimiṇš 15, bet skaitlim 9 vēl ir kaimiṇš 2. lespējami divi gadījumi, kur attiecībā pret skaitli 8 var būt ierakstīts skaitlis 15 (skat. 6. att. un 7. att.). Neviens no šim gadījumiem nav iespējams, jo $z$ vietā būtu jāieraksta skaitlis 9 , bet $t$ vietā - skaitlis 8 .
+Ievērojam, ka skaitlim $9$ blakus rūtiņās var būt ierakstīti tikai skaitļi 
+$1,\ 2,\ 16$. Tātad skaitlis $8$ nav stūrī, jo tad skaitlim $9$ būtu četri 
+kaimiņi. Tieši tāpat stūrī nav arī skaitlis $9$, jo tad skaitlim $8$ būtu četri
+kaimiņi. Tātad tiem ir vēl pa vienam kaimiņam. Skaidrs, ka skaitlim $8$ vēl ir 
+kaimiņš $15$, bet skaitlim $9$ vēl ir kaimiņš $2$. Iespējami divi gadījumi, kur
+attiecībā pret skaitli $8$ var būt ierakstīts skaitlis $15$ (skat. 6.att. un 
+7.att.). Neviens no šim gadījumiem nav iespējams, jo $z$ vietā būtu jāieraksta 
+skaitlis $9$, bet $t$ vietā - skaitlis $8$.
 
 
 
 # <lo-sample/> LV.VOL.2016.9.4
 
-9.4. Atrast skaitḷa $\frac{2016^{2016}-3}{3}$ mazāko pirmreizinātāju!
+Atrast skaitļa $\frac{2016^{2016}-3}{3}$ mazāko pirmreizinātāju!
 
 <small>
 
@@ -88,29 +120,49 @@ Ievērojam, ka skaitlim 9 blakus rūtiṇās var būt ierakstīti tikai skaitḷ
 
 Apzīmēsim $N=2016^{2016}-3$, tad dotais skaitlis ir $\frac{N}{3}$.
 
-Tā kā $2016^{2016}$ ir pāra skaitlis, tad $N$ ir nepāra un arī dotais skaitlis ir nepāra, tātad tas nedalās ar 2.
+Tā kā $2016^{2016}$ ir pāra skaitlis, tad $N$ ir nepāra un arī dotais skaitlis 
+ir nepāra, tātad tas nedalās ar $2$.
 
-levērojam, ka 2016 dalās ar 9 , tātad $N \equiv 0^{2016}-3 \equiv 0-3 \equiv-3 \equiv 6(\bmod 9)$. Tā kā skaitlis $N$ dalās ar 3 , bet nedalās ar 9, tad dotajam skaitlim nav pirmreizinātājs 3 .
+Ievērojam, ka $2016$ dalās ar $9$, tātad 
+$N \equiv 0^{2016}-3 \equiv 0-3 \equiv-3 \equiv 6(\bmod 9)$. Tā kā skaitlis $N$
+dalās ar $3$, bet nedalās ar $9$, tad dotajam skaitlim nav pirmreizinātājs $3$.
 
-No kongruences $2016 \equiv 1(\bmod 5)$ izriet, ka $N \equiv 1^{2016}-3 \equiv 1+2 \equiv 3(\bmod 5)$, tātad dotais skaitlis nedalās ar 5 .
+No kongruences $2016 \equiv 1(\bmod 5)$ izriet, ka 
+$N \equiv 1^{2016}-3 \equiv 1+2 \equiv 3(\bmod 5)$, tātad dotais skaitlis 
+nedalās ar $5$.
 
-No kongruences $2016 \equiv 0(\bmod 7)$ izriet, ka $N \equiv 0-3 \equiv-3 \equiv 4(\bmod 7)$, tātad dotais skaitlis nedalās ar 7 . levērosim, ka $2016 \equiv 3(\bmod 11)$; tātad $N \equiv 3^{2016}-3(\bmod 11)$. Virkne $3^{n}, n=0,1,2, \ldots$, ir periodiska pēc modula 11; apskatīsim šīs virknes pirmos locekḷus:
+No kongruences $2016 \equiv 0(\bmod 7)$ izriet, ka 
+$N \equiv 0-3 \equiv-3 \equiv 4(\bmod 7)$, tātad dotais skaitlis nedalās ar 
+$7$. Ievērosim, ka $2016 \equiv 3(\bmod 11)$; tātad 
+$N \equiv 3^{2016}-3(\bmod 11)$. Virkne $3^{n}, n=0,1,2, \ldots$, ir periodiska
+pēc moduļa $11$; apskatīsim šīs virknes pirmos locekļus:
 
-| $n$ | 0 | 1 | 2 | 3 | 4 | 5 | $\ldots$ |
+| $n$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ | $\ldots$ |
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| $3^{n}(\bmod 11)$ | $\mathbf{1}$ | 3 | 9 | 5 | 4 | 1 | $\ldots$ |
+| $3^{n}(\bmod 11)$ | $\mathbf{1}$ | $3$ | $9$ | $5$ | $4$ | $\mathbf{1}$ | $\ldots$ |
 
-Tā kā $3^{5} \equiv 3^{0} \equiv 1(\bmod 11)$, tad secinām, ka $3^{2016} \equiv 3^{403 \cdot 5+1} \equiv\left(3^{5}\right)^{403} \cdot 3^{1} \equiv 1^{403} \cdot 3 \equiv 3(\bmod 11)$.
+Tā kā $3^{5} \equiv 3^{0} \equiv 1(\bmod 11)$, tad secinām, ka 
+$3^{2016} \equiv 3^{403 \cdot 5+1} \equiv\left(3^{5}\right)^{403} \cdot 3^{1} \equiv 1^{403} \cdot 3 \equiv 3(\bmod 11)$.
 
-Līdz ar to $N \equiv 3^{2016}-3 \equiv 0(\bmod 11)$, tātad gan $N$, gan $\frac{N}{3}$ dalās ar 11. Tātad dotā skaitḷa mazākais pirmreizinātājs ir 11.
+Līdz ar to $N \equiv 3^{2016}-3 \equiv 0(\bmod 11)$, tātad gan $N$, gan 
+$\frac{N}{3}$ dalās ar $11$. Tātad dotā skaitļa mazākais pirmreizinātājs ir 
+$11$.
 
 
 
 # <lo-sample/> LV.VOL.2016.9.5
 
-9.5. Naturālu skait|u virkni $\left(s_{i}\right)$ pēc parauga ,2016" veido šādi: virknes pirmais loceklis $s_{1}$ ir 2 ; virknes otrais loceklis $s_{2}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{1}$ un tā pierakstā ir cipars 0 ; virknes trešais loceklis $s_{3}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{2}$ un tā pierakstā ir cipars 1; virknes ceturtais loceklis $s_{4}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{3}$ un tā pierakstā ir cipars 6. Pēc tam meklētie cipari cikliski atkārtojas: 2-0-1-6-2-0-... . Virknes pirmie locekli ir $2 ; 10 ; 11 ; 16 ; 20 ; 30 ; 31 ; 36 ; 42 ; 50$.
+Naturālu skaitļu virkni $\left(s_{i}\right)$ pēc parauga "2016" veido šādi: 
+virknes pirmais loceklis $s_{1}$ ir $2$; virknes otrais loceklis $s_{2}$ - 
+mazākais naturālais skaitlis, kas lielāks nekā $s_{1}$ un tā pierakstā ir 
+cipars $0$; virknes trešais loceklis $s_{3}$ - mazākais naturālais skaitlis, 
+kas lielāks nekā $s_{2}$ un tā pierakstā ir cipars $1$; virknes ceturtais 
+loceklis $s_{4}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{3}$ un tā
+pierakstā ir cipars $6$. Pēc tam meklētie cipari cikliski atkārtojas: 
+$2-0-1-6-2-0-\ldots$. Virknes pirmie locekļi ir 
+$2;\ 10;\ 11;\ 16;\ 20;\ 30;\ 31;\ 36;\ 42;\ 50$.
 
-Kādi ir četri nākamie skaitli, kas virknē seko aiz skaitla 2016?
+Kādi ir četri nākamie skaitļi, kas virknē seko aiz skaitļa $2016$?
 
 <small>
 
@@ -121,24 +173,43 @@ Kādi ir četri nākamie skaitli, kas virknē seko aiz skaitla 2016?
 
 ## Atrisinājums
 
-Pavisam ir četru veidu gājieni: „2 $\rightarrow 0$ ” (skaitlis satur 2 un meklējam nākamo skaitli, kas satur 0), „0 $01^{\prime \prime}$, $„ 1 \rightarrow 6^{\prime \prime}$ un „6 6 2". Turklāt šie gājieni cikliski atkārtojas tieši šādā secībā.
+Pavisam ir četru veidu *gājieni*: " $2 \rightarrow 0$ " (skaitlis satur $2$ un 
+meklējam nākamo skaitli, kas satur $0$), " $0 \rightarrow 1$ ", 
+" $1 \rightarrow 6$ " un " $6 \rightarrow 2$ ". Turklāt šie *gājieni* cikliski 
+atkārtojas tieši šādā secībā.
 
-Lai noskaidrotu, kuri nākamie skaitḷi seko virknē pēc skaitḷa 2016, nepieciešams uzzināt, pēc kāda gājiena tika sasniegts skaitlis 2016.
+Lai noskaidrotu, kuri nākamie skaitļi seko virknē pēc skaitļa $2016$, 
+nepieciešams uzzināt, pēc kāda *gājiena* tika sasniegts skaitlis $2016$.
 
 Aplūkosim iespējamos gadījumus.
 
-a) Skaitli 2016 nevar iegūt pēc gājiena „6 6 2”, jo iepriekšējais virknes loceklis būtu 2006, bet nākamais skaitlis, kas ir lielāks nekā 2006 un satur ciparu 2, ir 2007.
+**(A)** Skaitli $2016$ nevar iegūt pēc *gājiena* " $6 \rightarrow 2$ ", jo 
+iepriekšējais virknes loceklis būtu $2006$, bet nākamais skaitlis, kas ir 
+lielāks nekā $2006$ un satur ciparu $2$, ir $2007$.
 
-b) Skaitli 2016 nevar iegūt pēc gājiena „ $2 \rightarrow 0$ ”, jo iepriekšējam virknes loceklim tad būtu jābūt 2015, bet pirms tā izdarītajam gājienam jābūt „6 $62^{\prime \prime}$, kas noved pie tās pašas pretrunas kā a) gadījumā.
-c) Skaitli 2016 nevar iegūt pēc gājiena „0 0 1”, jo iepriekšējam virknes loceklim būtu jābūt 2015, bet pirms tā izdarītajam gājienam jābūt „2 $\rightarrow$ "” un skaitlim 2014. Savukārt, pirms skait|̣a 2014 izdarītajam gājienam jābūt „6 6 2" un iegūstam līdzīgu pretrunu kā a) gadījumā.
+**(B)** Skaitli $2016$ nevar iegūt pēc *gājiena* " $2 \rightarrow 0$ ", jo 
+iepriekšējam virknes loceklim tad būtu jābūt $2015$, bet pirms tā izdarītajam 
+*gājienam* jābūt " $6 \rightarrow 2$ ", kas noved pie tās pašas pretrunas kā 
+(A) gadījumā.
 
-d) Tātad skaitli 2016 iegūst pēc gājiena „1 $1 \rightarrow$ ”, un nākamie skaitli virknē pēc gājieniem „ $6 \rightarrow 2^{\prime \prime}$, " $2 \rightarrow 0$ "," $0 \rightarrow 1$ " un " $1 \rightarrow 6$ " ir skait!i 2017, 2018, 2019 un 2026.
+**(C)** Skaitli $2016$ nevar iegūt pēc *gājiena* " $0 \rightarrow 1$ ", jo 
+iepriekšējam virknes loceklim būtu jābūt $2015$, bet pirms tā izdarītajam 
+*gājienam* jābūt " $2 \rightarrow 0$ " un skaitlim $2014$. Savukārt, pirms 
+skaitļa $2014$ izdarītajam *gājienam* jābūt " $6 \rightarrow 2$ " un iegūstam 
+līdzīgu pretrunu kā (A) gadījumā.
+
+**(D)** Tātad skaitli $2016$ iegūst pēc *gājiena* " $1 \rightarrow 6$ ", un 
+nākamie skaitļi virknē pēc *gājieniem* " $6 \rightarrow 2$ ", 
+" $2 \rightarrow 0$ ", " $0 \rightarrow 1$ " un " $1 \rightarrow 6$ " ir 
+skaitļi $2017,\ 2018,\ 2019$ un $2026$.
 
 
 
 # <lo-sample/> LV.VOL.2016.10.1
 
-10.1. Zināms, ka $x$ un $y$ ir tādi naturāli skaitḷi, ka $x y^{10}$ ir naturāla skaitla 33. pakāpe. Pierādīt, ka arī $x^{10} y$ ir naturāla skaitla 33. pakāpe!
+Zināms, ka $x$ un $y$ ir tādi naturāli skaitļi, ka $x y^{10}$ ir naturāla 
+skaitļa $33.$ pakāpe. Pierādīt, ka arī $x^{10} y$ ir naturāla skaitļa $33.$ 
+pakāpe!
 
 <small>
 
@@ -149,19 +220,25 @@ d) Tātad skaitli 2016 iegūst pēc gājiena „1 $1 \rightarrow$ ”, un nākam
 
 ## Atrisinājums
 
-Apzīmējam $x y^{10}=z^{33}$, kur $z$ - naturāls skaitlis. Kāpinot abas puses 10. pakāpē, iegūstam $x^{10} y^{100}=z^{330}$. Izsakām
+Apzīmējam $xy^{10}=z^{33}$, kur $z$ - naturāls skaitlis. Kāpinot abas puses 
+$10.$ pakāpē, iegūstam $x^{10}y^{100}=z^{330}$. Izsakām
 
-$$
-x^{10} y=\frac{z^{330}}{y^{99}}=\left(\frac{z^{10}}{y^{3}}\right)^{33}
-$$
+$$x^{10} y=\frac{z^{330}}{y^{99}}=\left(\frac{z^{10}}{y^{3}}\right)^{33}$$
 
-Skaitlis $x^{10} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{10}}{y^{3}}\right)^{33}$ ir naturāls. Ja $z^{10}$ nedalītos ar $y^{3}$, tad $\frac{z^{10}}{y^{3}}$ varētu izteikt kā nesaīsināmu daḷu $\frac{m}{n}$. Bet tad arī $\frac{m^{33}}{n^{33}}$ būtu nesaīsināma daḷa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{10}$ dalās ar $y^{3}$ un tātad arī $x^{10} y$ ir naturāla skaitla 33. pakāpe.
+Skaitlis $x^{10}y$ ir naturāls skaitlis, tāpēc arī 
+$\left(\frac{z^{10}}{y^{3}}\right)^{33}$ ir naturāls. Ja $z^{10}$ nedalītos ar 
+$y^{3}$, tad $\frac{z^{10}}{y^{3}}$ varētu izteikt kā nesaīsināmu daļu 
+$\frac{m}{n}$. Bet tad arī $\frac{m^{33}}{n^{33}}$ būtu nesaīsināma daļa, taču 
+tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{10}$ dalās ar $y^{3}$ un 
+tātad arī $x^{10}y$ ir naturāla skaitļa $33.$ pakāpe.
 
 
 
 # <lo-sample/> LV.VOL.2016.10.2
 
-10.2. Trijstūra $A B C$ leṇku $\Varangle C A B$ un $\Varangle B C A$ bisektrises krusto tam apvilkto rinka līniju attiecīgi punktos $P$ un $Q$, bet pašas krustojas punktā $I$. Pierādīt, ka $P Q \perp B I$ !
+Trijstūra $ABC$ leņķu $\sphericalangle CAB$ un $\sphericalangle BCA$ 
+bisektrises krusto tam apvilkto riņķa līniju attiecīgi punktos $P$ un $Q$, bet 
+pašas krustojas punktā $I$. Pierādīt, ka $PQ \perp BI$ !
 
 <small>
 
@@ -172,25 +249,33 @@ Skaitlis $x^{10} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{10}}{y^{
 
 ## Atrisinājums
 
-Apzīmējam $\Varangle B A P=\Varangle P A C=\alpha$ un $\Varangle B C Q=\Varangle Q C A=\beta$ (skat. 8. att.). levilktie leṇki, kas balstās uz viena un tā paša loka, ir vienādi, tāpēc
+Apzīmējam $\sphericalangle BAP=\sphericalangle PAC=\alpha$ un 
+$\sphericalangle BCQ=\sphericalangle QCA=\beta$ (skat. 8.att.). Ievilktie 
+leņķi, kas balstās uz viena un tā paša loka, ir vienādi, tāpēc
 
-○ $\Varangle B Q P=\Varangle B A P=\alpha$ (balstās uz loka $B P$ );
+- $\sphericalangle BQP=\sphericalangle BAP=\alpha$ (balstās uz loka $BP$);
 
-○ $\Varangle P Q C=\Varangle P A C=\alpha$ (balstās uz loka $P C$ );
+- $\sphericalangle PQC=\sphericalangle PAC=\alpha$ (balstās uz loka $PC$);
 
-- $\Varangle B P Q=\Varangle B C Q=\beta$ (balstās uz loka $B Q$ );
+- $\sphericalangle BPQ=\sphericalangle BCQ=\beta$ (balstās uz loka $BQ$);
 
-○ $\Varangle Q P A=\Varangle Q C A=\beta$ (balstās uz loka $Q A$ ).
+- $\sphericalangle QPA=\sphericalangle QCA=\beta$ (balstās uz loka $QA$).
 
-Līdz ar to $\triangle Q I P=\triangle Q B P$ pēc pazīmes $\ell m \ell$, jo $\Varangle I Q P=\Varangle B Q P=\alpha, P Q$ ir kopīga mala un $\Varangle I P Q=\Varangle B P Q=\beta$. Tāpēc $P I=P B$ kā atbilstošās malas vienādos trijstūros un $\triangle B P I$ ir vienādsānu trijstūris ar pamatu $B I$. Tā kā $P Q$ ir bisektrise, kas vilkta no virsotnes lenka, tad $P Q$ ir arī augstums pret $B I$ un līdz ar to $P Q \perp B I$.
+Līdz ar to $\triangle QIP=\triangle QBP$ pēc pazīmes $\ell m \ell$, jo 
+$\sphericalangle IQP=\sphericalangle BQP=\alpha, PQ$ ir kopīga mala un 
+$\sphericalangle IPQ=\sphericalangle BPQ=\beta$. Tāpēc $PI=PB$ kā atbilstošās 
+malas vienādos trijstūros un $\triangle BPI$ ir vienādsānu trijstūris ar pamatu
+$BI$. Tā kā $PQ$ ir bisektrise, kas vilkta no virsotnes leņķa, tad $PQ$ ir arī 
+augstums pret $BI$ un līdz ar to $PQ \perp BI$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-3.jpg?height=458&width=418&top_left_y=1653&top_left_x=819)
+![](LV.VOL.2016.10.2A.png)
 
 
 
 # <lo-sample/> LV.VOL.2016.10.3
 
-10.3. Doti tādi reāli skait|li $x, y$ un $z$, ka $x+y+z=3$. Pierādīt, ka $x y+x z+y z \leq 3$.
+Doti tādi reāli skaitļi $x,\ y$ un $z$, ka $x+y+z=3$. Pierādīt, ka 
+$xy+xz+yz \leq 3$.
 
 <small>
 
@@ -201,33 +286,34 @@ Līdz ar to $\triangle Q I P=\triangle Q B P$ pēc pazīmes $\ell m \ell$, jo $\
 
 ## Atrisinājums
 
-Dotās vienādības abas puses kāpinot kvadrātā un pēc tam reizinot ar 2, iegūstam:
+Dotās vienādības abas puses kāpinot kvadrātā un pēc tam reizinot ar $2$, 
+iegūstam:
 
-$$
-\begin{gathered}
-x^{2}+y^{2}+z^{2}+2 x y+2 x z+2 y z=9 \\
-2 x^{2}+2 y^{2}+2 z^{2}+4 x y+4 x z+4 y z=18
-\end{gathered}
-$$
+$$\begin{gathered}
+x^{2}+y^{2}+z^{2}+2xy+2xz+2yz=9 \\
+2x^{2}+2y^{2}+2z^{2}+4xy+4xz+4yz=18
+\end{gathered}$$
 
-Pieskaitot un atṇemot vienādības kreisai pusei vienu un to pašu izteiksmi un pēc tam izmantojot starpības kvadrāta formulu, iegūstam:
+Pieskaitot un atņemot vienādības kreisai pusei vienu un to pašu izteiksmi un 
+pēc tam izmantojot starpības kvadrāta formulu, iegūstam:
 
-$$
-\begin{gathered}
-x^{2}-2 x y+y^{2}+x^{2}-2 x z+z^{2}+y^{2}-2 y z+z^{2}+6 x y+6 x z+6 y z=18 \\
-(x-y)^{2}+(x-z)^{2}+(y-z)^{2}+6 x y+6 x z+6 y z=18
-\end{gathered}
-$$
+$$\begin{gathered}
+x^{2}-2xy+y^{2}+x^{2}-2xz+z^{2}+y^{2}-2yz+z^{2}+6xy+6xz+6yz=18 \\
+(x-y)^{2}+(x-z)^{2}+(y-z)^{2}+6xy+6xz+6yz=18
+\end{gathered}$$
 
-Tā kā $(x-y)^{2}+(x-z)^{2}+(y-z)^{2} \geq 0$, tad $6 x y+6 x z+6 y z \leq 18$ jeb $x y+x z+y z \leq 3$.
+Tā kā $(x-y)^{2}+(x-z)^{2}+(y-z)^{2} \geq 0$, tad $6xy+6xz+6yz \leq 18$ jeb 
+$xy+xz+yz \leq 3$.
 
 
 
 # <lo-sample/> LV.VOL.2016.10.4
 
-10.4. Pitagora trijstūrī visu malu garumi ir lielāki nekā 5. Vai var gadīties, ka tā a) trīs malu, b) divu malu garumi ir pirmskaitli?
+Pitagora trijstūrī visu malu garumi ir lielāki nekā $5$. Vai var gadīties, ka 
+tā **(A)** trīs malu, **(B)** divu malu garumi ir pirmskaitļi?
 
-Piezīme. Pitagora trijstūris ir taisnleṇka trijstūris, kam visi malu garumi ir naturāli skaitli.
+*Piezīme.* Pitagora trijstūris ir taisnleņka trijstūris, kam visi malu garumi 
+ir naturāli skaitļi.
 
 <small>
 
@@ -238,20 +324,39 @@ Piezīme. Pitagora trijstūris ir taisnleṇka trijstūris, kam visi malu garumi
 
 ## Atrisinājums
 
-a) Nē, trīs malu garumi nevar būt pirmskaitli. Taisnleṇka trijstūrī malu garumus $a, b$ un $c$ saista Pitagora teorēma $a^{2}+b^{2}=c^{2}$. Tā kā visu malu garumiem jābūt pirmskaitlliem, kas lielāki nekā 5, tad visu malu garumi ir nepāra skaitli, tātad arī $a^{2}$ un $b^{2}$ ir nepāra skaitli, bet divu nepāra skaitlu summa ir pāra skaitlis - pretruna ar to, ka $c^{2}$ ir nepāra skaitlis.
+**(A)** Nē, trīs malu garumi nevar būt pirmskaitļi. Taisnleņka trijstūrī malu 
+garumus $a,\ b$ un $c$ saista Pitagora teorēma $a^{2}+b^{2}=c^{2}$. Tā kā visu 
+malu garumiem jābūt pirmskaitļiem, kas lielāki nekā $5$, tad visu malu garumi 
+ir nepāra skaitļi, tātad arī $a^{2}$ un $b^{2}$ ir nepāra skaitļi, bet divu 
+nepāra skaitļu summa ir pāra skaitlis - pretruna ar to, ka $c^{2}$ ir nepāra 
+skaitlis.
 
-b) Jā, divu malu garumi var būt pirmskaitli. Piemēram, der malu garumi 11, 60, 61, jo divi no tiem ir pirmskaitli un tiem izpildās Pitagora teorēmas nosacijums, tas ir, $11^{2}+60^{2}=61^{2}$ jeb $121+3600=3721$.
+**(B)** Jā, divu malu garumi var būt pirmskaitļi. Piemēram, der malu garumi 
+$11,\ 60,\ 61$, jo divi no tiem ir pirmskaitļi un tiem izpildās Pitagora 
+teorēmas nosacījums, tas ir, $11^{2}+60^{2}=61^{2}$ jeb $121+3600=3721$.
 
-Piezīmes
+*Piezīmes*
 
-1) Vērtības b) gadījumā var atrast, ja zina sakarību, ka katram Pitagora skait|u trijniekam $a, b$ un $c$ eksistē tādas naturālas $n$ un $m$ vērtības $(n>m)$, ka $a=n^{2}-m^{2}, b=2 n m, c=n^{2}+m^{2}$. Skaitlis $b$ nav pirmskaitlis, jo ir pāra skaitlis, kas ir lielāks nekā 5 (pēc dotā). Tātad vienlaikus pirmskaitḷi ir $n^{2}-m^{2}$ un $n^{2}+m^{2}$. Lai skaitlis $n^{2}-m^{2}=(n-m)(n+m)$ būtu pirmskaitlis, reizinātājam $n-m$ jābūt vienādam ar 1 jeb $n=m+1$ un pirmskaitliem jābūt formā $2 m+1$ un $2 m^{2}+2 m+1$. Pārbaudot nelielas $m$ ( $m>2$ pēc dotā) vērtības, pie $m=5$ atrod minēto skait|u trijnieku 11, 60, 61 .
-2) To, ka a) gadīumā viens no skaitl|iem ir pāra, var secināt no skaitḷa $b$ izteiksmes.
+1) Vērtības (B) gadījumā var atrast, ja zina sakarību, ka katram Pitagora 
+   skaitļu trijniekam $a,\ b$ un $c$ eksistē tādas naturālas $n$ un $m$ 
+   vērtības $(n>m)$, ka $a=n^{2}-m^{2},\ b=2nm,\ c=n^{2}+m^{2}$. Skaitlis $b$ 
+   nav pirmskaitlis, jo ir pāra skaitlis, kas ir lielāks nekā $5$ (pēc dotā). 
+   Tātad vienlaikus pirmskaitļi ir $n^{2}-m^{2}$ un $n^{2}+m^{2}$. Lai skaitlis
+   $n^{2}-m^{2}=(n-m)(n+m)$ būtu pirmskaitlis, reizinātājam $n-m$ jābūt 
+   vienādam ar $1$ jeb $n=m+1$ un pirmskaitļiem jābūt formā $2m+1$ un 
+   $2m^{2}+2m+1$. Pārbaudot nelielas $m$ ($m>2$ pēc dotā) vērtības, pie $m=5$ 
+   atrod minēto skaitļu trijnieku $11,\ 60,\ 61$.
+2) To, ka (A) gadījumā viens no skaitļiem ir pāra, var secināt no skaitļa $b$ 
+   izteiksmes.
 
 
 
 # <lo-sample/> LV.VOL.2016.10.5
 
-10.5. Regulāra 2016-stūra visas virsotnes sākotnēji ir baltas. Kādu mazāko skaitu no tām var nokrāsot melnā krāsā tā, lai nepaliktu neviens a) taisnleṇka, b) šaurleṇku trijstūris, kuram visas virsotnes atrodas 2016-stūra baltajās virsotnēs?
+Regulāra $2016$ - stūra visas virsotnes sākotnēji ir baltas. Kādu mazāko skaitu
+no tām var nokrāsot melnā krāsā tā, lai nepaliktu neviens **(A)** taisnleņķa, 
+**(B)** šaurleņķu trijstūris, kuram visas virsotnes atrodas $2016$ - stūra 
+baltajās virsotnēs?
 
 <small>
 
@@ -262,27 +367,43 @@ Piezīmes
 
 ## Atrisinājums
 
-a) Visas regulāra 2016-stūra virsotnes atrodas uz vienas riṇka līnijas. levilkts leṇkis ir taisns tikai tādā gadījumā, ja tas balstās uz diametra. Tātad, ja kāda diametra abi galapunkti būtu balti, tad visi pārējie punkti būtu jānokrāso melni, jo diametra galapunkti ar jebkuru trešo punktu veido taisnlenkka trijstūri. Līdz ar to katra diametra vismaz viens galapunkts ir jānokrāso melns. Tātad melnas jānokrāso vismaz $\frac{2016}{2}=1008$ regulārā 2016-stūra virsotnes. Ja katra diametra vienu galapunktu nokrāso melnu, tad nepaliek neviens taisnleṇka trijstūris, kuram visas virsotnes ir baltas. Tātad mazākais punktu skaits, kas jānokrāso melni, ir 1008.
+**(A)** Visas regulāra $2016$ - stūra virsotnes atrodas uz vienas riņķa 
+līnijas. Ievilkts leņķis ir taisns tikai tādā gadījumā, ja tas balstās uz 
+diametra. Tātad, ja kāda diametra abi galapunkti būtu balti, tad visi pārējie 
+punkti būtu jānokrāso melni, jo diametra galapunkti ar jebkuru trešo punktu 
+veido taisnleņķa trijstūri. Līdz ar to katra diametra vismaz viens galapunkts 
+ir jānokrāso melns. Tātad melnas jānokrāso vismaz $\frac{2016}{2}=1008$ 
+regulārā $2016$ - stūra virsotnes. Ja katra diametra vienu galapunktu nokrāso 
+melnu, tad nepaliek neviens taisnleņķa trijstūris, kuram visas virsotnes ir 
+baltas. Tātad mazākais punktu skaits, kas jānokrāso melni, ir $1008$.
 
-b) Ja melnas nokrāso 1007 pēc kārtas esošas virsotnes, tad no atlikušajām 1009 virsotnēm var izveidot tikai taisnleṇka vai platleṇka trijstūrus, jo katra trijstūra viens leṇkis balstās uz loka, kura lielums ir vismaz $90^{\circ}$ (skat. 9. att.).
+**(B)** Ja melnas nokrāso $1007$ pēc kārtas esošas virsotnes, tad no 
+atlikušajām $1009$ virsotnēm var izveidot tikai taisnleņķa vai platleņķa 
+trijstūrus, jo katra trijstūra viens leņķis balstās uz loka, kura lielums ir 
+vismaz $90^{\circ}$ (skat. 9.att.).
 
-Pierādīsim, ka mazāk virsotnes nevar nokrāsot, lai izpildītos uzdevuma nosacījumi.
+Pierādīsim, ka mazāk virsotnes nevar nokrāsot, lai izpildītos uzdevuma 
+nosacījumi.
 
-Pieṇemsim, ka melnas nokrāsotas ne vairāk kā 1006 virsotnes, tad baltas ir palikušas vismaz 1010 virsotnes. Tā kā ir tieši 1008 diametri, kuriem abi galapunkti atrodas regulārā 2016-stūra virsotnēs, tad būs vismaz divi diametri kuriem abi galapunkti ir balti (Dirihlē princips). Šos diametrus apzīmējam ar $A B$ un $C D$ (skat. 10. att.). Izvēlamies kādu punktu $E$, kurš ir balts (nezaudējot vispārīgumu, varam pieṇemt, ka tas atrodas uz loka $A C$ ), bet tad trijstūris $B D E$ ir šaurleṇku, jo visi trīs loki $E B, B D, D E$ ir mazāki nekā $180^{\circ}$, tātad trijstūra leṇki ir mazāki nekā $90^{\circ}$, jo tie ir ievilktie leṇki, kas balstās uz šiem lokiem.
+Pieņemsim, ka melnas nokrāsotas ne vairāk kā $1006$ virsotnes, tad baltas ir 
+palikušas vismaz $1010$ virsotnes. Tā kā ir tieši $1008$ diametri, kuriem abi 
+galapunkti atrodas regulārā $2016$ - stūra virsotnēs, tad būs vismaz divi 
+diametri kuriem abi galapunkti ir balti (Dirihlē princips). Šos diametrus 
+apzīmējam ar $AB$ un $CD$ (skat. 10.att.). Izvēlamies kādu punktu $E$, kurš ir 
+balts (nezaudējot vispārīgumu, varam pieņemt, ka tas atrodas uz loka $AC$), bet
+tad trijstūris $BDE$ ir šaurleņķu, jo visi trīs loki $EB,\ BD,\ DE$ ir mazāki 
+nekā $180^{\circ}$, tātad trijstūra leņķi ir mazāki nekā $90^{\circ}$, jo tie 
+ir ievilktie leņķi, kas balstās uz šiem lokiem.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-4.jpg?height=318&width=307&top_left_y=2097&top_left_x=446)
-
-9. att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-4.jpg?height=316&width=372&top_left_y=2095&top_left_x=1387)
-
-10. att.
+![](LV.VOL.2016.10.5A.png)
 
 
 
 # <lo-sample/> LV.VOL.2016.11.1
 
-11.1. Zināms, ka $x$ un $y$ ir tādi naturāli skaitli, ka $x y^{433}$ ir naturāla skaitla 2016. pakāpe. Pierādīt, ka arī $x^{433} y$ ir naturāla skait|a 2016. pakāpe!
+Zināms, ka $x$ un $y$ ir tādi naturāli skaitļi, ka $xy^{433}$ ir naturāla 
+skaitļa $2016.$ pakāpe. Pierādīt, ka arī $x^{433}y$ ir naturāla skaitļa $2016.$
+pakāpe!
 
 <small>
 
@@ -293,19 +414,27 @@ Pieṇemsim, ka melnas nokrāsotas ne vairāk kā 1006 virsotnes, tad baltas ir 
 
 ## Atrisinājums
 
-Apzīmējam $x y^{433}=z^{2016}$, kur $z-$ naturāls skaitlis. Kāpinot abas puses 433. pakāpē, iegūstam $x^{433} y^{433 \cdot 433}=z^{2016 \cdot 433}$. Izsakām
+Apzīmējam $xy^{433}=z^{2016}$, kur $z$ - naturāls skaitlis. Kāpinot abas puses 
+$433.$ pakāpē, iegūstam $x^{433}y^{433 \cdot 433}=z^{2016 \cdot 433}$. Izsakām
 
-$$
-x^{433} y=\frac{z^{2016 \cdot 433}}{y^{433 \cdot 433-1}}=\left(\frac{z^{433}}{y^{93}}\right)^{2016}
-$$
+$$x^{433} y=\frac{z^{2016 \cdot 433}}{y^{433 \cdot 433-1}}=\left(\frac{z^{433}}{y^{93}}\right)^{2016}$$
 
-Skaitlis $x^{433} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{433}}{y^{93}}\right)^{2016}$ ir naturāls. Ja $z^{433}$ nedalītos ar $y^{93}$, tad $\frac{z^{433}}{y^{93}}$ varētu izteikt kā nesaīsināmu daḷu $\frac{m}{n}$. Bet tad arī $\frac{m^{2016}}{n^{2016}}$ būtu nesaīsināma daḷa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{433}$ dalās ar $y^{93}$ un tātad arī $x^{433} y$ ir naturāla skaitḷa 2016. pakāpe.
+Skaitlis $x^{433}y$ ir naturāls skaitlis, tāpēc arī 
+$\left(\frac{z^{433}}{y^{93}}\right)^{2016}$ ir naturāls. Ja $z^{433}$ 
+nedalītos ar $y^{93}$, tad $\frac{z^{433}}{y^{93}}$ varētu izteikt kā 
+nesaīsināmu daļu $\frac{m}{n}$. Bet tad arī $\frac{m^{2016}}{n^{2016}}$ būtu 
+nesaīsināma daļa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{433}$
+dalās ar $y^{93}$ un tātad arī $x^{433}y$ ir naturāla skaitļa $2016.$ pakāpe.
 
 
 
 # <lo-sample/> LV.VOL.2016.11.2
 
-11.2. Šaurleṇku trijstūrim $A B C(A B>A C)$ apvilktās rinka līnijas centrs ir $O$ un punkts $D$ ir malas $B C$ viduspunkts. Riṇka līnija ar diametru $A D$ krusto malas $A B$ un $A C$ attiecīgi punktos $E$ un $F$. Uz nogriežṇa $E F$ atlikts punkts $M$ tā, ka $D M \| A O$. Pierādīt, ka trijstūri $A B D$ un $F D M$ ir līdzīgi!
+Šaurleņķu trijstūrim $ABC(AB>AC)$ apvilktās riņķa līnijas centrs ir $O$ un 
+punkts $D$ ir malas $BC$ viduspunkts. Riņķa līnija ar diametru $AD$ krusto 
+malas $AB$ un $AC$ attiecīgi punktos $E$ un $F$. Uz nogriežņa $EF$ atlikts 
+punkts $M$ tā, ka $DM \parallel AO$. Pierādīt, ka trijstūri $ABD$ un $FDM$ ir 
+līdzīgi!
 
 <small>
 
@@ -316,25 +445,38 @@ Skaitlis $x^{433} y$ ir naturāls skaitlis, tāpēc arī $\left(\frac{z^{433}}{y
 
 ## Atrisinājums
 
-Apzīmējam $\Varangle B A C=\alpha, \Varangle A B C=\beta$ un $\Varangle B C A=\gamma$.
+Apzīmējam $\sphericalangle BAC=\alpha, \sphericalangle ABC=\beta$ un 
+$\sphericalangle BCA=\gamma$.
 
-levērojam, ka $\Varangle E A D=\Varangle E F D$ kā ievilktie leṇki, kas balstās uz viena un tā paša loka (skat. 11. att.).
+Ievērojam, ka $\sphericalangle EAD=\sphericalangle EFD$ kā ievilktie leņķi, kas
+balstās uz viena un tā paša loka (skat. 11.att.).
 
-Tā kā $\quad \Varangle B O A=2 \Varangle B C A$ un $\triangle B O A$ ir vienādsānu $(A O=O B)$, tad iegūstam $\Varangle O A B=\frac{1}{2}\left(180^{\circ}-\Varangle B O A\right)=90^{\circ}-\Varangle B C A=90^{\circ}-\gamma$. Tā kā $A D$ ir rinka līnijas diametrs, tad $\Varangle A F D=90^{\circ}$. No trijstūra $D F C$ iegūstam, ka $\Varangle F D C=90^{\circ}-\gamma$. Tā kā $\Varangle A D C$ ir trijstūra $A B D$ ārējais leṇkis, tad $\Varangle A D C=\Varangle D A B+\Varangle D B A . \quad$ levērojam, ka $\quad \Varangle A D C=\Varangle A D M+\Varangle M D F+\Varangle F D C \quad$ un $\Varangle D A B+\Varangle D B A=\Varangle D A O+\Varangle O A B+\beta$. Tā kā $\Varangle A D M=\Varangle D A O$ (kā iekšējie škērsleṇki pie paralēlām taisnēm $D M$ un $A O)$ un $\Varangle F D C=\Varangle O A B=90^{\circ}-\gamma$, tad $\Varangle M D F=\beta$. Tātad $\Varangle A B D=\Varangle M D F$.
+Tā kā $\sphericalangle BOA=2 \sphericalangle BCA$ un $\triangle BOA$ ir 
+vienādsānu $(AO=OB)$, tad iegūstam 
+$\sphericalangle OAB=\frac{1}{2}\left(180^{\circ}-\sphericalangle BOA\right)=90^{\circ}-\sphericalangle BCA=90^{\circ}-\gamma$.
+Tā kā $AD$ ir riņķa līnijas diametrs, tad $\sphericalangle AFD=90^{\circ}$. No 
+trijstūra $DFC$ iegūstam, ka $\sphericalangle FDC=90^{\circ}-\gamma$. Tā kā 
+$\sphericalangle ADC$ ir trijstūra $ABD$ ārējais leņķis, tad 
+$\sphericalangle ADC=\sphericalangle DAB+\sphericalangle DBA.$ Ievērojam, ka 
+$\sphericalangle ADC=\sphericalangle ADM+\sphericalangle MDF+\sphericalangle FDC$ un
+$\sphericalangle DAB+\sphericalangle DBA=\sphericalangle DAO+\sphericalangle OAB+\beta$.
+Tā kā $\sphericalangle ADM=\sphericalangle DAO$ (kā iekšējie škērsleņķi pie 
+paralēlām taisnēm $DM$ un $AO$) un 
+$\sphericalangle FDC=\sphericalangle OAB=90^{\circ}-\gamma$, tad 
+$\sphericalangle MDF=\beta$. Tātad $\sphericalangle ABD=\sphericalangle MDF$.
 
-Līdz ar to $\triangle A B D \sim \triangle F D M$ pēc pazīmes $\ell \ell$.
+Līdz ar to $\triangle ABD \sim \triangle FDM$ pēc pazīmes $\ell \ell$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-5.jpg?height=475&width=446&top_left_y=1396&top_left_x=862)
+![](LV.VOL.2016.11.2A.png)
 
 
 
 # <lo-sample/> LV.VOL.2016.11.3
 
-11.3. Pierādīt, ka katram naturālam skaitlim $n(n>1)$ var atrast tādus naturālus skaitlus $x$ un $y(x \leq y)$, ka
+Pierādīt, ka katram naturālam skaitlim $n(n>1)$ var atrast tādus naturālus 
+skaitļus $x$ un $y(x \leq y)$, ka
 
-$$
-\frac{1}{n}=\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots+\frac{1}{y(y+1)}
-$$
+$$\frac{1}{n}=\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots+\frac{1}{y(y+1)}$$
 
 <small>
 
@@ -345,29 +487,37 @@ $$
 
 ## Atrisinājums
 
-Izmantojot vienādību $\frac{1}{k(k+1)}=\frac{1}{k}-\frac{1}{k+1}$, pārrakstām dotās vienādības labās puses izteiksmi
+Izmantojot vienādību $\frac{1}{k(k+1)}=\frac{1}{k}-\frac{1}{k+1}$, pārrakstām 
+dotās vienādības labās puses izteiksmi
 
-$$
-\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots+\frac{1}{y(y+1)}=\frac{1}{x}-\frac{1}{x+1}+\frac{1}{x+1}-\frac{1}{x+2}+\cdots+\frac{1}{y}-\frac{1}{y+1}=\frac{1}{x}-\frac{1}{y+1}
-$$
+$$\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots+\frac{1}{y(y+1)}=\frac{1}{x}-\frac{1}{x+1}+\frac{1}{x+1}-\frac{1}{x+2}+\cdots+\frac{1}{y}-\frac{1}{y+1}=\frac{1}{x}-\frac{1}{y+1}$$
 
-Tātad katrai $n$ vērtībai nepieciešams atrast atbilstošo $x$ un $y+1$ vērtību. No vienādības $\frac{1}{n}=\frac{1}{x}-\frac{1}{y+1}$ izsakot $x$, iegūstam $x=n \frac{y+1}{y+1+n}$. Izvēloties $y+1=(n-1) n$, iegūstam, ka $x=n-1$. Līdz ar to
+Tātad katrai $n$ vērtībai nepieciešams atrast atbilstošo $x$ un $y+1$ vērtību. 
+No vienādības $\frac{1}{n}=\frac{1}{x}-\frac{1}{y+1}$ izsakot $x$, iegūstam 
+$x=n \frac{y+1}{y+1+n}$. Izvēloties $y+1=(n-1)n$, iegūstam, ka $x=n-1$. Līdz ar
+to
 
-$$
-\frac{1}{x}-\frac{1}{y+1}=\frac{1}{n-1}-\frac{1}{(n-1) n}=\frac{n-1}{(n-1) n}=\frac{1}{n}
-$$
+$$\frac{1}{x}-\frac{1}{y+1}=\frac{1}{n-1}-\frac{1}{(n-1)n}=\frac{n-1}{(n-1)n}=\frac{1}{n}$$
 
-Tā kā $n>1$, tad $y+1>x$ jeb $y \geq x$, un prasītais ir pierādīts visām naturālām $n$ vērtībām.
+Tā kā $n>1$, tad $y+1>x$ jeb $y \geq x$, un prasītais ir pierādīts visām 
+naturālām $n$ vērtībām.
 
-Piezīme. Ja $n$ ir pāra skaitlis, tad var izmantot $y+1=n$ un $x=\frac{n}{2}$.
+*Piezīme.* Ja $n$ ir pāra skaitlis, tad var izmantot $y+1=n$ un 
+$x=\frac{n}{2}$.
 
 
 
 # <lo-sample/> LV.VOL.2016.11.4
 
-11.4. Naturālu skait|u virkni $\left(s_{i}\right)$ pēc parauga , $2016 ”$ veido šādi: $s_{1}=2 ; s_{2}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{1}$ un tā pierakstā ir cipars 0; $s_{3}$-mazākais naturālais skaitlis, kas lielāks nekā $s_{2}$ un tā pierakstā ir cipars 1; $s_{4}$ - mazākais naturālais skaitlis, kas lielāks nekā $s_{3}$ un tā pierakstā ir cipars 6. Pēc tam meklētie cipari cikliski atkārtojas: 2-0-1-6-2-0-... . Virknes pirmie locekli ir $2 ; 10 ; 11 ; 16 ; 20 ; 30 ; 31 ; 36 ; 42 ; 50$.
+Naturālu skaitļu virkni $\left(s_{i}\right)$ pēc parauga, " $2016$ " veido 
+šādi: $s_{1}=2;\ s_{2}$ - mazākais naturālais skaitlis, kas lielāks nekā 
+$s_{1}$ un tā pierakstā ir cipars $0;\ s_{3}$ - mazākais naturālais skaitlis, 
+kas lielāks nekā $s_{2}$ un tā pierakstā ir cipars $1;\ s_{4}$ - mazākais 
+naturālais skaitlis, kas lielāks nekā $s_{3}$ un tā pierakstā ir cipars $6$. 
+Pēc tam meklētie cipari cikliski atkārtojas: $2-0-1-6-2-0-\ldots$. Virknes 
+pirmie locekļi ir $2;\ 10;\ 11;\ 16;\ 20;\ 30;\ 31;\ 36;\ 42;\ 50$.
 
-Vai šajā virknē ir skaitlis a) 2001, b) 2006?
+Vai šajā virknē ir skaitlis **(A)** $2001$, **(B)** $2006$?
 
 <small>
 
@@ -378,37 +528,38 @@ Vai šajā virknē ir skaitlis a) 2001, b) 2006?
 
 ## Atrisinājums
 
-Pavisam ir četru veidu gājieni: „2 $\rightarrow 0$ ” (skaitlis satur 2 un meklējam nākamo skaitli, kas satur 0), „0 $01^{\prime \prime}$, „1 $\rightarrow$ " un „6 2". levērojam, ka neviens gājiens neḷauj pārlēkt no skaitḷa $N$ uz skaitli, kas ir lielāks nekā $N+10$.
+Pavisam ir četru veidu *gājieni*: " $2 \rightarrow 0$ " (skaitlis satur $2$ un 
+meklējam nākamo skaitli, kas satur $0$), " $0 \rightarrow 0$ ", 
+" $1 \rightarrow 6$ " un " $6 \rightarrow 2$ ". Ievērojam, ka neviens gājiens 
+neļauj pārlēkt no skaitļa $N$ uz skaitli, kas ir lielāks nekā $N+10$.
 
-Virknē pēc izdarīta gājiena "1 $\rightarrow$ "” būs kāds no skaitliem 1906, 1916, 1926 vai 1936.
+Virknē pēc izdarīta gājiena " $1 \rightarrow 6$ " būs kāds no skaitļiem 
+$1906,\ 1916,\ 1926$ vai $1936$.
 
-Aplūkosim, kāda ir tālākā skait|u virkne katrā no gadījumiem:
+Aplūkosim, kāda ir tālākā skaitļu virkne katrā no gadījumiem:
 
-$$
-\begin{aligned}
-& \circ \quad 1906 \xrightarrow{6 \rightarrow 2} 1912 \xrightarrow{2 \rightarrow 0} 1920 \xrightarrow{0 \rightarrow 1} 1921 \xrightarrow{1 \rightarrow 6} 1926 \xrightarrow{6 \rightarrow 2} 1927 \xrightarrow{2 \rightarrow 0} 1930 \xrightarrow{0 \rightarrow 1} 1931 \xrightarrow{1 \rightarrow 6} \mathbf{1 9 3 6} \\
-& 0 \quad 1916 \xrightarrow{6 \rightarrow 2} 1920 \xrightarrow{2 \rightarrow 0} 1930 \xrightarrow{0 \rightarrow 1} 1931 \xrightarrow{1 \rightarrow 6} \mathbf{1 9 3 6 .}
-\end{aligned}
-$$
+- $\mathbf{1906} \xrightarrow{6 \rightarrow 2} 1912 \xrightarrow{2 \rightarrow 0} 1920 \xrightarrow{0 \rightarrow 1} 1921 \xrightarrow{1 \rightarrow 6} \mathbf{1926} \xrightarrow{6 \rightarrow 2} 1927 \xrightarrow{2 \rightarrow 0} 1930 \xrightarrow{0 \rightarrow 1} 1931 \xrightarrow{1 \rightarrow 6} \mathbf{1936}$  
+- $\mathbf{1916} \xrightarrow{6 \rightarrow 2} 1920 \xrightarrow{2 \rightarrow 0} 1930 \xrightarrow{0 \rightarrow 1} 1931 \xrightarrow{1 \rightarrow 6} \mathbf{1936.}$
 
-Kā redzams, visos gadījumos virknē pēc gājiena "1 $\rightarrow$ " ir skaitlis 1936.
+Kā redzams, visos gadījumos virknē pēc gājiena " $1 \rightarrow 6$ " ir 
+skaitlis $1936$.
 
 Tātad, turpinot virkni, iegūsim
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & 1936 \xrightarrow{6 \rightarrow 2} 1942 \xrightarrow{2 \rightarrow 0} 1950 \xrightarrow{0 \rightarrow 1} 1951 \xrightarrow{1 \rightarrow 6} 1956 \xrightarrow{6 \rightarrow 2} 1962 \stackrel{2 \rightarrow 0}{\longrightarrow} 1970 \xrightarrow{0 \rightarrow 1} 1971 \xrightarrow{1 \rightarrow 6} 1976 \xrightarrow{6 \rightarrow 2} 1982 \xrightarrow{2 \rightarrow 0} \\
-& \rightarrow 1990 \xrightarrow{0 \rightarrow 1} 1991 \xrightarrow{1 \rightarrow 6} 1996 \xrightarrow{6 \rightarrow 2} 2000 \xrightarrow{2 \rightarrow 0} 2001 \stackrel{0 \rightarrow 1}{l} 2010 .
-\end{aligned}
-$$
+& \rightarrow 1990 \xrightarrow{0 \rightarrow 1} 1991 \xrightarrow{1 \rightarrow 6} 1996 \xrightarrow{6 \rightarrow 2} 2000 \xrightarrow{2 \rightarrow 0} \mathbf{2001} \stackrel{0 \rightarrow 1}{l} 2010.
+\end{aligned}$$
 
-Līdz ar to esam pierādījuši, ka skaitlis 2001 pieder virknei, bet skaitlis 2006 - nepieder.
+Līdz ar to esam pierādījuši, ka skaitlis $2001$ pieder virknei, bet skaitlis 
+$2006$ - nepieder.
 
 
 
 # <lo-sample/> LV.VOL.2016.11.5
 
-11.5. Pierādīt, ka jebkuru trijstūri a) ar trim, b) ar diviem nogriežṇiem var sadalīt trīs daḷās tā, ka katrai no daḷām ir simetrijas ass!
+Pierādīt, ka jebkuru trijstūri **(A)** ar trim, **(B)** ar diviem nogriežņiem 
+var sadalīt trīs daļās tā, ka katrai no daļām ir simetrijas ass!
 
 <small>
 
@@ -419,20 +570,40 @@ Līdz ar to esam pierādījuši, ka skaitlis 2001 pieder virknei, bet skaitlis 2
 
 ## Atrisinājums
 
-a) Novelkot ievilktās rinḳa līnijas rādiusus pret visām trim trijstūra malām, tas tiek sadalīts trīs četrstūros (skat. 12. att.). Katram no tiem simetrijas ass ir dotā trijstūra bisektrise (12. att. atzīmēta ar pārtrauktu līniju).
+**(A)** Novelkot ievilktās riņķa līnijas rādiusus pret visām trim trijstūra 
+malām, tas tiek sadalīts trīs četrstūros (skat. 12.att.). Katram no tiem 
+simetrijas ass ir dotā trijstūra bisektrise (12.att. atzīmēta ar pārtrauktu 
+līniju).
 
-b) Trijstūra $A B C$ garāko malu apzīmēsim ar $B C$, malu $A B$ un $A C$ viduspunktus - attiecīgi $D$ un $E$ (skat. 13. att.). Attēlojot virsotni $A$ simetriski pret viduslīniju $D E$, tās projekcija $A^{\prime}$ atrodas uz malas $B C$. Simetrijas dē! trijstūri $B D A^{\prime}$ un $C E A^{\prime}$ ir vienādsānu - tātad simetrijas ass tajos ir augstums pret pamatu. Četrstūris $A D A^{\prime} E$ pēc konstrukcijas ir simetrisks pret $D E$. Tātad divi meklētie nogriežni ir $D A^{\prime}$ un $E A^{\prime}$.
+**(B)** Trijstūra $ABC$ garāko malu apzīmēsim ar $BC$, malu $AB$ un $AC$ 
+viduspunktus - attiecīgi $D$ un $E$ (skat. 13.att.). Attēlojot virsotni $A$ 
+simetriski pret viduslīniju $DE$, tās projekcija $A^{\prime}$ atrodas uz malas 
+$BC$. Simetrijas dēļ trijstūri $BDA^{\prime}$ un $CEA^{\prime}$ ir vienādsānu -
+tātad simetrijas ass tajos ir augstums pret pamatu. Četrstūris $ADA^{\prime}E$ 
+pēc konstrukcijas ir simetrisks pret $DE$. Tātad divi meklētie nogriežņi ir 
+$DA^{\prime}$ un $EA^{\prime}$.
 
-Piezīmes
+![](LV.VOL.2016.11.5A.png)
 
-1) a) gadījumā šaurleṇku trijstūriem der arī apvilktās riṇka līnijas centrs. Šajā gadījumā par trīs nogriežṇiem izvēlas rādiusus, kas vilkti uz trijstūra virsotnēm, bet malu vidusperpendikuli ir simetrijas asis - svarīgi, ka vidusperpendikulu krustpunkts (apvilktās rink, līnijas centrs) atrodas trijstūra iekšpusē.
-2) b) gadījuma atrisinājums der arī kā a) gadījuma atrisinājums, ja vienu no nogriežṇiem sadala divās dalās (piemēram, izvēlas punktu $X \in D A^{\prime}$ un uzskata nogriezni $D A^{\prime}$ par diviem nogriežṇiem $D X$ un $X A^{\prime}$ ).
+*Piezīmes*
+
+1) (A) gadījumā šaurleņķu trijstūriem der arī apvilktās riņķa līnijas centrs. 
+   Šajā gadījumā par trīs nogriežņiem izvēlas rādiusus, kas vilkti uz trijstūra
+   virsotnēm, bet malu vidusperpendikuli ir simetrijas asis - svarīgi, ka 
+   vidusperpendikulu krustpunkts (apvilktās riņķa līnijas centrs) atrodas 
+   trijstūra iekšpusē.
+2) (B) gadījuma atrisinājums der arī kā (A) gadījuma atrisinājums, ja vienu no 
+   nogriežņiem sadala divās daļās (piemēram, izvēlas punktu $X \in DA^{\prime}$
+   un uzskata nogriezni $DA^{\prime}$ par diviem nogriežņiem $DX$ un 
+   $XA^{\prime}$).
 
 
 
 # <lo-sample/> LV.VOL.2016.12.1
 
-12.1. Zināms, ka $x, y$ un $z$ ir tādi naturāli skaitli, ka $x^{3} y^{5} z^{6}$ ir naturāla skaitla septītā pakāpe. Pierādīt, ka arī $x^{5} y^{6} z^{3}$ ir naturāla skaitla septītā pakāpe!
+Zināms, ka $x,\ y$ un $z$ ir tādi naturāli skaitļi, ka $x^{3}y^{5}z^{6}$ ir 
+naturāla skaitļa septītā pakāpe. Pierādīt, ka arī $x^{5}y^{6}z^{3}$ ir naturāla
+skaitļa septītā pakāpe!
 
 <small>
 
@@ -443,19 +614,27 @@ Piezīmes
 
 ## Atrisinājums
 
-Apzīmējam $x^{3} y^{5} z^{6}=a^{7}$, kur $a-$ naturāls skaitlis. Kāpinot abas puses ceturtajā pakāpē, iegūstam $x^{12} y^{20} z^{24}=a^{28}$. Izsakām
+Apzīmējam $x^{3}y^{5}z^{6}=a^{7}$, kur $a$ - naturāls skaitlis. Kāpinot abas 
+puses ceturtajā pakāpē, iegūstam $x^{12}y^{20}z^{24}=a^{28}$. Izsakām
 
-$$
-x^{5} y^{6} z^{3}=\frac{a^{28}}{x^{7} y^{14} z^{21}}=\left(\frac{a^{4}}{x y^{2} z^{3}}\right)^{7}
-$$
+$$x^{5}y^{6}z^{3}=\frac{a^{28}}{x^{7}y^{14}z^{21}}=\left(\frac{a^{4}}{xy^{2}z^{3}}\right)^{7}$$
 
-Skaitlis $x^{5} y^{6} z^{3}$ ir naturāls skaitlis, tāpēc arī $\left(\frac{a^{4}}{x y^{2} z^{3}}\right)^{7}$ ir naturāls. Ja $a^{4}$ nedalītos ar $x y^{2} z^{3}$, tad $\frac{a^{4}}{x y^{2} z^{3}}$ varētu izteikt kā nesaīsināmu daḷu $\frac{m}{n}$. Bet tad arī $\frac{m^{7}}{n^{7}}$ būtu nesaīsināma daḷa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $a^{4}$ dalās ar $x y^{2} z^{3}$ un tātad arī $x^{5} y^{6} z^{3}$ ir naturāla skaitḷa 7. pakāpe.
+Skaitlis $x^{5}y^{6}z^{3}$ ir naturāls skaitlis, tāpēc arī 
+$\left(\frac{a^{4}}{xy^{2}z^{3}}\right)^{7}$ ir naturāls. Ja $a^{4}$ nedalītos 
+ar $xy^{2}z^{3}$, tad $\frac{a^{4}}{xy^{2}z^{3}}$ varētu izteikt kā nesaīsināmu
+daļu $\frac{m}{n}$. Bet tad arī $\frac{m^{7}}{n^{7}}$ būtu nesaīsināma daļa, 
+taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $a^{4}$ dalās ar 
+$xy^{2}z^{3}$ un tātad arī $x^{5}y^{6}z^{3}$ ir naturāla skaitļa $7.$ pakāpe.
 
 
 
 # <lo-sample/> LV.VOL.2016.12.2
 
-12.2. Trijstūrī $A B C$ ievilktās riṇka līnijas $\omega$ centrs ir $I$. Uz malām $A B$ un $B C$ izvēlēti attiecīgi punkti $P$ un $Q$ tā, ka $P I=Q I$ un $P B>Q B$. Nogrieznis $Q I$ krusto $\omega$ punktā $T$. Taisne, kas pieskaras $\omega$ punktā $T$, krusto malas $A B$ un $B C$ attiecīgi punktos $U$ un $V$. Pierādīt, ka $P U=U V+V Q$ !
+Trijstūrī $ABC$ ievilktās riņķa līnijas $\omega$ centrs ir $I$. Uz malām $AB$ 
+un $BC$ izvēlēti attiecīgi punkti $P$ un $Q$ tā, ka $PI=QI$ un $PB>QB$. 
+Nogrieznis $QI$ krusto $\omega$ punktā $T$. Taisne, kas pieskaras $\omega$ 
+punktā $T$, krusto malas $AB$ un $BC$ attiecīgi punktos $U$ un $V$. Pierādīt, 
+ka $PU=UV+VQ$ !
 
 <small>
 
@@ -466,37 +645,38 @@ Skaitlis $x^{5} y^{6} z^{3}$ ir naturāls skaitlis, tāpēc arī $\left(\frac{a^
 
 ## Atrisinājums
 
-Apzīmējam $\omega$ pieskaršanās punktus malām $A B$ un $B C$ attiecīgi ar $E$ un $F$ (skat. att.). Tā kā $P I=Q I$ un $E I=I F$, $\operatorname{tad} \triangle P E I=\triangle Q F I$ pēc pazīmes $k h$. Tātad
+Apzīmējam $\omega$ pieskaršanās punktus malām $AB$ un $BC$ attiecīgi ar $E$ un 
+$F$ (skat.att.). Tā kā $PI=QI$ un $EI=IF$, tad $\triangle PEI=\triangle QFI$ 
+pēc pazīmes $kh$. Tātad
 
-$$
-\begin{equation*}
-P E=Q F \tag{1}
-\end{equation*}
-$$
+$$\begin{equation*}
+PE=QF \tag{1}
+\end{equation*}$$
 
 kā vienādu trijstūru atbilstošās malas.
 
-Tā kā pieskares, kas vilktas no viena punkta pret riṇka līniju, ir vienāda garuma, tad
+Tā kā pieskares, kas vilktas no viena punkta pret riņķa līniju, ir vienāda 
+garuma, tad
 
-$$
-\begin{equation*}
-U E=U T \tag{2}
-\end{equation*}
-$$
+$$\begin{equation*}
+UE=UT \tag{2}
+\end{equation*}$$
 
-Saskaitot (1) un (2) iegūstam, ka $P E+U E=U T+Q F$.
+Saskaitot $(1)$ un $(2)$ iegūstam, ka $PE+UE=UT+QF$.
 
-Savukārt, $Q F=Q V+V F$, tāpēc $P E+U E=U T+Q V+V F$. Tā kā $V F=V T$ (pieskares no viena punkta), $\operatorname{tad} P E+U E=U T+Q V+V T$.
+Savukārt, $QF=QV+VF$, tāpēc $PE+UE=UT+QV+VF$. Tā kā $VF=VT$ (pieskares no viena
+punkta), tad $PE+UE=UT+QV+VT$.
 
-No tā, ka $P U=P E+U E$ un $U V=U T+V T$, izriet $P U=U V+V Q$.
+No tā, ka $PU=PE+UE$ un $UV=UT+VT$, izriet $PU=UV+VQ$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-7.jpg?height=498&width=575&top_left_y=1050&top_left_x=798)
+![](LV.VOL.2016.12.2A.png)
 
 
 
 # <lo-sample/> LV.VOL.2016.12.3
 
-12.3. Pierādīt, ka vismaz viens no 18 pēc kārtas sekojošiem trīsciparu skaitliem dalās ar savu ciparu summu!
+Pierādīt, ka vismaz viens no $18$ pēc kārtas sekojošiem trīsciparu skaitļiem 
+dalās ar savu ciparu summu!
 
 <small>
 
@@ -507,15 +687,21 @@ No tā, ka $P U=P E+U E$ un $U V=U T+V T$, izriet $P U=U V+V Q$.
 
 ## Atrisinājums
 
-No 18 pēc kārtas sekojošiem skaitḷiem viens noteikti dalās ar 18. Pierādīsim, ka šis skaitlis ir meklētais.
+No $18$ pēc kārtas sekojošiem skaitļiem viens noteikti dalās ar $18$. 
+Pierādīsim, ka šis skaitlis ir meklētais.
 
-Tā kā tas ir trīsciparu skaitlis, tad tā ciparu summa var būt 9, 18 vai 27 (jo tai jādalās ar 9). Tā nevar būt 27, jo vienīgais skaitlis, kam ciparu summa ir 27 , ir 999 , bet tas nedalās ar 18 . Tātad tā ciparu summa ir 9 vai 18 un tā kā skaitlis dalās ar 18, tad tas dalās ar savu ciparu summu.
+Tā kā tas ir trīsciparu skaitlis, tad tā ciparu summa var būt $9,\ 18$ vai $27$
+(jo tai jādalās ar $9$). Tā nevar būt $27$, jo vienīgais skaitlis, kam ciparu 
+summa ir $27$, ir $999$, bet tas nedalās ar $18$. Tātad tā ciparu summa ir $9$ 
+vai $18$ un tā kā skaitlis dalās ar $18$, tad tas dalās ar savu ciparu summu.
 
 
 
 # <lo-sample/> LV.VOL.2016.12.4
 
-12.4. Divas funkcijas tiek definētas šādi: $f(a)=a^{2}+3 a+2$ un $g(b ; c)=b^{2}-b+3 c^{2}+3 c$. Pierādīt, ka jebkurai naturālai $a$ vērtībai iespējams atrast tādas naturālas $b$ un $c$ vērtības, ka $f(a)=g(b ; c)$.
+Divas funkcijas tiek definētas šādi: $f(a)=a^{2}+3a+2$ un 
+$g(b; c)=b^{2}-b+3c^{2}+3c$. Pierādīt, ka jebkurai naturālai $a$ vērtībai 
+iespējams atrast tādas naturālas $b$ un $c$ vērtības, ka $f(a)=g(b; c)$.
 
 <small>
 
@@ -526,37 +712,34 @@ Tā kā tas ir trīsciparu skaitlis, tad tā ciparu summa var būt 9, 18 vai 27 
 
 ## Atrisinājums
 
-levērojam, ka $f(a)=a^{2}+3 a+2=(a+1)(a+2)$.
+Ievērojam, ka $f(a)=a^{2}+3a+2=(a+1)(a+2)$.
 
 Ja $a$ ir nepāra, tad der vērtības $b=c=\frac{a+1}{2}$, jo tad
 
-$$
-g(b ; c)=g(b ; b)=4 b^{2}+2 b=2 b(2 b+1)=2 \cdot \frac{a+1}{2} \cdot\left(2 \cdot \frac{a+1}{2}+1\right)=(a+1)(a+2)=f(a)
-$$
+$$g(b; c)=g(b; b)=4b^{2}+2b=2b(2b+1)=2 \cdot \frac{a+1}{2} \cdot\left(2 \cdot \frac{a+1}{2}+1\right)=(a+1)(a+2)=f(a)$$
 
 Ja $a$ ir pāra, tad der vērtības $b=\frac{a}{2}+2$ un $c=\frac{a}{2}$, jo tad
 
-$$
-g(c+2 ; c)=4 c^{2}+6 c+2=(2 c+1)(2 c+2)=\left(2 \cdot \frac{a}{2}+1\right)\left(2 \cdot \frac{a}{2}+2\right)=(a+1)(a+2)=f(a)
-$$
+$$g(c+2; c)=4c^{2}+6c+2=(2c+1)(2c+2)=\left(2 \cdot \frac{a}{2}+1\right)\left(2 \cdot \frac{a}{2}+2\right)=(a+1)(a+2)=f(a)$$
 
-Piezīme. Uzdevumu vieglāk atrisināt, ja sākumā aplūko funkcijas $f$ vērtības dažām $a$ vērtībām un atrod tām atbilstošo $\quad b$ un $c$ vērtību: $f(1)=g(1 ; 1)=6, \quad f(2)=g(3 ; 1)=12, \quad f(3)=g(2 ; 2)=20$, $f(4)=g(4 ; 2)=30$. Pēc tam var pamanīt, ka nepāra $a$ vērtībai $b=c$ un apskatīt funkciju
+*Piezīme.* Uzdevumu vieglāk atrisināt, ja sākumā aplūko funkcijas $f$ vērtības 
+dažām $a$ vērtībām un atrod tām atbilstošo $b$ un $c$ vērtību: 
+$f(1)=g(1; 1)=6,\ f(2)=g(3; 1)=12,\ f(3)=g(2; 2)=20,\ f(4)=g(4; 2)=30$. Pēc tam
+var pamanīt, ka nepāra $a$ vērtībai $b=c$ un apskatīt funkciju
 
-$$
-g(b ; b)=b^{2}-b+3 b^{2}+3 b=4 b^{2}+2 b=2 b(2 b+1)
-$$
+$$g(b; b)=b^{2}-b+3b^{2}+3b=4b^{2}+2b=2b(2b+1)$$
 
 Pāra $a$ vērtībām izpildās $b=c+2$, tāpēc var apskatīt funkciju
 
-$$
-g(c+2 ; c)=(c+2)^{2}-(c+2)+3 c^{2}+3 c=4 c^{2}+6 c+2=(2 c+1)(2 c+2)
-$$
+$$g(c+2; c)=(c+2)^{2}-(c+2)+3c^{2}+3c=4c^{2}+6c+2=(2c+1)(2c+2)$$
 
 
 
 # <lo-sample/> LV.VOL.2016.12.5
 
-12.5. Aplūko visus tos funkciju $y=x^{2}+p x+q$ grafikus, kuriem ir trīs dažādi krustpunkti ar koordinātu asīm. Katram no tiem caur šiem trim krustpunktiem novelk rinka līiju. Pierādīt, ka visām šīm rinka līijām ir kopīgs punkts!
+Aplūko visus tos funkciju $y=x^{2}+px+q$ grafikus, kuriem ir trīs dažādi 
+krustpunkti ar koordinātu asīm. Katram no tiem caur šiem trim krustpunktiem 
+novelk riņķa līniju. Pierādīt, ka visām šīm riņķa līnijām ir kopīgs punkts!
 
 <small>
 
@@ -567,64 +750,76 @@ $$
 
 ## Atrisinājums
 
-Visām rinka līnijām ir kopīgs punkts $(0 ; 1)$. Pierādīsim to.
+Visām riņķa līnijām ir kopīgs punkts $(0; 1)$. Pierādīsim to.
 
-Kvadrātvienādojuma $x^{2}+p x+q=0$ saknes apzīmējam ar $x_{1}$ un $x_{2}$. Ar $A$ un $B$ apzīmējam parabolas krustpunktus ar $x$ asi, ar $C$ - parabolas krustpunktu ar $y$ asi: $A\left(x_{1} ; 0\right), B\left(x_{2} ; 0\right)$ un $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
+Kvadrātvienādojuma $x^{2}+px+q=0$ saknes apzīmējam ar $x_{1}$ un $x_{2}$. Ar 
+$A$ un $B$ apzīmējam parabolas krustpunktus ar $x$ asi, ar $C$ - parabolas 
+krustpunktu ar $y$ asi: $A\left(x_{1}; 0\right), B\left(x_{2}; 0\right)$ un 
+$C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
 
-1. Ja rinka līnijai ar $y$ asi ir tikai viens krustpunkts, tas ir, tā pieskaras $y$ asij (skat. 15. att.), tad $\triangle C O A \sim \triangle B O C$ pēc pazìmes $\ell \ell$, jo $\Varangle C O B-$ kopīgs un $\Varangle O C A=\Varangle O B C=\frac{1}{2} \overline{A C}$. Tad
+1. Ja riņķa līnijai ar $y$ asi ir tikai viens krustpunkts, tas ir, tā pieskaras
+   $y$ asij (skat. 15.att.), tad $\triangle COA \sim \triangle BOC$ pēc pazìmes 
+   $\ell \ell$, jo $\sphericalangle COB$ - kopīgs un 
+   $\sphericalangle OCA=\sphericalangle OBC=\frac{1}{2} \overline{AC}$. Tad
 
-$$
-\frac{O A}{O C}=\frac{O C}{O B} \Rightarrow \frac{x_{1}}{q}=\frac{q}{x_{2}} \Rightarrow x_{1} x_{2}=q^{2}
-$$
+   $$\frac{OA}{OC}=\frac{OC}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{q}{x_{2}} \Rightarrow x_{1}x_{2}=q^{2}$$
 
-Pēc Vjeta teorēmas $x_{1} x_{2}=q$, tāpēc $q=q^{2}$. Tā kā $C$ nesakrīt ar $O$ (jo tad parabolai ar asīm būtu tikai divi krustpunkti), tad vienīgā iespēja, ka $q=1$. Tātad šīs riṇka līnijas iet caur punktu $(0 ; 1)$.
+   Pēc Vjeta teorēmas $x_{1}x_{2}=q$, tāpēc $q=q^{2}$. Tā kā $C$ nesakrīt ar $O$ 
+   (jo tad parabolai ar asīm būtu tikai divi krustpunkti), tad vienīgā iespēja, ka
+   $q=1$. Tātad šīs riņķa līnijas iet caur punktu $(0; 1)$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_8e467237a9232a193b59g-8.jpg?height=478&width=421&top_left_y=795&top_left_x=869)
+   ![](LV.VOL.2016.12.5A.png)
 
-15. att.
-16. Ja ringa līiijai ar $y$ asi ir divi krustpunkti, tad otru krustpunktu ar $y$ asi apzīmējam ar $D$.
+2. Ja riņķa līnijai ar $y$ asi ir divi krustpunkti, tad otru krustpunktu ar $y$
+   asi apzīmējam ar $D$.
 
-- Ja $q \in(-\infty ; 0) \cup(0 ; 1)$, tad $\triangle A O D \sim \triangle C O B$ pēc pazīmes $\ell \ell$, jo $\Varangle D O A=\Varangle B O C=90^{\circ}$ un $\Varangle A D C=\Varangle A B C$ kā ievilktie lenkịi, kas balstās uz viena un tā paša loka (skat. 16. att.). Tāpēc
+   - Ja $q \in(-\infty; 0) \cup(0; 1)$, tad $\triangle AOD \sim \triangle COB$ 
+     pēc pazīmes $\ell \ell$, jo 
+	 $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
+	 $\sphericalangle ADC=\sphericalangle ABC$ kā ievilktie leņķi, kas balstās 
+	 uz viena un tā paša loka (skat. 16.att.). Tāpēc
 
-$$
-\frac{A O}{O C}=\frac{O D}{O B} \Rightarrow \frac{x_{1}}{q}=\frac{O D}{x_{2}} \Rightarrow O D=\frac{x_{1} x_{2}}{q}=\frac{q}{q}=1
-$$
+   $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
-- Ja $q>1$, tad $\triangle A O D \sim \triangle C O B$ pēc pazīmes $\ell \ell$, jo $\Varangle D O A=\Varangle B O C=90^{\circ}$ un $\Varangle A D O=180^{\circ}-\Varangle C D A=\Varangle C B A$ pēc blakuslenku īpašības un īpašǐbas, ka ievilkta četrstūra pretējo lenku summa ir $180^{\circ}$ (skat. 17. att.). Tāpēc
+   - Ja $q>1$, tad $\triangle AOD \sim \triangle COB$ pēc pazīmes $\ell \ell$, 
+     jo $\sphericalangle DOA=\sphericalangle BOC=90^{\circ}$ un 
+	 $\sphericalangle ADO=180^{\circ}-\sphericalangle CDA=\sphericalangle CBA$ 
+	 pēc blakusleņķu īpašības un īpašības, ka ievilkta četrstūra pretējo leņķu 
+	 summa ir $180^{\circ}$ (skat. 17.att.). Tāpēc
 
-$$
-\frac{A O}{O C}=\frac{O D}{O B} \Rightarrow \frac{x_{1}}{q}=\frac{O D}{x_{2}} \Rightarrow O D=\frac{x_{1} x_{2}}{q}=\frac{q}{q}=1
-$$
+   $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
-Tā kā punkts $D$ nevar būt $(0 ;-1)$, jo tad iegūst ieliektu četrstūri, kuram nevar apvilkt rinka līiju, tad šīs rinka līnijas iet caur punktu $(0 ; 1)$
+   Tā kā punkts $D$ nevar būt $(0;-1)$, jo tad iegūst ieliektu četrstūri, kuram
+   nevar apvilkt riņķa līiju, tad šīs riņķa līnijas iet caur punktu $(0; 1)$
 
-Līdz ar to visām šādām riṇ̣̣a līnijām ir kopīgs punkts $(0 ; 1)$.
+   Līdz ar to visām šādām riņķa līnijām ir kopīgs punkts $(0; 1)$.
+   
+   ![](LV.VOL.2016.12.5B.png)
 
 ## Atrisinājums
 
-2. atrisinājums. Šo trīs krustpunktu koordinātas ir
+Šo trīs krustpunktu koordinātas ir
 
-$$
-(0 ; q), \quad\left(-\frac{p}{2}+\sqrt{\frac{p^{2}}{4}-q} ; 0\right), \quad\left(-\frac{p}{2}-\sqrt{\frac{p^{2}}{4}-q} ; 0\right)
-$$
+$$(0; q), \quad\left(-\frac{p}{2}+\sqrt{\frac{p^{2}}{4}-q}; 0\right), \quad\left(-\frac{p}{2}-\sqrt{\frac{p^{2}}{4}-q}; 0\right)$$
 
-Noteiksim, kur atrodas rinka līnijas, kas iet caur šiem trim punktiem, centrs. Abscisas vērtība ir $x=-\frac{p}{2}$. Atliek noskaidrot ordinātas vērtību. Izmantojot riṇ̦a līnijas ar centru punktā $(a ; b)$ un rādiusu $r$ vienādojumu $(x-a)^{2}+(y-b)^{2}=r^{2}$, iegūstam
+Noteiksim, kur atrodas riņķa līnijas, kas iet caur šiem trim punktiem, centrs. 
+Abscisas vērtība ir $x=-\frac{p}{2}$. Atliek noskaidrot ordinātas vērtību. 
+Izmantojot riņķa līnijas ar centru punktā $(a; b)$ un rādiusu $r$ vienādojumu 
+$(x-a)^{2}+(y-b)^{2}=r^{2}$, iegūstam
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & r^{2}=\left(0+\frac{p}{2}\right)^{2}+\left(q-y_{\text {centrs }}\right)^{2}=\left(-\frac{p}{2}+\sqrt{\frac{p^{2}}{4}-q}+\frac{p}{2}\right)^{2}+\left(0-y_{\text {centrs }}\right)^{2} \\
-& \frac{p^{2}}{4}+q^{2}-2 q y_{\text {centrs }}+y_{\text {centrs }}^{2}=\frac{p^{2}}{4}-q+y_{\text {centrs }}^{2} \\
+& \frac{p^{2}}{4}+q^{2}-2qy_{\text {centrs }}+y_{\text {centrs }}^{2}=\frac{p^{2}}{4}-q+y_{\text {centrs }}^{2} \\
 & y_{\text {centrs }}=\frac{q+1}{2}
-\end{aligned}
-$$
+\end{aligned}$$
 
-Tātad $r^{2}=\frac{p^{2}}{4}+\frac{(q-1)^{2}}{4}$ jeb $r=\frac{\sqrt{p^{2}+(q-1)^{2}}}{2}$ un riṇka līnijas centra koordinātas ir $\left(-\frac{p}{2} ; \frac{q+1}{2}\right)$.
+Tātad $r^{2}=\frac{p^{2}}{4}+\frac{(q-1)^{2}}{4}$ jeb 
+$r=\frac{\sqrt{p^{2}+(q-1)^{2}}}{2}$ un riņķa līnijas centra koordinātas ir 
+$\left(-\frac{p}{2}; \frac{q+1}{2}\right)$.
 
-Aplūkojam, kāds ir attālums no punkta $(0 ; 1)$ līdz rink, līnijas centram:
+Aplūkojam, kāds ir attālums no punkta $(0; 1)$ līdz riņķa līnijas centram:
 
-$$
-d^{2}=\left(0+\frac{p}{2}\right)^{2}+\left(1-\frac{q+1}{2}\right)^{2}=\frac{p^{2}}{4}+\frac{(1-q)^{2}}{4}=r^{2}
-$$
+$$d^{2}=\left(0+\frac{p}{2}\right)^{2}+\left(1-\frac{q+1}{2}\right)^{2}=\frac{p^{2}}{4}+\frac{(1-q)^{2}}{4}=r^{2}$$
 
-Tātad caur punktu $(0 ; 1)$ iet visas minētā veida riṇka līnijas.
+Tātad caur punktu $(0; 1)$ iet visas minētā veida riņķa līnijas.
 
