@@ -61,6 +61,8 @@ skaitļus no $1$ līdz $16$ (katrā rūtiņā citu) tā, lai katrās divās rūt
 kurām ir kopīga mala, ierakstīto skaitļu starpība būtu vismaz **(A)** $6$; 
 **(B)** $7$?
 
+![](LV.VOL.2016.9.3A.png)
+
 <small>
 
 * questionType:
@@ -92,7 +94,7 @@ tas jau ir ierakstīts tabulā. Tātad $x$ vietā jābūt skaitlim $16$, un tad
 vienīgā iespējamā $y$ vērtība ir $9$. Līdz ar to esam ieguvuši 5.att. parādīto 
 skaitļu izkārtojumu.
 
-![](LV.VOL.2016.9.3A.png)
+![](LV.VOL.2016.9.3B.png)
 
 Ievērojam, ka skaitlim $9$ blakus rūtiņās var būt ierakstīti tikai skaitļi 
 $1,\ 2,\ 16$. Tātad skaitlis $8$ nav stūrī, jo tad skaitlim $9$ būtu četri 
@@ -102,6 +104,8 @@ kaimiņš $15$, bet skaitlim $9$ vēl ir kaimiņš $2$. Iespējami divi gadījum
 attiecībā pret skaitli $8$ var būt ierakstīts skaitlis $15$ (skat. 6.att. un 
 7.att.). Neviens no šim gadījumiem nav iespējams, jo $z$ vietā būtu jāieraksta 
 skaitlis $9$, bet $t$ vietā - skaitlis $8$.
+
+![](LV.VOL.2016.9.3C.png)
 
 
 
