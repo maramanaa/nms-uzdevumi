@@ -1,7 +1,7 @@
 # <lo-sample/> LV.NOL.2016.5.1
 
 Daļas ir uzrakstītas augošā secībā. Kāds naturāls skaitlis var būt ierakstīts 
-$\qquad$ vietā?
+$\square$ vietā?
 
 $$\frac{5}{16}; \frac{\square}{5}; \frac{3}{4}$$
 
