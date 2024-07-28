@@ -35,7 +35,7 @@ $14 \cdot a+2 \cdot b+1=2016$ ?
 
 ## Atrisinājums
 
-levērojam, ka $14 \cdot a$ un $2 \cdot b$ ir pāra skaitļi. Tātad dotā
+Ievērojam, ka $14 \cdot a$ un $2 \cdot b$ ir pāra skaitļi. Tātad dotā
 vienādojuma kreisās puses izteiksmes vērtība ir nepāra skaitlis, bet labajā pusē
 ir pāra skaitlis. Tā kā pāra skaitlis nevar būt vienāds ar nepāra skaitli, tad
 nevar atrast tādus naturālus skaitļus $a$ un $b$, lai dotā vienādība būtu
@@ -150,7 +150,7 @@ $14 \cdot a+15=2016-6 \cdot b$ ?
 
 ## Atrisinājums
 
-levērojam, ka $14 \cdot a$ ir pāra skaitlis, tātad dotā vienādojuma kreisās
+Ievērojam, ka $14 \cdot a$ ir pāra skaitlis, tātad dotā vienādojuma kreisās
 puses izteiksmes vērtība ir nepāra skaitlis. Tā kā
 $6 \cdot b$ ir pāra skaitlis, tad vienādojuma labajās puses izteiksmes vērtība
 ir pāra skaitlis. Tā kā pāra skaitlis nevar būt vienāds ar nepāra skaitli, tad
@@ -269,7 +269,7 @@ funkcijas grafiku un iet caur punktu $(1; 43)$ !
 ## Atrisinājums
 
 **a)** Funkcijas grafiks krusto $y$ asi, ja $x=0$, tātad krustpunkts ar $y$ asi
-ir (0; 2016). Funkcijas grafiks krusto $x$ asi, ja $y=0$, tātad krustpunkts ar
+ir $(0; 2016)$. Funkcijas grafiks krusto $x$ asi, ja $y=0$, tātad krustpunkts ar
 $x$ asi ir $\left(-\frac{2016}{2015} ; 0\right)$.
 
 **b)** Lai lineāru funkciju grafiki nekrustotos, tiem jābūt paralēliem, tātad
@@ -298,7 +298,7 @@ centu). Cik samaksāja Brālītis?
 ## Atrisinājums
 
 Apzīmējot pīrādziņu cenu centos ar $p$ un magoņmaizīšu cenu centos ar $m$,
-iegūstam vienādojumu $8p+15m=200$ jeb $15m=200-8p$. levērojam, ka vienādojuma
+iegūstam vienādojumu $8p+15m=200$ jeb $15m=200-8p$. Ievērojam, ka vienādojuma
 labā puse dalās ar $8$ (jo katrs saskaitāmais dalās ar $8$), tātad arī
 vienādojuma kreisajai pusei ir jādalās ar $8$. Tā kā skaitļi $15$ un $8$ ir
 savstarpēji pirmskaitļi, tad $m$ ir jādalās ar $8$. Tā kā $m$ un $p$ ir
@@ -324,10 +324,10 @@ Pierādīt, ka $\sphericalangle ANC=90^{\circ}$.
 
 ## Atrisinājums
 
-levērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
-$\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie škērsleņķi pie paralēlām
+Ievērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
+$\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie šķērsleņķi pie paralēlām
 taisnēm, $BD$- kopīga mala un $\sphericalangle ADB=\sphericalangle CBD$ kā
-iekšējie škērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
+iekšējie šķērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
 vienādu trijstūru atbilstošās malas. Līdzīgi $\triangle AMD=\triangle CMB$ pēc
 pazīmes $\ell m \ell$, jo $\sphericalangle MAD=\sphericalangle MCB, AD=BC$ un
 $\sphericalangle ADM=\sphericalangle CBM$, tātad $AM=MC$. Trijstūri $AMN$ un
@@ -393,7 +393,7 @@ Pierādīt, ka varde ir apēdusi vismaz $21$ mušu!
 
 ## Atrisinājums
 
-levērosim, ka varde ir pamīšus baltās un melnās rūtiņās, tāpēc viņa ir
+Ievērosim, ka varde ir pamīšus baltās un melnās rūtiņās, tāpēc viņa ir
 apmeklējusi vismaz $100:2=50$ baltas rūtiņas. Kopējais balto rūtiņu skaits ir
 $72$, tāpēc neapmeklētas paliek ne vairāk kā $72-50=22$ baltas rūtiņas. Pat ja
 visās neapmeklētajās baltajās rūtiņās ir pa mušai, varde ir apēdusi vismaz
@@ -496,7 +496,7 @@ atrodas uz malas $BC$ vidusperpendikula. No vidusperpendikula īpašības (katrs
 vidusperpendikula punkts atrodas vienādā attālumā no nogriežņa galapunktiem)
 iegūstam, ka $CN=BN$ un $CM=BM$. Nogrieznis $MK$ ir trijstūra $CAD$ viduslīiija,
 tāpēc $MK=\frac{1}{2} AC=CN$. Līdz ar to esam ieguvuši, ka
-$\triangle MNB=\triangle CKM$ pēc pazīmes mmm .
+$\triangle MNB=\triangle CKM$ pēc pazīmes $mmm$.
 
 ![](LV.AMO.2016.8.4A.png)
 
@@ -618,7 +618,7 @@ katete pret $30^{\circ}$ leņķi ir puse no hipotenūzas. Tāpēc $\quad MN=CN$.
 $\quad \sphericalangle BNM=\sphericalangle CND=90^{\circ}-30^{\circ}=60^{\circ}$,
 tad
 $\sphericalangle MND=180^{\circ}-\sphericalangle BNM-\sphericalangle CND=60^{\circ}$.
-levērojot, ka $ND$ ir trijstūru $MND$ un $CND$ kopīga mala, iegūstam, ka
+Ievērojot, ka $ND$ ir trijstūru $MND$ un $CND$ kopīga mala, iegūstam, ka
 $\triangle MND=\triangle CND$ pēc pazīmes $m \ell m$. Tad $MD=CD$. Līdz ar to
 esam pierādījuši, ka $MD=CD=CM$ jeb trijstūris $CDM$ ir vienādmalu.
 
@@ -698,9 +698,8 @@ pārbaudot ne vairāk kā četrus podus!
 ## Atrisinājums
 
 Ir skaidrs, ka attiecīgās progresijas diference $d$ var būt tikai $1, 2$ vai $3$.
-Pierādīsim, ka Sivēns var izdomāt atbildi,
-
-pārbaudot $4$, $5.$, $6.$ podu un vēl vienu podu.
+Pierādīsim, ka Sivēns var izdomāt atbildi, pārbaudot $4$, $5.$, $6.$
+podu un vēl vienu podu.
 
 - Ja $4.$, $5.$ un $6.$ pods ir pilns, tad izēstie podi ir $7.$, $8.$, $9.$ un
   $10.$
@@ -741,8 +740,8 @@ $\frac{65}{x}$. Otrā kabeļa garums ir $x+3$ un tā katra metra masa ir
 $\frac{120}{x+3}$. legūstam vienādojumu $\frac{120}{x+3}=\frac{65}{x}+2$.
 Reizinot vienādojuma abas puses ar $x(x+3) > 0$, iegūstam vienādojumu
 $120x=65x+195+2x^{2}+6x$ jeb $2x^{2}-49x+195=0$, kura saknes ir $x=5$ un
-$x=19,5$. Tātad pirmā un otrā kabeļa garums attiecīgi var būt $5~ \mathrm{m} un
-$8~ \mathrm{m} vai $19,5~ \mathrm{m}$ un $22,5~ \mathrm{m}$.
+$x=19,5$. Tātad pirmā un otrā kabeļa garums attiecīgi var būt $5~ \mathrm{m}$ un
+$8~ \mathrm{m}$ vai $19,5~ \mathrm{m}$ un $22,5~ \mathrm{m}$.
 
 
 
@@ -838,7 +837,7 @@ Nogrieznis $BD$ ir bisektrise, tāpēc
 $\sphericalangle ABD=\sphericalangle DBC$ (skat. 17.att.). Tā kā
 $BD || CQ$, tad $\sphericalangle BCQ=\sphericalangle DBC$ kā iekšējie
 šķērsleņķi. Savukārt $\sphericalangle BDQ=\sphericalangle BCQ$ kā ievilktie
-leņķi, kas balstās uz viena un tā paša loka $BQ$. Līdz ar to iekšējie škērsleņķi
+leņķi, kas balstās uz viena un tā paša loka $BQ$. Līdz ar to iekšējie šķērsleņķi
 $\sphericalangle ABD=\sphericalangle BDQ$ un tāpēc $AB || DQ$. Četrstūris
 $BDQP$ ir paralelograms, jo $BD || QP$ un $BP || DQ$. Paralelogramā diagonāles
 krustpunktā dalās uz pusēm, tāpēc $PM=MD$.
@@ -878,7 +877,7 @@ $1 \times 5$ rūtiņas var izvietot, piemēram, tā, kā parādīts 19.att.
 
 # <lo-sample/> LV.AMO.2016.11.1
 
-No visiem vienādsānu trijstūriem ar sānu malas garumu $10~ \mathrm{cm} atrast to,
+No visiem vienādsānu trijstūriem ar sānu malas garumu $10~ \mathrm{cm}$ atrast to,
 kuram ir vislielākais laukums!
 
 <small>
@@ -918,12 +917,6 @@ $x^{2}+y^{2}+z^{2}=\underbrace{1111 \ldots 1}_{2016}$ ?
 Apskatām doto vienādojumu pēc moduļa $8$. Viegli pārbaudīt, ka veselu skaitļu
 kvadrāti, dalot ar $8$, var dot tikai atlikumus $0$, $1$ vai $4$.
 
-$$\begin{array}{|c|c|c|c|c|c|c|c|c|}
-\hline \boldsymbol{a}(\bmod 8) & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
-\hline \boldsymbol{a}^{2}(\bmod 8) & 0 & 1 & 4 & 1 & 0 & 1 & 4 & 1 \\
-\hline
-\end{array}$$
-
 | ${a}(\bmod 8)$ | ${a}^{2}(\bmod 8)$ |
 | :------------: | :----------------- |
 | $0$            | $0$                |
@@ -936,14 +929,15 @@ $$\begin{array}{|c|c|c|c|c|c|c|c|c|}
 | $7$            | $1$                |
 
 
-
 Tā kā vienādojuma labajā pusē ir nepāra skaitlis, tad vai nu vienam, vai trim no
 kreisās puses saskaitāmajiem jādod nepāra atlikums. Līdz ar to iespējamās
 vērtības ir
 $0+0+1 \equiv 1(\bmod 8) ; 4+4+1 \equiv 1(\bmod 8)$; $0+4+1 \equiv 5(\bmod 8)$
 vai $1+1+1 \equiv 3(\bmod 8)$.
 
-Tā kā $\underbrace{1111 \ldots 1}_{2016} \equiv \underbrace{1111 \ldots 1}_{2013} 000+111 \equiv 0+7 \equiv 7(\bmod 8)$, tad nevar atrast tādus naturālus skaitļus $x, y$ un $z$, lai dotā vienādība būtu patiesa.
+Tā kā $\underbrace{1111 \ldots 1}_{2016} \equiv \underbrace{1111 \ldots 1}_{2013} 000+111 \equiv 0+7 \equiv 7(\bmod 8)$,
+tad nevar atrast tādus naturālus skaitļus $x, y$ un $z$, lai dotā vienādība būtu
+patiesa.
 
 
 
@@ -951,9 +945,7 @@ Tā kā $\underbrace{1111 \ldots 1}_{2016} \equiv \underbrace{1111 \ldots 1}_{20
 
 Pierādīt nevienādību
 
-$$
-\frac{1}{\sqrt{1}+\sqrt{3}}+\frac{1}{\sqrt{2}+\sqrt{4}}+\frac{1}{\sqrt{3}+\sqrt{5}}+\frac{1}{\sqrt{4}+\sqrt{6}}+\cdots+\frac{1}{\sqrt{48}+\sqrt{50}}<6
-$$
+$$\frac{1}{\sqrt{1}+\sqrt{3}}+\frac{1}{\sqrt{2}+\sqrt{4}}+\frac{1}{\sqrt{3}+\sqrt{5}}+\frac{1}{\sqrt{4}+\sqrt{6}}+\cdots+\frac{1}{\sqrt{48}+\sqrt{50}} < 6$$
 
 <small>
 
@@ -965,23 +957,25 @@ $$
 
 ## Atrisinājums
 
-Ievērojam, ka $\frac{1}{\sqrt{n}+\sqrt{n+2}}=\frac{\sqrt{n+2}-\sqrt{n}}{(\sqrt{n+2}+\sqrt{n})(\sqrt{n+2}-\sqrt{n})}=\frac{\sqrt{n+2}-\sqrt{n}}{n+2-n}=\frac{\sqrt{n+2}-\sqrt{n}}{2}$.
+Ievērojam, ka
+$\frac{1}{\sqrt{n}+\sqrt{n+2}}=\frac{\sqrt{n+2}-\sqrt{n}}{(\sqrt{n+2}+\sqrt{n})(\sqrt{n+2}-\sqrt{n})}=\frac{\sqrt{n+2}-\sqrt{n}}{n+2-n}=\frac{\sqrt{n+2}-\sqrt{n}}{2}$.
 
 Pārveidojot dotās nevienādības kreiso pusi, iegūstam
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & \frac{1}{\sqrt{1}+\sqrt{3}}+\frac{1}{\sqrt{2}+\sqrt{4}}+\frac{1}{\sqrt{3}+\sqrt{5}}+\frac{1}{\sqrt{4}+\sqrt{6}}+\cdots+\frac{1}{\sqrt{48}+\sqrt{50}}= \\
 & =\frac{\sqrt{3}-\sqrt{1}+\sqrt{4}-\sqrt{2}+\sqrt{5}-\sqrt{3}+\sqrt{6}-\sqrt{4}+\cdots+\sqrt{49}-\sqrt{47}+\sqrt{50}-\sqrt{48}}{2}= \\
 & =\frac{-\sqrt{1}-\sqrt{2}+\sqrt{49}+\sqrt{50}}{2}=3+2 \sqrt{2}<3+2 \cdot 1,5=6
-\end{aligned}
-$$
+\end{aligned}$$
 
 
 
 # <lo-sample/> LV.AMO.2016.11.4
 
-Kvadrāta $A B C D$ diagonāles krustojas punktā $K$. Nogriežņi $A E$ un $B F$, kas ir attiecīgi trijstūru $B A C$ un $A B D$ bisektrises, krustojas punktā $H$. Nogriežņi $B F$ un $A C$ krustojas punktā $G$, bet $A E$ un $B D$ - punktā $J$. Pierādīt, ka trijstūra $A F G$ laukums ir vienāds ar četrstūra $G H J K$ laukumu!
+Kvadrāta $ABCD$ diagonāles krustojas punktā $K$. Nogriežņi $AE$ un $BF$, kas ir
+attiecīgi trijstūru $BAC$ un $ABD$ bisektrises, krustojas punktā $H$. Nogriežņi
+$BF$ un $AC$ krustojas punktā $G$, bet $AE$ un $BD$- punktā $J$. Pierādīt, ka
+trijstūra $AFG$ laukums ir vienāds ar četrstūra $GHJK$ laukumu!
 
 <small>
 
@@ -993,25 +987,40 @@ Kvadrāta $A B C D$ diagonāles krustojas punktā $K$. Nogriežņi $A E$ un $B F
 
 ## Atrisinājums
 
-Novelkam nogriezni $H K$ (skat. 20.att.). Simetrijas dē! $H K \| A D$ un sadala četrstūri $G H J K$ divās vienādās daļās, tas ir, $S_{H G K}=S_{H J K}$.
+Novelkam nogriezni $HK$ (skat. 20.att.). Simetrijas dēļ $HK || AD$ un sadala
+četrstūri $GHJK$ divās vienādās daļās, tas ir, $S_{HGK}=S_{HJK}$.
 
-Trijstūri $A F G$ un $K H G$ ir līdzīgi pēc pazīmes $\ell \ell$, jo $\sphericalangle A G F=\sphericalangle K G H$ kā krustleņķi un $\sphericalangle F A G=\sphericalangle H K G$ kā iekšējie škērslenki pie paralēlām taisnēm $A F$ un $H K$.
+Trijstūri $AFG$ un $KHG$ ir līdzīgi pēc pazīmes $\ell \ell$, jo
+$\sphericalangle AGF=\sphericalangle KGH$ kā krustleņķi un
+$\sphericalangle FAG=\sphericalangle HKG$ kā iekšējie šķērsleņķi pie paralēlām
+taisnēm $AF$ un $HK$.
 
-Tā kā $B G$ ir $\triangle A B K$ bisektrise, tad, izmantojot bisektrises īpašību (bisektrise sadala pretējo malu tādā proporcijā, kādu veido sānu malu garumi), iegūstam $\frac{A G}{G K}=\frac{A B}{B K}=\frac{A B}{\frac{\sqrt{2}}{2} A B}=\sqrt{2}$.
+Tā kā $BG$ ir $\triangle ABK$ bisektrise, tad, izmantojot bisektrises īpašību
+(bisektrise sadala pretējo malu tādā proporcijā, kādu veido sānu malu garumi),
+iegūstam
+$\frac{AG}{GK}=\frac{AB}{BK}=\frac{AB}{\frac{\sqrt{2}}{2} AB}=\sqrt{2}$.
 
-Līdzīgu trijstūru laukumu attiecība ir vienāda ar malu attiecības kvadrātu, tāpēc $S_{A F G}=2 S_{K H G}=S_{G H J K}$.
+Līdzīgu trijstūru laukumu attiecība ir vienāda ar malu attiecības kvadrātu,
+tāpēc $S_{AFG}=2S_{KHG}=S_{GHJK}$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_0f86255347be299a0103g-08.jpg?height=310&width=324&top_left_y=2038&top_left_x=866)
+![](LV.AMO.2016.11.4A.png)
 
-20.att.
-
-*Piezīme.* Trijstūru līdzības koeficientu var atrast arī pamatojot, ka $A F=A G$, un apskatot attiecību $\frac{A F}{G K}=\frac{1-\operatorname{tg} \frac{\pi}{8}}{\operatorname{tg} \frac{\pi}{8}}$ un, izmantojot formulu $\operatorname{tg} 2 \alpha=\frac{\operatorname{tg} \alpha}{1-\operatorname{tg}^{2} \alpha}$, aprēķināt vērtību $\operatorname{tg} \frac{\pi}{8}=\sqrt{2}-1$.
+*Piezīme.* Trijstūru līdzības koeficientu var atrast arī pamatojot, ka
+$AF=AG$, un apskatot attiecību
+$\frac{AF}{GK}=\frac{1-\mbox{tg}\ \frac{\pi}{8}}{\mbox{tg}\ \frac{\pi}{8}}$
+un, izmantojot formulu $\mbox{tg}\ 2 \alpha=\frac{\mbox{tg}\ \alpha}{1-\mbox{tg}\^{2} \alpha}$,
+aprēķināt vērtību $\mbox{tg}\ \frac{\pi}{8}=\sqrt{2}-1$.
 
 
 
 # <lo-sample/> LV.AMO.2016.11.5
 
-Uz kādas salas dzīvo zaļi, zili un sarkani hameleoni. Ja divi atškirīgas krāsas hameleoni satiekas, tie abi maina savu krāsu uz trešo krāsu. Piemēram, ja satiekas zilais hameleons ar sarkano, tie abi klūst par zaļiem hameleoniem. Vai iespējams, ka pēc kāda laika uz salas visi hameleoni būs vienā krāsā, ja sākumā ir a) 11 zaļi, 15 zili un 16 sarkani hameleoni, b) 12 zali, 15 zili un 16 sarkani hameleoni?
+Uz kādas salas dzīvo zaļi, zili un sarkani hameleoni. Ja divi atšķirīgas krāsas
+hameleoni satiekas, tie abi maina savu krāsu uz trešo krāsu. Piemēram, ja
+satiekas zilais hameleons ar sarkano, tie abi klūst par zaļiem hameleoniem. Vai
+iespējams, ka pēc kāda laika uz salas visi hameleoni būs vienā krāsā, ja
+sākumā ir **a)** $11$ zaļi, $15$ zili un $16$ sarkani hameleoni, **b)** $12$
+zaļi, $15$ zili un $16$ sarkani hameleoni?
 
 <small>
 
@@ -1023,15 +1032,20 @@ Uz kādas salas dzīvo zaļi, zili un sarkani hameleoni. Ja divi atškirīgas kr
 
 ## Atrisinājums
 
-a) Pamatosim, ka prasītais nav iespējams. Ja aplūko hameleonu skaitu pēc moduļa 3, tad sākotnēji tas ir $(2,0,1)$. Pēc jebkuru divu dažādu krāsu hameleonu satikšanās šis skaits pēc moduļa 3 mainās uz (1, 2, 0). Tātad panākt situāciju, ka divu krāsu hameleonu skaits būtu 0 , nav iespējams.
+**a)** Pamatosim, ka prasītais nav iespējams. Ja aplūko hameleonu skaitu pēc
+moduļa $3$, tad sākotnēji tas ir $(2,0,1)$. Pēc jebkuru divu dažādu krāsu
+hameleonu satikšanās šis skaits pēc moduļa $3$ mainās uz (1, 2, 0). Tātad
+panākt situāciju, ka divu krāsu hameleonu skaits būtu $0$, nav iespējams.
 
-b) Jā, ir iespējams: $(12,15,16) \rightarrow(14,14,15) \rightarrow(13,13,17) \rightarrow \ldots \rightarrow(1,1,41) \rightarrow(0,0,43)$.
+**b)** Jā, ir iespējams:
+$(12,15,16) \rightarrow(14,14,15) \rightarrow(13,13,17) \rightarrow \ldots \rightarrow(1,1,41) \rightarrow(0,0,43)$.
 
 
 
 # <lo-sample/> LV.AMO.2016.12.1
 
-Atrisināt vienādojumu $4 \cdot\left(\frac{2}{3}\right)^{\sin x}+9 \cdot\left(\frac{3}{2}\right)^{\sin x}-13=0$.
+Atrisināt vienādojumu
+$4 \cdot\left(\frac{2}{3}\right)^{\sin x}+9 \cdot\left(\frac{3}{2}\right)^{\sin x}-13=0$.
 
 <small>
 
@@ -1043,7 +1057,10 @@ Atrisināt vienādojumu $4 \cdot\left(\frac{2}{3}\right)^{\sin x}+9 \cdot\left(\
 
 ## Atrisinājums
 
-Apzīmējam $\left(\frac{2}{3}\right)^{\sin x}=a>0$, tad $4 a+9 \cdot \frac{1}{a}-13=0$. Reizinot abas puses ar $a>0$, iegūstam vienādojumu $4 a^{2}-13 a+9=0$, kura saknes ir $a=1$ un $a=\frac{9}{4}$. Apskatām abus gadījumus:
+Apzīmējam $\left(\frac{2}{3}\right)^{\sin x}=a > 0$, tad
+$4a+9 \cdot \frac{1}{a}-13=0$. Reizinot abas puses ar $a > 0$, iegūstam
+vienādojumu $4a^{2}-13a+9=0$, kura saknes ir $a=1$ un $a=\frac{9}{4}$.
+Apskatām abus gadījumus:
 
 $\left(\frac{2}{3}\right)^{\sin x}=1 \quad \Rightarrow \quad \sin x=0 \quad \Rightarrow \quad x=\pi n, n \in \mathbb{Z}$;
 
@@ -1055,7 +1072,8 @@ Tātad dotā vienādojuma atrisinājums ir $x=\pi n, n \in \mathbb{Z}$.
 
 # <lo-sample/> LV.AMO.2016.12.2
 
-Pierādīt, ka vienādojumam $10^{x}+12^{y}=34^{z}$ nav atrisinājuma naturālos skaitlos!
+Pierādīt, ka vienādojumam $10^{x}+12^{y}=34^{z}$ nav atrisinājuma naturālos
+skaitļos!
 
 <small>
 
@@ -1067,13 +1085,19 @@ Pierādīt, ka vienādojumam $10^{x}+12^{y}=34^{z}$ nav atrisinājuma naturālos
 
 ## Atrisinājums
 
-Apskatīsim doto vienādojumu pēc moduļa 11. Tā kā $10 \equiv-1(\bmod 11), 12 \equiv 1(\bmod 11)$ un $34 \equiv 1(\bmod 11)$, tad iegūstam $(-1)^{x}+1^{y} \equiv 1^{z}(\bmod 11)$. Šī kongruence nav patiesa, jo kreisās puses izteiksmes vērtība ir 0 vai 2 , bet labās puses izteiksmes vērtība ir 1. Tātad dotajam vienādojumam nav atrisinājuma naturālos skaitlos.
+Apskatīsim doto vienādojumu pēc moduļa $11$. Tā kā
+$10 \equiv-1(\bmod 11), 12 \equiv 1(\bmod 11)$ un $34 \equiv 1(\bmod 11)$,
+tad iegūstam $(-1)^{x}+1^{y} \equiv 1^{z}(\bmod 11)$. Šī kongruence nav
+patiesa, jo kreisās puses izteiksmes vērtība ir $0$ vai $2$, bet labās puses
+izteiksmes vērtība ir $1$. Tātad dotajam vienādojumam nav atrisinājuma
+naturālos skaitļos.
 
 
 
 # <lo-sample/> LV.AMO.2016.12.3
 
-Zināms, ka reāliem skaitliem $x, y$ un $z$ izpildās nevienādība $2 x^{2}+x y+x z<0$. Pierādīt, ka izpildās arī nevienādība $y^{2}>8 x z$.
+Zināms, ka reāliem skaitļiem $x, y$ un $z$ izpildās nevienādība
+$2x^{2}+xy+xz < 0$. Pierādīt, ka izpildās arī nevienādība $y^{2} > 8xz$.
 
 <small>
 
@@ -1085,27 +1109,30 @@ Zināms, ka reāliem skaitliem $x, y$ un $z$ izpildās nevienādība $2 x^{2}+x 
 
 ## Atrisinājums
 
-Apzīmēsim $x z=t$. Tad $2 x^{2}+x y+t<0$. Tas nozīmē, ka kvadrātvienādojumam $2 x^{2}+x y+t=0$ ir divas dažādas saknes, jo kvadrātfunkcijas $2 x^{2}+x y+t$ zari ir vērsti uz augšu un vismaz viens punkts atrodas zem $x$ ass. Tātad $D=y^{2}-8 t>0$. levietojot $t=x z$ iegūstam $y^{2}>8 x z$.
+Apzīmēsim $xz=t$. Tad $2x^{2}+xy+t < 0$. Tas nozīmē, ka kvadrātvienādojumam
+$2x^{2}+xy+t=0$ ir divas dažādas saknes, jo kvadrātfunkcijas
+$2x^{2}+xy+t$ zari ir vērsti uz augšu un vismaz viens punkts atrodas zem $x$
+ass. Tātad $D=y^{2}-8t > 0$. levietojot $t=xz$ iegūstam $y^{2} > 8xz$.
 
 ## Atrisinājums
 
-Reizinām doto nevienādību ar 2 un izdalām no tās pilno kvadrātu:
+Reizinām doto nevienādību ar $2$ un izdalām no tās pilno kvadrātu:
 
-$$
-\begin{gathered}
-4 x^{2}+2 x y+\frac{y^{2}}{4}-\frac{y^{2}}{4}+2 x z<0 \\
-\left(2 x+\frac{y}{2}\right)^{2}-\left(\frac{y^{2}}{4}-2 x z\right)<0 \\
-\frac{y^{2}}{4}-2 x z>\left(2 x+\frac{y}{2}\right)^{2} \geq 0
-\end{gathered}
-$$
+$$\begin{gathered}
+4x^{2}+2xy+\frac{y^{2}}{4}-\frac{y^{2}}{4}+2xz < 0 \\
+\left(2x+\frac{y}{2}\right)^{2}-\left(\frac{y^{2}}{4}-2xz\right) < 0 \\
+\frac{y^{2}}{4}-2xz > \left(2x+\frac{y}{2}\right)^{2} \geq 0
+\end{gathered}$$
 
-Tātad $\frac{y^{2}}{4}>2 x z$ jeb $y^{2}>8 x z$.
+Tātad $\frac{y^{2}}{4} > 2xz$ jeb $y^{2} > 8xz$.
 
 
 
 # <lo-sample/> LV.AMO.2016.12.4
 
-Trijstūrī $A B C$ leņka $\sphericalangle A B C$ bisektrise krusto tam apvilkto riņķa līniju punktā $D$. Nogriežņi $D P$ un $D Q$ ir attiecīgi trijstūru $A B D$ un $B C D$ augstumi. Pierādīt, ka nogrieznis $P Q$ krusto malu $A C$ tās viduspunktā!
+Trijstūrī $ABC$ leņķa $\sphericalangle ABC$ bisektrise krusto tam apvilkto
+riņķa līniju punktā $D$. Nogriežņi $DP$ un $DQ$ ir attiecīgi trijstūru $ABD$ un
+$BCD$ augstumi. Pierādīt, ka nogrieznis $PQ$ krusto malu $AC$ tās viduspunktā!
 
 <small>
 
@@ -1117,17 +1144,36 @@ Trijstūrī $A B C$ leņka $\sphericalangle A B C$ bisektrise krusto tam apvilkt
 
 ## Atrisinājums
 
-Apzīmējam $\sphericalangle A B D=\sphericalangle D B C=\alpha$ un $P Q$ un $A C$ krustpunktu ar $M$ (skat 21.att.). Četrstūra $B P D Q$ pretējo leņu summa ir $\sphericalangle B P D+\sphericalangle B Q D=90^{\circ}+90^{\circ}=180^{\circ}$, tāpēc tam var apvilkt riņka līniju. legūstam, ka $\sphericalangle D P Q=\sphericalangle D B Q=\alpha$ kā ievilktie leņķi, kas balstās uz vienu un to pašu loku $D Q$. Savukārt $\sphericalangle D A C=\sphericalangle D B C=\alpha$ kā ievilktie leņķi, kas balstās uz viena un tā paša loka $D C$ (riņ, līnijā, kas apvilkta ap $\triangle A B C)$. Tas nozīmē, ka ap četrstūri $A P M D$ var apvilkt riņķa līniju, jo $\sphericalangle D A M=\sphericalangle D P M=\alpha$. Līdz ar to $\sphericalangle A M D=\sphericalangle A P D=90^{\circ}$ kā ievilktie leņķi, kas balstās uz diametra $A D$.
+Apzīmējam $\sphericalangle ABD=\sphericalangle DBC=\alpha$ un $PQ$ un $AC$
+krustpunktu ar $M$ (skat 21.att.). Četrstūra $BPDQ$ pretējo leņķu summa ir
+$\sphericalangle BPD+\sphericalangle BQD=90^{\circ}+90^{\circ}=180^{\circ}$,
+tāpēc tam var apvilkt riņķa līniju. legūstam, ka
+$\sphericalangle DPQ=\sphericalangle DBQ=\alpha$ kā ievilktie leņķi, kas
+balstās uz vienu un to pašu loku $DQ$. Savukārt
+$\sphericalangle DAC=\sphericalangle DBC=\alpha$ kā ievilktie leņķi, kas
+balstās uz viena un tā paša loka $DC$ (riņķa, līnijā, kas apvilkta ap
+$\triangle ABC)$. Tas nozīmē, ka ap četrstūri $APMD$ var apvilkt riņķa līniju,
+jo $\sphericalangle DAM=\sphericalangle DPM=\alpha$. Līdz ar to
+$\sphericalangle AMD=\sphericalangle APD=90^{\circ}$ kā ievilktie leņķi, kas
+balstās uz diametra $AD$.
 
-levērojam, ka $\sphericalangle A C D=\sphericalangle A B D=\alpha$ kā ievilktie leņķi, kas balstās uz vienu un to pašu loku $A D$. Tāpēc trijstūris $A D C$ ir vienādsānu ar pamatu $A C$ un $A D=D C$. Vienādsānu trijstūrī augstums pret pamatu vienlaicīgi ir arī mediāna, tāpēc $A M=M C$.
+Ievērojam, ka $\sphericalangle ACD=\sphericalangle ABD=\alpha$ kā ievilktie
+leņķi, kas balstās uz vienu un to pašu loku $AD$. Tāpēc trijstūris $ADC$ ir
+vienādsānu ar pamatu $AC$ un $AD=DC$. Vienādsānu trijstūrī augstums pret pamatu
+vienlaicīgi ir arī mediāna, tāpēc $AM=MC$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_27_0f86255347be299a0103g-10.jpg?height=561&width=615&top_left_y=125&top_left_x=778)
+![](LV.AMO.2016.12.4A.png)
 
 
 
 # <lo-sample/> LV.AMO.2016.12.5
 
-Dotas piecas pēc ārējā izskata vienādas monētas. Trīs no tām ir īstas (to masas ir vienādas savā starpā), divas viltotas (to masas arī ir vienādas savā starpā, bet atškiras no īsto monētu masas). Nav zināms, vai viltotā monēta ir vieglāka vai smagāka par īsto. Doti arī sviras svari, uz kuriem ir iespējams nolasīt uz kausiem uzlikto masu starpību. Vai ar divām svēršanām var atrast vienu īsto monētu?
+Dotas piecas pēc ārējā izskata vienādas monētas. Trīs no tām ir īstas (to
+masas ir vienādas savā starpā), divas viltotas (to masas arī ir vienādas savā
+starpā, bet atšķiras no īsto monētu masas). Nav zināms, vai viltotā monēta ir
+vieglāka vai smagāka par īsto. Doti arī sviras svari, uz kuriem ir iespējams
+nolasīt uz kausiem uzlikto masu starpību. Vai ar divām svēršanām var atrast
+vienu īsto monētu?
 
 <small>
 
@@ -1139,7 +1185,10 @@ Dotas piecas pēc ārējā izskata vienādas monētas. Trīs no tām ir īstas (
 
 ## Atrisinājums
 
-Parādīsim, ka to var izdarīt ar divām svēršanām. Apzīmējam monētas ar $A, B, C, D, E$. Pirmajā svēršanā vienā svaru kausā liekam $A$ un $B$, otrā $-C$ un $D$; nenegatīvo starpību apzīmējam ar $x$. Otrajā svēršanā salīdzinām $A$ un $C$; nenegatīvo starpību apzīmējam ar $y$.
+Parādīsim, ka to var izdarīt ar divām svēršanām. Apzīmējam monētas ar
+$A, B, C, D, E$. Pirmajā svēršanā vienā svaru kausā liekam $A$ un $B$, otrā-
+$C$ un $D$; nenegatīvo starpību apzīmējam ar $x$. Otrajā svēršanā salīdzinām
+$A$ un $C$; nenegatīvo starpību apzīmējam ar $y$.
 
 Ja $x=0$, tad $E$ ir īsta monēta.
 
