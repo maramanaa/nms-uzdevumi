@@ -242,7 +242,7 @@ tātad arī $x^{10}y$ ir naturāla skaitļa $33.$ pakāpe.
 
 Trijstūra $ABC$ leņķu $\sphericalangle CAB$ un $\sphericalangle BCA$ 
 bisektrises krusto tam apvilkto riņķa līniju attiecīgi punktos $P$ un $Q$, bet 
-pašas krustojas punktā $I$. Pierādīt, ka $PQ \perp BI$ !
+pašas krustojas punktā $I$. Pierādīt, ka $PQ \perp BI$!
 
 <small>
 
