@@ -46,7 +46,7 @@ skaitlis, kas dalās ar $8$, ir $123456$.
 **(B)** Lai skaitlis dalītos ar $18$, tam vienlaicīgi jādalās ar $2$ un $9$. 
 Pirmais skaitlis, kas dalās ar $9$ (pārbaudām pēc ciparu summas), ir 
 $12345678$. Tā kā šis ir arī pāra skaitlis, tad tas dalās ar $2$ un līdz ar to 
-tas dalās arī ar $18$, jo skaitli $2$ un $9$ ir savstarpēji pirmskaitļi. Tātad 
+tas dalās arī ar $18$, jo skaitļi $2$ un $9$ ir savstarpēji pirmskaitļi. Tātad 
 mazākais skaitlis, kas apmierina uzdevuma nosacījumus, ir $12345678$.
 
 
@@ -478,7 +478,7 @@ $0$, ne $8$. Tātad skaitlis $BURBUĻVANNA$ nedalās ar $56$.
 
 # <lo-sample/> LV.NOL.2016.8.3
 
-Caur taisnstūra $ABCD$ diagonālu krustpunktu $O$ novilkta taisne $PQ$ tā, ka 
+Caur taisnstūra $ABCD$ diagonāļu krustpunktu $O$ novilkta taisne $PQ$ tā, ka 
 $P$ atrodas uz $AD,\ Q$ - uz $BC$ un $PQ=QD$. Pierādīt, ka $DP=2AP$.
 
 <small>
@@ -503,7 +503,7 @@ Līdz ar to $AP=PH=HD$ un $DP=PH+HD=2AP$.
 
 # <lo-sample/> LV.NOL.2016.8.4
 
-Kādu lielāko skaitu rūtiņu diagonālu var novilkt $4 \times 4$ rūtiņas lielā 
+Kādu lielāko skaitu rūtiņu diagonāļu var novilkt $4 \times 4$ rūtiņas lielā 
 tabulā, lai šīs diagonāles veidotu slēgtu lauztu līniju? Lauztā līnija nedrīkst
 pati sevi krustot vai pieskarties.
 
@@ -558,14 +558,14 @@ skaitļus no intervāla $[a-0,5; a+0,5)$, iegūstam $a$. Tā kā šī intervāla
 ir $1$, tad secinām, ja starpība starp diviem skaitļiem ir lielāka nekā $1$, 
 tad, tos noapaļojot, iegūst dažādus skaitļus. Ņemam divas blakus esošas cenas 
 $a$ un $a+1$ pirms PVN pievienošanas un reizinām tās ar $1,21$. Iegūto skaitļu 
-starpība $1,21(a+1)$ - $1,21a=1,21$ ir lielāka nekā $1$, tātad pēc noapaļšanas 
+starpība $1,21(a+1)$ - $1,21a=1,21$ ir lielāka nekā $1$, tātad pēc noapaļošanas
 iegūtie skaitļi ir dažādi.
 
 Ievērojam, ka $826 \cdot 1,21=999,46 \approx 999$, bet 
 $827 \cdot 1,21=1000,67 \approx 1001$, tāpēc visi skaitļi, kuri nepārsniedz 
 $826$, pēc PVN pievienošanas attēlosies par cenām intervālā no $1$ līdz $1000$.
 Tādēļ, pievienojot PVN skaitliem starp $1$ un $826$, mēs varam iegūt pavisam 
-$826$ dažādas cenas intervālā [1; 1000]. Visas pārējās cenas būs neiespējamās, 
+$826$ dažādas cenas intervālā $[1; 1000]$. Visas pārējās cenas būs neiespējamās, 
 tādu pavisam ir $1000-826=174$.
 
 
@@ -895,7 +895,7 @@ zaudēja. Tātad viņš zaudēja arī sestajā partijā.
 
 Pierādīt, ka katram naturālam $n$ rūtiņu lapā, kurā rūtiņas malas garums ir 
 $1$, pa rūtiņu līnijām ir iespējams uzzīmēt astoņstūri tā, ka tā malu garumi 
-pēc kārtas ir $n;\ n+1;\ n+2;\ n+3;\ n+4;\ n+5$;\ $n+6;\ n+7$.
+pēc kārtas ir $n;\ n+1;\ n+2;\ n+3;\ n+4;\ n+5;\ n+6;\ n+7$.
 
 <small>
 
@@ -1125,7 +1125,7 @@ Ievērojam, ka
 $a^{4}-b^{4}=\left(a^{2}-b^{2}\right)\left(a^{2}+b^{2}\right)=(a-b)(a+b)\left(a^{2}+b^{2}\right)$.
 
 Tā kā $11^{4}-7^{4}=4 \cdot 18 \cdot(121+49)=2^{4} \cdot 3^{2} \cdot 5 \cdot 17=240 \cdot 51$
-un $13^{4}-11^{4}=2 \cdot 24 \cdot(169+121)=$ $=2^{4} \cdot 3 \cdot 5 \cdot 29=240 \cdot 29$,
+un $13^{4}-11^{4}=2 \cdot 24 \cdot(169+121)=2^{4} \cdot 3 \cdot 5 \cdot 29=240 \cdot 29$,
 tad meklētais lielākais kopīgais dalītājs $d$ nevar būt lielāks kā $240$. 
 Pamatosim, ka visi skaitļi dalās ar $240$, līdz ar to būs pierādīts, ka 
 $d=240$. Ievērosim, ka $240=16 \cdot 3 \cdot 5$; tā kā visi reizinātāji ir 
