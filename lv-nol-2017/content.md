@@ -333,7 +333,7 @@ labi. Cik dažādos veidos varde no rūtiņas $A$ var nokļut rūtiņā $B$
 
 ## Atrisinājums
 
-Pakāpeniski aprēķinām, cik veidos varde var nokļūt katrā rūtiņā. levērojam, ka
+Pakāpeniski aprēķinām, cik veidos varde var nokļūt katrā rūtiņā. Ievērojam, ka
 rūtiņā $X$ (skat. 12.att.) varde var nokļūt no rūtiņas $C$ vai $D$. Ja rūtiņā
 $C$ varde var nokļūt $c$ veidos, bet rūtiņā $D$ tā var nokļūt $d$ veidos, tad
 rūtiņā $X$ varde var nokļūt $c+d$ veidos. Tātad no rūtiņas $A$ rūtiņā $B$ varde
@@ -414,7 +414,7 @@ $\sphericalangle BAF=\sphericalangle BEF!$
 
 Apzīmējam $\sphericalangle ABF=\sphericalangle EBF=\beta$ un
 $\sphericalangle AFD=\sphericalangle ADF=\alpha$ un aprēķināsim
-$\sphericalangle BAF$ un $\sphericalangle BEF$. levērojam, ka
+$\sphericalangle BAF$ un $\sphericalangle BEF$. Ievērojam, ka
 $\sphericalangle AFB=180^{\circ}-\sphericalangle AFD=180^{\circ}-\alpha$
 (blakusleņķu summa ir $180^{\circ}$ ), tad no trijstūra $BAF$ iegūstam, ka
 $\sphericalangle BAF=180^{\circ}-\sphericalangle ABF-\sphericalangle AFB=180^{\circ}-\beta-\left(180^{\circ}-\alpha\right)=\alpha-\beta \quad$
@@ -997,7 +997,7 @@ Trijstūri $AOF$ un $COG$ ir vienādi pēc pazīmes $\ell m \ell$, jo
 $\sphericalangle OAF=\sphericalangle OCG$ (iekšējie šķērsleņķi), $AO=OC$ un
 $\sphericalangle AOF=\sphericalangle COG$ (krustleņķi). Tāpēc $AF=CG=x$, no kā
 izriet, ka $BG=BC-CG=3x-x=2x$. Trijstūrī $BFG$ no punkta $F$ novelkam augstumu
-$FU$. levērojam, ka četrstūris $ABUF$ ir taisnstūris, tāpēc $AF=BU=x$ kā
+$FU$. Ievērojam, ka četrstūris $ABUF$ ir taisnstūris, tāpēc $AF=BU=x$ kā
 taisnstūra pretējās malas. Esam ieguvuši, ka $UG=BG-BU=2x-x=x=B U$. Tātad $FU$
 ir trijstūra $BFG$ mediāna. Tā kā $FU$ trijstūrī $BFG$ ir gan mediāna, gan
 augstums, tad trijstūris $BFG$ ir vienādsānu trijstūris, kas arī bija jāpierāda.
@@ -1299,7 +1299,7 @@ punkta ārpus tās. Līdz ar to $\sphericalangle MAB=\sphericalangle MBA=\alpha$
 kā leņķi pie pamata vienādsānu trijstūrī. Līdzīgi iegūstam atlikušo leņķu pāru
 vienādības.
 
-levērojam, ka
+Ievērojam, ka
 $\sphericalangle DAB+\sphericalangle ABC+\sphericalangle BCD+\sphericalangle CDA=2 \alpha+2 \beta+2 \gamma+2 \delta=360^{\circ}$,
 no kurienes iegūstam, ka $\alpha+\beta+\gamma+\delta=180^{\circ}$. Tā kā
 $\sphericalangle DAB+\sphericalangle BCD=\alpha+\beta+\gamma+\delta=180^{\circ}$,
@@ -1354,7 +1354,7 @@ tad simetrijas dēļ vienā kolonnā punktu ir ieguvusi viena spēlētāja, bet
 otrā-otra spēlētāja. Tas pats attiecas uz pirmo un trešo rindu. Tātad
 aprakstītā stratēģija vienmēr garantē Antras uzvaru ar rezultātu $6:2$.
 
-levērosim, ka spēle ir simetriska attiecībā uz izmantotajiem simboliem- pāra
+Ievērosim, ka spēle ir simetriska attiecībā uz izmantotajiem simboliem- pāra
 skaits krustiņu kādā virzienā nozīmē nepāra skaitu nullīšu un otrādi. Tātad,
 ja pirmā gājienu izdara Baiba, tad viņai centrālajā rūtiņā jāieliek „ $0$ ” un
 tālāk jāspēlē pēc iepriekš aprakstītās stratēģijas.
