@@ -35,7 +35,7 @@ $14 \cdot a+2 \cdot b+1=2016$ ?
 
 ## Atrisinājums
 
-levērojam, ka $14 \cdot a$ un $2 \cdot b$ ir pāra skaitļi. Tātad dotā
+Ievērojam, ka $14 \cdot a$ un $2 \cdot b$ ir pāra skaitļi. Tātad dotā
 vienādojuma kreisās puses izteiksmes vērtība ir nepāra skaitlis, bet labajā pusē
 ir pāra skaitlis. Tā kā pāra skaitlis nevar būt vienāds ar nepāra skaitli, tad
 nevar atrast tādus naturālus skaitļus $a$ un $b$, lai dotā vienādība būtu
@@ -150,7 +150,7 @@ $14 \cdot a+15=2016-6 \cdot b$ ?
 
 ## Atrisinājums
 
-levērojam, ka $14 \cdot a$ ir pāra skaitlis, tātad dotā vienādojuma kreisās
+Ievērojam, ka $14 \cdot a$ ir pāra skaitlis, tātad dotā vienādojuma kreisās
 puses izteiksmes vērtība ir nepāra skaitlis. Tā kā
 $6 \cdot b$ ir pāra skaitlis, tad vienādojuma labajās puses izteiksmes vērtība
 ir pāra skaitlis. Tā kā pāra skaitlis nevar būt vienāds ar nepāra skaitli, tad
@@ -298,7 +298,7 @@ centu). Cik samaksāja Brālītis?
 ## Atrisinājums
 
 Apzīmējot pīrādziņu cenu centos ar $p$ un magoņmaizīšu cenu centos ar $m$,
-iegūstam vienādojumu $8p+15m=200$ jeb $15m=200-8p$. levērojam, ka vienādojuma
+iegūstam vienādojumu $8p+15m=200$ jeb $15m=200-8p$. Ievērojam, ka vienādojuma
 labā puse dalās ar $8$ (jo katrs saskaitāmais dalās ar $8$), tātad arī
 vienādojuma kreisajai pusei ir jādalās ar $8$. Tā kā skaitļi $15$ un $8$ ir
 savstarpēji pirmskaitļi, tad $m$ ir jādalās ar $8$. Tā kā $m$ un $p$ ir
@@ -324,7 +324,7 @@ Pierādīt, ka $\sphericalangle ANC=90^{\circ}$.
 
 ## Atrisinājums
 
-levērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
+Ievērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
 $\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie škērsleņķi pie paralēlām
 taisnēm, $BD$- kopīga mala un $\sphericalangle ADB=\sphericalangle CBD$ kā
 iekšējie škērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
@@ -393,7 +393,7 @@ Pierādīt, ka varde ir apēdusi vismaz $21$ mušu!
 
 ## Atrisinājums
 
-levērosim, ka varde ir pamīšus baltās un melnās rūtiņās, tāpēc viņa ir
+Ievērosim, ka varde ir pamīšus baltās un melnās rūtiņās, tāpēc viņa ir
 apmeklējusi vismaz $100:2=50$ baltas rūtiņas. Kopējais balto rūtiņu skaits ir
 $72$, tāpēc neapmeklētas paliek ne vairāk kā $72-50=22$ baltas rūtiņas. Pat ja
 visās neapmeklētajās baltajās rūtiņās ir pa mušai, varde ir apēdusi vismaz
@@ -618,7 +618,7 @@ katete pret $30^{\circ}$ leņķi ir puse no hipotenūzas. Tāpēc $\quad MN=CN$.
 $\quad \sphericalangle BNM=\sphericalangle CND=90^{\circ}-30^{\circ}=60^{\circ}$,
 tad
 $\sphericalangle MND=180^{\circ}-\sphericalangle BNM-\sphericalangle CND=60^{\circ}$.
-levērojot, ka $ND$ ir trijstūru $MND$ un $CND$ kopīga mala, iegūstam, ka
+Ievērojot, ka $ND$ ir trijstūru $MND$ un $CND$ kopīga mala, iegūstam, ka
 $\triangle MND=\triangle CND$ pēc pazīmes $m \ell m$. Tad $MD=CD$. Līdz ar to
 esam pierādījuši, ka $MD=CD=CM$ jeb trijstūris $CDM$ ir vienādmalu.
 
@@ -1013,12 +1013,6 @@ un, izmantojot formulu $\mbox{tg}\ 2 \alpha=\frac{\mbox{tg}\ \alpha}{1-\mbox{tg}
 aprēķināt vērtību $\mbox{tg}\ \frac{\pi}{8}=\sqrt{2}-1$.
 
 
-$\frac{AF}{GK}=\frac{1-\operatorname{tg} \frac{\pi}{8}}{\operatorname{tg} \frac{\pi}{8}}$
-un, izmantojot formulu $\operatorname{tg} 2 \alpha=\frac{\operatorname{tg} \alpha}{1-\operatorname{tg}^{2} \alpha}$,
-aprēķināt vērtību $\operatorname{tg} \frac{\pi}{8}=\sqrt{2}-1$.
-
-
-
 
 # <lo-sample/> LV.AMO.2016.11.5
 
@@ -1164,7 +1158,7 @@ jo $\sphericalangle DAM=\sphericalangle DPM=\alpha$. Līdz ar to
 $\sphericalangle AMD=\sphericalangle APD=90^{\circ}$ kā ievilktie leņķi, kas
 balstās uz diametra $AD$.
 
-levērojam, ka $\sphericalangle ACD=\sphericalangle ABD=\alpha$ kā ievilktie
+Ievērojam, ka $\sphericalangle ACD=\sphericalangle ABD=\alpha$ kā ievilktie
 leņķi, kas balstās uz vienu un to pašu loku $AD$. Tāpēc trijstūris $ADC$ ir
 vienādsānu ar pamatu $AC$ un $AD=DC$. Vienādsānu trijstūrī augstums pret pamatu
 vienlaicīgi ir arī mediāna, tāpēc $AM=MC$.
