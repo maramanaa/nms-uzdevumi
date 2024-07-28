@@ -102,7 +102,7 @@ kaimiņi. Tieši tāpat stūrī nav arī skaitlis $9$, jo tad skaitlim $8$ būtu
 kaimiņi. Tātad tiem ir vēl pa vienam kaimiņam. Skaidrs, ka skaitlim $8$ vēl ir 
 kaimiņš $15$, bet skaitlim $9$ vēl ir kaimiņš $2$. Iespējami divi gadījumi, kur
 attiecībā pret skaitli $8$ var būt ierakstīts skaitlis $15$ (skat. 6.att. un 
-7.att.). Neviens no šim gadījumiem nav iespējams, jo $z$ vietā būtu jāieraksta 
+7.att.). Neviens no šiem gadījumiem nav iespējams, jo $z$ vietā būtu jāieraksta 
 skaitlis $9$, bet $t$ vietā - skaitlis $8$.
 
 ![](LV.VOL.2016.9.3C.png)
@@ -316,7 +316,7 @@ $xy+xz+yz \leq 3$.
 Pitagora trijstūrī visu malu garumi ir lielāki nekā $5$. Vai var gadīties, ka 
 tā **(A)** trīs malu, **(B)** divu malu garumi ir pirmskaitļi?
 
-*Piezīme.* Pitagora trijstūris ir taisnleņka trijstūris, kam visi malu garumi 
+*Piezīme.* Pitagora trijstūris ir taisnleņķa trijstūris, kam visi malu garumi 
 ir naturāli skaitļi.
 
 <small>
@@ -328,7 +328,7 @@ ir naturāli skaitļi.
 
 ## Atrisinājums
 
-**(A)** Nē, trīs malu garumi nevar būt pirmskaitļi. Taisnleņka trijstūrī malu 
+**(A)** Nē, trīs malu garumi nevar būt pirmskaitļi. Taisnleņķa trijstūrī malu 
 garumus $a,\ b$ un $c$ saista Pitagora teorēma $a^{2}+b^{2}=c^{2}$. Tā kā visu 
 malu garumiem jābūt pirmskaitļiem, kas lielāki nekā $5$, tad visu malu garumi 
 ir nepāra skaitļi, tātad arī $a^{2}$ un $b^{2}$ ir nepāra skaitļi, bet divu 
@@ -794,7 +794,7 @@ $C(0 ; q)$. Apskatīsim divus iespējamos gadījumus.
    $$\frac{AO}{OC}=\frac{OD}{OB} \Rightarrow \frac{x_{1}}{q}=\frac{OD}{x_{2}} \Rightarrow OD=\frac{x_{1}x_{2}}{q}=\frac{q}{q}=1$$
 
    Tā kā punkts $D$ nevar būt $(0;-1)$, jo tad iegūst ieliektu četrstūri, kuram
-   nevar apvilkt riņķa līiju, tad šīs riņķa līnijas iet caur punktu $(0; 1)$
+   nevar apvilkt riņķa līniju, tad šīs riņķa līnijas iet caur punktu $(0; 1)$
 
    Līdz ar to visām šādām riņķa līnijām ir kopīgs punkts $(0; 1)$.
    
