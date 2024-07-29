@@ -1291,7 +1291,7 @@ figūru.
 Ja prasīto varētu izdarīt, tad katrā krāsā nepārklātas paliktu attiecīgi
 $0,0,0,0$ rūtiņas, bet tie visi ir pāra skaitļi. Tātad tas nav iespējams.
 
-![](LV.AMO.2015.12.2Bpng)
+![](LV.AMO.2015.12.2B.png)
 
 
 
