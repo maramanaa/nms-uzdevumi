@@ -63,7 +63,7 @@ Rihards ir izcepis interesantas formas torti, kuras pamatā ir $17$ kvadrātveid
 cepumi (skat. 1.att.). Parādi vienu veidu, kā torti sadalīt četros pēc formas 
 vienādos gabalos, lai katrs saturētu tieši četrus cepumus, un gabaliņš ar vienu
 cepumu paliktu pāri. Tā kā tortes augšpuse ir izdekorēta, tad gabalus drīkst 
-grozūt, bet nedrīkst apmest otrādi.
+grozīt, bet nedrīkst apmest otrādi.
 
 ![](LV.NOL.2015.5.3.png)
 
@@ -129,7 +129,7 @@ reizinātājs, ir $5$ un cipari ir aizvietoti šādi: $E=4,\ J=0,\ A=3,\ M=5$.
 
 # <lo-sample/> LV.NOL.2015.5.5
 
-Raimonds stāv upes krastā un vinam ir divi spaiņi. Viena spaiņa tilpums ir $10$
+Raimonds stāv upes krastā un viņam ir divi spaiņi. Viena spaiņa tilpums ir $10$
 litri, bet otra spaiņa tilpumu Raimonds ir aizmirsis - tas ir vai nu $7$, vai 
 $8$ litri. Kā Raimondam ar ūdens pārliešanu palīdzību noteikt otrā spaiņa 
 tilpumu? Nekādu citu palīglīdzekļu Raimondam nav un ieskatoties nepilnā spainī 
@@ -384,7 +384,7 @@ skaitlis, tad tieši $2015$ mājlopus iegūt nevarēs.
 # <lo-sample/> LV.NOL.2015.7.3
 
 Tabulā, kuras izmēri ir $3 \times 3$ rūtiņas, katrā rūtiņā ierakstīts viens 
-naturāls skaitlis, kas nepārsniedz $10$, visi ierakstītie skaitļi ir daz̃ādi. 
+naturāls skaitlis, kas nepārsniedz $10$, visi ierakstītie skaitļi ir dažādi. 
 Katrām divām rūtiņām ar kopīgu malu aprēķina tajos ierakstīto skaitļu summu. 
 Vai iespējams, ka visas iegūtās summas ir pirmskaitļi?
 
@@ -758,7 +758,7 @@ kas katrs ir līdzīgs sākotnējam trijstūrim.
 
 Ja taisnais leņķis ir $\sphericalangle ACB$ (skat. A2.zīm.), tad no tā velk 
 perpendikulu $CD$ pret hipotenūzu $AB$. Trijstūri $ABC,\ ACD$ un $CBD$ ir 
-līdzīgi (pēc pazīmes, " $\ell \ell $ "), jo
+līdzīgi (pēc pazīmes, " $\ell \ell$ "), jo
 
 - $\sphericalangle ACB=\sphericalangle ADC=\sphericalangle CDB=90^{\circ}$;
 - $\sphericalangle CBA=\sphericalangle DCA=\sphericalangle DBC=\alpha$.
@@ -772,7 +772,7 @@ sadalījumu var atrast jebkurai naturālai $N(N \geq 2)$ vērtībai.
 Tātad šādu sadalījumu var atrast arī, ja $N=2014$ vai $N=2015$.
 
 *Piezīme.* Doto taisnstūri var sadalīt $2014$ vienādos trijstūros (tie ir 
-līdzīgi ar līdzības koefícientu $1$). Vispirms doto taisnstūri sadala $1007$ 
+līdzīgi ar līdzības koeficientu $1$). Vispirms doto taisnstūri sadala $1007$ 
 vienādos taisnstūros un pēc tam katru no iegūtajiem taisnstūriem sadala divos 
 vienādos taisnleņķa trijstūros (skat. A3.zīm., kur dotā taisnstūra malu garumi
 ir $a$ un $b$).
@@ -811,9 +811,9 @@ $$\frac{(1+13) \cdot 13}{2}=91$$
 
 Ar $x$ apzīmējam skaitli, kuru Dārta nodzēsīs. To nosakām no vienādojuma
 
-$$\begin{equation}
+$$\begin{equation*}
 12A=91-x \tag{*}
-\end{equation}$$
+\end{equation*}$$
 
 Pierādīsim, ka $A$ ir naturāls skaitlis. Ja $A=n+p$, kur $n \in N,\ 0 < p < 1$, tad 
 no nosacījuma, ka katrā rindā ierakstīto skaitļu summa ir $4A$, izriet, ka 
@@ -821,8 +821,8 @@ $4p \in N$. Savukārt no nosacījuma, ka katrā kolonnā ierakstīto skaitļu su
 ir $3A$, izriet, ka $3p \in N$. Tātad $4p-3p=p \in N$, kas ir pretrunā ar to, 
 ka $0 < p < 1$.
 
-Esam pierādījuši, ka vienādības (*) abu pušu izteiksmju vērtība ir naturāls 
-skaitlis. Tā kā (*) kreisās puses izteiksme dalās ar $12$, tad arī labās puses 
+Esam pierādījuši, ka vienādības $(\ast)$ abu pušu izteiksmju vērtība ir naturāls 
+skaitlis. Tā kā $(\ast)$ kreisās puses izteiksme dalās ar $12$, tad arī labās puses 
 izteiksmei jādalās ar $12$.
 
 Ievērojam, ka skaitlis $91$, dalot ar $12$, dod atlikumu $7$, tāpēc $91-x$ 
@@ -982,7 +982,7 @@ iegūt nevarēs.
 
 # <lo-sample/> LV.NOL.2015.10.3
 
-Vairāku pēc kārtas sekojošu naturālu skaitļu summa ir $177$. Kādas vērtūbas var
+Vairāku pēc kārtas sekojošu naturālu skaitļu summa ir $177$. Kādas vērtības var
 pieņemt mazākais no šiem saskaitāmajiem?
 
 <small>
@@ -1032,7 +1032,7 @@ Tātad mazākais no saskaitāmajiem var būt $88,\ 58$ vai $27$.
 
 Vai eksistē tāds vesels skaitlis $x$, ka visi skaitļi
 
-**(A)** $x,\ x+23,\ x+45,\ x+121$;
+**(A)** $x,\ x+23,\ x+45,\ x+121$;  
 **(B)** $x,\ x+23,\ x+46,\ x+121$
 
 ir veselu skaitļu pakāpes ar naturālu kāpinātāju, kas lielāks nekā $1$ 
@@ -1303,7 +1303,7 @@ Dots taisnstūris ar izmēriem $n \times m$ rūtiņas. Sākumā katrā rūtiņā
 ierakstīts $5$. Māris dotajā taisnstūrī veic secīgas darbības:
 
 1) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $1$;
-2) izvēlas kädu taisnstūri un visās tā rūtiņās ieraksta ciparu $2$;
+2) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $2$;
 3) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $3$;
 4) visbeidzot izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $4$.
 
@@ -1477,7 +1477,7 @@ ciparus, kas skaitlī ir divas reizes.
 Cipars $a$ var būt $5$ dažādās vietās, ciparu $b$ var novietot 
 $C_{4}^{2}=\frac{4 \cdot 3}{2}=6$ veidos (atlikušajās $4$ vietās ir jānovieto 
 divi cipari $b$), ciparu $c$ atlikušajās vietās var novietot $1$ veidā. Tātad 
-ir $5 \cdot 6 \ cdot 1=30$ (reizināšanas likums) dažādas kombinācijas, kā 
+ir $5 \cdot 6 \cdot 1=30$ (reizināšanas likums) dažādas kombinācijas, kā 
 cipari $a,\ b,\ c$ var veidot meklēto piecciparu skaitli. Ciparu $a$ no 
 cipariem $1,\ 2,\ \ldots,\ 9$ var izvēlēties $9$ veidos, bet $b$ un 
 $c-\frac{8 \cdot 7}{2}=28$ veidos. Tātad pavisam ir $30 \cdot 9 \cdot 28=7560$ 
@@ -1490,7 +1490,7 @@ piecciparu skaitļi, kas atbilst uzdevuma nosacījumiem.
 Izliekta četrstūra $ABCD$ malu $AB,\ BC,\ CD$ un $DA$ viduspunkti ir attiecīgi 
 $E,\ F,\ G$ un $H$. Nogrieznis $AF$ krustojas ar $DE$ un $BG$ attiecīgi punktos
 $K$ un $L$, bet $CH$ krustojas ar $DE$ un $BG$ attiecīgi punktos $N$ un $M$. 
-Pierādū̀, ka $S_{BFL}+S_{CMG}+S_{DNH}+S_{AKE}=S_{KLMN}$ !
+Pierādīt, ka $S_{BFL}+S_{CMG}+S_{DNH}+S_{AKE}=S_{KLMN}$ !
 
 <small>
 
