@@ -811,15 +811,15 @@ $$\frac{(1+13) \cdot 13}{2}=91$$
 
 Ar $x$ apzīmējam skaitli, kuru Dārta nodzēsīs. To nosakām no vienādojuma
 
-$$\begin{equation*}
+$$\begin{equation}
 12A=91-x \tag{*}
-\end{equation*}$$
+\end{equation}$$
 
-Pierādīsim, ka $A$ ir naturāls skaitlis. Ja $A=n+p$, kur $n \in N,\ 0<p<1$, tad 
+Pierādīsim, ka $A$ ir naturāls skaitlis. Ja $A=n+p$, kur $n \in N,\ 0 < p < 1$, tad 
 no nosacījuma, ka katrā rindā ierakstīto skaitļu summa ir $4A$, izriet, ka 
 $4p \in N$. Savukārt no nosacījuma, ka katrā kolonnā ierakstīto skaitļu summa 
 ir $3A$, izriet, ka $3p \in N$. Tātad $4p-3p=p \in N$, kas ir pretrunā ar to, 
-ka $0<p<1$.
+ka $0 < p < 1$.
 
 Esam pierādījuši, ka vienādības (*) abu pušu izteiksmju vērtība ir naturāls 
 skaitlis. Tā kā (*) kreisās puses izteiksme dalās ar $12$, tad arī labās puses 
@@ -1144,8 +1144,8 @@ Iegūstam, ka $t<1$ vai $t>5$.
 
 Vēl jāiegūst atbilstošās $x$ vērtības:
 
-1) No nevienādības $|x-2|<1$ iegūstam, ka  
-   $-1<x-2<1$ jeb $1<x<3$
+1) No nevienādības $|x-2| < 1$ iegūstam, ka  
+   $-1 < x-2 < 1$ jeb $1 < x < 3$
 
 2) No nevienādības $|x-2|>5$ iegūstam, ka  
    $x-2<-5$ vai arī $x-2>5$
@@ -1219,7 +1219,7 @@ Mazākā iespējamā $n$ vērtība ir $55=6+19+30$.
 Pierādīsm, ka mazāku $n$ vērtību iegūt nevar.
 
 Apzīmējam $a+b=p^{2},\ a+c=q^{2},\ b+c=r^{2}$. Nezaudējot vispārīgumu, varam 
-pieņemt, ka $0<a<b<c$, tad $p^{2}<q^{2}<r^{2}$.
+pieņemt, ka $0 < a < b < c$, tad $p^{2} < q^{2} < r^{2}$.
 
 Izmantojot šīs sakarības un pieņemot, ka zināmas $p^{2},\ q^{2},\ r^{2}$ 
 vērtības, varam izteikt $a,\ b,\ c$ un $n$ vērtības:
@@ -1230,7 +1230,7 @@ Tā kā $n$ jābūt naturālam skaitlim, tad $p^{2}+q^{2}+r^{2}$ ir jābūt pār
 skaitlim, tātad starp $p,\ q,\ r$ ir vai nu tieši divi nepāra skaitļi, vai arī 
 neviens nepāra skaitlis.
 
-Tā kā $a$ jābūt naturālam skaitlim, tad $p^{2}+q^{2}>r^{2}$. Tā kā $r^{2}<n$, 
+Tā kā $a$ jābūt naturālam skaitlim, tad $p^{2}+q^{2} > r^{2}$. Tā kā $r^{2}<n$, 
 tad jāaplūko tikai tādas skaitļu kvadrātu vērtības, kas mazākas nekā $55$:
 
 $$1,\ 4,\ 9,\ 16,\ 25,\ 36,\ 49$$
