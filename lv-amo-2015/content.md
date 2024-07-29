@@ -525,8 +525,6 @@ racionāls skaitlis!
 
 Pārveidojam doto izteiksmi:
 
-$$\sqrt{6+2\sqrt{5}}-\sqrt{6-2\sqrt{5}}=\sqrt{(\sqrt{5})^{2}+2\sqrt{5}+1}-\sqrt{(\sqrt{5})^{2}-2\sqrt{5}+1}=\sqrt{(\sqrt{5}+1)^{2}}-\sqrt{(\sqrt{5}-1)^{2}}=$$
-
 $$\begin{gathered}
 \sqrt{6+2\sqrt{5}}-\sqrt{6-2\sqrt{5}}=\sqrt{(\sqrt{5})^{2}+2\sqrt{5}+1}-\sqrt{(\sqrt{5})^{2}-2\sqrt{5}+1}=\sqrt{(\sqrt{5}+1)^{2}}-\sqrt{(\sqrt{5}-1)^{2}}= \\
 =\left|\sqrt{5}+1\right|-\left|\sqrt{5}-1\right|=\sqrt{5}+1-\sqrt{5}+1=2
@@ -538,9 +536,12 @@ Izteiksmes vētība ir racionāls skaitlis, jo $2$ ir racionāls.
 
 # <lo-sample/> LV.AMO.2015.8.2
 
-Vai taisnstūri ar izmēriem $10 \times 9$ rūtiņas var pārklāt ar 5.att. redzamajām figūrām? Taisnstūrim jābūt pilnībā pārklātam. Figūras nedrīkst iziet ārpus taisnstūra, figūras nedrīkst pārklāties, tās drīkst būt pagrieztas vai apgrieztas spoguļattēlā.
+Vai taisnstūri ar izmēriem $10 \times 9$ rūtiņas var pārklāt ar 5.att.
+redzamajām figūrām? Taisnstūrim jābūt pilnībā pārklātam. Figūras nedrīkst iziet
+ārpus taisnstūra, figūras nedrīkst pārklāties, tās drīkst būt pagrieztas vai
+apgrieztas spoguļattēlā.
 
-5.att.
+![](LV.AMO.2015.8.2.png)
 
 <small>
 
@@ -552,9 +553,14 @@ Vai taisnstūri ar izmēriem $10 \times 9$ rūtiņas var pārklāt ar 5.att. red
 
 ## Atrisinājums
 
-Ne , nevar. Izkrāsosim taisnstūri šaha galdinaa veidā. Taisnstūrī kopā ir 90 rūtiņas, bet vienā figūrā ir 6 rūtiņas. Lai kā arī šajā taisnstūrī tiktu novietotas dotās figūras, katra no tām vienmēr pārklāj pāra skaita melnās rūtịas (skat. A11.att.). Tātad visas figūras kopā pārklās pāra skaita melnās rūtịas. Tā kā taisnstūrī melnā krāsā ir nokrāsotas 45 (nepāra skaits) rūtiņas, tad prasīto nevar izdarīt.
+Nē, nevar. Izkrāsosim taisnstūri šaha galdiņa veidā. Taisnstūrī kopā ir $90$
+rūtiņas, bet vienā figūrā ir $6$ rūtiņas. Lai kā arī šajā taisnstūrī tiktu
+novietotas dotās figūras, katra no tām vienmēr pārklāj pāra skaita melnās rūtiņas
+(skat. A11.att.). Tātad visas figūras kopā pārklās pāra skaita melnās rūtiņas.
+Tā kā taisnstūrī melnā krāsā ir nokrāsotas $45$ (nepāra skaits) rūtiņas, tad
+prasīto nevar izdarīt.
 
-A11.att.
+![](LV.AMO.2015.8.2A.png)
 
 *Piezīme.* Der arī krāsojums joslās.
 
@@ -562,7 +568,8 @@ A11.att.
 
 # <lo-sample/> LV.AMO.2015.8.3
 
-Atrast vienu naturālu skaitli, kas lielāks nekā 2015 un ko nevar izteikt kā naturāla skaitļa kvadrāta un pirmskaitla summu.
+Atrast vienu naturālu skaitli, kas lielāks nekā $2015$ un ko nevar izteikt kā
+naturāla skaitļa kvadrāta un pirmskaitļa summu.
 
 <small>
 
@@ -574,15 +581,26 @@ Atrast vienu naturālu skaitli, kas lielāks nekā 2015 un ko nevar izteikt kā 
 
 ## Atrisinājums
 
-Der, piemēram, skaitlis 2500. Parādīsim, ka to nevar izteikt kā izteikt kā naturāla skaitla kvadrāta un pirmskaitļa summu. Pieņemsim pretējo, ka $2500=k^{2}+p$, kur $k$ ir naturāls skaitlis un $p$ ir pirmskaitlis. Tad $p=2500-k^{2}=50^{2}-k^{2}=(50-k)(50+k)$. Lai p būtu pirmskaitlis, mazākajam reizinātājam jābūt vienādam ar 1 , tas ir, $50-k=1$ jeb $k=49$. Tādā gadījumā $p=50+49=99$, kas nav pirmskaitlis. Tātad pieņēmums ir aplams un skaitli 2500 nevar izteikt kā naturāla skaitļa kvadrāta un pirmskaitļa summu.
+Der, piemēram, skaitlis $2500$. Parādīsim, ka to nevar izteikt kā naturāla
+skaitļa kvadrāta un pirmskaitļa summu. Pieņemsim pretējo, ka $2500=k^{2}+p$,
+kur $k$ ir naturāls skaitlis un $p$ ir pirmskaitlis. Tad
+$p=2500-k^{2}=50^{2}-k^{2}=(50-k)(50+k)$. Lai $p$ būtu pirmskaitlis, mazākajam
+reizinātājam jābūt vienādam ar $1$, tas ir, $50-k=1$ jeb $k=49$. Tādā gadījumā
+$p=50+49=99$, kas nav pirmskaitlis. Tātad pieņēmums ir aplams un skaitli $2500$
+nevar izteikt kā naturāla skaitļa kvadrāta un pirmskaitļa summu.
 
-*Piezīme.* Der jebkurš naturāls skaitlis $n>2015$ tāds, ka $n=m^{2}$ un $2 m-1$ ir salikts skaitlis.
+*Piezīme.* Der jebkurš naturāls skaitlis $n > 2015$ tāds, ka $n=m^{2}$ un
+$2m-1$ ir salikts skaitlis.
 
 
 
 # <lo-sample/> LV.AMO.2015.8.4
 
-Divu taisnstūra paralēlskaldņu visu šķautņu garumi ir naturāli skaitļi. Pirmā paralēlskaldņa trīs dažādo skaldņu perimetri ir $p_{1}, q_{1}, r_{1}$, bet otrā $p_{2}, q_{2}, r_{2}$, turklāt $p_{1}<p_{2}, q_{1}<q_{2}$ un $r_{1}<r_{2}$. Vai var apgalvot, ka pirmā paralēlskaldņa tilpums ir mazāks nekā otrā paralēlskaldņa tilpums?
+Divu taisnstūra paralēlskaldņu visu šķautņu garumi ir naturāli skaitļi. Pirmā
+paralēlskaldņa trīs dažādo skaldņu perimetri ir $p_{1}, q_{1}, r_{1}$, bet otrā
+$p_{2}, q_{2}, r_{2}$, turklāt $p_{1} < p_{2}, q_{1} < q_{2}$ un $r_{1} < r_{2}$.
+Vai var apgalvot, ka pirmā paralēlskaldņa tilpums ir mazāks nekā otrā
+paralēlskaldņa tilpums?
 
 <small>
 
@@ -594,13 +612,23 @@ Divu taisnstūra paralēlskaldņu visu šķautņu garumi ir naturāli skaitļi. 
 
 ## Atrisinājums
 
-Dotais apgalvojums ne vienmēr ir patiess. Parādīsim pretpiemēru. Par pirmo izvēlēsimies paralēlskaldni, kura šķautņu garumi ir 3,10 un 12, bet par otro - kura šķautṇu garumi 2,12 un 14 . Tad $p_{1}=2 \cdot(3+10)=26, q_{1}=2 \cdot(3+12)=30$ un $r_{1}=2 \cdot(10+12)=44$, bet $p_{2}=2 \cdot(2+12)=28$, $q_{2}=2 \cdot(2+14)=32$ un $r_{2}=2 \cdot(12+14)=52$. Tātad ir spēkā uzdevumā dotās sakarības: $p_{1}<p_{2}$, $q_{1}<q_{2}$ un $r_{1}<r_{2}$, bet paralēlskaldņu tilpumi ir $V_{1}=3 \cdot 10 \cdot 12=360$ un $V_{2}=2 \cdot 12 \cdot 14=336$, kur pirmā paralēlskaldņa tilpums ir lielāks nekā otrā paralēl̄skaldņa tilpums.
+Dotais apgalvojums ne vienmēr ir patiess. Parādīsim pretpiemēru. Par pirmo
+izvēlēsimies paralēlskaldni, kura šķautņu garumi ir $3, 10$ un $12$, bet par
+otro- kura šķautṇu garumi $2, 12$ un $14$. Tad
+$p_{1}=2 \cdot(3+10)=26, q_{1}=2 \cdot(3+12)=30$ un $r_{1}=2 \cdot(10+12)=44$,
+bet $p_{2}=2 \cdot(2+12)=28$, $q_{2}=2 \cdot(2+14)=32$ un $r_{2}=2 \cdot(12+14)=52$.
+Tātad ir spēkā uzdevumā dotās sakarības: $p_{1} < p_{2}$, $q_{1} < q_{2}$ un
+$r_{1} < r_{2}$, bet paralēlskaldņu tilpumi ir
+$V_{1}=3 \cdot 10 \cdot 12=360$ un $V_{2}=2 \cdot 12 \cdot 14=336$, kur pirmā
+paralēlskaldņa tilpums ir lielāks nekā otrā paralēlskaldņa tilpums.
 
 
 
 # <lo-sample/> LV.AMO.2015.8.5
 
-Šaurleņķu trijstūrī $A B C$ novilkts augstums $C H$ un mediāna $B K$. Zināms, ka $C H=B K$ un $\sphericalangle H C B=\sphericalangle K B C$. Pierādīt, ka trijstūris $A B C$ ir vienādmalu!
+Šaurleņķu trijstūrī $ABC$ novilkts augstums $CH$ un mediāna $BK$. Zināms, ka
+$CH=BK$ un $\sphericalangle HCB=\sphericalangle KBC$. Pierādīt, ka trijstūris
+$ABC$ ir vienādmalu!
 
 <small>
 
@@ -612,32 +640,37 @@ Dotais apgalvojums ne vienmēr ir patiess. Parādīsim pretpiemēru. Par pirmo i
 
 ## Atrisinājums
 
-Tā kā $B K=H C, \sphericalangle K B C=\sphericalangle H C B$ un $B C-$ kopīga mala (skat. A12.att.), tad $\triangle B C K=\triangle B C H$ pēc pazīmes " m८m". Līdz ar to $\sphericalangle B K C=\sphericalangle C H B=90^{\circ}$ (kā atbilstošie leņķi vienādos trijstūros). Tātad $B K$ ir gan augstums, gan mediāna, līdz ar to $\triangle A B C$ ir vienādsānu trijstūris $(A B=B C)$. Izmantojot trijstūra laukuma aprēķināšanas formulu, iegūstam $S_{A B C}=\frac{1}{2} A B \cdot C H=\frac{1}{2} A C \cdot B K$. Tā kā $C H=B K$, tad arī $A B=A C$. Tātad $A B=A C=B C$ un $\triangle A B C$ ir vienādmalu trijstūris.
+Tā kā $BK=HC, \sphericalangle KBC=\sphericalangle HCB$ un $BC$- kopīga mala
+(skat. A12.att.), tad $\triangle BCK=\triangle BCH$ pēc pazīmes " $m /ell m$ ".
+Līdz ar to $\sphericalangle BKC=\sphericalangle CHB=90^{\circ}$ (kā atbilstošie
+leņķi vienādos trijstūros). Tātad $BK$ ir gan augstums, gan mediāna, līdz ar to
+$\triangle ABC$ ir vienādsānu trijstūris $(AB=BC)$. Izmantojot trijstūra laukuma
+aprēķināšanas formulu, iegūstam
+$S_{ABC}=\frac{1}{2} AB \cdot CH=\frac{1}{2} AC \cdot BK$. Tā kā $CH=BK$, tad
+arī $AB=AC$. Tātad $AB=AC=BC$ un $\triangle ABC$ ir vienādmalu trijstūris.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-07.jpg?height=344&width=392&top_left_y=1216&top_left_x=883)
-
-A12.att.
+![](LV.AMO.2015.8.5A.png)
 
 ## Atrisinājums
  
-Tā kā $B K=H C, \sphericalangle K B C=\sphericalangle H C B$ un $B C$ - kopīga mala (skat. A12.att.), tad $\triangle B C K=\triangle B C H$ pēc pazīmes " $m \ell m$ ". Līdz ar to $\sphericalangle B K C=\sphericalangle C H B=90^{\circ}$ (kā atbilstošie leņķi vienādos trijstūros) un $B K$ ir augstums no virsotnes $B$ pret malu $A C$. Tā kā $A K=K C$,
+Tā kā $BK=HC, \sphericalangle KBC=\sphericalangle HCB$ un $BC$- kopīga mala
+(skat. A12.att.), tad $\triangle BCK=\triangle BCH$ pēc pazīmes " $m \ell m$ ".
+Līdz ar to $\sphericalangle BKC=\sphericalangle CHB=90^{\circ}$ (kā atbilstošie
+leņķi vienādos trijstūros) un $BK$ ir augstums no virsotnes $B$ pret malu $AC$.
+Tā kā $AK=KC$, $\sphericalangle AKB=\sphericalangle KBC=90^{\circ}$ un
+$BK$- kopīga mala, tad $\triangle AKB=\triangle BCK$ pēc pazīmes
+" $m /ell m$ ". No kā izriet, ka $\sphericalangle ABK=\sphericalangle KBC$.
+Izmantojot trijstūra iekšējo leņķu summu, iegūstam
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-07.jpg?height=61&width=1680&top_left_y=1746&top_left_x=242)
-izriet, ka $\sphericalangle A B K=\sphericalangle K B C$. Izmantojot trijstūra iekšējo leņķu summu, iegūstam
+- no $\triangle HCB: \sphericalangle HBC+\sphericalangle BCH+\sphericalangle CHB=180^{\circ}$;
+  $2 * \sphericalangle ABK+\sphericalangle ABK+90^{\circ}=180^{\circ}$
+  $3 * \sphericalangle ABK=90^{\circ}$ jeb $\sphericalangle ABK=30^{\circ}$
 
-- no $\triangle H C B: \sphericalangle H B C+\sphericalangle B C H+\sphericalangle C H B=180^{\circ}$;
+- no $\triangle ABK: \sphericalangle BAC=180^{\circ}-\sphericalangle ABK-\sphericalangle AKB=180^{\circ}-30^{\circ}-90^{\circ}=60^{\circ}$;
+- no $\triangle ABC: \sphericalangle BCA=180^{\circ}-\sphericalangle BAC-\sphericalangle ABC=180^{\circ}-60^{\circ}-2 \cdot 30^{\circ}=60^{\circ}$.
 
-$$
-\begin{aligned}
-& 2 \cdot \sphericalangle A B K+\sphericalangle A B K+90^{\circ}=180^{\circ} \\
-& 3 \cdot \sphericalangle A B K=90^{\circ} \text { jeb } \sphericalangle A B K=30^{\circ}
-\end{aligned}
-$$
-
-- no $\triangle A B K: \sphericalangle B A C=180^{\circ}-\sphericalangle A B K-\sphericalangle A K B=180^{\circ}-30^{\circ}-90^{\circ}=60^{\circ}$;
-- no $\triangle A B C: \sphericalangle B C A=180^{\circ}-\sphericalangle B A C-\sphericalangle A B C=180^{\circ}-60^{\circ}-2 \cdot 30^{\circ}=60^{\circ}$.
-
-Esam ieguvuši, ka katrs trijstūra $A B C$ leņķis ir $60^{\circ}$, tātad $\triangle A B C$ ir vienādmalu trijstūris.
+Esam ieguvuši, ka katrs trijstūra $ABC$ leņķis ir $60^{\circ}$, tātad
+$\triangle ABC$ ir vienādmalu trijstūris.
 
 
 
