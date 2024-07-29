@@ -614,7 +614,7 @@ paralēlskaldņa tilpums?
 
 Dotais apgalvojums ne vienmēr ir patiess. Parādīsim pretpiemēru. Par pirmo
 izvēlēsimies paralēlskaldni, kura šķautņu garumi ir $3, 10$ un $12$, bet par
-otro- kura šķautṇu garumi $2, 12$ un $14$. Tad
+otro- kura šķautņu garumi $2, 12$ un $14$. Tad
 $p_{1}=2 \cdot(3+10)=26, q_{1}=2 \cdot(3+12)=30$ un $r_{1}=2 \cdot(10+12)=44$,
 bet $p_{2}=2 \cdot(2+12)=28$, $q_{2}=2 \cdot(2+14)=32$ un $r_{2}=2 \cdot(12+14)=52$.
 Tātad ir spēkā uzdevumā dotās sakarības: $p_{1} < p_{2}$, $q_{1} < q_{2}$ un
@@ -676,7 +676,8 @@ $\triangle ABC$ ir vienādmalu trijstūris.
 
 # <lo-sample/> LV.AMO.2015.9.1
 
-No visiem tādiem skaitļiem, kuru starpība ir 2015, noteikt tos divus, kuru reizinājums ir vismazākais!
+No visiem tādiem skaitļiem, kuru starpība ir $2015$, noteikt tos divus, kuru
+reizinājums ir vismazākais!
 
 <small>
 
@@ -688,15 +689,24 @@ No visiem tādiem skaitļiem, kuru starpība ir 2015, noteikt tos divus, kuru re
 
 ## Atrisinājums
 
-Dotos skaitlus apzīmējam ar $x$ un $x+2015$. Šo skaitļu reizinājums ir $x \cdot(x+2015)$. Apskatām funkciju $f(x)=x \cdot(x+2015)=x^{2}+2015 x$. Funkcijas grafiks ir parabola ar zaru vērsumu uz augšu. Parabolas virsotnes abscisa $x_{0}=\frac{-2015}{2}=-1007,5$ ir punkts, kurā funkcija sasniedz vismazāko vērtību. Tātad meklētie divi skaitli ir $-1007,5$ un 1007,5.
+Dotos skaitļus apzīmējam ar $x$ un $x+2015$. Šo skaitļu reizinājums ir
+$x \cdot(x+2015)$. Apskatām funkciju $f(x)=x \cdot(x+2015)=x^{2}+2015x$.
+Funkcijas grafiks ir parabola ar zaru vērsumu uz augšu. Parabolas virsotnes
+abscisa $x_{0}=\frac{-2015}{2}=-1007,5$ ir punkts, kurā funkcija sasniedz
+vismazāko vērtību. Tātad meklētie divi skaitļi ir $-1007,5$ un $1007,5$.
 
 
 
 # <lo-sample/> LV.AMO.2015.9.2
 
-Tornis ir salikts no vienības kubiniem, kur katra kubiņa izmērs ir $1 \times 1 \times 1$. Apakšējā slānī ir $7 \times 7$ kubiņi. Otrs slānis ir novietots virs pirmā slāņa centrālās daļās, tajā ir $5 \times 5$ kubini. Trešajā slānī, kurš novietots apakšējās daļas centrā, ir $3 \times 3$ kubiņi un augšā centrā ir 1 vienības kubiņš (skat. 6.att.). Vai šo torni var salikt no blokiem ar izmēriem $1 \times 1 \times 3$ ?
+Tornis ir salikts no vienības kubiniem, kur katra kubiņa izmērs ir
+$1 \times 1 \times 1$. Apakšējā slānī ir $7 \times 7$ kubiņi. Otrs slānis ir
+novietots virs pirmā slāņa centrālās daļās, tajā ir $5 \times 5$ kubiņi. Trešajā
+slānī, kurš novietots apakšējās daļas centrā, ir $3 \times 3$ kubiņi un augšā
+centrā ir $1$ vienības kubiņš (skat. 6.att.). Vai šo torni var salikt no blokiem
+ar izmēriem $1 \times 1 \times 3$ ?
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-08.jpg?height=292&width=438&top_left_y=391&top_left_x=815)
+![](LV.AMO.2015.9.2.png)
 
 <small>
 
@@ -708,15 +718,19 @@ Tornis ir salikts no vienības kubiniem, kur katra kubiņa izmērs ir $1 \times 
 
 ## Atrisinājums
 
-Katru slāni izkrāsosim trīs krāsās diagonālveidā (skat. A13.att.). Katrs bloks ar izmēriem $1 \times 1 \times 3$ satur visas trīs krāsas, tāpēc visi bloki kopā satur vienāda skaita katras krāsas kubinu. Tā kā tornis satur 29 vienības kubinus krāsā 1, 28 - krāsā 2,27 - krāsā 3, tad torni nevar salikt no blokiem ar izmēriem $1 \times 1 \times 3$.
+Katru slāni izkrāsosim trīs krāsās diagonālveidā (skat. A13.att.). Katrs bloks
+ar izmēriem $1 \times 1 \times 3$ satur visas trīs krāsas, tāpēc visi bloki kopā
+satur vienāda skaita katras krāsas kubiņu. Tā kā tornis satur $29$ vienības
+kubiņus krāsā $1$, $28$- krāsā $2$, $27$- krāsā $3$, tad torni nevar salikt no
+blokiem ar izmēriem $1 \times 1 \times 3$.
 
-A13.att.
+![](LV.AMO.2015.9.2A.png)
 
 
 
 # <lo-sample/> LV.AMO.2015.9.3
 
-Pierādi, ka $x^{5}-5 x^{3}+4 x$ dalās ar 120 , ja $x$ ir vesels skaitlis!
+Pierādi, ka $x^{5}-5x^{3}+4x$ dalās ar $120$, ja $x$ ir vesels skaitlis!
 
 <small>
 
@@ -730,17 +744,23 @@ Pierādi, ka $x^{5}-5 x^{3}+4 x$ dalās ar 120 , ja $x$ ir vesels skaitlis!
 
 Sadalām doto izteiksmi reizinātājos:
 
-$x^{5}-5 x^{3}+4 x=x \cdot\left(x^{4}-5 x^{2}+4\right)=x \cdot\left(x^{4}-x^{2}-4 x^{2}+4\right)=x \cdot\left(x^{2}\left(x^{2}-1\right)-4\left(x^{2}-1\right)\right)=$
+$x^{5}-5x^{3}+4x=x \cdot\left(x^{4}-5x^{2}+4\right)=x \cdot\left(x^{4}-x^{2}-4x^{2}+4\right)=x \cdot\left(x^{2}\left(x^{2}-1\right)-4\left(x^{2}-1\right)\right)=$
 
 $=x \cdot\left(x^{2}-1\right) \cdot\left(x^{2}-4\right)=x \cdot(x-1) \cdot(x+1) \cdot(x-2) \cdot(x+2)=(x-2) \cdot(x-1) \cdot x \cdot(x+1) \cdot(x+2)$.
 
-Esam ieguvuši, ka dotā izteiksme ir piecu pēc kārtas esošu skaitļu reizinājums. Vismaz divi no šiem skaitļiem dalās ar 2 , no kuriem viens arī ar 4 , vismaz viens - ar 3 , un vismaz viens - ar 5 . Tātad šo skaitļu reizinājums dalās ar $2 \cdot 3 \cdot 4 \cdot 5=120$.
+Esam ieguvuši, ka dotā izteiksme ir piecu pēc kārtas esošu skaitļu reizinājums.
+Vismaz divi no šiem skaitļiem dalās ar $2$, no kuriem viens arī ar $4$, vismaz
+viens- ar $3$, un vismaz viens- ar $5$. Tātad šo skaitļu reizinājums dalās ar
+$2 \cdot 3 \cdot 4 \cdot 5=120$.
 
 
 
 # <lo-sample/> LV.AMO.2015.9.4
 
-Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, bet diagonāles $A C$ un $B D$ krustojas punktā $E$. Ap trijstūri $C D E$ apvilktā rinķa līnija krusto garāko pamatu $A D$ iekšējā punktā $F$. Nogriežņu $C F$ un $B D$ krustpunkts ir $G$. Nosaki $\sphericalangle C G D$ lielumu, ja $\sphericalangle C A D=\alpha$ !
+Vienādsānu trapeces $ABCD$ sānu malas ir $AB$ un $CD$, bet diagonāles $AC$ un
+$BD$ krustojas punktā $E$. Ap trijstūri $CDE$ apvilktā riņķa līnija krusto
+garāko pamatu $AD$ iekšējā punktā $F$. Nogriežņu $CF$ un $BD$ krustpunkts ir
+$G$. Nosaki $\sphericalangle CGD$ lielumu, ja $\sphericalangle CAD=\alpha$!
 
 <small>
 
@@ -752,17 +772,24 @@ Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, bet diagonāles $
 
 ## Atrisinājums
 
-Tā kā trapece $A B C D$ ir vienādsānu, tad arī $\sphericalangle A D E=\alpha$ (skat. A14.att.). No trijstūra $A E D$ iegūstam, ka $\sphericalangle A E D=180^{\circ}-2 \alpha$. Izmantojot blakusleņķu īpašīu, iegūstam, ka $\sphericalangle C E D=2 \alpha$. Punkti $C, E, F$, $D$ atrodas uz vienas rinka līnijas, tāpēc $\sphericalangle C E D=\sphericalangle C F D=2 \alpha$ kā ievilktie leņķi, kas balstās uz viena loka $C D$. No trijstūra $F G D$ iegūstam, ka $\sphericalangle F G D=180^{\circ}-3 \alpha$ un šī lenķa blakusleņķis $\sphericalangle C G D=3 \alpha$.
+Tā kā trapece $ABCD$ ir vienādsānu, tad arī $\sphericalangle ADE=\alpha$
+(skat. A14.att.). No trijstūra $AED$ iegūstam, ka
+$\sphericalangle AED=180^{\circ}-2 \alpha$. Izmantojot blakusleņķu īpašīu,
+iegūstam, ka $\sphericalangle CED=2 \alpha$. Punkti $C, E, F$, $D$ atrodas uz
+vienas riņķa līnijas, tāpēc $\sphericalangle CED=\sphericalangle CFD=2 \alpha$
+kā ievilktie leņķi, kas balstās uz viena loka $CD$. No trijstūra $FGD$ iegūstam,
+ka $\sphericalangle FGD=180^{\circ}-3 \alpha$ un šī leņķa blakusleņķis
+$\sphericalangle CGD=3 \alpha$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-08.jpg?height=426&width=715&top_left_y=2174&top_left_x=722)
-
-A14.att.
+![](LV.AMO.2015.9.4A.png)
 
 
 
 # <lo-sample/> LV.AMO.2015.9.5
 
-Parādi, kā naturālos skaitļus no 1 līdz $2 n-1$ uzrakstīt rindā tā, ka visas blakus esošo skaitļu starpības (no lielākā skaiṭla atṇem mazāko) ir dažādas un skaitlis 1 ir vidējais ( $n$-tais), ja a) $n=5$; b) $n=1008$.
+Parādi, kā naturālos skaitļus no $1$ līdz $2n-1$ uzrakstīt rindā tā, ka visas
+blakus esošo skaitļu starpības (no lielākā skaitļa atņem mazāko) ir dažādas un
+skaitlis $1$ ir vidējais ($n$-tais), ja **a)** $n=5$; **b)** $n=1008$.
 
 <small>
 
@@ -774,13 +801,30 @@ Parādi, kā naturālos skaitļus no 1 līdz $2 n-1$ uzrakstīt rindā tā, ka v
 
 ## Atrisinājums
 
-a) Der, piemēram, virkne
+**a)** Der, piemēram, virkne
 
-$$
-7 ; \quad 4 ; \quad 6 ; \quad 5 ; \quad 1 ; \quad 9 ; \quad 2 ; \quad 8 ; \quad 3
-$$
+$$7 ; \quad 4 ; \quad 6 ; \quad 5 ; \quad 1 ; \quad 9 ; \quad 2 ; \quad 8 ; \quad 3$$
 
-b) Aplūkosim skaitļu virkni 1; 2015; 2; 2014; 3; 2013; 4; 2012; ...;1007;1009;1008 (šs̄ virkne sastāv no divām virknēm - vienas augošas $1 ; 2 ; 3 ; \ldots ; 1008$ un otras dilstošas 2015; 2014; ...; 1009). Šajā virknē ir visi skaitļi no 1 līdz 2015 un starpības starp katriem diviem blakus esošiem skaitliem dilst no 2014 līdz 1. Šī virkne pēc savām īpašībām ir ļoti līdzīga nepieciešamajai, tikai skaitlis 1 šajā virknē ir pirmais nevis 1008. loceklis. Virknes 1008. loceklis (jeb 504. loceklis dilstošajā virknē ir $\left.a_{504}=2015+(-1)(504-1)=1512\right)$ ir 1512, virknes 1009. loceklis (jeb 505. loceklis augošajā virknē) ir 505. Starpība starp virknes 1008. un 1009. locekli ir $1512-505=1007$. „Pārgriezīsim” izveidoto virkni starp 1008. un 1009. elementu, iegūstot divus virknes fragmentus, no kuriem pirmais satur 1008 locekļus, bet otrais satur 1007 locekļus. No sākotnējām blakus elementu starpībām ir pazaudēta tikai ,,pārgrieztā” starpība 1007. Tagad saliksim šos fragmentus pretējā secībā - tā, ka vispirms ir fragments, kurā ir 1007 skaitli un kurš beidzas ar skaitli 1008, un pēc tam fragments, kurā ir 1008 skaitļi un kurš sākas ar skaitli 1 . „Salīmēsim" šos fragmentus kopā, iegūstot trūkstošo starpību 1007. Vajadzīgā virkne ir izveidota, skaitlis 1 ir jaunās virknes 1008. loceklis un starp blakus elementu starpībām atrodami visi skaitli no 1 līdz 2014:
+**b)** Aplūkosim skaitļu virkni
+$1; 2015; 2; 2014; 3; 2013; 4; 2012; ...; 1007; 1009; 1008$ (šī virkne sastāv no
+divām virknēm- vienas augošas $1 ; 2 ; 3 ; \ldots ; 1008$ un otras dilstošas
+$2015; 2014; ...; 1009$). Šajā virknē ir visi skaitļi no $1$ līdz $2015$ un
+starpības starp katriem diviem blakus esošiem skaitļiem dilst no $2014$ līdz $1$.
+Šī virkne pēc savām īpašībām ir ļoti līdzīga nepieciešamajai, tikai skaitlis $1$
+šajā virknē ir pirmais nevis $1008.$ loceklis. Virknes $1008.$ loceklis
+(jeb $504.$ loceklis dilstošajā virknē ir
+$\left.a_{504}=2015+(-1)(504-1)=1512\right)$ ir $1512$, virknes $1009.$
+loceklis (jeb $505.$ loceklis augošajā virknē) ir $505$. Starpība starp virknes
+$1008.$ un $1009.$ locekli ir $1512-505=1007$. „Pārgriezīsim” izveidoto virkni
+starp $1008.$ un $1009.$ elementu, iegūstot divus virknes fragmentus, no kuriem
+pirmais satur $1008$ locekļus, bet otrais satur $1007$ locekļus. No sākotnējām
+blakus elementu starpībām ir pazaudēta tikai „pārgrieztā” starpība $1007.$
+Tagad saliksim šos fragmentus pretējā secībā- tā, ka vispirms ir fragments,
+kurā ir $1007$ skaitļi un kurš beidzas ar skaitli $1008$, un pēc tam fragments,
+kurā ir $1008$ skaitļi un kurš sākas ar skaitli $1$. „Salīmēsim" šos fragmentus
+kopā, iegūstot trūkstošo starpību $1007$. Vajadzīgā virkne ir izveidota,
+skaitlis $1$ ir jaunās virknes $1008.$ loceklis un starp blakus elementu
+starpībām atrodami visi skaitļi no $1$ līdz $2014$:
 
 ```
 505; 1511; 506; 1510; ... 1010; 1007; 1009; 1008; 1; 2015; 2; 2014; 3; ... 504; 1512
@@ -989,7 +1033,7 @@ Ja $n=10^{k}$, kur $k-$ naturāls skaitlis, tad $M(n)=M\left(10^{k}\right)=\unde
 
 # <lo-sample/> LV.AMO.2015.11.4
 
-Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, garākais pamats ir $A D$. Diagonāles $A C$ un $B D$ krustojas punktā $E$. Ap trijstūri $A B E$ apvilkta riņka līnija $\omega_{1}$, bet ap $C D E$ - rinka līnija $\omega_{2}$. Pierādīt, ka trapecei $A B C D$ apvilktās riņka līnijas $\omega$ centrs atrodas $\omega_{1}$ un $\omega_{2}$ krustpunktā, kas atškirī̄gs no punkta $E$ !
+Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, garākais pamats ir $A D$. Diagonāles $A C$ un $B D$ krustojas punktā $E$. Ap trijstūri $A B E$ apvilkta riņka līnija $\omega_{1}$, bet ap $C D E$ - riņķa līnija $\omega_{2}$. Pierādīt, ka trapecei $A B C D$ apvilktās riņka līnijas $\omega$ centrs atrodas $\omega_{1}$ un $\omega_{2}$ krustpunktā, kas atškirī̄gs no punkta $E$ !
 
 <small>
 
@@ -1003,7 +1047,7 @@ Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, garākais pamats 
 
 Riņka līiju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu apzīmējam ar $F$ (skat. A23.att.). Tad ir jāpierāda, ka $\omega$ centrs ir punktā $F$. Izmantosim, ka četrstūrim apvilktās riņka līnijas centrs ir četrstūra malu vidusperpendikulu krustpunktā.
 
-Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $E F$ ir malu $A D$ un $B C$ vidusperpendikuls. Apzīmējam $\sphericalangle E A D=\sphericalangle E D A=\alpha$ un $\sphericalangle B A E=\beta$. Tad no trijstūra iekšējo leņ̧u summas izriet, ka $\sphericalangle A E D=180^{\circ}-\sphericalangle E A D-\sphericalangle A D E=180^{\circ}-2 \alpha$ un no blakusleņķu īpašības $\sphericalangle A E B=2 \alpha$. Punkti $E$ un $F$ atrodas uz rinka līnijas $\omega_{1}$, tāpēc $\sphericalangle A F B=\sphericalangle A E B=2 \alpha$ un $\sphericalangle B A E=\sphericalangle B F E=\beta$ kā ievilktie leņķi, kas balstās attiecīgi uz viena un tā paša loka. Simetrijas dēl $\sphericalangle F B C=\sphericalangle B C F=\left(180^{\circ}-2 \beta\right): 2=90^{\circ}-\beta$. No trijstūra $A B C$ iegūstam, ka $\sphericalangle A B C=180^{\circ}-\alpha-\beta$, tad $\sphericalangle A B F=180^{\circ}-\alpha-\beta-\left(90^{\circ}-\beta\right)=90^{\circ}-\alpha$. No $\triangle B A F$ iegūstam, ka $\sphericalangle B A F=180^{\circ}-\left(90^{\circ}-\alpha\right)-2 \alpha=90^{\circ}-\alpha$. Līdz ar to $\triangle B A F$ ir vienādsānu trijstūris un punkts $F$ atrodas uz trijstūra malas $A B$ vidusperpendikula. Tātad punkts $F$ ir četrstūrim $A B C D$ apvilktās rinka līnijas $\omega$ centrs.
+Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $E F$ ir malu $A D$ un $B C$ vidusperpendikuls. Apzīmējam $\sphericalangle E A D=\sphericalangle E D A=\alpha$ un $\sphericalangle B A E=\beta$. Tad no trijstūra iekšējo leņ̧u summas izriet, ka $\sphericalangle A E D=180^{\circ}-\sphericalangle E A D-\sphericalangle A D E=180^{\circ}-2 \alpha$ un no blakusleņķu īpašības $\sphericalangle A E B=2 \alpha$. Punkti $E$ un $F$ atrodas uz riņķa līnijas $\omega_{1}$, tāpēc $\sphericalangle A F B=\sphericalangle A E B=2 \alpha$ un $\sphericalangle B A E=\sphericalangle B F E=\beta$ kā ievilktie leņķi, kas balstās attiecīgi uz viena un tā paša loka. Simetrijas dēl $\sphericalangle F B C=\sphericalangle B C F=\left(180^{\circ}-2 \beta\right): 2=90^{\circ}-\beta$. No trijstūra $A B C$ iegūstam, ka $\sphericalangle A B C=180^{\circ}-\alpha-\beta$, tad $\sphericalangle A B F=180^{\circ}-\alpha-\beta-\left(90^{\circ}-\beta\right)=90^{\circ}-\alpha$. No $\triangle B A F$ iegūstam, ka $\sphericalangle B A F=180^{\circ}-\left(90^{\circ}-\alpha\right)-2 \alpha=90^{\circ}-\alpha$. Līdz ar to $\triangle B A F$ ir vienādsānu trijstūris un punkts $F$ atrodas uz trijstūra malas $A B$ vidusperpendikula. Tātad punkts $F$ ir četrstūrim $A B C D$ apvilktās riņķa līnijas $\omega$ centrs.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-12.jpg?height=675&width=1169&top_left_y=1664&top_left_x=501)
 
@@ -1011,9 +1055,9 @@ A23.att.
 
 ## Atrisinājums
 
-Ar $F$ apzīmējam rinķa līniju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu (skat. A24.att.). Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $\sphericalangle E A D=\sphericalangle E D A=\alpha$. Tad $\sphericalangle C E D=\sphericalangle E D A+\sphericalangle E A D=2 \alpha$ (kā trijstūra $A E D$ trešā leņķa $A E D$ ārējais leņķis). Apskatām, kādi leņķi balstās uz loka $C D$, pieņemot, ka arī trapecei $A B C D$ ir apvilkta riņka līnija $\omega$. Riņka līnijā $\omega$ ievilktais leņķis $C A D$ balstās uz loka $C D$, tam atbilstošā centra leņķa lielums ir $2 \alpha$. Visi leņķik, kas balstās uz loka $C D$ un kuru lielums ir $2 \alpha$, atrodas uz $\omega_{2}$. Tātad arī $\omega$ centrs atrodas uz $\omega_{2}$.
+Ar $F$ apzīmējam riņķa līniju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu (skat. A24.att.). Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $\sphericalangle E A D=\sphericalangle E D A=\alpha$. Tad $\sphericalangle C E D=\sphericalangle E D A+\sphericalangle E A D=2 \alpha$ (kā trijstūra $A E D$ trešā leņķa $A E D$ ārējais leņķis). Apskatām, kādi leņķi balstās uz loka $C D$, pieņemot, ka arī trapecei $A B C D$ ir apvilkta riņka līnija $\omega$. Riņka līnijā $\omega$ ievilktais leņķis $C A D$ balstās uz loka $C D$, tam atbilstošā centra leņķa lielums ir $2 \alpha$. Visi leņķik, kas balstās uz loka $C D$ un kuru lielums ir $2 \alpha$, atrodas uz $\omega_{2}$. Tātad arī $\omega$ centrs atrodas uz $\omega_{2}$.
 
-Analogiski pierāda, ka $\omega$ centrs atrodas uz $\omega_{1}$. Tātad $\omega$ centrs atrodas rinka līniju $\omega_{1}$ un $\omega_{2}$ krustpunktā - vai nu punktā $E$, vai punktā $F$. Rinķa līnijas $\omega$ centrs nevar būt punkts $E$, jo $B E$ un $A E$ tad būtu rādiusi, bet $B E \neq A E$ (vienādsānu trapeces diagonāles krustpunktā nedalās uz pusēm). Līdz ar to punkts $F$ ir trapecei $A B C D$ apvilktās rinka līnijas $\omega$ centrs.
+Analogiski pierāda, ka $\omega$ centrs atrodas uz $\omega_{1}$. Tātad $\omega$ centrs atrodas riņķa līniju $\omega_{1}$ un $\omega_{2}$ krustpunktā - vai nu punktā $E$, vai punktā $F$. riņķa līnijas $\omega$ centrs nevar būt punkts $E$, jo $B E$ un $A E$ tad būtu rādiusi, bet $B E \neq A E$ (vienādsānu trapeces diagonāles krustpunktā nedalās uz pusēm). Līdz ar to punkts $F$ ir trapecei $A B C D$ apvilktās riņķa līnijas $\omega$ centrs.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-13.jpg?height=607&width=1061&top_left_y=396&top_left_x=543)
 
@@ -1159,7 +1203,7 @@ Tā kā $P S=Q R$ un $A B=A Q+Q R+R B$ (skat. A28.att.), tad pietiek pierādīt,
 
 A28.att.
 
-Tātad paliek pierādīt, ka $A B^{\prime} \geq 2 P Q$. Nogrieznis $A B^{\prime}$ ir diametrs rinka līnijai, kas apvilkta ap $\triangle A P B^{\prime}$, jo $\sphericalangle A P B^{\prime}=\sphericalangle A C B=90^{\circ}$ kā kāpšlu leņķi pie paralēlām taisnēm. Nogrieznis $P Q$ nav garāks kā šīs rinka līnijas rādiuss, kas ir puse no diametra. Līdz ar to $A B^{\prime} \geq 2 P Q$ un arī $A B \geq 3 P S$. Vienādība iespējama tikai tad, kad $P Q$ ir vienāds ar riņka līnijas rādiusu. Tādā gadījumā $\triangle A P B^{\prime}$ ir vienādsānu trīsstūris, tāpēc arī $\triangle A C B$ ir vienādsānu, jo $\sphericalangle C A B=45^{\circ}$. Tātad vienādība iespējama tikai tad, ja $A C=C B$.
+Tātad paliek pierādīt, ka $A B^{\prime} \geq 2 P Q$. Nogrieznis $A B^{\prime}$ ir diametrs riņķa līnijai, kas apvilkta ap $\triangle A P B^{\prime}$, jo $\sphericalangle A P B^{\prime}=\sphericalangle A C B=90^{\circ}$ kā kāpšlu leņķi pie paralēlām taisnēm. Nogrieznis $P Q$ nav garāks kā šīs riņķa līnijas rādiuss, kas ir puse no diametra. Līdz ar to $A B^{\prime} \geq 2 P Q$ un arī $A B \geq 3 P S$. Vienādība iespējama tikai tad, kad $P Q$ ir vienāds ar riņka līnijas rādiusu. Tādā gadījumā $\triangle A P B^{\prime}$ ir vienādsānu trīsstūris, tāpēc arī $\triangle A C B$ ir vienādsānu, jo $\sphericalangle C A B=45^{\circ}$. Tātad vienādība iespējama tikai tad, ja $A C=C B$.
 
 ## Atrisinājums
 
