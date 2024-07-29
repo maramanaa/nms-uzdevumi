@@ -641,7 +641,7 @@ $ABC$ ir vienādmalu!
 ## Atrisinājums
 
 Tā kā $BK=HC, \sphericalangle KBC=\sphericalangle HCB$ un $BC$- kopīga mala
-(skat. A12.att.), tad $\triangle BCK=\triangle BCH$ pēc pazīmes " $m /ell m$ ".
+(skat. A12.att.), tad $\triangle BCK=\triangle BCH$ pēc pazīmes " $m \ell m$ ".
 Līdz ar to $\sphericalangle BKC=\sphericalangle CHB=90^{\circ}$ (kā atbilstošie
 leņķi vienādos trijstūros). Tātad $BK$ ir gan augstums, gan mediāna, līdz ar to
 $\triangle ABC$ ir vienādsānu trijstūris $(AB=BC)$. Izmantojot trijstūra laukuma
@@ -659,12 +659,12 @@ Līdz ar to $\sphericalangle BKC=\sphericalangle CHB=90^{\circ}$ (kā atbilstoš
 leņķi vienādos trijstūros) un $BK$ ir augstums no virsotnes $B$ pret malu $AC$.
 Tā kā $AK=KC$, $\sphericalangle AKB=\sphericalangle KBC=90^{\circ}$ un
 $BK$- kopīga mala, tad $\triangle AKB=\triangle BCK$ pēc pazīmes
-" $m /ell m$ ". No kā izriet, ka $\sphericalangle ABK=\sphericalangle KBC$.
+" $m \ell m$ ". No kā izriet, ka $\sphericalangle ABK=\sphericalangle KBC$.
 Izmantojot trijstūra iekšējo leņķu summu, iegūstam
 
-- no $\triangle HCB: \sphericalangle HBC+\sphericalangle BCH+\sphericalangle CHB=180^{\circ}$;
-  $2 * \sphericalangle ABK+\sphericalangle ABK+90^{\circ}=180^{\circ}$
-  $3 * \sphericalangle ABK=90^{\circ}$ jeb $\sphericalangle ABK=30^{\circ}$
+- no $\triangle HCB: \sphericalangle HBC+\sphericalangle BCH+\sphericalangle CHB=180^{\circ}$;  
+  $2 \cdot \sphericalangle ABK+\sphericalangle ABK+90^{\circ}=180^{\circ}$  
+  $3 \cdot \sphericalangle ABK=90^{\circ}$ jeb $\sphericalangle ABK=30^{\circ}$
 
 - no $\triangle ABK: \sphericalangle BAC=180^{\circ}-\sphericalangle ABK-\sphericalangle AKB=180^{\circ}-30^{\circ}-90^{\circ}=60^{\circ}$;
 - no $\triangle ABC: \sphericalangle BCA=180^{\circ}-\sphericalangle BAC-\sphericalangle ABC=180^{\circ}-60^{\circ}-2 \cdot 30^{\circ}=60^{\circ}$.
