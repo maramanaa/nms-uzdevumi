@@ -810,7 +810,7 @@ Pirmo trīspadsmit naturālu skaitļu summa ir
 $$\frac{(1+13) \cdot 13}{2}=91$$
 
 Ar $x$ apzīmējam skaitli, kuru Dārta nodzēsīs. To nosakām no vienādojuma
-
+ 
 $$\begin{equation*}
 12A=91-x \tag{*}
 \end{equation*}$$
