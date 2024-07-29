@@ -194,7 +194,7 @@ $\frac{1}{3}, \frac{1}{3}, \frac{2}{3}, \frac{2}{3}$.
 
 # <lo-sample/> LV.AMO.2015.6.2
 
-Vai kvadrātu ar izmēriem $12 \times 12$ rūtiņas, kuram no diviem pretējiem
+Vai kvadrātu ar izmēriem $12 \times 12$ rūtiņas, kurām no diviem pretējiem
 stūriem izgriezti taisnstūri $3 \times 5$ rūtiņas, var pārklāt ar $57$
 taisnstūriem, kuru izmēri ir $1 \times 2$ rūtiņas?
 
@@ -699,7 +699,7 @@ vismazāko vērtību. Tātad meklētie divi skaitļi ir $-1007,5$ un $1007,5$.
 
 # <lo-sample/> LV.AMO.2015.9.2
 
-Tornis ir salikts no vienības kubiniem, kur katra kubiņa izmērs ir
+Tornis ir salikts no vienības kubiņiem, kur katra kubiņa izmērs ir
 $1 \times 1 \times 1$. Apakšējā slānī ir $7 \times 7$ kubiņi. Otrs slānis ir
 novietots virs pirmā slāņa centrālās daļās, tajā ir $5 \times 5$ kubiņi. Trešajā
 slānī, kurš novietots apakšējās daļas centrā, ir $3 \times 3$ kubiņi un augšā
@@ -803,7 +803,7 @@ skaitlis $1$ ir vidējais ($n$-tais), ja **a)** $n=5$; **b)** $n=1008$.
 
 **a)** Der, piemēram, virkne
 
-$$7 ; \quad 4 ; \quad 6 ; \quad 5 ; \quad 1 ; \quad 9 ; \quad 2 ; \quad 8 ; \quad 3$$
+![](LV.AMO.2015.9.5A.png)
 
 **b)** Aplūkosim skaitļu virkni
 $1; 2015; 2; 2014; 3; 2013; 4; 2012; ...; 1007; 1009; 1008$ (šī virkne sastāv no
@@ -826,16 +826,14 @@ kopā, iegūstot trūkstošo starpību $1007$. Vajadzīgā virkne ir izveidota,
 skaitlis $1$ ir jaunās virknes $1008.$ loceklis un starp blakus elementu
 starpībām atrodami visi skaitļi no $1$ līdz $2014$:
 
-```
-505; 1511; 506; 1510; ... 1010; 1007; 1009; 1008; 1; 2015; 2; 2014; 3; ... 504; 1512
-
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-09.jpg?height=49&width=1572&top_left_y=1346&top_left_x=296)
+![](LV.AMO.2015.9.5B.png)
 
 
 
 # <lo-sample/> LV.AMO.2015.10.1
 
-Nosaki funkcijas a) $y=x^{2}+2 x+2$, b) $y=\frac{1}{x^{2}+2 x+2}$ vērtību kopu!
+Nosaki funkcijas **a)** $y=x^{2}+2x+2$, **b)** $y=\frac{1}{x^{2}+2x+2}$ vērtību
+kopu!
 
 <small>
 
@@ -847,15 +845,23 @@ Nosaki funkcijas a) $y=x^{2}+2 x+2$, b) $y=\frac{1}{x^{2}+2 x+2}$ vērtību kopu
 
 ## Atrisinājums
 
-a) Dotās funkcijas grafiks ir parabola, kuras zari ir vērsti uz augšu, tāpēc funkcijai ir vismazākā, bet nav vislielākās vērtības. Parabolas virsotnes abscisa $x_{0}=\frac{-2}{2}=-1$ ir punkts, kurā funkcija sasniedz vismazāko vērtību $y_{0}=1-2+2=1$. Tātad funkcijas vērtību kopa ir $[1 ;+\infty)$.
+**a)** Dotās funkcijas grafiks ir parabola, kuras zari ir vērsti uz augšu,
+tāpēc funkcijai ir vismazākā, bet nav vislielākās vērtības. Parabolas virsotnes
+abscisa $x_{0}=\frac{-2}{2}=-1$ ir punkts, kurā funkcija sasniedz vismazāko
+vērtību $y_{0}=1-2+2=1$. Tātad funkcijas vērtību kopa ir $[1 ;+\infty)$.
 
-b) Pārrakstām doto funkciju formā $y=\frac{1}{(x+1)^{2}+1}$. Skaitīīja izteiksme nav vienāda ar 0 un saucējs ir pozitīvs, tāpēc $y>0$. Tā kā $(x+1)^{2}+1 \geq 1$, tad $y=\frac{1}{(x+1)^{2}+1} \leq \frac{1}{1}=1$. Tātad funkcijas vērtību kopa ir $(0 ; 1]$.
+**b)** Pārrakstām doto funkciju formā $y=\frac{1}{(x+1)^{2}+1}$. Skaitītāja
+izteiksme nav vienāda ar $0$ un saucējs ir pozitīvs, tāpēc $y > 0$. Tā kā
+$(x+1)^{2}+1 \geq 1$, tad $y=\frac{1}{(x+1)^{2}+1} \leq \frac{1}{1}=1$. Tātad
+funkcijas vērtību kopa ir $(0; 1]$.
 
 
 
 # <lo-sample/> LV.AMO.2015.10.2
 
-Kādām naturālām $n$ vērtībām kvadrātu $n \times n$ rūtiņas var sagriezt taisnstūros ar izmēriem $1 \times 4$ rūtiņas? Griezuma līnijām jāiet pa rūtiņu malām.
+Kādām naturālām $n$ vērtībām kvadrātu $n \times n$ rūtiņas var sagriezt
+taisnstūros ar izmēriem $1 \times 4$ rūtiņas? Griezuma līnijām jāiet pa rūtiņu
+malām.
 
 <small>
 
@@ -867,28 +873,47 @@ Kādām naturālām $n$ vērtībām kvadrātu $n \times n$ rūtiņas var sagriez
 
 ## Atrisinājums
 
-Ja $n$ - nepāra skaitlis, tad kvadrāts $n \times n$ satur nepāra skaita rūtiņas, kas nedalās ar 4 - rūtiņu skaitu taisnstūrī. Tātad $n$ jābūt pāra skaitlim. Aplūkosim divus iespējamos gadījumus.
-- Ja $n=4 k$ ( $k$ - naturāls skaitlis), tad kvadrātu ir iespējams sagriezt prasīajā veidā, piemēram, vispirms kvadrāu sagriež pa rindām (taisnstūros $1 \times 4 k$ ) un tad katru rindu $k$ taisnstūros, kuru izmēri ir $1 \times 4$.
-- Ja $n=4 k+2$ ( $k$ - naturāls skaitlis), tad izkrāsosim kvadrātu četrās krāsās diagonālveidā (skat. A15.att.). Lai kā arī grieztu, taisnstūris $1 \times 4$ vienmēr saturēs visu četru krāsu rūtiņas. Tātad kvadrātā visu krāsu rūtinām ir jābūt vienādā skaitā. Noskaidrosim, cik katras krāsas rūtiņu ir kvadrātā. Tā kā kvadrātu $4 k \times 4 k$ var sagriezt taisnstūros $1 \times 4$, tad tajā visu krāsu
-rūtiņas ir vienādā skaitā. Pēdējās divas kolonnas un rindas dalām taisnstūros $4 \times 2$, arī tajos visu krāsu rūtiņas ir vienādā skaitā, jo katru no tiem var sadalīt divos taisnstūros $1 \times 4$. Vēl paliek kvadrāts $2 \times 2$, kurā dzeltenās krāsas rūtiņa nav vispār un ir divas baltās rūtiņas. Iegūta pretruna ar to, ka kvadrātā visu krāsu rūtiņas ir vienādā skaitā. Līdz ar to kvadrātu, kura malas garums ir $n=4 k+2$, nav iespējams sagriezt taisnstūros ar izmēriem $1 \times 4$ rūtiņas.
+Ja $n$- nepāra skaitlis, tad kvadrāts $n \times n$ satur nepāra skaita rūtiņas,
+kas nedalās ar $4$- rūtiņu skaitu taisnstūrī. Tātad $n$ jābūt pāra skaitlim.
+Aplūkosim divus iespējamos gadījumus.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-10.jpg?height=415&width=418&top_left_y=472&top_left_x=679)
+- Ja $n=4k$ ($k$- naturāls skaitlis), tad kvadrātu ir iespējams sagriezt
+  prasīajā veidā, piemēram, vispirms kvadrāu sagriež pa rindām (taisnstūros
+  $1 \times 4k$ ) un tad katru rindu $k$ taisnstūros, kuru izmēri ir
+  $1 \times 4$.
+- Ja $n=4k+2$ ($k$- naturāls skaitlis), tad izkrāsosim kvadrātu četrās krāsās
+  diagonālveidā (skat. A15.att.). Lai kā arī grieztu, taisnstūris
+  $1 \times 4$ vienmēr saturēs visu četru krāsu rūtiņas. Tātad kvadrātā visu
+  krāsu rūtiņām ir jābūt vienādā skaitā. Noskaidrosim, cik katras krāsas rūtiņu
+  ir kvadrātā. Tā kā kvadrātu $4k \times 4k$ var sagriezt taisnstūros
+  $1 \times 4$, tad tajā visu krāsu rūtiņas ir vienādā skaitā. Pēdējās divas
+  kolonnas un rindas dalām taisnstūros $4 \times 2$, arī tajos visu krāsu
+  rūtiņas ir vienādā skaitā, jo katru no tiem var sadalīt divos taisnstūros
+  $1 \times 4$. Vēl paliek kvadrāts $2 \times 2$, kurā dzeltenās krāsas rūtiņa
+  nav vispār un ir divas baltās rūtiņas. Iegūta pretruna ar to, ka kvadrātā
+  visu krāsu rūtiņas ir vienādā skaitā. Līdz ar to kvadrātu, kura malas garums
+  ir $n=4k+2$, nav iespējams sagriezt taisnstūros ar izmēriem $1 \times 4$
+  rūtiņas.
 
-A15.att.
+![](LV.AMO.2015.10.2A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-10.jpg?height=298&width=303&top_left_y=591&top_left_x=1319)
+Esam ieguvuši, ka vienīgais gadījums, kad kvadrātu $n \times n$ rūtiņas var
+sagriezt taisnstūros ar izmēriem $1 \times 4$, ja $n=4k$, kur $k$- naturāls
+skaitlis.
 
-A16.att.
-
-Esam ieguvuši, ka vienīgais gadījums, kad kvadrātu $n \times n$ rūtiņas var sagriezt taisnstūros ar izmēriem $1 \times 4$, ja $n=4 k$, kur $k$ - naturāls skaitlis.
-
-*Piezīme.* Gadījumā, kad $n=4 k+2$ ( $k$ - naturāls skaitlis), kvadrātu varēja izkrāsot četrās krāsās tā, kā parādīts A16.att. Tad, lai kā arī grieztu, taisnstūris $1 \times 4$ vienmēr saturēs tieši divas vienas krāsas un tieši divas citas krāsas rūtiņas. Tātad kvadrātā katras krāsas rūtiņām ir jābūt pāra skaitā, kas ir pretruna tam, ka katras krāsas rūtiņu skaits kvadrātā ir $\frac{(4 k+2)^{2}}{4}=(2 k+1)^{2}=4 k^{2}+4 k+1$, kas ir nepāra skaitlis.
+*Piezīme.* Gadījumā, kad $n=4k+2$ ($k$- naturāls skaitlis), kvadrātu varēja
+izkrāsot četrās krāsās tā, kā parādīts A16.att. Tad, lai kā arī grieztu,
+taisnstūris $1 \times 4$ vienmēr saturēs tieši divas vienas krāsas un tieši
+divas citas krāsas rūtiņas. Tātad kvadrātā katras krāsas rūtiņām ir jābūt pāra
+skaitā, kas ir pretruna tam, ka katras krāsas rūtiņu skaits kvadrātā ir
+$\frac{(4k+2)^{2}}{4}=(2k+1)^{2}=4k^{2}+4k+1$, kas ir nepāra skaitlis.
 
 
 
 # <lo-sample/> LV.AMO.2015.10.3
 
-Atrast visus naturālos skaitlus, kas ir vienādi ar savu ciparu reizinājumu. (Par viencipara skaitla ciparu reizinājumu sauc tā vienīgo ciparu.)
+Atrast visus naturālos skaitļus, kas ir vienādi ar savu ciparu reizinājumu. (Par
+viencipara skaitļa ciparu reizinājumu sauc tā vienīgo ciparu.)
 
 <small>
 
@@ -900,13 +925,28 @@ Atrast visus naturālos skaitlus, kas ir vienādi ar savu ciparu reizinājumu. (
 
 ## Atrisinājums
 
-Ievērojam, ka visi viencipara skaitļi atbilst uzdevuma nosacījumiem. Pierādīsim, ka citu šādu skaitļu nav. Pieņemsim, ka $n=\overline{c_{1} c_{2} \ldots c_{k}}$, kur $k \geq 2$ un $c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k}=n$. Tā kā $c_{1}, c_{2}, \ldots, c_{k}$ ir cipari, tad $c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k} \leq c_{1} \cdot 9^{k-1}$. No otras puses $\overline{c_{1} c_{2} \ldots c_{k}} \geq c_{1}^{0 \ldots 0}=c_{1} \cdot 10^{k-1}$. Esam ieguvuši, ka $n \leq c_{1} \cdot 9^{k-1}$ un $n \geq c_{1} \cdot 10^{k-1}$, kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina uzdevuma prasības, ir visi viencipara skaitli.
+Ievērojam, ka visi viencipara skaitļi atbilst uzdevuma nosacījumiem. Pierādīsim,
+ka citu šādu skaitļu nav. Pieņemsim, ka
+$n=\overline{c_{1}c_{2} \ldots c_{k}}$, kur
+$k \geq 2$ un $c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k}=n$. Tā kā
+$c_{1}, c_{2}, \ldots, c_{k}$ ir cipari, tad
+$c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k} \leq c_{1} \cdot 9^{k-1}$. No otras
+puses
+$\overline{c_{1}c_{2} \ldots c_{k}} \geq c_{1}^{0 \ldots 0}=c_{1} \cdot 10^{k-1}$.
+Esam ieguvuši, ka $n \leq c_{1} \cdot 9^{k-1}$ un $n \geq c_{1} \cdot 10^{k-1}$,
+kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina
+uzdevuma prasības, ir visi viencipara skaitļi.
+
+
+$\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}$
 
 
 
 # <lo-sample/> LV.AMO.2015.10.4
 
-Uz vienādsānu trijstūra $A B C$ pamata $A C$ atlikts iekšējs punkts $D$, bet uz $A C$ pagarinājuma - punkts $E$ ( $C$ atrodas starp $D$ un $E$ ) tā, ka $A D=C E$. Pierādīt, ka $B D+B E>2 B C$.
+Uz vienādsānu trijstūra $ABC$ pamata $AC$ atlikts iekšējs punkts $D$, bet uz
+$AC$ pagarinājuma- punkts $E$ ( $C$ atrodas starp $D$ un $E$ ) tā, ka $AD=CE$.
+Pierādīt, ka $BD+BE > 2BC$.
 
 <small>
 
@@ -918,7 +958,10 @@ Uz vienādsānu trijstūra $A B C$ pamata $A C$ atlikts iekšējs punkts $D$, be
 
 ## Atrisinājums
 
-Pagarinām malu $B C$ un uz tās atliekam punktu $F$ tā, ka $B C=C F$ (skat. A17.att.). Trijstūri $D A B$ un $E C F$ ir vienādi pēc pazīmes $m \ell m$, tāpēc $B D=E F$ kā atbilstošās malas. No trīsstūra nevienādības $\triangle B E F$ izriet, ka $B E+E F>B F=B C+C F=2 B C$ jeb $B D+B E>2 B C$.
+Pagarinām malu $BC$ un uz tās atliekam punktu $F$ tā, ka $BC=CF$ (skat. A17.att.).
+Trijstūri $DAB$ un $ECF$ ir vienādi pēc pazīmes $m \ell m$, tāpēc $BD=EF$ kā
+atbilstošās malas. No trīsstūra nevienādības $\triangle BEF$ izriet, ka
+$BE+EF > BF=BC+CF=2BC$ jeb $BD+BE > 2BC$.
 
 ![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-10.jpg?height=597&width=672&top_left_y=2100&top_left_x=749)
 
@@ -926,7 +969,10 @@ Pagarinām malu $B C$ un uz tās atliekam punktu $F$ tā, ka $B C=C F$ (skat. A1
 
 # <lo-sample/> LV.AMO.2015.10.5
 
-Jura dzimšanas dienas torte ir biezpiena kubs, kura četras sānu skaldnes un augšējā skaldne ir noklāta ar šokolādes glazūru (visur vienādi biezu). Kā šo torti sadalīt a) 4 daļās, b) 3 daļās tā, lai katras dalas forma ir taisna prizma un gan biezpiena, gan glazūras daudzums visās daļās ir vienāds?
+Jura dzimšanas dienas torte ir biezpiena kubs, kura četras sānu skaldnes un
+augšējā skaldne ir noklāta ar šokolādes glazūru (visur vienādi biezu). Kā šo
+torti sadalīt **a)** $4$ daļās, **b)** $3$ daļās tā, lai katras daļas forma ir
+taisna prizma un gan biezpiena, gan glazūras daudzums visās daļās ir vienāds?
 
 <small>
 
@@ -938,28 +984,33 @@ Jura dzimšanas dienas torte ir biezpiena kubs, kura četras sānu skaldnes un a
 
 ## Atrisinājums
 
-Tortes augšējo skaldni sadalām $n$ vienlielās figūrās tā, lai augšējās skaldnes perimetrs būtu sadalīts $n$ vienādās dalā̄s. Skat., piemēram, A18.att., kur $n=4$, un A19.att., kur $n=3$.
+Tortes augšējo skaldni sadalām $n$ vienlielās figūrās tā, lai augšējās
+skaldnes perimetrs būtu sadalīts $n$ vienādās daļās. Skat., piemēram, A18.att.,
+kur $n=4$, un A19.att., kur $n=3$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-11.jpg?height=193&width=192&top_left_y=486&top_left_x=361)
+![](LV.AMO.2015.10.5A.png)
 
-A18.att.
+Lai iegūtās daļas būtu taisnas prizmas, veicam vertikālus griezienus
+perpendikulāri tortes pamatam. Tā kā visu daļu pamata laukumi ir vienādi un
+vienāds ir arī visu daļu augstums, tad visu daļu tilpumi ir vienādi jeb
+biezpiena daudzums visās daļās ir vienāds. Arī ar šokolādi noklātās virsmas
+laukums (glazūras daudzums) visām daļām ir vienāds, jo katrai daļai ar šokolādi
+noklātās virsmas laukums ir $\frac{P}{n} \cdot H+\frac{S}{n}$, kur $P$- kuba
+(tortes) augšējās skaldnes perimetrs, $S-$ augšējās skaldnes laukums, $H$- kuba
+augstums.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-11.jpg?height=192&width=189&top_left_y=484&top_left_x=888)
-
-A19.att.
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-11.jpg?height=201&width=416&top_left_y=481&top_left_x=1386)
-
-A20.att.
-
-Lai iegūtās daļas būtu taisnas prizmas, veicam vertikālus griezienus perpendikulāri tortes pamatam. Tā kā visu daļu pamata laukumi ir vienādi un vienāds ir arī visu daļu augstums, tad visu daļu tilpumi ir vienādi jeb biezpiena daudzums visās daļās ir vienāds. Arī ar šokolādi noklātās virsmas laukums (glazūras daudzums) visām daļām ir vienāds, jo katrai daļai ar šokolādi noklātās virsmas laukums ir $\frac{P}{n} \cdot H+\frac{S}{n}$, kur $P$ - kuba (tortes) augšējās skaldnes perimetrs, $S-$ augšējās skaldnes laukums, $H$ - kuba augstums.
-
-*Piezīme.* a) Sadalīt tortes augšējo skaldni četrās vienlielās figūrās tā, lai augšējās skaldnes perimetrs būtu sadalīts četrās vienādās daļās, var veicot jebkādus divus perpendikulārus griezienus, kas iet caur augšējās skaldnes centru (skat., piemēram, A20.att.).
+*Piezīme.* a) Sadalīt tortes augšējo skaldni četrās vienlielās figūrās tā, lai
+augšējās skaldnes perimetrs būtu sadalīts četrās vienādās daļās, var veicot
+jebkādus divus perpendikulārus griezienus, kas iet caur augšējās skaldnes
+centru (skat., piemēram, A20.att.).
 
 
 
 # <lo-sample/> LV.AMO.2015.11.1
 
-Aplūkojam visus deviņciparu skaitļus, kas nesatur 0 un kam visi cipari ir dažādi. Pierādīt, ka starp tiem pāra skaitļu ir tieši divas reizes mazāk nekā tādu, kas dalās ar 3 , bet nedalās ar 5 .
+Aplūkojam visus deviņciparu skaitļus, kas nesatur $0$ un kam visi cipari ir
+dažādi. Pierādīt, ka starp tiem pāra skaitļu ir tieši divas reizes mazāk nekā
+tādu, kas dalās ar $3$, bet nedalās ar $5$.
 
 <small>
 
@@ -971,19 +1022,31 @@ Aplūkojam visus deviņciparu skaitļus, kas nesatur 0 un kam visi cipari ir da�
 
 ## Atrisinājums
 
-Visi devinciparu skaitli, kas nesatur nulli un kuriem nav vienādu ciparu, dalās ar 3 , jo to ciparu summa ir $1+2+3+\ldots+9=45$, kas dalās ar 3 .
+Visi deviņciparu skaitļi, kas nesatur nulli un kuriem nav vienādu ciparu, dalās
+ar $3$, jo to ciparu summa ir $1+2+3+\ldots+9=45$, kas dalās ar $3$.
 
-Atliek noskaidrot, cik starp tiem ir pāra skaitļu un cik tādu, kas nedalās ar 5 .
+Atliek noskaidrot, cik starp tiem ir pāra skaitļu un cik tādu, kas nedalās ar
+$5$.
 
-Pāra skaitļi ir tie, kas beidzas ar 2, 4, 6, 8, tātad devinciparu skaitļa pēdējo ciparu var izvēlēties 4 veidos un visus atlikušos 8 ciparus izvēēēties 8! veidos, līdz ar to kopējais pāra skaitļu skaits ir $4 \cdot 8$ !.
+Pāra skaitļi ir tie, kas beidzas ar $2, 4, 6, 8$, tātad deviņciparu skaitļa
+pēdējo ciparu var izvēlēties $4$ veidos un visus atlikušos $8$ ciparus
+izvēlēties $8!$ veidos, līdz ar to kopējais pāra skaitļu skaits ir
+$4 \cdot 8$ !.
 
-Lai skaitlis nedalītos ar 5 , tā pēdējais cipars nedrīkst būt 5 , tātad to var izvēlēties 8 veidos (tas var būt jebkurš no cipariem $\{1,2,3,4,6,7,8,9\}$ ), pārējos 8 ciparus var salikt 8 ! veidos, tātad kopējais šādu skaitļu skaits ir 8$\cdot$8!. Redzams, ka tas ir tieši divas reizes lielāks nekā pāra skaitļu skaits.
+Lai skaitlis nedalītos ar $5$, tā pēdējais cipars nedrīkst būt $5$, tātad to
+var izvēlēties $8$ veidos (tas var būt jebkurš no cipariem
+$\{1,2,3,4,6,7,8,9\}$ ), pārējos $8$ ciparus var salikt $8!$ veidos, tātad
+kopējais šādu skaitļu skaits ir $8\cdot8!$. Redzams, ka tas ir tieši divas
+reizes lielāks nekā pāra skaitļu skaits.
 
 
 
 # <lo-sample/> LV.AMO.2015.11.2
 
-Taisnstūri var pārklāt ar mazākiem taisnstūriem, kuru izmēri ir $1 \times 4$ un $2 \times 2$. Vienu mazo taisnstūri, kura izmēri ir $2 \times 2$, aizvietoja ar taisnstūri $1 \times 4$. Vai, izmantojot šos taisnstūrus, vēl joprojām var pārklāt doto taisnstūri?
+Taisnstūri var pārklāt ar mazākiem taisnstūriem, kuru izmēri ir
+$1 \times 4$ un $2 \times 2$. Vienu mazo taisnstūri, kura izmēri ir
+$2 \times 2$, aizvietoja ar taisnstūri $1 \times 4$. Vai, izmantojot šos
+taisnstūrus, vēl joprojām var pārklāt doto taisnstūri?
 
 <small>
 
@@ -995,25 +1058,31 @@ Taisnstūri var pārklāt ar mazākiem taisnstūriem, kuru izmēri ir $1 \times 
 
 ## Atrisinājums
 
-Izkrāsosim taisnstūri četrās krāsās diagonālveidā (skat. A21.att.) Kvadrāts $2 \times 2$ vienmēr pārklāj tieši divas rūtiņas, kurām ir vienāda krāsa. Tātad figūrai, kas to aizvieto, arī jāpārklāj pāra skaita rūtiņas, kurām ir vienāda krāsa, bet katrs taisnstūris $1 \times 4$ pārklāj pa vienai rūtiņai no katras krāsas, tāpēc tas nav iespējams.
+Izkrāsosim taisnstūri četrās krāsās diagonālveidā (skat. A21.att.) Kvadrāts
+$2 \times 2$ vienmēr pārklāj tieši divas rūtiņas, kurām ir vienāda krāsa. Tātad
+figūrai, kas to aizvieto, arī jāpārklāj pāra skaita rūtiņas, kurām ir vienāda
+krāsa, bet katrs taisnstūris $1 \times 4$ pārklāj pa vienai rūtiņai no katras
+krāsas, tāpēc tas nav iespējams.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-11.jpg?height=218&width=215&top_left_y=2261&top_left_x=749)
-
-A21.att.
-
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-11.jpg?height=212&width=241&top_left_y=2258&top_left_x=1156)
-
-A22.att.
+![](LV.AMO.2015.11.2A.png)
 
 ## Atrisinājums
 
-Izkrāsosim taisnstūri četrās krāsās tā, kā parādīts A 22 .att. Kvadrāts $2 \times 2$ vienmēr pārklāj tieši vienu (nepāra skaitlis) baltu rūtiņuu. Tātad figūrai, kas to aizvieto, arī jāpārklāj nepāra skaita baltās rūtiņas, bet katrs taisnstūris $1 \times 4$ pārklāj vai nu tieši divas baltas rūtiņas, vai nevienu baltu rūtiņu, tas ir, pāra skaita baltās rūtiņas, tāpēc tas nav iespējams.
+Izkrāsosim taisnstūri četrās krāsās tā, kā parādīts A22 .att. Kvadrāts
+$2 \times 2$ vienmēr pārklāj tieši vienu (nepāra skaitlis) baltu rūtiņu. Tātad
+figūrai, kas to aizvieto, arī jāpārklāj nepāra skaita baltās rūtiņas, bet katrs
+taisnstūris $1 \times 4$ pārklāj vai nu tieši divas baltas rūtiņas, vai nevienu
+baltu rūtiņu, tas ir, pāra skaita baltās rūtiņas, tāpēc tas nav iespējams.
+
+![](LV.AMO.2015.11.2B.png)
 
 
 
 # <lo-sample/> LV.AMO.2015.11.3
 
-Naturālam skaitlim $n$ ar $M(n)$ apzīmēsim mazāko naturālo skaitli, kas beidzas ar $n$ un kura ciparu summa ir $n$. Piemēram, $M(13)=913$. Pierādīt, ka ir bezgalīgi daudz tādu $n$, ka $M(n)$ dalās ar $n$.
+Naturālam skaitlim $n$ ar $M(n)$ apzīmēsim mazāko naturālo skaitli, kas beidzas
+ar $n$ un kura ciparu summa ir $n$. Piemēram, $M(13)=913$. Pierādīt, ka ir
+bezgalīgi daudz tādu $n$, ka $M(n)$ dalās ar $n$.
 
 <small>
 
@@ -1025,15 +1094,24 @@ Naturālam skaitlim $n$ ar $M(n)$ apzīmēsim mazāko naturālo skaitli, kas bei
 
 ## Atrisinājums
 
-Ja $n=10^{k}$, kur $k-$ naturāls skaitlis, tad $M(n)=M\left(10^{k}\right)=\underbrace{9 \ldots 9}_{\left(10^{k}-1\right): 9} 1 \underbrace{0 \ldots 0}_{k}$. Ievērojam, kas skaitlis
-
-9...910...0 tiešām ir mazākais naturālais skaitlis, kas atbilst uzdevuma nosacījumiem, jo devītnieki skaitļa sākumā nodrošina mazāko iespējamo skaitļa garumu, tātad arī mazāko skaitļa vērtību. Tā kā skaitlis $M\left(10^{k}\right)=9 \ldots 91 \underbrace{0 \ldots 0}_{k}$ dalās ar $10^{k}$ un naturālo skaitļu $k$ ir bezgalīgi daudz, tad ir arı̄ bezgalīgi daudz tādu naturālu skaitļu $n$, ka $M(n)$ dalās ar $n$.
+Ja $n=10^{k}$, kur $k$- naturāls skaitlis, tad
+$M(n)=M\left(10^{k}\right)=\underbrace{9 \ldots 9}_{\left(10^{k}-1\right): 9} 1 \underbrace{0 \ldots 0}_{k}$.
+Ievērojam, kas skaitlis $9...910...0$ tiešām ir mazākais naturālais skaitlis,
+kas atbilst uzdevuma nosacījumiem, jo devītnieki skaitļa sākumā nodrošina
+mazāko iespējamo skaitļa garumu, tātad arī mazāko skaitļa vērtību. Tā kā
+skaitlis $M\left(10^{k}\right)=9 \ldots 91 \underbrace{0 \ldots 0}_{k}$ dalās
+ar $10^{k}$ un naturālo skaitļu $k$ ir bezgalīgi daudz, tad ir arī bezgalīgi
+daudz tādu naturālu skaitļu $n$, ka $M(n)$ dalās ar $n$.
 
 
 
 # <lo-sample/> LV.AMO.2015.11.4
 
-Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, garākais pamats ir $A D$. Diagonāles $A C$ un $B D$ krustojas punktā $E$. Ap trijstūri $A B E$ apvilkta riņka līnija $\omega_{1}$, bet ap $C D E$ - riņķa līnija $\omega_{2}$. Pierādīt, ka trapecei $A B C D$ apvilktās riņka līnijas $\omega$ centrs atrodas $\omega_{1}$ un $\omega_{2}$ krustpunktā, kas atškirī̄gs no punkta $E$ !
+Vienādsānu trapeces $ABCD$ sānu malas ir $AB$ un $CD$, garākais pamats ir $AD$.
+Diagonāles $AC$ un $BD$ krustojas punktā $E$. Ap trijstūri $ABE$ apvilkta riņķa
+līnija $\omega_{1}$, bet ap $CDE$- riņķa līnija $\omega_{2}$. Pierādīt, ka
+trapecei $ABCD$ apvilktās riņķa līnijas $\omega$ centrs atrodas $\omega_{1}$
+un $\omega_{2}$ krustpunktā, kas atšķirīgs no punkta $E$ !
 
 <small>
 
@@ -1045,29 +1123,61 @@ Vienādsānu trapeces $A B C D$ sānu malas ir $A B$ un $C D$, garākais pamats 
 
 ## Atrisinājums
 
-Riņka līiju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu apzīmējam ar $F$ (skat. A23.att.). Tad ir jāpierāda, ka $\omega$ centrs ir punktā $F$. Izmantosim, ka četrstūrim apvilktās riņka līnijas centrs ir četrstūra malu vidusperpendikulu krustpunktā.
+Riņķa līiju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu apzīmējam ar $F$
+(skat. A23.att.). Tad ir jāpierāda, ka $\omega$ centrs ir punktā $F$.
+Izmantosim, ka četrstūrim apvilktās riņķa līnijas centrs ir četrstūra malu
+vidusperpendikulu krustpunktā.
 
-Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $E F$ ir malu $A D$ un $B C$ vidusperpendikuls. Apzīmējam $\sphericalangle E A D=\sphericalangle E D A=\alpha$ un $\sphericalangle B A E=\beta$. Tad no trijstūra iekšējo leņ̧u summas izriet, ka $\sphericalangle A E D=180^{\circ}-\sphericalangle E A D-\sphericalangle A D E=180^{\circ}-2 \alpha$ un no blakusleņķu īpašības $\sphericalangle A E B=2 \alpha$. Punkti $E$ un $F$ atrodas uz riņķa līnijas $\omega_{1}$, tāpēc $\sphericalangle A F B=\sphericalangle A E B=2 \alpha$ un $\sphericalangle B A E=\sphericalangle B F E=\beta$ kā ievilktie leņķi, kas balstās attiecīgi uz viena un tā paša loka. Simetrijas dēl $\sphericalangle F B C=\sphericalangle B C F=\left(180^{\circ}-2 \beta\right): 2=90^{\circ}-\beta$. No trijstūra $A B C$ iegūstam, ka $\sphericalangle A B C=180^{\circ}-\alpha-\beta$, tad $\sphericalangle A B F=180^{\circ}-\alpha-\beta-\left(90^{\circ}-\beta\right)=90^{\circ}-\alpha$. No $\triangle B A F$ iegūstam, ka $\sphericalangle B A F=180^{\circ}-\left(90^{\circ}-\alpha\right)-2 \alpha=90^{\circ}-\alpha$. Līdz ar to $\triangle B A F$ ir vienādsānu trijstūris un punkts $F$ atrodas uz trijstūra malas $A B$ vidusperpendikula. Tātad punkts $F$ ir četrstūrim $A B C D$ apvilktās riņķa līnijas $\omega$ centrs.
+Tā kā $ABCD$ ir vienādsānu trapece, tad simetrijas dēļ $EF$ ir malu $AD$ un
+$BC$ vidusperpendikuls. Apzīmējam
+$\sphericalangle EAD=\sphericalangle EDA=\alpha$ un $\sphericalangle BAE=\beta$.
+Tad no trijstūra iekšējo leņķu summas izriet, ka
+$\sphericalangle AED=180^{\circ}-\sphericalangle EAD-\sphericalangle ADE=180^{\circ}-2 \alpha$
+un no blakusleņķu īpašības $\sphericalangle AEB=2 \alpha$. Punkti $E$ un $F$
+atrodas uz riņķa līnijas $\omega_{1}$, tāpēc
+$\sphericalangle AFB=\sphericalangle AEB=2 \alpha$ un
+$\sphericalangle BAE=\sphericalangle BFE=\beta$ kā ievilktie leņķi, kas balstās
+attiecīgi uz viena un tā paša loka. Simetrijas dēļ
+$\sphericalangle FBC=\sphericalangle BCF=\left(180^{\circ}-2 \beta\right): 2=90^{\circ}-\beta$.
+No trijstūra $ABC$ iegūstam, ka
+$\sphericalangle ABC=180^{\circ}-\alpha-\beta$, tad
+$\sphericalangle ABF=180^{\circ}-\alpha-\beta-\left(90^{\circ}-\beta\right)=90^{\circ}-\alpha$.
+No $\triangle BAF$ iegūstam, ka
+$\sphericalangle BAF=180^{\circ}-\left(90^{\circ}-\alpha\right)-2 \alpha=90^{\circ}-\alpha$.
+Līdz ar to $\triangle BAF$ ir vienādsānu trijstūris un punkts $F$ atrodas uz
+trijstūra malas $AB$ vidusperpendikula. Tātad punkts $F$ ir četrstūrim $ABCD$
+apvilktās riņķa līnijas $\omega$ centrs.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-12.jpg?height=675&width=1169&top_left_y=1664&top_left_x=501)
-
-A23.att.
+![](LV.AMO.2015.11.4A.png)
 
 ## Atrisinājums
 
-Ar $F$ apzīmējam riņķa līniju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu (skat. A24.att.). Tā kā $A B C D$ ir vienādsānu trapece, tad simetrijas dēl $\sphericalangle E A D=\sphericalangle E D A=\alpha$. Tad $\sphericalangle C E D=\sphericalangle E D A+\sphericalangle E A D=2 \alpha$ (kā trijstūra $A E D$ trešā leņķa $A E D$ ārējais leņķis). Apskatām, kādi leņķi balstās uz loka $C D$, pieņemot, ka arī trapecei $A B C D$ ir apvilkta riņka līnija $\omega$. Riņka līnijā $\omega$ ievilktais leņķis $C A D$ balstās uz loka $C D$, tam atbilstošā centra leņķa lielums ir $2 \alpha$. Visi leņķik, kas balstās uz loka $C D$ un kuru lielums ir $2 \alpha$, atrodas uz $\omega_{2}$. Tātad arī $\omega$ centrs atrodas uz $\omega_{2}$.
+Ar $F$ apzīmējam riņķa līniju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu
+(skat. A24.att.). Tā kā $ABCD$ ir vienādsānu trapece, tad simetrijas dēļ
+$\sphericalangle EAD=\sphericalangle EDA=\alpha$. Tad
+$\sphericalangle CED=\sphericalangle EDA+\sphericalangle EAD=2\alpha$ (kā
+trijstūra $AED$ trešā leņķa $AED$ ārējais leņķis). Apskatām, kādi leņķi balstās
+uz loka $CD$, pieņemot, ka arī trapecei $ABCD$ ir apvilkta riņķa līnija
+$\omega$. riņķa līnijā $\omega$ ievilktais leņķis $CAD$ balstās uz loka $CD$,
+tam atbilstošā centra leņķa lielums ir $2 \alpha$. Visi leņķi, kas balstās uz
+loka $CD$ un kuru lielums ir $2\alpha$, atrodas uz $\omega_{2}$. Tātad arī
+$\omega$ centrs atrodas uz $\omega_{2}$.
 
-Analogiski pierāda, ka $\omega$ centrs atrodas uz $\omega_{1}$. Tātad $\omega$ centrs atrodas riņķa līniju $\omega_{1}$ un $\omega_{2}$ krustpunktā - vai nu punktā $E$, vai punktā $F$. riņķa līnijas $\omega$ centrs nevar būt punkts $E$, jo $B E$ un $A E$ tad būtu rādiusi, bet $B E \neq A E$ (vienādsānu trapeces diagonāles krustpunktā nedalās uz pusēm). Līdz ar to punkts $F$ ir trapecei $A B C D$ apvilktās riņķa līnijas $\omega$ centrs.
+Analoģiski pierāda, ka $\omega$ centrs atrodas uz $\omega_{1}$. Tātad
+$\omega$ centrs atrodas riņķa līniju $\omega_{1}$ un $\omega_{2}$ krustpunktā-
+vai nu punktā $E$, vai punktā $F$. Riņķa līnijas $\omega$ centrs nevar būt
+punkts $E$, jo $BE$ un $AE$ tad būtu rādiusi, bet $BE \neq AE$ (vienādsānu
+trapeces diagonāles krustpunktā nedalās uz pusēm). Līdz ar to punkts $F$ ir
+trapecei $ABCD$ apvilktās riņķa līnijas $\omega$ centrs.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-13.jpg?height=607&width=1061&top_left_y=396&top_left_x=543)
-
-A24.att.
+![](LV.AMO.2015.11.4B.png)
 
 
 
 # <lo-sample/> LV.AMO.2015.11.5
 
-Atrast funkcijas $f(x)=8 \sin x+8 \cos x-12 \sin x \cos x$ mazāko un lielāko vērtību!
+Atrast funkcijas $f(x)=8 \sin x+8 \cos x-12 \sin x \cos x$ mazāko un lielāko
+vērtību!
 
 <small>
 
@@ -1081,19 +1191,25 @@ Atrast funkcijas $f(x)=8 \sin x+8 \cos x-12 \sin x \cos x$ mazāko un lielāko v
 
 Apzīmējam $t=\sin x+\cos x$. Tad
 
-$$
-t^{2}=(\sin x+\cos x)^{2}=\sin ^{2} x+2 \sin x \cos x+\cos ^{2} x=1+2 \sin x \cos x=1+\sin 2 x
-$$
+$$t^{2}=(\sin x+\cos x)^{2}=\sin ^{2}x+2 \sin x \cos x+\cos ^{2}x=1+2 \sin x \cos x=1+\sin 2x$$
 
-Tā kā $\sin 2 x \leq 1$, tad $t^{2}=1+\sin 2 x \leq 2$. Līdz ar to $t \in[-\sqrt{2}, \sqrt{2}]$.
+Tā kā $\sin 2x \leq 1$, tad $t^{2}=1+\sin 2x \leq 2$. Līdz ar to
+$t \in[-\sqrt{2}, \sqrt{2}]$.
 
-Izmantojot apzīmējumus, pārrakstām doto funkciju: $F(t)=8 t-6\left(t^{2}-1\right)=-6 t^{2}+8 t+6$. Funkcijas $F(t)$ grafiks ir parabola, kuras zari ir vērsti uz leju, tāpēc tās vislielākā vērtība ir parabolas virsotnē: $t_{0}=\frac{-8}{2 \cdot(-6)}=\frac{2}{3} \in[-\sqrt{2}, \sqrt{2}]$ un $F\left(t_{0}\right)=-6 \cdot \frac{4}{9}+8 \cdot \frac{2}{3}+6=\frac{26}{3}$.
+Izmantojot apzīmējumus, pārrakstām doto funkciju:
+$F(t)=8t-6\left(t^{2}-1\right)=-6t^{2}+8t+6$. Funkcijas $F(t)$ grafiks ir
+parabola, kuras zari ir vērsti uz leju, tāpēc tās vislielākā vērtība ir
+parabolas virsotnē:
+$t_{0}=\frac{-8}{2 \cdot(-6)}=\frac{2}{3} \in[-\sqrt{2}, \sqrt{2}]$ un
+$F\left(t_{0}\right)=-6 \cdot \frac{4}{9}+8 \cdot \frac{2}{3}+6=\frac{26}{3}$.
 
 Minimālā vērtība ir vienā no intervāla $[-\sqrt{2}, \sqrt{2}]$ galapunktiem:
 
-$F(-\sqrt{2})=-12-8 \sqrt{2}+6=-6-8 \sqrt{2}$ vai $F(\sqrt{2})=-12+8 \sqrt{2}+6=-6+8 \sqrt{2}$.
+$F(-\sqrt{2})=-12-8 \sqrt{2}+6=-6-8 \sqrt{2}$ vai
+$F(\sqrt{2})=-12+8 \sqrt{2}+6=-6+8 \sqrt{2}$.
 
-Tātad dotās funkcijas mazākā vērtība ir $(-6-8 \sqrt{2})$ un lielākā vērtība ir $\frac{26}{3}$.
+Tātad dotās funkcijas mazākā vērtība ir $(-6-8 \sqrt{2})$ un lielākā vērtība
+ir $\frac{26}{3}$.
 
 
 
@@ -1113,25 +1229,30 @@ Uz funkcijas $y=|x-3|+2$ grafika atrast tādu punktu $P$, kura attālumu kvadrā
 
 Uzzīmējam funkcijas $y=|x-3|+2$ grafiku (skat. A25.att.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-13.jpg?height=635&width=607&top_left_y=2055&top_left_x=676)
+![](LV.AMO.2015.12.1A.png)
 
-A25.att.
+Tā kā funkcijas grafiks ir simetrisks pret taisni $x=3$, tad punkta $P$ abscisa
+ir mazāka nekā $3$ (t. i., punkts $P$ atradīsies uz tās grafika daļas, ko
+nosaka funkcija $y=-x+5$ ). Punkta $P$ koordinātas apzīmējam ar $(x; y)$. Tātad
+jānosaka izteiksmes $x^{2}+y^{2}$ vismazākā vērtība:
 
-Tā kā funkcijas grafiks ir simetrisks pret taisni $x=3$, tad punkta $P$ abscisa ir mazāka nekā 3 (t. i., punkts $P$ atradīsies uz tās grafika daļas, ko nosaka funkcija $y=-x+5$ ). Punkta $P$ koordinātas apzīmējam ar $(x ; y)$. Tātad jānosaka izteiksmes $x^{2}+y^{2}$ vismazākā vērtība:
+$$x^{2}+y^{2}=x^{2}+(-x+5)^{2}=2x^{2}-10x+25$$
 
-$$
-x^{2}+y^{2}=x^{2}+(-x+5)^{2}=2 x^{2}-10 x+25
-$$
-
-Funkcijas $f(x)=2 x^{2}-10 x+25$ grafiks ir parabola ar zaru vērsumu uz augšu. Parabolas virsotnes abscisa $x_{0}=\frac{10}{4}=2,5$ ir punkts, kurā funkcija sasniedz vismazāko vērtību. Tad $y_{0}=-x_{0}+5=2,5$ un punkta $P$ koordinātas ir $(2,5 ; 2,5)$.
+Funkcijas $f(x)=2x^{2}-10x+25$ grafiks ir parabola ar zaru vērsumu uz augšu.
+Parabolas virsotnes abscisa $x_{0}=\frac{10}{4}=2,5$ ir punkts, kurā funkcija
+sasniedz vismazāko vērtību. Tad $y_{0}=-x_{0}+5=2,5$ un punkta $P$ koordinātas
+ir $(2,5; 2,5)$.
 
 
 
 # <lo-sample/> LV.AMO.2015.12.2
 
-Taisnstūrim ar izmēriem $10 \times 10$ rūtiņas izgrieza visas četras stūra rūtiņas. Vai iegūto figūru var pārklāt ar vienu 7.att. redzamo figūru un 23 figūrām, kas redzamas 8.att.? Figūras drīkst būt pagrieztas vai apgrieztas spoguļattēlā.
+Taisnstūrim ar izmēriem $10 \times 10$ rūtiņas izgrieza visas četras stūra
+rūtiņas. Vai iegūto figūru var pārklāt ar vienu 7.att. redzamo figūru un $23$
+figūrām, kas redzamas 8.att.? Figūras drīkst būt pagrieztas vai apgrieztas
+spoguļattēlā.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-14.jpg?height=161&width=349&top_left_y=819&top_left_x=859)
+![](LV.AMO.2015.12.2.png)
 
 <small>
 
@@ -1143,27 +1264,45 @@ Taisnstūrim ar izmēriem $10 \times 10$ rūtiņas izgrieza visas četras stūra
 
 ## Atrisinājums
 
-Izkrāsosim iegūto figūru divās krāsās tā, kā parādīts A26.att. Lai kā arī tiktu novietota 8.att. figūra, tā vienmēr pārklāj pāra skaita melnās rūtiņas. Tātad 23 šādas figūras kopā pārklāj pāra skaita melnās rūtiņas. Tā kā 7.att. figūra pārklāj nepāra skaita melnās rūtiņas, tad visas 24 figūras kopā pārklāj nepāra skaita melnās rūtiņas, bet A26.att. figūra satur pāra skaita melnās rūtiņas, tātad prasīto nevar izdarīt.
+Izkrāsosim iegūto figūru divās krāsās tā, kā parādīts A26.att. Lai kā arī tiktu
+novietota 8.att. figūra, tā vienmēr pārklāj pāra skaita melnās rūtiņas.
+Tātad $23$ šādas figūras kopā pārklāj pāra skaita melnās rūtiņas. Tā kā 7.att.
+figūra pārklāj nepāra skaita melnās rūtiņas, tad visas $24$ figūras kopā
+pārklāj nepāra skaita melnās rūtiņas, bet A26.att. figūra satur pāra skaita
+melnās rūtiņas, tātad prasīto nevar izdarīt.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-14.jpg?height=389&width=389&top_left_y=1253&top_left_x=888)
-
-A26.att.
+![](LV.AMO.2015.12.2A.png)
 
 ## Atrisinājums
 
-Izkrāsosim iegūto figūru četrās krāsās diagonālveidā (skat. A27.att.). Tā satur 24 katras krāsas rūtiņas. Lai kā novietotu 7.att. figūru, tā vienmēr pārklāj divas vienas krāsas rūtiņas un pa vienai rūtiņai no divām citām krāsām. Tad katrā krāsā nepārklātas paliek attiecīgi 22, 23, 23, 24 rūtiņas (divi pāra skaitļi, divi nepāra skaitļi). Iespējami divi gadījumi, kā novietot 8.att. figūru.
-- Ja tā pārklāj pa vienai katras krāsas rūtiņai, tad nepārklāto rūtiņu skaits katrā krāsā samazinās par 1, tas ir, nepārklāto rūtiņu skaita paritāte katrā krāsā mainās uz pretējo. Tātad joprojām divām no četrām krāsām nepārklātas paliek nepāra skaita rūtiņas, divām - pāra skaita rūtiņas.
-- Ja tā pārklāj divas rūtiņas no vienas krāsas, divas - no citas, tad katras krāsas nepārklāto rūtiņu skaits samazinās par pāra skaitli (vai nu par 2, vai 0 ) un nepārklāto rūtiņu skaita paritāte katrā krāsā saglabājas. Tātad joprojām divām no četrām krāsām nepārklātas paliek nepāra skaita rūtiņas, divām - pāra skaita rūtīnas.
+Izkrāsosim iegūto figūru četrās krāsās diagonālveidā (skat. A27.att.). Tā satur
+$24$ katras krāsas rūtiņas. Lai kā novietotu 7.att. figūru, tā vienmēr pārklāj
+divas vienas krāsas rūtiņas un pa vienai rūtiņai no divām citām krāsām. Tad
+katrā krāsā nepārklātas paliek attiecīgi $22, 23, 23, 24$ rūtiņas (divi pāra
+skaitļi, divi nepāra skaitļi). Iespējami divi gadījumi, kā novietot 8.att.
+figūru.
+- Ja tā pārklāj pa vienai katras krāsas rūtiņai, tad nepārklāto rūtiņu skaits
+  katrā krāsā samazinās par $1$, tas ir, nepārklāto rūtiņu skaita paritāte
+  katrā krāsā mainās uz pretējo. Tātad joprojām divām no četrām krāsām
+  nepārklātas paliek nepāra skaita rūtiņas, divām- pāra skaita rūtiņas.
+- Ja tā pārklāj divas rūtiņas no vienas krāsas, divas- no citas, tad katras
+  krāsas nepārklāto rūtiņu skaits samazinās par pāra skaitli (vai nu par $2$,
+  vai $0$) un nepārklāto rūtiņu skaita paritāte katrā krāsā saglabājas. Tātad
+  joprojām divām no četrām krāsām nepārklātas paliek nepāra skaita rūtiņas,
+  divām- pāra skaita rūtiņas.
 
-Ja prasīto varē̄tu izdarīt, tad katrā krāsā nepārklātas paliktu attiecīgi $0,0,0,0$ rūtiņas, bet tie visi ir pāra skaitļi. Tātad tas nav iespējams.
+Ja prasīto varētu izdarīt, tad katrā krāsā nepārklātas paliktu attiecīgi
+$0,0,0,0$ rūtiņas, bet tie visi ir pāra skaitļi. Tātad tas nav iespējams.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-14.jpg?height=392&width=529&top_left_y=2300&top_left_x=815)
+![](LV.AMO.2015.12.2Bpng)
 
 
 
 # <lo-sample/> LV.AMO.2015.12.3
 
-Pierādīt, ka $\frac{1}{a}+\frac{1}{b}+\frac{4}{c}+\frac{16}{d} \geq \frac{64}{a+b+c+d}$, ja $a, b, c, d$ ir pozitīvi skaitlli!
+Pierādīt, ka
+$\frac{1}{a}+\frac{1}{b}+\frac{4}{c}+\frac{16}{d} \geq \frac{64}{a+b+c+d}$,
+ja $a, b, c, d$ ir pozitīvi skaitļi!
 
 <small>
 
@@ -1175,17 +1314,23 @@ Pierādīt, ka $\frac{1}{a}+\frac{1}{b}+\frac{4}{c}+\frac{16}{d} \geq \frac{64}{
 
 ## Atrisinājums
 
-Lai pierādītu prasīto, pamatosim, ka pozitīviem skaitliem ir spēkā $\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y}$. Veicam ekvivalentus pārveidojumus:
+Lai pierādītu prasīto, pamatosim, ka pozitīviem skaitļiem ir spēkā
+$\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y}$. Veicam ekvivalentus pārveidojumus:
 
-$\left.\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y} \right\rvert\, \cdot x y(x+y)>0 \Rightarrow x y+y^{2}+x^{2}+x y \geq 4 x y \Rightarrow x^{2}-2 x y+y^{2} \geq 0 \Rightarrow(x-y)^{2} \geq 0$.
+$\left.\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y} \right\rvert\, \cdot xy(x+y) > 0 \Rightarrow xy+y^{2}+x^{2}+xy \geq 4xy \Rightarrow x^{2}-2xy+y^{2} \geq 0 \Rightarrow(x-y)^{2} \geq 0$.
 
-Tā kā iegūta patiesa nevienādība, tad arī $\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y}$ ir patiesa. Izmantojot šo nevienādību trīs reizes, iegūst prasīto: $\frac{1}{a}+\frac{1}{b}+\frac{4}{c}+\frac{16}{d} \geq\left(\frac{4}{a+b}+\frac{4}{c}\right)+\frac{16}{d} \geq \frac{16}{a+b+c}+\frac{16}{d} \geq \frac{64}{a+b+c+d}$.
+Tā kā iegūta patiesa nevienādība, tad arī
+$\frac{1}{x}+\frac{1}{y} \geq \frac{4}{x+y}$ ir patiesa. Izmantojot šo
+nevienādību trīs reizes, iegūst prasīto:
+$\frac{1}{a}+\frac{1}{b}+\frac{4}{c}+\frac{16}{d} \geq\left(\frac{4}{a+b}+\frac{4}{c}\right)+\frac{16}{d} \geq \frac{16}{a+b+c}+\frac{16}{d} \geq \frac{64}{a+b+c+d}$.
 
 
 
 # <lo-sample/> LV.AMO.2015.12.4
 
-Taisnleņķa trijstūrī $A B C$ uz katetes $A C$ atzīmēts punkts $P$, uz katetes $B C$ - punkts $S$, uz hipotenūzas $A B$ - punkti $R$ un $Q$ tā, ka $P S R Q$ ir kvadrāts. Pierādīt, ka $A B \geq 3 P S$. Kādā gadījumā $A B=3 P S$ ?
+Taisnleņķa trijstūrī $ABC$ uz katetes $AC$ atzīmēts punkts $P$, uz katetes
+$BC$- punkts $S$, uz hipotenūzas $AB$- punkti $R$ un $Q$ tā, ka $PSRQ$ ir
+kvadrāts. Pierādīt, ka $AB \geq 3PS$. Kādā gadījumā $AB=3PS$ ?
 
 <small>
 
@@ -1197,31 +1342,48 @@ Taisnleņķa trijstūrī $A B C$ uz katetes $A C$ atzīmēts punkts $P$, uz kate
 
 ## Atrisinājums
 
-Tā kā $P S=Q R$ un $A B=A Q+Q R+R B$ (skat. A28.att.), tad pietiek pierādīt, ka $A Q+R B \geq 2 P S$. Uz nogriežņa $A B$ atliekam punktu $B^{\prime}$ tā, ka $P B^{\prime} \| B C$. Tad $\triangle S R B=\triangle P Q B$ pēc pazīmes $\ell$ lm .
+Tā kā $PS=QR$ un $AB=AQ+QR+RB$ (skat. A28.att.), tad pietiek pierādīt, ka
+$AQ+RB \geq 2PS$. Uz nogriežņa $AB$ atliekam punktu $B^{\prime}$ tā, ka
+$PB^{\prime} || BC$. Tad $\triangle SRB=\triangle PQB$ pēc pazīmes
+$\ell m \ell$.
 
-![](https://cdn.mathpix.com/cropped/2024_07_28_83ffa171e813e2844936g-15.jpg?height=603&width=783&top_left_y=1212&top_left_x=685)
+![](LV.AMO.2015.12.4A.png)
 
-A28.att.
-
-Tātad paliek pierādīt, ka $A B^{\prime} \geq 2 P Q$. Nogrieznis $A B^{\prime}$ ir diametrs riņķa līnijai, kas apvilkta ap $\triangle A P B^{\prime}$, jo $\sphericalangle A P B^{\prime}=\sphericalangle A C B=90^{\circ}$ kā kāpšlu leņķi pie paralēlām taisnēm. Nogrieznis $P Q$ nav garāks kā šīs riņķa līnijas rādiuss, kas ir puse no diametra. Līdz ar to $A B^{\prime} \geq 2 P Q$ un arī $A B \geq 3 P S$. Vienādība iespējama tikai tad, kad $P Q$ ir vienāds ar riņka līnijas rādiusu. Tādā gadījumā $\triangle A P B^{\prime}$ ir vienādsānu trīsstūris, tāpēc arī $\triangle A C B$ ir vienādsānu, jo $\sphericalangle C A B=45^{\circ}$. Tātad vienādība iespējama tikai tad, ja $A C=C B$.
+Tātad paliek pierādīt, ka $AB^{\prime} \geq 2PQ$. Nogrieznis
+$AB^{\prime}$ ir diametrs riņķa līnijai, kas apvilkta ap
+$\triangle APB^{\prime}$, jo
+$\sphericalangle APB^{\prime}=\sphericalangle ACB=90^{\circ}$ kā kāpšlu leņķi
+pie paralēlām taisnēm. Nogrieznis $PQ$ nav garāks kā šīs riņķa līnijas rādiuss,
+kas ir puse no diametra. Līdz ar to $AB^{\prime} \geq 2PQ$ un arī
+$AB \geq 3PS$. Vienādība iespējama tikai tad, kad $PQ$ ir vienāds ar riņķa
+līnijas rādiusu. Tādā gadījumā $\triangle APB^{\prime}$ ir vienādsānu
+trīsstūris, tāpēc arī $\triangle ACB$ ir vienādsānu, jo
+$\sphericalangle CAB=45^{\circ}$. Tātad vienādība iespējama tikai tad, ja
+$AC=CB$.
 
 ## Atrisinājums
 
-Kvadrāta malas garumu pieņemsim par vienu vienību $P S=S R=R Q=P Q=1$, tad jāpierāda, ka $A B \geq 3$. Ievērojam, ka $A B=A Q+Q R+R B$ (skat. Axxx.att.). Apzīmējam $\sphericalangle C A B=\alpha$. No $\triangle A P Q$ iegūst, ka $A Q=\frac{1}{\operatorname{tg} \alpha}$ un no $\triangle R S B$ iegūst, ka $A Q=\operatorname{tg} \alpha$. Līdz ar to
+Kvadrāta malas garumu pieņemsim par vienu vienību $PS=SR=RQ=PQ=1$, tad
+jāpierāda, ka $AB \geq 3$. Ievērojam, ka $AB=AQ+QR+RB$ (skat. Axxx.att.).
+Apzīmējam $\sphericalangle CAB=\alpha$. No $\triangle APQ$ iegūst, ka
+$AQ=\frac{1}{\mbox{tg}\ \alpha}$ un no $\triangle RSB$ iegūst, ka
+$AQ=\mbox{tg}\ \alpha$. Līdz ar to
 
-$$
-A B=\frac{1}{\operatorname{tg} \alpha}+1+\operatorname{tg} \alpha=\frac{\operatorname{tg}^{2} \alpha+\operatorname{tg} \alpha+1}{\operatorname{tg} \alpha}=\frac{\operatorname{tg}^{2} \alpha-2 \operatorname{tg} \alpha+1+3 \operatorname{tg} \alpha}{\operatorname{tg} \alpha}=\frac{(\operatorname{tg} \alpha-1)^{2}+3 \operatorname{tg} \alpha}{\operatorname{tg} \alpha} \geq \frac{3 \operatorname{tg} \alpha}{\operatorname{tg} \alpha}=3,
-$$
+$$AB=\frac{1}{\mbox{tg}\ \alpha}+1+\mbox{tg}\ \alpha=\frac{\mbox{tg}\^{2} \alpha+\mbox{tg}\ \alpha+1}{\mbox{tg}\ \alpha}=\frac{\mbox{tg}\^{2} \alpha-2 \mbox{tg}\ \alpha+1+3 \mbox{tg}\ \alpha}{\mbox{tg}\ \alpha}=\frac{(\mbox{tg}\ \alpha-1)^{2}+3 \mbox{tg}\ \alpha}{\mbox{tg}\ \alpha} \geq \frac{3 \mbox{tg}\ \alpha}{\mbox{tg}\ \alpha}=3$$,
 
-jo $\operatorname{tg} \alpha \neq 0$ un $(\operatorname{tg} \alpha-1)^{2} \geq 0$.
+jo $\mbox{tg}\ \alpha \neq 0$ un $(\mbox{tg}\ \alpha-1)^{2} \geq 0$.
 
-Vienādība ir spēkā, ja $(\operatorname{tg} \alpha-1)^{2}=0$ jeb $\operatorname{tg} \alpha=1$. Tā kā $\alpha$ ir trijstūra leņķis, tad $\alpha=45^{\circ}$, kas nozīmē, ka $\triangle A C B$ ir vienādsānu. Tātad vienādība iespējama tikai tad, ja $A C=C B$.
+Vienādība ir spēkā, ja $(\mbox{tg}\ \alpha-1)^{2}=0$ jeb $\mbox{tg}\ \alpha=1$.
+Tā kā $\alpha$ ir trijstūra leņķis, tad $\alpha=45^{\circ}$, kas nozīmē, ka
+$\triangle ACB$ ir vienādsānu. Tātad vienādība iespējama tikai tad, ja $AC=CB$.
 
 
 
 # <lo-sample/> LV.AMO.2015.12.5
 
-Atrast visus naturālu skaitlu trijniekus ( $a, b, c$ ) tādus, ka $a \geq b \geq c \geq 2$ un $a b-1$ dalās ar $c, b c-1$ dalās ar $a, a c-1$ dalās ar $b$.
+Atrast visus naturālu skaitļu trijniekus ($a, b, c$) tādus, ka
+$a \geq b \geq c \geq 2$ un $ab-1$ dalās ar $c, bc-1$ dalās ar $a, ac-1$ dalās
+ar $b$.
 
 <small>
 
@@ -1233,29 +1395,27 @@ Atrast visus naturālu skaitlu trijniekus ( $a, b, c$ ) tādus, ka $a \geq b \ge
 
 ## Atrisinājums
 
-No dotā izriet, ka $(a b-1)(b c-1)(a c-1)$ dalās ar abc. Atverot iekavas iegūst, ka $a^{2} b^{2} c^{2}-a^{2} b c-a b^{2} c-a b c^{2}+a b+b c+a c-1$ dalās ar $a b c$. Tā kā pirmie četri saskaitāmie katrs dalās ar $a b c$, tad
+No dotā izriet, ka $(ab-1)(bc-1)(ac-1)$ dalās ar $abc$. Atverot iekavas iegūst,
+ka $a^{2}b^{2}c^{2}-a^{2}bc-ab^{2}c-abc^{2}+ab+bc+ac-1$ dalās ar $abc$. Tā kā
+pirmie četri saskaitāmie katrs dalās ar $abc$, tad
 
-$$
-\begin{equation*}
-a b+b c+a c-1 \text { jādalās ar } a b c \tag{1}
-\end{equation*}
-$$
+
+$ab+bc+ac-1$ jādalās ar $abc$ \tag{1}
 
 Tas nozīmē, ka
 
-$$
-\begin{equation*}
-a b+b c+a c-1 \geq a b c \tag{2}
-\end{equation*}
-$$
+$ab+bc+ac-1 \geq abc$ \tag{2}
 
 No otras puses, tā kā $a \geq b \geq c$, tad
 
-$$
-\begin{equation*}
-a b+b c+a c-1<a b+a b+a b=3 a b \tag{3}
-\end{equation*}
-$$
+$ab+bc+ac-1 < ab+ab+ab=3ab$ \tag{3}
 
-No nevienādībām (2) un (3) iegūst, ka $3 a b>a b c$, tātad $c<3$. Tā kā no dotā $c \geq 2$, tad vienīgā iespējamā vērtība ir $c=2$. Ievietojot to (1), iegūstam $a b+2(a+b)-1$ jādalās ar $2 a b$. No (3) izriet, ka $a b+2(a+b)-1<3 a b$, tātad vienīgā iespējamā izteiksmes $a b+2(a+b)-1$ vētība, lai tā dalītos ar $2 a b$, ir $2 a b$. Tātad $a b+2(a+b)-1=2 a b$, no kurienes $a b-2 a-2 b+4=3$ jeb $(a-2)(b-2)=3$. No dotā izriet, ka abi reizinātāji ir pozitīvi un $a-2 \geq b-2$, tātad $a-2=3$ un $b-2=1$, no kurienes $a=5$ un $b=3$. Pārbaude parāda, ka skaitlu trijnieks $(5,3,2)$ ir uzdevuma atrisinājums.```
+No nevienādībām (2) un (3) iegūst, ka $3ab > abc$, tātad $c < 3$. Tā kā no
+dotā $c \geq 2$, tad vienīgā iespējamā vērtība ir $c=2$. Ievietojot to (1),
+iegūstam $ab+2(a+b)-1$ jādalās ar $2ab$. No (3) izriet, ka
+$ab+2(a+b)-1 < 3ab$, tātad vienīgā iespējamā izteiksmes $ab+2(a+b)-1$ vētība,
+lai tā dalītos ar $2ab$, ir $2ab$. Tātad $ab+2(a+b)-1=2ab$, no kurienes
+$ab2a-2b+4=3$ jeb $(a-2)(b-2)=3$. No dotā izriet, ka abi reizinātāji ir
+pozitīvi un $a-2 \geq b-2$, tātad $a-2=3$ un $b-2=1$, no kurienes $a=5$ un
+$b=3$. Pārbaude parāda, ka skaitļu trijnieks $(5,3,2)$ ir uzdevuma atrisinājums.
 
