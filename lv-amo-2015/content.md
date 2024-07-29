@@ -938,7 +938,7 @@ kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina
 uzdevuma prasības, ir visi viencipara skaitļi.
 
 
-\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}
+$\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}$
 
 
 
