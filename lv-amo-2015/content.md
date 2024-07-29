@@ -1100,7 +1100,7 @@ skaitlis $M\left(10^{k}\right)=9 \ldots 91 \underbrace{0 \ldots 0}_{k}$ dalās
 ar $10^{k}$ un naturālo skaitļu $k$ ir bezgalīgi daudz, tad ir arī bezgalīgi
 daudz tādu naturālu skaitļu $n$, ka $M(n)$ dalās ar $n$.
 
-$M(n)=M\left(10^k\right)=\underbrace{9 \ldots 9}_{\left(10^k-1\right): 9} 1 \underbrace{0 \ldots 0}_{k}$
+
 
 # <lo-sample/> LV.AMO.2015.11.4
 
@@ -1120,7 +1120,7 @@ un $\omega_{2}$ krustpunktā, kas atšķirīgs no punkta $E$ !
 
 ## Atrisinājums
 
-Riņķa līiju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu apzīmējam ar $F$
+Riņķa līniju $\omega_{1}$ un $\omega_{2}$ otru krustpunktu apzīmējam ar $F$
 (skat. A23.att.). Tad ir jāpierāda, ka $\omega$ centrs ir punktā $F$.
 Izmantosim, ka četrstūrim apvilktās riņķa līnijas centrs ir četrstūra malu
 vidusperpendikulu krustpunktā.
@@ -1397,15 +1397,15 @@ ka $a^{2}b^{2}c^{2}-a^{2}bc-ab^{2}c-abc^{2}+ab+bc+ac-1$ dalās ar $abc$. Tā kā
 pirmie četri saskaitāmie katrs dalās ar $abc$, tad
 
 
-$ab+bc+ac-1$ jādalās ar $abc$ \tag{1}
+$ab+bc+ac-1$ jādalās ar $abc$ $\tag{1}$
 
 Tas nozīmē, ka
 
-$ab+bc+ac-1 \geq abc$ \tag{2}
+$ab+bc+ac-1 \geq abc$ $\tag{2}$
 
 No otras puses, tā kā $a \geq b \geq c$, tad
 
-$ab+bc+ac-1 < ab+ab+ab=3ab$ \tag{3}
+$ab+bc+ac-1 < ab+ab+ab=3ab$ $\tag{3}$
 
 No nevienādībām (2) un (3) iegūst, ka $3ab > abc$, tātad $c < 3$. Tā kā no
 dotā $c \geq 2$, tad vienīgā iespējamā vērtība ir $c=2$. Ievietojot to (1),
