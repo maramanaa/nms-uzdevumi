@@ -194,7 +194,7 @@ $\frac{1}{3}, \frac{1}{3}, \frac{2}{3}, \frac{2}{3}$.
 
 # <lo-sample/> LV.AMO.2015.6.2
 
-Vai kvadrātu ar izmēriem $12 \times 12$ rūtiņas, kuram no diviem pretējiem
+Vai kvadrātu ar izmēriem $12 \times 12$ rūtiņas, kurām no diviem pretējiem
 stūriem izgriezti taisnstūri $3 \times 5$ rūtiņas, var pārklāt ar $57$
 taisnstūriem, kuru izmēri ir $1 \times 2$ rūtiņas?
 
@@ -699,7 +699,7 @@ vismazāko vērtību. Tātad meklētie divi skaitļi ir $-1007,5$ un $1007,5$.
 
 # <lo-sample/> LV.AMO.2015.9.2
 
-Tornis ir salikts no vienības kubiniem, kur katra kubiņa izmērs ir
+Tornis ir salikts no vienības kubiņiem, kur katra kubiņa izmērs ir
 $1 \times 1 \times 1$. Apakšējā slānī ir $7 \times 7$ kubiņi. Otrs slānis ir
 novietots virs pirmā slāņa centrālās daļās, tajā ir $5 \times 5$ kubiņi. Trešajā
 slānī, kurš novietots apakšējās daļas centrā, ir $3 \times 3$ kubiņi un augšā
@@ -936,6 +936,9 @@ $\overline{c_{1}c_{2} \ldots c_{k}} \geq c_{1}^{0 \ldots 0}=c_{1} \cdot 10^{k-1}
 Esam ieguvuši, ka $n \leq c_{1} \cdot 9^{k-1}$ un $n \geq c_{1} \cdot 10^{k-1}$,
 kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina
 uzdevuma prasības, ir visi viencipara skaitļi.
+
+
+\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}
 
 
 
@@ -1414,5 +1417,5 @@ $ab+2(a+b)-1 < 3ab$, tātad vienīgā iespējamā izteiksmes $ab+2(a+b)-1$ vēt�
 lai tā dalītos ar $2ab$, ir $2ab$. Tātad $ab+2(a+b)-1=2ab$, no kurienes
 $ab2a-2b+4=3$ jeb $(a-2)(b-2)=3$. No dotā izriet, ka abi reizinātāji ir
 pozitīvi un $a-2 \geq b-2$, tātad $a-2=3$ un $b-2=1$, no kurienes $a=5$ un
-$b=3$. Pārbaude parāda, ka skaitļu trijnieks $(5,3,2)$ ir uzdevuma atrisinājums.```
+$b=3$. Pārbaude parāda, ka skaitļu trijnieks $(5,3,2)$ ir uzdevuma atrisinājums.
 
