@@ -427,8 +427,9 @@ vienādmalu!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equilateral-triangle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -495,8 +496,9 @@ divas reizes mazāks nekā pats skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:NT
+* concepts:product
 
 </small>
 
@@ -706,9 +708,10 @@ Vai var atrast tādu desmitciparu skaitli, kas ir vienāds ar visu savu ciparu
 reizināumu?
 
 <small>
-
-* questionType:
-* domain:
+   
+* questionType:ProveDisprove
+* domain:NT
+* concepts:product
 
 </small>
 
@@ -894,8 +897,9 @@ Atrisināt naturālos skaitļos vienādojumu $x^{3}+(x+1)^{3}=(x+3)^{3}+1$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equation
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1190,15 +1194,24 @@ piemēram, 31.att.
 
 # <lo-sample/> LV.AMO.2017.10.5
 
-Pierādīt, ja no trim naturāliem skaitļiem $n;\ n+11$ un $n+22$ divi ir 
+Pierādīt, ja no trim naturāliem skaitļiem $n$; $n+11$ un $n+22$ divi ir 
 pirmskaitļi, tad trešais skaitlis dalās ar $6$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityProperties
+* topic:ArithmeticSeriesAll
+* strategy:CaseAnalysis
+* questionType:Prove
+* concepts:primes
 
 </small>
+
+## Ieteikums 
+
+Gadījumus $n=2,3$ aplūko atsevišķi.
+
+
 
 ## Atrisinājums
 
@@ -1372,9 +1385,10 @@ dalās ar $n$ ?
 elementiem.
 
 <small>
-
-* questionType:
-* domain:
+   
+* concepts:coprimes
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1625,13 +1639,13 @@ spēlējuši savā starpā.
 
 **(A)** Doti naturāli skaitļi no $1$ līdz $11$. Izvēlieties deviņus no tiem un 
 ierakstiet tos $3 \times 3$ rūtiņu tabulā tā, lai katrā rindā, katrā kolonā un 
-abās galvenajās diagonālēs ierakstīto skaitļu summa dalās ar $7$. **(B)** Vai 
-to pašu ir iespējams izdarīt, ja doti naturāli skaitļi no $1$ līdz $10$?
+abās galvenajās diagonālēs ierakstīto skaitļu summa dalās ar $7$.  
+**(B)** Vai to pašu ir iespējams izdarīt, ja doti naturāli skaitļi no $1$ līdz $10$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,ProveDisprove
+* domain:NT
 
 </small>
 

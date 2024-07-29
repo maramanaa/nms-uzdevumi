@@ -376,23 +376,26 @@ skaitu visā taisnstūrī, tad taisnstūri pilnībā pārklāt nevar.
 
 # <lo-sample/> LV.AMO.2015.7.3
 
-**a)** Atrast tādu naturālu skaitli, kura ciparu summa ir $13$, pēdējie divi
+**(A)** Atrast tādu naturālu skaitli, kura ciparu summa ir $13$, pēdējie divi
 cipari ir $13$ un kurš dalās ar $13$.
 
-**b)** Vai var atrast tādu naturālu skaitli, kura ciparu summa ir $11$, pēdējie
+**(B)** Vai var atrast tādu naturālu skaitli, kura ciparu summa ir $11$, pēdējie
 divi cipari ir $11$ un kurš dalās ar $11$?
 
 <small>
-
-* questionType:
-* domain:
-
+  
+* topic:DivisibilityRuleFor11
+* topic:DivisibilityRulesFor3And9
+* questionType:FindExample,ProveDisprove
+* domain:NT
+* concepts:sum
+  
 </small>
 
 
 ## Atrisinājums
 
-**a)** Der, piemēram, skaitlis $11713$, jo $1+1+7+1+3=13$ un $11713:13=901$.
+**(A)** Der, piemēram, skaitlis $11713$, jo $1+1+7+1+3=13$ un $11713:13=901$.
 
 *Piezīme.* Atrisinājumu var palīdzēt atrast šādi spriedumi. Skaitļa pirmo ciparu
 (bez pēdējiem diviem cipariem $1$ un $3$) veidotā skaitļa $x$ ciparu summai
@@ -401,7 +404,7 @@ $13$, jo meklētajam skaitlim $100x+13$ jādalās ar $13$ un skaitļi $100$ un $
 ir savstarpēji pirmskaitļi. Tātad $x$ jādalās ar $9 \cdot 13=117$. Pats skaitlis
 $117$ arī ir mazākais iespējamais skaitlis $x$.
 
-**b)** Nē, nevar. Izmantosim dalāmības pazīmi ar $11$: skaitlis dalās ar $11$,
+**(B)** Nē, nevar. Izmantosim dalāmības pazīmi ar $11$: skaitlis dalās ar $11$,
 ja tā ciparu, kas atrodas pāra pozīijiās, summas un ciparu, kas atrodas nepāra
 pozīcijās, summas starpība dalās ar $11$.
 
@@ -415,6 +418,15 @@ pēdējās divas vienādības, iegūstam, ka
 $2 \cdot\left(m_{1}+m_{3}+m_{5}+\ldots\right)=9$ jeb $m_{1}+m_{3}+m_{5}+\ldots=4,5$,
 kas nav iespējams nekādām ciparu $m_{i}$ vērtībām.
 
+*Piezīme.* No pretējā varam pieņemt ka šāds skaitlis eksistē; apzīmēsim to ar $S_0$. 
+Nosvītrojot tam pēdējos divus ciparus, iegūsim skaitli $S_1$, kurš arī 
+dalās ar $11$ un kuram ciparu summa ir $9$. Tātad tas dalās ar $99$. 
+Skaitlī $S_1$ ir cipari pāra un nepāra pozīcijās; dalāmības pazīme ar $11$ 
+paredz, ka pāra un nepāra pozīciju ciparu summas ir vienādas vai arī to 
+starpība dalās ar $11$. Faktiski tām ir jābūt vienādām, jo ja tās atšķirtos par $11$
+vai vairāk, tad $S_1$ ciparu summa nebūtu $9$. 
+Bet divas vienādas ciparu summas saskaitot kopā sanāktu pāra skaitlis nevis $9$. 
+
 
 
 # <lo-sample/> LV.AMO.2015.7.4
@@ -425,8 +437,9 @@ Atrodi visus gadījumus un pamato, ka citu nav!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:isosceles-triangle
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -514,9 +527,12 @@ Nosaki, vai izteiksmes $\sqrt{6+2 \sqrt{5}}-\sqrt{6-2 \sqrt{5}}$ vērtība ir
 racionāls skaitlis!
 
 <small>
-
-* questionType:
-* domain:
+  
+* topic:StandardIdentities
+* topic:InfiniteDescent
+* questionType:ProveDisprove
+* domain:Alg
+* concepts:rational-numbers
 
 </small>
 
@@ -532,6 +548,8 @@ $$\begin{gathered}
 
 Izteiksmes vētība ir racionāls skaitlis, jo $2$ ir racionāls.
 
+*Piezīme.* Kāpinot doto izteiksmi kvadrātā, sanāk $20$, 
+bet $\sqrt{20}=2\sqrt{5}$ nav racionāls.
 
 
 # <lo-sample/> LV.AMO.2015.8.2
@@ -573,8 +591,11 @@ naturāla skaitļa kvadrāta un pirmskaitļa summu.
 
 <small>
 
-* questionType:
-* domain:
+* topic:StandardIdentities
+* topic:PrimesDistribution
+* questionType:FindExample
+* domain:NT
+* concepts:primes,sum,square-Alg
 
 </small>
 
@@ -592,7 +613,8 @@ nevar izteikt kā naturāla skaitļa kvadrāta un pirmskaitļa summu.
 *Piezīme.* Der jebkurš naturāls skaitlis $n > 2015$ tāds, ka $n=m^{2}$ un
 $2m-1$ ir salikts skaitlis.
 
-
+*Piezīme.* Izvēlamies $N = n^2$, tad $n^2 - a^2$ dalās reizinātājos katram $a \geq 1$.
+Atliek tikai nodrošināties, lai sadalījumā $(n-a)(n+a)$ neviens no reizinātājiem nebūtu $1$.
 
 # <lo-sample/> LV.AMO.2015.8.4
 
@@ -734,7 +756,7 @@ Pierādi, ka $x^{5}-5x^{3}+4x$ dalās ar $120$, ja $x$ ir vesels skaitlis!
 
 <small>
 
-* questionType:
+* questionType:Prove
 * domain:
 
 </small>
@@ -917,8 +939,11 @@ viencipara skaitļa ciparu reizinājumu sauc tā vienīgo ciparu.)
 
 <small>
 
-* questionType:
-* domain:
+* strategies:TrialAndError
+* topic:InequalityProvingStronger
+* questionType:FindAll
+* domain:NT
+* concepts:product
 
 </small>
 
@@ -936,6 +961,22 @@ $\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}
 Esam ieguvuši, ka $n \leq c_{1} \cdot 9^{k-1}$ un $n \geq c_{1} \cdot 10^{k-1}$,
 kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina
 uzdevuma prasības, ir visi viencipara skaitļi.
+
+
+
+## Atrisinājums
+
+Pārbaudot dažādus skaitļus var novērot, ka ciparu reizinājums allaž mazāks par pašu skaitli.
+Pamatojam to 2-ciparu un 3-ciparu skaitļiem $\overline{ab}$ un $\overline{abc}$
+
+$$a\cdot{}b < 10a \leq 10^1\cdot{}a + b = \overline{ab},$$
+
+$$a\cdot{}b\cdot{}c < 10^2\cdot{}a < 100a + 10b + c = \overline{abc}.$$
+
+Skaitļa pirmo decimālciparu reizinot ar $k$ turpmākajiem cipariem, iegūsim 
+mazāku rezultātu nekā reizinot ar $10^k$, jo katrs cipars ir mazāks par $10$. 
+
+
 
 
 
@@ -1011,8 +1052,9 @@ tādu, kas dalās ar $3$, bet nedalās ar $5$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1083,8 +1125,9 @@ bezgalīgi daudz tādu $n$, ka $M(n)$ dalās ar $n$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1384,8 +1427,9 @@ ar $b$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:FindAll
+* domain:NT
 
 </small>
 

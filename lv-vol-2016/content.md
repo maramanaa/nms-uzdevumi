@@ -5,8 +5,8 @@ kubs. Pierādīt, ka arī $x^{2}y$ ir naturāla skaitļa kubs!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -115,8 +115,8 @@ Atrast skaitļa $\frac{2016^{2016}-3}{3}$ mazāko pirmreizinātāju!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -170,8 +170,8 @@ Kādi ir četri nākamie skaitļi, kas virknē seko aiz skaitļa $2016$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -211,14 +211,14 @@ skaitļi $2017,\ 2018,\ 2019$ un $2026$.
 
 # <lo-sample/> LV.VOL.2016.10.1
 
-Zināms, ka $x$ un $y$ ir tādi naturāli skaitļi, ka $x y^{10}$ ir naturāla 
-skaitļa $33.$ pakāpe. Pierādīt, ka arī $x^{10} y$ ir naturāla skaitļa $33.$ 
+Zināms, ka $x$ un $y$ ir tādi naturāli skaitļi, ka $xy^{10}$ ir naturāla 
+skaitļa $33.$ pakāpe. Pierādīt, ka arī $x^{10}y$ ir naturāla skaitļa $33.$ 
 pakāpe!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -321,10 +321,20 @@ ir naturāli skaitļi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
+
+
+## Ieteikums
+
+Izmantot paritāti - aplūkot pāra un nepāra malu garumus. 
+
+## Ieteikums
+
+Pitagora trijnieka skaitļus ievietot kvadrātu starpības formulā. 
+
 
 ## Atrisinājums
 
@@ -352,6 +362,43 @@ teorēmas nosacījums, tas ir, $11^{2}+60^{2}=61^{2}$ jeb $121+3600=3721$.
    atrod minēto skaitļu trijnieku $11,\ 60,\ 61$.
 2) To, ka (A) gadījumā viens no skaitļiem ir pāra, var secināt no skaitļa $b$ 
    izteiksmes.
+
+
+
+## Atrisinājums
+
+**(A)**  
+Nē, trīs malu garumi nevar būt pirmskaitļi. Taisnleņķa trijstūrī malu garumi $a$, $b$ un $c$ 
+apmierina Pitagora teorēmu: $a^2 + b^2 =  c^2$. 
+Vismaz viens no skaitļiem $a$, $b$, $c$ ir pāra skaitlis, jo  
+divu nepāra skaitļu $a^2$ un $b^2$ summa nevar būt nepāra skaitlis $c^2$.
+Tā kā $a,b,c>5$, tad pāra skaitlis noteikti nav pirmskaitlis.
+
+**(B)**
+Jā, divu malu garumi var būt pirmskaitļi. Piemēram, der malu garumi $11, 60, 61$, 
+jo divi no tiem ir pirmskaitļi un tiem izpildās Pitagora teorēmas nosacījums, tas ir, 
+$11^2 + 60^2 = 61^2$ jeb $121 + 3600 = 3721$.
+
+*Piezīme:* Paliek neatbildēts jautājums - kā uzminēt šos skaitļus $(11,60,61)$?
+Bezgalīgi daudzus Pitagora trijniekus $(a,b,c)$, kam $b + 1 = c$ (katete par 1 vienību 
+īsāka nekā hipotenūza) var iegūt, 
+izmantojot algebrisku sakarību: 
+$$a^2 = c^2 - b^2 = (c+b)(c-b) = (c + b) \cdot 1 = c+b.$$
+Varam atrast dažādus blakusesošu skaitļu pārus $(b,c)$, kuru summa ir nepāra skaitļa kvadrāts $a^2$: 
+
+* $3^2 = 9 = 4 + 5$, tāpēc $(a,b,c) = (3,4,5)$ ir Pitagora trijnieks.
+* $5^2 = 25 = 12 + 13$, tāpēc $(a,b,c) = (5,12, 13)$ ir Pitagora trijnieks.
+* $7^2 = 49 = 24 + 25$, tāpēc $(7,24,25)$ ir Pitagora trijnieks.
+* $9^2 = 81 = 40 + 41$, tāpēc $(9, 40,41)$ ir Pitagora trijnieks. 
+* $11^2 = 121 = 60 + 61$, tāpēc $(11,60,61)$ ir Pitagora trijnieks. 
+
+Un trijnieks $(11,60,61)$ ir tāds, kurā atradās divi pirmskaitļi.
+Der arī daži citi atrisinājumi, piemēram, $(19, 180, 181)$, 
+Sk. [Eiklīda formula Pitagora trijniekiem](https://en.wikipedia.org/wiki/Pythagorean_triple#Generating_a_triple). 
+
+
+
+
 
 
 
@@ -411,8 +458,11 @@ pakāpe!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:FactorizationAndProperties
+* topic:LinearSystemsTransforms
+* concepts:full-power
 
 </small>
 
@@ -429,6 +479,32 @@ nedalītos ar $y^{93}$, tad $\frac{z^{433}}{y^{93}}$ varētu izteikt kā
 nesaīsināmu daļu $\frac{m}{n}$. Bet tad arī $\frac{m^{2016}}{n^{2016}}$ būtu 
 nesaīsināma daļa, taču tam jābūt naturālam skaitlim - pretruna. Tāpēc $z^{433}$
 dalās ar $y^{93}$ un tātad arī $x^{433}y$ ir naturāla skaitļa $2016.$ pakāpe.
+
+
+
+## Atrisinājums
+
+**Apgalvojums:** Skaitlis $N$ ir kāda naturāla skaitļa 2016. pakāpe tad un 
+tikai tad, ja, sadalot pirmreizinātājos $N=p_1^{a_1}\cdot{}p_2^{a^2}\cdot\ldots\cdot{}p_k^{a_k}$, 
+visi kāpinātāji $a_i$ dalās ar $2016$. 
+(T.i. vai nu pirmskaitlis $p_i$ vispār nepiedalās $N$ sadalījumā, vai arī piedalās
+ar kāpinātāju $a_i = 2016m$.)
+
+**Dalīšana pirmreizinātājos:** Aplūkojam viena konkrēta pirmskaitļa $p$
+pakāpi, ar kādu tas ietilpst $x$ un $y$ sadalījumā pirmreizinātājos. 
+Pieņemsim, ka šie kāpinātāji ir attiecīgi $a$ un $b$:  
+$$x=p^a\cdot\ldots,\;\;y=p^b\cdot\ldots,$$    
+$$xy^{433} = p^{a+433b}\ldots,\;\;x^{433}y = p^{433a+b}.$$
+
+**Apgalvojums:** Ja $a+433b$ dalās ar $2016$, tad arī $433a+b$ dalās ar $2016$. 
+
+**Pierādījums:** Apzīmējam $a+433b=2016k$. Reizinām ar $433$:  
+$433a+433^2b=2016\cdot{}433k$. 
+Pamatosim, ka starpība starp šo un $433a+b$ arī dalās ar $2016$:
+$$(433a+433^2b) - (433a+b)=(433^2-1)b = 187488b.$$
+Viegli redzēt, ka $187488=2016\cdot{}93$ dalās ar $2016$.
+
+
 
 
 
@@ -484,10 +560,18 @@ $$\frac{1}{n}=\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots+\frac{1}{y(y+1)}$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
+* topic:StandardIdentities
+* topic:TelescopicSums
 
 </small>
+
+
+## Ieteikums
+
+Pārveidot katru apakšizteiksmi par starpību.
+
 
 ## Atrisinājums
 
@@ -511,6 +595,35 @@ $x=\frac{n}{2}$.
 
 
 
+## Atrisinājums
+
+**Apgalvojums:** Ir spēkā identitāte $\frac{1}{n(n+1)} = \frac{1}{n}-\frac{1}{n+1}$.
+
+Piemēri:  
+$$\frac{1}{6}=\frac{1}{2\cdot{}3} = \frac{1}{2}-\frac{1}{3},$$
+$$\frac{1}{12}=\frac{1}{3\cdot{}4} = \frac{1}{3}-\frac{1}{4},$$
+$$\frac{1}{20}=\frac{1}{4\cdot{}5} = \frac{1}{4}-\frac{1}{5}.\;\cdots$$
+
+Katru daļu, kuras saucējā ir divu sekojošu skaitļu reizinājums, 
+var izteikt kā starpību.
+
+
+Izmantojam šo identitāti, lai pārveidotu izteiksmi:
+
+$$\frac{1}{n}=\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\cdots{}+\frac{1}{y(y+1)}.$$
+$$\frac{1}{n}=\left( \frac{1}{x} - \frac{1}{x+1} \right) + \left( \frac{1}{x+1} - \frac{1}{x+2} \right) +$$
+$$+\cdots+\left( \frac{1}{y} - \frac{1}{y+1} \right) = \frac{1}{x} - \frac{1}{y+1}$$
+
+Vai jebkuru daļu $\frac{1}{n}$ var izteikt kā $\frac{1}{x} - \frac{1}{y+1}$?  
+Izmantojam vienādības no iepriekšējā slaida. Piemēram, ja $n=5$:   
+
+$$\frac{1}{5} = \frac{1}{4} - \frac{1}{20}.$$
+
+
+
+
+
+
 # <lo-sample/> LV.VOL.2016.11.4
 
 Naturālu skaitļu virkni $\left(s_{i}\right)$ pēc parauga, " $2016$ " veido 
@@ -525,8 +638,8 @@ Vai šajā virknē ir skaitlis **(A)** $2001$, **(B)** $2006$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -557,6 +670,12 @@ $$\begin{aligned}
 
 Līdz ar to esam pierādījuši, ka skaitlis $2001$ pieder virknei, bet skaitlis 
 $2006$ - nepieder.
+
+
+
+
+
+
 
 
 
@@ -611,8 +730,8 @@ skaitļa septītā pakāpe!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -684,8 +803,8 @@ dalās ar savu ciparu summu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -709,8 +828,8 @@ iespējams atrast tādas naturālas $b$ un $c$ vērtības, ka $f(a)=g(b; c)$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
