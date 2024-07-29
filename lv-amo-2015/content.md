@@ -529,7 +529,7 @@ $$\sqrt{6+2\sqrt{5}}-\sqrt{6-2\sqrt{5}}=\sqrt{(\sqrt{5})^{2}+2\sqrt{5}+1}-\sqrt{
 
 $$\begin{gathered}
 \sqrt{6+2\sqrt{5}}-\sqrt{6-2\sqrt{5}}=\sqrt{(\sqrt{5})^{2}+2\sqrt{5}+1}-\sqrt{(\sqrt{5})^{2}-2\sqrt{5}+1}=\sqrt{(\sqrt{5}+1)^{2}}-\sqrt{(\sqrt{5}-1)^{2}}= \\
-=\left|\sqrt{(\sqrt{5}+1)\right|-\left|\sqrt{(\sqrt{5}-1)\right|=\sqrt{(\sqrt{5}+1)-\sqrt{(\sqrt{5}+1)=2
+=\left|\sqrt{5}+1\right|-\left|\sqrt{5}-1\right|=\sqrt{5}+1-\sqrt{5}+1=2
 \end{gathered}$$
 
 Izteiksmes vētība ir racionāls skaitlis, jo $2$ ir racionāls.
