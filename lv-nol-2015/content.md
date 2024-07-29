@@ -60,7 +60,7 @@ skaitlis, tad tieši $2015$ kaudzes iegūt nevarēs.
 # <lo-sample/> LV.NOL.2015.5.3
 
 Rihards ir izcepis interesantas formas torti, kuras pamatā ir $17$ kvadrātveida
-cepumi (skat. 1.att.). Parādi vienu veidu, kā torti sadalū četros pēc formas 
+cepumi (skat. 1.att.). Parādi vienu veidu, kā torti sadalīt četros pēc formas 
 vienādos gabalos, lai katrs saturētu tieši četrus cepumus, un gabaliņš ar vienu
 cepumu paliktu pāri. Tā kā tortes augšpuse ir izdekorēta, tad gabalus drīkst 
 grozūt, bet nedrīkst apmest otrādi.
@@ -1230,7 +1230,7 @@ Tā kā $n$ jābūt naturālam skaitlim, tad $p^{2}+q^{2}+r^{2}$ ir jābūt pār
 skaitlim, tātad starp $p,\ q,\ r$ ir vai nu tieši divi nepāra skaitļi, vai arī 
 neviens nepāra skaitlis.
 
-Tā kā $a$ jābūt naturālam skaitlim, tad $p^{2}+q^{2} > r^{2}$. Tā kā $r^{2}<n$, 
+Tā kā $a$ jābūt naturālam skaitlim, tad $p^{2}+q^{2} > r^{2}$. Tā kā $r^{2} < n$, 
 tad jāaplūko tikai tādas skaitļu kvadrātu vērtības, kas mazākas nekā $55$:
 
 $$1,\ 4,\ 9,\ 16,\ 25,\ 36,\ 49$$
@@ -1291,7 +1291,7 @@ $\sphericalangle BDC=90^{\circ}-2 \alpha=\frac{1}{2} \sphericalangle BAC$.
 
 Aplūkojam riņķa līniju $\omega$ ar centru punktā $A$ un rādiusu $AB$. Tad 
 $\sphericalangle BAC$ ir centra leņķis, kas balstās uz hordas $BC$. Tā kā 
-leņķa $BDC$ lielums ir tieši divas reizes mazāks nekā centra leņkim, tad tas ir
+leņķa $BDC$ lielums ir tieši divas reizes mazāks nekā centra leņķim, tad tas ir
 ievilkts leņķis. Tātad punkts $D$ atrodas uz riņķa līnijas $\omega$. Līdz ar to
 $AD=AB$ kā riņķa līnijas $\omega$ rādiusi, kas arī bija jāpierāda.
 
