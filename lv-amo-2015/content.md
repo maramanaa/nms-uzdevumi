@@ -932,13 +932,10 @@ $k \geq 2$ un $c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k}=n$. Tā kā
 $c_{1}, c_{2}, \ldots, c_{k}$ ir cipari, tad
 $c_{1} \cdot c_{2} \cdot \ldots \cdot c_{k} \leq c_{1} \cdot 9^{k-1}$. No otras
 puses
-$\overline{c_{1}c_{2} \ldots c_{k}} \geq c_{1}^{0 \ldots 0}=c_{1} \cdot 10^{k-1}$.
+$\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}$
 Esam ieguvuši, ka $n \leq c_{1} \cdot 9^{k-1}$ un $n \geq c_{1} \cdot 10^{k-1}$,
 kas vienlaicīgi nevar izpildīties. Tātad vienīgie skaitļi, kas apmierina
 uzdevuma prasības, ir visi viencipara skaitļi.
-
-
-$\overline{c_1 c_2 \ldots c_k} \geq \overline{c_1 \underbrace{0 \ldots 0}_{k-1}}=c_1 \cdot 10^{k-1}$
 
 
 
@@ -1031,7 +1028,7 @@ $5$.
 Pāra skaitļi ir tie, kas beidzas ar $2, 4, 6, 8$, tātad deviņciparu skaitļa
 pēdējo ciparu var izvēlēties $4$ veidos un visus atlikušos $8$ ciparus
 izvēlēties $8!$ veidos, līdz ar to kopējais pāra skaitļu skaits ir
-$4 \cdot 8$ !.
+$4 \cdot 8!$.
 
 Lai skaitlis nedalītos ar $5$, tā pēdējais cipars nedrīkst būt $5$, tātad to
 var izvēlēties $8$ veidos (tas var būt jebkurš no cipariem
@@ -1103,7 +1100,7 @@ skaitlis $M\left(10^{k}\right)=9 \ldots 91 \underbrace{0 \ldots 0}_{k}$ dalās
 ar $10^{k}$ un naturālo skaitļu $k$ ir bezgalīgi daudz, tad ir arī bezgalīgi
 daudz tādu naturālu skaitļu $n$, ka $M(n)$ dalās ar $n$.
 
-
+$M(n)=M\left(10^k\right)=\underbrace{9 \ldots 9}_{\left(10^k-1\right): 9} 1 \underbrace{0 \ldots 0}_{k}$
 
 # <lo-sample/> LV.AMO.2015.11.4
 
