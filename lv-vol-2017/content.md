@@ -5,8 +5,8 @@ un pamatojiet, ka citu nav!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -62,8 +62,8 @@ būt sākotnējais skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -234,10 +234,41 @@ pirmskaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:DivisibilityRulesFor2And4
+* topic:NotationShift
+* topic:ModularArithmetic
+* topic:ExhaustionMethod
+* concepts:primes
 
 </small>
+
+
+
+## Ieteikums 
+
+Ar izslēgšanu atrod tos 4 ciparus, kuri nedod tūlītēju atrisinājumu.
+
+## Ieteikums
+
+Aplūko atsevišķi skaitli, ko veido pēdējie četri dažādie cipari un pārkārto ciparus tikai tur.
+
+## Ieteikums
+
+Atrast nelielu skaitli, ar kuru ērti pamatot dalāmību pēc ciparu pārkārtošanas.
+
+## Ieteikums 
+
+Samaisām ciparus tā, lai $1,3,7,9$ (katrs pa vienam) nonāktu skaitļa decimālpieraksta pēdējās $4$ pozīcijās. 
+
+
+## Ieteikums
+
+Šos pēdējos $4$ ciparus maisām tā, lai iegūtu vajadzīgo atlikumu.
+
+
+
 
 ## Atrisinājums
 
@@ -270,6 +301,58 @@ Ievērojam, ka, neatkarīgi no $y$ vērtības, kāds no skaitļiem dalīsies ar 
 tātad nebūs pirmskaitlis.
 
 Līdz ar to esam pierādījuši vajadzīgo.
+
+
+
+
+## Atrisinājums
+
+Ievērojam, ka jebkurš no cipariem $0,2,4,5,6,8$ skaitļa pierakstā ļauj 
+to pārcelt uz beigām un iegūt skaitli, kas nav pirmskaitlis.
+Tādēļ vienīgais interesantais gadījums ir tad, ja skaitļa pierakstā 
+četri dažādie cipari ir  $1,3,7,9$, bet daži var būt arī atkārtoti. 
+
+Pieļaujot gadījumus, ja skaitļa $n$ pierakstā daži no cipariem $1,3,7,9$ ir 
+vairākas reizes, apzīmējam $n_1 = 10000x + 1379$, kur $1379$ ir
+četri dažādie cipari, kas novietoti skaitļa beigās, bet 
+$10000x$ ir skaitlis, ko veido visi atlikušie cipari, ja tādi ir. 
+Skaitli $10000x$ atstāsim nemainīgu, 
+bet pārkārtosim ciparus tikai skaitlī $1379$. To var izdarīt $4! = 24$ 
+dažādos veidos - tās ir visas četru ciparu permutācijas.
+
+* Ja sākotnējais pirmskaitlis ir $1973$, tad 
+$10000x = 0$, $n_1 = 1379$, $n_2 = 1397$ un visi citi skaitļi augošā secībā līdz 
+$n_{24} = 9731$. 
+* Ja sākotnējais pirmskaitlis ir $31379$, tad 
+$10000x = 30000$, $n_1 = 31379$, $n_2 = 31397$ un visi citi augošā secībā 
+līdz $n_{24} = 39731$. (Visos šajos skaitļos mainās vietām tikai pēdējie četri cipari, 
+bet pirmais trijnieks paliek nemainīgs).
+
+
+Pamatosim, ka neatkarīgi no $10000x$ vērtības ciparus $1379$ var pārkārtot tā, lai 
+kāds no skaitļiem $n_i$ dalītos ar $7$. To var viegli redzēt, apskatot dažas no $24$ permutācijām 
+in ievērojot, ka var iegūt jebkuru atlikumu, dalot ar $7$: 
+
+[x % 7 for x in [1379, 1397, 1739, 1793, 1937, 1973, 3179, 3197, 3719, 3791, 3917, 3971]]
+[0, 4, 3, 1, 5, 6, 1, 5, 2, 4, 4, 2]
+
+* $1379 \equiv 0 \pmod 7$
+* $1397 \equiv 4 \pmod 7$
+* $1739 \equiv 3 \pmod 7$
+* $1793 \equiv 1 \pmod 7$
+* $1937 \equiv 5 \pmod 7$
+* $1973 \equiv 6 \pmod 7$
+* $3971 \equiv 2 \pmod 7$
+
+*Piezīme.* Ievērosim, ka skaitlis $7$, ar ko mēģinām dalīt, ir izraudzīts "dabiski", jo dalāmība ar $2$ vai $5$ mūsu 
+gadījumā (ja ir tikai cipari $1,3,7,9$) nav iespējama vispār. Dalāmību ar $3$ neiespaido ciparu 
+mainīšana vietām (dalāmības pazīme ar $3$ jeb ciparu summa nav atkarīga no saskaitāmo secības). 
+Dalāmība ar $11$ nemainās, ja samaina ciparus nepāru pozīcijās (vai arī pāru pozīcijās) -- 
+tātad, arī dalot ar $11$ nevar sagaidīt daudzus atlikumus.
+
+
+
+
 
 
 
@@ -462,8 +545,8 @@ tā, lai to summa dalītos ar $9$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -777,8 +860,8 @@ naturāla skaitļa kvadrāts!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 

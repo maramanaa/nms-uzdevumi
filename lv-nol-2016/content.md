@@ -322,8 +322,11 @@ kas dalās ar $99$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesFor3And9
+* topic:DivisibilityRuleFor11
+* topic:DivisibilityRulesOther
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -332,13 +335,16 @@ kas dalās ar $99$.
 Ja skaitlis dalās ar $99$, tad tas vienlaicīgi dalās gan ar $9$, gan $11$. 
 Skaitlis dalās ar $9$ tad un tikai tad, ja tā ciparu summa dalās ar $9$. 
 Uzrakstot ciparus pretējā secībā, ciparu summa nemainīsies un arī iegūtais 
-skaitlis dalīsies ar $9$. Skaitlis dalās ar $11$ tad un tikai tad, ja tā pāra 
+skaitlis dalīsies ar $9$. 
+
+Skaitlis dalās ar $11$ tad un tikai tad, ja tā pāra 
 un nepāra pozīcijās esošo ciparu summu starpība dalās ar $11$. Pārrakstot 
 skaitļa ciparus pretējā secībā, minētā īpašība saglabājas - pāra un nepāra 
 pozīcijās esošo ciparu summu starpība dalīsies ar $11$ un, tātad arī šis 
 skaitlis dalīsies ar $11$. Tā kā skaitlis vienlaicīgi dalās gan ar $9$, gan 
 $11$ un skaitļi $9$ un $11$ ir savstarpēji pirmskaitļi, tad iegūtais skaitlis 
 dalās arī ar $99$.
+
 
 
 
@@ -408,8 +414,10 @@ izpildās vienādības $a+b=cd$ un $ab=c+d$ ?
 
 <small>
 
-* questionType:
-* domain:
+* topic:SymmetricAlgebraicExpressions
+* topic:NumTheoryExtremeElement
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -422,6 +430,25 @@ $2 \cdot 3=1+5$.
 $2017-2017=0 \cdot\left(-2017^{2}\right)$ un $2017 \cdot(-2017)=0-2017^{2}$.
 
 *Piezīme.* (B) gadījumā atrastie skaitļi der arī (A) gadījumam.
+
+
+
+## Atrisinājums
+
+**(A)** Izveidojam piemēru, izvēloties nelielu vērtību, ar kuru iespējami 
+vienkārši veikt aprēķinus.
+Tā kā $a,b,c,d$ uzdevuma formulā ir simetriski, var paņemt, teiksim, $c=1$. 
+Ja $c=1$, tad $a+b=d$, $ab=d+1$ (divu skaitļu summa par $1$ mazāka nekā reizinājums).
+
+Der, piemēram, atrisinājums $(a,b,c,d)=(2,3,1,5)$.
+
+**(B)**
+Atkal ievērojam, ka $a,b,c,d$ uzdevuma formulā ir simetriski - tāpēc nav būtiski, 
+kuru burtu pirmo ar kaut ko aizvieto.
+Izvēlamies $c=0$. Tad $a+b=0$, $ab=d$.
+
+Der, piemēram, atrisinājums $(a,b,c,d) = (2017, -2017, 0, -2017^2)$.
+
 
 
 
@@ -456,8 +483,9 @@ $104$. Pierādi, ka otrais skaitlis $BURBUĻUVANNA$ nedalās ar $56$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesFor2And4
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -474,6 +502,24 @@ $\overline{88A}=880+A$ dalītos ar $8$. Tā kā $880$ dalās ar $8$, tad arī
 skaitlim $A$ būtu jādalās ar $8$, bet tas nav iespējams, jo $A$ nevar būt ne 
 $0$, ne $8$. Tātad skaitlis $BURBUĻVANNA$ nedalās ar $56$.
 
+
+
+## Atrisinājums
+
+Skaitļi $104$ un $56$ šeit nav izraudzīti patvaļīgi, 
+tiem lielākais kopīgais dalītājs $\gcd(104,56) = 8$. 
+Tāpēc aplūkosim dalāmības pazīmi ar $8$ un tikai divus 
+ciparus $A$ un $N$ abos skaitļos. 
+
+* Skaitlis *DUBĻUNNN* dalās ar $104$; tāpēc tas dalās arī ar $8$. 
+  Pēc dalāmības pazīmes ar $8$: trīs pēdējo ciparu veidotais 
+  skaitlis $\overline{NNN}$ dalās ar $8$. Pārbaudot visas cipara $N$ iespējas, 
+  atrodam, ka $N=0$ vai $N=8$ (pēc dotā $N=8$, jo cipari nav nulles).
+* Pieņemsim no pretējā, ka arī skaitlis *BURBUĻVANNA* dalās ar $56$, tātad arī ar $8$. 
+  Pēc dalāmības pazīmes ar $8$, arī pēdējo trīs ciparu veidotais 
+  skaitlis $\overline{NNA}$ dalās ar $8$. Tā kā $N=8$, tad  
+  seko, ka $A=0$ (nevar būt) vai $A=8$. Atliek iespēja $A=N$, kas 
+  ir pretruna, jo visi burti apzīmē dažādus ciparus.
 
 
 # <lo-sample/> LV.NOL.2016.8.3
@@ -722,7 +768,7 @@ $(1,\ 3,\ 5,\ \ldots)$, visās partijās uzvarēja Puszābaks.
 
 # <lo-sample/> LV.NOL.2016.9.5
 
-Doti $2016$ skaitļi: $1^{2};\ 2^{2};\ 3^{2};\ \ldots;\ 2015^{2};\ 2016^{2}$. 
+Doti $2016$ skaitļi: $1^{2}$; $2^{2}$; $3^{2}$; $\ldots$; $2015^{2}$; $2016^{2}$. 
 Vai starp šiem skaitļiem var salikt "+" un "-" zīmes tā, lai iegūtās izteiksmes
 vērtība būtu $0$?
 
@@ -764,8 +810,10 @@ $1 \cdot 4+2 \cdot 7+3 \cdot 10+\cdots+n \cdot(3n+1)=n(n+1)^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:SequenceGaps
+* topic:NumTheoryMathInduction
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -805,6 +853,31 @@ summa ir $\frac{n(n+1)(2n+1)}{6}$.
 
 
 
+## Atrisinājums
+
+Definējam virkni 
+
+$$a_n = 1\cdot{}4 + 2\cdot{}7 + 3\cdot{}10 + \cdots + n\cdot{}(3n + 1)$$
+
+Katrs nākamais šīs virknes loceklis ir par $n\cdot{}(3n+1)$ lielāks kā iepriekšējais.
+Tikpat liela ir starpība starp $n(n+1)^2$ un izteiksmi, kur $n$ aizstāj ar $n-1$: $(n-1)n^2$:
+
+$$n(n+1)^2 - (n-1)n^2 = n(n^2 + 2n + 1) - n^3 + n^2 =$$
+$$= n^3+2n^2+n - n^3+n^2 = 3n^2 + n = n(3n+1).$$
+
+Spriedums ar matemātisko indukciju 
+
+**Bāze:** 
+Ja $n=1$, tad $a_1 = 1\cdot{}4 = 4$ un arī $n(n+1)^2 = 4$. 
+
+**Pāreja:**
+Palielinot $n$ par $1$, gan virkne $a_n$, gan formula $n(n+1)^2$ 
+pieaug vienādiem soļiem. 
+
+
+
+
+
 # <lo-sample/> LV.NOL.2016.10.2
 
 Pierādīt, ka no jebkuriem trim naturālu skaitļu kvadrātiem var izvēlēties divus
@@ -812,8 +885,11 @@ tā, ka to summa vai starpība dalās ar $5$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularArithmetic
+* topic:ModularArithmetic
+* topic:NumTheoryPigeonhole
+* questionType:Prove
+* domain:NT
 
 </small>
 

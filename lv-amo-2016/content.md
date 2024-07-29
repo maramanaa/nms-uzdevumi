@@ -289,8 +289,11 @@ centu). Cik samaksāja Brālītis?
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExpr
+* topic:NumTheoryExprForConcepts
+* topic:NumTheoryInequalityMethod
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -306,6 +309,11 @@ naturāli skaitļi, tad $15m < 200$. Līdz ar to vienīgā derīgā vērtība ir
 Tādā gadījumā magoņmaizīte maksā $8$ centus un pīrādziņš maksā $10$ centus.
 Tātad Brālītis samaksāja $18$ centus.
 
+## Atrisinājums
+
+$200-8p=15m$, tātad $m$ dalās ar $8$. 
+Un $m$ nevar būt $16$, jo citādi $p<0$. Tāpēc $m=8$. 
+
 
 
 # <lo-sample/> LV.AMO.2016.7.3
@@ -314,10 +322,12 @@ Dots, ka $AB || CD$ un $AD || BC$ (skat. 9.att.). Nogriežņu $AC$ un $BD$
 krustpunkts ir $M$. Uz taisnes $AB$ izvēlēts tāds punkts $N$, ka $AM=MN$.
 Pierādīt, ka $\sphericalangle ANC=90^{\circ}$.
 
+![](LV.AMO.2016.7.3.png)
+
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -327,7 +337,11 @@ Pierādīt, ka $\sphericalangle ANC=90^{\circ}$.
 Ievērojam, ka $\triangle ABD=\triangle CDB$ pēc pazīmes $\ell m \ell$, jo
 $\sphericalangle ABD=\sphericalangle CDB$ kā iekšējie šķērsleņķi pie paralēlām
 taisnēm, $BD$- kopīga mala un $\sphericalangle ADB=\sphericalangle CBD$ kā
-iekšējie šķērsleņķi pie paralēlām taisnēm (skat. 10.att.). Tātad $AD=BC$ kā
+iekšējie šķērsleņķi pie paralēlām taisnēm (skat. 10.att.). 
+
+![](LV.AMO.2016.7.3A.png)
+
+Tātad $AD=BC$ kā
 vienādu trijstūru atbilstošās malas. Līdzīgi $\triangle AMD=\triangle CMB$ pēc
 pazīmes $\ell m \ell$, jo $\sphericalangle MAD=\sphericalangle MCB, AD=BC$ un
 $\sphericalangle ADM=\sphericalangle CBM$, tātad $AM=MC$. Trijstūri $AMN$ un
@@ -408,9 +422,11 @@ Aprēķini dotās izteiksmes vērtību!
 $$\frac{2000016 \cdot 1999984}{5^{12} \cdot 2^{13}-128}$$
 
 <small>
-
-* questionType:
-* domain:
+  
+* topic:StandardIdentities
+* questionType:FindAll
+* domain:Alg
+* concepts:expression
 
 </small>
 
@@ -420,6 +436,14 @@ $$\frac{2000016 \cdot 1999984}{5^{12} \cdot 2^{13}-128}$$
 $\frac{2000016 \cdot 1999984}{5^{12} \cdot 2^{13}-128}=\frac{\left(2 \cdot 10^{6}+16\right)\left(2 \cdot 10^{6}-16\right)}{2 \cdot(5 \cdot 2)^{12}-128}=\frac{4 \cdot 10^{12}-256}{2 \cdot 10^{12}-128}=\frac{4 \cdot\left(10^{12}-64\right)}{2 \cdot\left(10^{12}-64\right)}=2$
 
 
+## Atrisinājums
+
+Rakstām algebrisku pārveidojumu:
+
+$$\frac{4(10^6 - 8)(10^6 + 8)}{2(10^{12} -64)} = \frac{4}{2}=2.$$ 
+
+
+
 
 # <lo-sample/> LV.AMO.2016.8.2
 
@@ -427,8 +451,9 @@ Vai var atrast tādus veselus skaitļus $a$ un $b$, ka $ab(a+43b)=434343$ ?
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularParity
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -444,6 +469,10 @@ nepāra skaitli $434343$.
 Tātad nevar atrast tādus veselus skaitļus $a$ un $b$, lai dotā vienādība būtu
 patiesa.
 
+## Atrisinājums
+
+Reizinājums  $ab(a+43b)$ ir nepāru, tātad $a,b$ abi ir nepāru. Bet tad $a+43b$ ir pāru. 
+
 
 
 # <lo-sample/> LV.AMO.2016.8.3
@@ -453,8 +482,13 @@ lielākais ciparu skaits, kas var būt šajā skaitlī?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesLastDigits
+* topic:DivisibilityRulesFor3And9
+* topic:DivisibilityRulesOther
+* topic:ExhaustionMethod
+* questionType:FindOptimal
+* domain:NT
+* concepts:divisibility
 
 </small>
 
@@ -472,6 +506,16 @@ pēdējo piecu ciparu veidotajam skaitlim jādalās ar $32$. Der, piemēram, $98
 Tad atlikušie cipari $0, 1, 3 ,4 , 6$ jāizkārto tā, lai iegūtais desmitciparu
 skaitlis dalītos ar $7$.
 
+## Atrisinājums
+
+Dalām pirmreizinātājos: $2016 = 2^{5} \cdot 3^{2} \cdot 7$.
+
+Būvēsim skaitli, kas izmanto visus $10$ ciparus. 
+
+* Tā kā $32 \mid 45312$; skaitlis, kas beidzas ar $45312$ dalīsies ar $2^5 = 32$. 
+* Ciparu summa $0+1+\ldots+9$ dalās ar $9$; tātad dalīšanās ar $9$ noteikti būs.
+* Visbeidzot samaisām ciparus $6,7,8,9,0$ tā, lai pierakstot 
+  tos priekšā $45312$, iegūtais skaitlis dalītos ar $7$.
 
 
 # <lo-sample/> LV.AMO.2016.8.4
@@ -569,8 +613,9 @@ $x, y$ un $z$, ka $x^{3}-2016xyz=10$ ?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2016.10.2
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -638,8 +683,9 @@ reizinājumu. Kāds ir šīs virknes $2016.$ loceklis?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sequence,product
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -751,8 +797,12 @@ Vai var atrast tādus veselus skaitļus $x, y$ un $z$, ka $x^{3}-2016xyz=120$ ?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesForRemainders
+* topic:ModularArithmetic
+* topic:ModularArithmeticContradiction 
+* questionType:ProveDisprove
+* domain:NT
+* seeAlso:LV.AMO.2016.9.2
 
 </small>
 
@@ -782,6 +832,15 @@ veselos skaitļos.
 
 
 
+## Atrisinājums
+
+Pretrunas modulis: aplūkojam abu vienādības pušu atlikumus, dalot ar $9$. 
+Tā kā $2016$ dalās ar $9$, tad $x^3 \equiv 3 \pmod {9}$. Pārbaudot visus 
+kubus $0^3,1^3,\ldots,8^3$, neviens no tiem nedod atlikumu $3$, dalot ar $9$.
+
+
+
+
 # <lo-sample/> LV.AMO.2016.10.3
 
 Aritmētiskās progresijas četri pēc kārtas ņemti locekļi ir veseli skaitļi
@@ -790,8 +849,12 @@ veselu skaitļu kvadrātu summu!
 
 <small>
 
-* questionType:
-* domain:
+* topic:SeriesMembersSumsClosedFormulas
+* topic:StandardIdentities
+* topic:CompletingSquare
+* questionType:Prove
+* domain:NT
+* concepts:arithmetic-progression,sum,square-Alg
 
 </small>
 
@@ -906,8 +969,8 @@ $x^{2}+y^{2}+z^{2}=\underbrace{1111 \ldots 1}_{2016}$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisproveNT
+* domain:NT
 
 </small>
 
@@ -1077,8 +1140,9 @@ skaitļos!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equation
+* questionType:Prove
+* domain:NT
 
 </small>
 
