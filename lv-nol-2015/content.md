@@ -352,15 +352,23 @@ Atbilde: $a=-\frac{55}{6}$.
 Sensenos laikos saimnieciskajam Gotfrīdam bija $99$ aitas un $21$ kamielis, 
 citu mājlopu Gotfrīdam nebija. Bagdādē par $4$ kamieļiem pretī varēja saņemt 
 $8$ aitas, bet Damaskā par $5$ aitām pretī varēja saņemt $3$ kamieļus. Vai, 
-atkārtoti mainot dzūvniekus tikai šajās divās pilsētās, Gotfrīds varēja iegūt 
+atkārtoti mainot dzīvniekus tikai šajās divās pilsētās, Gotfrīds varēja iegūt 
 tieši $2015$ mājlopus?
 
 <small>
 
-* questionType:
-* domain:
+* topic:InvariantRemainder
+* topic:InvariantParity
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
+
+## Ieteikums 
+
+Par cik mainās dzīvnieku kopskaits katras maiņas iznākumā? 
+Vai ejot šādiem soļiem var no $99+21$ sasniegt $2015$?
+
 
 ## Atrisinājums
 
@@ -389,9 +397,13 @@ Katrām divām rūtiņām ar kopīgu malu aprēķina tajos ierakstīto skaitļu 
 Vai iespējams, ka visas iegūtās summas ir pirmskaitļi?
 
 <small>
-
-* questionType:
-* domain:
+  
+* topic:GraphColoredVertices
+* topic:ModularParity
+* topic:PrimesDistribution
+* topic:ExhaustionMethod
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -403,6 +415,16 @@ A9.att.).
 ![](LV.NOL.2015.7.3A.png)
 
 *Piezīme.* Iespējami arī citi skaitļu izvietojumi.
+
+
+
+## Atrisinājums
+
+Pāru/nepāru skaitļi izvietojami kā melnās/baltās rūtiņas 
+šaha galdiņam. Kvadrāta vidū liek $1$, un pārlasa dažādos $2,4,6,10$ 
+izvietojumu variantus (skaitli $8$ neizmanto).
+
+
 
 
 
@@ -480,8 +502,9 @@ Pierādi, $ka$
 
 <small>
 
-* questionType:
-* domain:
+* topic:CongruenceClasses
+* questionType:Prove,Prove
+* domain:NT
 
 </small>
 
@@ -508,6 +531,12 @@ skaitlis (nepāra skaitli kāpinot jebkurā naturālā pakāpē, iegūst nepāra
 skaitli; divu nepāra skaitļu summa ir pāra skaitlis), tātad tas dalās ar $2$.
 
 
+## Atrisinājums
+
+Divu nepāru skaitļu summas/starpības ir pāru skaitļi. 
+Pie tam $49^n$ un $7^n$ dod atlikumu $1$, dalot ar $3$. 
+
+
 
 # <lo-sample/> LV.NOL.2015.8.2
 
@@ -519,8 +548,9 @@ iespējams, ka "Šrotiņā" kāda mēneša $21.$ datumā būs tieši $2015$ maš
 
 <small>
 
-* questionType:
-* domain:
+* topic:InvariantRemainder
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -531,9 +561,9 @@ Ievērojam, ka sākumā mašīnu skaits ir $39$, kas dalās ar $3$.
 Aplūkosim, kā izmainās kopējais mašīnu skaits, atkarībā no tā, kuru darbību 
 Maigonis veic:
 
-1) ja pārdod $7$ restaurētas mašīnas un to vietā nopērk $16$ vecas mašīnas, tad
+1. ja pārdod $7$ restaurētas mašīnas un to vietā nopērk $16$ vecas mašīnas, tad
    kopējais mašīnu skaits palielinās par $9$ (par skaitli, kas dalās ar $3$);
-2) ja $19$ mašĩnas nodod metāllūžņos un to vietā nopērk $4$ vecas mašĩnas, tad 
+2. ja $19$ mašĩnas nodod metāllūžņos un to vietā nopērk $4$ vecas mašĩnas, tad 
    kopējais mašīnu skaits samazinās par $15$ (par skaitli, kas dalās ar $3$).
 
 Ja pie skaitļa, kas dalās ar $3$, pieskaita vai no tā atņem skaitli, kas dalās 
@@ -545,6 +575,13 @@ Tātad kopējais mašīnu skaits pēc katras darbības dalās ar $3$.
 Skaitļa $2015$ ciparu summa ir $2+0+1+5=8$, kas nedalās ar $3$, tātad arī pats 
 skaitlis $2015$ nedalās ar $3$. Tātad nav iespējams, ka „Šrotiņā" kāda mēneša 
 $21.$ datumā būs tieši $2015$ mašīnas.
+
+
+## Atrisinājums
+
+Salīdzina atlikumus pēc $3$ moduļa.
+Mašīnu skaits vienmēr mainās par $-7+16=9$ vai par $-19+4 = -15$, 
+tātad par $3k$. Bet $39+3k \neq 2015$.
 
 
 
@@ -949,34 +986,38 @@ Vai, atkārtoti izpildot šīs darbības, no skaitļa $30$ var iegūt skaitli $2
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesFor3And9
+* topic:Invariant
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
-Skaitlim $30$ izpildās īpašība "dalās ar $3$ ", bet skaitlim $2015$ šī īpašība 
+Nē, nevar. Kā invariantu aplūkojam dalāmību ar $3$ - skaitlim 
+$30$ izpildās īpašība "dalās ar $3$", bet skaitlim $2015$ šī īpašība 
 neizpildās.
 
-Pierādīsim: ja kāds skaitlis dalās ar $3$, tad skaitlis, kas no tā tiek iegūts 
-ar uzdevumā dotajām darbībām, arī dalās ar $3$.
+No otras puses, ja kāds skaitlis dalās ar $3$, 
+tad skaitlis, kas no tā tiek iegūts 
+ar uzdevumā dotajām darbībām, arī dalās ar $3$. 
 
-Ievērojam, ka
+Pārbaudām pēdējo apgalvojumu:
 
-- skaitlis $n$ dalās ar $3$, tad arī $n+6$ dalās ar $3$ (ja katrs saskaitāmais 
-  dalās ar $3$, tad arī summa dalās ar $3$);
-- pāra skaitlis $4$ dalās ar $3$, tad arī skaitlis $n$ dalās ar $3$ ($n$ 
+- skaitlis $n$ dalās ar $3$, tad arī $n+6$ dalās ar $3$;
+- pāra skaitlis $4n$ dalās ar $3$, tad arī skaitlis $n$ dalās ar $3$ (jo $n$ 
   joprojām satur reizinātāju $3$);
-- apgalvojums "mainīt vietām skaitļa ciparus" izriet no dalāmības pazīmes ar 
-  $3$ (ja skaitlis $n$ dalās ar $3$, tad arī tā ciparu summa dalās ar $3$, bet 
-  summa nemainās, ja maina saskaitāmo secību).
-
+- ja skaitlis $n$ dalās ar $3$, tad arī tā ciparu summa dalās ar $3$, bet 
+  ciparu summa nemainās, ja tos pārkārto. 
+  
 Tātad, ja dotais skaitlis dalās ar $3$, tad pēc atļauto darbību izpildes arī 
 jauniegūtais skaitlis dalīsies ar $3$.
 
-Skaitlis $2015$ ar $3$ nedalās, tātad ar atļautajām darbībām skaitli $2015$ 
-iegūt nevarēs.
+Skaitlis $2015$ ar $3$ nedalās, tātad ar atļautajām darbībām to iegūt nevar.
+
+
+
 
 
 
@@ -987,6 +1028,9 @@ pieņemt mazākais no šiem saskaitāmajiem?
 
 <small>
 
+* topic:SeriesMembersSumsClosedFormulas
+* topic:CanonicalFactorization
+* topic:ExhaustionMethod
 * questionType:
 * domain:
 
@@ -1028,6 +1072,36 @@ Tātad mazākais no saskaitāmajiem var būt $88,\ 58$ vai $27$.
 
 
 
+## Atrisinājums
+
+Aritmētiskas progresijas locekļu summa
+
+$$S=a_1 + a_2 + \ldots + a_n = \frac{a_1 + a_n}{2}\cdot{}n$$
+
+> Aritmētiskās progresijas summu iegūst, reizinot "vidējo elementu": 
+> $a_v = \frac{a_1+a_n}{2}$ ar progresijas locekļu skaitu: $S = a_v\cdot{}n$.  
+> Ja $n$ ir nepāru skaitlis, tad vidējais elements $a_v$ tiešām progresijā ir.  
+> Ja $n$ ir nepāru skaitlis, tad "vidējais elements" ir abu vidējo locekļu 
+> aritmētiskais vidējais. 
+
+Abos gadījumos $2\cdot{}177 = (a_1+a_n)\cdot{}n$ jeb
+$$2 \cdot 3 \cdot 59 = (a_1+a_n)\cdot{}n$$
+
+Skaitlim $2 \cdot 3 \cdot 59$ ir tikai galīgs skaits dalītāju $n$. 
+Gadījumu pārlase:
+
+* Ja $n=2$, tad $177 = 88\frac{1}{2}\cdot{}2 = 88+89$,
+* Ja $n=3$, tad $177 = 59\cdot{}3 = 58+59+60$,
+* Ja $n=6$, tad $177 = 29\frac{1}{2}\cdot{}6=27+28+29+30+31+32$. 
+
+Vēl lielāki $2 \cdot 3 \cdot 59$ dalītāji ($n=59$ u.c.) novestu pie ļoti garām aritmētiskām 
+progresijām, kurās būtu arī negatīvi locekļi.
+Tās neder, jo $177$ bija vairāku pēc kārtas sekojošu **naturālu** skaitļu summa.
+
+
+
+
+
 # <lo-sample/> LV.NOL.2015.10.4
 
 Vai eksistē tāds vesels skaitlis $x$, ka visi skaitļi
@@ -1040,8 +1114,12 @@ ir veselu skaitļu pakāpes ar naturālu kāpinātāju, kas lielāks nekā $1$
 
 <small>
 
-* questionType:
-* domain:
+* topic:CountingObjects
+* topic:PrimeFactorizationAndPowers
+* topic:ModularParity
+* strategy:contradiction
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1075,6 +1153,26 @@ gadījumus.
 Tātad neeksistē tāds vesels skaitlis $x$, ka visi skaitļi 
 $x,\ x+23,\ x+46,\ x+121$ ir veselu skaitļu pakāpes ar naturālu kāpinātāju, kas
 lielāks nekā $1$.
+
+## Atrisinājums
+
+**(A)** Ievietojam nelielas vērtības. 
+Ievērojam, ka $x$ arī ir vesela skaitļa pakāpe. 
+Ievietojam $x=1,4,8,9,16,25,32,36,49,\ldots$. 
+Der jau $x=4$ (pirmajā piemērā)
+
+
+**(B)**
+Noskaidrojam, vai $x$ un $x+46$ var *vienlaikus* būt naturālu skaitļu pakāpes?
+
+* Ja $x$ ir pāru, tad **gan** $x$, **gan** $x+46$ dalās ar $4$ (tā ir pretruna, 
+jo $46$ nedalās ar $4$). 
+* Ja $x$ ir nepāru, tad **gan** $x+23$, **gan** $x+121$ dalās ar $4$ (tā ir pretruna, 
+jo starpība $121-23 = 98$ nedalās ar $4$). 
+
+
+
+
 
 
 
@@ -1202,8 +1300,8 @@ t. i., nevar panākt, lai katrā šūnā būtu ierakstīts skaitlis $2015$.
 # <lo-sample/> LV.NOL.2015.11.3
 
 Kāds ir mazākais naturālais skaitlis $n$, kuru iespējams izteikt kā trīs 
-dažādu naturālu skaitļu $a,\ b$ un $c$ summu tā, ka visi skaitļi 
-$a+b,\ a+c,\ b+c$ ir naturālu skaitļu kvadrāti?
+dažādu naturālu skaitļu $a$, $b$ un $c$ summu tā, ka visi skaitļi 
+$a+b$, $a+c$, $b+c$ ir naturālu skaitļu kvadrāti?
 
 <small>
 
@@ -1533,8 +1631,7 @@ kas arī bija jāpierāda.
 
 Vai eksistē tādi naturāli skaitļi $a,\ b$ un $c$, ka skaitļa $a^{2}+b^{2}+c^{2}$
 
-**(A)** pēdējie divi cipari ir $15$;
-
+**(A)** pēdējie divi cipari ir $15$;  
 **(B)** pēdējie četri cipari ir $2015$?
 
 <small>

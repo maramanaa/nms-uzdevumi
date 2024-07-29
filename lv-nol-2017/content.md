@@ -809,7 +809,7 @@ tad $CE:ED=1:4$ jeb punkts $E$ dala malu $CD$ attiecībā $1:4$.
 
 # <lo-sample/> LV.NOL.2017.9.4
 
-Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā secībā,
+Naturālu skaitli sauksim par *pārdabisku*, ja, tā ciparus uzrakstot pretējā secībā,
 iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais skaitlis
 dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir $1089$, jo
 $9801:1089=9$. Atrast vēl divus citus pārdabiskus skaitļus!
@@ -836,11 +836,11 @@ $2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089; 10999989; 21782
 
 # <lo-sample/> LV.NOL.2017.9.5
 
-**a)** Pierādīt, ka starp $1010$ dažādiem naturāliem skaitļiem, no kuriem
+**(A)** Pierādīt, ka starp $1010$ dažādiem naturāliem skaitļiem, no kuriem
 neviens nepārsniedz $2017$, vienmēr iespējams izvēlēties trīs skaitļus tā, ka
 divu izvēlēto skaitļu summa ir vienāda ar trešo skaitli!
 
-**b)** Vai šāda īpašība ir spēkā arī $1009$ dažādiem naturāliem skaitļiem, kas
+**(B)** Vai šāda īpašība ir spēkā arī $1009$ dažādiem naturāliem skaitļiem, kas
 nepārsniedz $2017$?
 
 <small>
@@ -853,7 +853,7 @@ nepārsniedz $2017$?
 
 ## Atrisinājums
 
-**a)** Lielāko starp izvēlētajiem skaitļiem apzīmējam ar $x$ un pierādīsim, ka
+**(A)** Lielāko starp izvēlētajiem skaitļiem apzīmējam ar $x$ un pierādīsim, ka
 var atrast divus citus skaitļus, kuru summa ir $x$.
 
 Visus skaitļus, kas mazāki nekā $x$, sadalām pāros tā, ka vienā pārī esošo
@@ -875,7 +875,7 @@ Tā kā ir izvēlēti $1009$ skaitļi, kas mazāki nekā $x$, tad pēc Dirihlē 
 vismaz divi no tiem būs no viena pāra, kas summā dod $x$, tie arī būs trīs
 meklētie skaitļi.
 
-**b)** Savukārt $1009$ dažādiem skaitļiem, kas nepārsniedz $2017$, minētā
+**(B)** Savukārt $1009$ dažādiem skaitļiem, kas nepārsniedz $2017$, minētā
 īpašība nav spēkā. Ja izvēlamies visus nepāra skaitļus no $1$ līdz $2017$, tad
 izvēlēti ir $1009$ skaitļi, no kuriem nekādi divi summā nedod citu skaitli no
 šī komplekta, jo divu nepāra skaiļu summa vienmēr ir pāra skaitlis.
@@ -1094,8 +1094,13 @@ sākotnējais desmitciparu skaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesFor2And4
+* topic:DivisibilityRulesLastDigits
+* topic:DivisibilityRulesFor3And9
+* topic:DivisibilityRulesOther
+* topic:ExhaustionMethod
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1135,6 +1140,25 @@ iespējamos variantus atkarībā no $T$ vērtības.
 | $4$              | $8$              | $2$              | Neder, jo $5048524$ nedalās ar $7$.                                                                       |
 | $7$              | $2$              | $8$              | Neder, jo $5072587$ nedalās ar $7$.                                                                       |
 |                  | $6$              | $4$              | $I=2$ un $K=9$, līdz ar to sākotnējais skaitlis bija $5076547290$.                                        |
+
+
+## Atrisinājums
+
+* $\overline{MATEMĀTIKA}$ dalās ar $10$ ($A=0$)
+* $\overline{MATEM}$ dalās ar $5$ ($M=5$)
+* $\overline{MAT}=\overline{50T}$ dalās ar $3$ ($T = 1,4,7$)
+* Dalāmība ar $2,4,6,8$ ($E$, $Ā$, $I$ ir pāru cipari $\neq 0$)
+* Dalāmība ar $4$ ($TI$ un $TE$ dalās ar $4$, t.i $T \neq 4$)
+* Dalāmība ar $6$ ($\overline{MATEMĀ}$ ciparu summa ir $5+0+(1|7)+(2|6)+5+(4|8)$
+t.i. $\overline{EMĀ}=258$ vai $\overline{EMĀ}=654$.
+* Dalāmība ar $7$: $50(1|7)(2|6)5(4|8)(1|7)$
+  ($\overline{MATEMĀT}$ ir $5012581$ vai $5076547$)
+* Dalāmība ar $8$: $50125816$, $50765472$
+* $5076547290$ der (bet $5012581680$ neder, 
+  jo cipari $K$ un $Ā$ nedrīkst sakrist).
+
+
+
 
 
 
@@ -1423,11 +1447,12 @@ dotā nevienādība ir patiesa visiem reāliem skaitļiem $x$ un $y$.
 
 # <lo-sample/> LV.NOL.2017.12.3
 
-Naturālu skaitli sauksim par pārdabisku, ja, tā ciparus uzrakstot pretējā
+Naturālu skaitli sauksim par *pārdabisku*, ja, tā ciparus uzrakstot pretējā
 secībā, iegūst skaitli, kas ir lielāks nekā sākotnējais skaitlis, un iegūtais
 skaitlis dalās ar sākotnējo skaitli. Mazākais pārdabiskais skaitlis ir
-$1089$, jo $9801:1089=9$. **a)** Atrast vēl divus citus pārdabiskus skaitļus!
-**b)** Pierādīt, ka pārdabisku skaitļu ir bezgalīgi daudz!
+$1089$, jo $9801:1089=9$.  
+**(A)** Atrast vēl divus citus pārdabiskus skaitļus!  
+**(B)** Pierādīt, ka pārdabisku skaitļu ir bezgalīgi daudz!
 
 <small>
 
@@ -1439,10 +1464,10 @@ $1089$, jo $9801:1089=9$. **a)** Atrast vēl divus citus pārdabiskus skaitļus!
 
 ## Atrisinājums
 
-**a)** Nākamie pārdabiskie skaitļi ir
+**(A)** Nākamie pārdabiskie skaitļi ir
 $2178; 10989; 21978; 109989; 219978; 1099989; 2199978; 10891089 ; 10999989 ; 21782178 ; 21999978$.
 
-**b)** Aplūkojam skaitļus, ko veido pierakstot skaitlim $1089$ beigās $k$ ($k > $1)
+**(B)** Aplūkojam skaitļus, ko veido pierakstot skaitlim $1089$ beigās $k$ ($k > $1)
 reizes skaitli $1089$, tas ir, skaitļus formā $10891089...1089$. Šāda
 "pierakstīšana galā" ir līdzvērtīga skaitļa reizināšanai ar skaitli
 $100010001...0001$, kurā ir $k$ vieninieki un starp diviem blakus vieniniekiem
