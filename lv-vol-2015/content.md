@@ -15,7 +15,7 @@ $\frac{2015}{n^{4}-m^{4}}$ arī ir naturāls skaitlis!
 Ievērojam, ka $n^{4}-m^{4}=(n-m)(n+m)\left(n^{2}+m^{2}\right)$. Tā kā $n$ un 
 $m$ ir naturāli skaitļi, tad $\frac{2015}{(n-m)(n+m)\left(n^{2}+m^{2}\right)}$ 
 var būt naturāls skaitlis tikai tad, ja $n>m \geq 1$. Līdz ar to 
-$1 \leq n-m<n+m<n^{2}+m^{2}$. Tas nozīmē, ka $n-m,\ n+m$ un $n^{2}+m^{2}$ ir 
+$1 \leq n-m < n+m < n^{2}+m^{2}$. Tas nozīmē, ka $n-m,\ n+m$ un $n^{2}+m^{2}$ ir 
 trīs dažādi skaitļa $2015$ dalītāji. Sadalām skaitli $2015$ pirmreizinātājos: 
 $2015=5 \cdot 13 \cdot 31$. Uzrakstām augošā secībā visus skaitļa $2015$ 
 dalītājus: $1,\ 5,\ 13,\ 31,\ 65,\ 155,\ 403,\ 2015$.
