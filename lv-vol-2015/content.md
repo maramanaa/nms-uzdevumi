@@ -74,7 +74,7 @@ pārklāties.
 laukumam arī jābūt $28$ rūtiņām. Vienīgie iespējamie taisnstūra izmēri ir 
 $1 \times 28$ (neder), $2 \times 14,\ 4 \times 7$. Izkrāsojot taisnstūrus kā 
 šaha galdiņu, katrā no tiem melno un balto rūtiņu skaits ir vienāds. Ja visas 
-dotās figūras izkrāsotu kā šaha galdinu, tad tās visas, izņemot trešo, saturēu 
+dotās figūras izkrāsotu kā šaha galdiņu, tad tās visas, izņemot trešo, saturēu 
 tieši divas katras krāsas rūtiņas. Trešā figūra saturētu trīs vienas krāsas un 
 vienu otras krāsas rūtiņu (skat. A1.att.). Tātad, saskaitot balto un melno 
 rūtiņu skaitu pa visām septiņām figūrām, iegūtu, ka vienas krāsas rūtiņu ir par
@@ -99,9 +99,9 @@ nākamo virknes locekli iegūst pēc šāda likuma:
 - ja $2 n>100$, tad virknes nākamais loceklis ir $2n-100$.
 
 Ja virknē vēl kādreiz parādās skaitlis $n$, tad skaitli $n$ sauksim par 
-*patīkamu*. Cik pavisam ir patīkamu skaitļu, kas nepārsniedz $100$?
+*patīkamu*. Cik pavisam ir *patīkamu* skaitļu, kas nepārsniedz $100$?
 
-Piemēram, skaitlis $40$ ir patīkams, jo $40;\ 80;\ 60;\ 20;\ 40;\ \ldots$, bet 
+Piemēram, skaitlis $40$ ir *patīkams*, jo $40;\ 80;\ 60;\ 20;\ 40;\ \ldots$, bet 
 $25$ - nav, jo $25;\ 50;\ 100;\ 100;\ \ldots$ (tālāk virknē nav skaitļu, kas 
 atšķirīgi no $100$).
 
@@ -123,43 +123,43 @@ $20 \rightarrow 40 \rightarrow 80 \rightarrow 60 \rightarrow 20$;
 
 $4 \rightarrow 8 \rightarrow 16 \rightarrow 32 \rightarrow 64 \rightarrow 28 \rightarrow 56 \rightarrow 12 \rightarrow 24 \rightarrow 48 \rightarrow 96 \rightarrow 92 \rightarrow 84 \rightarrow 68 \rightarrow 36 \rightarrow 72 \rightarrow 44 \rightarrow 88 \rightarrow 76 \rightarrow 52 \rightarrow 4$
 
-Pierādīsim, ka tie skaitļi, kas nedalās ar $4$, nevar būt patīkami. Šķirojam 
+Pierādīsim, ka tie skaitļi, kas nedalās ar $4$, nevar būt *patīkami*. Šķirojam 
 divus gadījums.
 
-- Nepāra skaitļi nevar būt patīkami, jo visi nākamie virknes locekļi būs tikai 
-  pāra skaitļi un, tātad, sākotnējā $n$ vērtība tajā atkārtoti parādīies nevar.
+- Nepāra skaitļi nevar būt *patīkami*, jo visi nākamie virknes locekļi būs tikai 
+  pāra skaitļi un, tātad, sākotnējā $n$ vērtība tajā atkārtoti parādīties nevar.
 - Pāra skaitļi, kas nedalās ar $4$, var pierakstīt formā $n=4k+2$. Šajā 
   gadījumā otrais virknes loceklis būs vai nu $2 \cdot(4k+2)=4 \cdot(2k+1)$, 
   vai $2 \cdot(4k+2)-100=4 \cdot(2k-24)$. Abos gadījumos virknes otrais 
   loceklis dalās ar $4$ un tas ir uzrakstāms formā $4m$. Visi nākamie virknes 
   locekļi arī dalīsies ar $4$, jo vai nu $2 \cdot 4m=8m$, vai 
   $2 \cdot 4m-100=4 \cdot(2m-25)$. Līdz ar to virknē nevar atkārtoti parādīties
-  skaitlis, kas nedalās ar $4$, un skaitlis $n=4k+2$ nav patīkams.
+  skaitlis, kas nedalās ar $4$, un skaitlis $n=4k+2$ nav *patīkams*.
 
-Tātad pavisam ir $25$ patīkami skaitļi.
+Tātad pavisam ir $25$ *patīkami* skaitļi.
 
 ## Atrisinājums
 
 Ir $25$ skaitļi, kas nepārsniedz $100$ un dalās ar $4$. Parādīsim, ka visi šie 
-skaitļi ir patīkami. Ja skaitlis $x$ dalās ar $4$, tad gan $2x$, gan $2x-100$ 
+skaitļi ir *patīkami*. Ja skaitlis $x$ dalās ar $4$, tad gan $2x$, gan $2x-100$ 
 arī dalīsies ar $4$. Aplūkosim virkni, sākot ar patvaļīgu skaitli $x_{1}$, kas 
 dalās ar $4$: $x_{1},\ x_{2},\ x_{3},\ \ldots$ Tā kā ir tikai $25$ skaitļi, kas
 tajā var parādīties, tad skaidrs, ka kādā brīdī virknes locekļi sāks 
 atkārtoties. Aplūkosim pirmo skaitli virknē, kas atkārtojas, tas ir, tādu 
 $x_{j+1}$, ka visi iepriekšējie $x_{1},\ x_{2},\ \ldots,\ x_{j}$ ir dažādi, bet
 $x_{j+1}$ ir vienāds ar kādu no tiem. Pierādīsim, ka $x_{j+1}=x_{1}$, ar to arī
-būs pierādīts, ka skaitlis $x_{1}$ ir patīkams. Pieņemsim pretējo, ka 
+būs pierādīts, ka skaitlis $x_{1}$ ir *patīkams*. Pieņemsim pretējo, ka 
 $x_{j+1}=x_{k+1}$ un aplūkosim, kādi varēja būt iepriekšējie skaitļi $x_{j}$ un
 $x_{k}$. Tā kā tiem jābūt dažādiem, tad skaidrs, ka $x_{j+1}$ un $x_{k+1}$ tika
 iegūti ar dažādām darbībām, tas ir, $x_{j+1}=2x_{j}$ un $x_{k+1}=2x_{k}-100$ 
 (vai otrādi), kas nozīmē, ka $2x_{j}=2x_{k}-100$ jeb $x_{k}-x_{j}=50$ un tā ir 
 pretruna, jo gan $x_{j}$, gan $x_{k}$ dalās ar $4$, bet $50$ nedalās ar $4$.
 
-Vēl jāpierāda, ka pārējie skaitļi nav patīkami. Skaidrs, ka nepāra skaitļi nav 
-patīkami, jo, ja $x$ ir nepāra skaitlis, tad gan $2x$, gan $2x-100$ ir pāra 
+Vēl jāpierāda, ka pārējie skaitļi nav *patīkami*. Skaidrs, ka nepāra skaitļi nav 
+*patīkami*, jo, ja $x$ ir nepāra skaitlis, tad gan $2x$, gan $2x-100$ ir pāra 
 skaitļi un tālāk virknē visi skaitļi būs pāra.
 
-Ja skaitlis $x$ dalās ar $2$, bet nedalās ar $4$, tad $x$ nav patīkams, jo, gan
+Ja skaitlis $x$ dalās ar $2$, bet nedalās ar $4$, tad $x$ nav *patīkams*, jo, gan
 $2x$, gan $2x-100$ dalās ar $4$ un tālāk virknē visi skaitļi dalīsies ar $4$.
 
 
@@ -295,7 +295,7 @@ Izmantosim matemātiskās indukcijas principu.
 *Induktīvais pieņēmums.* Pieņemsim, ja $n=k$, tad $3k^{5}+5k^{4}-8k$ dalās ar 
 $10$.
 
-*Induktūvā pāreja.* Pierādīsim, ja $n=k+1$, tad $3(k+1)^{5}+5(k+1)^{4}-8(k+1)$ 
+*Induktīvā pāreja.* Pierādīsim, ja $n=k+1$, tad $3(k+1)^{5}+5(k+1)^{4}-8(k+1)$ 
 dalās ar $10$.
 
 Ekvivalenti pārveidojam izteiksmi $3(k+1)^{5}+5(k+1)^{4}-8(k+1)$ :
@@ -312,7 +312,8 @@ Saskaitāmais $5k \cdot\left(3k^{3}+10k^{2}+12k+7\right)$ dalās ar $5$, jo satu
 reizinātāju $5$, un dalās ar $2$, jo
 
 - ja $k$ ir pāra skaitlis, tad reizinātājs $k$ dalās ar $2$;
-- ja $k$ ir nepāra skaitlis, tad reizināāās $3 k^{3}+10 k^{2}+12 k+7$ ir pāra skaitlis un tas dalās ar 2 .
+- ja $k$ ir nepāra skaitlis, tad reizinātājs $3k^{3}+10k^{2}+12k+7$ ir pāra 
+  skaitlis un tas dalās ar $2$.
 
 Tā kā izteiksme $3(k+1)^{5}+5(k+1)^{4}-8(k+1)$ dalās gan ar $2$, gan ar $5$, 
 tad tā dalās arī ar $10$ un līdz ar to esam pierādījuši, ka 
@@ -423,7 +424,11 @@ $\sphericalangle A_{2}OA_{4}=\cup A_{2}A_{3}A_{4}=72^{\circ}$ kā centra leņķi
 No $\triangle A_{1}A_{2}B$ iegūstam, ka 
 $\sphericalangle A_{1}BA_{2}=180^{\circ}-36^{\circ}-72^{\circ}=72^{\circ}$.
 
-Ievērojam, ka $\sphericalangle O B A_{4}=\sphericalangle A_{1} B A_{2}=72^{\circ}$ kā krustleņi̧i. Tātad $\triangle A_{1} A_{2} B$ un $\triangle O A_{4} B$ ir vienādsānu, jo leņki pie pamata ir vienādi, līdz ar to $A_{1} A_{2}=A_{1} B$ un $B A_{4}=O A_{4}=R$. Tad $A_{1} A_{2}+R=A_{1} B+B A_{4}=A_{1} A_{4}$, kas arī bija jāpierāda.
+Ievērojam, ka $\sphericalangle OBA_{4}=\sphericalangle A_{1}BA_{2}=72^{\circ}$ 
+kā krustleņķi. Tātad $\triangle A_{1}A_{2}B$ un $\triangle OA_{4}B$ ir 
+vienādsānu, jo leņķi pie pamata ir vienādi, līdz ar to $A_{1}A_{2}=A_{1}B$ un 
+$BA_{4}=OA_{4}=R$. Tad $A_{1}A_{2}+R=A_{1}B+BA_{4}=A_{1}A_{4}$, kas arī bija 
+jāpierāda.
 
 ## Atrisinājums
 
@@ -908,7 +913,9 @@ $$\begin{aligned}
 \end{aligned}$$
 
 
-**(B)** Vārdu " $baabaabaa$ " nevar iegūt. Burtu $a$ aizstājam ar ciparu $1$, bet burtu $b$ - ar ciparu 3. Tad visi vārdi votivapu valodā tiek aizstāti ar naturāliem skaitliem, kuru pierakstā izmantoti tikai cipari 1 un 3.
+**(B)** Vārdu " $baabaabaa$ " nevar iegūt. Burtu $a$ aizstājam ar ciparu $1$, 
+bet burtu $b$ - ar ciparu $3$. Tad visi vārdi votivapu valodā tiek aizstāti 
+ar naturāliem skaitļiem, kuru pierakstā izmantoti tikai cipari $1$ un $3$.
 
 Ievērojam, ka sākotnējais vārds " $a$ " jeb skaitlis $1$ nedalās ar $3$.
 
