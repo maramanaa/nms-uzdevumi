@@ -540,7 +540,7 @@ $=ab\left((a+b)^{3}+16a^{2}b^{2}(a+b)\right)=\frac{\sqrt[4]{7}}{1+\sqrt{5}} \cdo
 
 $=7 \cdot(1+\sqrt{5})^{2}+\frac{16 \cdot 7}{(1+\sqrt{5})^{2}}=7 \cdot\left((6+2 \sqrt{5})+\frac{16}{6+2 \sqrt{5}}\right)=$
 
-$=7 \cdot \frac{36+24 \sqrt{5}+20+16}{6+2 \sqrt{5}}=7 \cdot 12 \cdot \frac{6+2 \sqrt{5}}{6+2 \sqrt{5}}=84$.
+$=7 \cdot \frac{36+24 \sqrt{5}+20+16}{6+2 \sqrt{5}}=7 \cdot 12 \cdot \frac{6+2 \sqrt{5}}{6+2 \sqrt{5}}=84.$
 
 Tā kā skaitlis $84$ ir vesels skaitlis, tad prasītais ir pierādīts.
 
@@ -575,7 +575,7 @@ $4 \cdot 403=1612$ - stūris.
 
 # <lo-sample/> LV.VOL.2015.11.3
 
-Pirātam Džonam Silveram kajītē ir $38$ papagaiļi un $39$ papagaiļu krātini. 
+Pirātam Džonam Silveram kajītē ir $38$ papagaiļi un $39$ papagaiļu krātiņi. 
 Katram papagailim ir savs krātiņš un vēl viens krātiņš stāv tukšs. Kādu dienu 
 vētras laikā tie visi izmuka, tika noķerti un uz ātru roku salikti atpakaļ 
 krātiņos (katrā krātiņā ne vairāk kā viens), bet ne obligāti savos. Vienā 
@@ -602,9 +602,9 @@ $a_{1}(2 \leq n \leq 39)$. Tādā veidā visi papagaiļi sadalās ciklos. Ja cik
 ir $n$ papagaiļi, tad šī cikla sakārtošanai nepieciešams tieši
 
 **(A)** $n-1$ gājiens, ja tajā ietilpst tukšais krātiņš. Tad tur ir $n-1$ 
-papagailis un ar katru gājienu ne vairāk kā vienu var ielikt savā krātinā, 
+papagailis un ar katru gājienu ne vairāk kā vienu var ielikt savā krātiņā, 
 tātad mazāk gājienu nevar būt. Ar $n-1$ gājienu pietiek, jo vienmēr būs kāds 
-papagailis, kuru ielikt savā vietā;
+papagailis, kuru ielikt savā vietā;  
 **(B)** $n+1$ gājiens, ja tajā neietilpst tukšais krātiņš. Ar pirmo gājienu 
 nevienu papagaili nevar ielikt savā vietā un ar katru nākamo gājienu ne vairāk 
 kā vienu papagaili var ielikt savā vietā, tāpēc mazāk būt nevar. Pirmajā 
