@@ -88,7 +88,7 @@ neapmierina.
 # <lo-sample/> LV.NOL.2014.5.4
 
 Grāmatas lappuses ir sanumurētas ar naturāliem skaitļiem no $1$ līdz $2014$ pēc
-kārtas. Cik lappušu пumuros ir sastopams cipars $7$?
+kārtas. Cik lappušu numuros ir sastopams cipars $7$?
 
 <small>
 
@@ -162,7 +162,7 @@ aprakstītā situācija nav iespējama.
 
 Atrodiet kaut vienu tādu skaitli $a$, ka vienlaicīgi izpildās šādas īpašības:
 
-**(A)** noapaļojot $a$, 3$\cdot a$, $5 \cdot a$,$7 \cdot a$ līdz veselam 
+**(A)** noapaļojot $a$, $3 \cdot a$, $5 \cdot a$, $7 \cdot a$ līdz veselam 
 skaitlim, jānoapaļo uz leju;
 
 **(B)** noapaļojot $2 \cdot a,\ 4 \cdot a,\ 6 \cdot a$ līdz veselam skaitlim, 
@@ -205,7 +205,7 @@ Piemēram, skat. A2.zīm.
 
 # <lo-sample/> LV.NOL.2014.6.3
 
-Pareizā vienādībā $4 \cdot 4=16$ var katru ciparu izmainūt tieši par $1$ un 
+Pareizā vienādībā $4 \cdot 4=16$ var katru ciparu izmainīt tieši par $1$ un 
 atkal iegūt pareizu vienādību $5 \cdot 5=25$. Atrast
 
 **(A)** kaut vienu piemēru ar tādu pašu īpašību, kurā reizina viencipara 
@@ -232,7 +232,7 @@ Der, piemēram,
 
 # <lo-sample/> LV.NOL.2014.6.4
 
-Grāmatas lappuses ir sanumurētas ar naturāliem skaitļiem no $1$ lēdz $2014$ pēc
+Grāmatas lappuses ir sanumurētas ar naturāliem skaitļiem no $1$ līdz $2014$ pēc
 kārtas. Cik lappušu numuros ir sastopams vismaz viens no cipariem $3$ vai $7$?
 
 <small>
@@ -257,7 +257,7 @@ lappušu numuros.
 
 ## Atrisinājums
 
-Pieņemsim, ka grāmatai ir vēl arī $0$ - tā lappuse. Tā kā tās numerācijā nav 
+Pieņemsim, ka grāmatai ir vēl arī $0$-tā lappuse. Tā kā tās numerācijā nav 
 izmantoti cipari $3$ un $7$, tad šāds pieņēmums neizmanīs rezultātu - 
 aprēķināto lappušu numuru skaitu.
 
@@ -514,11 +514,11 @@ saknes (varbūt vienādas), un izteikt tās, neizmantojot kvadrātsaknes zīmi.
 No vienādības $a+b+c=0$ seko, ka skaitlis $1$ ir vienādojuma $ax^{2}+bx+c=0$ 
 sakne. Otru vienādojuma sakni atrodam izmantojot Vjeta teorēmu:
 
-$x_{1}+x_{2}=-\frac{b}{a} & \Rightarrow \quad x_{1}=1$ un $x_{2}=-\frac{b}{a}-1$
+$x_{1}+x_{2}=-\frac{b}{a} \Rightarrow \quad x_{1}=1$ un $x_{2}=-\frac{b}{a}-1$
 
 vai arī
 
-$x_{1}x_{2}=\frac{c}{a} & \Rightarrow \quad x_{1}=1$ un $x_{2}=\frac{c}{a}$
+$x_{1}x_{2}=\frac{c}{a} \Rightarrow \quad x_{1}=1$ un $x_{2}=\frac{c}{a}$
 
 
 
@@ -684,7 +684,7 @@ D & =4(a+b)^{2}-8\left(a^{2}+b^{2}\right)=4a^{2}+8ab+4b^{2}-8a^{2}-8b^{2}= \\
 & =-4a^{2}+8ab-4b^{2}=-4\left(a^{2}-2ab+b^{2}\right)=-4(a-b)^{2}
 \end{aligned}$$
 
-Lai kvadrātvienādojumam būtu atrisinājums diskriminantam vētībai jābūt 
+Lai kvadrātvienādojumam būtu atrisinājums diskriminanta vētībai jābūt 
 nenegatīvai. Tā kā $-4(a-b)^{2} \leq 0$, tad vienīgā iespēja, lai dotajam 
 vienādojumam eksistētu atrisinājums ir gadījums, kad $a=b$.
 
@@ -752,7 +752,7 @@ Apskatām abus gadījumus:
   naturāls tikai tad, ja $\frac{1}{b}$ ir naturāls. Vienīgā iespēja, ja $b=1$. 
   Līdz ar to esam ieguvuši, ka $a=2,\ b=1$ un $c=2$ ir dotā vienādojuma 
   atrisinājums.
-- Ja $b$ un $c$ ir naturāli skaitļi, tad $b<bc+1$ jeb $\frac{b}{bc+1}<1$. Tātad
+- Ja $b$ un $c$ ir naturāli skaitļi, tad $b < bc+1$ jeb $\frac{b}{bc+1}<1$. Tātad
   $\frac{b}{bc+1} \neq \frac{4}{3}$ un šajā gadījumā dotajam vienādojumam nav 
   atrisinājuma.
 
@@ -862,7 +862,7 @@ $x^{3}>2$ kvadrātā, iegūst $x^{6}>4$, kas arī bija jāpierāda.
 
 ## Atrisinājums
 
-**(B)** Tā kā $2^{7}=128>125=5^{3}$,tad, doto izteiksmi kāpinot septītajā 
+**(B)** Tā kā $2^{7}=128>125=5^{3}$, tad, doto izteiksmi kāpinot septītajā 
 pakāpē, iegūstam:
 
 $$\left(x^{3}\right)^{7}>2^{7}>5^{3} \Rightarrow\left(x^{7}\right)^{3}>5^{3} \Rightarrow x^{7}>5$$
@@ -885,7 +885,7 @@ $$x^{7}>\sqrt[3]{2} \cdot 4=\sqrt[3]{2} \cdot \sqrt[3]{64}=\sqrt[3]{128}>\sqrt[3
 
 # <lo-sample/> LV.NOL.2014.10.2
 
-Pierādūt, ka, izvēloties $52$ no aritmētiskās progresijas 
+Pierādīt, ka, izvēloties $52$ no aritmētiskās progresijas 
 $1,\ 4,\ 7,\ 10,\ \ldots$ locekļiem, kas nepārsniedz $300$, vienmēr starp šiem 
 skaitļiem var atrast divus skaitļus, kuru summa ir $302$.
 
@@ -1098,7 +1098,7 @@ dalītāju, izņemot $1$ un $n$, kvadrātu summa ir vienāda ar pašu skaitli $n
 ## Atrisinājums
 
 Parādīsim, ka uzdevuma nosacījumus apmierina visi naturālie skaitļi, kas ir 
-pirmskaitļu kvadrāti, t.i., $n=p^{2}, p$ - pirmskaitlis.
+pirmskaitļu kvadrāti, t.i., $n=p^{2},\ p$ - pirmskaitlis.
 
 Pirmkārt, $n=p^{2}$ der, jo $p^{2}$ vienīgais dalītājs, kas nav ne $1$, ne arī 
 $p^{2}$, ir pirmskaitlis $p$. Tātad skaitļa $n=p^{2}$ naturālo dalītāju 
