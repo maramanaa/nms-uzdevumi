@@ -882,7 +882,7 @@ $$S(n)<\left(\frac{n}{2}\right)^{2}+\left(\frac{n}{3}\right)^{2}+\left(\frac{n}{
 
 Pamatosim, ka
 
-$$\frac{n^{2}}{4}+\frac{n^{2}}{9}+\frac{n^{2}}{16}+\ldots+\frac{n^{2}}{(n-1)^{2}}+\frac{n^{2}}{n^{2}}+\frac{n^{2}}{(n+1)^{2}}+\frac{n^{2}}{(n+2)^{2}}+\ldots<n^{2}$$
+$$\frac{n^{2}}{4}+\frac{n^{2}}{9}+\frac{n^{2}}{16}+\ldots+\frac{n^{2}}{(n-1)^{2}}+\frac{n^{2}}{n^{2}}+\frac{n^{2}}{(n+1)^{2}}+\frac{n^{2}}{(n+2)^{2}}+\ldots < n^{2}$$
 
 jeb, dalot ar $n^{2}$, iegūstam
 
@@ -913,7 +913,7 @@ Esam pamatojuši, ka
 
 $$\frac{S(n)}{n^{2}}<\frac{1}{4}+\frac{1}{9}+\frac{1}{16}+\frac{1}{25}+\ldots+\frac{1}{n^{2}}+\ldots<1$$
 
-Tātad $S(n)<n^{2}$, līdz ar to nevienam $n$ nav iespējama vienādība 
+Tātad $S(n) < n^{2}$, līdz ar to nevienam $n$ nav iespējama vienādība 
 $S(n)=n^{2}$.
 
 *Piezīme.* Ir spēkā sakarība 
