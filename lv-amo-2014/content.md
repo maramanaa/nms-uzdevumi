@@ -808,7 +808,8 @@ $2014$.
 
 # <lo-sample/> LV.AMO.2014.10.1
 
-Noteikt, vai virkne $a_{n}=\frac{3 n+7}{n+2}$, $n$ - naturāls skaitlis, ir augoša vai dilstoša!
+Noteikt, vai virkne $a_{n}=\frac{3n+7}{n+2}$, $n$- naturāls skaitlis, ir augoša
+vai dilstoša!
 
 <small>
 
@@ -820,26 +821,30 @@ Noteikt, vai virkne $a_{n}=\frac{3 n+7}{n+2}$, $n$ - naturāls skaitlis, ir augo
 
 ## Atrisinājums
 
-Virkni sauc par augošu (dilstošu), ja katrs nākamais virknes loceklis ir lielāks (mazāks) nekā iepriekšējais.
+Virkni sauc par augošu (dilstošu), ja katrs nākamais virknes loceklis ir
+lielāks (mazāks) nekā iepriekšējais.
 
 Apskatām starpību $a_{n+1}-a_{n}$ :
 
-$$
-\begin{aligned}
-a_{n+1}-a_{n} & =\frac{3(n+1)+7}{(n+1)+2}-\frac{3 n+7}{n+2}=\frac{3 n+10}{n+3}-\frac{3 n+7}{n+2}= \\
-& =\frac{3 n^{2}+6 n+10 n+20-\left(3 n^{2}+7 n+9 n+21\right)}{(n+3)(n+2)}=\frac{-1}{(n+3)(n+2)}<0
+$$\begin{aligned}
+a_{n+1}-a_{n} & =\frac{3(n+1)+7}{(n+1)+2}-\frac{3n+7}{n+2}=\frac{3n+10}{n+3}-\frac{3n+7}{n+2}= \\
+& =\frac{3n^{2}+6n+10n+20-\left(3n^{2}+7n+9n+21\right)}{(n+3)(n+2)}=\frac{-1}{(n+3)(n+2)} < 0
 \end{aligned}
 $$
 
-Esam ieguvuši, ka $a_{n+1}<a_{n}$. Tātad virkne $a_{n}=\frac{3 n+7}{n+2}$ ir dilstoša.
+Esam ieguvuši, ka $a_{n+1} < a_{n}$. Tātad virkne $a_{n}=\frac{3n+7}{n+2}$ ir
+dilstoša.
 
 
 
 # <lo-sample/> LV.AMO.2014.10.2
 
-Dotas divas paralēlas taisnes. Uz vienas no tām atzīmēti 14 zaļi punkti, uz otras - 14 sarkani punkti. Kādu lielāko skaitu nogriežnuu, kuriem viens galapunkts ir zaļ̆̌, bet otrs - sarkans, var novilkt tā, lai tie nekrustotos?
+Dotas divas paralēlas taisnes. Uz vienas no tām atzīmēti $14$ zaļi punkti, uz
+otras- $14$ sarkani punkti. Kādu lielāko skaitu nogriežņu, kuriem viens
+galapunkts ir zaļš, bet otrs- sarkans, var novilkt tā, lai tie nekrustotos?
 
-Saka, ka nogriežņi krustojas, ja tiem ir kopīgs iekšējais punkts, t.i., ja tiem ir kopīgs tikai galapunkts, tie nekrustojas.
+Saka, ka nogriežņi krustojas, ja tiem ir kopīgs iekšējais punkts, t.i., ja tiem
+ir kopīgs tikai galapunkts, tie nekrustojas.
 
 <small>
 
@@ -851,17 +856,21 @@ Saka, ka nogriežņi krustojas, ja tiem ir kopīgs iekšējais punkts, t.i., ja 
 
 ## Atrisinājums
 
-Visus zaļos punktus sanumurējam no kreisās uz labo pusi ar skaitlliem no 1 līdz 14 (skat. A19.zīm.). Līdzīgi sanumurējam visus sarkanos punktus. Tā kā nogriežņi nekrustojas, tad tie sakārtoti virzienā no kreisās uz labo pusi. Aplūkojam katra nogriežņa galapunktos ierakstīto skaitlu summas. Tā ir stingri augoša virkne. Mazākā summa ir 2, lielākā - 28. Pavisam iespējamas 27 vērtības. Kā uzzīmēt 27 nogriežņus skat., piem., 17.zīm.
+Visus zaļos punktus sanumurējam no kreisās uz labo pusi ar skaitļiem no $1$
+līdz $14$ (skat. A19.zīm.). Līdzīgi sanumurējam visus sarkanos punktus. Tā kā
+nogriežņi nekrustojas, tad tie sakārtoti virzienā no kreisās uz labo pusi.
+Aplūkojam katra nogriežņa galapunktos ierakstīto skaitļu summas. Tā ir stingri
+augoša virkne. Mazākā summa ir $2$, lielākā- $28$. Pavisam iespējamas $27$
+vērtības. Kā uzzīmēt $27$ nogriežņus skat., piem., 17.zīm.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-12.jpg?height=272&width=966&top_left_y=738&top_left_x=568)
-
-A19.zīm.
+![](LV.AMO.2014.10.2A.png)
 
 
 
 # <lo-sample/> LV.AMO.2014.10.3
 
-Aplūkosim funkcijas $y=x^{2}+a x+b$, kur $a+2 b=2014$. Pierādīt, ka visu šādu funkciju grafikiem ir kopigs punkts!
+Aplūkosim funkcijas $y=x^{2}+ax+b$, kur $a+2b=2014$. Pierādīt, ka visu šādu
+funkciju grafikiem ir kopīgs punkts!
 
 <small>
 
@@ -875,17 +884,17 @@ Aplūkosim funkcijas $y=x^{2}+a x+b$, kur $a+2 b=2014$. Pierādīt, ka visu šā
 
 Aplūkosim dotās funkcijas vērtību pie $x=\frac{1}{2}$ :
 
-$$
-y=\frac{1}{4}+\frac{a}{2}+b=\frac{1}{2}(a+2 b)+\frac{1}{4}=\frac{1}{2} \cdot 2014+\frac{1}{4}=1007 \frac{1}{4}
-$$
+$$y=\frac{1}{4}+\frac{a}{2}+b=\frac{1}{2}(a+2b)+\frac{1}{4}=\frac{1}{2} \cdot 2014+\frac{1}{4}=1007 \frac{1}{4}$$
 
-Tātad punkts $\left(\frac{1}{2}, 1007 \frac{1}{4}\right)$ ir kopīgs visu funkciju grafikiem.
+Tātad punkts $\left(\frac{1}{2}, 1007 \frac{1}{4}\right)$ ir kopīgs visu
+funkciju grafikiem.
 
 
 
 # <lo-sample/> LV.AMO.2014.10.4
 
-Doti septiņi dažādi naturāli skaitļi; katriem diviem no dotajiem skaitļiem aprēķināja to summu. Kāds lielākais skaits no šīm summām var būt pirmskaitļi?
+Doti septiņi dažādi naturāli skaitļi; katriem diviem no dotajiem skaitļiem
+aprēķināja to summu. Kāds lielākais skaits no šīm summām var būt pirmskaitļi?
 
 <small>
 
@@ -897,15 +906,23 @@ Doti septiņi dažādi naturāli skaitļi; katriem diviem no dotajiem skaitļiem
 
 ## Atrisinājums
 
-Ja starp dotajiem ir k pāra skaitlli un $7-k$ nepāra skaitļi, tad starp summām ir $k(7-k)$ nepāra skaitli, bet pārējie ir pāra skaitļi un nav pirmskaitļi (neviena no summām nav 2, jo 2 nav izsakāms kā divu dažādu naturālu skaitļu summa). Izteiksme $k(7-k)$ savu lielāko vērtību, kad $k \in\{0 ; 1 ; 2 ; \ldots ; 7\}$, pieñem pie $k=3$ un $k=4$, un šī lielākā vērtība ir 12 .
+Ja starp dotajiem ir $k$ pāra skaitļi un $7-k$ nepāra skaitļi, tad starp summām
+ir $k(7-k)$ nepāra skaitļi, bet pārējie ir pāra skaitļi un nav pirmskaitļi
+(neviena no summām nav $2$, jo $2$ nav izsakāms kā divu dažādu naturālu skaitļu
+summa). Izteiksme $k(7-k)$ savu lielāko vērtību, kad
+$k \in\{0 ; 1 ; 2 ; \ldots ; 7\}$, pieņem pie $k=3$ un $k=4$, un šī lielākā
+vērtība ir $12$.
 
-12 pirmskaitļi ir iespējami, piemēram, ja doti skaitļi $2,4,8,14,3,9,15$, tad nepāra summas ir $5,11,17,7,13,19,11,17,23,17,23,29$, kas visas ir pirmskaitļi.
+$12$ pirmskaitļi ir iespējami, piemēram, ja doti skaitļi $2,4,8,14,3,9,15$, tad
+nepāra summas ir $5, 11, 17, 7, 13, 19, 11, 17, 23, 17, 23, 29$, kas visas ir
+pirmskaitļi.
 
 
 
 # <lo-sample/> LV.AMO.2014.10.5
 
-Uz taisnstūra $A B C D$ diagonāles $B D$ iespējams atrast iekšēju punktu $P$ tā, ka $\sphericalangle P A B=\sphericalangle P C B$. Pierādīt, ka ABCD ir kvadrāts!
+Uz taisnstūra $ABCD$ diagonāles $BD$ iespējams atrast iekšēju punktu $P$ tā, ka
+$\sphericalangle PAB=\sphericalangle PCB$. Pierādīt, ka $ABCD$ ir kvadrāts!
 
 <small>
 
@@ -917,34 +934,63 @@ Uz taisnstūra $A B C D$ diagonāles $B D$ iespējams atrast iekšēju punktu $P
 
 ## Atrisinājums
 
-Pieñemsim pretējo, ka $A B C D$ nav kvadrāts. Attēlosim punktu $C$ simetriski pret taisni $B D$ punktā $C^{\prime}$ (skat. A20.zīm.). No pienēmuma seko, ka $A$ nesakrīt ar $C^{\prime}$. Ievērojam, ka $\sphericalangle B A D=90^{\circ}$ un simetrijas dēl $\sphericalangle B C^{\prime} D=\sphericalangle B C D=90^{\circ}$. Tāpēc $\sphericalangle B A D=\sphericalangle B C^{\prime} D$ un ap $C^{\prime} A B D$ var apvilkt riņka līniju. No dotā $\sphericalangle P A B=\sphericalangle P C B$, un no simetrijas $\sphericalangle P A B=\sphericalangle P C^{\prime} B$. Tātad $\sphericalangle P A B=\sphericalangle P C^{\prime} B$ un arī ap $C^{\prime} A B P$ var apvilkt riņķa līniju. Bet caur trīs punktiem (šajā gadījumā $C^{\prime}, A$ un $B$ ) var novilkt tikai vienu riņķa līniju, tāpēc $P$ sakrīt ar $D$, kas ir pretrunā ar to, ka $P$ ir $B D$ iekšējais punkts. Līdz ar to esam pierādījuši, ka $A B C D$ ir kvadrāts.
+Pieñemsim pretējo, ka $ABCD$ nav kvadrāts. Attēlosim punktu $C$ simetriski pret
+taisni $BD$ punktā $C^{\prime}$ (skat. A20.zīm.). No pieņēmuma seko, ka $A$
+nesakrīt ar $C^{\prime}$. Ievērojam, ka $\sphericalangle BAD=90^{\circ}$ un
+simetrijas dēļ $\sphericalangle BC^{\prime} D=\sphericalangle BCD=90^{\circ}$.
+Tāpēc $\sphericalangle BAD=\sphericalangle BC^{\prime} D$ un ap $C^{\prime} ABD$
+var apvilkt riņka līniju. No dotā $\sphericalangle PAB=\sphericalangle PCB$, un
+no simetrijas $\sphericalangle PAB=\sphericalangle PC^{\prime} B$. Tātad
+$\sphericalangle PAB=\sphericalangle PC^{\prime} B$ un arī ap
+$C^{\prime} ABP$ var apvilkt riņķa līniju. Bet caur trīs punktiem (šajā
+gadījumā $C^{\prime}, A$ un $B$ ) var novilkt tikai vienu riņķa līniju, tāpēc
+$P$ sakrīt ar $D$, kas ir pretrunā ar to, ka $P$ ir $BD$ iekšējais punkts.
+Līdz ar to esam pierādījuši, ka $ABCD$ ir kvadrāts.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-13.jpg?height=612&width=621&top_left_y=251&top_left_x=723)
+![](LV.AMO.2014.10.5A.png)
+
 
 ## Atrisinājums
 
-Pieņemsim, ka šāds punkts $P$ tomēr eksistē arī taisnstūrim, kas nav kvadrāts ( $A D<A B$ un $\sphericalangle P A B=\sphericalangle P C B=\alpha$ ). Viegli pamanīt, ka $\alpha$ nevar būt $45^{\circ}$, jo tad attiecīgie stari no $A$ un $C$ ir paralēli (skat. A21.zīm.).
+Pieņemsim, ka šāds punkts $P$ tomēr eksistē arī taisnstūrim, kas nav kvadrāts
+($AD < AB$ un $\sphericalangle PAB=\sphericalangle PCB=\alpha$ ). Viegli
+pamanīt, ka $\alpha$ nevar būt $45^{\circ}$, jo tad attiecīgie stari no $A$ un
+$C$ ir paralēli (skat. A21.zīm.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-13.jpg?height=543&width=689&top_left_y=1025&top_left_x=706)
+![](LV.AMO.2014.10.5B.png)
 
-Pienemsim, ka $\alpha<45^{\circ}$.
+Pieņemsim, ka $\alpha < 45^{\circ}$.
 
-Atliksim uz malas $A B$ punktu $E$, bet uz malas $C D$ punktu $F$ tā, ka $B E F C$ - kvadrāts ( $B E=C F=B C)$.
+Atliksim uz malas $AB$ punktu $E$, bet uz malas $CD$ punktu $F$ tā, ka
+$BEFC$- kvadrāts ($BE=CF=BC$).
 
-Novilksim kvadrāta diagonāli $B F$. Tā krusto $C P$ punktā $Q$. Savienojot punktu $Q$ ar $E$, iegūstam
+Novilksim kvadrāta diagonāli $BF$. Tā krusto $CP$ punktā $Q$. Savienojot punktu
+$Q$ ar $E$, iegūstam
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-13.jpg?height=52&width=1603&top_left_y=1773&top_left_x=272)
-$\sphericalangle C B Q=\sphericalangle E B Q=45^{\circ}, B Q-$ kopīga). Tātad $\sphericalangle B E Q=\sphericalangle B C Q=\alpha$. Tā kā $\alpha<45^{\circ}$, tad punkti $P$ un $A$ atrodas taisnes $E Q$ pretējās pusēs - tātad $E Q$ krusto $A P$. Līdz ar to $A P$ un $E Q$ nevar būt paralēli un vienlaikus veidot leņķi $\alpha$ ar $A B$.
+divus vienādus trijstūrus $BCQ$ un $BEQ$ (pēc pazīmes " $m \ell m$ ", jo
+$BC=BE$, $\sphericalangle CBQ=\sphericalangle EBQ=45^{\circ}$, $BQ$- kopīga).
+Tātad $\sphericalangle BEQ=\sphericalangle BCQ=\alpha$. Tā kā
+$\alpha < 45^{\circ}$, tad punkti $P$ un $A$ atrodas taisnes $EQ$ pretējās
+pusēs- tātad $EQ$ krusto $AP$. Līdz ar to $AP$ un $EQ$ nevar būt paralēli un
+vienlaikus veidot leņķi $\alpha$ ar $AB$.
 
-Ja $\sphericalangle P A B=45^{\circ}$, tad par $\alpha$ izvēlas $\sphericalangle P A D=90^{\circ}-\sphericalangle P A B$ un $\sphericalangle P C D=90^{\circ}-\sphericalangle P C B$. Šajā gadījumā kvadrātu būvē uz malas $A D$ un pierādījums ir identisks iepriekšējam. Tātad gadījumā, ja taisnstūris nav kvadrāts, šāds punkts neeksistē. Līdz ar to $A B C D$ jābūt kvadrātam, kas arī bija jāpierāda.
+Ja $\sphericalangle PAB=45^{\circ}$, tad par $\alpha$ izvēlas
+$\sphericalangle PAD=90^{\circ}-\sphericalangle PAB$ un
+$\sphericalangle PCD=90^{\circ}-\sphericalangle PCB$. Šajā gadījumā kvadrātu
+būvē uz malas $AD$ un pierādījums ir identisks iepriekšējam. Tātad gadījumā, ja
+taisnstūris nav kvadrāts, šāds punkts neeksistē. Līdz ar to $ABCD$ jābūt
+kvadrātam, kas arī bija jāpierāda.
 
-Piezīme. Prasīto iespējams pierādīt arī tehniski ar proporciju palīdzību.
+*Piezīme.* Prasīto iespējams pierādīt arī tehniski ar proporciju palīdzību.
 
 
 
 # <lo-sample/> LV.AMO.2014.11.1
 
-Uz riņķka līnijas atlikti a) 6; b) 2014 punkti. Viens no tiem nokrāsots sarkans, bet pārē̄ie balti. Apskatām visus daudzstūrus, kuriem visas virsotnes ir kādi no nokrāsotajiem punktiem. Kādu daudzstūru ir vairāk - to, kam viena virsotne ir sarkana, vai to, kam visas virsotnes ir baltas?
+Uz riņķa līnijas atlikti **a)** $6$; **b)** $2014$ punkti. Viens no tiem
+nokrāsots sarkans, bet pārējie balti. Apskatām visus daudzstūrus, kuriem visas
+virsotnes ir kādi no nokrāsotajiem punktiem. Kādu daudzstūru ir vairāk- to, kam
+viena virsotne ir sarkana, vai to, kam visas virsotnes ir baltas?
 
 <small>
 
@@ -956,13 +1002,19 @@ Uz riņķka līnijas atlikti a) 6; b) 2014 punkti. Viens no tiem nokrāsots sark
 
 ## Atrisinājums
 
-Aplūkosim visus daudzstūrus, kam visas virsotnes ir baltas. Pievienojot katram no tiem sarkano virsotni, iegūsim daudzstūrus, kam viena virsotne ir sarkana, pie tam tie visi būs dažādi. Bez tam vēl ir trijstūri, kam viena virsotne ir sarkana un kurus nevar iegūt no daudzstūriem, kam visas virsotnes ir baltas. Tātad abos gadījumos daudzstūru ar sarkano virsotni ir vairāk.
+Aplūkosim visus daudzstūrus, kam visas virsotnes ir baltas. Pievienojot katram
+no tiem sarkano virsotni, iegūsim daudzstūrus, kam viena virsotne ir sarkana,
+pie tam tie visi būs dažādi. Bez tam vēl ir trijstūri, kam viena virsotne ir
+sarkana un kurus nevar iegūt no daudzstūriem, kam visas virsotnes ir baltas.
+Tātad abos gadījumos daudzstūru ar sarkano virsotni ir vairāk.
 
 
 
 # <lo-sample/> LV.AMO.2014.11.2
 
-Skaitļu virknei $\left(a_{i}\right)$ visiem $n>1$ ir spēkā sakarība $a_{1}+a_{2}+\ldots+a_{n}=n^{2} a_{n}$. Aprēķināt $a_{50}$, ja zināms, ka $a_{1}=1000$.
+Skaitļu virknei $\left(a_{i}\right)$ visiem $n > 1$ ir spēkā sakarība
+$a_{1}+a_{2}+\ldots+a_{n}=n^{2} a_{n}$. Aprēķināt $a_{50}$, ja zināms, ka
+$a_{1}=1000$.
 
 <small>
 
@@ -974,55 +1026,50 @@ Skaitļu virknei $\left(a_{i}\right)$ visiem $n>1$ ir spēkā sakarība $a_{1}+a
 
 ## Atrisinājums
 
-Apzīmējam $S_{n}=a_{1}+a_{2}+\ldots+a_{n}$. Tad $n^{2} a_{n}=S_{n},(n+1)^{2} a_{n+1}=S_{n+1}$ un
+Apzīmējam $S_{n}=a_{1}+a_{2}+\ldots+a_{n}$. Tad
+$n^{2a_{n}=S_{n},(n+1)^{2}a_{n+1}=S_{n+1}$ un
 
-$$
-\begin{gathered}
-S_{n+1}-S_{n}=a_{n+1}=(n+1)^{2} a_{n+1}-n^{2} a_{n} \Rightarrow a_{n+1}\left(n^{2}+2 n\right)=n^{2} a_{n} \Rightarrow \\
+$$\begin{gathered}
+S_{n+1}-S_{n}=a_{n+1}=(n+1)^{2}a_{n+1}-n^{2}a_{n} \Rightarrow a_{n+1}\left(n^{2}+2n\right)=n^{2}a_{n} \Rightarrow \\
 a_{n+1}=\frac{n}{n+2} \cdot a_{n}=\frac{n}{n+2} \cdot \frac{n-1}{n+1} a_{n-1}=\frac{n}{n+2} \cdot \frac{n-1}{n+1} \cdot \frac{n-2}{n} a_{n-2}=\ldots=\frac{1}{n+2} \cdot \frac{1}{n+1} \cdot 2 \cdot 1 \cdot a_{1}
-\end{gathered}
-$$
+\end{gathered}$$
 
-Esam ieguvuši, ka $a_{n}=\frac{2 a_{1}}{(n+1) n}$ un varam aprēķināt prasīto $a_{50}=\frac{2 \cdot 1000}{51 \cdot 50}=\frac{40}{51}$.
+Esam ieguvuši, ka $a_{n}=\frac{2 a_{1}}{(n+1) n}$ un varam aprēķināt prasīto
+$a_{50}=\frac{2 \cdot 1000}{51 \cdot 50}=\frac{40}{51}$.
 
 ## Atrisinājums
 
 Ievērojam, ka $a_{n}=\frac{a_{1}+a_{2}+\ldots+a_{n-1}}{n^{2}-1}$.
 
-Aprē̄kināsim dažu pirmo virknes elementu vērtības atkarībā no $a_{1}$ vērtības:
+Aprēķināsim dažu pirmo virknes elementu vērtības atkarībā no $a_{1}$ vērtības:
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & a_{2}=a_{1} \frac{1}{2^{2}-1} \\
 & a_{1}+a_{2}=a_{1}\left(1+\frac{1}{2^{2}-1}\right)=a_{3}\left(3^{2}-1\right) \\
 & a_{3}=a_{1}\left(1+\frac{1}{2^{2}-1}\right) \frac{1}{3^{2}-1} \\
 & a_{1}+a_{2}+a_{3}=a_{1}\left(1+\frac{1}{2^{2}-1}\right)\left(1+\frac{1}{3^{2}-1}\right)=a_{4}\left(4^{2}-1\right)
-\end{aligned}
-$$
+\end{aligned}$$
 
 Vispārīgā veidā (pierādījums ar matemātiskās indukcijas metodi):
 
-$$
-a_{n}\left(n^{2}-1\right)=a_{1}\left(1+\frac{1}{2^{2}-1}\right)\left(1+\frac{1}{3^{2}-1}\right) \cdots\left(1+\frac{1}{(n-1)^{2}-1}\right)=a_{1} \frac{2^{2} \cdot 3^{2} \cdot \ldots \cdot(n-1)^{2}}{\left(2^{2}-1\right)\left(3^{2}-1\right) \ldots\left((n-1)^{2}-1\right)}
-$$
+$$a_{n}\left(n^{2}-1\right)=a_{1}\left(1+\frac{1}{2^{2}-1}\right)\left(1+\frac{1}{3^{2}-1}\right) \cdots\left(1+\frac{1}{(n-1)^{2}-1}\right)=a_{1} \frac{2^{2} \cdot 3^{2} \cdot \ldots \cdot(n-1)^{2}}{\left(2^{2}-1\right)\left(3^{2}-1\right) \ldots\left((n-1)^{2}-1\right)}$$
 
 Izmantojot formulu $x^{2}-y^{2}=(x-y)(x+y)$, vienkāršojam iegūto vienādību:
 
-$$
-a_{n}=a_{1} \frac{2^{2} \cdot 3^{2} \cdot \ldots \cdot(n-1)^{2}}{(1 \cdot 2 \cdot \ldots \cdot(n-2) \cdot(n-1)) \cdot(3 \cdot 4 \cdot \ldots \cdot n \cdot(n+1))}=a_{1} \frac{2}{n(n+1)}
-$$
+$$a_{n}=a_{1} \frac{2^{2} \cdot 3^{2} \cdot \ldots \cdot(n-1)^{2}}{(1 \cdot 2 \cdot \ldots \cdot(n-2) \cdot(n-1)) \cdot(3 \cdot 4 \cdot \ldots \cdot n \cdot(n+1))}=a_{1} \frac{2}{n(n+1)}$$
 
 Ievietojot skaitliskās vērtības, aprēķinām prasīto:
 
-$$
-a_{50}=1000 \cdot \frac{2}{50 \cdot 51}=\frac{40}{51}
-$$
+$$a_{50}=1000 \cdot \frac{2}{50 \cdot 51}=\frac{40}{51}$$
 
 
 
 # <lo-sample/> LV.AMO.2014.11.3
 
-Ap šaurleñku trijstūri ABC apvilkta riņķa līnija. Loka AB (kuram nepieder punkts $C$ ) viduspunkts ir N, bet loka AC (kuram nepieder punkts B) viduspunkts ir M. Nogrieznis NM krusto malu AB punktā K. Trijstūrī ABC ievilktās ringka līnijas centrs ir punktā O. Pierādūt, ka $O K \| A C$ !
+Ap šaurleņķu trijstūri $ABC$ apvilkta riņķa līnija. Loka $AB$ (kuram nepieder
+punkts $C$ ) viduspunkts ir $N$, bet loka $AC$ (kuram nepieder punkts $B$)
+viduspunkts ir $M$. Nogrieznis $NM$ krusto malu $AB$ punktā $K$. Trijstūrī $ABC$
+ievilktās riņķa līnijas centrs ir punktā $O$. Pierādīt, ka $OK || AC$ !
 
 <small>
 
@@ -1034,15 +1081,26 @@ Ap šaurleñku trijstūri ABC apvilkta riņķa līnija. Loka AB (kuram nepieder 
 
 ## Atrisinājums
 
-Tā kā $N$ un $M$ ir attiecīgo loku viduspunkti, tad leņķi, kas balstās uz vienādiem lokiem, ir vienādi: $\sphericalangle A B M=\sphericalangle C B M=\sphericalangle C N M=\alpha, \quad \sphericalangle A C N=\sphericalangle B C N=\sphericalangle A B N=\sphericalangle N M B=\beta \quad$ (skat. A22.zīm.). Tātad $C N$ un $B M$ krustojas trijstūra $A B C$ bisektrišu krustpunktā. Ap četrstūri $B O K N$ var apvilkt riņķa līniju, jo $\sphericalangle O N K=\sphericalangle O B K=\alpha$ un abi leņķi balstās uz loka $O K$. Tātad $\sphericalangle K O N=\sphericalangle N B K=\beta$ un nogriežņi $O K$ un $A C$ veido vienādus leņķus ar nogriezni $C N$. Tā kā tie ir kāpšļu leņķi, tad nogriežņi $O K$ un $A C$ ir paralēli, kas arī bija jāpierāda.
+Tā kā $N$ un $M$ ir attiecīgo loku viduspunkti, tad leņķi, kas balstās uz
+vienādiem lokiem, ir vienādi:
+$\sphericalangle ABM=\sphericalangle CBM=\sphericalangle CNM=\alpha, \quad \sphericalangle ACN=\sphericalangle BCN=\sphericalangle ABN=\sphericalangle NMB=\beta \quad$
+(skat. A22.zīm.). Tātad $CN$ un $BM$ krustojas trijstūra $ABC$ bisektrišu
+krustpunktā. Ap četrstūri $BOKN$ var apvilkt riņķa līniju, jo
+$\sphericalangle ONK=\sphericalangle OBK=\alpha$ un abi leņķi balstās uz loka
+$OK$. Tātad $\sphericalangle KON=\sphericalangle NBK=\beta$ un nogriežņi $OK$
+un $AC$ veido vienādus leņķus ar nogriezni $CN$. Tā kā tie ir kāpšļu leņķi, tad
+nogriežņi $OK$ un $AC$ ir paralēli, kas arī bija jāpierāda.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-15.jpg?height=749&width=689&top_left_y=225&top_left_x=678)
+![](LV.AMO.2014.11.3A.png)
 
 
 
 # <lo-sample/> LV.AMO.2014.11.4
 
-Doti 99 naturāli skaitļi. Zināms, ka nav tāda skaitļa, ar ko dal̄̄tos visi šie skaitļi, un ka jebkuru 50 skaitJu reizinājums dalās ar atlikušo 49 skaitlu reizinājumu. Pierādīt, ka visu 99 skaitlu reizinājums ir naturāla skaiţa kvadrāts!
+Doti $99$ naturāli skaitļi. Zināms, ka nav tāda skaitļa, ar ko dalītos visi
+šie skaitļi, un ka jebkuru $50$ skaitļu reizinājums dalās ar atlikušo $49$
+skaitļu reizinājumu. Pierādīt, ka visu $99$ skaitļu reizinājums ir naturāla
+skaitļa kvadrāts!
 
 <small>
 
@@ -1054,13 +1112,22 @@ Doti 99 naturāli skaitļi. Zināms, ka nav tāda skaitļa, ar ko dal̄̄tos vis
 
 ## Atrisinājums
 
-Izvēlamies patvalīgu pirmskaitli $p$, ar kuru dalās visu doto skaitļu reizinājums. No dotā seko, ka visi skaitļi ir savstarpēji pirmskaitļi. Tāpēc atradīsies tāds skaitlis $c$, kas nav $p$ daudzkārtnis. Sadalām atlikušos skaitļus divās grupās katrā pa 49 skaitļiem, grupu skaitļu reizinājumus apzīmējam ar $a$ un $b$. No uzdevuma nosacījumiem seko, ka $a c \vdots b$ un $b c \vdots a$. Tas nozīmē, ka reizinājumi $a$ un $b$ satur skaitli $p$ vienā un tajā pašā pakāpē, jo skaitlis $c$ nesatur reizinātāju $p$. Tātad visu skaitļu reizinājumā, kas ir vienāds ar $a b c$, pirmskaitlim $p$ ir pāra pakāpe. Tā kā iegūtais secinājums ir spēkā visiem pirmskaitļiem $p$, tad esam pierādījuši, ka visu doto 99 skaitļu reizinājums ir naturāla skaitļa kvadrāās.
+Izvēlamies patvaļīgu pirmskaitli $p$, ar kuru dalās visu doto skaitļu
+reizinājums. No dotā seko, ka visi skaitļi ir savstarpēji pirmskaitļi. Tāpēc
+atradīsies tāds skaitlis $c$, kas nav $p$ daudzkārtnis. Sadalām atlikušos
+skaitļus divās grupās katrā pa $49$ skaitļiem, grupu skaitļu reizinājumus
+apzīmējam ar $a$ un $b$. No uzdevuma nosacījumiem seko, ka $ac \vdots b$ un
+$bc \vdots a$. Tas nozīmē, ka reizinājumi $a$ un $b$ satur skaitli $p$ vienā un
+tajā pašā pakāpē, jo skaitlis $c$ nesatur reizinātāju $p$. Tātad visu skaitļu
+reizinājumā, kas ir vienāds ar $abc$, pirmskaitlim $p$ ir pāra pakāpe. Tā kā
+iegūtais secinājums ir spēkā visiem pirmskaitļiem $p$, tad esam pierādījuši, ka
+visu doto $99$ skaitļu reizinājums ir naturāla skaitļa kvadrāts.
 
 
 
 # <lo-sample/> LV.AMO.2014.11.5
 
-Pierādīt, ka izliektu 2014-stūri nevar sadalīt 167 izliektos 14-stūros!
+Pierādīt, ka izliektu $2014$-stūri nevar sadalīt $167$ izliektos $14$-stūros!
 
 <small>
 
@@ -1072,7 +1139,10 @@ Pierādīt, ka izliektu 2014-stūri nevar sadalīt 167 izliektos 14-stūros!
 
 ## Atrisinājums
 
-Izliekta 2014-stūra iekšējo leņķu summa ir $2012 \cdot 180^{\circ}$. Tos ir jānoklāj ar 167 14-stūru leņķiem, kuru kopējais lielums ir $167 \cdot 12 \cdot 180^{\circ}=2004 \cdot 180^{\circ}<2012 \cdot 180^{\circ}$. Tātad prasīto izdarīt nav iespējams.
+Izliekta $2014$-stūra iekšējo leņķu summa ir $2012 \cdot 180^{\circ}$. Tos ir
+jānoklāj ar $167$ $14$-stūru leņķiem, kuru kopējais lielums ir
+$167 \cdot 12 \cdot 180^{\circ}=2004 \cdot 180^{\circ} < 2012 \cdot 180^{\circ}$.
+Tātad prasīto izdarīt nav iespējams.
 
 
 
@@ -1090,19 +1160,30 @@ Atrisināt nevienādību $9^{x}-2 \cdot 3^{x}-3 \leq 0$.
 
 ## Atrisinājums
 
-Pārveidojam nevienādību formā $3^{2 x}-2 \cdot 3^{x}-3 \leq 0$ un, apzīmējot $3^{x}=t$, iegūstam kvadrātnevienādību $t^{2}-2 t-3 \leq 0$. Kvadrāttrinoma saknes ir $t_{1}=3$ un $t_{2}=-1$. Atrisinām iegūto kvadrātnevienād̄̄bu (skat. A23.zīm.).
+Pārveidojam nevienādību formā $3^{2 x}-2 \cdot 3^{x}-3 \leq 0$ un, apzīmējot
+$3^{x}=t$, iegūstam kvadrātnevienādību $t^{2}-2t-3 \leq 0$. Kvadrāttrinoma
+saknes ir $t_{1}=3$ un $t_{2}=-1$. Atrisinām iegūto kvadrātnevienādību
+(skat. A23.zīm.).
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-15.jpg?height=258&width=602&top_left_y=2170&top_left_x=730)
+![](LV.AMO.2014.12.1A.png)
 
-Līdz ar to esam ieguvuši, ka $\left\{\begin{array}{l}t \geq-1 \\ t \leq 3\end{array}\right.$ jeb $\left\{\begin{array}{l}3^{x} \geq-1 \\ 3^{x} \leq 3\end{array}\right.$.
+Līdz ar to esam ieguvuši, ka
+$\left\{\begin{array}{l}t \geq-1 \\ t \leq 3\end{array}\right.$ jeb
+$\left\{\begin{array}{l}3^{x} \geq-1 \\ 3^{x} \leq 3\end{array}\right.$.
 
-Sistēmas pirmā nevienādība ir patiesa visiem reāliem skaitļiem $x$, tāpēc sistēmas un līdz ar to arī dotās nevienādības atrisinājums ir $3^{x} \leq 3^{1}$ jeb $x \leq 1$.
+Sistēmas pirmā nevienādība ir patiesa visiem reāliem skaitļiem $x$, tāpēc
+sistēmas un līdz ar to arī dotās nevienādības atrisinājums ir
+$3^{x} \leq 3^{1}$ jeb $x \leq 1$.
 
 
 
 # <lo-sample/> LV.AMO.2014.12.2
 
-Caur trijstūra ABC malas $A B$ iekšēju punktu $P$ novilkta taisne, kas ir paralēla BC un krusto $\triangle A B C$ apvilkto riņķa līiju punktos $M$ un $N$ (M atrodas uz īsākā loka $A B$, bet $N-$ uz issākā loka AC). MC krusto AB punktā Q. Pierādīt, ka NQ iet caur trijstūriem AMQ un APN apvilkto riņķka līiju krustpunktu!
+Caur trijstūra $ABC$ malas $AB$ iekšēju punktu $P$ novilkta taisne, kas ir
+paralēla $BC$ un krusto $\triangle ABC$ apvilkto riņķa līiju punktos $M$ un
+$N$ ($M$ atrodas uz īsākā loka $AB$, bet $N$- uz īsākā loka $AC$). $MC$ krusto
+$AB$ punktā $Q$. Pierādīt, ka $NQ$ iet caur trijstūriem $AMQ$ un $APN$
+apvilkto riņķka līiju krustpunktu!
 
 <small>
 
@@ -1114,13 +1195,20 @@ Caur trijstūra ABC malas $A B$ iekšēju punktu $P$ novilkta taisne, kas ir par
 
 ## Atrisinājums
 
-Apzīmēsim $\triangle A M Q$ un $\triangle A P N$ apvilkto riņķa līniju krustošanās punktu ar $X$ (skat. A24.zīm.). Lai pierādītu, ka $X$ atrodas uz nogriežņa $Q N$, pietiek parādīt, ka $\sphericalangle A X Q+\sphericalangle A X N=180^{\circ}$.
+Apzīmēsim $\triangle AMQ$ un $\triangle APN$ apvilkto riņķa līniju krustošanās
+punktu ar $X$ (skat. A24.zīm.). Lai pierādītu, ka $X$ atrodas uz nogriežņa
+$QN$, pietiek parādīt, ka $\sphericalangle AXQ+\sphericalangle AXN=180^{\circ}$.
 
-$\sphericalangle A P N=\sphericalangle A B C$, jo $M N|| B C$. Savukārt $\sphericalangle A X N=\sphericalangle A P N$ kā ievilktie leņķi, kas balstās uz vienu loku. Kā ievilktie leņķi ir vienādi arī $\sphericalangle A M C=\sphericalangle A B C$. Bet tā kā $A, M, Q, X$ atrodas uz riņka līnijas, tad $\sphericalangle A X Q=180^{\circ}-\sphericalangle A M C$. Ieguvām, ka $\sphericalangle A X N=\sphericalangle A B C$ un $\sphericalangle A X Q=180^{\circ}-\sphericalangle A B C$. To summa ir vienāda ar $180^{\circ}$, kas arī bija jāpierāda.
+$\sphericalangle APN=\sphericalangle ABC$, jo $MN || BC$. Savukārt
+$\sphericalangle AXN=\sphericalangle APN$ kā ievilktie leņķi, kas balstās uz
+vienu loku. Kā ievilktie leņķi ir vienādi arī
+$\sphericalangle AMC=\sphericalangle ABC$. Bet tā kā $A, M, Q, X$ atrodas uz
+riņka līnijas, tad $\sphericalangle AXQ=180^{\circ}-\sphericalangle AMC$.
+Ieguvām, ka $\sphericalangle AXN=\sphericalangle ABC$ un
+$\sphericalangle AXQ=180^{\circ}-\sphericalangle ABC$. To summa ir vienāda ar
+$180^{\circ}$, kas arī bija jāpierāda.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-16.jpg?height=983&width=1014&top_left_y=959&top_left_x=521)
-
-A24.zīm.
+![](LV.AMO.2014.12.2A.png)
 
 
 
@@ -1140,17 +1228,31 @@ Atrast visus pirmskaiţuus $p$, kuriem $p^{4}-6$ arī ir pirmskaitlis!
 
 Apskatām dažas $p$ vērtības:
 
-- ja $p=2$, tad $p^{4}-6=16-6=10$ - nav pirmskaitlis;
-- ja $p=3$, tad $p^{4}-6=81-6=75$ - nav pirmskaitlis;
-- ja $p=5$, tad $p^{4}-6=625-6=619$ - pirmskaitlis.
+- ja $p=2$, tad $p^{4}-6=16-6=10$- nav pirmskaitlis;
+- ja $p=3$, tad $p^{4}-6=81-6=75$- nav pirmskaitlis;
+- ja $p=5$, tad $p^{4}-6=625-6=619$- pirmskaitlis.
 
-Ja $p>5$, tad tas ir uzrakstāms formā $p=5 k+a$, kur $k$ - naturāls skaitlis un $a \in\{1 ; 2 ; 3 ; 4\}$. Apskatām iespējamos gadījumus atkarībā no $a$ vērtības:
+Ja $p > 5$, tad tas ir uzrakstāms formā $p=5k+a$, kur $k$- naturāls skaitlis un
+$a \in\{1 ; 2 ; 3 ; 4\}$. Apskatām iespējamos gadījumus atkarībā no $a$
+vērtības:
 
-- ja $p=5 k+1$, tad $p^{4}-6=(5 k+1)^{4}-6=(5 k)^{4}+4 \cdot(5 k)^{3}+6 \cdot(5 k)^{2}+4 \cdot 5 k+1-6=$
-$=(5 k)^{4}+4 \cdot(5 k)^{3}+6 \cdot(5 k)^{2}+4 \cdot 5 k-5$. Tā kā katrs no saskaitāmajiem dalās ar 5, tad skaitlis $p^{4}-6$ dalās ar 5 un tas nav pirmskaitlis;
-- ja $p=5 k+2, \operatorname{tad}(5 k+2)^{4}-6=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 2+6 \cdot(5 k)^{2} \cdot 2^{2}+4 \cdot 5 k \cdot 2^{3}+2^{4}-6=$ $=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 2+6 \cdot(5 k)^{2} \cdot 2^{2}+4 \cdot 5 k \cdot 2^{3}+10$. Tā kā katrs no saskaitāmajiem dalās ar 5 , tad skaitlis $p^{4}-6$ dalās ar 5 un tas nav pirmskaitlis;
-- ja $p=5 k+3$, tad $(5 k+3)^{4}-6=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 3+6 \cdot(5 k)^{2} \cdot 3^{2}+4 \cdot 5 k \cdot 3^{3}+3^{4}-6=$ $=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 3+6 \cdot(5 k)^{2} \cdot 3^{2}+4 \cdot 5 k \cdot 3^{3}+75$. Tā kā katrs no saskaitāmajiem dalās ar 5, tad skaitlis $p^{4}-6$ dalās ar 5 un tas nav pirmskaitlis;
-- ja $p=5 k+4, \operatorname{tad}(5 k+4)^{4}-6=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 4+6 \cdot(5 k)^{2} \cdot 4^{2}+4 \cdot 5 k \cdot 4^{3}+4^{4}-6=$ $=(5 k)^{4}+4 \cdot(5 k)^{3} \cdot 4+6 \cdot(5 k)^{2} \cdot 4^{2}+4 \cdot 5 k \cdot 4^{3}+250$. Tā kā katrs no saskaitāmajiem dalās ar 5 , tad skaitlis $p^{4}-6$ dalās ar 5 un tas nav pirmskaitlis
+- ja $p=5k+1$, tad
+  $p^{4}-6=(5k+1)^{4}-6=(5k)^{4}+4 \cdot(5k)^{3}+6 \cdot(5k)^{2}+4 \cdot 5k+1-6=$
+  $=(5k)^{4}+4 \cdot(5k)^{3}+6 \cdot(5k)^{2}+4 \cdot 5k-5$. Tā kā katrs no
+  saskaitāmajiem dalās ar $5$, tad skaitlis $p^{4}-6$ dalās ar $5$ un tas nav
+  pirmskaitlis;
+- ja $p=5k+2$, tad
+  $(5k+2)^{4}-6=(5k)^{4}+4 \cdot(5k)^{3} \cdot 2+6 \cdot(5k)^{2} \cdot 2^{2}+4 \cdot 5k \cdot 2^{3}+2^{4}-6=(5k)^{4}+4 \cdot(5k)^{3} \cdot 2+6 \cdot(5k)^{2} \cdot 2^{2}+4 \cdot 5k \cdot 2^{3}+10$.
+  Tā kā katrs no saskaitāmajiem dalās ar $5$, tad skaitlis $p^{4}-6$ dalās ar
+  $5$ un tas nav pirmskaitlis;
+- ja $p=5k+3$, tad
+  $(5k+3)^{4}-6=(5k)^{4}+4 \cdot(5k)^{3} \cdot 3+6 \cdot(5k)^{2} \cdot 3^{2}+4 \cdot 5k \cdot 3^{3}+3^{4}-6=(5k)^{4}+4 \cdot(5k)^{3} \cdot 3+6 \cdot(5k)^{2} \cdot 3^{2}+4 \cdot 5k \cdot 3^{3}+75$.
+  Tā kā katrs no saskaitāmajiem dalās ar $5$, tad skaitlis $p^{4}-6$ dalās ar
+  $5$ un tas nav pirmskaitlis;
+- ja $p=5k+4$, tad
+  $(5k+4)^{4}-6=(5k)^{4}+4 \cdot(5k)^{3} \cdot 4+6 \cdot(5k)^{2} \cdot 4^{2}+4 \cdot 5k \cdot 4^{3}+4^{4}-6=$ $=(5k)^{4}+4 \cdot(5k)^{3} \cdot 4+6 \cdot(5k)^{2} \cdot 4^{2}+4 \cdot 5k \cdot 4^{3}+250$.
+  Tā kā katrs no saskaitāmajiem dalās ar $5$, tad skaitlis $p^{4}-6$ dalās ar
+  $5$ un tas nav pirmskaitlis
 
 Esam ieguvuši, ka uzdevuma nosacījumus apmierina tikai viena $p$ vērtība $p=5$.
 
@@ -1158,11 +1260,11 @@ Esam ieguvuši, ka uzdevuma nosacījumus apmierina tikai viena $p$ vērtība $p=
 
 # <lo-sample/> LV.AMO.2014.12.4
 
-Vai kvadrātu ar malas garumu 10 var noklāt ar 25 „krustiniem” (skat. 12.zīm.), kuri sastāv no 5 kvadrātiem ar malas garumu 1? „Krustini” drīkst pārklāties, kā arī iziet ārpus dotā kvadrāta malām.
+Vai kvadrātu ar malas garumu $10$ var noklāt ar $25$ „krustiņiem”
+(skat. 12.zīm.), kuri sastāv no $5$ kvadrātiem ar malas garumu $1$? „Krustiņi”
+drīkst pārklāties, kā arī iziet ārpus dotā kvadrāta malām.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-17.jpg?height=175&width=181&top_left_y=1215&top_left_x=935)
-
-12.zīm.
+![](LV.AMO.2014.12.4.png)
 
 <small>
 
@@ -1174,25 +1276,26 @@ Vai kvadrātu ar malas garumu 10 var noklāt ar 25 „krustiniem” (skat. 12.z�
 
 ## Atrisinājums
 
-Ievērojam, ka mazā sarkanā trijstūra (skat. A25.zīm.) katešu garumi attiecas kā 1:2 un tie attiecīgi ir $\frac{1}{\sqrt{5}}$ un $\frac{2}{\sqrt{5}}$. Kvadrāta malas garums ir vienāds ar $4 \sqrt{5}+\frac{3}{\sqrt{5}}=\frac{23}{\sqrt{5}}>10$. Tātad kvadrātu ar malas garumu 10 rūtiņas var pārklāt ar 25 dotajām figūrām.
+Ievērojam, ka mazā sarkanā trijstūra (skat. A25.zīm.) katešu garumi attiecas kā
+$1:2$ un tie attiecīgi ir $\frac{1}{\sqrt{5}}$ un $\frac{2}{\sqrt{5}}$.
+Kvadrāta malas garums ir vienāds ar
+$4 \sqrt{5}+\frac{3}{\sqrt{5}}=\frac{23}{\sqrt{5}} > 10$. Tātad kvadrātu ar
+malas garumu $10$ rūtiņas var pārklāt ar $25$ dotajām figūrām.
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_1866a3897b2ffaa7d70bg-18.jpg?height=1063&width=1040&top_left_y=228&top_left_x=522)
+![](LV.AMO.2014.12.4A.png)
 
 
 
 # <lo-sample/> LV.AMO.2014.12.5
 
-Funkcija $f: R \rightarrow R$ definēta visiem reāliem skaitliem un pieñem reālas vērtūbas. Visiem reāliem skaitliem a un b izpildās
+Funkcija $f:R \rightarrow R$ definēta visiem reāliem skaitļiem un pieņem reālas
+vērtūbas. Visiem reāliem skaitļiem $a$ un $b$ izpildās
 
-$$
-2 f(a) \leq f(b)+f(2 a-b)
-$$
+$$2f(a) \leq f(b)+f(2a-b)$$
 
 Vai tiesa, ka visiem reāliem $a, b$ un c izpildās
 
-$$
-3 f(a) \leq f(b)+f(c)+f(3 a-b-c) ?
-$$
+$$3f(a) \leq f(b)+f(c)+f(3a-b-c)$$?
 
 <small>
 
@@ -1204,21 +1307,20 @@ $$
 
 ## Atrisinājums
 
-Dotajā nevienādībā ņemam $a=\frac{x_{1}+x_{2}+x_{3}+x_{4}}{4}$ un $b=\frac{x_{1}+x_{2}}{2}$. Tad
+Dotajā nevienādībā ņemam $a=\frac{x_{1}+x_{2}+x_{3}+x_{4}}{4}$ un
+$b=\frac{x_{1}+x_{2}}{2}$. Tad
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 & 2 f\left(\frac{x_{1}+x_{2}+x_{3}+x_{4}}{4}\right) \leq f\left(\frac{x_{1}+x_{2}}{2}\right)+f\left(\frac{x_{3}+x_{4}}{2}\right) \Rightarrow \\
 & 4 f\left(\frac{x_{1}+x_{2}+x_{3}+x_{4}}{4}\right) \leq f\left(x_{1}\right)+f\left(x_{2}\right)+f\left(x_{3}\right)+f\left(x_{4}\right)
-\end{aligned}
-$$
+\end{aligned}$$
 
-Tagad pēdējā nevienādībā $x_{4}$ vietā ievietojot pirmo trīs skaitļu aritmētisko vidējo, t. i., $x_{4}=A_{3}=\frac{x_{1}+x_{2}+x_{3}}{3}$, iegūstam vajadzīgo nevienādību:
+Tagad pēdējā nevienādībā $x_{4}$ vietā ievietojot pirmo trīs skaitļu
+aritmētisko vidējo, t. i., $x_{4}=A_{3}=\frac{x_{1}+x_{2}+x_{3}}{3}$, iegūstam
+vajadzīgo nevienādību:
 
-$$
-\begin{aligned}
-& 4 f\left(\frac{3 A_{3}+A_{3}}{4}\right)=4 f\left(A_{3}\right) \leq f\left(x_{1}\right)+f\left(x_{2}\right)+f\left(x_{3}\right)+f\left(A_{3}\right) \Rightarrow \\
+$$\begin{aligned}
+& 4 f\left(\frac{3A_{3}+A_{3}}{4}\right)=4 f\left(A_{3}\right) \leq f\left(x_{1}\right)+f\left(x_{2}\right)+f\left(x_{3}\right)+f\left(A_{3}\right) \Rightarrow \\
 & 3 f\left(A_{3}\right) \leq f\left(x_{1}\right)+f\left(x_{2}\right)+f\left(x_{3}\right) .
-\end{aligned}
-$$
+\end{aligned}$$
 
