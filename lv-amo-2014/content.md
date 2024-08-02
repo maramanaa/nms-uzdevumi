@@ -245,7 +245,7 @@ Aprēķināt iekšējā taisnstūra perimetru!
 
 Katru izcelto nogriezni vēlreiz uzzīmējam uz katram nogrieznim pretējās kvadrāta
 malas (skat. A3.zīm.). Tad visu astoņu izcelto nogriežņu kopējais garums būs
-$2 \cdot 2=4 \mathrm{~m}$. Neizcelto nogriežņu kopējais garums ir
+$2 \cdot 2=4~ \mathrm{m}$. Neizcelto nogriežņu kopējais garums ir
 $4 \cdot 4-4=12$ $(m)$. Šo neizcelto nogriežņu garums sakrīt ar iekšējā
 taisnstūra malu garumiem. Tātad iekšējā taisnstūra perimetrs ir $12~ \mathrm{m}$.
 
