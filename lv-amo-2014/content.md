@@ -1179,7 +1179,7 @@ $3^{x} \leq 3^{1}$ jeb $x \leq 1$.
 # <lo-sample/> LV.AMO.2014.12.2
 
 Caur trijstūra $ABC$ malas $AB$ iekšēju punktu $P$ novilkta taisne, kas ir
-paralēla $BC$ un krusto $\triangle ABC$ apvilkto riņķa līiju punktos $M$ un
+paralēla $BC$ un krusto $\triangle ABC$ apvilkto riņķa līniju punktos $M$ un
 $N$ ($M$ atrodas uz īsākā loka $AB$, bet $N$- uz īsākā loka $AC$). $MC$ krusto
 $AB$ punktā $Q$. Pierādīt, ka $NQ$ iet caur trijstūriem $AMQ$ un $APN$
 apvilkto riņķka līiju krustpunktu!
