@@ -378,7 +378,7 @@ atrodas uz vienas taisnes?
 ## Atrisinājums
 
 **a)** Ja $11$-stūra $8$ virsotnes atrodas uz vienas taisnes, tad $3$ virsotnes
-uz tās neatrodas. Apzīmēsim tās ar $A$, $B4 un $C$. Tad no pārējām $8$
+uz tās neatrodas. Apzīmēsim tās ar $A$, $B$ un $C$. Tad no pārējām $8$
 virsotnēm daļa atrodas starp $A$ un $B$, daļa starp $B$ un $C$ un daļa- starp
 $C$ un $A$. Pēc Dirihlē principa kādā no šīm daļām ir vismaz $3$ virsotnes un
 tās visas atrodas uz vienas taisnes- pretruna.
@@ -665,7 +665,7 @@ naturālos skaitļos ir divi atrisinājumi:
 
 Zināms, ka $a_{1}, a_{2}, \ldots, a_{2013}$ ir tādi naturāli skaitļi, ka
 $a_{1} > \sqrt{a_{2}}, a_{2} > \sqrt{a_{3}}, \ldots$, $a_{2012} > \sqrt{a_{2013}}$ un $a_{2013} > \sqrt{a_{1}}$.
-Aprēķināt mazāko iespējamo summas $a_{1}+a_{2}+\ldots+a_{2013}$ vèrtību.
+Aprēķināt mazāko iespējamo summas $a_{1}+a_{2}+\ldots+a_{2013}$ vērtību.
 
 <small>
 
@@ -811,7 +811,7 @@ un kurai nav vienāda garuma šķautņu?
 
 Apzīmēsim piramīdas šķautņu garumus kā parādīts 3.zīm.
 
-Pienemsim, ka $a, b, c, d, e, f$ ir dažādi skaitļi. Tā kā visu skaldņu
+Pieņemsim, ka $a, b, c, d, e, f$ ir dažādi skaitļi. Tā kā visu skaldņu
 perimetri ir vienādi, tad
 
 $\left\{\begin{array}{l}a+b=d+f \\ a+c=e+f \\ b+c=d+e\end{array}\right.$
