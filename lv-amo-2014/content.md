@@ -382,7 +382,7 @@ Pārbaudīsim, kuri no dotajiem apgalvojumiem var būt patiesi:
 
 **a)** No Elīnas apgalvojuma $7s > 8n$ seko, ka patiess ir arī apgalvojums
        $18 \cdot 7s > 18 \cdot 8n$ jeb $126s > 144n > 140n$. No $126s > 140n$
-	   seko, ka $18s > 20n$ ir patiess. Tātad apgalvojums „$18$ skrūves ir
+	   seko, ka $18s > 20n$ ir patiess. Tātad apgalvojums „ $18$ skrūves ir
 	   smagākas nekā $20$ naglas” ir patiess.
 
 **b)** Tā kā Leldes apgalvojums $6s > 7n$ nav patiess, tad apgalvojums
@@ -390,7 +390,7 @@ Pārbaudīsim, kuri no dotajiem apgalvojumiem var būt patiesi:
 
 **c)** Ja $18s > 22n$ būtu patiess, tad arī $18s > 21n$ būtu patiess. Jau
        b) gadījumā pierādījām, ka otrais apgalvojums nav patiess. Tātad arī
-	   apgalvojums $18s$ > 22n$ ($18$ skrūves ir smagākas nekā $22$ naglas) nav
+	   apgalvojums $18s > 22n$ ($18$ skrūves ir smagākas nekā $22$ naglas) nav
 	   patiess.
 
 
@@ -400,7 +400,7 @@ Pārbaudīsim, kuri no dotajiem apgalvojumiem var būt patiesi:
 Tabulas $3 \times 3$ rūtiņās katrā rūtiņā jāieraksta pa vienam naturālam
 skaitlim tā, lai katrā rindā, katrā kolonnā un katrā diagonālē ierakstīto
 skaitļu summas būtu vienādas. Ir zināmi divās rūtiņās ierakstītie skaitļi
-(skat. 5.zīm.). Kādam skaitlim jābūt rūtiņā, kas apzūmēta ar jautājuma zīmi?
+(skat. 5.zīm.). Kādam skaitlim jābūt rūtiņā, kas apzīmēta ar jautājuma zīmi?
 Atrodiet visas iespējamās vērtības un pamatojiet, ka citu nav!
 
 ![](LV.AMO.2014.7.4.png)
@@ -444,7 +444,7 @@ līnijām.)
 ## Atrisinājums
 
 Sadalām kvadrātu $6 \times 6$ četros kvadrātos $3 \times 3$ (skat. A8.zīm.) un
-ievērojam, ka katrā šādā kvadrāāā jāizgriež vismaz divas rūtiņas. Tātad kopā
+ievērojam, ka katrā šādā kvadrātā jāizgriež vismaz divas rūtiņas. Tātad kopā
 jāizgriež vismaz $8$ rūtiņas. Tas, ka ar $8$ rūtiņām pietiek, redzams no
 A9. zīmējuma.
 
@@ -555,7 +555,7 @@ Līdz ar to esam pierādījuši prasīto.
 # <lo-sample/> LV.AMO.2014.8.4
 
 Rūtiņu lapā rūtiņu virsotnēs atzīmēti punkti $A, B, C, D, E$ un novilkti
-nogriežņi $AB, BC, CD$ un DE$ (skat. 8.zīm.). Kurš no leņķiem
+nogriežņi $AB, BC, CD$ un $DE$ (skat. 8.zīm.). Kurš no leņķiem
 $\sphericalangle ABC$ un $\sphericalangle CDE$ ir lielāks?
 
 ![](LV.AMO.2014.8.4.png)
@@ -730,8 +730,8 @@ $\sphericalangle BAC=\sphericalangle BAM=60^{\circ}$.
 
 Tabulas $3 \times 3$ rūtiņās katrā rūtiņā jāieraksta pa vienam naturālam
 skaitlim tā, lai katrā rindā, katrā kolonnā un katrā diagonālē ierakstīto
-skaitļu summas būtu vienādas, bet visi tabulā ierakstūtie skaitļi ir savā starpā
-atšķirīgi. Ir zināmi divās rūtiņās ierakstūtie skaitļi (skat. 11.zīm.). Kāds ir
+skaitļu summas būtu vienādas, bet visi tabulā ierakstītie skaitļi ir savā starpā
+atšķirīgi. Ir zināmi divās rūtiņās ierakstītie skaitļi (skat. 11.zīm.). Kāds ir
 mazākais skaitlis, kas var būt ierakstīts tabulas centrālajā rūtiņā?
 
 ![](LV.AMO.2014.9.4.png)
@@ -934,7 +934,7 @@ $\sphericalangle PAB=\sphericalangle PCB$. Pierādīt, ka $ABCD$ ir kvadrāts!
 
 ## Atrisinājums
 
-Pieñemsim pretējo, ka $ABCD$ nav kvadrāts. Attēlosim punktu $C$ simetriski pret
+Pieņemsim pretējo, ka $ABCD$ nav kvadrāts. Attēlosim punktu $C$ simetriski pret
 taisni $BD$ punktā $C^{\prime}$ (skat. A20.zīm.). No pieņēmuma seko, ka $A$
 nesakrīt ar $C^{\prime}$. Ievērojam, ka $\sphericalangle BAD=90^{\circ}$ un
 simetrijas dēļ $\sphericalangle BC^{\prime} D=\sphericalangle BCD=90^{\circ}$.
@@ -966,7 +966,6 @@ $BEFC$- kvadrāts ($BE=CF=BC$).
 
 Novilksim kvadrāta diagonāli $BF$. Tā krusto $CP$ punktā $Q$. Savienojot punktu
 $Q$ ar $E$, iegūstam
-
 divus vienādus trijstūrus $BCQ$ un $BEQ$ (pēc pazīmes " $m \ell m$ ", jo
 $BC=BE$, $\sphericalangle CBQ=\sphericalangle EBQ=45^{\circ}$, $BQ$- kopīga).
 Tātad $\sphericalangle BEQ=\sphericalangle BCQ=\alpha$. Tā kā
@@ -1027,7 +1026,7 @@ $a_{1}=1000$.
 ## Atrisinājums
 
 Apzīmējam $S_{n}=a_{1}+a_{2}+\ldots+a_{n}$. Tad
-$n^{2a_{n}=S_{n},(n+1)^{2}a_{n+1}=S_{n+1}$ un
+$n^{2a_{n}=S_{n}$, $(n+1)^{2}a_{n+1}=S_{n+1}$ un
 
 $$\begin{gathered}
 S_{n+1}-S_{n}=a_{n+1}=(n+1)^{2}a_{n+1}-n^{2}a_{n} \Rightarrow a_{n+1}\left(n^{2}+2n\right)=n^{2}a_{n} \Rightarrow \\
