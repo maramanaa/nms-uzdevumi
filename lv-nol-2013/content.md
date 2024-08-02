@@ -179,6 +179,7 @@ pāra skaitli $0$.
 # <lo-sample/> LV.NOL.2013.6.3
 
 Vai plaknē var uzzīmēt
+
 **a)** $12$-stūri,
 
 **b)** $13$-stūri
@@ -208,7 +209,7 @@ un riņķa līniju, kas krusto uzzīmētā daudzstūra katru malu tieši vienā 
 	   virsotnei $A_{5}$- riņķa iekšpusē, virsotnei $A_{6}$- riņķa ārpusē,
 	   virsotnei $A_{7}$- riņķa iekšpusē, virsotnei $A_{8}$- riņķa ārpusē,
 	   virsotnei $A_{9}$- riņķa iekšpusē, virsotnei $A_{10}$- riņķa ārpusē,
-	   virsotnei $A_{11}- riņķa iekšpusē, virsotnei $A_{12}$- riņķa ārpusē,
+	   virsotnei $A_{11}$- riņķa iekšpusē, virsotnei $A_{12}$- riņķa ārpusē,
 	   virsotnei $A_{13}$- riņķa iekšpusē. Bet tādā gadījumā $13$-stūra malu
 	   $A_{1}A_{13}$ riņķa līnija nekrusto.
 
@@ -228,8 +229,8 @@ dalās ar $n$;
 $\overline{bcde}, \overline{bcde}$ dalās ar $\overline{cde}, \overline{cde}$
 dalās ar $\overline{de}$ un $\overline{de}$ dalās ar $e$.
 
-(*Pieraksts $\overline{xyzt}$ nozīmē, ka četrciparu skaitlī ir $x$ tūkstoši, 
-$y$ simti, $z$ desmiti un $t$ vieni.*)
+(*Pieraksts* $\overline{xyzt}$ *nozīmē, ka četrciparu skaitlī ir* $x$ *tūkstoši,* 
+$y$ *simti,* $z$ *desmiti un* $t$ *vieni.*)
 
 <small>
 
