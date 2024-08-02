@@ -1026,7 +1026,7 @@ $a_{1}=1000$.
 ## Atrisinājums
 
 Apzīmējam $S_{n}=a_{1}+a_{2}+\ldots+a_{n}$. Tad
-$n^{2a_{n}=S_{n}$, $(n+1)^{2}a_{n+1}=S_{n+1}$ un
+$n^2 a_n=S_n$, $(n+1)^{2}a_{n+1}=S_{n+1}$ un
 
 $$\begin{gathered}
 S_{n+1}-S_{n}=a_{n+1}=(n+1)^{2}a_{n+1}-n^{2}a_{n} \Rightarrow a_{n+1}\left(n^{2}+2n\right)=n^{2}a_{n} \Rightarrow \\
