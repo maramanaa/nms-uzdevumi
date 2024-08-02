@@ -911,7 +911,7 @@ Tātad arī šajā gadījumā $x(x-1)$ nevar būt vesela skaitļa kvadrāts.
 # <lo-sample/> LV.NOL.2013.11.2
 
 Caur paralelograma $ABCD$ virsotnēm $B$ un $D$ ir novilkta riņķa līnija, kas
-krusto malas $\mathrm{AB}, \mathrm{DA}, \mathrm{BC}$ un $CD$ attiecīgi to
+krusto malas $AB, DA, BC$ un $CD$ attiecīgi to
 iekšējos punktos $P, Q, R$ un $S$. Pierādīt, ka $PQ || RS$
 
 <small>
@@ -924,13 +924,13 @@ iekšējos punktos $P, Q, R$ un $S$. Pierādīt, ka $PQ || RS$
 
 ## Atrisinājums
 
-Novilksim diagonāli $BD$; apzīmēsim $\sphericalangle \mathrm{PQD}=\alpha$
+Novilksim diagonāli $BD$; apzīmēsim $\sphericalangle PQD=\alpha$
 (skat. 4.zīm.). Tā kā četrstūris $PQDB$ ir ievilkts riņķa līnijā, tad
-$\sphericalangle \mathrm{PBD}=180^{\circ}-\sphericalangle \mathrm{PQD}=180^{\circ}-\alpha$.
+$\sphericalangle PBD=180^{\circ}-\sphericalangle PQD=180^{\circ}-\alpha$.
 No tā, ka $ABCD$ ir paralelograms un $AB || CD$ seko, ka
-$\sphericalangle \mathrm{SDB}=\sphericalangle \mathrm{PBD}=180^{\circ}-\alpha$.
+$\sphericalangle SDB=\sphericalangle PBD=180^{\circ}-\alpha$.
 Četrstūris $SRBD$ arī ir ievilkts riņķa līnijā, tāpēc
-$\sphericalangle \mathrm{SRB}=180^{\circ}-\sphericalangle \mathrm{SDB}=180^{\circ}-\left(180^{\circ}-\alpha\right)=\alpha$.
+$\sphericalangle SRB=180^{\circ}-\sphericalangle SDB=180^{\circ}-\left(180^{\circ}-\alpha\right)=\alpha$.
 
 Atliek ievērot, ka taisnes $PQ$ un $RS$ veido vienādus lenķus
 $\alpha$ ar paralēlām taisnēm $AD$ un $BC$, tāpēc tās arī ir paralēlas.
@@ -1023,9 +1023,9 @@ Izdzēšam nogriežņus $AB$ un $CD$, un uzzīmējam nogriežņus $AC$ un $BD$.
 Pierādīsim, ka lauztās līnijas perimetrs samazinājās.
 
 No trijstūra nevienādības seko, ka
-$\mathrm{AC} < \mathrm{AX}+\mathrm{XC}$ un
-$\mathrm{BD} < \mathrm{BX}+\mathrm{XD}$. Tāpēc
-$\mathrm{AC}+\mathrm{BD} < (\mathrm{AX}+\mathrm{XC})+(\mathrm{BX}+\mathrm{XD})=(\mathrm{AX}+\mathrm{BX})+(\mathrm{XC}+\mathrm{XD})=\mathrm{AB}+\mathrm{CD}$,
+$AC < AX+XC$ un
+$BD < BX+XD$. Tāpēc
+$AC+BD < (AX+XC)+(BX+XD)=(AX+BX)+(XC+XD)=AB+CD$,
 un jaunās lauztās līnijas perimetrs ir mazāks nekā iepriekšējēs, kas ir
 pretrunā ar pieņēmumu.
 
