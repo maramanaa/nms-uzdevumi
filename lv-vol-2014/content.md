@@ -254,7 +254,7 @@ $\frac{n^{4}+4}{n+4}=\frac{(m-4)^{4}+4}{m}=\frac{m^{4}-16m^{3}+96m^{2}-256m+256+
 Lai abu daļu vērtības būtu veseli skaitļi, tad skaitlim $k=n+3$ jābūt $24$ 
 dalītājam un atbilstošajam skaitlim $m=n+4$ jābūt $260$ dalītājam.
 
-Derīgās $n+3$ vērtības apkopotas tabulas otrajā rindā:
+Derīgās $n+3$ vērtības apkopotas tabulas otrajā kolonnā:
 
 | $n$ | $n+3$ | $n+4$ |
 | ---- | ---- | ---- |
@@ -372,7 +372,9 @@ Nogrieznis $HX$ ir paralēls $AF$, jo $HX \perp DE$ un $AF \perp DE$.
 Novelkam abu riņķu kopējo pieskari, kas iet caur $A$ - šī pieskare krusto $DE$ 
 punktā $Y$. Tā kā $BC \perp AY$ un $BC \perp FH$, tad $AY \parallel FH$.
 
-Izmantojot pieskaru, kas vilktas no viena punkta pret riņķa līniju, īpašǐbu, iegūstam $E Y=A Y$ un $D Y=A Y$. Tātad $D Y=E Y$ un $Y$ ir $D E$ viduspunkts. Sanāk, ka $X$ un $Y$ ir viens un tas pats punkts, jo abi atrodas $D E$ viduspunktā.
+Izmantojot pieskaru, kas vilktas no viena punkta pret riņķa līniju, īpašību, 
+iegūstam $EY=AY$ un $DY=AY$. Tātad $DY=EY$ un $Y$ ir $DE$ viduspunkts. Sanāk, 
+ka $X$ un $Y$ ir viens un tas pats punkts, jo abi atrodas $DE$ viduspunktā.
 
 Apskatām četrstūri $AFHX$, tā pretējās malas ir pa pāriem paralēlas. Tātad 
 $AFHX$ ir paralelograms.
@@ -492,7 +494,7 @@ $a+14=29,\ a+22=37$, $a+32=47$ un $a+46=61$ ir pirmskaitļi.
 
 # <lo-sample/> LV.VOL.2014.11.3
 
-1.zīmējumā redzamās figūras $12$ virsotnēs nepieciešams ierakstīt pirmos $12$ 
+1. zīmējumā redzamās figūras $12$ virsotnēs nepieciešams ierakstīt pirmos $12$ 
 naturālos skaitļus (katrā virsotnē - vienu) tā, lai katras rūtiņas virsotnēs 
 ierakstīto četru skaitļu summa būtu vienāda ar $M$. Vai to var izdarīt, ja 
 **(A)** $M=28$; **(B)** $M=26$?
@@ -744,7 +746,6 @@ uz diametru $AF$.
 
 ![](LV.VOL.2014.12.3A.png)
 
-![](https://cdn.mathpix.com/cropped/2024_07_29_684b95ca328d228c81eeg-09.jpg?height=61&width=1623&top_left_y=2471&top_left_x=251)
 $\triangle AEF \sim \triangle ADE$ (pēc pazīmes " $\ell \ell$ "), jo 
 $\sphericalangle AEF=\sphericalangle ADE=90^{\circ}$ un $\sphericalangle EAD$
 ir kopīgs. Apzīmējam $\sphericalangle AFE=\sphericalangle AED=\alpha$ (kā 
