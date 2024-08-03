@@ -16,7 +16,7 @@ $y$ simti, $z$ desmiti un $t$ vieni.)
 
 ## Atrisinājums
 
-Viegli pamanīt, ka $a=1$. Lai summas simtu cipars būtu $0$, tad $b=9$ vai $b=8.
+Viegli pamanīt, ka $a=1$. Lai summas simtu cipars būtu $0$, tad $b=9$ vai $b=8$.
 $b=9$ neder, jo tad summā veidotos pārnesums no desmitu pozīcijas un simtu
 pozīcijā būtu cipars, kas lielāks nekā $0$. Tātad $b=8$.
 
@@ -90,7 +90,7 @@ indukciju.
 
 *Bāze.* $a_{4}=3 \cdot 4-5=7$ un $a_{5}=3 \cdot 5-5=10$.
 
-*Induktīvais pieñemums.* Pieņemsim, ka visiem $k < n$ ir spēkā $a_{k}=3k-5$.
+*Induktīvais pieņēmums.* Pieņemsim, ka visiem $k < n$ ir spēkā $a_{k}=3k-5$.
 
 *Induktīvā pāreja.* Pierādīsim, ka arī $a_{n}=3n-5$.
 
@@ -348,7 +348,7 @@ spēlētājs.
 
 2) Vismaz viens no skaitļiem $n$ un $m$ ir pāra. Tad $1.$ spēlētājs sākumā veic
 visgarāko iespējamo griezumu pa vidu malā ar pāra garumu (skat. 7.zīm.). Tālāk
-$1.$ spēlētājs var pielietot 1) punkta $2.$ spēlētāja simetrisko stratēgijiju.
+$1.$ spēlētājs var pielietot 1) punkta $2.$ spēlētāja simetrisko stratēģiju.
 Tāpēc šajā gadījumā uzvar $1.$ spēlētājs.
 
 
@@ -467,8 +467,8 @@ $1250~ \mathrm{cm}^{2}$, **b)** $1300~ \mathrm{cm}^{2}$ ?
 ## Atrisinājums
 
 **a)** **Atbilde:** jā, noteikti. Tā kā abiem kvadrātiem ir centrs sakrīt, tiem
-abiem ir kopīgs tajos ievilktais riņķis, kura rādiusa garums ir $20~ mathrm{cm}$
-(skat. 9.zīm.). riņķa laukums ir
+abiem ir kopīgs tajos ievilktais riņķis, kura rādiusa garums ir $20~ \mathrm{cm}$
+(skat. 9.zīm.). Riņķa laukums ir
 $400 \pi \mathrm{cm}^{2} > 400 \cdot 3,14 \mathrm{~cm}^{2}==1256 \mathrm{~cm}^{2} > 1250 \mathrm{~cm}^{2}$.
 
 **b)** **Atbilde:** jā, noteikti. Ja kvadrāti nesakrīt, tad ārpus kopīgās daļas
@@ -564,7 +564,7 @@ Pieņemsim, ka vajadzīgais ir pierādīts, ja $n=k$ un pamatosim, ka tas ir pat
 arī, ja $n=k+1$. Izvēlamies jebkuru pilsētu $A$, no kuras iziet tieši viens ceļš
 (pieņemsim, ka šis ceļš iet uz pilsētu $B$ ). Aplūkosim visu pilsētu (neskaitot
 $A$ ) un visu ceļu (neskaitot ceļu $AB$ ) veidoto sistēmu. Saskaņā ar induktīvo
-hipotēzi, šīm $k$ pilsêtām var piešķirt vērtības $1$ un $-1$ vajadzīgajā veidā.
+hipotēzi, šīm $k$ pilsētām var piešķirt vērtības $1$ un $-1$ vajadzīgajā veidā.
 Tad pilsētai $A$ piešķir vērtību $-v$, kur $v$ ir pilsētas $B$ vērtība.
 Induktīvā pāreja izdarīta.
 
@@ -778,7 +778,7 @@ $n^{2}=d_{3}^{2} d_{4}^{2}\left(d_{3}^{2}+d_{4}^{2}\right)=3^{2} \cdot 4^{2}\lef
 # <lo-sample/> LV.VOL.2013.12.5
 
 Uz tāfeles uzrakstīta burtu virkne, kas satur tikai burtus $a, b$ un $c$. Ar šo
-virkni atlauts veikt šādus gājienus:
+virkni atļauts veikt šādus gājienus:
 
 - patvaļīigi mainīt uzrakstīto burtu secību;
 - ja virknes galā ir uzrakstīts fragments $ab$, to drīkst nodzēst;
