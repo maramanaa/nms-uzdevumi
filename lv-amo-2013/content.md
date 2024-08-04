@@ -5,8 +5,8 @@ un 24:00 ieskaitīt vienu reizi.) Atbildi pamatot!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Alg
 
 </small>
 
@@ -34,8 +34,8 @@ zemāk par $1.$ stāvu.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -64,8 +64,9 @@ būtu viena un tā pati.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -95,8 +96,8 @@ Figūras nedrīkst pārklāties un katra veida figūra jāizmanto vismaz vienu r
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -117,8 +118,8 @@ krāsā. Atbildi pamatot!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -151,8 +152,8 @@ iegūts viens un tas pats skaitlis. Kāds tas ir?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -182,8 +183,9 @@ kuriem dalās ar $3$ un kuru
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,sum
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -209,8 +211,8 @@ būt pagrieztas vai apgrieztas otrādi).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -229,8 +231,8 @@ reizinājumi abās grupās ir vienādi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -249,15 +251,15 @@ pa divām grupām tā, lai katrā grupā būtu vienāds skaits.
 # <lo-sample/> LV.AMO.2013.6.5
 
 Una un Ivo, gājienus izdarot pēc kārtas, kvadrāta ar izmēriem $5 \times 5$ 
-rūtiņas trīs tukšās vienas rindas vai kolonnas blakus rūtiņās ieraksta savu 
+rūtiņas trīs **tukšās** vienas rindas vai kolonnas **blakus** rūtiņās ieraksta savu 
 vārdu, katru burtu rakstot citā rūtiņā. Uzvar tas spēlētājs, kurš pēdējais 
 ieraksta savu vārdu. Una izdara pirmo gājienu. Kurš spēlētājs vienmēr var 
 panākt savu uzvaru?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -281,8 +283,11 @@ skaitli ar tā ciparu reizinājumu, dalījums ir vismaz $\frac{11}{9}$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryInequalityLargeIntervals
+* topic:NotationPolynomial
+* topic:NumTheoryExtremeElement
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -299,6 +304,13 @@ $99$ dalījums ar tā ciparu reizinājumu ir $\frac{99}{9 \cdot 9}=\frac{11}{9}$
 
 
 
+## Atrisinājums
+
+$\frac{10a+b}{ab}=\frac{10}{b}+\frac{1}{a}$ ir vismazākā, ja $a=b=9$.
+
+
+
+
 # <lo-sample/> LV.AMO.2013.7.2
 
 Doti seši nogriežņi ar garumiem 
@@ -308,8 +320,10 @@ izveidot trijstūri (katra trijstūra mala ir viens vesels nogrieznis)?
 
 <small>
 
-* questionType:
-* domain:
+* sameAs:LV.AMO.2012.7.2
+* concepts:triangle
+* questionType:FindCount
+* domain:Geom
 
 </small>
 
@@ -334,8 +348,12 @@ kvadrāts ir skaitļa reizinājums pašam ar sevi.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesLastDigits
+* topic:DivisibilityRulesForRemainders
+* topic:PrimeFactorizationAndPowers
+* topic:SeriesMembersSumsClosedFormulas
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -355,6 +373,25 @@ dotais skaitlis nav naturāla skaitļa kvadrāts.
 
 
 
+
+## Atrisinājums
+
+Var izmantot dalāmību ar $3$ šādā spriedumā:
+
+* Minētajam skaitlim ciparu summa kongruenta pēc moduļa $9$ ar
+  $1+\ldots+176$. (Decimālciparu pārvietojot, atlikums nemainās).
+* Summējam aritmētisku progresiju: 
+  $1+\ldots+176=(176\cdot 177)/2$ - dalās ar $3$, bet ne ar $9$.
+* Pilns kvadrāts nevar saturēt pirmskaitli $3$ nepāru pakāpē.
+
+Cits atrisinājums izmanto dalāmību ar $2$:
+
+* Pilnu kvadrātu dalījums pirmreizinātājos 
+  nevar dalīties ar $8$ un nedalīties ar $16$ – 
+  saturēt pirmskaitli $2$ nepāru pakāpē.
+
+
+
 # <lo-sample/> LV.AMO.2013.7.4
 
 Vai kvadrātā $5 \times 5$ rūtiņas var iekrāsot **(A)** $6$ rūtiņas; **(B)** $5$
@@ -365,8 +402,8 @@ figūru (tā var būt pagriezta vai apgāzta otrādi)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -389,8 +426,9 @@ panākt savu uzvaru?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2013.6.5
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -413,8 +451,10 @@ to pirmo ciparu, samazinās $36$ reizes.
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExpr
+* topic:NotationFragments
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -435,6 +475,15 @@ $72,\ 720,\ 7200,\ 72000,\ 720000$.
 
 
 
+## Atrisinājums
+
+Uzrakstām algebriski, ko nozīmē pirmā cipara nodalīšana no pārējā gabala
+
+$a$ - 1.cipars; $a \cdot 10^k + b = 36b$; $a \cdot 10^k = 35b$. 
+Tad $a = 7$, $b=2\cdot 10^{k-1}$. 
+
+
+
 # <lo-sample/> LV.AMO.2013.8.2
 
 Dots trijstūris $ABC$ un punkts $P$ tā iekšpusē. Pierādi, ka attālumu summa no 
@@ -443,8 +492,9 @@ perimetra.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle,perimeter
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -466,7 +516,7 @@ ka $t \geq 4 a$.
 
 <small>
 
-* questionType:
+* questionType:Prove
 * domain:
 
 </small>
@@ -487,8 +537,8 @@ daudzstūros?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -515,8 +565,9 @@ $x_{1} \geq x_{2} \geq x_{3} \geq x_{4}$ ).
 
 <small>
 
-* questionType:
-* domain:
+* concepts:monotonic-sequence
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -544,8 +595,9 @@ sadalīt piecos vienlielos trijstūros.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:trapezoid,triangle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -569,8 +621,8 @@ vienā krāsā un atrodas vienādsānu taisnleņķa trijstūra virsotnēs.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -601,8 +653,8 @@ ciparus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -628,8 +680,9 @@ $x_{n+1}=x_{n}+\frac{2}{x_{n}}$ visiem $n \geq 0$. Pierādīt, ka $x_{100}>20$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sequence
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -656,8 +709,9 @@ malas. Pierādīt, ka šie riņķi pilnībā pārklāj doto četrstūri.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:square-Geo,circle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -686,8 +740,9 @@ $x_{2} \leq x_{3} \leq x_{1}$).
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equation,root
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -716,8 +771,9 @@ attiecīgi punktos $P$ un $Q$. Pierādīt, ka $AB \parallel PQ$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:circumference
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -747,8 +803,8 @@ centrā)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -774,8 +830,12 @@ no tiem var izvēlēties divus, no kuriem viens dalās ar otru.
 
 <small>
 
-* questionType:
-* domain:
+* topic:ArithmeticAndGeometricSeries
+* topic:NumTheoryPigeonhole
+* questionType:Prove
+* domain:NT
+* concepts:divisibility
+
 
 </small>
 
@@ -798,6 +858,31 @@ tad vismaz divi skaitļi būs no vienas grupas; tie arī ir meklētie divi skait
 
 
 
+
+## Atrisinājums
+
+Izrakstām ģeometriskas progresijas, kas sākas ar nepāru skaitļiem un $q=2$: 
+
+$$(1,2,4,8,16,32,64),\;(3,6,12,24,48,96),$$
+
+$$(5,10,20,40,80),\ldots,(97),\;(99).$$
+
+* Būs tieši $50$ progresijas (dažās būs tikai pa vienam loceklim), jo līdz $100$ ir tieši $50$ nepāru skaitļi.
+* Katrs skaitlis pieder tieši vienai progresijai, jo katram pāru skaitlim atbilst tieši viens nepāru 
+skaitlis, kurš rodas, ja atkārtoti dala ar $2$. 
+* Izvēloties $k+1$ skaitļus, vismaz divi būs no vienas progresijas (Dirihlē princips).
+
+
+*Piezīme:*
+Ja skaitļu ir tikai $50$, tad līdzīgi secināt nevar.
+Var izvēlēties $51,\ldots,100$ - no tiem neviens nedalās ar otru.
+
+
+
+
+
+
+
 # <lo-sample/> LV.AMO.2013.10.5
 
 Vai pa riņķi var uzrakstīt $2013$ naturālus skaitļus tā, lai jebkuru divu 
@@ -805,8 +890,8 @@ blakus esošu skaitļu attiecība būtu $2,\ 3,\ 12$ vai $18$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -833,8 +918,8 @@ $169$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -854,8 +939,8 @@ divu citu diagonāļu garumu summu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -885,8 +970,9 @@ $$\frac{1}{a_{1}}+\frac{1}{a_{2}}+\frac{1}{a_{3}}+\cdots+\frac{1}{a_{n}}<2.$$
 
 <small>
 
-* questionType:
-* domain:
+* concepts:primes,divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -935,8 +1021,8 @@ izvēlējies un kura ir sākotnējā pilsēta $Z$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -970,8 +1056,8 @@ papīra gabaliņš būs piesprausts pie galda tieši ar vienu adatu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -996,8 +1082,8 @@ Atrisināt reālos skaitļos vienādojumu $\lg x \cdot \lg (4-x)=\frac{1}{4}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1020,8 +1106,9 @@ riņķa līnijas krustojas vienā punktā.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:circumference
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1062,8 +1149,9 @@ $6^{x}+13^{y}=29^{z}$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equation
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1095,8 +1183,8 @@ $$S(n+3)=i \cdot j \cdot S(n+1)+i \cdot j^{2} \cdot S(n)$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -1132,8 +1220,8 @@ $\frac{1}{2013 \cdot \sqrt{P}}$, kur $P$ ir šī trijstūra perimetrs.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
