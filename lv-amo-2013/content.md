@@ -642,7 +642,7 @@ Tad
 $y_{n+1}=x_{n+1}^{2}=\left(x_{n}+\frac{2}{x_{n}}\right)^{2}=x_{n}^{2}+4+\frac{4}{x^{2}_{n}}>x_{n}^{2}+4=y_{n}+4$.
 
 Tātad $y_{100}>y_{0}+4 \cdot 100=y_{0}+400$ jeb 
-$x^{2}_{100}>x^{2}_{0}+400>0+400=400$. Tā kā $x_{100}>0$ un $x^{2}_{100}>400$, 
+$x_{100}^{2}>x_{0}^{2}+400>0+400=400$. Tā kā $x_{100}>0$ un $x_{100}^{2}>400$, 
 tad $x_{100}>20$, k.b.j.
 
 
@@ -1116,7 +1116,7 @@ $b(n)=j \cdot a(n-1)+j^{2} \cdot a(n-2)$.
 Tātad $S(n)=a(n)+b(n)=i \cdot b(n-1)+j \cdot a(n-1)+j^{2} \cdot a(n-2)=$
 
 $=i \cdot\left(j \cdot a(n-2)+j^{2} \cdot a(n-3)\right)+j \cdot(i \cdot b(n-2))+j^{2} \cdot(i \cdot b(n-3))=$  
-$=i \cdot j \cdot(a(n-2)+b(n-2))+i \cdot j^{2} \cdot\left(a(n-3)+b(n-3)=i \cdot j \cdot S(n-2)+i \cdot j^{2} \cdot S(n-3) \quad\right$. jeb  
+$=i \cdot j \cdot(a(n-2)+b(n-2))+i \cdot j^{2} \cdot\left.(a(n-3)+b(n-3)=i \cdot j \cdot S(n-2)+i \cdot j^{2} \cdot S(n-3) \quad\right.$. jeb  
 $S(n+3)=i \cdot j \cdot S(n+1)+i \cdot j^{2} \cdot S(n)$, k.b.j.
 
 
