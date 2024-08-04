@@ -48,7 +48,7 @@ nokļūt, braucot uz leju ir $24-8=16.$ stāvs). No $17.$ stāva uz citiem stāv
 var nokļūt, piem., šādā veidā:
 
 $$\begin{aligned}
-\text { 17. } \rightarrow \text { 9. } \rightarrow \text { 1. } \rightarrow \text { 18. } \rightarrow \text { 10. } \rightarrow \text { 2. } \rightarrow \text { 19. } \rightarrow \text { 11. } \rightarrow \text { 3. } \rightarrow \text { 20. } \rightarrow \text { 12. } \rightarrow 4 . \rightarrow 21 . \rightarrow 13 . & \rightarrow \\
+\text { 17. } & \rightarrow \text { 9. } \rightarrow \text { 1. } \rightarrow \text { 18. } \rightarrow \text { 10. } \rightarrow \text { 2. } \rightarrow \text { 19. } \rightarrow \text { 11. } \rightarrow \text { 3. } \rightarrow \text { 20. } \rightarrow \text { 12. } \rightarrow 4 . \rightarrow 21 . \rightarrow 13 . \rightarrow \\
 & \rightarrow \text { 5. } \rightarrow \text { 22. } \rightarrow \text { 14. } \rightarrow \text { 6. } \rightarrow \text { 23. } \rightarrow \text { 15. } \rightarrow \text { 7. } \rightarrow \text { 24. } \rightarrow \text { 16. } \rightarrow \text { 8. }
 \end{aligned}$$
 
@@ -56,7 +56,7 @@ $$\begin{aligned}
 
 # <lo-sample/> LV.AMO.2013.5.3
 
-1. zīmējumā katrā aplītī ierakstī̀ vienu ciparu, katrā aplītī - citu, tā, lai 
+1.zīmējumā katrā aplītī ierakstīt vienu ciparu, katrā aplītī - citu, tā, lai 
 katros trīs aplīšos, kas atrodas uz vienas taisnes, ierakstīto skaitļu summa 
 būtu viena un tā pati.
 
@@ -87,9 +87,11 @@ $0,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8$.
 
 # <lo-sample/> LV.AMO.2013.5.4
 
-No 2. zīmējumā redzamajām figūrām salikt taisnstūri ar laukumu $40$ rūtiņas. 
+No 2.zīmējumā redzamajām figūrām salikt taisnstūri ar laukumu $40$ rūtiņas. 
 Figūras nedrīkst pārklāties un katra veida figūra jāizmanto vismaz vienu reizi.
 (Figūras var būt pagrieztas vai apgrieztas otrādi.)
+
+![](LV.AMO.2013.5.4.png)
 
 <small>
 
@@ -134,7 +136,7 @@ krāsās atbilstoši uzdevuma prasībām.
 
 # <lo-sample/> LV.AMO.2013.6.1
 
-Uz tāfeles uzrakstititi desmit skaitļi
+Uz tāfeles uzrakstīti desmit skaitļi
 
 $$\begin{array}{llllllllll}
 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10
@@ -200,7 +202,7 @@ $3$.
 
 # <lo-sample/> LV.AMO.2013.6.3
 
-Sagriezt 3. zīmējumā attēloto figūru $20$ vienādās mazākās figūrās (figūras var
+Sagriezt 3.zīmējumā attēloto figūru $20$ vienādās mazākās figūrās (figūras var
 būt pagrieztas vai apgrieztas otrādi).
 
 ![](LV.AMO.2013.6.3.png)
@@ -266,7 +268,7 @@ panākt savu uzvaru?
 Savā pirmajā gājienā Una ieraksta savu vārdu tā, lai burts $N$ būtu ierakstīts 
 kvadrāta centrālajā rūtiņā. Tad uz katru Ivo gājienu Una atbild ar centrāli 
 simetrisku gājienu, t.i., Una rakstu savu vārdu rūtiņās, kas ir simetriskas 
-rūtiņāam, kurās pēdējā gājienā Ivo ierakstīja savu vārdu, attiecībā pret 
+rūtiņām, kurās pēdējā gājienā Ivo ierakstīja savu vārdu, attiecībā pret 
 kvadrāta centru. Ja vēl bija brīvas rūtiņas, kur savu vārdu varēja ierakstīt 
 Ivo, tad noteikti brīvas ir arī tām centrāli simetriskās rūtiņas.
 
@@ -300,7 +302,7 @@ $99$ dalījums ar tā ciparu reizinājumu ir $\frac{99}{9 \cdot 9}=\frac{11}{9}$
 # <lo-sample/> LV.AMO.2013.7.2
 
 Doti seši nogriežņi ar garumiem 
-$1~\mathrm{cm},\ 3~\mathrm{cm},\ 5~\mathrm{cm},\ 7~\mathrm{cm},\ 9~\mathrm{cm}$,\ 11~\mathrm{cm}$.
+$1~\mathrm{cm},\ 3~\mathrm{cm},\ 5~\mathrm{cm},\ 7~\mathrm{cm},\ 9~\mathrm{cm},\ 11~\mathrm{cm}$.
 Cik dažādos veidos no tiem var izvēlēties trīs nogriežņus tā, ka no tiem var 
 izveidot trijstūri (katra trijstūra mala ir viens vesels nogrieznis)?
 
@@ -356,10 +358,10 @@ dotais skaitlis nav naturāla skaitļa kvadrāts.
 # <lo-sample/> LV.AMO.2013.7.4
 
 Vai kvadrātā $5 \times 5$ rūtiņas var iekrāsot **(A)** $6$ rūtiņas; **(B)** $5$
-rūtiņas tā, lai atlikušajā daļā nevarētu ievietot nevienu 4. zīmējumā redzamo 
+rūtiņas tā, lai atlikušajā daļā nevarētu ievietot nevienu 4.zīmējumā redzamo 
 figūru (tā var būt pagriezta vai apgāzta otrādi)?
 
-![](LV.AMO.2013.7.4A.png)
+![](LV.AMO.2013.7.4.png)
 
 <small>
 
@@ -722,7 +724,7 @@ attiecīgi punktos $P$ un $Q$. Pierādīt, ka $AB \parallel PQ$.
 ## Atrisinājums
 
 Tā kā $AB$ ir riņķa līnijas pieskare, tad 
-$\sphericalangle BDQ=\sphericalangle DCQ$ kā ordaspieskares leņķis un ievilkts 
+$\sphericalangle BDQ=\sphericalangle DCQ$ kā hordas-pieskares leņķis un ievilkts 
 leņķis, kas balstās uz vienu loku (skat. 12.zīm.). Savukārt 
 $\sphericalangle DQP=\sphericalangle DCP$ kā ievilktie leņķi. Tā kā $CD$ ir 
 bisektrise, tad $\sphericalangle DCQ=\sphericalangle DCP$, tāpēc 
@@ -910,7 +912,6 @@ Labajā pusē ir divu ģeometrisko progresiju summu reizinājums. Izmantojot
 
 $1+\frac{1}{3}+\frac{1}{3^{2}}+\ldots+\frac{1}{3^{k}}=\frac{1-\left(\frac{1}{3}\right)^{k+1}}{1-\frac{1}{3}}<\frac{1}{\frac{2}{3}}=\frac{3}{2}$
 un
-
 $1+\frac{1}{5}+\frac{1}{5^{2}}+\ldots+\frac{1}{5^{k}}=\frac{1-\left(\frac{1}{5}\right)^{k+1}}{1-\frac{1}{5}}<\frac{1}{\frac{4}{5}}=\frac{5}{4}$.
 
 Tātad 
@@ -956,7 +957,7 @@ pilsētā $W$ ieejošos reisus - otrajai aviokompānijai.
 maršruts, ko nodrošina viena un tā pati kompānija. Lai veidotos ciklisks 
 maršruts, nepieciešams, lai maršrutā ietilpstošajām pilsētām būtu vismaz viens 
 ieejošais un vismaz viens izejošs reiss, ko nodrošina viena un tā pati 
-kompānija, taču aprakstittā plānošanas shēma šādu iespēju izslēdz.
+kompānija, taču aprakstītā plānošanas shēma šādu iespēju izslēdz.
 
 
 
@@ -984,7 +985,7 @@ Adatas iespraudīsim izveidotā režģa punktos (rūtiņu virsotnēs). Tā kā r
 rūtiņas malas garums vienāds ar papīra gabalu malas garumu un režģa līnijas 
 paralēlas papīra gabalu malām, tad katrs kvadrāts tiks piesprausts ar ne vairāk
 kā vienu adatu. Ja kāds papīra gabals netiek piesprausts ne ar vienu adatu 
-(adatas atrodas uz šīs kvadrāta malām), izvēlēto režģi nedaudz paralēli 
+(adatas atrodas uz šī kvadrāta malām), izvēlēto režģi nedaudz paralēli 
 pārbīda, līdz katrs kvadrāts ir piesprausts pie galda.
 
 
@@ -1082,8 +1083,8 @@ Kādas valodas alfabētā ir $i$ patskaņi ($i \geq 2$) un $j$ līdzskaņi
 ($j \geq 2$). Šajā valodā par vārdu sauc jebkuru galīgu burtu (patskaņu un 
 līdzskaņu) virkni, kas satur vismaz vienu burtu un kurā nekādi divi patskaņi 
 neparādās pēc kārtas un pēc kārtas uzrakstīti līdzskaņi ir ne vairāk kā divi 
-(piemēram, ja "A" ir patskanis, bet "B" līdzskanis, tad, piemēram, "ABBA" ir 
-vārds, turpretī "BAAB" un "ABBBA" nav vārdi).
+(piemēram, ja " $A$ " ir patskanis, bet " $B$ " līdzskanis, tad, piemēram, 
+" $ABBA$ " ir vārds, turpretī " $BAAB$ " un " $ABBBA$ " nav vārdi).
 
 Ar $S(n)$ apzīmēsim visu to vārdu skaitu, kuri sastāv no $n$ burtiem, 
 $n \geq 1$.
@@ -1116,7 +1117,8 @@ $b(n)=j \cdot a(n-1)+j^{2} \cdot a(n-2)$.
 Tātad $S(n)=a(n)+b(n)=i \cdot b(n-1)+j \cdot a(n-1)+j^{2} \cdot a(n-2)=$
 
 $=i \cdot\left(j \cdot a(n-2)+j^{2} \cdot a(n-3)\right)+j \cdot(i \cdot b(n-2))+j^{2} \cdot(i \cdot b(n-3))=$  
-$=i \cdot j \cdot(a(n-2)+b(n-2))+i \cdot j^{2} \cdot\left.(a(n-3)+b(n-3)=i \cdot j \cdot S(n-2)+i \cdot j^{2} \cdot S(n-3) \quad\right.$. jeb  
+$=i \cdot j \cdot(a(n-2)+b(n-2))+i \cdot j^{2} \cdot\left.(a(n-3)+b(n-3)=i \cdot j \cdot S(n-2)+i \cdot j^{2} \cdot S(n-3) \quad\right.$
+jeb  
 $S(n+3)=i \cdot j \cdot S(n+1)+i \cdot j^{2} \cdot S(n)$, k.b.j.
 
 
@@ -1142,8 +1144,8 @@ $2-\sqrt{3} \in(0; 1)$,
 $(2-\sqrt{3})^{2}=7-4 \sqrt{3} \in(0; 1),\ (7-4 \sqrt{3})^{2}=97-56 \sqrt{3} \in(0; 1)$
 utt. Šādi iegūstam skaitļus $h_{1}-a_{1} \sqrt{3}, \quad h_{2}-a_{2} \sqrt{3}$ 
 utt., kur $a_{n}$ un $h_{n}$ ir naturāli skaitļi, pie tam 
-$\left(h_{n}-a_{n} \sqrt{3}\right)^{2}=h^{2}_{n}+3 a^{2}_{n}-2h_{n}a_{n} \sqrt{3}=h_{n+1}-a_{n+1} \sqrt{3}$.
-Tālāk, ja $h^{2}_{n}-3a^{2}_{n}=1$, tad 
+$\left(h_{n}-a_{n} \sqrt{3}\right)^{2}=h_{n}^{2}+3a_{n}^{2}-2h_{n}a_{n} \sqrt{3}=h_{n+1}-a_{n+1} \sqrt{3}$.
+Tālāk, ja $h_{n}^{2}-3a_{n}^{2}=1$, tad 
 $h_{n+1}^{2}-3a_{n+1}^{2}=(h_{n}^{2}+3a_{n}^{2})^{2}-3 \cdot (2h_{n}a_{n})^{2}=(h_{n}^{2}+3a_{n}^{2})^{2}-12h_{n}^{2}a_{n}^{2}=(h_{n}^{2}-3a_{n}^{2})^{2}=1$.
 Tā kā $h_{1}^{2}-3a_{1}^{2}=2^{2}-3 \cdot 1^{2}=1$, tad visiem 
 $nh_{n}^{2}-3a_{n}^{2}=1$.
