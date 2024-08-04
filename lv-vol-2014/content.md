@@ -42,8 +42,8 @@ pirmajiem **(A)** $100$, **(B)** $2014$ locekļiem ir tādi, kas dalās ar $5$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount,FindCount
+* domain:NT
 
 </small>
 
@@ -236,8 +236,11 @@ $\frac{n^{3}+3}{n+3}$, gan $\frac{n^{4}+4}{n+4}$ ir veseli skaitļi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* topic:PolynomialLongDivision
+* topic:DivisorNumberAndSum
+* concepts:integer-polynomial
 
 </small>
 
@@ -281,6 +284,79 @@ Tātad meklētās $n$ vērtības ir $-9,\ -6,\ -5,\ -2,\ 0,\ 1,\ 9$.
 
 
 
+
+
+## Atrisinājums
+
+Polinomus (tāpat kā naturālus skaitļus) var dalīt ar atlikumu. 
+
+**Apgalvojums:**  Ja $A(x)$ un $B(x)$ ir polinomi, $A(x)$ pakāpe ir vismaz tikpat liela kā $B(x)$, 
+tad eksistē divi citi polinomi $Q(x), R(x)$, kam $A(x)=Q(x)B(x)+R(x).  
+$Q(x)$ sauc par *dalījumu*, bet $R(x)$ - par *atlikumu*.  
+$R(x)$ pakāpe ir mazāka nekā $B(x)$ pakāpe.
+
+Var gadīties, ka atlikums $R(x)=0$, ja $A(x)$ izdalās ar $B(x)$ bez atlikuma. 
+Var arī gadīties, ka $R(x)$ ir konstante – t.i. $0$-tās pakāpes polinoms.
+
+**Pirmais dalīšanas piemērs:**
+
+$$\begin{aligned}
+\frac{n^3+3}{n+3} & = \frac{n^2(n+3) - 3n^2 + 3}{n+3} = \\
+                  & = n^2+\frac{-3n^2+3}{n+3} = \\
+                  & = n^2+\frac{-3n(n+3)+9n+3}{n+3} = \\
+                  & = n^2-3n+\frac{9n+3}{n+3} = \\
+                  & = n^2-3n+\frac{9(n+3)-27+3}{n+3} = \\
+                  & = n^2-3n+9+\frac{-24}{n+3}.
+\end{aligned}$$
+
+Vajag, lai $24$ dalās ar $n+3$.
+
+**Otrais dalīšanas piemērs:**
+
+$$\frac{n^4 + 4}{n+4} = n^3 - 4n^2 + 16n - 64 + \frac{256+4}{n+4}$$
+
+Vajag, lai $260=2\cdot{}2\cdot{}5\cdot{}13$ dalās ar $n+4$ jeb 
+
+$$n+4 \in \{ \ldots, -26, -20, -13, -10, -5, -4, -2, -1 \} \cup$$ 
+$$\cup \{1, 2, 4, 5, 10, 13, 20, 26, \ldots \}$$
+
+
+Atradīsim tos veselos $z$, kuriem dalījums $\frac{24}{x}$ (vai $\frac{260}{x}$) ir vesels?
+Dalām pirmreizinātājos.
+
+$$24 = 2^3\cdot{}3^1,\;\;260=2^2\cdot{}5\cdot{}13$$
+
+Cik šādiem skaitļiem ir dalītāju?
+
+**Apgalvojums:** Ja skaitlis $N$ dalās ar $2$ dažādiem pirmskaitļiem
+($N=p_1^{a_1}p_2^{a_2}$) tad visi veselie $N$ dalītāji ir formā:  
+$d = \pm p_1^{b_1}\cdot{}p_2^{b_2}$, kur $b_1 \leq a_1$ un $b_2 \leq a_2$.  
+(Analoģiski arī lielākam pirmskaitļu skaitam.)
+
+Piemēram, $N=24=2^3\cdot{}3^1$ dalītāji ir $d=2^{b_1}3^{b_2}$,
+kur $b_1 \in \{ 0,1,2,3 \}$, $b_2 \in \{ 0,1 \}$.
+
+
+Meklējam divu kopu šķēlumu:
+
+$$n+3 \in \{ -24, -12, -8, -6, -4, -3, -2, -1, 1, 2, 3, 4, 6, 8, 12, 24 \}$$
+
+un
+
+$$\begin{array}{l}
+n+4 \in \{ \ldots, -26, -20, -13, -10, -5, -4, -2, -1 \} \cup \\
+\cup \{1, 2, 4, 5, 10, 13, 20, 26, \ldots \} \\
+\end{array}$$
+
+No šejienes $(n+4) \in \{ -5, -2, -1, 2, 4, 5, 13 \}$ jeb
+$n \in \{ -9, -6, -5, -2, 0, 1, 9 \}$.
+
+
+
+
+
+
+
 # <lo-sample/> LV.VOL.2014.10.3
 
 Ir pieejams neierobežots daudzums $7$ un $13$ centu pastmarku, kuras izmanto 
@@ -290,8 +366,11 @@ ir lielākā summa, kuru nav iespējams apmaksāt izmantojot tikai šīs pastmar
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
+* topic:ArithmeticSeriesAll
+* topic:NumTheoryInequalityLargeIntervals
+* concepts:linear-expression
 
 </small>
 
@@ -332,6 +411,34 @@ $$72 \stackrel{A}{\Rightarrow} 73 \stackrel{A}{\Rightarrow} 74 \stackrel{A}{\Rig
 
 Visas lielākās summas var iegūt izvēloties kādu no šīm summām un pievienojot 
 nepieciešamo $7$ centu pastmarku skaitu.
+
+
+
+
+## Atrisinājums
+
+Šķirojam atkarībā no tā, cik $13$ centu pastmarkas lietotas
+
+* $0\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $0$
+* $1\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $6$
+* $2\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $5$
+* $3\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $4$
+* $4\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $3$
+* $5\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $2$
+* $6\cdot{}13 + 7a$ - dalot ar $7$, atlikums ir $1$
+
+**Secinājums:** Lai nomaksātu $8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, \ldots$ centus, vajag
+vismaz sešas $13$ centu markas. Mazākā šāda summa ir $6\cdot{}13 = 78$.  
+Tātad summu $71$, kas šajā virknē ir
+tieši pirms $78$ (un arī dod atlikumu $1$, dalot ar $7$), nevarēs nomaksāt, jo, lietojot mazāk par sešām
+$13$-centu markām, nevar iegūt atlikumu $1$, dalot ar $7$. 
+
+
+
+
+
+
+
 
 
 
@@ -464,8 +571,8 @@ $a,\ a+14,\ a+22,\ a+32,\ a+46$ var būt pirmskaitļi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -606,8 +713,8 @@ skaitļu kvadrātu summu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -678,8 +785,8 @@ spēkā sakarība $n+f(1)+f(2)+\ldots+f(n-1)=nf(n)$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -868,8 +975,8 @@ naturālo dalītāju, izņemot $1$ un $n$, kvadrātu summa vienāda ar $n^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 

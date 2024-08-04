@@ -5,14 +5,15 @@ nokrāsota tieši vienā no krāsām- sarkanā, dzeltenā, zilā. Zināms, ka
 $20 \%$ jeb $40$ olas bija sarkanas, $\frac{3}{4}$ no atlikušajām bija
 dzeltenas, bet pārējās- zilas. Aprēķini:
 
-1) Cik olas bija zilā krāsā?
-2) Kāda daļa no visām olām bija zilas?
-3) Cik procenti no visām olām bija dzeltenas?
+**(A)** Cik olas bija zilā krāsā?  
+**(B)** Kāda daļa no visām olām bija zilas?  
+**(C)** Cik procenti no visām olām bija dzeltenas?
 
 <small>
 
-* questionType:
-* domain:
+* topic:AlgebraicEquations
+* questionType:FindAll,FindAll,FindAll
+* domain:Alg
 
 </small>
 
@@ -36,8 +37,9 @@ gadīties, ka viens skaitlis ir tieši trīs reizes lielāks nekā otrs skaitlis
 
 <small>
 
-* questionType:
-* domain:
+* topic:IntegerCongruence
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -63,8 +65,10 @@ nekā otra mala.
 
 <small>
 
-* questionType:
-* domain:
+* topic:Rectangles
+* questionType:FindAll
+* domain:Geom
+* concepts:rectangle,area,perimeter
 
 </small>
 
@@ -102,15 +106,16 @@ būt pagrieztas jebkurā stāvoklī)?
 
 <small>
 
-* questionType:
-* domain:
+* topic:SquareGridCutting
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
 
 ## Atrisinājums
 
-Tā kā $13 \cdot 5$ =65 > 64, tad vairāk par $12$ norādītajām figūrām izgriezt
+Tā kā $13 \cdot 5 = 65 > 64$, tad vairāk par $12$ norādītajām figūrām izgriezt
 nevar. Izgriezt $12$ figūras var, piemēram, tā, kā parādīts A2.zīm.
 
 ![](LV.AMO.2014.5.4A.png)
@@ -119,26 +124,28 @@ nevar. Izgriezt $12$ figūras var, piemēram, tā, kā parādīts A2.zīm.
 
 # <lo-sample/> LV.AMO.2014.5.5
 
-Kāds ir **a)** mazākais, **b)** lielākais skaitlis, kuru var izteikt gan kā
+Kāds ir **(A)** mazākais, **(B)** lielākais skaitlis, kuru var izteikt gan kā
 trīs, gan kā divu dažādu divciparu naturālu skaitļu reizinājumu?
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryInequalityLargeIntervals
+* questionType:FindOptimal,FindOptimal
+* domain:NT
+* concepts:product
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Trīs dažādu divciparu skaitļu mazākais iespējamais reizinājums ir
+**(A)** Trīs dažādu divciparu skaitļu mazākais iespējamais reizinājums ir
 $10 \cdot 11 \cdot 12=1320$, tas iegūts sareizinot trīs mazākos divciparu
 skaitļus. Skaitli $1320$ var izteikt arī kā divu dažādu divciparu skaitļu
 reizinājumu. Piemēram, $1320=30 \cdot 44$. Tātad mazākais skaitlis, kas
 apmierina uzdevuma nosacījumus, ir $1320$.
 
-**b)** Divu dažādu divciparu skaitļu lielākais iespējamais reizinājums ir
+**(B)** Divu dažādu divciparu skaitļu lielākais iespējamais reizinājums ir
 $99 \cdot 98=9702$, tas iegūts sareizinot divus lielākos divciparu skaitļus.
 Skaitli $9702$ var sadalīt arī trīs divciparu skaitļu reizinājumā. Piemēram,
 $9702=11 \cdot 18 \cdot 49$. Tātad skaitlis $9702$ ir lielākais meklētais
@@ -287,8 +294,9 @@ garums, ja $ED=4 \mathrm{~cm}$ un $DC=5 \mathrm{~cm}$ ?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle,height,median
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -327,8 +335,9 @@ $$a \cdot(3a+5b) \cdot 7b=7654321$$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularParity
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -343,9 +352,17 @@ Reizinājums $a \cdot(3a+5b) \cdot 7b$ vienmēr ir pāra skaitlis:
   nepāra skaitļu summa ir pāra skaitlis), tātad viss reizinājums ir pāra
   skaitlis.
 
-Līdz ar to esam ieguvuši, ka kreisās puses skaitlis ir pāra, bet- labajā pusē ir
+Līdz ar to esam ieguvuši, ka kreisās puses skaitlis ir pāra, bet labajā pusē ir
 nepāra skaitlis. Iegūta pretruna, tāpēc nevar atrast skaitļus $a$ un $b$, lai
 izpildītos dotā vienādība.
+
+
+
+
+## Atrisinājums
+
+Nepāra reizinājums $a \cdot(3a+5b) \cdot 7b$ nozīmē, ka $a,b$ ir nepāru. 
+Bet tad $3a+5b$ ir pāru, kas ir pretruna. 
 
 
 
@@ -407,8 +424,10 @@ Atrodiet visas iespējamās vērtības un pamatojiet, ka citu nav!
 
 <small>
 
-* questionType:
+* topic:NumTheoryExprVariables
+* questionType:FindAll
 * domain:
+* genre:magic-configuration
 
 </small>
 
@@ -422,6 +441,13 @@ Tālāk tabulas rūtiņas var aizpildīt šādi (skat. A7.zīm.):
 ![](LV.AMO.2014.7.4A.png)
 
 Tātad rūtiņā, kas bija apzīmēta ar jautājuma zīmi, ir ierakstīts skaitlis $2$.
+
+
+## Atrisinājums
+
+Ja $a_{22}=x$, tad summas ir $3x$. Un $a_{13}=2x-13$,
+$a_{11}=x-11$, $a_{33}=x+11$, $a_{23}=2$.
+
 
 
 
@@ -461,8 +487,12 @@ Kurš skaitlis lielāks- sākotnējais vai iegūtais?
 
 <small>
 
-* questionType:
-* domain:
+* topic:PeriodicRemainders
+* topic:NumericAlgorithms
+* questionType:FindAll
+* domain:NT
+* concepts:decimal-fractions
+* genre:digit-manipulation
 
 </small>
 
@@ -484,7 +514,18 @@ izsvītrojam, tad jauniegūtajā skaitlī 2014. cipars aiz komata būs cipars $2
 (nākamais, kas seko aiz $9$). Skaitlim $\frac{1}{13}$ un iegūtajam skaitlim ir
 $0$ veseli un pirmie $2013$ cipari aiz komata sakrīt, tad lielāks būs tas
 skaitlis, kuram ir lielāks $2014.$ cipars aiz komata. Tā kā $9=2$, tad
-$\frac{1}{13}$ ir lielāka nekā iegūtais skaitlis .
+$\frac{1}{13}$ ir lielāka nekā iegūtais skaitlis.
+
+
+## Atrisinājums
+
+$1/13=0.(076923076923)$ (periods $12$ cipari). 
+$2014$-tais cipars ir tāds pats kā $10$-tais cipars ir $9$, 
+aiz kura seko cipars $2$. Izsvītrojot šo ciparu $9$, tas aizstājas
+ar $2$, tāpēc skaitlis kļūst mazāks.
+
+
+
 
 
 
@@ -495,8 +536,10 @@ to pirmo ciparu, samazinās $15$ reizes!
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExpr
+* topic:NotationFragments
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -514,6 +557,13 @@ $B=2^{k-1} \cdot 5^{k}=5 \cdot 10^{k-1}, 1 \leq k \leq 5$.
 
 Pavisam ir pieci skaitļi, kas apmierina uzdevuma nosacījumus:
 $75, 750, 7500, 75000, 750000$.
+
+
+## Atrisinājums
+
+$a$ - 1.cipars; $a \cdot 10^k + b = 15b$; $a \cdot 10^k = 14b$. 
+Tad $a = 7$, $b=5\cdot 10^{k-1}$. 
+
 
 
 
@@ -591,15 +641,17 @@ Tabulas $3 \times 3$ rūtiņās katrā rūtiņā jāieraksta pa vienam naturāla
 skaitlim tā, lai katrā rindā, katrā kolonnā un katrā diagonālē ierakstīto
 skaitļu summas būtu vienādas. Augšējās rindas vidējā rūtiņā ierakstīts skaitlis
 $24$ (skat. 9.zīm.). Vai rūtiņā, kas apzīmēta ar jautājuma zīmi, var būt
-ierakstīts skaitlis **a)** $7$, **b)** $17$?
+ierakstīts skaitlis **(A)** $7$, **(B)** $17$?
 
 ![](LV.AMO.2014.8.5.png)
 
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExprVariables
+* topic:TreeTraversalBacktracking
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -610,7 +662,7 @@ Apzīmēsim skaitli, kas atrodas vidējās kolonnas vidējā rūtiņā ar $x$, b
 apakšējā- ar $y$. Tad visu rindu, kolonnu un diagonāļu summas ir $24+x+y$.
 Tālāk tabulas rūtiņas var aizpildīt šādi:
 
-**a)**
+**(A)**
 
 ![](LV.AMO.2014.8.5A.png)
 
@@ -618,7 +670,7 @@ Esam ieguvuši pretrunu, ka vidējās rindas labajā rūtiņā jābūt negatīva
 Tātad rūtiņā, kas bija apzīmēta ar jautājuma zīmi, nevar būt ierakstīts skaitlis
 $7$.
 
-**b)**
+**(B)**
 
 ![](LV.AMO.2014.8.5B.png)
 
@@ -626,6 +678,18 @@ Vienas diagonāles skaitļu summa ir $3x$. Tātad $y=2x-24$. Ievietojot $x=13$,
 iegūsim vienu derīgu tabulas aizpildījumu:
 
 ![](LV.AMO.2014.8.5C.png)
+
+
+
+
+## Atrisinājums
+
+Apzīmējam $a_{22}=x$, $a_{31}=b$. 
+
+Tad $a_{13}=2x-b$, $a_{11}=x+b-24$, $a_{33}=x-b+24$, $a_{23}=2b-24$. Pie $b=7$, $a_{23}<0$.
+
+
+
 
 
 
@@ -638,8 +702,8 @@ kvadrāts (skat. 10.zīm.). Aprēķināt iekrāsoto daļu laukumu summu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -669,8 +733,9 @@ var izveidot no šiem cipariem, summa ir $1276$. Atrast dotos četrus ciparus!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -738,8 +803,8 @@ mazākais skaitlis, kas var būt ierakstīts tabulas centrālajā rūtiņā?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -898,8 +963,13 @@ aprēķināja to summu. Kāds lielākais skaits no šīm summām var būt pirmsk
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularParity
+* topic:BipartiteGraphs
+* topic:ModularArithmetic
+* topic:TreeTraversalBacktracking
+* questionType:FindOptimal
+* domain:NT
+* concepts:sum,primes
 
 </small>
 
@@ -916,6 +986,58 @@ vērtība ir $12$.
 $12$ pirmskaitļi ir iespējami, piemēram, ja doti skaitļi $2,4,8,14,3,9,15$, tad
 nepāra summas ir $5, 11, 17, 7, 13, 19, 11, 17, 23, 17, 23, 29$, kas visas ir
 pirmskaitļi.
+
+
+
+
+## Atrisinājums
+
+
+Ievērojam, ka vajadzīgs lielākais *skaits*, kas var būt 
+pirmskaitļi. Nevis lielākais *dažādu pirmskaitļu* skaits, ko 
+var šādi iegūt.
+
+Dažādu naturālu skaitļu summa nevar būt $2$.
+Tātad, lai divu skaitļu summa būtu (nepāru) pirmskaitlis, 
+viens no tiem ir pāru, otrs ir nepāru. 
+Cik no 7 ir pāru un cik nepāru skaitļu?
+
+$$7=0+7=1+6=2+5=3+4=4+3=5+2=6+1=7+0$$
+
+Lielākais teorētiski iespējamais $(n,p)$ pārīšu skaits ir tad, 
+ja $4$ no septiņiem skaitļiem ir nepāru un $3$ ir pāru (vai otrādi):
+$4\cdot{}3=12$.
+
+Zīmējam grafu:
+
+![](LV.AMO.2014.10.4A.png)
+
+* Nepāru skaitļi veido kopu $A$ ar $4$ elementiem, 
+  pāru skaitļi veido kopu $B$ ar $3$ elementiem. 
+* Ir tikai $4\cdot{}3$ pāri, kam ir cerība būt pirmskaitļiem. 
+  (Saskaitot $p+p$ vai $n+n$ pirmskaitli iegūt nevar.)
+
+
+**Definīcija:** Ja grafā visas virsotnes var sadalīt divās nepārklājošās 
+apakškopās $A$ un $B$ tā, ka jebkura grafa šķautne iet no virsotnes 
+kopā $A$ uz virsotni kopā $B$, tad grafu sauc par *divdaļīgu*.  
+
+**Apgalvojums:** Ja divdaļīgā grafā apakškopās $A$ un $B$ ir attiecīgi 
+$a$ un $b$ virsotnes, tad tajā ir ne vairāk kā $a\cdot{}b$ šķautnes.
+
+Aplūkojam atlikumus, dalot ar 3.
+
+![](LV.AMO.2014.10.4B.png)
+
+* Izvēloties vismazākos nepāru un pāru skaitļus, tikai $9$ no $12$ 
+  teorētiski iespējamajiem ir pirmskaitļi (citas summas dalās ar $9$ - 
+  apzīmētas ar raustītu līniju). 
+* Ja papildus prasa, lai visi $7$ skaitļi dotu atlikumu $1$ 
+  (vai, izņēmuma gadījumā, atlikumu $0$), 
+  dalot ar $3$, var panākt, lai visas $12$ summas būtu pirmskaitļi.
+
+
+
 
 
 
@@ -1017,8 +1139,9 @@ $a_{1}=1000$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sequence
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1103,8 +1226,9 @@ skaitļa kvadrāts!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:product,square-Alg
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1217,8 +1341,10 @@ Atrast visus pirmskaiţuus $p$, kuriem $p^{4}-6$ arī ir pirmskaitlis!
 
 <small>
 
-* questionType:
-* domain:
+
+* concepts:primes
+* questionType:FindAll
+* domain:NT
 
 </small>
 

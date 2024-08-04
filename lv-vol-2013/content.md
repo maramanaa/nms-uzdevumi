@@ -8,8 +8,8 @@ $y$ simti, $z$ desmiti un $t$ vieni.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -70,8 +70,8 @@ piemēram, $[3]=3,[4,6]=4,[0,2]=0$ u.tml.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -204,8 +204,12 @@ naturālos skaitļos.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:CountingUsingSymmetry
+* topic:NumTheoryInequalityLargeIntervals
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -222,6 +226,32 @@ iespējams tikai tad, ja $a=b$. Tādā gadījumā
 $\frac{2}{a}+\frac{1}{2a^{2}}=\frac{1}{2}$, tāpēc $a \geq 5$. Bet tādā gadījumā
 $\frac{2}{a}+\frac{1}{2a^{2}} \leq \frac{2}{5}+\frac{1}{50}=\frac{21}{50} < \frac{1}{2}$,
 tāpēc vienādojumam atrisinājuma naturālos skaitļos nav.
+
+
+
+
+## Atrisinājums
+
+Sākotnējie secinājumi par mainīgajiem
+
+Pieņemam, ka $a \leq b$ (ja tā nav, tad $a$ un $b$ samainām vietām).
+
+* Ja $a \geq 6$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} < \frac{1}{2}$
+* Ja $a \leq 2$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} > \frac{1}{2}$
+* Gadījums $a=3$:
+
+    - Ja $b=6$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} > \frac{1}{2}$
+    - Pie $b=7$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} < \frac{1}{2}$
+
+* Gadījums $a=4$:
+
+    - Ja $b=4$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} > \frac{1}{2}$
+    - Ja $b=5$, tad $\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2} < \frac{1}{2}$
+
+Citas $b$ vērtības var neaplūkot, jo dotajam $a$ ($a=3$ vai $a=4$) izteiksme 
+$\frac{1}{a} + \frac{1}{b} + \frac{1}{a^2+b^2}$ arvien samazinās tad, ja $b$ pieaug.
+
+
 
 
 
@@ -289,8 +319,12 @@ kvadrāti.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:FibonacciNumbers
+* topic:PeriodicRemainders
+* topic:ModularArithmetic
+* concepts:fibonacci-sequence,full-square
 
 </small>
 
@@ -313,6 +347,49 @@ ja $n=3k+2 \Rightarrow n^{2}=9k^{2}+12k+4=3 \cdot\left(3k^{2}+4k+1\right)+1$
 
 Tātad Fibonači virknē ir bezgalīgi daudz skaitļu (tie, kas dod atlikumu $2$, dalot
 ar $3$), kas nav naturāla skaitļa kvadrāts.
+
+
+
+
+## Atrisinājums
+
+Atrodam Fibonači virknes atlikumus, dalot ar 3:
+
+| $n$           | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| $F_n$         | 1    | 1    | 2    | 3    | 5    | 8    | 13   | 21   | 34   | 55   |
+| $F_n \pmod 3$ | 1    | 1    | 2    | 0    | 2    | 2    | 1    | 0    | 1    | 1    |
+
+Kā redzams tabuliņā $F_1 \equiv F_9 \equiv 1$ un $F_2 \equiv F_{10} \equiv 1$ pēc
+$3$ moduļa (tāpēc sākot ar devīto locekli atkal atkārtosies tas pats astoņu 
+atlikumu periods: $1,1,2,0,2,2,1,0$). 
+
+
+* Neviens pilns kvadrāts nevar dot atlikumu $2$, dalot ar $3$, jo $(3k+1)^2$ un 
+  $(3k+2)^2$ dod atlikumu $1$. 
+* Fibonači virknē atlikums $2$, dalot ar $3$ parādīsies bezgalīgi bieži - 
+  $x_3$, $x_5$, $x_6$ (un arī $x_{2+8k}$, $x_{2+8k}$, $x_{2+8k}$ jebkuram $k$).
+* Visi šie nebūs naturāla skaitļa kvadrāti. 
+
+Protams, **faktiski** kvadrātu starp Fibonači virknes locekļiem ir vēl krietni mazāk
+(no augšminētajiem tikai $1=1^2$ un $144=12^2$). Bet šajā uzdevumā jāpamato, ka
+no kādas vietas virknes uzvedība nevar izmainīties tā, ka visi 
+pietiekami lielie virknes locekļi ir kvadrāti.
+
+
+**Apgalvojums:** (1) Dalot ar jebkuru fiksētu skaitli, Fibonači virknes locekļu atlikumi veido periodu.  
+(2) Periodiskajai atlikumu virknei nav priekšperioda un tajā bezgalīgi bieži parādās atlikums $0$.  
+
+**Pierādījums:**  
+(1) Katru Fibonači virknes locekļa atlikumu nosaka divu iepriekšējo locekļu atlikumi. 
+Tiklīdz kā divu pēc kārtas sekojošu atlikumu pārītis sakrīt ar tādu, kas bijis agrāk, Fibonači virknes
+atlikumi sāk atkārtoties, izveidojas cikls.  
+(2) Atlikumu virknē nevar rasties priekšperiodi, 
+jo atlikumus var rēķināt arī pretējā secībā: no $F_{i+2}$ un $F_{i+1}$ atlikumiem 
+viennozīmīgi atrodot $F_i$ atlikumu. Tātad atlikumu virkne ir periodiska abos virzienos (nevis tikai 
+kļūst periodiska, sākot no kādas vietas). Tā kā $0$-tais Fibonači skaitlis $F_0 = 0$, tad arī atlikums
+$0$ parādīsies bezgalīgi bieži (vismaz vienreiz katrā periodā).
+
 
 
 
@@ -359,8 +436,8 @@ Pierādīt, ka nav tādas naturālas $n$ vērtības, ka $n^{2}+4n+16$ dalās ar 
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -650,18 +727,19 @@ sākotnējai sistēmai atrisinājuma nav.
 # <lo-sample/> LV.VOL.2013.12.3
 
 Funkcija $f$ apmierina šādas prasības:
-**a)** $f$ ir definēta visiem veseliem nenegatīviem skaitļiem un tās vērtības ir
-veseli skaitļi;
-**b)** katram $n$ ($n$- vesels nenegatīvs skaitlis) izpildās sakarība
 
-$$f(n) \cdot(f(n+1)-2)=4n^{2}-1$$
+1. $f$ ir definēta visiem veseliem nenegatīviem skaitļiem un tās vērtības ir
+   veseli skaitļi;
+2. katram $n$ ($n$- vesels nenegatīvs skaitlis) izpildās sakarība
+
+   $$f(n) \cdot(f(n+1)-2)=4n^{2}-1$$
 
 Atrast visas šādas funkcijas $f$ un pierādīt, ka citu nav.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -751,8 +829,8 @@ visas iespējamās $n$ vērtības.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
