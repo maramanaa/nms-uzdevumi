@@ -288,12 +288,14 @@ citi veidi, kā var iekrāsot $7$ rūtiņas.
 Naturālie skaitļi no $1$ līdz $18$ sadalīti pa pāriem tā, ka katrā pārī esošo
 skaitļu summa ir naturāla skaitļa kvadrāts. Ar ko pārī apvienots skaitlis $1$?
 
-Par skaitļa kvadrātu sauc skaitļa reizinājumu pašam ar sevi.
+*Piezīme.* Par skaitļa kvadrātu sauc skaitļa reizinājumu pašam ar sevi.
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryInequalityMethod
+* topic:BipartiteGraphs
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -332,6 +334,15 @@ ar $3, 6$ ar $10$ un $1$ ar $15$.
 **Atbilde:** $1$ ir apvienots pārī ar $15$.
 
 
+## Atrisinājums
+ 
+**#GadījumuPārlase** 
+(18,7), (17,8), (16,9) $\rightarrow$ (2,14) $\rightarrow$ (11,5) $\rightarrow$ (4,12) $\rightarrow$ (13,3) $\rightarrow$ (1,15).
+
+
+
+
+
 
 # <lo-sample/> LV.NOL.2013.7.2
 
@@ -340,8 +351,11 @@ skaitlis $x(x+1)(x+2)$ dalās ar $111$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesOther
+* topic:MultiplesInInterval
+* seeAlso:LV.NOL.2014.7.3
+* questionType:FindCount
+* domain:NT
 
 </small>
 
@@ -361,10 +375,16 @@ $x$, ka $x+1$ dalās ar $37$ un $54$ veidos- tādu $x$, ka $x+2$ dalās ar $37$,
 t.i., pavisam ir $54+54+54=162$ tādi skaitļi $x$, ka $x(x+1)(x+2)$ dalās ar $111$.
 
 
+## Atrisinājums
+ 
+$x(x+1)(x+2)$ vienmēr dalās ar $3$, bet tam jādalās arī ar $37$. 
+Tādu $x$ ir trīsreiz vairāk kā $\left\lfloor 2013/37 \right\rfloor$. 
+
+
 
 # <lo-sample/> LV.NOL.2013.7.3
 
-Vai eksistē tāds **a)** $11$-stūris; **b)** $12$-stūris, kuram $8$ virsotnes
+Vai eksistē tāds **(A)** $11$-stūris; **(B)** $12$-stūris, kuram $8$ virsotnes
 atrodas uz vienas taisnes?
 
 <small>
@@ -377,13 +397,13 @@ atrodas uz vienas taisnes?
 
 ## Atrisinājums
 
-**a)** Ja $11$-stūra $8$ virsotnes atrodas uz vienas taisnes, tad $3$ virsotnes
+**(A)** Ja $11$-stūra $8$ virsotnes atrodas uz vienas taisnes, tad $3$ virsotnes
 uz tās neatrodas. Apzīmēsim tās ar $A$, $B$ un $C$. Tad no pārējām $8$
 virsotnēm daļa atrodas starp $A$ un $B$, daļa starp $B$ un $C$ un daļa- starp
 $C$ un $A$. Pēc Dirihlē principa kādā no šīm daļām ir vismaz $3$ virsotnes un
 tās visas atrodas uz vienas taisnes- pretruna.
 
-**b)** Jā, var; skat. piemēram, 5.zīm.
+**(B)** Jā, var; skat. piemēram, 5.zīm.
 
 ![](LV.NOL.2013.7.3A.png)
 
@@ -396,8 +416,9 @@ skaitļu starpība būtu $6, 10, 14$ vai $18$?
  
 <small>
 
-* questionType:
-* domain:
+* topic:InvariantRemainder
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -412,6 +433,13 @@ aprakstītās darbības rezultātā iegūtie), izdalīsim tos visus ar $2$. Taga
 blakus stāvošo skaitļu starpības būs $3, 5, 7$ vai $9$ . Ievērosim, ka tagad
 blakus stāvošo skaitļu paritātes ir dažādas, bet $13$ skaitļu gadījumā tas nav
 iespējams.
+
+
+## Atrisinājums
+ 
+Skaitļu atlikums, dalot ar $4$, palielinās par $2$ katrā solī. Pēc $13$ soļiem arī mainās par $2$, bet 
+būtu jāpaliek tam pašam. Iegūta pretruna.
+
 
 
 
@@ -443,6 +471,9 @@ piecinieki, tāpēc tajā ierakstīto skaitļu summa būs vismaz $5+5+5+3=18$, k
 
 ![](LV.NOL.2013.7.5A.png)
 
+
+
+
 # <lo-sample/> LV.NOL.2013.8.1
 
 Skaitli $8999999$ uzraksti kā divu veselu skaitļu reizinājumu tā, lai katrs no
@@ -450,8 +481,9 @@ reizinātājiem ir lielāks nekā $1$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:StandardIdentities
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -460,6 +492,14 @@ reizinātājiem ir lielāks nekā $1$.
 
 Ievērosim, ka
 $8999999=9000000-1=3000^{2}-1^{2}=(3000-1) \cdot(3000+1)=2999 \cdot 3001$.
+
+
+
+
+## Atrisinājums
+ 
+Pārveido $3000^2 - 1^2$ pēc kvadrātu starpības formulas.
+
 
 
 
@@ -506,8 +546,10 @@ Cik ir tādu četrciparu skaitļu, kuru pierakstā ir vismaz viens pāra cipars?
 
 <small>
 
-* questionType:
-* domain:
+* topic:RuleOfProduct
+* topic:CountingSetDifference
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -521,6 +563,13 @@ nepāra ciparus. Tātad $9000-625=8375$ četrciparu skaitļu pierakstā ir visma
 viens pāra cipars.
 
 
+## Atrisinājums
+ 
+$4$-ciparu skaitļu bez pāru cipariem ir $5^4 = 625$; 
+visu citu (kuros ir vismaz viens pāra cipars) 
+būs $9000 - 625 = 8375$.
+
+
 
 # <lo-sample/> LV.NOL.2013.8.4
 
@@ -530,8 +579,11 @@ skaitļu reizinājums būtu viens un tas pats.
 
 <small>
 
-* questionType:
-* domain:
+* topic:TreeTraversalBacktracking
+* topic:StandardIdentities
+* genre:MagicConfiguration
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -545,6 +597,42 @@ tabulā ierakstot pakāpes ar vienādām bāzēm tā, lai kāpinātāju summa ka
 rindiņā un katrā kolonnā būtu viena un tā pati.
 
 ![](LV.NOL.2013.8.4A.png)
+
+
+
+## Atrisinājums
+
+Sākam ar parastu maģisko kvadrātu, kur katrā rindiņā, 
+kolonnā (un pat diagonālē - kaut arī tas nav prasīts) 
+skaitļu summas ir vienādas:
+
+| 8   | 1   | 6   |
+| --- | --- | --- |
+| 3   | 5   | 7   |
+| 4   | 9   | 2   |
+
+
+**#PropertiesOfExponents** 
+Ja jāpāriet no summām uz skaitļu reizinājumiem, var
+katru no skaitļiem $a$ aizstāt, piemēram ar divnieka 
+(vai cita konstanta skaitļa) pakāpi $2^a$
+un izmantot pakāpes īpašību, ka $2^a \cdot 2^b = 2^{a+b}$. 
+
+Mūsu gadījumā $8$ pārvēršas par $2^8 = 256$, 
+$1$ pārvēršas par $2^1 = 2$ utt. Iegūstam šādu kvadrātu: 
+
+| 256 | 2   | 64  |
+| --- | --- | --- |
+| 8   | 32  | 128 |
+| 16  | 512 | 4   |
+
+Šajā kvadrātā katrā rindiņā, kolonnā (un arī abās diagonālēs)
+skaitļu reizinājumi ir $2^15 = 32768$. 
+
+
+
+
+
 
 
 
