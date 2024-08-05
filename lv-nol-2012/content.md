@@ -97,6 +97,8 @@ nepāra saskaitāmo summa, t.i., nepāra skaitlis, bet katrā rindā jābūt $10
 **(B)** Jā, var. Skat., piem., 2.zīm. (Ar vienādiem cipariem apzīmētajos 
 lauciņos jāstāda vienas krāsas tulpes, ar dažādiem - dažādu krāsu tulpes.)
 
+![](LV.NOL.2012.5.4A.png)
+
 
 
 # <lo-sample/> LV.NOL.2012.5.5
@@ -125,6 +127,8 @@ $2:\ 11,\ 12,\ 22,\ 21$*.)*
 ## Atrisinājums
 
 **(A)** Skat., piem., 3.zīm. **(B)** Skat., piem., 4.zīm.
+
+![](LV.NOL.2012.5.5A.png)
 
 
 
@@ -230,7 +234,7 @@ pāra skaitlis, lielāks nekā $2$, t.i., salikts skaitlis.
 
 # <lo-sample/> LV.NOL.2012.6.5
 
-Katrs no trīs rūkīšiem ir iedomājies vienu no skaitļiem $1,\ 2$ vai $3$, 
+Katrs no trīs rūķīšiem ir iedomājies vienu no skaitļiem $1,\ 2$ vai $3$, 
 katrs - citu skaitli. Katrs rūķītis zina, kādus skaitļus ir iedomājušies 
 pārējie rūķīši.
 
@@ -251,23 +255,23 @@ Uzdevumam iespējami dažādi risinājumi.
 
 Piemēram, viens no risinājumiem.
 
-1) Pirmajam rūķītim jautā, vai viņa iedomātais skaitlis ir lielāks nekā otrā 
+1. Pirmajam rūķītim jautā, vai viņa iedomātais skaitlis ir lielāks nekā otrā 
    rūķīša iedomātais skaitlis.
-2) Otrajam - vai viņa iedomātais skaitlis ir lielāks nekā trešā rūķīša 
+2. Otrajam - vai viņa iedomātais skaitlis ir lielāks nekā trešā rūķīša 
    iedomātais skaitlis.
-3) Trešajam rūķītim jautā, vai viņš ir iedomājies skaitli $2$.
+3. Trešajam rūķītim jautā, vai viņš ir iedomājies skaitli $2$.
 
-Ja uz 1) un 2) jautājumu tika saņemtas atbildes "jā", tad pirmā, otrā un trešā 
+Ja uz 1. un 2. jautājumu tika saņemtas atbildes "jā", tad pirmā, otrā un trešā 
 rūķīšu iedomātie skaitļi ir attiecīgi $3,\ 2,\ 1$. Ja abas atbildes bija "nē", 
 tad iedomātie skaitļi ir attiecīgi $1,\ 2,\ 3$.
 
-Ja uz 1) jautājumu atbilde ir "nē", bet uz otro - "jā", tad otrā rūķīša 
+Ja uz 1. jautājumu atbilde ir "nē", bet uz otro - "jā", tad otrā rūķīša 
 iedomātais skaitlis ir $3$. Pārējo rūķīšu iedomātos skaitļus nosaka pēc 
-atbildes uz 3) jautājumu.
+atbildes uz 3. jautājumu.
 
-Ja uz 1) jautājumu atbilde ir "jā", bet uz otro - "nē", tad otrā rūķīša 
+Ja uz 1. jautājumu atbilde ir "jā", bet uz otro - "nē", tad otrā rūķīša 
 iedomātais skaitlis ir $1$. Atkal pārējo rūķišu iedomātos skaitļus var noteikt 
-pēc atbildes uz 3) jautājumu.
+pēc atbildes uz 3. jautājumu.
 
 
 
@@ -395,6 +399,8 @@ Sadalīsim sākotnējo trijstūri četros vienādmalu trijstūros ar malas garum
 ierakstīti $9$ piecinieki, tad kādā no šiem trijstūriem būs vismaz trīs 
 piecinieki, tāpēc tajā ierakstīto skaitļu summa būs vismaz $5+5+5+3=18$, k.b.j.
 
+![](LV.NOL.2012.7.5A.png)
+
 
 
 # <lo-sample/> LV.NOL.2012.8.1
@@ -421,6 +427,8 @@ $3999991=4000000-9=2000^{2}-3^{2}=(2000-3) \cdot(2000+3)=1997 \cdot 2003$.
 Trijstūrī $ABC$ leņķis $ABC$ ir $30^{\circ}$ liels. Uz malas $AB$ izvēlēts 
 punkts $E$, bet uz malas $BC$ punkts $F$ tā, ka trijstūris $CEF$ ir vienādmalu.
 Pierādīt, ka punkts $F$ ir malas $BC$ viduspunkts.
+
+![](LV.NOL.2012.8.2A.png)
 
 <small>
 
@@ -504,6 +512,8 @@ rindas, iegūst trīs sadalījumus (skat. 10. a), b) un c) zīm.). Taču 10. b) 
 10. c) zīm. attēlotie sadalījumi ir viens otra spoguļattēls, tāpēc ir tikai 
 divi dažādi veidi, kā šo figūru sadalīt "stūrīšos".
 
+![](LV.NOL.2012.8.5A.png)
+
 
 
 # <lo-sample/> LV.NOL.2012.9.1
@@ -573,8 +583,8 @@ Ja $n=5,6$ vai $7$, tad var izveidot vienu atbilstošā lieluma grupu.
 
 Ja $n \geq 10:n=10=5+5;\ n=11=5+6,\ n=12=6+6,\ n=13=6+7,\ n=14=7+7$.
 
-Ja $n \geq 15$, varam izteikt $n=5k+i, k \geq 3, i=0,1,2,3,4$, jeb pārveidojot 
-$n=5(k-2)+(10+i)$.
+Ja $n \geq 15$, varam izteikt $n=5k+i,\ k \geq 3,\ i=0,1,2,3,4$, jeb 
+pārveidojot $n=5(k-2)+(10+i)$.
 
 Tā kā $n=10+i(i=0,1,2,3,4)$ cilvēkus var sadalīt vajadzīgā lieluma grupās un 
 $5k$ var sadalīt $k$ grupās pa $5$ cilvēkiem katrā, tad visiem $n \geq 10$ 
@@ -698,6 +708,7 @@ iespējas.
    paralēlām, bet tas nav iespējams, jo tās krustojas punktā $B$.
 
 Atliek trešā iespēja.
+
 3) $\sphericalangle BKC=\sphericalangle BKA$. Tad leņķis $\sphericalangle BKC$ ir taisns, un trijstūris $B K C$ ir taisnleņķa trijstūris. Tā kā $\triangle A B C$ ir līdzīgs trijstūrim $B K C$, tad arī $\triangle A B C$ ir taisnleņķa trijstūris.
 
 ![](LV.NOL.2012.10.2A.png)
@@ -808,7 +819,7 @@ simetrisku $8$-ciparu skaitli?
 Simetrisks $8$-ciparu skaitlis $\overline{abcddcba}$ dalās ar $11$, jo tā 
 ciparu summa pāra pozīcijās $a+c+d+b$ ir vienāda ar ciparu summu nepāra 
 pozīcijās $b+d+c+a$ (summu starpība $0$ dalās ar $11$). Dotais skaitlis nevar 
-būt ciparu reizinājums, jo vienam reizināāajam jādalās ar $11$, bet neviens 
+būt ciparu reizinājums, jo vienam reizinātājam jādalās ar $11$, bet neviens 
 cipars nepārsniedz $9$.
 
 
@@ -914,7 +925,7 @@ pakāpe jebkuram naturālam $k \geq 2$.
 Der, piemēram, aritmētiskā progresija $2,6,10, \ldots$, vispārīgā locekļa 
 formula $a_{n}=4n-2$, $n \geq 1$.
 
-Pienemsim, ka ir tāds $n$, ka $a_{n}=b^{k}$, kur $b$ un $k$ - naturāli skaitļi 
+Pieņemsim, ka ir tāds $n$, ka $a_{n}=b^{k}$, kur $b$ un $k$ - naturāli skaitļi 
 un $k \geq 2$. Tā kā visi virknes locekļi $a_{n}$ ir pāra skaitļi, tad $b^{k}$ 
 ir pāra skaitlis un $b$ arī ir pāra skaitlis. Bet tad $b^{k}$ dalās ar $2^{k}$,
 un pie $k \geq 2b^{k}$ dalās ar $4$. Taču $a_{n}$ ar $4$ nedalās - pretruna, 
@@ -1022,6 +1033,8 @@ $\underline{Piezīme:}$ punkts $M$ var atrasties dažādās pusēs no $P$, kā a
 sakrist ar to. Tomēr tas nekādi neietekmē uzdevuma atrisinājumu (piem., sk. 6. 
 un 7.zīm.).
 
+![](LV.NOL.2012.12.3A.png)
+
 
 
 # <lo-sample/> LV.NOL.2012.12.4
@@ -1050,7 +1063,7 @@ $$\begin{equation*}
 
 Šim skaitlim ir vismaz pieci naturāli dalītāji $1,\ 2,\ 4,\ 8$ un $8(m+3)$.
 
-$\left(^{*}\right) k(k+1)=2m$, jo divu pēc kārtas sekojošu naturālu skaitļu 
+(*) $k(k+1)=2m$, jo divu pēc kārtas sekojošu naturālu skaitļu 
 reizinājums pāra skaitlis.
 
 
@@ -1073,7 +1086,7 @@ $A_{l},\ E$ būtu starp $A_{l}$ un $A_{i}$. Kādām $i, j, k, l$ vērtībām pun
 
 ## Atrisinājums
 
-Ar $b, c, d$ un $e$ apzīmējam virsotnu skaitu attiecīgi starp $A_{i}$ un 
+Ar $b, c, d$ un $e$ apzīmējam virsotņu skaitu attiecīgi starp $A_{i}$ un 
 $A_{j}$, starp $A_{j}$ un $A_{k}$, starp $A_{k}$ un $A_{l}$ un starp $A_{l}$ un
 $A_{i}$. Četriniekus $(B, C, D, E)$ var izvēlēties $b \cdot c \cdot d \cdot e$ 
 veidos. Tā kā virsotnes $B, C, D$ un $E$ nevar sakrist ar $A_{i}, A_{j}, A_{k}$
@@ -1082,7 +1095,7 @@ reizinājums $b \cdot c \cdot d \cdot e$ sasniedz lielāko vērtību pie nosacī
 $b+c+d+e=13$.
 
 Sākumā apskatām vienkāršāku problēmu: atrast maksimumu reizinājumam 
-$b \cdot c$, ja zināms, ka $b+c=S, S$ - fiksēts vesels skaitlis un $b$ un $c$ 
+$b \cdot c$, ja zināms, ka $b+c=S,\ S$ - fiksēts vesels skaitlis un $b$ un $c$ 
 jābūt veseliem skaitļiem. Salīdzinot $b \cdot c$ un
 
 $(b+1) \cdot(c-1)=b c-b+c-1$, konstatējam, ka
@@ -1107,7 +1120,7 @@ $4 \cdot 3 \cdot 3 \cdot 3=108$ veidos.
 Šajā gadījumā virsotnes $A_{i}, A_{j}, A_{k}, A_{l}$, jāizvēlas tā, lai 
 $i, j, k, l$ apmierina sekojošus nosacījumus:
 
-$i < j < k < l, i=1,2,3,4$ vai $5$,
+$i < j < k < l,\ i=1,2,3,4$ vai $5$,
 
 $j-i=4$ vai $5,\ k-j=4$ vai $5,\ l-k=4$ vai $5$, pie tam tieši viens no 
 $j-i,\ k-j,\ l-k,\ 17+i-l$ ir $5$.
