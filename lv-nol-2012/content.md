@@ -110,8 +110,8 @@ visi trīsciparu skaitļi, kuru pierakstā ir tikai cipari $1$ un/vai $2$.
 četrciparu skaitļi, kuru pierakstā ir tikai cipari $1$ un/vai $2$?
 
 *(Piemēram, 2.zīm. parādīts, ka četrus ciparus var izvietot tā, lai būtu 
-sastopami visi divciparu skaitļi, kuru pierakstā ir tikai cipari $1$ un/vai 
-$2:\ 11,\ 12,\ 22,\ 21$.)*
+sastopami visi divciparu skaitļi, kuru pierakstā ir tikai cipari* $1$ *un/vai* 
+$2:\ 11,\ 12,\ 22,\ 21$*.)*
 
 ![](LV.NOL.2012.5.5.png)
 
@@ -725,7 +725,7 @@ $3$, tāpēc kāds no tiem nedalās ar $3$. Tas skaitlis, kas nedalās ar $2$ un
 $3$, ir lielāks nekā $1$, tāpēc tas dalās ar kādu pirmskaitli $p$, kas nav $2$ 
 un $3$. Tāpēc $p \geq 5$. Šis pirmskaitlis der par meklēto, jo nākamais 
 skaitlis, kas dalās ar $p$, ir vismaz $a+1+p>a+5$, bet iepriekšējais 
-nepārsniedz $a+3-p<a$. Ja nepāra skaitlis būtu $a+2$, tad, izdarot līdzīgus 
+nepārsniedz $a+3-p < a$. Ja nepāra skaitlis būtu $a+2$, tad, izdarot līdzīgus 
 spriedumus, var pierādīt, ka kāds no skaitļiem $a+2$ vai $a+4$ dalās ar kādu 
 pirmskaitli $p \geq 5$, kas der par meklēto.
 
@@ -748,7 +748,7 @@ uzrakstīti viens aiz otra. Cik cipari uzrakstīti?
 Pieņemsim, ka $n$ ir skaitļa $2^{2012}$ ciparu skaits, $m$ - skaitļa $5^{2012}$
 ciparu skaits. Tad $10^{n-1}<2^{2012}<10^{n}$ un $10^{m-1}<5^{2012}<10^{m}$. 
 Sareizināsim šīs nevienādības: $10^{n+m-2}<10^{2012}<10^{n+m}$. Tātad 
-$n+m-2<2012<n+m$ un vienīgā iespējamā $n+m$ vērtība (t.i., uzrakstīto ciparu 
+$n+m-2 < 2012 < n+m$ un vienīgā iespējamā $n+m$ vērtība (t.i., uzrakstīto ciparu 
 skaits) ir $2013$.
 
 
@@ -886,8 +886,8 @@ Aplūkosim regulārā trijstūra malu $AB$ un trīs sekojošas deviņstūra mala
 $AK,\ KL$ un $LB$ (skat. 5.zīm.). Ievērosim, ka trijstūri $AKL$ un $ALB$ ir 
 platleņķka, jo leņķi $\sphericalangle AKL$ un $\sphericalangle ALB$ balstās uz 
 lokiem, kas ir lielāki nekā $180^{\circ}$. No kosinusu teorēmas seko, ka 
-$AK^{2}+KL^{2}<AL^{2}$ un $AL^{2}+LB^{2}<AB^{2}$. Tātad 
-$AK^{2}+KL^{2}+LB^{2}<AB^{2}$. Tas nozīmē, ka regulāra deviņstūra trīs malu 
+$AK^{2}+KL^{2} < AL^{2}$ un $AL^{2}+LB^{2} < AB^{2}$. Tātad 
+$AK^{2}+KL^{2}+LB^{2} < AB^{2}$. Tas nozīmē, ka regulāra deviņstūra trīs malu 
 kvadrātu summa ir mazāka nekā regulāra trijstūra malas kvadrāts. Tātad visu 
 deviņu deviņstūra malu kvadrātu summa ir mazāka nekā regulāra trijstūra trīs 
 malu kvadrātu summa.
@@ -1058,7 +1058,7 @@ reizinājums pāra skaitlis.
 # <lo-sample/> LV.NOL.2012.12.5
 
 Regulārā $17$-stūrī $A_{1}A_{2} \ldots A_{17}$ atzīmētas četras virsotnes 
-$A_{i}, A_{j}, A_{k}, A_{l}(i<j<k<l)$. No pārējām virsotnēm ir jāizvēlas četras
+$A_{i}, A_{j}, A_{k}, A_{l} (i < j < k < l)$. No pārējām virsotnēm ir jāizvēlas četras
 virsotnes (apzīmēsim tās ar $B,\ C,\ D$ un $E)$ tā, lai $B$ būtu starp $A_{i}$ 
 un $A_{j},\ C$ būtu starp $A_{j}$ un $A_{k},\ D$ būtu starp $A_{k}$ un 
 $A_{l},\ E$ būtu starp $A_{l}$ un $A_{i}$. Kādām $i, j, k, l$ vērtībām punktu 
@@ -1087,7 +1087,7 @@ jābūt veseliem skaitļiem. Salīdzinot $b \cdot c$ un
 
 $(b+1) \cdot(c-1)=b c-b+c-1$, konstatējam, ka
 
-$b \cdot c<(b+1) \cdot(c-1)$, ja $-b+c-1>0$ jeb $b<c-1$  
+$b \cdot c<(b+1) \cdot(c-1)$, ja $-b+c-1>0$ jeb $b < c-1$  
 $b \cdot c=(b+1) \cdot(c-1)$, ja $-b+c-1=0$ jeb $b=c-1$  
 $b \cdot c>(b+1) \cdot(c-1)$, ja $-b+c-1<0$ jeb $b>c-1$
 
@@ -1107,11 +1107,11 @@ $4 \cdot 3 \cdot 3 \cdot 3=108$ veidos.
 Šajā gadījumā virsotnes $A_{i}, A_{j}, A_{k}, A_{l}$, jāizvēlas tā, lai 
 $i, j, k, l$ apmierina sekojošus nosacījumus:
 
-$i<j<k<l, i=1,2,3,4$ vai $5$,
+$i < j < k < l, i=1,2,3,4$ vai $5$,
 
 $j-i=4$ vai $5,\ k-j=4$ vai $5,\ l-k=4$ vai $5$, pie tam tieši viens no 
 $j-i,\ k-j,\ l-k,\ 17+i-l$ ir $5$.
 
 Atbilstoši šiem nosacījumiem ($i, j, k, l$) var izvēlēties $17$ veidos: 
-$(1,5,9,13),\ (1,5,9,14),\ (1$, $5,10,14),\ (1,6,10,14),\ (2,6,10,14),\ (2,6,10,15),\ (2,6,11,15),\ (2,7,11,15),\ (3,7,11$, 15),\ (3,7,11,16),\ (3,7,12,16),\ (3,8,12,16),\ (4,8,12,16),\ (4,8,12,17),\ (4,8,13,17),\ (4$, $9,13,17),\ (5,9,13,17)$.
+$(1,5,9,13),\ (1,5,9,14),\ (1,5,10,14),\ (1,6,10,14),\ (2,6,10,14),\ (2,6,10,15),\ (2,6,11,15),\ (2,7,11,15),\ (3,7,11,15),\ (3,7,11,16),\ (3,7,12,16),\ (3,8,12,16),\ (4,8,12,16),\ (4,8,12,17),\ (4,8,13,17),\ (4,9,13,17),\ (5,9,13,17)$.
 
