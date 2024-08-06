@@ -5,8 +5,8 @@ $\frac{2015}{n^{4}-m^{4}}$ arī ir naturāls skaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -107,8 +107,8 @@ atšķirīgi no $100$).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Alg
 
 </small>
 
@@ -281,8 +281,11 @@ Pierādīt, ka katram naturālam $n$ izteiksme $3n^{5}+5n^{4}-8n$ dalās ar $10$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:DivisibilityProperties
+* topic:ModularParity
+* topic:ModularArithmetic
 
 </small>
 
@@ -353,6 +356,22 @@ $$3n^{3}+8 \cdot\left(n^{2}+n+1\right) \equiv 3 \cdot 64+8 \cdot(16+4+1) \equiv 
 
 Esam ieguvuši, ka visos gadījumos dotā izteiksme dalās gan ar $2$, gan ar $5$, 
 tātad tā dalās ar $10$.
+
+
+
+
+## Atrisinājums
+
+* Dalāmību ar $10$ pārbaudām, dalot ar $2$ un $5$
+* $3n^5 + 5n^4 - 8n$ vienmēr ir pāru skaitlis (aplūko, ja $n$ ir pāru/nepāru)
+* $3n^5 + 5n^4 - 8n$, dalot ar $5$ dod to pašu atlikumu, ko $3n^5 - 3n$
+
+    - Ja $n$ dalās ar $5$, tad $3n(n^4-1)$ dalās ar $n$ (tātad arī ar $5$).
+    - Visiem citiem $n$ atlikumiem, dalot ar $5$ (atlikumi $1,2,3,4$) iegūstam: $n^4 - 1$ dalās ar $5$
+
+Jāievieto skaitļi $n=1,2,3,4$ izteiksmē $n^4-1$: vienmēr dalīsies ar $5$.  
+Lielākiem skaitļiem ($n=6,7,8,9$) šie atlikumi sāks atkārtoties.
+
 
 
 
@@ -519,8 +538,8 @@ vesels skaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -635,8 +654,8 @@ iespējamo $b$ vērtību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -796,8 +815,8 @@ $2269^{n}+2151^{n}+1389^{n}-1779^{n}$ dalās ar $2015$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 

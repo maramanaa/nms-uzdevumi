@@ -419,8 +419,10 @@ skaitlis $x(x+1)(x+2)$ dalās ar $87$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesOther
+* topic:MultiplesInInterval
+* questionType:FindCount
+* domain:NT
 
 </small>
 
@@ -438,6 +440,26 @@ Tātad $69$ veidos var izvēlēties tādu $x$, kas dalās ar $29$, $69$ veidos -
 tādu $x$, ka $x+1$ dalās ar $29$ un $69$ veidos - tādu $x$, ka $x+2$ dalās ar 
 $29$, t. i., pavisam ir $69+69+69=207$ tādi skaitļi $x$, ka $x(x+1)(x+2)$ dalās
 ar $87$.
+
+
+
+## Atrisinājums
+ 
+**#DivisibilityProperties** 
+Ievērojam, ka izteiksme $x(x+1)(x+2)$ vienmēr dalās ar $3$, 
+jo $x, x+1, x+2$ pieņem visus iespējamos atlikumus, dalot ar $3$. 
+
+Uzdevumā faktiski jāsaskaita tie $x$, kuriem $x(x+1)(x+2)$ dalās 
+ar $87/3 = 29$. 
+Vērtības $x=29,58,87,116,\ldots,2001$ dalās ar $29$. Piemēram $2001 = 29 \cdot 69$. 
+Šādu $x$ ir pavisam $69$. 
+
+Bet tā kā ar $29$ drīkst dalīties arī $x+1$ vai $x+2$, tad der arī $x=28,57,86,115,\ldots$
+un arī $x=27,56,85,114,\ldots$. Tāpēc atrisinājumu ir trīsreiz vairāk nekā $69$. 
+To pavisam ir $3 \cdot 69 = 207$.
+
+jādalās ar $29$. 
+Tādu $x$ ir trīsreiz vairāk kā $\left\lfloor 2014/29 \right\rfloor$. 
 
 
 
@@ -560,8 +582,10 @@ Cik ir tādu piecciparu skaitļu, kuru pierakstā ir vismaz viens nepāra cipars
 
 <small>
 
-* questionType:
-* domain:
+* topic:RuleOfProduct
+* topic:CountingSetDifference
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -574,6 +598,23 @@ ir pāra. Šādu (kas satur tikai pāra ciparus) skaitļu skaits ir
 $4 \cdot 5 \cdot 5 \cdot 5 \cdot 5=2500$ (skaitļa pirmais cipars var būt 
 $2,\ 4,\ 6,\ 8$ - četras dažādas iespējas). Tātad $90000-2500=87500$ piecciparu
 skaitļu pierakstā ir vismaz viens nepāra cipars.
+
+
+
+## Atrisinājums
+
+**#SetComplement** 
+Vieglāk saskaitīt skaitļus, kuri neapmierina doto prasību -- t.i. skaitļus, 
+kuru pierakstā nav nepāra ciparu. 
+
+**#ProductRule**
+Skaitlis nevar sākties ar ciparu $0$, tātad pirmais cipars var būt 
+$2,4,6,8$. Visi tālākie cipari var pieņemt jebkuru no piecām vērtībām 
+$0,2,4,6,8$. 
+Pēc reizināšanas likuma, $5$-ciparu skaitļu bez nepāru cipariem ir 
+$4 \cdot 5^4 = 2500$. 
+
+Visu pārējo skaitļu, kuros ir vismaz viens nepāra cipars būs $90000 - 2500$.
 
 
 
@@ -883,6 +924,8 @@ $$x^{7}>\sqrt[3]{2} \cdot 4=\sqrt[3]{2} \cdot \sqrt[3]{64}=\sqrt[3]{128}>\sqrt[3
 
 
 
+
+
 # <lo-sample/> LV.NOL.2014.10.2
 
 Pierādīt, ka, izvēloties $52$ no aritmētiskās progresijas 
@@ -891,8 +934,12 @@ skaitļiem var atrast divus skaitļus, kuru summa ir $302$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:SeriesMembersSumsClosedFormulas
+* topic:MultiplesInInterval
+* topic:SeriesMembersSumsClosedFormulas
+* topic:NumTheoryPigeonhole
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -907,6 +954,21 @@ $$\{1\},\ \{151\},\ \{4, 298\},\ \{7, 295\},\ \{10, 292\},\ \ldots,\ \{148, 154\
 Šādu kopu skaits ir $51$. Tā kā ir jāizvēlas $52$ skaitļi, tad vismaz divi no 
 tiem būs no vienas kopas. Šie skaitļi ir meklētie divi skaitļi, kas summā dod 
 $302$.
+
+
+
+## Atrisinājums
+
+Progresijā ir 100 locekļu zem 300
+
+$$1, 4, 7, \ldots, 148, 151, 154, \ldots, 298$$
+
+* Diviem locekļiem - $1$, $151$ - nav pāra, ar ko summa ir $302$.
+* Vēl ir 49 pārīši - $(4,298)$, $(7,295)$, $\ldots$, $(148,154)$.
+* Izvēloties $52$ skaitļus, vismaz $50$ no tiem būs $\neq 1$, $\neq 151$. 
+* Dirihlē princips - divi būs no viena pārīša.
+
+
 
 
 

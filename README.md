@@ -7,7 +7,6 @@ NMS uzdevumi markdown formātā
 ## Kalvja saraksts
 
 Šie uzdevumi satur sarežģītas formulas vai kaut kādu iemeslu dēļ dēļ neattēlojas pareizi.
-TBD: Katram no uzdevumiem izveidojams vienības tests
 
 * [LV.NOL.2015.12.2](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2015.12.2) - izlabots
 * [IMO_SHL.2022.C7](https://www.dudajevagatve.lv/eliozo/problem?problemid=IMO_SHL.2022.C7) - nerāda atrisinājumu, kaut arī tas ir
@@ -20,8 +19,18 @@ TBD: Katram no uzdevumiem izveidojams vienības tests
 
 ## Katrīnas saraksts
 
-* [LV.AMO.2018.9.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.AMO.2018.9.1) - vienādojumu sistēma
+* [LV.NOL.2013.12.4](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2013.12.4) - "array" formula neuzzíméjas
+* [LV.NOL.2015.9.4](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2015.9.4) - equation,tag
+* [LV.NOL.2015.12.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2015.12.1) - daudzas salūzušas formulas
+* [LV.NOL.2015.12.5](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2015.12.5) - equation,tag
+* [LV.NOL.2018.5.2](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.5.2) - kopu apzīmējumi neparādās figūriekavas
+* [LV.NOL.2018.11.2](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.11.2) - kopu apzīmējumos neparādās figūriekavas
+* [LV.NOL.2018.10.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.10.1) - neattēlo 2 sistēmiņas, zīmē ``\[\left{``
+* [LV.NOL.2018.11.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.11.1) - neattēlo 2 sistēmiņas, zīmē ``\[\left{``
+* [LV.NOL.2018.12.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.12.1) - neattēlo 2 sistēmiņas, zīmē ``\[\left{``
+* [LV.NOL.2018.12.5](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2018.12.5) - pareizi attēlots uzdevums ar tag-otu formulu (zvaigznīte)
+* [LV.AMO.2018.9.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.AMO.2018.9.1) - neattēlo sistēmiņu, zīmē ``\[\left{``
 * [LV.AMO.2018.12.5](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.AMO.2018.12.5) - krāsainas formulas; izskatās OK
-* [LV.NOL.2018.5.2]
-* [LV.NOL.2018.11.2]
-*  
+* [LV.VOL.2018.10.1](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.VOL.2018.10.1) - neattēlo sistēmiņu, zīmē ``\[\left{``
+* [LV.VOL.2018.11.4](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.VOL.2018.11.4) - neattēlo sistēmiņu, zīmē ``\[\left{``
+```
