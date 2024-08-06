@@ -43,7 +43,7 @@ laukums ir $S$, tad tā malu garumi ir $\frac{2S}{4}, \frac{2S}{7}$ un
 $\frac{2S}{10}$. Divu īsāko malu garumu summai jābūt lielākai par trešās malas 
 garumu. Bet 
 $\frac{2S}{7}+\frac{2S}{10}=\frac{17}{70} 2S=\frac{34}{140} 2S<\frac{35}{140} 2S=\frac{2S}{4}$ - 
-pretruna.Tātad šādu trijstūri izveidot nav iespējams.
+pretruna. Tātad šādu trijstūri izveidot nav iespējams.
 
 
 
@@ -590,7 +590,7 @@ katrai nokrāsotai rūtiņai tieši trīs kaimiņu rūtiņas ir nenokrāsotas, b
 katrai nenokrāsotai rūtiņai ir tieši viena nokrāsota kaimiņu rūtiņa. Vai šāds 
 krāsojums ir iespējams, ja **(A)** $N=6$, **(B)** $N=8$?
 
-Rūtinas sauc par kaimiņu rūtiņām, ja tām ir kopīga mala.
+Rūtiņas sauc par kaimiņu rūtiņām, ja tām ir kopīga mala.
 
 <small>
 
@@ -644,7 +644,7 @@ uzzīmētos riņķus.
 Novilksim dotajam riņķim pieskari un projecēsim uz tās uzzīmēto riņķu 
 diametrus, kas paralēli novilktajai piekarei (piem., skat., 18.zīm.). Šo 
 diametru projekciju garumi ir vienādi ar attiecīgo diametru garumiem. Visu 
-uzzīmēto riņķu diametru projekcijas atrodas nogriežņa $ B$ iekšpusē. Tā kā 
+uzzīmēto riņķu diametru projekcijas atrodas nogriežņa $AB$ iekšpusē. Tā kā 
 nogriežņa $AB$ garums ir $1$, bet visu uzzīmēto riņķu diametru kopējais garums 
 (un tātad arī projekciju kopējais garums) lielāks nekā $8$, tad uz nogriežņa 
 $AB$ būs kāds punkts, kas pieder vairāk nekā $8$, t.i., vismaz $9$, riņķu 
