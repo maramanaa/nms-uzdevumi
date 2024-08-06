@@ -150,7 +150,7 @@ $S+2 \cdot n=(1+2+3+4+5+6+7+8+9+10)+2 \cdot 9=\frac{(1+10) \cdot 10}{2}+18=55+18
 
 # <lo-sample/> LV.AMO.2012.6.2
 
-Sadali kvadrātu divos vienādos **a)** sešstūros, **b)** septiņstūros.
+Sadali kvadrātu divos vienādos **(A)** sešstūros, **(B)** septiņstūros.
 
 <small>
 
@@ -187,7 +187,7 @@ būtu vismaz viena zaļa rūtiņa?
 
 Kvadrātā ar izmēriem $8 \times 8$ rūtiņas var izvietot $21$ taisnstūri ar izmēriem
 $1 \times 3$ rūtiņas tā, ka tie nepārklājas. (skat. 4.zīm.). Katrā no šiem taisnstūriem
-ir jābūt vismaz vienai zaļai rūtiņaai. Tātad ir nepieciešams nokrāsot vismaz $21$
+ir jābūt vismaz vienai zaļai rūtiņai. Tātad ir nepieciešams nokrāsot vismaz $21$
 rūtiņu.
 
 Parādīsim, ka ar $21$ rūtiņu pietiek. Katrā rūtiņā ierakstīsim skaitli $1, 2$ vai $3$
@@ -201,7 +201,7 @@ ka nebūs iespējams izvēlēties neaizkrāsotu $1 \times 3$ rūtiņu grupu.
 
 # <lo-sample/> LV.AMO.2012.6.4
 
-Vai pa apli var uzrakstīt **a)** sešus **b)** septiņus dažādus naturālus skaitļus tā,
+Vai pa apli var uzrakstīt **(A)** sešus **(B)** septiņus dažādus naturālus skaitļus tā,
 lai jebkuru divu blakusstāvošu skaitļu summa būtu pirmskaitlis un visi summās iegūtie
 pirmskaitļi būtu dažādi?
 
@@ -215,15 +215,15 @@ pirmskaitļi būtu dažādi?
 
 ## Atrisinājums
 
-**a)** Jā, var, skat., piem., 6.zīm.
+**(A)** Jā, var, skat., piem., 6.zīm.
 
 
-**b)** Nē, nevar. Divu dažādu naturālu skaitļu summa ir vismaz $1+2=3$. Visi
+**(B)** Nē, nevar. Divu dažādu naturālu skaitļu summa ir vismaz $1+2=3$. Visi
 pirmskaitļli, kas lielāki nekā $2$, ir nepāra skaitļi. Tātad jebkuru divu blakus
 uzrakstītos skaitļu summai jābūt nepāra skaitlim, t.i., jebkuru divu blakusstāvošu
 skaitļu paritātēm jābūt dažādām. Taču, lai arī kā $7$ skaitļus izvietotu pa apli,
 vismaz vienā vietā blakus atradīsies divi vienas paritātes skaitļi, kas summā dod pāra
-skaitļi, lielāku nekā $2$ (tas nav pirmskaitlis).
+skaitli, lielāku nekā $2$ (tas nav pirmskaitlis).
 
 ![](LV.AMO.2012.6.4A.png)
 
@@ -231,7 +231,7 @@ skaitļi, lielāku nekā $2$ (tas nav pirmskaitlis).
 
 # <lo-sample/> LV.AMO.2012.6.5
 
-Zīmuļi tiek pakoti divu veidu kastītes: pa $7$ zīmuļiem kastītē un pa $10$ zīmuļiem
+Zīmuļi tiek pakoti divu veidu kastītēs: pa $7$ zīmuļiem kastītē un pa $10$ zīmuļiem
 kastītē. Kāds ir vislielākais zīmuļu skaits, ko nevar precīzi sapakot minēto veidu
 kastītēs (t.i., visām izmantotajām kastītēm jābūt pilnām un neviens zīmulis nedrīkst
 palikt pāri)?
@@ -279,14 +279,14 @@ $$ab(3a+5b)=1234567$$?
 Nē, nevar. Reizinājums $ab(3a+5b)$ ir pāra skaitlis: ja kāds no reizinātājiem $a$ vai
 $b$ ir pāra skaitlis, tad reizinājums ir pāra skaitlis, savukārt, ja $a$ un $b$ abi ir
 nepāra skaitļi, tad summa $3a+5b$ ir pāra skaitlis (divu nepāra skaitļu summa ir pāra
-skaitlis), tātad viss reizinājums ir pāra skaitli.
+skaitlis), tātad viss reizinājums ir pāra skaitļi.
 
 
 
 # <lo-sample/> LV.AMO.2012.7.2
 
 Doti seši nogriežņi ar garumiem $1~ \mathrm{cm}$, $3~ \mathrm{cm}$, $5~ \mathrm{cm}$,
-$7~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ mathrm{cm}. Cik dažādos veidos no tiem var
+$7~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ mathrm{cm}$. Cik dažādos veidos no tiem var
 izvēlēties trīs nogriežņus tā, ka no tiem var izveidot trijstūri (katra trijstūra mala
 ir viens vesels nogrieznis)?
 
@@ -301,10 +301,10 @@ ir viens vesels nogrieznis)?
 ## Atrisinājums
 
 No trijstūra nevienādības (katru divu malu summa ir lielāka nekā trešā mala) seko, ka
-$1~ mathrm{cm}$ garais nogrieznis nav izmantojams neviena trijstūra izveidošanai. No
+$1~ \mathrm{cm}$ garais nogrieznis nav izmantojams neviena trijstūra izveidošanai. No
 pārējiem nogriežņiem trijstūrus var izveidot $7$ veidos: $(3~ \mathrm{cm}$,
 $5~ \mathrm{cm}$, $7~ \mathrm{cm}$),($3~ \mathrm{cm}$, $7~ \mathrm{cm}$,
-$9~ \mathrm{cm}$),($3~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ mathrm{cm}$ ),
+$9~ \mathrm{cm}$),($3~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ \mathrm{cm}$ ),
 ($5~ \mathrm{cm}$, $7~ \mathrm{cm}$, $9~ \mathrm{cm}$ ), ($5~ \mathrm{cm}$,
 $7~ \mathrm{cm}$, $11~ \mathrm{cm}$ ), ($5~ \mathrm{cm}$, $9~ \mathrm{cm}$,
 $11~ \mathrm{cm}$ ), ($7~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ \mathrm{cm}$).
@@ -318,7 +318,7 @@ automašīna **visu** ceļu veica ar pastāvīgu ātrumu. Zaļā automašīna **
 veica ar pastāvīgu ātrumu $30 \mathrm{~km} / \mathrm{h}$. Vai, otro ceļa pusi veicot ar
 lielāku ātrumu, zaļā automašīna var panākt sarkano automašīnu un pilsētā $B$ ierasties
 vienlaicīgi ar to, ja sarkanās automašīnas ātrums bija
-**a)** $40 \mathrm{~km} / \mathrm{h}$, **b)** $60 \mathrm{~km} / \mathrm{h}$?
+**(A)** $40 \mathrm{~km} / \mathrm{h}$, **(B)** $60 \mathrm{~km} / \mathrm{h}$?
 
 <small>
 
@@ -330,7 +330,7 @@ vienlaicīgi ar to, ja sarkanās automašīnas ātrums bija
 
 ## Atrisinājums
 
-**a)** Var. Ar $2s$ apzīmēsim attālumu starp pilsētām, ar $t_{1}$- laiku, kādā zaļā
+**(A)** Var. Ar $2s$ apzīmēsim attālumu starp pilsētām, ar $t_{1}$- laiku, kādā zaļā
 automašīna veica ceļa pirmo pusi, ar $t_{2}$- laiku, kādā zaļā automašīna veica ceļa
 otro pusi.
 
@@ -341,7 +341,7 @@ jeb $2s=40t_{1}+40t_{2}$, t.i., $s=20t_{1}+20t_{2}$.
 Tātad $30t_{1}=20t_{1}+20t_{2}$ un $t_{2}=\frac{1}{2}t_{1}$, tāpēc
 $\frac{s}{t_{2}}=2 \cdot \frac{s}{t_{1}}=2 \cdot 30=60 \mathrm{~km} / \mathrm{h}$
 
-**b)** Nevar. Brīdī, kad zaļā automašīna ir veikusi pusi ceļa, sarkanā automašīna jau
+**(B)** Nevar. Brīdī, kad zaļā automašīna ir veikusi pusi ceļa, sarkanā automašīna jau
 ir veikusi visu ceļu un atrodas pilsētā $B$. Tātad zaļajai automašīnai ceļa otrā puse
 būtu jāveic momentāni ($0$ stundās), kas nav iespējams.
 
@@ -406,8 +406,8 @@ $4$ $1$ $5$ $7$,
 nemainot to secību, ievieto aritmētisko darbību zīmes
 (" $+$ ", „ $-$ ", " $\cdot$ ", " $:$ ") un iekavas tā, lai iegūtās izteiksmes vērtība
 būtu
-**a)** $13$,
-**b)** $14$.
+**(A)** $13$,
+**(B)** $14$.
 
 <small>
 
@@ -419,9 +419,9 @@ būtu
 
 ## Atrisinājums
 
-**a)** Piemēram, $4 \cdot 1 \cdot 5-7=13$
+**(A)** Piemēram, $4 \cdot 1 \cdot 5-7=13$
 
-**b)** Piemēram, $4:(1-5:7)=14$
+**(B)** Piemēram, $4:(1-5:7)=14$
 
 
 
@@ -580,7 +580,7 @@ $1=2^{0}, 2^{1}, 2^{2}, 2^{3}, 2^{4}, 2^{5}, 2^{6}, 2^{7}, 2^{8}, 2^{9}, 2^{10},
 
 # <lo-sample/> LV.AMO.2012.9.2
 
-Trijstūrī $ABC \sphericalangle ABC=90^{\circ}$, bet punkts $P$ atrodas uz malas $AB$.
+Trijstūrī $ABC$ $\sphericalangle ABC=90^{\circ}$, bet punkts $P$ atrodas uz malas $AB$.
 Punkti $M$ un $N$ ir attiecīgi nogriežņu $AC$ un $PC$ viduspunkti. Pierādi, ka
 $\sphericalangle BAC=\sphericalangle BMN$
 
@@ -833,7 +833,7 @@ tad $(n-8)(n+5)$ dalās ar $169$. Bet tādā gadījumā $(n-8)(n+5)+39$ nedalās
 
 Punkti $A, B, C$ atrodas uz vienas taisnes, bet $A_{1}, B_{1}, C_{1}$- uz citas taisnes.
 Pierādi: ja $AB_{1}$ paralēls $A_{1}B$ un $AC_{1}$ paralēls $A_{1}C$, tad $BC_{1}$
-paralèls $B_{1}C$.
+paralēls $B_{1}C$.
 
 <small>
 
@@ -911,7 +911,7 @@ $$\begin{aligned}
 
 # <lo-sample/> LV.AMO.2012.11.4
 
-Pierādi, ka izliektu 2012-stūri nevar sadalīt 200 izliektos 12-stūros.
+Pierādi, ka izliektu $2012$-stūri nevar sadalīt $200$ izliektos $12$-stūros.
 
 <small>
 
@@ -932,12 +932,12 @@ $200 \cdot 10 \cdot 2 \pi < 2010 \cdot 2 \pi$. Tātad prasīto izdarīt nav iesp
 # <lo-sample/> LV.AMO.2012.11.5
 
 Plaknē doti $16$ punkti, kas izvietoti kvadrātiska režģa veidā kā parādīts 4.zīm.
-Taisnstūri sauksim par labu, ja tā virsotnes atrodas režğa punktos, malas ir paralēlas
-režģa līnijām un nav tā, ka starp taisnstūra virsotnēm ir gan viens no četriem režğa
-stūriem (punkti $A, B, C, D$), gan viens no četriem režģa punktiem, kas atrodas režğa
+Taisnstūri sauksim par labu, ja tā virsotnes atrodas režģa punktos, malas ir paralēlas
+režģa līnijām un nav tā, ka starp taisnstūra virsotnēm ir gan viens no četriem režģa
+stūriem (punkti $A, B, C, D$), gan viens no četriem režģa punktiem, kas atrodas režģa
 iekšienē (punkti $M, N, O, P$ ).
 
-Kāds ir lielākais režğa punktu skaits, ko var atzīmēt tā, lai nebūtu laba taisnstūra,
+Kāds ir lielākais režģa punktu skaits, ko var atzīmēt tā, lai nebūtu laba taisnstūra,
 kuram visas virsotnes ir atzīmētie punkti?
 
 ![](LV.AMO.2012.11.5.png)
@@ -953,23 +953,23 @@ kuram visas virsotnes ir atzīmētie punkti?
 ## Atrisinājums
 
 Tas, ka $10$ punktus var nokrāsot redzams piem. 19.zīmējumā. Atliek pamatot, ka, ja
-nokrāsosim $11$ punktus, tad noteikti atradīsies labs taisnstūris ar visām nokrāsotām
+nokrāsosim $11$ punktus, tad noteikti atradīsies *labs* taisnstūris ar visām nokrāsotām
 virsotnēm. Ja ir nokrāsoti $11$ punkti tad ir divas iespējas:
 
-A) ir kāda rinda, kur ir nokrāsoti $4$ punkti,
+**(A)** ir kāda rinda, kur ir nokrāsoti $4$ punkti,
 
-B) nav tādas rindas.
+**(B)** nav tādas rindas.
 
-A) gadījumā noteikti vēl ir rinda, kurā ir nokrāsoti vismaz $3$ punkti, tad no šīm abām
+**(A)** gadījumā noteikti vēl ir rinda, kurā ir nokrāsoti vismaz $3$ punkti, tad no šīm abām
    rindām noteikti var izvēlēties *labu* taisnstūri, kuram visas virsotnes ir
    nokrāsotas (ņemam vai nu divus vidējos, vai malējos punktus (tos, kuri abi ir
    nokrāsoti) no tās rindas, kur ir $3$ nokrāsoti punkti un tos pašus no tās rindas,
    kur ir $4$).
 
-B) gadījumā, ja katrā rindā ir ne vairāk kā $3$ nokrāsoti punkti, tad ir vismaz $3$
+**(B)** gadījumā, ja katrā rindā ir ne vairāk kā $3$ nokrāsoti punkti, tad ir vismaz $3$
    rindas, kurās ir vismaz $3$ nokrāsoti punkti. Tātad būs vai nu augšējā un apakšējā,
    vai divas vidējās rindas ar $3$ nokrāsotiem punktiem. Tad no šīm divām rindām var
-   izvēlēties labu taisnstūri, kuram visas virsotnes ir nokrāsotas- jāņem tās divas
+   izvēlēties *labu* taisnstūri, kuram visas virsotnes ir nokrāsotas- jāņem tās divas
    kolonas, kurās abām šīm rindām ir nokrāsoti punkti.
 
 ![](LV.AMO.2012.11.5A.png)
@@ -1062,7 +1062,7 @@ $3 < \sqrt{10}$. Tātad dotajam vienādojumam atrisinājuma nav.
 
 # <lo-sample/> LV.AMO.2012.12.4
 
-Vai telpā var izvietot **a)** $6$ punktus, **b)** $7$ punktus tā, lai jebkuri trīs no
+Vai telpā var izvietot **(A)** $6$ punktus, **(B)** $7$ punktus tā, lai jebkuri trīs no
 tiem būtu vienādsānu trijstūra virsotnēs un nekādi pieci no tiem neatrastos vienā
 plaknē?
 
@@ -1076,9 +1076,9 @@ plaknē?
 
 ## Atrisinājums
 
-**a)** Jā; der, piemēram, oktaedra virsotnes.
+**(A)** Jā; der, piemēram, oktaedra virsotnes.
 
-**b)** Jā; der, piemēram, regulāras trijstūra prizmas, kuras sānu skaldnes ir kvadrāti,
+**(B)** Jā; der, piemēram, regulāras trijstūra prizmas, kuras sānu skaldnes ir kvadrāti,
 virsotnes un tai apvilktās sfēras centrs.
 
 
@@ -1103,7 +1103,7 @@ otrs nē?
 **Atbilde:** pietiek ar $5$ dienām. Piemēram, $\underline{1. dienā}$ pie tāfeles tika
 izsaukti $1., 2., 3., 4., 5., 6., 7.$ un $8.$ skolēni, $\underline{2. dienā}$- 
 $1., 2., 3., 4., 9., 10., 11.$ un $12.$ skolēni, $\underline{3. dienā}$-
-$1., 2., 5., 6., 9., 10., 13.$ un $14.$ skolēni, $\underline{4. dienā}-
+$1., 2., 5., 6., 9., 10., 13.$ un $14.$ skolēni, $\underline{4. dienā}$-
 $1., 3., 5., 7., 9., 11., 13.$ un $15.$ skolēni, $\underline{5. dienā}$- $17.$ skolēns.
 
 Pamatosim, ka ar mazāk dienām nepietiek. Teiksim, ka vairāki skolēni ir
