@@ -787,7 +787,7 @@ un $S_{ABD}=\frac{5 \sqrt{2} \cdot 5 \sqrt{2}}{2}=25~\mathrm{cm}^{2}$.
 
 Atrisini doto vienādojumu sistēmu reālos skaitļos!
 
-$$\left\{\begin{array}{l}
+$$\left.\{\begin{array}{l}
 (x-y)^{2}=(z-2)^{2} \\
 (y-z)^{2}=(x-4)^{2} \\
 (z-x)^{2}=(y-6)^{2}
@@ -806,9 +806,9 @@ Vienādojumam $a^{2}=b^{2}$ vispārīgā gadījumā iespējami divi atrisinājum
 $a=b$ un $a=-b$. Aplūko pirmo vienādojumu un iztirzā abus iespējamos variantus:
 
 1)
-$$\begin{equation*}
+$$\begin{equation}
 x-y=z-2 \Rightarrow z-x=2-y \tag{*}
-\end{equation*}$$
+\end{equation}$$
 
 Ievietojot (*) trešajā vienādojumā, iegūstam vienādojumu
 
@@ -824,9 +824,9 @@ $(6-x)^{2}=(x-4)^{2}$,
 kura vienīgais atrisinājums ir $x=5$, tātad $z=3$.
 
 2)
-$$\begin{equation*}
+$$\begin{equation}
 x-y=2-z \Rightarrow y-z=x-2 \tag{**}
-\end{equation*}$$
+\end{equation}$$
 
 Ievietojot (**) otrajā vienādojumā, iegūstam vienādojumu
 
@@ -844,11 +844,11 @@ kura vienīgais atrisinājums ir $z=4$, tātad $y=5$.
 Tātad vienādojumam ir divi atrisinājumi:
 
 $$
-\left\{\begin{array} {l} 
+\left.\{\begin{array} {l} 
 {x=5} \\
 {y=4} \\
 {z=3}
-\end{array}\right. \text { un } \left\{\begin{array}{l}
+\end{array}\right. \text { un } \left.\{\begin{array}{l}
 x=3 \\
 y=5 \\
 z=4
