@@ -20,16 +20,19 @@ Ievērosim, ka $EEE=E \cdot 111=E \cdot 3 \cdot 37$. Tātad $E>3$, lai pie tam
 viens no skaitļiem $AB$ vai $CD$ ir $37$ vai $74$. Apskatot visas iespējamās 
 $E$ vērtības, iegūstam visus astoņus atrisinājumus:
 
-**$E=4 \Rightarrow AB=12$ un $CD=37$ vai $AB=37$ un $CD=12$;**
+**$\mathbf{E=4 \Rightarrow AB=12}$ un $\mathbf{CD=37}$ vai $\mathbf{AB=37}$ un 
+$\mathbf{CD=12}$;**
 
 $E=5 \Rightarrow B=5$ vai $D=5(=E)$ - neder;
 
-**$E=6 \Rightarrow AB=18$ un $CD=37$ vai $AB=37$ un $CD=18$;**
+**$\mathbf{E=6 \Rightarrow AB=18}$ un $\mathbf{CD=37}$ vai $\mathbf{AB=37}$ un 
+$\mathbf{CD=18}$;**
 
 $E=7 \Rightarrow AB=21$ un $CD=37(D=E)$ vai $AB=37$ un $CD=21(B=E)$ - neder;
 
-**$E=8 \Rightarrow AB=24$ un $CD=37$ vai $AB=37$ un $CD=24$, vai $AB=12$ un** 
-**$CD=74$, vai $AB=74$ un $CD=12;$**
+**$\mathbf{E=8 \Rightarrow AB=24}$ un $\mathbf{CD=37}$ vai $\mathbf{AB=37}$ un 
+$\mathbf{CD=24}$, vai $\mathbf{AB=12}$ un $\mathbf{CD=74}$, vai 
+$\mathbf{AB=74}$ un $\mathbf{CD=12;}$**
 
 $E=9 \Rightarrow AB=27$ un $CD=37$ vai $AB=37$ un $CD=27(B=D)$ - neder.
 
@@ -107,6 +110,8 @@ starpība ir
 
 **(A)** Jā, var. Skat., piem., 4.zīm.
 
+![](LV.AMO.2011.5.4A.png)
+
 **(B)** Nē, nevar. Skaitlim $1$ var būt tikai divi kaimiņi: $4$ un $5$, 
 skaitlim $2$ kaimiņi var būt tikai skaitļi $5$ un $6$, bet skaitlim $3$ - 
 skaitļi $6$ un $7$. Ņemot vērā šos secinājumus, iegūstam ka 5.zīm. attēloto 
@@ -117,10 +122,10 @@ atbilstoši uzdevuma nosacījumiem izvietot nevar.
 
 # <lo-sample/> LV.AMO.2011.5.5
 
-Kvadrātā ar izmēriem $7 \times 7$ rūtiņas jāizvieto $n$ "stūrīšus" (2.zīm. 
+Kvadrātā ar izmēriem $7 \times 7$ rūtiņas jāizvieto $n$ *"stūrīšus"* (2.zīm. 
 attēlotās figūras) tā, lai tajā vairāk nevarētu ievietot nevienu citu šādu 
-"stūrīti". (Stūrišu malām jāiet pa rūtiņu malām. Stūriši var arī būt pagriezti 
-citādāk.)
+*"stūrīti"*. (*Stūrīšu* malām jāiet pa rūtiņu malām. *Stūrīši* var arī būt 
+pagriezti citādāk.)
 
 ![](LV.AMO.2011.5.5.png)
 
@@ -471,7 +476,8 @@ $ZY=\frac{1}{2} PL=\frac{1}{2}\left(\frac{1}{2} BD\right)=\frac{1}{4} BD$
 (skat. 12.zīm.), līdzīgi $TX=\frac{1}{4} BD=ZY$, pie tam $ZY \parallel TX$. 
 Līdzīgi pierāda, ka $XY \parallel ZT$ un $TZ=XY=\frac{1}{4} AC$. Bet $AC=BD$, 
 tātad $TZ=XY=ZY=TX$ un $TXYZ$ ir rombs. Tā kā $BD \perp AC$ un 
-$TX \mid BD,\ XY \parallel C$, tad $TX \perp XY$ un $TXYZ$ ir kvadrāts, k.b.j.
+$TX \parallel BD,\ XY \parallel C$, tad $TX \perp XY$ un $TXYZ$ ir kvadrāts, 
+k.b.j.
 
 ![](LV.AMO.2011.8.2A.png)
 
@@ -787,7 +793,7 @@ un $S_{ABD}=\frac{5 \sqrt{2} \cdot 5 \sqrt{2}}{2}=25~\mathrm{cm}^{2}$.
 
 Atrisini doto vienādojumu sistēmu reālos skaitļos!
 
-$$\left.\{\begin{array}{l}
+$$\left\{\begin{array}{l}
 (x-y)^{2}=(z-2)^{2} \\
 (y-z)^{2}=(x-4)^{2} \\
 (z-x)^{2}=(y-6)^{2}
@@ -806,6 +812,7 @@ Vienādojumam $a^{2}=b^{2}$ vispārīgā gadījumā iespējami divi atrisinājum
 $a=b$ un $a=-b$. Aplūko pirmo vienādojumu un iztirzā abus iespējamos variantus:
 
 1)
+
 $$\begin{equation}
 x-y=z-2 \Rightarrow z-x=2-y \tag{*}
 \end{equation}$$
@@ -824,6 +831,7 @@ $(6-x)^{2}=(x-4)^{2}$,
 kura vienīgais atrisinājums ir $x=5$, tātad $z=3$.
 
 2)
+
 $$\begin{equation}
 x-y=2-z \Rightarrow y-z=x-2 \tag{**}
 \end{equation}$$
@@ -843,17 +851,15 @@ kura vienīgais atrisinājums ir $z=4$, tātad $y=5$.
 
 Tātad vienādojumam ir divi atrisinājumi:
 
-$$
-\left.\{\begin{array} {l} 
+$$\left\{\begin{array} {l} 
 {x=5} \\
 {y=4} \\
 {z=3}
-\end{array}\right. \text { un } \left.\{\begin{array}{l}
+\end{array}\right. \text { un } \left\{\begin{array}{l}
 x=3 \\
 y=5 \\
 z=4
-\end{array}\right.
-$$
+\end{array}\right.$$
 
 Pārbaude parāda, ka abi atrisinājumi der.
 
@@ -893,7 +899,7 @@ kubiņi, trešajā slānī $4$ kubiņi un augšā - viens kubiņš (skat. 6.zīm
 
 Vai šo *torni* var salikt no
 
-**(A)** *klucišiem* ar izmēru $1 \times 1 \times 2$ (skat. 7.zīm.)?
+**(A)** *klucīšiem* ar izmēru $1 \times 1 \times 2$ (skat. 7.zīm.)?
 
 **(B)** *stūrīšiem*, ko veido $3$ kubiņi (skat. 8.zīm.)?
 
@@ -1038,9 +1044,9 @@ $f_{1}=1, \quad f_{2}=1, \quad f_{3}=2$.
 ![](LV.AMO.2011.11.3A.png)
 
 Apskatām taisnstūri ar izmēriem $3 \times n$. Pirmo taisnstūrīti $1 \times 3$ 
-varam novietot (A) "vertikāli" (skat. 19. a) zīm.) vai (B) "horizontāli" 
-(skat. 19. b) zīm.). (A) gadījumā neaizpildīts paliek taisnstūris 
-$3 \times(n-1)$, ko var aizpildīt $f_{n-1}$ veidos. (B) gadījumā vēl divi 
+varam novietot a) "vertikāli" (skat. 19. a) zīm.) vai b) "horizontāli" 
+(skat. 19. b) zīm.). a) gadījumā neaizpildīts paliek taisnstūris 
+$3 \times(n-1)$, ko var aizpildīt $f_{n-1}$ veidos. b) gadījumā vēl divi 
 taisnstūriši $1 \times 3$ jānovieto "horizontāli" (nevienu "vertikāli" 
 ievietot nav iespējams), tad neaizpildīts paliks taisnstūris $3 \times(n-3)$, 
 ko var aizpildīt $f_{n-3}$ veidos.
@@ -1254,8 +1260,7 @@ $BM=OC$, k.b.j.
 Apvilksim ap $M,\ B$ un $O$ riņķa līniju, kas krusto $AO$ punktā $N$ (skat. 
 19.zīm.). $\sphericalangle ABD=\sphericalangle ACD$ kā ievilktie leņķi, kas 
 balstās uz vienu loku.
-
-$\sphericalangle ANM=180^{\circ}-\left(180^{\circ}-\sphericalangle ABO\right)=\sphericalangle ABO}.
+$\sphericalangle ANM=180^{\circ}-\left(180^{\circ}-\sphericalangle ABO\right)=\sphericalangle ABO$.
 Tātad
 
 $$\begin{equation}
