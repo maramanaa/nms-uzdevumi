@@ -110,13 +110,13 @@ starpība ir
 
 **(A)** Jā, var. Skat., piem., 4.zīm.
 
-![](LV.AMO.2011.5.4A.png)
-
 **(B)** Nē, nevar. Skaitlim $1$ var būt tikai divi kaimiņi: $4$ un $5$, 
 skaitlim $2$ kaimiņi var būt tikai skaitļi $5$ un $6$, bet skaitlim $3$ - 
 skaitļi $6$ un $7$. Ņemot vērā šos secinājumus, iegūstam ka 5.zīm. attēloto 
 situāciju. Neizvietoti palikuši skaitļi $9,\ 10,\ 11,\ 12$, taču tos šajā aplī 
 atbilstoši uzdevuma nosacījumiem izvietot nevar.
+
+![](LV.AMO.2011.5.4A.png)
 
 
 
