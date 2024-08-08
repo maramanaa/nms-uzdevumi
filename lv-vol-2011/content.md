@@ -270,7 +270,7 @@ rindas vai kolonnas nebūtu, tad no tās varētu izgriezt figūru $1 \times 5$
 rūtiņas). Tā kā ir tieši sešas aizkrāsotas rūtiņas, tad katrā rindā un katrā 
 kolonnā ir tieši viena aizkrāsota rūtiņa. Aplūkosim to kolonnu, kurā aizkrāsotā
 rūtiņa atrodas pirmajā rindā. Šajā kolonnā vienīgā aizkrāsotā rūtiņa atrodas 
-pirmajā rindā, līdz ar to $2.-6.$rindas rūtiņas veido neaizkrāsotu rūtiņu 
+pirmajā rindā, līdz ar to $2.-6.$ rindas rūtiņas veido neaizkrāsotu rūtiņu 
 taisnstūri ar izmēru $1 \times 5$ rūtiņas.
 
 **(B)** Atbilde: var, skat., piem., 5.zīm.
@@ -336,8 +336,8 @@ $360^{\circ}$, tātad, ja ne visi tā leņķi ir $90^{\circ}$, tad kāds no leņ
 būs lielāks par $90^{\circ}$ - šī virsotne un divas tās blakus virsotnes veido 
 platleņķa trijstūri.
 
-**Lemma 2.** *Ja dots trijstūris $ABC$ un punkts $D$ tā iekšpusē, tad vismaz 
-divi no trijstūriem $ABD,\ BCD,\ CAD$ ir platleņķa.*
+**Lemma 2.** *Ja dots trijstūris* $ABC$ *un punkts* $D$ *tā iekšpusē, tad 
+vismaz divi no trijstūriem* $ABD,\ BCD,\ CAD$ *ir platleņķa.*
 
 $\underline{Pierādījums.}$ Aplūkosim leņķus $ADB,\ BDC,\ CDA$ (skat. 7.zīm.). 
 Šo leņķu summa ir $360^{\circ}$ un katrs no tiem ir mazāks nekā $180^{\circ}$, 
@@ -665,10 +665,10 @@ virkne satur vismaz $55$ ciparus.
 
 Ar indukciju pierādīsim vispārīgāku apgalvojumu.
 
-*Virkni, kas sastāv no cipariem $c_{1}, c_{2}, \ldots, c_{k}$ sauc par 
+*Virkni, kas sastāv no cipariem* $c_{1}, c_{2}, \ldots, c_{k}$ *sauc par 
 universālu, ja no tās, izsvītrojot dažus ciparus, var iegūt jebkuru virkni, 
-kurā katrs no cipariem $c_{1}, c_{2}, \ldots, c_{k}$ ir tieši vienu reizi. Tad 
-universālas virknes garums nevar būt mazāks par $\frac{k(k+1)}{2}$.*
+kurā katrs no cipariem* $c_{1}, c_{2}, \ldots, c_{k}$ *ir tieši vienu reizi. 
+Tad universālas virknes garums nevar būt mazāks par* $\frac{k(k+1)}{2}$.
 
 $\underline{Indukcijas bāze.}$ Ja $k=1$, tad $\frac{k(k+1)}{2}=1$ un netukšā 
 virknē ir vismaz $1$ simbols.
