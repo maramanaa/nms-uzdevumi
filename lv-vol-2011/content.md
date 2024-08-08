@@ -166,7 +166,7 @@ summā ir **(A)** $48$, **(B)** $49$ punkti?
 
 ## Atrisinājums
 
-Pieņemsim, ka spēlētāji ap galdu pulkstenrādītāja virzienā sēž secībā 
+Pieņemsim, ka spēlētāji ap galdu pulksteņrādītāja virzienā sēž secībā 
 $A,\ B,\ C$. Saskaitīsim cik kārtās katrs spēlētājs ir ieguvis $3$ punktus. 
 Spēlētājam $A$ šo kārtu skaitu apzīmēsim ar $a$, spēlētājam $B$ - ar $b$, 
 spēlētājam $C$ - ar $c$. Tad kopējais spēlētāja $A$ kopsummā iegūto punktu 
@@ -324,9 +324,9 @@ $\sphericalangle AOE$ ir šaurs. Tā kā ir tikai seši punkti un jāizveido div
 trijstūri, tad katram punktam jābūt kāda trijstūra virsotnei. Bet jebkurš no 
 trijstūriem, kura viena virsotne ir $O$, ir šaurleņķu. Tātad $n \geq 7$.
 
-Pierādīsim, ka ar septiņiem punktiem vienmēr pietiek.
-
 ![](LV.VOL.2011.10.5A.png)
+
+Pierādīsim, ka ar septiņiem punktiem vienmēr pietiek.
 
 **Lemma 1.** *Ja izliekts četrstūris nav taisnstūris, tad kādas trīs no tā 
 virsotnēm veido platleņķa trijstūri.*
@@ -471,7 +471,7 @@ uzrakstot pa naturālam skaitlim pēc šāda likuma:
 - ja pēc zaļa punkta seko sarkans punkts, tad uz loka uzrakstīja $1$,
 - ja pēc zaļa seko zaļš, tad uzrakstīja $2$,
 - ja pēc sarkana - sarkans, tad uzrakstīja $3$,
-- ja pēc sarkana - zaļšs, tad uzrakstīja $4$.
+- ja pēc sarkana - zaļš, tad uzrakstīja $4$.
 
 Kāda ir visu uzrakstīto skaitļu summa?
 
@@ -583,7 +583,7 @@ $Y$. Pierādīt, ka $AX=XY=YC$
 ## Atrisinājums
 
 $\triangle APX=\triangle MPR$, jo $AX \parallel RM$ un $AP=PM$ (skat. 11.zīm.).
-Tādēl $AX=RM$. Savukārt $RM$ ir $\triangle XBC$ viduslīnija, tāpēc $XC=2RM$.
+Tādēļ $AX=RM$. Savukārt $RM$ ir $\triangle XBC$ viduslīnija, tāpēc $XC=2RM$.
 
 Iegūstam, ka $2AX=XC$ jeb $2AX=XY+YC\ (1)$.
 
@@ -650,8 +650,8 @@ der.
 # <lo-sample/> LV.VOL.2011.12.5
 
 Virkni $V$, kas sastāv no cipariem $0,\ 1,\ 2,\ \ldots,\ 9$ sauc par 
-universālu, ja jebkuru virkni, kurā katrs cipars sastopams tieši vienu reizi, 
-var iegūt no $V$, izsvītrojot tajā dažus ciparus. Pierādīt, ka universāla 
+*universālu*, ja jebkuru virkni, kurā katrs cipars sastopams tieši vienu reizi, 
+var iegūt no $V$, izsvītrojot tajā dažus ciparus. Pierādīt, ka *universāla* 
 virkne satur vismaz $55$ ciparus.
 
 <small>
