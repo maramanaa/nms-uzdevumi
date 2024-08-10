@@ -378,7 +378,7 @@ piemēram, šādi (rūķīšus apzīmējam ar burtiem):
 
 $1.$ stunda: $AD, BE, CF$;
 
-$2.$stunda: $AE, BF, CD$;
+$2.$ stunda: $AE, BF, CD$;
 
 $3.$ stunda: $AF, BD, CE$.
 
@@ -391,8 +391,8 @@ $102^{2} \cdot 103^{2} \cdot \ldots \cdot 199^{2}$ un
 $\left(102^{2}-1\right)\left(103^{2}-1\right) \ldots\left(199^{2}-1\right)$ sadalot
 pirmskaitļu reizinājumā, iegūst vairāk **dažādu** pirmskaitļu? Par cik vairāk?
 
-(**Paskaidrojums:** $24=2 \cdot 2 \cdot 2 \cdot 3$ satur divus dažādus pirmskaitļus
-$-2$ un $3$.)
+(**Paskaidrojums:** $24=2 \cdot 2 \cdot 2 \cdot 3$ satur divus dažādus pirmskaitļus-
+$2$ un $3$.)
 
 <small>
 
@@ -543,7 +543,7 @@ Atrodiet kaut vienu kvadrātvienādojumu ar veseliem koeficientiem, kam viena no
 # <lo-sample/> LV.NOL.2010.9.2
 
 Divas riņķa līnijas krustojas. To rādiusu garumi ir $R$ un $r$, bet attālums starp to
-centriem ir $d$. Vienā no abu rinķa līniju krustpunktiem tām abām novilktas pieskares.
+centriem ir $d$. Vienā no abu riņķa līniju krustpunktiem tām abām novilktas pieskares.
 Pierādīt: šīs pieskares ir perpendikulāras viena otrai tad un tikai tad, ja
 $R^{2}+r^{2}=d^{2}$
 
