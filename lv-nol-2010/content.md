@@ -213,7 +213,7 @@ Kāds lielākais skolēnu skaits šajā turnīrā var iegūt lielmeistara nosauk
 
 Turnīrā kopā izspēlē $45$ partijas un izcīna $45$ punktus (katrā partijā vienu).
 
-Ja lielmeistaru būtu ne mazāk par $7$, tad viṇu kopējais punktu skaits būtu vismaz
+Ja lielmeistaru būtu ne mazāk par $7$, tad viņu kopējais punktu skaits būtu vismaz
 $7 \cdot 7=49$- pretruna.
 
 Ja lielmeistaru būtu $6$, tad viņiem kopā jāizcīna vismaz $6 \cdot 7=42$ punkti; bet
@@ -453,7 +453,8 @@ Tāpēc $3AC=AC+CD+DE > AE=AB$.
 
 # <lo-sample/> LV.NOL.2010.8.3
 
-Četrciparu skaitlim pārlika ciparus citā kārtībā. Pierādīt: sākotnējā un iegūtā skaitļa starpība dalās ar 9.
+Četrciparu skaitlim pārlika ciparus citā kārtībā. Pierādīt: sākotnējā un iegūtā skaitļa
+starpība dalās ar $9$.
 
 <small>
 
@@ -465,13 +466,17 @@ Tāpēc $3AC=AC+CD+DE > AE=AB$.
 
 ## Atrisinājums
 
-Uzrakstām $\overline{a b c d}=(999 a+99 b+9 c)+(a+b+c+d)$. Atṇemot saskaitāmie $(a+b+c+d)$ saīsinās.
+Uzrakstām $\overline{abcd}=(999a+99b+9c)+(a+b+c+d)$. Atņemot saskaitāmie $(a+b+c+d)$
+saīsinās.
 
 
 
 # <lo-sample/> LV.NOL.2010.8.4
 
-Vai eksistē tādi skaitļi $a_{1}, \quad b_{1}, \quad c_{1}, \quad a_{2}, \quad b_{2}, \quad c_{2}, \quad$ ka vienādība $\left(x^{2}+y^{2}+1\right)=\left(a_{1} x+b_{1} y+c_{1}\right)\left(a_{2} x+b_{2} y+c_{2}\right)$ ir identitāte?
+Vai eksistē tādi skaitļi
+$a_{1}, \quad b_{1}, \quad c_{1}, \quad a_{2}, \quad b_{2}, \quad c_{2}, \quad$ ka
+vienādība $\left(x^{2}+y^{2}+1\right)=\left(a_{1}x+b_{1}y+c_{1}\right)\left(a_{2}x+b_{2}y+c_{2}\right)$
+ir identitāte?
 
 <small>
 
@@ -483,13 +488,16 @@ Vai eksistē tādi skaitļi $a_{1}, \quad b_{1}, \quad c_{1}, \quad a_{2}, \quad
 
 ## Atrisinājums
 
-Nē. Ja kaut viens no skaitlliem $a_{1}, b_{1}, a_{2}, b_{2}$ nav 0 , tad $x$ un $y$ var izvēlēties tā, lai attiecīgā iekava, tātad arī visa labā puse, būtu 0 ; bet kreisā puse vienmēr ir pozitīva. Pretējā gadījumā labā puse ir konstante, bet kreisā- nav.
+Nē. Ja kaut viens no skaitļiem $a_{1}, b_{1}, a_{2}, b_{2}$ nav $0$, tad $x$ un $y$ var
+izvēlēties tā, lai attiecīgā iekava, tātad arī visa labā puse, būtu $0$; bet kreisā
+puse vienmēr ir pozitīva. Pretējā gadījumā labā puse ir konstante, bet kreisā- nav.
 
 
 
 # <lo-sample/> LV.NOL.2010.8.5
 
-Katras divas no 6 lampām savienotas ar baltu vai sarkanu vītni. Pierādīt: var atrast tādas 3 lampas, kuras visas savā starpā savienotas ar vienas krāsas vītnēm.
+Katras divas no $6$ lampām savienotas ar baltu vai sarkanu vītni. Pierādīt: var atrast
+tādas $3$ lampas, kuras visas savā starpā savienotas ar vienas krāsas vītnēm.
 
 <small>
 
@@ -501,17 +509,19 @@ Katras divas no 6 lampām savienotas ar baltu vai sarkanu vītni. Pierādīt: va
 
 ## Atrisinājums
 
-N̦emam vienu lampu A; no tās iziet 5 vītnes. Vismaz trīs no tām ir vienā krāsā; varam pientemt, ka $\mathrm{AB}, \mathrm{AC}, \mathrm{AD}$ ir baltas. Ja kaut viena no vītnēm $\mathrm{BC}, \mathrm{BD}, \mathrm{CD}$ arī ir balta, mums ir balts trijstūris; pretējā gadījumā BCD ir sarkans trijstūris.
+N̦emam vienu lampu $A$; no tās iziet $5$ vītnes. Vismaz trīs no tām ir vienā krāsā;
+varam pieņemt, ka $AB, AC, AD$ ir baltas. Ja kaut viena no vītnēm $BC, BD, CD$ arī ir
+balta, mums ir balts trijstūris; pretējā gadījumā $BCD$ ir sarkans trijstūris.
 
 
 
 # <lo-sample/> LV.NOL.2010.9.1
 
 Atrodiet kaut vienu kvadrātvienādojumu ar veseliem koeficientiem, kam viena no saknēm ir
-a) $\sqrt{2}+1$,
-b) $\sqrt{7+4 \sqrt{3}}$.
+**(A)** $\sqrt{2}+1$,
+**(B)** $\sqrt{7+4 \sqrt{3}}$.
 
-Piezīme. Katrā uzdevuma daļā runā par citu kvadrātvienādojumu.
+**Piezīme.** Katrā uzdevuma daļā runā par **citu** kvadrātvienādojumu.
 
 <small>
 
@@ -523,15 +533,19 @@ Piezīme. Katrā uzdevuma daļā runā par citu kvadrātvienādojumu.
 
 ## Atrisinājums
 
-a) piemēram, $x^{2}-2 x-1=0$.
+(A) piemēram, $x^{2}-2x-1=0$.
 
-b) ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. Tāpēc der, piemēram, vienādojums $x^{2}-4 x+1=0$
+(B) ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. Tāpēc
+    der, piemēram, vienādojums $x^{2}-4x+1=0$
 
 
 
 # <lo-sample/> LV.NOL.2010.9.2
 
-Divas riņķa līnijas krustojas. To rādiusu garumi ir $R$ un $r$, bet attālums starp to centriem ir $d$. Vienā no abu rinķa līniju krustpunktiem tām abām novilktas pieskares. Pierādīt: šīs pieskares ir perpendikulāras viena otrai tad un tikai tad, ja $R^{2}+r^{2}=d^{2}$
+Divas riņķa līnijas krustojas. To rādiusu garumi ir $R$ un $r$, bet attālums starp to
+centriem ir $d$. Vienā no abu rinķa līniju krustpunktiem tām abām novilktas pieskares.
+Pierādīt: šīs pieskares ir perpendikulāras viena otrai tad un tikai tad, ja
+$R^{2}+r^{2}=d^{2}$
 
 <small>
 
@@ -545,15 +559,21 @@ Divas riņķa līnijas krustojas. To rādiusu garumi ir $R$ un $r$, bet attālum
 
 Atceramies, ka
 
-a) pieskare ir perpendikulāra rādiusam, kura galapunktā tā novilkta,
+(A) pieskare ir perpendikulāra rādiusam, kura galapunktā tā novilkta,
+(B) tātad taisne, kas novilkta perpendikulāri rādiusam tā galapunktā, ir pieskare.
 
-b) tātad taisne, kas novilkta perpendikulāri rādiusam tā galapunktā, ir pieskare.
+1. Pieņemsim, ka $R^{2}+r^{2}=d^{2}$. Novelkam rādiusus uz r.l. krustpunktu $A$. Tad
+   $OA^{2}+SA^{2}=OS^{2}$, tātad pēc Pitagora teorēmai apgrieztās teorēmas
+   $\triangle OAS$ ir taisnleņķa. Tāpēc taisne $SA$ (pēc augšminētā (B) punkta) ir r.l.
+   $w_{1}$ pieskare, un tāpat taisne $OA$ ir $w_{2}$ pieskare. Tātad abas pieskares
+   punktā $A$ ir savstarpēji perpendikulāras.
+   
+![](LV.NOL.2010.9.2A.png)
 
-1. Pieñemsim, ka $R^{2}+r^{2}=d^{2}$. Novelkam rādiusus uz r.l. krustpunktu A. Tad $\mathrm{OA}^{2}+\mathrm{SA}^{2}=\mathrm{OS}^{2}$, tātad pēc Pitagora teorēmai apgrieztās teorēmas $\triangle \mathrm{OAS}$ ir taisnlenķa. Tāpēc taisne SA (pēc augšminētā b) punkta) ir r.l. $w_{1}$ pieskare, un tāpat taisne OA ir wi pieskare. Tātad abas pieskares punktā A ir savstarpēji perpendikulāras.
-2.zīm.
-3. Pienemam, ka pieskares krustpunktā A ir savstarpēji perpendikulāras (3.zīm.).
-
-Tā kā $t \perp l$, tad $t$ satur $w_{2}$ rādiusu, tātad iet caur S. Līdzīgi $l$ iet caur O . Tāpēc $\Delta \mathrm{OAS}$ ir taisnlenka, un no Pitagora teorēmas seko vajadzīgais.
+2. Pieņemam, ka pieskares krustpunktā $A$ ir savstarpēji perpendikulāras (3.zīm.). Tā
+   kā $t \perp l$, tad $t$ satur $w_{2}$ rādiusu, tātad iet caur $S$. Līdzīgi $l$ iet
+   caur $O$. Tāpēc $\triangle OAS$ ir taisnleņķa, un no Pitagora teorēmas seko
+   vajadzīgais.
 
 
 
@@ -571,7 +591,7 @@ Tā kā $t \perp l$, tad $t$ satur $w_{2}$ rādiusu, tātad iet caur S. Līdzīg
 
 ## Atrisinājums
 
-Varam pieñemt, ka garākais augstums $h$ ir pret malu $c$. Tātad $c$ ir īsākā vai viena no īsākajām malām.
+Varam pieņemt, ka garākais augstums $h$ ir pret malu $c$. Tātad $c$ ir īsākā vai viena no īsākajām malām.
 
 ![](https://cdn.mathpix.com/cropped/2024_08_08_2b756db81bfbacec221eg-04.jpg?height=341&width=392&top_left_y=1971&top_left_x=838)
 
@@ -619,7 +639,7 @@ Atrisiniet naturālos skaitļos vienādojumu sistēmu $\left\{\begin{array}{l}x^
 
 ## Atrisinājums
 
-Varam pieñemt, ka $x \geq y$. Tad $x^{2}<x^{2}+y<x^{2}+2 x+1=(x+1)^{2}$. Tāpēc $x^{2}+y$ atrodas starp diviem blakus esošu naturālu skaitļu kvadrātiem. Tātad tas nav naturāla skaitļa kvadrāts. Tāpēc sistēmai atrisinājuma naturālos skaitļos nav.
+Varam pieņemt, ka $x \geq y$. Tad $x^{2}<x^{2}+y<x^{2}+2 x+1=(x+1)^{2}$. Tāpēc $x^{2}+y$ atrodas starp diviem blakus esošu naturālu skaitļu kvadrātiem. Tātad tas nav naturāla skaitļa kvadrāts. Tāpēc sistēmai atrisinājuma naturālos skaitļos nav.
 
 
 
@@ -679,7 +699,7 @@ Taisnleņka trijstūrī ABC augstums no taisnā leņka B virsotnes ir BD . Trijs
 
 ## Atrisinājums
 
-Tā kā $\sphericalangle \mathrm{O}_{1} \mathrm{DB}=\sphericalangle \mathrm{O}_{2} \mathrm{DB}=45^{\circ}$, tad $\sphericalangle \mathrm{O}_{1} \mathrm{DO}_{2}=90^{\circ}$. Atceramies, ka $\triangle \mathrm{ADB}$ un $\triangle \mathrm{BDC}$ ir līdzīgi (piemēram, pēc diviem lenkiem). Līdzīgos trijstūros visi atbilstošie elementi ir proporcionāli; tāpēc $\mathrm{O}_{1} \mathrm{D}: \mathrm{AB}=\mathrm{O}_{2} \mathrm{D}: \mathrm{BC}$ (atbilstošie elementi - attālumi no iecentra līdz taisnā leņka virsotnei un hipotenūzai). Tāpēc $\Delta \mathrm{O}_{1} \mathrm{DO}_{2} \sim \Delta \mathrm{ABC}$ (leņku vienādība un sānu malu proporcionalitāte).
+Tā kā $\sphericalangle \mathrm{O}_{1} \mathrm{DB}=\sphericalangle \mathrm{O}_{2} \mathrm{DB}=45^{\circ}$, tad $\sphericalangle \mathrm{O}_{1} \mathrm{DO}_{2}=90^{\circ}$. Atceramies, ka $\triangle \mathrm{ADB}$ un $\triangle \mathrm{BDC}$ ir līdzīgi (piemēram, pēc diviem leņķiem). Līdzīgos trijstūros visi atbilstošie elementi ir proporcionāli; tāpēc $\mathrm{O}_{1} \mathrm{D}: \mathrm{AB}=\mathrm{O}_{2} \mathrm{D}: \mathrm{BC}$ (atbilstošie elementi - attālumi no iecentra līdz taisnā leņka virsotnei un hipotenūzai). Tāpēc $\Delta \mathrm{O}_{1} \mathrm{DO}_{2} \sim \Delta \mathrm{ABC}$ (leņku vienādība un sānu malu proporcionalitāte).
 
 ![](https://cdn.mathpix.com/cropped/2024_08_08_2b756db81bfbacec221eg-06.jpg?height=435&width=644&top_left_y=316&top_left_x=706)
 
@@ -843,7 +863,7 @@ Turnīrā piedalās 8 komandas. Katrai ar katru citu jāspēlē tieši vienu rei
 
 Atbilde: pēc 6 dienām.
 
-Risinājums. Apskatām 9.zīm. Uzvarētājs noteikti būs A, zaudētājs - H, jo viṇu pārsvars/atpalicība pirms pēdējās kārtas ir 2 uzvaras.
+Risinājums. Apskatām 9.zīm. Uzvarētājs noteikti būs A, zaudētājs - H, jo viņu pārsvars/atpalicība pirms pēdējās kārtas ir 2 uzvaras.
 
 |  | A | B | C | D | E | F | G | H |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
