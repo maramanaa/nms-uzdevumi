@@ -92,7 +92,7 @@ maršrutiem nav tālāk turpināms.
 2) $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDB$ ($40$) $\rightarrow$
 $ACFDBE$ ($28$) $\rightarrow$ $ACFDBEG$ ($0$)
 
-3)$ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDE$ ($21$)- maršruts nav
+3) $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDE$ ($21$)- maršruts nav
 turpināms.
 
 4) $AED$ ($33$) $\rightarrow$ $AEDB$ ($40$) $\rightarrow$ $AEDBF$ ($27$)- maršruts nav
