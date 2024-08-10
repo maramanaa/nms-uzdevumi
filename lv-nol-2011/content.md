@@ -461,7 +461,7 @@ ir malas $BC$ viduspunkts.
 $\sphericalangle FCE=\sphericalangle CEF=\sphericalangle EFC=60^{\circ}$. Tad
 $\sphericalangle BFE=180^{\circ}-60^{\circ}=120^{\circ}$ (blakusleņķi) un
 $\sphericalangle BEF=180^{\circ}-30^{\circ}-120^{\circ}=30^{\circ}$, tātad
-$\triangle EBF$- vienādsānu un $BF=EF}=FC$ (skat. 7.zīm.)
+$\triangle EBF$- vienādsānu un $BF=EF=FC$ (skat. 7.zīm.)
 
 ![](LV.NOL.2011.8.3A.png)
 
@@ -923,7 +923,7 @@ $$\left\{\begin{array}{l}
 
 Sareizinot šos trīs vienādojumus, iegūstam
 
-$((x+1)(y+1)(z+1))^{2}=72^{2} \cdot 3$ jeb  
+$((x+1)(y+1)(z+1))^{2}=72^{2} \cdot 3$ jeb \\
 $(x+1)(y+1)(z+1)=72 \sqrt{3}$ vai $(x+1)(y+1)(z+1)=-72 \sqrt{3}$
 
 
