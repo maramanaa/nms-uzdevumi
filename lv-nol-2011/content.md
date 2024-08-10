@@ -88,12 +88,16 @@ Analizēsim iespējamos šo maršrutu turpinājumus:
 
 1) $ACE$ ($23$) $\rightarrow$ $ACEB$ ($30$) vai $ACED$ ($34$), taču neviens no šiem
 maršrutiem nav tālāk turpināms.
+
 2) $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDB$ ($40$) $\rightarrow$
 $ACFDBE$ ($28$) $\rightarrow$ $ACFDBEG$ ($0$)
+
 3)$ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDE$ ($21$)- maršruts nav
 turpināms.
+
 4) $AED$ ($33$) $\rightarrow$ $AEDB$ ($40$) $\rightarrow$ $AEDBF$ ($27$)- maršruts nav
 turpināms.
+
 5) $AED$ ($33$) $\rightarrow$ $AEDC$ ($34$)- maršruts nav turpināms.
 
 Tātad vienīgais maršruts, kas apmierina visus noteikumus, ir $ACFDBEG$.
