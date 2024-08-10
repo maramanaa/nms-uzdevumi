@@ -1030,7 +1030,7 @@ iekļauto malu garumu reizinājumi ir vienādi savā starpā.
 
 ## Atrisinājums
 
-No riņ̣kī ievilktu leņķu īpašībām seko, ka $\triangle BSC \sim \triangle FSE$. Tāpēc
+No riņķī ievilktu leņķu īpašībām seko, ka $\triangle BSC \sim \triangle FSE$. Tāpēc
 $\frac{BC}{EF}=\frac{SB}{SF}$.
 
 ![](LV.NOL.2010.12.4A.png)
