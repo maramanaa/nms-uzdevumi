@@ -334,12 +334,12 @@ visu blakus skaitļu reizinājumi ir negatīvi, tātad jebkuri divi blakus skait
 pretējām zīmēm. Ja mēs skaitļus apzīmējam ar $a, b, c, d, e$, tad $a$ un $b$ ir ar
 pretējām zīmēm, $b$ un $c$ ir ar pretējām zīmēm, tātad $a$ un $c$ ir ar vienādām zīmēm.
 Tieši tāpat pamato, ka $c$ un $e$ arī ir ar vienādām zīmēm. Bet tātad arī $a$ un $e$ ir
-ar vienādām zīmēm un reizinājums ae ir pozitīvs- pretruna.
+ar vienādām zīmēm un reizinājums $ae$ ir pozitīvs- pretruna.
 
 Tātad, viens no skaitļiem ir $0$, pieņemsim, ka $e=0$. Tad zīmes skaitļiem $a, b, c, d$
 var būt vai nu " $+ - + -$ " vai " $- + - +$ ". Redzams, ka no reizinājumiem
 $abc$, $bcd$ viens ir pozitīvs (" $- + -$ ") un viens negatīvs (" $+ - +$ "). Pārējie
-trīs triju blakusstāvošu skaitļu reizinājumi satur reizināāaju $e$, tātad to vērtība ir
+trīs triju blakusstāvošu skaitļu reizinājumi satur reizinātāju $e$, tātad to vērtība ir
 $0$. Tātad tieši viens no šiem reizinājumiem ir pozitīvs.
 
 
@@ -374,8 +374,8 @@ Pilsētā, kurā dzīvo godīgie iedzīvotāji (kas vienmēr runā tikai taisnī
 vienmēr melo), notika domes vēlēšanas, kurās piedalījās visi pilsētas iedzīvotāji.
 Balsot varēja par kādu no četrām partijām $A, B, C$ un $D$, un katrs iedzīvotājs
 nobalsoja tieši par vienu partiju. Pirms rezultātu apkopošanas žurnālisti veica visu
-iedzīvotāju aptauju. Uz jautājumu „Vai jūs balsojāt par partiju $A$?" ar „Jā" atbildēja
-$22 \%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju " $B$ " ar „Jā" atbildēja
+iedzīvotāju aptauju. Uz jautājumu „Vai jūs balsojāt par partiju $A$?" ar "Jā" atbildēja
+$22 \%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju " $B$ " ar "Jā" atbildēja
 $33 \%$, par partiju " $C$ "- $44\%$, bet par partiju " $D$ " $55 \%$ iedzīvotāju. Cik
 procenti pilsētas iedzīvotāju ir godīgie iedzīvotāji un cik blēži?
 
@@ -444,7 +444,7 @@ Ievietojot $x=1$, iegūstam $1+p+q=0$ jeb $p+q=-1$.
 
 # <lo-sample/> LV.NOL.2011.8.3
 
-Trijstūrī $ABC \sphericalangle ABC=30^{\circ}$. Uz malas $AB$ izvēlēts punkts $E$, bet
+Trijstūrī $ABC$ $\sphericalangle ABC=30^{\circ}$. Uz malas $AB$ izvēlēts punkts $E$, bet
 uz malas $BC$ punkts $F$, tā, ka trijstūris $CEF$ ir vienādmalu. Pierādīt, ka punkts $F$
 ir malas $BC$ viduspunkts.
 
@@ -577,7 +577,7 @@ $\sphericalangle ADE=2 \sphericalangle ABE$. Aprēķināt $\sphericalangle ABE$ 
 
 ## Atrisinājums
 
-\underline{Atbilde:} $\sphericalangle ABE=15^{\circ}$.
+$\underline{Atbilde:}$ $\sphericalangle ABE=15^{\circ}$.
 
 Apzīmēsim $\sphericalangle ABE=x$, tad $\sphericalangle ADE=2x$. Tā kā
 $\triangle ADE$- vienādsānu, tad
@@ -610,7 +610,7 @@ mazākā iespējamā $k$ vērtība?
 
 ## Atrisinājums
 
-\underline{Atbilde:} $k=12$.
+$\underline{Atbilde:}$ $k=12$.
 
 Apzīmēsim pāra skaitļus ar $p$, bet nepāra ar $n$. Tā kā $p$ skaits ir trīs reizes
 lielāks par $n$ skaitu, tad $k$ jādalās ar $4$. Tā kā blakus esošo skaitļu pāru skaits
@@ -665,7 +665,7 @@ t.i., iegūs $1.$ vietu?
 
 ## Atrisinājums
 
-\underline{Atbilde:} $N \leq 7$.
+$\underline{Atbilde:}$ $N \leq 7$.
 
 Ja Maija kādai sportistei būs zaudējusi visos četros braucienos, tad viņa būs zaudējusi
 šai sportistei arī kopvērtējumā. Tātad, lai Maija kopvērtējumā būtu pirmā, nedrīkst
@@ -726,7 +726,7 @@ Ja $AD$ atrodas trijstūra $ABC$ iekšpusē, atliekam punktu $C_{1}$ simetriski 
 attiecībā pret taisni $AD$. Tad $DC_{1}=DC$ un $AC_{1}=AC$. No trijstūra nevienādības
 trijstūrī $ABC_{1}$ seko $DC-DB=DC_{1}-DB=C_{1}B > AC_{1}-AB=AC-AB$.
 
-Ja $\triangle ABC$ ir platlenķa trijstūris un $AD$ atrodas ārpus trijstūra $ABC$,
+Ja $\triangle ABC$ ir platleņķa trijstūris un $AD$ atrodas ārpus trijstūra $ABC$,
 pierādāmais apgalvojums tieši seko no trijstūra nevienādības trijstūrī $ABC$.
 
 ![](LV.NOL.2011.10.2A.png)
@@ -748,7 +748,7 @@ skaitļos vienādojumu $x \cdot[x \cdot[x]]=41$.
 
 ## Atrisinājums
 
-\underline{Atbilde:} vienīgais šāds skaitlis ir $3 \frac{8}{11}$.
+$\underline{Atbilde:}$ vienīgais šāds skaitlis ir $3 \frac{8}{11}$.
 
 Ja $x \geq 4$, tad vienādojuma kreisā puse nav mazāka par $64$ un prasītā vienādība
 neizpildās.
@@ -788,8 +788,8 @@ $\triangle EBF$- vienādsānu un $BF=EF=FC$.
 
 Apzīmēsim $AB=BC=2a$, tad $FC=BF=a$. Tad $S_{CEF}=\frac{\sqrt{3}}{4}a^2$ un
 
-$$S_{ABC}=\frac{1}{2} \cdot 2a \cdot 2a \cdot \sin 30^{\circ}=a^{2}$. Tātad
-$\frac{S_{CEF}}{S_{ABC}}=\frac{\sqrt{3}}{4}$$.
+$S_{ABC}=\frac{1}{2} \cdot 2a \cdot 2a \cdot \sin 30^{\circ}=a^{2}$. Tātad
+$\frac{S_{CEF}}{S_{ABC}}=\frac{\sqrt{3}}{4}$.
 
 
 
@@ -812,7 +812,7 @@ atšķirīga. Kādu augstāko un kādu zemāko vietu kopvērtējumā varēja ieg
 
 ## Atrisinājums
 
-\underline{Atbilde:} augstākā- $1.$ vieta, zemākā- $16.$ vieta.
+$\underline{Atbilde:}$ augstākā- $1.$ vieta, zemākā- $16.$ vieta.
 
 Jāņa komanda noteikti ir zaudējusi tām komandām, kurām tā ir zaudējusi katrā atsevišķā
 braucienā. Ja ir zaudēts ne visos braucienos, tad kopvērtējumā var būt uzvarējusi gan
@@ -827,7 +827,7 @@ $J$):
 Piemēram, pirmajā braucienā pirmo divu vietu rezultātu starpība neko neļauj spriest par
 pirmo divu vietu rezultātu starpību citos braucienos.
 
-Zemākā iespējamā Jāņa komandas vieta būs tad, ja augstāk par Jāna komandu atradīsies
+Zemākā iespējamā Jāņa komandas vieta būs tad, ja augstāk par Jāņa komandu atradīsies
 visas komandas, kas ir uzvarējušas Jāņa komandu vismaz vienā braucienā. Tādas komandas
 pavisam ir $15$ (viena pirmajā braucienā, divas- otrajā, trīs- trešajā un
 deviņas- ceturtajā). Tātad zemākā Jāņa komandas ieņemtā vieta kopvērtējumā var būt $16$.
@@ -1138,7 +1138,7 @@ kopīga mala.)
 
 Pierādīsim, ka $N$ nevar būt lielāks par $1$.
 
-Ja N $ > 1$, tad visām rūtiņām ir vairāk nekā viena kaimiņu rūtiņa. Aplūkosim vienu
+Ja $N > 1$, tad visām rūtiņām ir vairāk nekā viena kaimiņu rūtiņa. Aplūkosim vienu
 rūtiņu, kurā ierakstīts vismazākais skaitlis (šādas rūtiņas var būt arī vairākas).
 Tajā ierakstītais skaitlis ir mazāks vai vienāds ar visās (vairāk nekā vienā) kaimiņu
 rūtiņās ierakstītajiem skaitļiem- pretruna.
