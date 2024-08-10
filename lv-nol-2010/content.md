@@ -428,20 +428,20 @@ $\sphericalangle ABC=20^{\circ}$. Pierādiet, ka $3 \cdot AC > AB$.
 
 Šķirojam $3$ gadījumus.
 
-I
+**I**
 
 $3 \cdot AC=3 \cdot AB > AB$.
 
 ![](LV.NOL.2010.8.2A.png)
 
-II
+**II**
 
 $3 \cdot AC > 2 \cdot AC=AC+CB > AB$.
 
 ![](LV.NOL.2010.8.2B.png)
 
 
-III
+**III**
 
 Tā kā $\sphericalangle ABE=60^{\circ}$ un $BA=BE$, tad $\triangle ABE$ ir vienādmalu.
 Tāpēc $3AC=AC+CD+DE > AE=AB$.
