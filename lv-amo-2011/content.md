@@ -9,8 +9,10 @@ nav $0$. Atrodi visus iespējamos atrisinājumus!
 
 <small>
 
-* questionType:
-* domain:
+* topic:IntegerFactorization
+* topic:ExhaustionMethod
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -51,8 +53,11 @@ skaitļu summas būtu vienādas. Ir zināmi trīs rūtiņās ierakstītie skait�
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExprVariables
+* topic:AlgebraicTransformations
+* questionType:FindAll
+* domain:Alg
+* concepts:sum
 
 </small>
 
@@ -78,8 +83,13 @@ Parādi, kā kvadrātu var sadalīt vairākos platleņķa trijstūros!
 
 <small>
 
-* questionType:
-* domain:
+* topic:ConstructionsTriangulate
+* topic:ConstructionsSmallMovements
+* topic:CircleInscribedAngles
+* questionType:FindExample
+* domain:Geom
+* concepts:square-Geo,triangle
+
 
 </small>
 
@@ -101,8 +111,11 @@ starpība ir
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:TreeTraversalBacktracking
+* topic:GraphProblems
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -129,15 +142,16 @@ pagriezti citādāk.)
 
 ![](LV.AMO.2011.5.5.png)
 
-Parādi, kā to var izdarīt, ja
-
+Parādi, kā to var izdarīt, ja  
 **(A)** $n=9$;  
 **(B)** $n=8$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:CountingUsingSymmetry
+* topic:TreeTraversalBacktracking
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -157,8 +171,11 @@ $$a \cdot b \cdot(a+b)=20102011?$$
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:IntegerFactorization
+* questionType:ProveDisprove
+* domain:NT
+* concepts:equation
 
 </small>
 
@@ -180,8 +197,10 @@ kungiem. Cik starp šiem pensionāriem ir kungu un cik - kundžu?
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:BipartiteGraphs
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -205,8 +224,9 @@ atrast nevienu pilnībā baltu taisnstūri ar izmēriem $1 \times 3$ rūtiņas
 
 <small>
 
-* questionType:
-* domain:
+* topic:ExhaustionMethod
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -241,8 +261,9 @@ Vai, vairākkārt veicot šādus gājienus, var iegūt tabulu, kāda attēlota 4
 
 <small>
 
-* questionType:
-* domain:
+* topic:InvariantRemainder
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -267,8 +288,9 @@ vienāds konfekšu skaits. Cik konfekšu sākumā bija katrai no māsām?
 
 <small>
 
-* questionType:
-* domain:
+* topic:AlgebraicTransformations
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -305,8 +327,11 @@ Atrodi visus šos skaitļus!
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:PrimesDistribution
+* questionType:FindAll
+* domain:NT
+* concepts:primes
 
 </small>
 
@@ -332,6 +357,20 @@ Ja ceturtais skaitlis ir $59$, tad virkne izskatās šādi:
 $2,\ 5,\ x,\ 59,\ y,\ x+14.\ x=47$ neder iepriekšminētā iemesla dēļ. Atliek 
 $x=53$. Iegūstam: $2,\ 5,\ 53,\ 59,\ y,\ 67$. Vienīgā iespējamā $y$ vērtība ir 
 $61$ un visa virkne: $\mathbf{2,\ 5,\ 53,\ 59,\ 61,\ 67}$.
+
+
+
+## Atrisinājums
+
+No pirmās īpašības seko, ka jābūt $p_1=2$,$p_2=5$ (citādi nevar dabūt sešus dažādus 
+pēdējos ciparus pirmskaitļiem). Vēl atsevišķi jāpamato, ka $p_2 \neq 3$, jo 
+sestais skaitlis nevar būt $p_2 + 14 = 17$. 
+
+No otrās un ceturtās īpašības seko, ka $p_3 = 53$, $p_6 = 67$. 
+
+No trešās īpašības seko, ka $p_4=59$.
+
+
 
 
 
@@ -378,8 +417,11 @@ dalot ar $2011$, atlikumā iegūst $3$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:ArithmeticSeriesDivisibility
+* topic:ChineseRemainderTheorem
+* questionType:FindExample
+* domain:NT
+* concepts:remainder
 
 </small>
 
@@ -397,8 +439,9 @@ kā to var izdarīt!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:square-Geo,rectangle
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -417,8 +460,9 @@ vienas krāsas punktus, starp kuriem attālums centimetros ir vesels skaitlis.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:line,point,distance,integer-numbers
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -443,14 +487,16 @@ nemainot to secību, ievieto aritmētisko darbību zīmes ("+", "-", " $\cdot$ "
 
 <small>
 
-* questionType:
-* domain:
+* topic:AlgorithmsOnSyntaxTrees
+* questionType:FindExample
+* domain:Alg
+* seeAlso:LV.AMO.2010.8.1
 
 </small>
 
 ## Atrisinājums
 
-**(A)** Piem., $8-3+5 \cdot 2=15$
+**(A)** Piem., $8 - 3 + 5 \ast 2 = 8 - (3 - 5 \ast 2) = 15$
 
 **(B)** Piem., $8:(3-5:2)=16$
 
@@ -529,8 +575,11 @@ dalās ar **(A)** $17$; **(B)** $23$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:NotationShift
+* topic:CanonicalFactorization
+* questionType:ProveDisprove
+* domain:NT
+* concepts:divisibility
 
 </small>
 
@@ -553,6 +602,13 @@ ar $23\ (2001:23=87)$, tātad arī jauniegūtais skaitlis $2001x$ noteikti dalā
 ar $23$.
 
 
+## Atrisinājums
+
+**(A)** Ja 3-ciparu skaitlis ir $\overline{abc}$, tad jaunais ir 
+$2001\overline{abc}$ dalās ar $23$. Bet $17 \nmid 2001$. 
+
+
+
 
 # <lo-sample/> LV.AMO.2011.8.5
 
@@ -566,10 +622,17 @@ spēlētājiem, pareizi spēlējot, uzvarēs? Apraksti, kā uzvarētājam jārī
 
 <small>
 
-* questionType:
-* domain:
+* topic:GameInvariant
+* questionType:ProveDisprove,Algorithm
+* domain:NT
 
 </small>
+
+
+## Ieteikums
+ 
+Pēc katra Annas gājiena skaitlim jādalās ar $10$. 
+
 
 ## Atrisinājums
 
@@ -591,8 +654,9 @@ $$\frac{1}{x^{2}+24}+\frac{1}{y^{2}+24}=\frac{2}{xy+24}$$
 
 <small>
 
-* questionType:
-* domain:
+* concepts:natural-numbers,pair
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -656,15 +720,16 @@ k.b.j.
 
 # <lo-sample/> LV.AMO.2011.9.3
 
-Dots vienādojums \# $x^{2}-$\# $x+$\# $=0$. Divi rūķīši spēlē spēli - pirmais nosauc
-trīs dažādus skaitļus, bet otrais tos kaut kādā secībā saliek "\#" vietās. Vai 
+Dots vienādojums $\# x^2 − \# x + \# = 0$. Divi rūķīši spēlē spēli - pirmais nosauc
+trīs dažādus skaitļus, bet otrais tos kaut kādā secībā saliek "$\#$" vietās. Vai 
 pirmais rūķītis vienmēr var panākt, lai vienādojumam būtu vismaz viena 
 racionāla sakne?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equation
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -687,8 +752,9 @@ ka katrs no tiem ir izsakāms kā divu naturālu skaitļu kvadrātu starpība?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:square-Geo,rectangle
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -742,8 +808,10 @@ sekojošu naturālu skaitļu summu? Saskaitāmo secība nav svarīga.
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2010.10.4
+* concepts:sum,consecutive-numbers
+* questionType:FindCount
+* domain:Alg
 
 </small>
 
@@ -943,8 +1011,10 @@ dotajām virknēm!
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2010.11.1
+* concepts:arithmetic-progression,sequence
+* questionType:FindOptimal,Prove
+* domain:NT
 
 </small>
 
@@ -1102,8 +1172,9 @@ ir pirmskaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:circumference,primes
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1134,8 +1205,9 @@ katrā grupā aprēķināta tajā ietilpstošo skaitļu summa. Vai var būt, ka
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum,primes
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
