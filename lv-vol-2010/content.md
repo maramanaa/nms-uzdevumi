@@ -429,23 +429,19 @@ Pierādīt, ka $ab+ac+ad+bc+bd+cd-a^{2}-b^{2}-c^{2}-d^{2} \leq 8$.
 ## Atrisinājums
 
 
-$$
-\begin{aligned}
-& a b+a c+a d+b c+b d+c d-a^{2}-b^{2}-c^{2}-d^{2}= \\
+$$\begin{aligned}
+& ab+ac+ad+bc+bd+cd-a^{2}-b^{2}-c^{2}-d^{2}= \\
 & =\frac{(a+b+c+d)^{2}}{8}-3 \frac{(a-b)^{2}+(a-c)^{2}+(a-d)^{2}+(b-c)^{2}+(b-d)^{2}+(c-d)^{2}}{8} \leq 8
-\end{aligned}
-$$
+\end{aligned}$$
 
 
 ## Atrisinājums
 
 
-$$
-\begin{aligned}
-& a b+a c+a d+b c+b d+c d-a^{2}-b^{2}-c^{2}-d^{2} \\
+$$\begin{aligned}
+& ab+ac+ad+bc+bd+cd-a^{2}-b^{2}-c^{2}-d^{2} \\
 & =\frac{(a+b+c+d)^{2}}{2}-3 \frac{a^{2}+b^{2}+c^{2}+d^{2}}{2} \leq \frac{(a+b+c+d)^{2}}{2}-\frac{3(a+b+c+d)^{2}}{8}=8
-\end{aligned}
-$$
+\end{aligned}$$
 
 kur otrajā solī izmantota nevienādība starp vidējo aritmētisko un vidējo kvadrātisko.
 
@@ -453,11 +449,10 @@ kur otrajā solī izmantota nevienādība starp vidējo aritmētisko un vidējo 
 
 # <lo-sample/> LV.VOL.2010.11.2
 
-Atrast visas tādas pozitīvu skaitļu virknes $a_{1}, a_{2}, \ldots$, kurām katram $k \geq 1$ izpildās nosacījums:
+Atrast visas tādas pozitīvu skaitļu virknes $a_{1}, a_{2}, \ldots$, kurām katram
+$k \geq 1$ izpildās nosacījums:
 
-$$
-a_{1}^{3}+a_{2}^{3}+\ldots+a_{k}^{3}=\left(a_{1}+a_{2}+\ldots+a_{k}\right)^{2}
-$$
+$$a_{1}^{3}+a_{2}^{3}+\ldots+a_{k}^{3}=\left(a_{1}+a_{2}+\ldots+a_{k}\right)^{2}$$
 
 <small>
 
@@ -475,29 +470,27 @@ Pie $n=1$ iegūstam $a_{1}^{3}=a_{1}^{2}$, no kurienes $a_{1}=1$.
 
 Pieņemsim, ka jau pierādīts, ka $a_{i}=i$ pie $i=1 ; 2 ; \ldots ; k$. Apskatām vienādību
 
-$$
-a_{1}^{3}+\ldots+a_{k}^{3}+a_{k+1}^{3}=\left(a_{1}+\ldots+a_{k}+a_{k+1}\right)^{2}
-$$
+$$a_{1}^{3}+\ldots+a_{k}^{3}+a_{k+1}^{3}=\left(a_{1}+\ldots+a_{k}+a_{k+1}\right)^{2}$$
 
 Atverot iekavas,
 
-$$
-\left(a_{1}^{3}+\ldots+a_{k}^{3}\right)+a_{k+1}^{3}=\left(a_{1}+\ldots+a_{k}\right)^{2}+2 a_{k+1}\left(a_{1}+\ldots+a_{k}\right)+a_{k+1}^{2}
-$$
+$$\left(a_{1}^{3}+\ldots+a_{k}^{3}\right)+a_{k+1}^{3}=\left(a_{1}+\ldots+a_{k}\right)^{2}+2a_{k+1}\left(a_{1}+\ldots+a_{k}\right)+a_{k+1}^{2}$$
 
 no kurienes, izmantojot doto, dalot ar $a_{k+1}$ un izmantojot induktīvo hipotēzi,
 
-$$
-a_{k+1}^{2}-a_{k+1}-k(k+1)=0
-$$
+$$a_{k+1}^{2}-a_{k+1}-k(k+1)=0$$
 
-Pēc Vjeta teorēmas vai nu $a_{k+1}=-k$, vai $a_{k+1}=k+1$. Tā kā virkne sastāv no pozitīviem skaitļiem, der tikai otrā iespēja.
+Pēc Vjeta teorēmas vai nu $a_{k+1}=-k$, vai $a_{k+1}=k+1$. Tā kā virkne sastāv no
+pozitīviem skaitļiem, der tikai otrā iespēja.
 
 
 
 # <lo-sample/> LV.VOL.2010.11.3
 
-Šaurleņķu trijstūrī ABC nogriežņi BQ un CP ir augstumi. Caur punktiem $\mathrm{A}, \mathrm{P}$ un Q ir novilkta riņķa līnija $\boldsymbol{u}$. No punkta Q pret taisni AB vilktais perpendikuls krusto riņķa līniju a punktā T. Zināms, ka TB ir r.l. a pieskare un $A T=T B$. Pierādīt, ka $A B=A C$.
+Šaurleņķu trijstūrī $ABC$ nogriežņi $BQ$ un $CP$ ir augstumi. Caur punktiem
+$A, P$ un $Q$ ir novilkta riņķa līnija $\omega$. No punkta $Q$ pret taisni $AB$
+vilktais perpendikuls krusto riņķa līniju $\omega$ punktā $T$. Zināms, ka $TB$ ir r.l.
+$\omega$ pieskare un $AT=TB$. Pierādīt, ka $AB=AC$.
 
 <small>
 
@@ -509,23 +502,41 @@ Pēc Vjeta teorēmas vai nu $a_{k+1}=-k$, vai $a_{k+1}=k+1$. Tā kā virkne sast
 
 ## Atrisinājums
 
-1) No dotā seko, ka $\triangle \mathrm{ATB}$ ir vienādsānu un $\sphericalangle T A B=\sphericalangle T B A$ (skat. 8.zīm.).
+1) No dotā seko, ka $\triangle ATB$ ir vienādsānu un
+$\sphericalangle TAB=\sphericalangle TBA$ (skat. 8.zīm.).
 
-$\sphericalangle \mathrm{BTP}=\sphericalangle \mathrm{TAP}$ (рēc hordas-pieskares un ievilktā leņķika īpašībām), Tāpēc $\sphericalangle B T P=\sphericalangle T B P$ un $\triangle \mathrm{BPT}$ ir vienādsānu, t. i., $T \mathrm{P}=\mathrm{BP}$.
+$\sphericalangle BTP=\sphericalangle TAP$ (рēc hordas-pieskares un ievilktā leņķa
+īpašībām), Tāpēc $\sphericalangle BTP=\sphericalangle TBP$ un
+$\triangle BPT$ ir vienādsānu, t. i., $\underline{TP=BP}$.
 
-2) No tā, ka $\triangle \mathrm{ATB}$ ir vienādsānu, seko, ka $A M=M B$. No tā un no $M Q \perp A B$ savukārt seko, ka $\triangle \mathrm{BQA}$ ir vienādsānu. Tāpēc $\sphericalangle \mathrm{BAQ}=\sphericalangle \mathrm{ABQ}=45^{\circ} . \quad \sphericalangle \mathrm{PTQ}=\sphericalangle \mathrm{PAQ} \quad \mathrm{k} a \mathrm{a}$ ievilktie leņķi, kas balstās uz vienu loka. Tādē] $\sphericalangle \mathrm{PTQ}=\sphericalangle \mathrm{PBQ}$.
+2) No tā, ka $\triangle ATB$ ir vienādsānu, seko, ka $AM=MB$. No tā un no
+$MQ \perp AB$ savukārt seko, ka $\triangle BQA$ ir vienādsānu. Tāpēc
+$\sphericalangle BAQ=\sphericalangle ABQ=45^{\circ}$.
+$\sphericalangle PTQ=\sphericalangle PAQ$ kā ievilktie leņķi, kas balstās uz vienu loka.
+Tādē] $\underline{\sphericalangle PTQ=\sphericalangle PBQ}$.
 
-No tā, ka $\sphericalangle \mathrm{BTP}=\sphericalangle \mathrm{TBP} \quad$ un
-$\sphericalangle \mathrm{PTQ}=\sphericalangle \mathrm{PBQ}$, seko, $k a \quad \sphericalangle \mathrm{BTQ}=\sphericalangle \mathrm{TBQ}$.
+No tā, ka $\sphericalangle BTP=\sphericalangle TBP$ un
+$\sphericalangle PTQ=\sphericalangle PBQ$, seko, ka
+$\sphericalangle BTQ=\sphericalangle TBQ$.
 
-Tāpēc $\triangle \mathrm{TBQ}$ ir vienādsānu un TQ =BQ. No tā
+Tāpēc $\triangle TBQ$ ir vienādsānu un $TQ=BQ$. No tā un no 1), 2) seko, ka
+$\triangle TPQ=\triangle BPQ$. Tāpēc
+$\sphericalangle TQP=\sphericalangle BQP$ (*).
 
-![](https://cdn.mathpix.com/cropped/2024_08_08_79f96b8f38dd3652fce6g-5.jpg?height=729&width=807&top_left_y=201&top_left_x=1087)
-un no 1), 2) seko, ka $\triangle \mathrm{TPQ}=\triangle \mathrm{BPQ}$. Tāpēc $\sphericalangle \mathrm{TQP}=\sphericalangle \mathrm{BQP}(*)$.
+No $\sphericalangle BMQ=\sphericalangle BPC=90^{\circ}$ izriet, ka $PC || TQ$.
+Tāpēc $\underline{\sphericalangle QPC=\sphericalangle TQP}$. Savukārt ap $Q, P, B$
+un $C$ var apvilkt riņķa līniju, jo
+$\sphericalangle BQC=\sphericalangle BPC=90^{\circ}$. Tādēļ šajā riņķa līnijā
+$\underline{\sphericalangle QPC=\sphericalangle QBC}$ un
+$\underline{\sphericalangle PQB=\sphericalangle PCB}$ abos gadījumos kā leņķi, kas
+balstās uz vienu loku. No tā un no (*) iegūstam, ka
+$\underline{\sphericalangle QBC=\sphericalangle PCB}$.
 
-No $\sphericalangle \mathrm{BMQ}=\sphericalangle \mathrm{BPC}=90^{\circ}$ izriet, ka PC $\| \mathrm{TQ}$. Tāpēc $\sphericalangle \mathrm{QPC}=\sphericalangle \mathrm{TQP}$. Savukārt ap Q, P, B un C var apvilkt riņ̧a līniju, jo $\sphericalangle \mathrm{BQC}=\sphericalangle \mathrm{BPC}=90^{\circ}$. Tādēl šajā riņ̧a līnijā $\sphericalangle \mathrm{QPC}=\sphericalangle \mathrm{QBC}$ un $\sphericalangle \mathrm{PQB}=\sphericalangle \mathrm{PCB}$ abos gadījumos kā leņi̧i, kas balstās uz vienu loku. No tā un no (*) iegūstam, ka $\sphericalangle \mathrm{QBC}=\sphericalangle \mathrm{PCB}$.
+Tālāk $\sphericalangle ACP=90^{\circ}-\sphericalangle PAC=45^{\circ}=\sphericalangle ABQ$.
+Iegūstam, ka $\sphericalangle QBC+\sphericalangle ABQ=\sphericalangle PCB+\sphericalangle ACP$
+vai $\sphericalangle ABC=\sphericalangle ACB$, no kā seko vajadzīgais.
 
-Tālāk $\sphericalangle \mathrm{ACP}=90^{\circ}-\sphericalangle \mathrm{PAC}=45^{\circ}=\sphericalangle \mathrm{ABQ}$. Iegūstam, ka $\sphericalangle \mathrm{QBC}+\sphericalangle \mathrm{ABQ}=\sphericalangle \mathrm{PCB}+\sphericalangle \mathrm{ACP}$ vai $\sphericalangle A B C=\sphericalangle A C B$, no kā seko vajadzīgais.
+![](LV.VOL.2010.11.3A.png)
 
 
 
