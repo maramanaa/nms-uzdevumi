@@ -278,8 +278,9 @@ pēc atbildes uz 3. jautājumu.
 # <lo-sample/> LV.NOL.2012.7.1
 
 Ar naturālu skaitli var veikt divu veidu operācijas:
-1) reizināt ar $7$,
-2) nodzēst skaitļa lielāko (vienu no lielākajiem, ja tādi ir vairāki) ciparu.
+
+1. reizināt ar $7$,
+2. nodzēst skaitļa lielāko (vienu no lielākajiem, ja tādi ir vairāki) ciparu.
 
 Vai ar šādām operācijām no skaitļa $9$ var iegūt skaitli $27$, atkārtojot tās 
 vairākas reizes jebkādā secībā?
@@ -287,6 +288,7 @@ vairākas reizes jebkādā secībā?
 
 <small>
 
+* topic:GraphAlgorithms
 * questionType:
 * domain:
 
@@ -296,6 +298,12 @@ vairākas reizes jebkādā secībā?
 
 Jā, var, piemēram: 
 $9 \rightarrow 63 \rightarrow 441 \rightarrow 41 \rightarrow 287 \rightarrow 27$.
+
+*Piezīme:* Ievērojam, ka no katra skaitļa var veikt divas pārejas - skaitļi veido "koku", kura
+sakne ir $9$ un tas pēc tam sazarojas. Secīgi izrakstot koka virsotnēs esošos skaitļus un 
+veicot, piemēram, "meklēšanu platumā" (*depth first search (DFS)*) var atrast īsāko ceļu līdz 
+skaitlim $9$. 
+
 
 
 
@@ -359,8 +367,9 @@ Pierādīt, ka $1004041$ nav pirmskaitlis.
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesOther
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -369,6 +378,14 @@ Pierādīt, ka $1004041$ nav pirmskaitlis.
 Ievērosim, ka 
 $1004041=1014141-10100=101 \cdot 10000+101 \cdot 40+101 \cdot 1-101 \cdot 100=101 \cdot(10000+40+1-100)=101 \cdot 9941$,
 tātad tas nav pirmskaitlis.
+
+
+## Atrisinājums
+
+Var pamanīt dalāmības pazīmi ar $101$ (pēc analoģijas ar dalāmības pazīmi ar $11$):  
+Ar $101$ dalās skaitļi, kam apaļajās un kvadrātiekavās likto ciparu grupu summas ir savstarpēji vienādas 
+vai arī to starpība dalās ar $101$: $[01](00)[40](41)$.
+
 
 
 
@@ -410,15 +427,17 @@ reizinātājiem ir lielāks nekā $1$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:StandardIdentities
+* questionType:FindExample
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
-Ievērosim, ka 
+Izmantojam kvadrātu starpības formulu. Ievērojam, ka 
 $3999991=4000000-9=2000^{2}-3^{2}=(2000-3) \cdot(2000+3)=1997 \cdot 2003$.
+
 
 
 
@@ -454,8 +473,10 @@ vieni.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRuleFor11
+* topic:EuclideanLemma
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -598,14 +619,13 @@ Dota skaitļu virkne $1,\ 1,\ 2,\ 5,\ 9,\ 6,\ \ldots$. Tā tiek veidota pēc
 likuma: virknes pirmie divi locekļi ir $1$, bet katrs nākamais ir vienāds ar 
 divu iepriekšējo locekļu kvadrātu summas pēdējo ciparu.
 
-**(A)** Noteikt, vai šīs virknes $2012.$ loceklis ir pāra vai nepāra skaitlis.
-
+**(A)** Noteikt, vai šīs virknes $2012.$ loceklis ir pāra vai nepāra skaitlis.  
 **(B)** Aprēķināt virknes $2012.$ locekli.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,FindAll
+* domain:NT
 
 </small>
 
@@ -636,8 +656,8 @@ ka šo skaitļu summa dalās ar $n$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -722,8 +742,10 @@ pirmskaitli $p$, ka tieši viens no dotajiem skaitļiem dalās ar $p$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* topic:ArithmeticSeriesGaps
+* strategy:contradiction
 
 </small>
 
@@ -749,8 +771,10 @@ uzrakstīti viens aiz otra. Cik cipari uzrakstīti?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DigitsInOperationResult
+* questionType:FindCount
+* domain:NT
+* seeAlso:LV.NOL.2013.10.4
 
 </small>
 
@@ -809,8 +833,9 @@ simetrisku $8$-ciparu skaitli?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:palindrome
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -910,7 +935,7 @@ malu kvadrātu summa.
 # <lo-sample/> LV.NOL.2012.11.4
 
 Atrast augošu aritmētisku progresiju, kuras visi elementi ir naturāli skaitļi 
-un kurai piemīt īpašība: neviens tās elements nav naturāla skaitļa $k$-tā 
+un kurai piemīt īpašība: neviens tās elements **nav** naturāla skaitļa $k$-tā 
 pakāpe jebkuram naturālam $k \geq 2$.
 
 <small>
@@ -939,7 +964,7 @@ $\underline{Piezīme:}$ šī nav vienīgā virkne, kas apmierina uzdevuma prasī
 
 Dotas sešas vienāda izskata monētas un sviras svari bez atsvariem. Četras no 
 monētām sver $8$ gramus katra, pārējās divas sver $7$ gramus katra. Kā ar divām
-svēršanām atrast vismaz vienu monētu, kas sver $7$ gramus?
+svēršanām atrast **vismaz** vienu monētu, kas sver $7$ gramus?
 
 <small>
 
@@ -1043,8 +1068,8 @@ Kādiem pirmskaitļiem $p$ skaitlim $p^{2}+23$ ir tieši četri naturāli dalīt
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 

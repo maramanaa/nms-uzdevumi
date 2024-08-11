@@ -8,8 +8,8 @@ skaitlis $20112012$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -217,8 +217,11 @@ ka skaitļa $N^{2}$ decimālajā pierakstā nav cipara $0$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* strategy:TrialAndError 
+* topic:SeriesMembersSumsClosedFormulas
+* topic:PeriodicDigitGroups
+* concepts:full-square
 
 </small>
 
@@ -229,6 +232,35 @@ Ja $N=\underbrace{666 \ldots}_{n "6"}$, tad
 $N^{2}=\underbrace{66 \ldots 6}_{n "6"} \cdot \underbrace{66 \ldots 6}_{n "6"}=6 \cdot 6 \cdot \underbrace{11 \ldots 1}_{n "1"} \cdot \underbrace{11 \ldots 1}_{n "1"}=4 \cdot 9 \cdot \underbrace{11 \ldots 1}_{n "1"} \cdot \underbrace{11 \ldots 1}_{n "1"}=\underbrace{44 \ldots}_{n "4"} \cdot \underbrace{99 \ldots 9}_{n "9"}=$
 
 $=\underbrace{44 \ldots 4}_{n "4"} \cdot(\underbrace{100 \ldots 0}_{n "0"}-1)=\underbrace{44 \ldots}_{n "4"} \underbrace{00 \ldots 0}_{n "0"}-\underbrace{44 \ldots 4}_{n "4"}=\underbrace{44 \ldots}_{n-1 "4"} 43 \underbrace{55 \ldots .56}_{n-1 "5"}.$
+
+
+
+
+
+## Atrisinājums
+
+Parādām, kā kāpināt $66\ldots{}66$ kvadrātā
+
+$$6^2=36,\;\;66^2=4356=4455-99,\;\;666^2=443556=444555-999,\ldots$$
+
+Pamatosim, ka 
+
+$$\begin{aligned}
+(\underbrace{6\ldots6}_n)^2 & = \overline{\underbrace{4\ldots{}4}_n\underbrace{5\ldots{}5}_n}-\underbrace{9\ldots{}9}_n, \\
+\left( 6\cdot(10^n-1)/9 \right)^2 & = 10^n \cdot (4 \cdot (10^n - 1)/9) +(5 \cdot (10^n - 1)/9) - (10^n-1), \\
+\frac{4}{9}(10^n-1)^2 & = 10^n \cdot \frac{4}{9}(10^n - 1) +\frac{5}{9}(10^n-1) - (10^n - 1), \\
+4(10^n - 1)^2 & = 4\cdot{}10^{2n}-4\cdot{}10^n + 5\cdot{}10^n-5 - 9\cdot{}10^n +9.
+\end{aligned}$$
+
+Tātad $\overline{6\ldots6}^2$ pierakstā ir tikai cipari "4","3", "5" un "6":
+
+$$(\underbrace{6\ldots6}_n)^2=\overline{\underbrace{4\ldots{}4}\_{n-1}3\underbrace{5\ldots{}5}\_{n-1}6}$$
+
+
+
+
+
+
 
 
 # <lo-sample/> LV.VOL.2012.10.4
@@ -299,8 +331,8 @@ $n^{4}+a$ ir salikts skaitlis visiem naturāliem skaitļiem $n>1$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -431,8 +463,8 @@ spēkā sakarība $a_{n}-\sqrt{a_{n+1}}=2$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -498,14 +530,14 @@ vērtības.
 Divām naturālu skaitļu virknēm $\left\{a_{i}\right\}$ un $\left\{b_{i}\right\}$
 katram $i \geq 1$ ir spēkā sakarības:
 
-$a_{b_{i}}=b_{a_{i}}$ un $\left|a_{i}-b_{i}\right|>2012$.
+$$a_{b_{i}}=b_{a_{i}}\;\;\mbox{un}\;\;\left|a_{i}-b_{i}\right|>2012.$$
 
 Atrast vienu šādu virkņu piemēru.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -554,16 +586,22 @@ trijstūri $ABC$ apvilktās riņķa līnijas.
 
 # <lo-sample/> LV.VOL.2012.12.3
 
-Atrisināt naturālos skaitļos vienādojumu 
-$n=\left[\frac{n}{2}\right]+\left[\frac{n}{3}\right]+\left[\frac{n}{4}\right]+\ldots+\left[\frac{n}{n+2012}\right]$
+Atrisināt naturālos skaitļos vienādojumu
+$$n = \left\lfloor \frac{n}{2} \right\rfloor + 
+\left\lfloor \frac{n}{3} \right\rfloor + 
+\left\lfloor \frac{n}{4} \right\rfloor + 
+\ldots + 
+\left\lfloor \frac{n}{n+2012} \right\rfloor.$$ 
 
-($[x]$ ir veselā daļa no $x$ - lielākais veselais skaitlis, kas nepārsniedz 
-$x$; piem., $[3]=3,[4,6]=4,[0,2]=0$ u.tml.)
+($\lfloor x \rfloor$ ir veselā daļa no $x$ – lielākais veselais skaitlis, kas nepārsniedz $x$;
+piem., $\lfloor 3 \rfloor=3$, 
+$\lfloor 4.6 \rfloor =4$, 
+$\lfloor 0.2 \rfloor =0$ utml.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 

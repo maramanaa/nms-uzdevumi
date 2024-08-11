@@ -313,8 +313,10 @@ $(x+1)(x+2)(x+3)$ dalās ar $343$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:MultiplesInInterval
+* topic:FactorizationAndDivisibility
+* questionType:FindCount
+* domain:NT
 
 </small>
 
@@ -327,6 +329,10 @@ otra vismaz par $7$, tad tieši viena iekava dalās ar $343$. Šī iekava ir vie
 skaitļiem $343 \cdot 1 ; 343 \cdot 2 ; 343 \cdot 3 ; 343 \cdot 4 ; 343 \cdot 5$, jo jau
 $343 \cdot 6 > 2010$. Tāpēc meklējamo skaitļu ir $5 \cdot 3=15$.
 
+
+## Atrisinājums
+
+Katrs septītais skaitlis dalās ar $7$, tādēļ $x+1$, $x+2$ vai $x+3$ dalās ar $7^3 = 343$.
 
 
 # <lo-sample/> LV.NOL.2010.7.4
@@ -396,8 +402,11 @@ $2$ un $3$.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:StandardIdentities
+* topic:PrimesDistribution
+* topic:TelescopicSums
+* questionType:ProveDisprove,FindCount
+* domain:NT
 
 </small>
 
@@ -408,6 +417,10 @@ Pārveidojot otro skaitli, lietojot kvadrātu starpības formulu, iegūstam reiz
 $101 \cdot 103 \cdot 102 \cdot 104 \cdot \ldots \cdot 198 \cdot 200$. Redzam, ka otrajā
 skaitlī ir **viens** papildus pirmskaitlis $101$. Skaitlis $200$, kas rodas labajā galā,
 jaunus pirmskaitļus nedod.
+
+## Atrisinājums
+
+Dala reizinātājos $102^2 - 1=(102-1)(102+1)$ utt., īsina. Labajā pusē par pirmreizinātāju $101$ vairāk.  
 
 
 
@@ -458,8 +471,12 @@ starpība dalās ar $9$.
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:DivisibilityRulesForRemainders
+* topic:DivisibilityRulesFor3And9
+* topic:NotationManipulate
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -468,6 +485,14 @@ starpība dalās ar $9$.
 
 Uzrakstām $\overline{abcd}=(999a+99b+9c)+(a+b+c+d)$. Atņemot saskaitāmie $(a+b+c+d)$
 saīsinās.
+
+
+
+## Atrisinājums
+ 
+$n$ atlikums dalot ar $9$ (arī pārkārtotā $n$ atlikums) vienādi ar $n$ ciparu summas atlikumu.
+
+
 
 
 
@@ -525,17 +550,17 @@ Atrodiet kaut vienu kvadrātvienādojumu ar veseliem koeficientiem, kam viena no
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,FindExample
+* domain:Alg
 
 </small>
 
 
 ## Atrisinājums
 
-(A) piemēram, $x^{2}-2x-1=0$.
+**(A)** piemēram, $x^{2}-2x-1=0$.
 
-(B) ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. Tāpēc
+**(B)** ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. Tāpēc
     der, piemēram, vienādojums $x^{2}-4x+1=0$
 
 
@@ -637,12 +662,19 @@ skat. 5.zīm.
 # <lo-sample/> LV.NOL.2010.9.5
 
 Atrisiniet naturālos skaitļos vienādojumu sistēmu
-$\left\{\begin{array}{l}x^{2}+y=z^{2} \\ y^{2}+x=t^{2}\end{array}\right.$.
+
+$$\left\{ 
+\begin{array}{ll}
+x^2 + y & = z^2\\
+y^2 + x & = t^2
+\end{array}
+\right.$$
+
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -685,12 +717,15 @@ naturāla skaitļa kvadrāts. Tāpēc sistēmai atrisinājuma naturālos skaitļ
 
 Dots, ka $a$ un $b$ ir naturāli skaitļi, $a^{2}$ dalās ar $b$ un $b^{2}$ dalās ar $a$.
 Pierādīt, ka $(a-b)^{3}$ dalās ar $a \cdot b$. Vai noteikti $(a-b)^{2}$ dalās ar
-$a \cdot b$ ?
+$a \cdot b$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:AdvancedIdentities
+* topic:DivisibilityProperties
+* topic:DivisibilityProperties
+* questionType:Prove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -703,6 +738,30 @@ Tā kā $a^{2}$ dalās ar $b$, tad $a^{2} \cdot a$ dalās ar $ab$; tā kā $b^{2
 $a$, tad $b^{2} \cdot b$ dalās ar $ab$. Tātad arī visa izteiksme dalās ar $ab$.
 
 Ja $a=4$ un $b=2$, tad $(a-b)^{2}$ nedalās ar $ab$.
+
+
+
+## Atrisinājums
+
+**(A)** Rakstām algebrisku pārveidojumu:
+
+$$(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
+
+Katrs no $4$ saskaitāmajiem dalās ar $ab$:
+
+* $\frac{a^3}{ab} = \frac{a^2}{b}$ (zināms, ka dalās)
+* $\frac{3a^2b}{ab} = 3a$ un $\frac{3ab^2}{ab}=3b$ (abus var saīsināt)
+* $\frac{b^3}{ab} = \frac{b^2}{a}$ (zināms, ka dalās)
+
+
+
+**(B)**
+
+* Ja $a=9$, $b=3$, tad $(a-b)^2 = 36$ nedalās ar $ab=27$.
+* Ja $a=18$, $b=12$, tad $(a-b)^2 = 36$ nedalās ar $ab=216$.
+
+
+
 
 
 
@@ -740,8 +799,14 @@ Atrisināt naturālos skaitļos vienādojumu $x^{3}=y!+2$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:CountingObjects
+* LTopic:LTEquationsNumTheory
+* topic:StandardIdentities
+* topic:ValuationProperties
+* topic:ValuationProperties
+* topic:ModularArithmeticContradiction
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -751,6 +816,34 @@ Atrisināt naturālos skaitļos vienādojumu $x^{3}=y!+2$.
 Pie $y \geq 4$ labā puse dalās ar $2$, bet nedalās ar $8$. Kreisajai pusei $2$ jāsatur
 kā reizinātāju $3., 6., 9., \ldots$ pakāpē, tāpēc atrisinājuma nav. Atliek pārbaudīt
 $y=1; 2; 3$. Iegūstam atrisinājumu $x=2; y=3$.
+
+
+
+## Atrisinājums
+
+Sastádám faktoriālu un pilno kubu tabulas
+
+| $x$  | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| $x^3 | 1    | 8    | 27   | 64   | 125  | 216  | 343  | 512  | 729  | 1000 |
+
+
+| $y$    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8     | 
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
+| $y!    | 1    | 2    | 6    | 24   | 120  | 720  | 5040 | 40320 |  
+| $y!+2$ | 3    | 4    | 8    | 26   | 122  | 722  | 5042 | 40322 |
+
+
+Redzam, ka $2^3 = 3!+2$ (ja $x=2, y=3$). 
+
+Vai ir citas saknes, kur $y>3$? 
+Aplūkojam $x$ paritāti. Vienīgā iespēja: $x$ ir pāru skaitlis: $x=2k$.
+
+* Tad $(2k)^3 = y!+2$ jeb $8k^3 = y! + 2$.
+* Kreisā puse dalās ar $8$, bet labā (pie $y>3$) dod atlikumu $2$, dalot ar $8$.
+
+
+
 
 
 
@@ -793,12 +886,9 @@ $3 < 3+3$.
 Dots, ka $p$ un $q$ ir naturāli skaitļi un kvadrātvienādojuma $x^{2}+px+q=0$ saknes ir
 $x_{1}$ un $x_{2}$. Pierādīt, ka
 
-(A) $x_{1}^{2}+x_{2}^{2}$,
-
-(B) $x_{1}^{8}+x_{2}^{8}$,
-
-(C) $x_{1}^{5}+x_{2}^{5}$
-
+**(A)** $x_{1}^{2}+x_{2}^{2}$,  
+**(B)** $x_{1}^{8}+x_{2}^{8}$,  
+**(C)** $x_{1}^{5}+x_{2}^{5}$  
 ir vesels skaitlis.
 
 <small>
@@ -834,8 +924,8 @@ Atrisināt veselos skaitļos vienādojumu $\frac{x^{2}}{2}+\frac{5}{y}=7$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -938,14 +1028,14 @@ $5 < 3+3$.
 
 # <lo-sample/> LV.NOL.2010.12.1
 
-Dots, ka $n$- naturāls skaitlis, kas nedalās ar $5$. Kāda ir mazākā iespējamā ciparu
-summa skaitlim $\left(n^{2}-1\right)\left(n^{2}-4\right)+7$ ? Pie kādām $n$ vērtībām tā
+Dots, ka $n$ - naturāls skaitlis, kas nedalās ar $5$. Kāda ir mazākā iespējamā ciparu
+summa skaitlim $\left(n^{2}-1\right)\left(n^{2}-4\right)+7$? Pie kādām $n$ vērtībām tā
 tiek sasniegta?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal,FindAll
+* domain:NT
 
 </small>
 

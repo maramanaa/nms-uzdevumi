@@ -8,8 +8,8 @@ ir veseli skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -71,19 +71,19 @@ Parādīt, ka no visiem trīsciparu skaitļiem, kuru pierakstā nav cipara $0$, 
 izvēlēties $81$ trīsciparu skaitli tā, lai vienlaicīgi izpildītos šādas trīs 
 īpašības:
 
-1) visos izvēlētajos skaitļos izsvītrojot pirmo ciparu, katrs divciparu 
+1. visos izvēlētajos skaitļos izsvītrojot pirmo ciparu, katrs divciparu 
    skaitlis, kas nesatur $0$, tiek iegūts tieši vienu reizi;
 
-2) visos izvēlētajos skaitļos izsvītrojot otro ciparu, katrs divciparu 
+2. visos izvēlētajos skaitļos izsvītrojot otro ciparu, katrs divciparu 
    skaitlis, kas nesatur $0$, tiek iegūts tieši vienu reizi;
 
-3) visos izvēlētajos skaitļos izsvītrojot trešo ciparu, katrs divciparu 
+3. visos izvēlētajos skaitļos izsvītrojot trešo ciparu, katrs divciparu 
    skaitlis, kas nesatur $0$, tiek iegūts tieši vienu reizi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -286,8 +286,11 @@ $f(2011)=100$, bet $f(11)=1000$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
+* topic:PolynomialDifferenceDivisibility
+* topic:AdvancedIdentities
+* concepts:integer-polynomial
 
 </small>
 
@@ -439,8 +442,8 @@ pirmskaitlis.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -603,8 +606,8 @@ vienādība $(2n)^{2n}-1=m^{3}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
