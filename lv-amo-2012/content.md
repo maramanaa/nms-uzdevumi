@@ -5,8 +5,10 @@ gadīties, ka viens skaitlis ir tieši septiņas reizes lielāks nekā otrs skai
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:ExhaustionMethod
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -25,8 +27,12 @@ platleņķa trijstūri, ja tam ir viens plats leņķis un divi šauri leņķi.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:ConstructionsTriangulate
+* topic:CircleInscribedAngles
+* sameAs:LV.AMO.2011.5.3
+* questionType:ProveDisprove
+* domain:Geom
+* concepts:square-Geo,triangle
 
 </small>
 
@@ -47,8 +53,10 @@ $2$ baltas, vai $3$ zaļas, vai $4$ sarkanas pogas.
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:NumTheoryPigeonholeNewSets
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -66,12 +74,13 @@ skaitā.
 $24$-stāvu mājā ir lifts, kuram ir divas pogas. Nospiežot vienu pogu, tas paceļas
 (ja iespējams) $17$ stāvus uz augšu, nospiežot otru nolaižas $8$ stāvus uz leju (ja
 iespējams). Noskaidro, no kura stāva ar šo liftu var nokļūt uz jebkuru citu stāvu šajā
-mājā. (Lifts nevar uzbraukt augstāk par $24.$ stāvu un zemāk par $1.$ stāvu.)
+mājā. (Lifts nevar uzbraukt augstāk par 24. stāvu un zemāk par 1. stāvu.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryMathInduction
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -97,8 +106,9 @@ saucam par vienādām figūrām.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:SquareGridCutting
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -268,8 +278,10 @@ $$ab(3a+5b)=1234567$$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularParity
+* questionType:ProveDisprove
+* domain:NT
+* concepts:equation
 
 </small>
 
@@ -283,17 +295,21 @@ skaitlis), tātad viss reizinājums ir pāra skaitļi.
 
 
 
+
+
 # <lo-sample/> LV.AMO.2012.7.2
 
-Doti seši nogriežņi ar garumiem $1~ \mathrm{cm}$, $3~ \mathrm{cm}$, $5~ \mathrm{cm}$,
-$7~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ mathrm{cm}$. Cik dažādos veidos no tiem var
+Doti seši nogriežņi ar garumiem $1~\mathrm{cm}$, $3~\mathrm{cm}$, $5~\mathrm{cm}$,
+$7~\mathrm{cm}$, $9~\mathrm{cm}$, $11~\mathrm{cm}$. Cik dažādos veidos no tiem var
 izvēlēties trīs nogriežņus tā, ka no tiem var izveidot trijstūri (katra trijstūra mala
 ir viens vesels nogrieznis)?
 
 <small>
 
+* concepts:triangle,segment
+* questionType:FindCount
 * questionType:
-* domain:
+* domain:Geom
 
 </small>
 
@@ -301,13 +317,13 @@ ir viens vesels nogrieznis)?
 ## Atrisinājums
 
 No trijstūra nevienādības (katru divu malu summa ir lielāka nekā trešā mala) seko, ka
-$1~ \mathrm{cm}$ garais nogrieznis nav izmantojams neviena trijstūra izveidošanai. No
-pārējiem nogriežņiem trijstūrus var izveidot $7$ veidos: $(3~ \mathrm{cm}$,
-$5~ \mathrm{cm}$, $7~ \mathrm{cm}$),($3~ \mathrm{cm}$, $7~ \mathrm{cm}$,
-$9~ \mathrm{cm}$),($3~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ \mathrm{cm}$ ),
-($5~ \mathrm{cm}$, $7~ \mathrm{cm}$, $9~ \mathrm{cm}$ ), ($5~ \mathrm{cm}$,
-$7~ \mathrm{cm}$, $11~ \mathrm{cm}$ ), ($5~ \mathrm{cm}$, $9~ \mathrm{cm}$,
-$11~ \mathrm{cm}$ ), ($7~ \mathrm{cm}$, $9~ \mathrm{cm}$, $11~ \mathrm{cm}$).
+$1~\mathrm{cm}$ garais nogrieznis nav izmantojams neviena trijstūra izveidošanai. No
+pārējiem nogriežņiem trijstūrus var izveidot $7$ veidos: $(3~\mathrm{cm}$,
+$5~\mathrm{cm}$, $7~\mathrm{cm}$),($3~\mathrm{cm}$, $7~\mathrm{cm}$,
+$9~\mathrm{cm}$),($3~\mathrm{cm}$, $9~\mathrm{cm}$, $11~\mathrm{cm}$ ),
+($5~\mathrm{cm}$, $7~\mathrm{cm}$, $9~\mathrm{cm}$ ), ($5~\mathrm{cm}$,
+$7~\mathrm{cm}$, $11~\mathrm{cm}$ ), ($5~\mathrm{cm}$, $9~\mathrm{cm}$,
+$11~\mathrm{cm}$), ($7~\mathrm{cm}$, $9~\mathrm{cm}$, $11~\mathrm{cm}$).
 
 
 
@@ -401,18 +417,19 @@ veidos (skat. 8.zīm.).
 
 Starp skaitļiem
 
-$4$ $1$ $5$ $7$,
+$$4\;\;1\;\;5\;\;7,$$
 
 nemainot to secību, ievieto aritmētisko darbību zīmes
-(" $+$ ", „ $-$ ", " $\cdot$ ", " $:$ ") un iekavas tā, lai iegūtās izteiksmes vērtība
+("$+$", "$-$", "$\cdot$", "$:$") un iekavas tā, lai iegūtās izteiksmes vērtība
 būtu
 **(A)** $13$,
 **(B)** $14$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:AlgorithmsOnSyntaxTrees
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -421,7 +438,7 @@ būtu
 
 **(A)** Piemēram, $4 \cdot 1 \cdot 5-7=13$
 
-**(B)** Piemēram, $4:(1-5:7)=14$
+**(B)** Piemēram, $4:(1-5:7)=14$ un arī $(4-1-5) \cdot (-7)=14$.
 
 
 
@@ -458,8 +475,10 @@ olimpiādē?
 
 <small>
 
-* questionType:
-* domain:
+* topic:BaricenterCoordinates
+* topic:NumTheoryInequalityMethod
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -473,6 +492,13 @@ $21,6z+15m=20(z+m) \Rightarrow 1,6z=5m \Rightarrow$ $8z=25m \Rightarrow z=25t, m
 $z+m=33t$. Tā kā kopējais skolnieku skaits nepārsniedz $60$, tad $t=1$ un kopējais
 skolēnu skaits ir $33$.
 
+## Atrisinājums
+
+Smaguma centram $21.6$ abi plecu garumi $1.6=|21.6-20|$ un $5=|15-20|$ 
+attiecas kā $8$ un $25$. Tātad zēnu ir $25$ un meiteņu $8$. Lielākus skaitļus ievietot 
+nevar, jo piemēram $50$ un $16$ summa ir jau $66 > 60$. 
+
+
 
 
 # <lo-sample/> LV.AMO.2012.8.4
@@ -482,8 +508,10 @@ dalās ar $5$. Pierādi, ka visi uzrakstītie skaitļi dalās ar $5$ .
 
 <small>
 
-* questionType:
-* domain:
+* topic:PeriodicRemainders
+* questionType:Prove
+* domain:NT
+* concepts:sum,divisibility
 
 </small>
 
@@ -530,6 +558,16 @@ nozīmē, ka visi uzrakstītie skaitļi dalās ar $5$.
 
 
 
+
+## Atrisinājums
+
+Atlikumi pēc $5$ moduļa ik pēc $3$ atkārtojas, tātad tie visi vienādi (un vienādi ar $0$).
+
+
+
+
+
+
 # <lo-sample/> LV.AMO.2012.8.5
 
 Kvadrātveida tabula ar izmēriem $7 \times 7$ rūtiņas aizpildīta ar skaitļiem no $1$
@@ -565,8 +603,12 @@ Atrodi vienu skaitli, kuram ir tieši $12$ veseli pozitīvi dalītāji.
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:ModularArithmetic
+* topic:ModularArithmetic
+* questionType:FindExample
+* domain:NT
+* concepts:divisors
 
 </small>
 
@@ -586,8 +628,10 @@ $\sphericalangle BAC=\sphericalangle BMN$
 
 <small>
 
-* questionType:
-* domain:
+* topic:TriangleCongruence
+* questionType:Prove
+* domain:Geom
+* concepts:triangle
 
 </small>
 
@@ -612,15 +656,18 @@ pirmskaitļi. Aprēķini $a$ skaitlisko vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularArithmetic
+* topic:ModularArithmetic
+* questionType:FindAll
+* domain:NT
+* concepts:quadratic-equation,primes
 
 </small>
 
 
 ## Atrisinājums
 
-No Vjeta teorēmas seko $p^{2}+q=507$- nepāra skaitlis, tātad viens no pirmskaitļiem $p$
+No Vjeta teorēmas seko $p^{2}+q=507$ - nepāra skaitlis, tātad viens no pirmskaitļiem $p$
 vai $q$ ir $2$. Ja $q=2$, tad $p^{2}=505$, bet tad $p$ nav vesels skaitlis. Tātad $p=2$
 un $q=503$, no kurienes iegūstam $a=p^{2}q=2012$.
 
@@ -636,8 +683,11 @@ ar $37$. Vai Pēteris vienmēr var uzvarēt?
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:ModularArithmetic
+* topic:ModularArithmetic
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -664,8 +714,12 @@ piecos vienlielos trijstūros.
 
 <small>
 
-* questionType:
-* domain:
+* topic:TriangleAreaBaseHeight
+* topic:Trapezoids
+* questionType:Prove
+* domain:Geom
+* concepts:trapezoid,triangle
+
 
 </small>
 
@@ -687,8 +741,11 @@ Pierādi: ja $p$ un $14p^{2}+1$ ir pirmskaitļi, tad $14p^{2}-1$ ir naturāla sk
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularArithmetic
+* topic:ModularArithmetic
+* questionType:Prove
+* domain:NT
+* concepts:primes
 
 </small>
 
@@ -697,6 +754,22 @@ Pierādi: ja $p$ un $14p^{2}+1$ ir pirmskaitļi, tad $14p^{2}-1$ ir naturāla sk
 
 Ja $p \neq 3$, tad $p^{2}$, dalot ar $3$, dod atlikumu $1$, tāpēc $14p^{2}+1$ dalās ar
 $3$, un nav pirmskaitlis. Ja $p=3$, tad $14p^{2}-1=125=5^{3}$.
+
+
+
+
+## Atrisinājums
+
+* Ja $p$ nedalās ar $3$, tad $p^2$ atlikums, dalot ar $3$, ir $1$. 
+* Tad $14p^2$ dod atlikumu $2$, dalot ar $3$, jo skaitli ar atlikumu $2$ 
+  reizina ar skaitli ar atlikumu $1$.
+* Tad $14p^2+1$ dod atlikumu $0$, dalot ar $3$. Tas nav pirmskaitlis. 
+
+Secinām, ka $p=3$ (citi pirmskaitļi nedalās ar $3$). Tādēļ 
+$14p^2 +1 = 127$ un $14p^2 - 1 = 125$, kas tiešām ir pilns kubs $5^3$.
+
+
+
 
 
 
@@ -815,8 +888,9 @@ Pierādi, ka nav tāda naturāla skaitļa $n$, ka skaitlis $n^{2}-3n-1$ dalās a
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -983,8 +1057,9 @@ no $1$ līdz $7$. Pierādi, ka $A$ nedalās ar $B$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 

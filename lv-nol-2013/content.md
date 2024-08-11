@@ -918,8 +918,11 @@ uzrakstīja vienu aiz otra. Cik cipari uzrakstīti?
 
 <small>
 
-* questionType:
-* domain:
+* topic:CountingObjects
+* topic:DigitsInOperationResult
+* questionType:FindCount
+* domain:NT
+* sameAs:LV.NOL.2012.10.4
 
 </small>
 

@@ -273,8 +273,10 @@ Atrodiet skaitļa $1^{2}+2^{2}+\cdots+99^{2}$ pēdējo ciparu.
 
 <small>
 
-* questionType:
-* domain:
+* topic:SequencePeriodicity
+* topic:CongruenceClasses
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -283,8 +285,13 @@ Atrodiet skaitļa $1^{2}+2^{2}+\cdots+99^{2}$ pēdējo ciparu.
 
 Tā kā katriem desmit pēc kārtas ņemtiem skaitļiem kvadrātu summa beidzas ar vienu un to
 pašu ciparu, un šai summai pievienojot $0^{2}$, tajā būs desmit desmitnieku
-$(0,1,2, \ldots 9; 10, 11$, ..., 19; ...; 90, 91, ..., 99), tātad meklētās summas
-pēdējais cipars ir nulle.
+
+$$(0,1,2, \ldots 9; 10, 11, \ldots, 19; \ldots; 90, 91, \ldots, 99),$$ 
+
+tātad meklētās summas pēdējais cipars ir nulle.
+
+(Katrai grupai summas pēdējo ciparu var izteikt, piemēram, $\left( 1^2 + 2^2 + \ldots + 8^2 + 9^2 \right)$. 
+Iegūstam $(1+4+9+6)\cdot 2 + 5 = 5$.)
 
 
 
@@ -295,8 +302,10 @@ $(n+1)(n+2)(n+3)$ dalās ar $125$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:MultiplesInInterval
+* topic:FactorizationAndDivisibility
+* questionType:FindCount
+* domain:NT
 
 </small>
 
@@ -308,6 +317,9 @@ $n+1 ; n+2 ; n+3$ jādalās ar $5$ . Tā kā skaitļi, kas dalās ar $5$, atšķ
 otra vismaz par $5$, tad tieši viena iekava dalās ar $125$. Šī iekava ir viens no
 skaitļiem $125 \cdot k$, kur $k=1,2,3, \ldots, 16$, jo jau $125 \cdot 17 > 2011$.
 Tāpēc meklējamo skaitļu ir $16 \cdot 3=48$.
+
+
+
 
 
 
@@ -410,8 +422,11 @@ ciparus. Pierādīt, ka $B-A$ dalās ar $9$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:NotationManipulate
+* topic:DivisibilityRulesForRemainders
+* topic:DivisibilityRulesFor3And9
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -420,6 +435,13 @@ ciparus. Pierādīt, ka $B-A$ dalās ar $9$.
 
 Uzrakstām $\overline{abcde}=(9999a+999b+99c+9d)+(a+b+c+d+e)$. Atņemot saskaitāmie
 $(a+b+c+d+e)$ saīsinās.
+
+
+
+## Atrisinājums
+
+$A$ atlikums dalot ar $9$ (arī $B$ atlikums) vienādi ar $A$ ciparu summas atlikumu.
+
 
 
 
@@ -629,8 +651,8 @@ $7^{a}=7^{x}+7^{y}+7^{z}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -735,8 +757,10 @@ pierādāmais apgalvojums tieši seko no trijstūra nevienādības trijstūrī $
 
 # <lo-sample/> LV.NOL.2011.10.3
 
-Ar $[a]$ apzīmējam lielāko veselo skaitli, kas nepārsniedz $a$. Atrisināt pozitīvos
-skaitļos vienādojumu $x \cdot[x \cdot[x]]=41$.
+Ar $\lfloor a \rfloor$ apzīmējam lielāko veselo skaitli, kas nepārsniedz $a$. Atrisināt pozitīvos
+skaitļos vienādojumu 
+
+$$x \cdot \left\lfloor x \cdot \lfloor x \rfloor \right\rfloor = 41.$$
 
 <small>
 
@@ -1080,7 +1104,7 @@ ir vienāds ar augstumu no $A$ pret $NP$, jo $AB || NP$.
 Naturālu skaitli sauksim par *fantastisku*, ja tas ir vienāds ar sava kvadrāta ciparu
 reizinājumu. Piemēram, $1$ ir *fantastisks* (jo $1^{2}=1$ un $1=1$ ), bet $4$- nē
 (jo $4^{2}=16$, bet $1 \cdot 6=6 \neq 4$ ). Pierādīt, ka visi nepāra skaitļi, kas
-lielāki par $1$, nav $fantastiski$.
+lielāki par $1$, nav *fantastiski*.
 
 <small>
 
