@@ -168,7 +168,7 @@ nekad **nevar gadīties**, ka rūtiņās $A$ un $B$ ir vienāds punktu skaits.
 
 # <lo-sample/> LV.AMO.2010.5.5
 
-5. Taisnstūris sastāv no $3 \times 5$ rūtiņām. Divas rūtiņas sauc par 
+Taisnstūris sastāv no $3 \times 5$ rūtiņām. Divas rūtiņas sauc par 
 kaimiņiem, ja tām ir kopēja mala vai kopējs stūris. Tieši $6$ rūtiņas 
 nokrāsotas melnas; pārējās ir baltas.
 
@@ -274,7 +274,7 @@ dalās ar $5$. Varam pieņemt, ka $n$ dalās ar $5$. Tad sagriežam taisnstūri
 strēmelēs $1 \times n$ un pēc tam šīs strēmeles - gabalos $1 \times 5$.
 
 **(B)** nē. Kvadrātu $6 \times 6$ var sagriezt kvadrātos $2 \times 2$. 
-Pierādīsim ,ka to nevar sagriezt $L$ - tetramino. Iekrāsosim kvadrāta rūtiņas, 
+Pierādīsim, ka to nevar sagriezt $L$ - tetramino. Iekrāsosim kvadrāta rūtiņas, 
 kā parādīts 10.zīm. Katrs $L$ - tetramino satur vai nu $3$, vai $1$ melnu 
 rūtiņu. Tāpēc $9\ L$ - tetramino kopā satur nepāra skaitu melnu rūtiņu. Bet 
 melno rūtiņu pavisam ir $18$.
@@ -348,7 +348,7 @@ Ja $n$ ir $7$, tad iespējami tikai seši veidi:
 $7=1+1+5=1+5+1=5+1+1=1+3+3=3+1+3=3+3+1$.
 
 Ja $n$ ir $9$, tad iespējami desmit dažādi veidi: 
-$9=1+1+7=1+7+1=7+1+1=1+3+5=1+5+3=$ $=3+1+5=3+5+1=5+1+3=5+3+1=3+3+3$. Izvēloties
+$9=1+1+7=1+7+1=7+1+1=1+3+5=1+5+3=3+1+5=3+5+1=5+1+3=5+3+1=3+3+3$. Izvēloties
 jebkurus deviņus no šiem veidiem, varēs izveidot uzdevumā prasīto puķu dobi. 
 Tāpēc mazākā iespējamā $n$ vērtība ir $9$.
 
@@ -631,7 +631,7 @@ un visi leņķi taisni (skat. 15.zīm.).
 ![](LV.AMO.2010.8.3A.png)
 
 Astoņstūra iekšējo leņķu summa ir $(8-2) \cdot 180^{\circ}=1080^{\circ}$, tātad
-katrs leņķis in $1080^{\circ}:8=135^{\circ}$.
+katrs leņķis ir $1080^{\circ}:8=135^{\circ}$.
 
 Trijstūrī $ABC$ iekšējo leņķu summa ir $180^{\circ}$ un 
 $\sphericalangle B=135^{\circ}$, tātad 
@@ -702,18 +702,18 @@ baļķu kopējais garums ir $160~\mathrm{m}$. Tas nozīmē, ka ne vairāk kā
 $4~\mathrm{m}$ drīkst palikt "atlikumos".
 
 Tā kā mazākais "atlikums", kas var palikt pāri no viena baļķa, ir 
-$1~\mathrm{m}$ (piem., nozāģējot vienu $4~\mathrm{m}$ garu baļkīti un vienu 
-$5~\mathrm{m}$ garu baļķīti vai nozāģējot trīs $3~\mathrm{m}$ garus baļķšus), 
+$1~\mathrm{m}$ (piem., nozāģējot vienu $4~\mathrm{m}$ garu baļķīti un vienu 
+$5~\mathrm{m}$ garu baļķīti vai nozāģējot trīs $3~\mathrm{m}$ garus baļķīšus), 
 tad ne vairāk kā četri baļķi drīkst būt izmantoti ar "atlikumu". Tātad vismaz 
 $12$ baļķi jāsazāģē bez "atlikuma"
 
 Savukārt ne vairāk kā $6$ baļķus drīkst sazāģēt $A)$ veidā, jo, sazāģējot 
 vismaz $7$ balķus $A)$ veidā, tiktu iegūti vismaz $145~\mathrm{m}$ gari 
 baļķīši. Ne vairāk kā $6$ baļķus drīkst sazāģēt arī $B)$ veidā (pretējā 
-gadījumā tiktu iegūti vairāk nekā $133~\mathrm{m}$ gari balķīši. Tātad tieši 
+gadījumā tiktu iegūti vairāk nekā $133~\mathrm{m}$ gari balķīši. Tātad **tieši** 
 $6$ baļķi jāsazāģē $A)$ veidā un **tieši** $6$ baļķi jāsazāģē $B)$ veidā. No 
 šiem $12$ baļķiem tiks iegūti $125~\mathrm{m}$ gari baļķīši, $123~\mathrm{m}$ 
-gari baļķīsi un $64~\mathrm{m}$ gari baļķīši. No atlikušajiem četriem baļķiem 
+gari baļķīši un $64~\mathrm{m}$ gari baļķīši. No atlikušajiem četriem baļķiem 
 jāiegūst vēl pa vienam baļķīitim garumā $3~\mathrm{m}$ un $5~\mathrm{m}$ un $7$
 baļķīšus garumā $4~\mathrm{m}$.
 
@@ -721,7 +721,7 @@ Lai iegūtu vienu trūkstošo $3~\mathrm{m}$ baļķīti, tiks "izniekoti" vismaz
 $2~\mathrm{m}$. Tad atlikušajos trīs baļķos kopā drīkst "izniekot" ne vairāk kā
 $2~\mathrm{m}$. Taču tā kā vairs nevienu baļķi nevar sazāģēt bez "atlikuma", 
 tad kopumā tiks "izniekoti" vismaz $3~\mathrm{m}>2~\mathrm{m}$. Tātad, 
-vajadzīgo baļķu komplektu no $1610~\mathrm{m}$ gariem baļkiem iegūt nevar.
+vajadzīgo baļķu komplektu no $1610~\mathrm{m}$ gariem baļkiem **iegūt nevar**.
 
 **(B)** vajadzīgos baļķīšus var iegūt, ja $4$ baļķus sazāģē katru divos 
 $5~\mathrm{m}$ garos baļķīšos un vienā $3~\mathrm{m}$ garā baļķītī, $5$ 
@@ -919,8 +919,8 @@ ir kolonnu augšanas virzienā. Katrā nākošajā diagonālē gan rūtiņu kops
 gan *invariants* ir par $1$ lielāks nekā iepriekšējā diagonālē. Tātad rūtiņu 
 skaits diagonālē ar *invariantu* $n$ ir $n-1$.
 
-**(A)** 20. rindas 10. kolonnas rūtiņa atrodas uz diagonāles ar invariantu $30$. 
-Kopējais skaitļu skaits, kāds ierakstīts diagonālēs ar mazāku invariantu, ir 
+**(A)** 20. rindas 10. kolonnas rūtiņa atrodas uz diagonāles ar *invariantu* $30$. 
+Kopējais skaitļu skaits, kāds ierakstīts diagonālēs ar mazāku *invariantu*, ir 
 $1+2+\ldots+28=\frac{29 \cdot 28}{2}=406$.
 
 Tātad skaitļi uz nākošās diagonāles ir ierakstīti kolonnu augšanas secībā un 
@@ -928,8 +928,8 @@ Tātad skaitļi uz nākošās diagonāles ir ierakstīti kolonnu augšanas secī
 
 **(B)** Lai noteiktu, kurā rūtiņā ierakstīts skaitlis $2010$, nepieciešams 
 noteikt, kurā diagonālē tas atrodas. Tātad, jāatrod tāds $k$, ka 
-$1+2+\ldots .+k-2<2010 \leq 1+2+\ldots .+k-1$. Šāds $k=64$. Tātad $2010$ 
-atrodas uz diagonāles, kuras invariants ir $64$. Uz iepriekšējām diagonālēm 
+$1+2+\ldots +k-2<2010 \leq 1+2+\ldots +k-1$. Šāds $k=64$. Tātad $2010$ 
+atrodas uz diagonāles, kuras *invariants* ir $64$. Uz iepriekšējām diagonālēm 
 kopā atrodas $1+2+\ldots+62=1953$ skaitļi. Skaitļi ir ierakstīti kolonnu 
 augšanas secībā, tāpēc $2010$ atrodas tabulas **7. rindas 57. kolonnā**.
 
@@ -1163,9 +1163,9 @@ un to laukumu summa vienāda ar pilna riņķa laukumu $\pi R^{2}$. Tā kā šaj�
 gadījumā $R=1~\mathrm{m}$, tad šis laukums ir $\pi \mathrm{m}^{2}$.
 
 Visu taisnstūru laukumu summa ir 
-$2010~\mathrm{m} \cdot 1 ~\mathrm{m}=2010~\mathrm{m}^{2}$. Tātad kopējais 
+$2010 ~\mathrm{m} \cdot 1 ~\mathrm{m}=2010 ~\mathrm{m}^{2}$. Tātad kopējais 
 laukums, kāds sētniekam ir jānotīra, ir 
-$\mathbf{2010}+\boldsymbol{\pi} \mathrm{m}^{2}$ liels.
+$\mathbf{2010}+\boldsymbol{\pi} ~\mathrm{m}^{2}$ liels.
 
 
 
