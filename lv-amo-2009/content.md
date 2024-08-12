@@ -960,7 +960,7 @@ paralelograms ir rombs.
 
 Apzīmēsim ar $P,\ Q,\ R$ diagonāļu $AD,\ BE,\ CF$ viduspunktus. Tad 
 $PB_{1}QE_{1}$ ir rombs. Tāpēc $B_{1}E_{1}$ iet caur $PQ$ viduspunktu un 
-$B_{1}E_{1} \perp PQ$. Līdzīgi iegūstam ,ka $A_{1}D_{1}$ iet caur $PR$ 
+$B_{1}E_{1} \perp PQ$. Līdzīgi iegūstam, ka $A_{1}D_{1}$ iet caur $PR$ 
 viduspunktu un $A_{1}D_{1} \perp PR$, kā arī $C_{1}F_{1}$ iet caur $QR$ 
 viduspunktu un $C_{1}F_{1} \perp QR$. Tāpēc taisnes $A_{1}D_{1},\ B_{1}E_{1}$ 
 un $C_{1}F_{1}$ krustojas $\triangle PQR$ apvilktās riņķa līnijas centrā.
@@ -1054,10 +1054,7 @@ Ievērosim, ka
 $(x+y+z)^{2}=x^{2}+y^{2}+z^{2}+2xy+2xz+2yz=$
 
 $=\frac{1}{2}\left[(x-y)^{2}+(x-z)^{2}+(y-z)^{2}\right]+3(xy+xz+yz) \geq 3(xy+xz+yz)>3(x+y+z)$.
-
-No
-
-$(x+y+z)^{2}>3(x+y+z)$ seko $x+y+z>3$, k. b.j.
+No $(x+y+z)^{2}>3(x+y+z)$ seko $x+y+z>3$, k. b.j.
 
 
 
@@ -1079,7 +1076,7 @@ Dots, ka $n-$ naturāls pāra skaitlis. Apskatām reizinājumu $R=n(n+1)(n+2)(n+
 ## Atrisinājums
 
 **(A)** ievērojam, ka **katram** naturālam 
-$n\ R=n^{4}+6n^{3}+11n^{2}+6n=\left(n^{2}+3n+1\right)^{2}-1$. Nav divu naturālu
+$n \quad R=n^{4}+6n^{3}+11n^{2}+6n=\left(n^{2}+3n+1\right)^{2}-1$. Nav divu naturālu
 skaitļu kvadrātu, kas atšķirtos viens no otra par $1$.
 
 **(B)** apskatām $R=n(n+1)(n+2)(n+3)$. Skaitļiem $n+1$ un $n+2$, kā arī $n+1$ 
@@ -1115,7 +1112,7 @@ Izvēlamies $K$ uz stara $DC$ tā, ka
 $\sphericalangle BKC=\sphericalangle BDA$. Tā kā 
 $\sphericalangle BCK=180^{\circ}-\sphericalangle BCD=\sphericalangle BAD$， tad 
 $\triangle BCK \sim \triangle BAD$. Tāpēc $\frac{BC}{CK}=\frac{BA}{AD}$. No 
-dotā $\frac{BA}{AD}=\frac{BC}{CD}$, tāpēC $\frac{BC}{CK}=\frac{BC}{CD}$ un 
+dotā $\frac{BA}{AD}=\frac{BC}{CD}$, tāpēc $\frac{BC}{CK}=\frac{BC}{CD}$ un 
 $CD=CK$. No leņķu vienādībām viegli seko, ka 
 $\triangle ABC \sim \triangle DBK$. Šajā līdzībā malas $AC$ viduspunkts $M$ 
 atbilst malas $DK$ viduspunktam $C$. Tāpēc 
