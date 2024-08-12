@@ -28,7 +28,7 @@ $2009$ vārdnīcām pietiek.
 
 # <lo-sample/> LV.AMO.2009.5.2
 
-Andris grib izrakstāt rindā naturālos skaitļus no $1$ līdz $10$ katru tieši 
+Andris grib izrakstīt rindā naturālos skaitļus no $1$ līdz $10$ katru tieši 
 vienu reizi tā, lai pirmais skaitlis nedalītos ar otro, pirmo divu skaitļu 
 summa nedalītos ar trešo, pirmo triju skaitļu summa nedalītos ar ceturto, 
 $\ldots$ , pirmo deviņu skaitļu summa nedalītos ar desmito. Vai to var 
@@ -78,8 +78,8 @@ Kvadrātisks režģis sastāv no $3 \times 3$ rūtiņām (skat. 1.zīm.)
 **(A)** vai to var uzzīmēt, novelkot $8$ tādas līnijas, kāda attēlota 2.zīm.? 
 Līnija var būt novietota arī citādi.
 
-**(B)** vai to var uzzīmēt, novelkot $3$ līnijas, katru ar ganumu 8? (Rūtiņas 
-malas ganums ir $1$.)
+**(B)** vai to var uzzīmēt, novelkot $3$ līnijas, katru ar garumu 8? (Rūtiņas 
+malas garums ir $1$.)
 
 ![](LV.AMO.2009.5.4.png)
 
@@ -94,6 +94,8 @@ malas ganums ir $1$.)
 
 **(A)** jā; skat., piem., 3.zīm.
 
+![](LV.AMO.2009.5.4A.png)
+
 **(B)** nē. Katrā no $8$ punktiem $A;\ B;\ \ldots;\ H$ saiet kopā $3$ (nepāra 
 skaits) nogriežņu, tāpēc katrā no tiem jābūt vismaz vienas līnijas galam. Bet 
 $3$ līnijām kopā ir tikai $6$ gali.
@@ -103,7 +105,7 @@ $3$ līnijām kopā ir tikai $6$ gali.
 # <lo-sample/> LV.AMO.2009.5.5
 
 Kādā valstī prezidenta vēlēšanās piedalās $3$ kandidāti $A,\ B$ un $C$. Katrs 
-valsts iedzīvotājs atbalsta tieši vienu no viņiem Bez tam katrs iedzīvotājs vai
+valsts iedzīvotājs atbalsta tieši vienu no viņiem. Bez tam katrs iedzīvotājs vai
 nu vienmēr runā patiesību, vai vienmēr melo. Katram iedzīvotājam aptaujā uzdeva
 $3$ jautājumus:  
 1) vai Jūs atbalstāt $A$?  
@@ -387,8 +389,6 @@ atrodas ārpus $\triangle ABC$. Pierādīt, ka $AN=CM$.
 
 ## Atrisinājums
 
-7.4.
-
 ![](LV.AMO.2009.7.4A.png)
 
 Tā kā $AB=MB$, $BN=BC$ un 
@@ -468,7 +468,7 @@ turnīra noslēgumā ir visvairāk punktu.)
 
 Ja uzvarētājs ieguvis $n$ punktus, tad kopējais iegūto punktu daudzums nav 
 lielāks par 
-$n+\left(n}-\frac{1}{2}\right)+(n-1)+\left(n-1 \frac{1}{2}\right)+(n-2)+\left(n-2 \frac{1}{2}\right)+(n-3)+\left(n-3 \frac{1}{2}\right)=8n-14$.
+$n+\left(n-\frac{1}{2}\right)+(n-1)+\left(n-1 \frac{1}{2}\right)+(n-2)+\left(n-2 \frac{1}{2}\right)+(n-3)+\left(n-3 \frac{1}{2}\right)=8n-14$.
 Pavisam izspēlēja $28$ spēles, tāpēc $28 \leq 8n-14$ un $8n \geq 42$, no 
 kurienes $n \geq 5 \frac{1}{4}$; tātad $n \geq 5 \frac{1}{2}$. Piemēru, kur 
 $n=5 \frac{1}{2}$, skat. 9.zīm.
@@ -592,7 +592,7 @@ nav).
 
 # <lo-sample/> LV.AMO.2009.9.2
 
-Dots, ka $|a| \geq |b+d|$, $|b| \geq |c+a|$ un $|d| \geq |a+b|$. Pierādit, ka 
+Dots, ka $|a| \geq |b+d|$, $|b| \geq |c+a|$ un $|d| \geq |a+b|$. Pierādīt, ka 
 $a+b+c=0$.
 
 <small>
@@ -735,7 +735,7 @@ $a^{2}b^{2}c^{2}>a^{2}b^{2}c^{2}$ - pretruna.
 
 Dots, ka $p$ un $q$ ir divi viens otram sekojoši nepāra pirmskaitļi (piemēram, 
 $13$ un $17$). Pierādīt: skaitli $p+q$ var sadalīt triju tādu naturālu skaitļu 
-reizinājumā, kas visi lielāki par $1$ (stanp šiem trim skaitļiem var būt arī 
+reizinājumā, kas visi lielāki par $1$ (starp šiem trim skaitļiem var būt arī 
 vienādi).
 
 <small>
@@ -846,7 +846,7 @@ $4n+2;\ 4n+1;\ \ldots;\ 2n+2$ arī pulksteņa rādītāja kustības virzienā (s
 
 # <lo-sample/> LV.AMO.2009.11.1
 
-Pierādit, ka
+Pierādīt, ka
 
 $\frac{1}{1^{4}+1^{2}+1}+\frac{2}{2^{4}+2^{2}+1}+\frac{3}{3^{4}+3^{2}+1}+\ldots+\frac{2009}{2009^{4}+2009^{2}+1}<\frac{1}{2}$.
 
@@ -899,13 +899,13 @@ dažādās dienās, un viņu punktu summas nevar būt vienādas. Tāpēc ar $2n-
 mazāk dienām nepietiek.
 
 Viegli pārbaudīt: ja  
-   viens spēlētājs uzvar $1.$ un $(2n-2)$-ā dienā; 
-   viens spēlētājs uzvar $2.$ un ($2n-3)$-ā dienā;
-   .
-   .
-   .
-   viens spēlētājs uzvar $n$-ā un $(n-1)$-ā dienā;
-   viens spēlētājs uzvar $(2n-1)$-ā dienā, 
+   viens spēlētājs uzvar $1.$ un $(2n-2)$-ā dienā;   
+   viens spēlētājs uzvar $2.$ un ($2n-3)$-ā dienā;  
+   .  
+   .  
+   .  
+   viens spēlētājs uzvar $n$-ā un $(n-1)$-ā dienā;   
+   viens spēlētājs uzvar $(2n-1)$-ā dienā,  
 
 uzdevuma prasības ir izpildītas.
 
@@ -1097,7 +1097,7 @@ otram sekojošu naturālu skaitļu kubiem, nav naturāla skaitļa kubs.
 # <lo-sample/> LV.AMO.2009.12.4
 
 Četrstūris $ABCD$ ir ievilkts riņķa līnijā. Zināms, ka 
-$AB \cdot CD}=AD \cdot BC$ Diagonāles $AC$ viduspunkts ir $M$. Pierādīt, ka 
+$AB \cdot CD=AD \cdot BC$ Diagonāles $AC$ viduspunkts ir $M$. Pierādīt, ka 
 $\sphericalangle ABM=\sphericalangle DBC$.
 
 <small>
