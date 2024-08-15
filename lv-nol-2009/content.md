@@ -154,7 +154,7 @@ Skat., piem., 3.zīm.
 
 # <lo-sample/> LV.NOL.2009.6.2
 
-2. Andrim ir figūriņas, kas sastāv no vienādiem kvadrātiņiem (skat. 2.zīm.) - 
+Andrim ir figūriņas, kas sastāv no vienādiem kvadrātiņiem (skat. 2.zīm.) - 
 pa $10$ katra veida.
 
 ![](LV.NOL.2009.6.2.png)
@@ -200,7 +200,9 @@ Vai tas varētu notikt, ja kastu nešanā piedalītos tieši četri rūķīši?
 $2 \cdot n$, gan $5 \cdot 3$. Bet naturālam $n$ nevar pastāvēt vienādība 
 $2n=15$.
 
-**(B)** jā. Skat., piem., 5.Zīm.
+**(B)** jā. Skat., piem., 5.zīm.
+
+![](LV.NOL.2009.6.3A.png)
 
 
 
@@ -228,7 +230,7 @@ Nē. Spriežam no pretējā. Šķirojam divas iespējas:
 cipars un nepāra cipars. Tātad tiem jābūt vienādā skaitā, bet $7$ nedalās ar 
 $2$.
 
-**(B)** kādā šķirā rodas pāmesums. Aplūkojam pašu labējo no šādām šķirām. Tur 
+**(B)** kādā šķirā rodas pārnesums. Aplūkojam pašu labējo no šādām šķirām. Tur 
 saskaitīti divi piecinieki (citādi summu, kas ir vismaz $10$, iegūt nevar); bet
 tad summā šajā šķirā rodas pāra cipars $0$.
 
@@ -270,7 +272,7 @@ un malā palikušo monētu svars noteikti atšķiras no $1.$ kausa jebkuru $66$
 monētu kopējā svara. Tieši tāpat pierāda, ka malā palikušo monētu kopējais 
 svars noteikti atšķiras no $2.$ kausa jebkuru $66$ monētu kopējā svara.
 
-Skaidrs, ka pavisam bez svēršanas prasîtās monētu kaudzītes atrast nevar. Tātad
+Skaidrs, ka pavisam bez svēršanas prasītās monētu kaudzītes atrast nevar. Tātad
 meklējamais minimums ir $1$.
 
 
@@ -278,7 +280,7 @@ meklējamais minimums ir $1$.
 # <lo-sample/> LV.NOL.2009.7.1
 
 Kurus naturālos skaitļus $n$ var izsacīt formā $n=\frac{x}{y}$, kur 
-$x=a^{3}, y=b^{5}$, a un $b$ naturāli skaitļi?
+$x=a^{3}, y=b^{5}$, $a$ un $b$ naturāli skaitļi?
 
 <small>
 
@@ -394,7 +396,7 @@ Iegūta pretruna.
 
 # <lo-sample/> LV.NOL.2009.7.5
 
-Sprīdītis ceļo triju rūķīšu pavadībā. Viņš zina, ka divi rūķiši vienmēr runā 
+Sprīdītis ceļo triju rūķīšu pavadībā. Viņš zina, ka divi rūķīši vienmēr runā 
 patiesību, bet trešais rūķītis dažreiz melo. Sprīdītis nezina, kurš rūķītis ir 
 "neuzticams". Kādā brīdī Sprīdītis var izvēlēties vienu no trim ceļiem. Viņš 
 zina, ka pa vienu no ceļiem dienas gājiena attālumā atrodas Laimīgā Zeme. Tomēr
@@ -657,7 +659,7 @@ Atceramies, ka
 **(B)** $\underline{tātad}$ taisne, kas novilkta perpendikulāri rādiusam tā 
 galapunktā, ir pieskare.
 
-1. Pieņemsim, ka $R^{2}+r^{2}=d^{2}$. Novelkam rädiusus uz $r.l.$ krustpunktu 
+1. Pieņemsim, ka $R^{2}+r^{2}=d^{2}$. Novelkam rādiusus uz $r.l.$ krustpunktu 
    $A$. Tad $OA^{2}+SA^{2}=OS^{2}$, tātad pēc Pitagora teorēmai apgrieztās 
    teorēmas $\triangle OAS$ ir taisnleņķa. Tāpēc taisne $SA$ (pēc augšminētā 
    (B) punkta) ir $r.l.\ w_{1}$ pieskare, un tāpat taisne $OA$ ir $w_{2}$ 
@@ -694,6 +696,7 @@ $x \notin\left(x_{1}; x_{2}\right)$
 $x^{2}+px+q=\left(x-x_{1}\right)\left(x-x_{2}\right) \geq 0>-1$. Ja 
 $x \in\left(x_{1}; x_{2}\right)$, tad 
 $\left|x^{2}+px+q\right|=\left|\left(x-x_{1}\right)\left(x_{2}-x\right)\right|=\left(x-x_{1}\right) \cdot\left(x_{2}-x\right) \leq$
+
 $\leq\left(\frac{\left(x-x_{1}\right)+\left(x_{2}-x\right)}{2}\right)^{2}=\left(\frac{x_{2}-x_{1}}{2}\right)^{2} \leq\left(\frac{2}{2}\right)^{2}=1$,
 
 no kā seko vajadzīgais.
@@ -762,8 +765,8 @@ gan kā $13$ pēc kārtas ņemtu naturālu skaitļu summu.
 ## Atrisinājums
 
 Šādam skaitlim jādalās gan ar $11$ (jo 
-$(n+1)+(n+2)+\ldots+(n+10)+(n+11)=11(n+6)$), gan ar $13$, gan ar $6$ (jo 
-$(n+1)+(n+2)+\ldots+(n+12)=6((n+1)+(n+12))$). Tā kā $11,\ 13$ un $6$ ir pa 
+$(n+1)+(n+2)+\ldots+(n+10)+(n+11)=11(n+6)$ ), gan ar $13$, gan ar $6$ (jo 
+$(n+1)+(n+2)+\ldots+(n+12)=6((n+1)+(n+12))$ ). Tā kā $11,\ 13$ un $6$ ir pa 
 pāriem savstarpēji pirmskaitļi, tad tam jādalās ar $6 \cdot 11 \cdot 13=858$. 
 Mazākais naturālais skaitlis, kas dalās ar $858$, ir $858$. Viegli pārbaudīt, 
 ka visi $11\ (12; 13)$ saskaitāmie iznāk **naturāli** skaitļi 
@@ -877,9 +880,9 @@ Tad rindā $\alpha$ un kolonnā $\beta$ kopā jābūt nepāra skaitam pieskarša
 varam pieņemt, ka rindā $\alpha$ ir nepāra skaits pieskaršanos. Šo pieskaršanos
 dēļ katra spuldze rindā $\alpha$ mainījusi savu stāvokli nepāra skaitu reižu; 
 tāpēc 
-$\underline{katrā\ kolonnā\ jābūt\ pāra\ skaitam \pieskaršanos\ ārpus\ \alpha}$.
+$\underline{katrā\ kolonnā\ jābūt\ pāra\ skaitam\ pieskaršanos\ ārpus\ \alpha}$.
 Tāpēc kopīgais pieskaršanos skaits ārpus $\alpha$ ir pāra skaitlis. Pieskaitot 
-vēl pieskāršanās rindā $\alpha$， kopējais pieskaršanos 
+vēl pieskāršanās rindā $\alpha$, kopējais pieskaršanos 
 $\underline{skaits\ ir\ nepāra\ skaitlis}$. Katra pieskāršanās izsauc izmaiņas 
 $19$ spuldzēs, tāpēc kopējais izmaiņu skaits 
 $\underline{S\ ir\ nepāra\ skaitlis}$. Bet katra no $100$ spuldzēm maina savu 
@@ -969,7 +972,8 @@ Atrisināt nevienādību $|||2-x|-x|-9| \leq 2009$.
 
 ## Atrisinājums
 
-Šķīrojam divus gadījumus.
+Šķirojam divus gadījumus.
+
 $\underline{\mathbf{A.}}$ $x \geq 2$. Tad nevienādība kļūst par 
 $||x-2-x|-9| \leq 2009$ jeb $7 \leq 2009$. Tātad visas šīs $x$ vērtības der.
 
@@ -1109,7 +1113,7 @@ ir $9$, un tā tiek sasniegta pie $p=2$ un $p=5$.
 # <lo-sample/> LV.NOL.2009.12.3
 
 Atrisināt vienādojumu 
-$x+y+\frac{1}{x}+\frac{1}{y}+4=2 \cdot(\sqrt{2x}+1}+\sqrt{2y+1})$ pozitīvos 
+$x+y+\frac{1}{x}+\frac{1}{y}+4=2 \cdot(\sqrt{2x}+1+\sqrt{2y+1})$ pozitīvos 
 reālos skaitļos.
 
 <small>
