@@ -40,7 +40,7 @@ naturālu skaitļu var visi būt vienkārši?
 $33=3 \cdot 11,\ 34=2 \cdot 17,\ 35=5 \cdot 7$. No četriem pēc kārtas ņemtiem 
 naturāliem skaitļiem viens dalās ar $4$; ja tas pats nav $4$, tad tas nav 
 vienkāršs. Tieši pārbaudot četru pēc kārtas ņemtu skaitļu komplektus, kas satur
-"4", redzam, ka neviens no tiem neder.
+" $4$ ", redzam, ka neviens no tiem neder.
 
 
 
@@ -296,7 +296,7 @@ aritmētisku progresiju?
 **Atbilde:** $3$.
 
 **Atrisinājums:** progresijas ar $3$ locekļiem ir, piemēram, $1;\ 2;\ 3$ vai 
-$2;\ 5;\ 8$. Pieņemsim, ka progresijas pirmie divi locekli ir $f_{k}=a$ un 
+$2;\ 5;\ 8$. Pieņemsim, ka progresijas pirmie divi locekļi ir $f_{k}=a$ un 
 $f_{m}=f_{k}+d=a+d>d$. Ievērosim, ka $f_{m+1}>f_{m}$ un 
 $f_{m+2}=f_{m}+f_{m+1}>f_{m}+d$. Tātad trešais progresijas loceklis var būt 
 tikai $f_{m+1}$; tad jau nākošais Fibonači skaitlis 
@@ -438,7 +438,7 @@ Līdzīgi pierāda, ka arī citi vajadzīgie leņķi ir taisni.
 Turnīrā piedalījās $12$ tenisisti. Katrs ar katru citu spēlēja tieši vienu 
 reizi; katrā spēlē viens no tās dalībniekiem uzvarēja, bet otrs zaudēja. 
 Dalībnieku uzvaru un zaudējumu daudzumus apzīmēsim attiecīgi ar $x_{1}$ un 
-$y_{1}; x_{2}$ un $y_{2}; \ldots; x_{12}$ un $y_{12}$. Pierādīt, ka
+$y_{1};\ x_{2}$ un $y_{2};\ \ldots;\ x_{12}$ un $y_{12}$. Pierādīt, ka
 
 $$x_{1}^{2}+x_{2}^{2}+\ldots+x_{12}^{2}=y_{1}^{2}+y_{2}^{2}+\ldots+y_{12}^{2}$$
 
