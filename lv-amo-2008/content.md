@@ -1163,5 +1163,5 @@ Tā perimetrs $2x+2y=4 \cdot \frac{x+y}{2} \geq 4 \cdot \sqrt{xy} \geq 40$.
 Tāpēc arī sākotnējās figūras perimetrs $P \geq 40$. Turklāt tas var būt $P$ 
 tikai tad, ja $x \cdot y=100$ (t. i., taisnstūris sakrīt ar sākotnējo figūru) 
 un $x=y$ (t. i., taisnstūris ir kvadrāts). Tātad mūsu "izoperimetrisko 
-nevienādību" esam pierādījuši.
+nevienādību" esam pierādījuši. 
 
