@@ -1,12 +1,12 @@
 # <lo-sample/> LV.VOL.2010.9.1
 
 Vai iespējams, ka kvadrātvienādojuma $x^{2}-a^{2}x+b^{2}=0$, $a$ un $b$ naturāli
-skaitļi, saknes ir divu dažādu naturālu skaitļu kvadrāati?
+skaitļi, saknes ir divu dažādu naturālu skaitļu kvadrāti?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -65,8 +65,8 @@ Kāds lielākais daudzums pēc kārtas sekojošu naturālu skaitļu visi var bū
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -548,8 +548,8 @@ virknes loceklis, kas dalās ar $n$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -672,16 +672,16 @@ $$\left|x_{1}^{3}+\ldots+x_{n}^{3}\right| \leq\left|2 \cos 3 \alpha_{1}\right|+\
 
 # <lo-sample/> LV.VOL.2010.12.2
 
-Dota skaitļu virkne $a_{1}=1 ; a_{2}=1 ; a_{i}=p \cdot a_{i-1}+q \cdot a_{i-2}$ pie
-$i \geq 3$ ($p, q$- doti naturāli skaitļi). Zināms, ka katram naturālam skaitlim $n$
+Dota skaitļu virkne $a_{1}=1$; $a_{2}=1$; $a_{i}=p \cdot a_{i-1}+q \cdot a_{i-2}$ pie
+$i \geq 3$ ($p,q$- doti naturāli skaitļi). Zināms, ka katram naturālam skaitlim $n$
 eksistē tāds virknes loceklis $a_{k}$, ka $a_{k}$ dalās ar $n$.
 
 Pierādīt, ka $p=q=1$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -804,8 +804,8 @@ Vai ir iespējams, ka **(A)** $k=7$, **(B)** $k=8$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -868,33 +868,27 @@ vismazākā naudas summa.
 
 Iespējami $5$ veidi, kā lietot ierīci:
 
-a) Ievieto $1, 2, 3, 4$. Ierīce paziņo- $2$.
-
-b) Ievieto $1, 2, 3, 5$. Ierīce paziņo- $2$.
-
-c) Ievieto $1, 2, 4, 5$. Ierīce paziņo- $2$.
-
-d) Ievieto $1, 3, 4, 5$. Ierīce paziņo- $3$.
-
-e) Ievieto $2, 3, 4, 5$. Ierīce paziņo- $3$.
+a. Ievieto $1, 2, 3, 4$. Ierīce paziņo- $2$.
+b. Ievieto $1, 2, 3, 5$. Ierīce paziņo- $2$.
+c. Ievieto $1, 2, 4, 5$. Ierīce paziņo- $2$.
+d. Ievieto $1, 3, 4, 5$. Ierīce paziņo- $3$.
+e. Ievieto $2, 3, 4, 5$. Ierīce paziņo- $3$.
 
 Tātad ierīce vienmēr paziņos $2$ vai $3$. Tāpēc iespējams šāds algoritms kredītkaršu
 $1$ un $2$ identificēšanai.
 
 1. Ievietosim ierīcē jebkuras $4$ kredītkartes. Pieņemsim, ka ierīce paziņo $A$. Tad
-   $A=2$ vai $A=3$.
-   
+   $A=2$ vai $A=3$.   
 2. Izmēģināsim visas četru kredītkaršu kombinācijas, kas satur $A$. (Tādu pavisam ir
    $4$, un viena no tām jau ir izmēģināta.)
 
-a) Ja trijos no četriem gadījumiem ierīce pazino $A$ , tad $A=2$. $1$ ir kredītkarte,
-   kas nebija ievietota ierīcē vienīgajā gadījumā, kad ierīce neziņoja $2$ (tad bija
-   ievietotas kredītkartes $2, 3, 4, 5$.)
-
-b) Ja divos no četriem gadījumiem ierīce paziņo $A$, tad $A=3$. $2$ ir kredītkarte, ko
-   ierīce paziņo pārējos divos gadījumos. $1$ ir kredītkarte, kas nebija ievietota
-   ierīcē tajā reizē, kad ierīcē bija gan $2$, gan arī $A=3$, un ierīce paziņoja
-   $A(=3)$.
+   a. Ja trijos no četriem gadījumiem ierīce pazino $A$ , tad $A=2$. $1$ ir kredītkarte,
+      kas nebija ievietota ierīcē vienīgajā gadījumā, kad ierīce neziņoja $2$ (tad bija
+      ievietotas kredītkartes $2, 3, 4, 5$.)
+   b. Ja divos no četriem gadījumiem ierīce paziņo $A$, tad $A=3$. $2$ ir kredītkarte, ko
+      ierīce paziņo pārējos divos gadījumos. $1$ ir kredītkarte, kas nebija ievietota
+      ierīcē tajā reizē, kad ierīcē bija gan $2$, gan arī $A=3$, un ierīce paziņoja
+      $A(=3)$.
 
 **Induktīvais pieņēmums.** Pieņemsim, ka starp $5 \leq k \leq n$ kredītkartēm, lietojot
 ierīci $k-1$ reizi, var noteikt kartes ar vislielāko un otro lielāko naudas summu.
@@ -903,17 +897,17 @@ ierīci $k-1$ reizi, var noteikt kartes ar vislielāko un otro lielāko naudas s
 
 1. Izvēlēsimies $n$ kredītkartes (visas, atskaitot karti $X$). Saskaņā ar induktīvo
    pieņēmumu, starp tām ar $n-1$ ierīces lietojumu var atrast kredītkartes $A$ un $B$,
-   kas satur lielāko un otro lielāko naudas summu starp šīm $n$ kredītkartēm.
-   
+   kas satur lielāko un otro lielāko naudas summu starp šīm $n$ kredītkartēm.   
 2. $n$-tajā ierīces lietošanas reizē ievietosim ierīcē kredītkartes $X, A, B$ un
    jebkuru citu kredītkarti. Iespējami šādi varianti:
-     a) Ierīce pazino, ka otrā lielākā naudas summa ir kartē $B$. Tad kredītkartē $X$
-    	 ir mazāk naudas nekā kredītkartēs $A$ un $B$, tātad $A$ un $B$ joprojām paliek
-		 kartes ar vislielākajām naudas summām.
 
-     b) Ierīce paziņo, ka otrā lielākā naudas summa ir kartē $A$. Tad kredītkartē $X$
-    	 ir visvairāk naudas, kartē $A$ ir otra lielākā naudas summa.
+   a. Ierīce pazino, ka otrā lielākā naudas summa ir kartē $B$. Tad kredītkartē $X$
+    	ir mazāk naudas nekā kredītkartēs $A$ un $B$, tātad $A$ un $B$ joprojām paliek
+		kartes ar vislielākajām naudas summām.
 
-     c) Ierīce paziņo, ka otrā lielākā naudas summa ir kartē $X$. Tad kartē $A$ ir
-    	 visvairāk naudas, bet kartē $X$- otra lielākā naudas summa.
+   b. Ierīce paziņo, ka otrā lielākā naudas summa ir kartē $A$. Tad kredītkartē $X$
+    	ir visvairāk naudas, kartē $A$ ir otra lielākā naudas summa.
+
+   c. Ierīce paziņo, ka otrā lielākā naudas summa ir kartē $X$. Tad kartē $A$ ir
+    	visvairāk naudas, bet kartē $X$- otra lielākā naudas summa.
 

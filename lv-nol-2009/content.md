@@ -284,8 +284,13 @@ $x=a^{3}, y=b^{5}$, $a$ un $b$ naturāli skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2007.7.1
+* seeAlso:LV.NOL.2008.7.1
+* topic:BezoutIdentity
+* topic:CanonicalFactorization
+* topic:StandardIdentities
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -293,6 +298,18 @@ $x=a^{3}, y=b^{5}$, $a$ un $b$ naturāli skaitļi?
 
 Visus: $n=\left(n^{7}\right)^{3}:\left(n^{4}\right)^{5}$.
 
+*Piezīme.*
+Šo varēja iegūt no Bezū identitātes: 
+tā kā $3$ un $5$ ir savstarpēji pirmskaitļi, tad 
+eksistē veseli $x$ un $y$, kuriem $3x + 5y = \gcd(3,5)=1$. 
+Piemēram, var izvēlēties $x = 7$ un $y = -4$, jo $3 \cdot 7 + 5 \cdot (-4) = 1$. 
+(Bezū identitāte nozīmē to, ka ar divām monētām, kuru vērtības ir savstarpēji 
+pirmskaitļi var nomaksāt jebkuru veselu naudas summu.)
+
+Tālāk, šo Bezū identitāti pārnesam uz kāpinātājiem: 
+
+$$(n^7)^3/(n^4)^5 = n^{3 \cdot 7 + 5 \cdot (-4)} = n^{21}/n^{20} = n^1.$$
+ 
 
 
 # <lo-sample/> LV.NOL.2009.7.2
@@ -325,27 +342,56 @@ skaitlis būs $2009$.
 # <lo-sample/> LV.NOL.2009.7.3
 
 Naturālam skaitlim $a$ ir tieši $4$ dalītāji, bet naturālam skaitlim $b$ - 
-tieši $6$ dalītāji. Pierādiet, ka reizinājumam $ab$ ir **vismaz** $9$ dalītāji.
-Vai var gadīties, ka šim reizinājumam ir **tieši** $9$ dalītāji?
+tieši $6$ dalītāji.  
+**(A)** Pierādiet, ka reizinājumam $ab$ ir **vismaz** $9$ dalītāji.
+**(B)** Vai var gadīties, ka šim reizinājumam ir **tieši** $9$ dalītāji?
 
 (**Piezīme:** apskatām tikai tādus dalītājus, kas paši ir naturāli skaitļi. Pie
 skaitļa dalītājiem pieskaita gan viņu pašu, gan vieninieku.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisorNumberAndSum
+* topic:ExhaustionMethod
+* questionType:Prove,ProveDisprove
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
 **(A)** pieņemsim, ka $a$ dalītāji ir $1<a_{1}<a_{2}<a$, bet $b$ dalītāji ir 
-$1<b_{1}<b_{2}<b_{3}<b_{4}<$ b. Tad 
+$1<b_{1}<b_{2}<b_{3}<b_{4}<b$. Tad 
 $1<b_{1}<b_{2}<b_{3}<b_{4}<b<a_{1}b<a_{2}b<ab$ ir $9$ dažādi skaitļa $ab$ 
 dalītāji.
 
 **(B)** jā; piemēram, ja $a=8,\ b=32$ un $ab=256$.
+
+
+
+## Atrisinājums
+
+**Apgalvojums:** Katram naturālam $n$ ir spēkā apgalvojums:  
+ja skaitļa $n$ sadalījums pirmreizinātājos ir $n = p_1^{a_1} \cdot p_2^{a_2} \cdot \ldots p_k^{a_k}$, 
+tad $n$ visu pozitīvo dalītāju skaits ir $d(n) = (a_1 + 1)(a_2 + 1)\ldots(a_k+1)$.  
+
+Varam aplūkot dažādus gadījumus:
+
+* Tieši četri dalītāji var būt tādam $a$, kas ir vai nu 
+  $p^3$ vai $pq$. ($p,q$ - pirmskaitļi)
+* Līdzīgi $b$ ir $r^5$ vai $r^2s$. ($r,s$ - pirmskaitļi)
+* Ja $p=r$, var dabūt $ab = p^3p^5 = p^8$.
+
+Savukārt, mazāk nekā $9$ dalītāji var rasties $3$ veidos:
+
+* $p^a$, kur $a+1 < 9$,
+* $p^aq^b$, kur $(a+1)(b+1) < 9$,
+* $p^aq^br^c$, kur $(a+q)(b+1)(c+1) < 9$. 
+
+Neviens no šiem gadījumiem neatbilst mūsu nosacījumam.
+
+
+
 
 
 
@@ -449,8 +495,10 @@ ierakstīto skaitļu summa būs $64$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:LinearSystemsApplications
+* topic:CongruenceClasses
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -472,6 +520,30 @@ $0+2+4+6=12$. Atliek ievērot, ka $52+12=64$.
 **B.** Minētās $4$ rūtiņas var izvēlēties tikai $24$ veidos; visas šīs summas 
 var tieši aprēķināt un konstatēt, ka katra no tām ir $64$.
 
+
+*Piezīme.* Tabuliņu var sadalīt divu tabuliņu summā arī citādi: 
+
+$$\left( \begin{array}{cccc}
+1 & 3 & 5 & 7 \\
+9 & 11 & 13 & 15 \\
+17 & 19 & 21 & 23 \\
+25 & 27 & 29 & 31 \\
+\end{array}\right) = 
+\left( \begin{array}{cccc}
+1 & 3 & 5 & 7 \\
+1 & 3 & 5 & 7 \\
+1 & 3 & 5 & 7 \\
+1 & 3 & 5 & 7 \\
+\end{array}\right) + \left( \begin{array}{cccc}
+0 & 0 & 0 & 0 \\
+8 & 8 & 8 & 8 \\
+16 & 16 & 16 & 16 \\
+24 & 24 & 24 & 24 \\
+\end{array}\right)$$
+
+Neatkarīgi no tā, kā izvēlamies elementus, iegūsim summu 
+$(1+3+5+7) + (0+8+16+24) = 64$, jo katrs skaitlis $\{ 1,3,5,7\}$
+un arī katrs $\{ 0, 8, 16, 24 \}$ piedalās tieši vienu reizi. 
 
 
 # <lo-sample/> LV.NOL.2009.8.2
@@ -499,6 +571,8 @@ Atrodiet skaitļa $113^{113}-19^{19}$ pēdējo ciparu.
 
 <small>
 
+* topic:PeriodicRemainders
+* topic:CongruenceClasses
 * questionType:
 * domain:
 
@@ -512,6 +586,10 @@ ciparu $3$. Līdzīgi
 $19^{19}=\left(19^{2}\right)^{9} \cdot 19=(\ldots 1)^{9} \cdot 19$ beidzas ar 
 ciparu $9$. Tāpēc $113^{113}-19^{19}$ beidzas ar ciparu $4$.
 
+*Piezīme.* 
+Skaitļa $113$ pakāpju pēdējie cipari mainās periodiski tā: $(1,3,9,7)$.  
+Savukārt skaitļa $19$ pakāpju pēdējie cipari mainās tā: $(1,9)$.  
+Ja to ievēro, tad var atrast $113^{113}$ un $19^{19}$ pēdējos ciparus.
 
 
 # <lo-sample/> LV.NOL.2009.8.4
