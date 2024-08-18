@@ -368,8 +368,14 @@ Atrodi visus šos skaitļus!
 
 <small>
 
-* questionType:
-* domain:
+* topic:PrimesDistribution
+* topic:PrimesDistribution
+* topic:CanonicalFactorization
+* concepts:primes
+* genre:construction
+* questionType:FindAll
+* strategy:CaseAnalysis
+* domain:NT
 
 </small>
 
@@ -393,6 +399,18 @@ pirmskaitli. Tāpēc $p_{5}=11$ vai $p_{5}=37.\ p_{5}=11$ neder, jo tad
 $p_{3}=11+4=15$, kas nav pirmskaitlis. Tātad $p_{5}=37$ un $p_{3}=41$.
 
 
+## Atrisinājums
+
+Noskaidrojam skaitļus pa soļiem:
+
+a. $p_1=7$, 
+b. $p_5 \neq 11$, 
+d. $p_4 \neq 11$, 
+c. $p_4 p_5 = 3 \cdot 37$, 
+d. $p_4 \neq 37$. Tātad $(7,2,41,3,37)$ ir vienīgā iespēja.
+
+
+
 
 # <lo-sample/> LV.AMO.2010.7.2
 
@@ -403,8 +421,9 @@ Vai var gadīties, ka $AB>AC$ ?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:equal-triangles
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -437,16 +456,20 @@ Esam apskatījuši visas iespējas, tātad nevar gadīties, ka $AB>AC$.
 Ieraksti tabulas ar izmēriem $4 \times 4$ rūtiņas katrā rūtiņā vienu naturālu 
 skaitli tā, lai vienlaicīgi izpildītos šādas divas īpašības:
 
-1) visi ierakstītie skaitļi ir dažādi;
-2) jebkuru četru skaitļu, nekādi divi no kuriem neatrodas ne vienā rindā, nedz 
+1. visi ierakstītie skaitļi ir dažādi;
+2. jebkuru četru skaitļu, nekādi divi no kuriem neatrodas ne vienā rindā, nedz 
    vienā kolonnā, summa ir $2010$.
 
 Pietiek parādīt vienu veidu, kā to var izdarīt.
 
 <small>
 
-* questionType:
-* domain:
+* topic:LinearSystemsApplications
+* topic:TreeTraversalBacktracking
+* genre:construction
+* questionType:FindExample
+* domain:Comb
+* genre:magic-construction
 
 </small>
 
@@ -455,6 +478,13 @@ Pietiek parādīt vienu veidu, kā to var izdarīt.
 Skat., piem., 12.zīm.
 
 ![](LV.AMO.2010.7.3A.png)
+
+
+## Atrisinājums
+
+Saskaita 2 tabulas: $((1,2,3,4),\ldots,(1,2,3,4))$ un
+$(0,\ldots,0),(4,\ldots,4),(996,\ldots,996),(1000,\ldots,1000)$.
+
 
 
 
@@ -468,8 +498,10 @@ izmestas.)
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2009.7.5
+* topic:InvariantRemainder
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -482,6 +514,13 @@ vienmēr ir skaitļa $n$ daudzkārtņi, tāpēc $19$ dalās ar $n$. Tā kā $19$
 pirmskaitlis un bērnu ir vairāk nekā viens, tad $n=19$. Piemērs: sākumā ir $19$
 bērni, katram $22$ konfektes. Viens bērns iedod katram no $18$ citiem pa vienai
 konfektei.
+
+
+## Atrisinājums
+
+Ja bērnu ir $a$, pārdalot $k$ konfektes, starpība mainās par $(a-1)k+k = ak$. 
+Ja starpība divu bērnu konfekšu skaitam pēc kāda laika ir $19$, tad $a=19$.
+
 
 
 
@@ -534,8 +573,7 @@ $$6\ 1\ 3\ 4,$$
 nemainot to secību, ievieto aritmētisko darbību zīmes ("+", "-", " $\cdot$ ", 
 ":") un iekavas tā, lai iegūtās izteiksmes vērtība būtu
 
-**(A)** $25$,
-
+**(A)** $25$,  
 **(B)** $24$.
 
 Vai to var izdarīt?
@@ -555,6 +593,10 @@ Vai to var izdarīt?
 
 
 
+
+
+
+
 # <lo-sample/> LV.AMO.2010.8.2
 
 Andris un Juris katrs izvēlas trīs secīgus naturālus skaitļus tā, ka visi seši 
@@ -564,8 +606,10 @@ vismaz astoņi būs savā starpā atšķirīgi!
 
 <small>
 
-* questionType:
-* domain:
+* topic:NumTheoryExprForConcepts
+* topic:ExhaustionMethod
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -608,6 +652,16 @@ $ab+a-b-1=ab+b$ jeb $a=2b+1$.
 Abas sakarības $a=2b-1$ un $a=2b+1$ nevar izpildīties vienlaicīgi, tātad ne 
 vairāk kā divās rūtiņās ierakstītie skaitļi var būt vienādi, tāpēc tabulā ir 
 vismaz astoņi savā starpā atšķirīgi skaitļi.
+
+
+
+
+## Atrisinājums
+
+Ja iedomāti $(a-1,a,a+1)$ un $(b-1,b,b+1)$ tad 2 vienādi reizinājumi var rasties vien tad,  
+ja $b \pm 1 = 2a$ vai $a \pm 1 = 2b$.
+
+
 
 
 
@@ -771,8 +825,9 @@ iespējams izdarīt, ja
 
 <small>
 
-* questionType:
-* domain:
+* concepts:primes,sum
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -861,14 +916,14 @@ Naturāla skaitļa $n$ pozitīvo dalītāju skaitu apzīmējam ar $d(n)$. Piemē
 $d(1)=1; d(6)=4$ utt. Sauksim skaitli $n$ par *apaļīgu*, ja tas dalās ar 
 $d(n)$.
 
-**(A)** atrodi piecus *apaļīgus* pāra skaitļus,
-
-**(B)** pierādi, ka *apaļīgu* pāra skaitļu ir bezgalīgi daudz
+**(A)** atrodi piecus *apaļīgus* pāra skaitļus,  
+**(B)** pierādi, ka *apaļīgu* pāra skaitļu ir bezgalīgi daudz.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisors
+* questionType:FindExample,Prove
+* domain:NT
 
 </small>
 
@@ -894,15 +949,13 @@ ierakstīts viens skaitlis).
 
 Piemēram, skaitlis $19$ ierakstīts ceturtajā rindā, trešajā kolonnā.
 
-**(A)** Kurš skaitlis ierakstīts 20. rindā, 10. kolonnā?
-
-**(B)** Kurā rindā un kurā kolonnā atrodas rūtiņa, kurā ierakstīts skaitlis 
-$2010$?
+**(A)** Kurš skaitlis ierakstīts 20. rindā, 10. kolonnā?  
+**(B)** Kurā rindā un kurā kolonnā atrodas rūtiņa, kurā ierakstīts skaitlis $2010$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll,FindAll
+* domain:Comb
 
 </small>
 
@@ -1088,8 +1141,12 @@ sekojošu naturālu skaitļu summu? Saskaitāmo secība nav svarīga.
 
 <small>
 
-* questionType:
-* domain:
+* topic:SeriesMembersSumsClosedFormulas
+* topic:CanonicalFactorization
+* topic:ExhaustionMethod
+* questionType:FindCount
+* domain:NT
+* concepts:sum,consecutive-numbers
 
 </small>
 
@@ -1179,15 +1236,15 @@ Dotas trīs aritmētiskas progresijas:
 
 (3) $4,\ 21,\ 38,\ 55,\ 72,\ \ldots$
 
-**(A)** Atrodi mazāko skaitli, kas pieder visām trim dotajām virknēm!
-
+**(A)** Atrodi mazāko skaitli, kas pieder visām trim dotajām virknēm!  
 **(B)** Pierādi, ka ir bezgalīgi daudz tādu skaitļu, kas pieder visām trim 
 dotajām virknēm!
 
 <small>
 
-* questionType:
-* domain:
+* concepts:arithmetic-progression,sequence
+* questionType:FindOptimal,Prove
+* domain:NT
 
 </small>
 
@@ -1326,8 +1383,9 @@ tas, kurš izdara otro gājienu?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisors
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1501,14 +1559,15 @@ $AC \cdot BC=2 MC \cdot KC$, k.b.j.
 
 # <lo-sample/> LV.AMO.2010.12.3
 
-Atrodi visus tādus naturālus skaitļus $n$, ka skaitļi $n,\ d(n)$ un $d(d(n))$ 
+Atrodi visus tādus naturālus skaitļus $n$, ka skaitļi $n$, $d(n)$ un $d(d(n))$ 
 veido dilstošu aritmētisku progresiju. $(d(x)$ ir skaitļa $x$ naturālo dalītāju
 skaits.)
 
 <small>
 
-* questionType:
-* domain:
+* concepts:arithmetic-progression,divisors
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1562,8 +1621,8 @@ tādu $n$, ka, pareizi spēlējot, otrais spēlētājs uzvar!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 

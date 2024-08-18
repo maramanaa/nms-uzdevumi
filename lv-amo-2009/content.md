@@ -304,16 +304,15 @@ $5^{20}$. Bet $2^{20}=1048576$.
 # <lo-sample/> LV.AMO.2009.7.2
 
 Trijstūrim $T$ visas malas ir dažāda garuma. Par punktiem $M$ un $N$ zināms 
-tikai tas, ka tie atrodas trijstūra $T$ iekšpusē.
-
-**(A)** vai var gadīties, ka nogrieznis $MN$ garāks par divām $T$ malām?
-
+tikai tas, ka tie atrodas trijstūra $T$ iekšpusē.  
+**(A)** vai var gadīties, ka nogrieznis $MN$ garāks par divām $T$ malām?  
 **(B)** vai var gadīties, ka nogrieznis $MN$ garāks par visām $T$ malām?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -349,8 +348,16 @@ Kāds lielākais daudzums šo summu var būt pirmskaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* topic:ModularParity
+* topic:PrimesDistribution
+* topic:SeriesMembersSumsClosedFormulas
+* topic:ExhaustionMethod
+* concepts:primes,sum,table,row,column,natural-numbers
+* genre:fill-in-table
+* questionType:FindOptimal
+* domain:NT
+* isHard:true
+
 
 </small>
 
@@ -373,6 +380,14 @@ Tāpēc, ja $5$ summas būtu pirmskaitļi no jau minētajām, tad tāda būtu ar
 summa. Kā jau redzējām, tas nevar būt. Tāpēc arī $5$ summas nevar būt 
 pirmskaitļi.
 
+*Piezīme:* Ir arī citas tabulas, kas apmierina nosacījumu (arī citos piemēros 
+visi nepāra cipari novietoti vienā rindā un vienā kolonnā). Piemēram, 
+
+| 5   | 6   | 4   |
+| --- | --- | --- |
+| 9   | 8   | 2   |
+| 7   | 3   | 1   |
+
 
 
 # <lo-sample/> LV.AMO.2009.7.4
@@ -382,8 +397,9 @@ atrodas ārpus $\triangle ABC$. Pierādīt, ka $AN=CM$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:triangle
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -406,8 +422,12 @@ pavisam ir rūķīšu? (Dālderis ir vienīgā rūķīšiem pieejamā naudas vie
 
 <small>
 
-* questionType:
-* domain:
+
+* topic:InvariantRemainder
+* concepts:divisibility
+* genre:making-moves
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -415,12 +435,17 @@ pavisam ir rūķīšu? (Dālderis ir vienīgā rūķīšiem pieejamā naudas vie
 
 Pieņemsim, ka rūķīšu ir $n$. Viegli izsekot, ka katras naudas dalīšanas 
 rezultātā starpības starp jebkuru divu rūķīšu naudas daudzumiem mainās par 
-skaitļa $n$ daudzkārtni. Tā kā sākumā šīs starpības visas ir $0$, tad tās 
-vienmēr ir skaitļa $n$ daudzkārtņi, tāpēc $17$ dalās ar $n$.
+skaitļa $n$ daudzkārtni. (Ja rūķu ir $a$, pārdalot $k$ dālderus, 
+starpība starp devēja un saņēmēja naudas daudzumiem 
+mainās par $(a-1)k+k = ak$.)
 
+Tā kā sākumā šīs starpības visas ir $0$, tad tās 
+vienmēr ir skaitļa $n$ daudzkārtņi, tāpēc $17$ dalās ar $n$.
 Tā kā $17$ ir pirmskaitlis un rūķīšu ir vairāk nekā viens, tad $n=17$. Piemērs:
 sākumā ir $17$ rūķīšu, katram $24$ dālderi. Viens rūķītis iedod katram no $16$ 
 citiem pa vienam dālderim.
+
+
 
 
 
@@ -514,8 +539,13 @@ Cipariņam un cik - viņa kolēgim? (Visus vecumus izsaka veselos gados.)
 
 <small>
 
-* questionType:
-* domain:
+* topic:CanonicalFactorization
+* topic:ExhaustionMethod
+* genre:word-problem
+* isHard:true
+* isUnverified:true
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -530,6 +560,14 @@ $(50; 7; 7)$ un $(49; 10; 5)$ reizinātāju summas ir vienādas. Kolēģim tāta
 bija $32$ gadi. Pieņemsim, ka Cipariņam bija $t$ gadu. Ja $t>50$, kolēģis 
 nevarētu atrast viesu vecumus arī pēc Cipariņa otrās piezīmes. Situācija $t<50$
 nav iespējama. Tāpēc $t=50$.
+
+
+## Atrisinājums
+
+Kolēģa 1.atbildei atbilst $(5,10,49)$ vai $(7,7,50)$. 
+Otrā Profesora Cipariņa piebilde neļauj tos atšķirt.
+
+
 
 
 
@@ -653,8 +691,9 @@ ar $d(n)$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisors
+* questionType:FindExample,Prove
+* domain:NT
 
 </small>
 
@@ -740,8 +779,9 @@ vienādi).
 
 <small>
 
-* questionType:
-* domain:
+* concepts:primes
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -877,14 +917,14 @@ k.b.j.
 
 Spēlē OP! piedalās $n$ spēlētāji ($n \geq 2$). Spēle notiek vairākas dienas. 
 Katru dienu viens spēlētājs uzvar, bet pārējie zaudē. Sakaņā ar noteikumiem 
-$i$-tajā dienā $(i=1,2, \ldots)$ uzvarētājs saņem $i(n-1)$ punktus, bet katrs 
+$i$-tajā dienā ($i=1,2, \ldots$) uzvarētājs saņem $i(n-1)$ punktus, bet katrs 
 zaudētājs zaudē pa $i$ punktiem. Spēles sākumā visiem ir pa $0$ punktiem. Pēc 
 kāda mazākā dienu skaita var gadīties, ka visiem atkal ir pa $0$ punktiem?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -918,8 +958,8 @@ cipars ir $0$. Kāds ir skaitļa $S$ priekšpēdējais cipars?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1060,16 +1100,17 @@ No $(x+y+z)^{2}>3(x+y+z)$ seko $x+y+z>3$, k. b.j.
 
 # <lo-sample/> LV.AMO.2009.12.3
 
-Dots, ka $n-$ naturāls pāra skaitlis. Apskatām reizinājumu $R=n(n+1)(n+2)(n+3)$
+Dots, ka $n-$ naturāls pāra skaitlis. Apskatām reizinājumu 
 
-**(A)** vai var būt, ka $R$ ir kāda naturāla skaitļa kvadrāts?
+$$R=n(n+1)(n+2)(n+3).$$
 
-**(B)** vai var būt, ka $R$ ir kāda naturāla skaitļa kubs?
+**(A)** Vai var būt, ka $R$ ir kāda naturāla skaitļa kvadrāts?  
+**(B)** Vai var būt, ka $R$ ir kāda naturāla skaitļa kubs?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1129,8 +1170,8 @@ tādu $n$, ka, pareizi spēlējot, otrais spēlētājs var uzvarēt.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 

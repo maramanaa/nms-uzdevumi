@@ -27,8 +27,8 @@ naturālu skaitļu var visi būt vienkārši?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -40,7 +40,7 @@ naturālu skaitļu var visi būt vienkārši?
 $33=3 \cdot 11,\ 34=2 \cdot 17,\ 35=5 \cdot 7$. No četriem pēc kārtas ņemtiem 
 naturāliem skaitļiem viens dalās ar $4$; ja tas pats nav $4$, tad tas nav 
 vienkāršs. Tieši pārbaudot četru pēc kārtas ņemtu skaitļu komplektus, kas satur
-" $4$ ", redzam, ka neviens no tiem neder.
+"$4$", redzam, ka neviens no tiem neder.
 
 
 
@@ -174,8 +174,8 @@ naturāls skaitlis). Kādas ir iespējamās $n$ vērtības?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -286,8 +286,8 @@ aritmētisku progresiju?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -312,8 +312,8 @@ lielāko kopīgo dalītāju.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -469,8 +469,8 @@ summa ir $3434$. Kāds var būt skaitlis $n$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
