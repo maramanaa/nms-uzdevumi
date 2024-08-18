@@ -1,6 +1,6 @@
 # <lo-sample/> LV.NOL.2008.5.1
 
-Starp katriem diviem blakus uzrakstitiem cipariem vienādības zīmes kreisajā 
+Starp katriem diviem blakus uzrakstītiem cipariem vienādības zīmes kreisajā 
 pusē jāievieto "+" vai "-" zīme tā, lai iegūtu pareizu vienādību. Jābūt sešām 
 "+" zīmēm un divām "-" zīmēm. Pacentieties atrast trīs dažādus zīmju 
 izvietojumus.
@@ -72,6 +72,8 @@ pārī meitene garāka par zēnu?
 
 **(B)** jā, var; skat. sekojošo tabulu, kur doti augumi centimetros.
 
+"Alfa"
+
 | Zēni | Meitenes |
 | :---: | :---: |
 | $170$ | $169$ |
@@ -80,9 +82,8 @@ pārī meitene garāka par zēnu?
 | $164$ | $163$ |
 | $162$ | $161$ |
 
-"Alfa"
 
-
+"Gamma"
 
 | Zēni | Meitenes |
 | :---: | :---: |
@@ -92,14 +93,12 @@ pārī meitene garāka par zēnu?
 | $164$ | $165$ |
 | $162$ | $163$ |
 
-"Gamma"
-
 
 
 # <lo-sample/> LV.NOL.2008.5.4
 
 Vai no figūrām, kas parādītas 1.zīm., var salikt kaut kādu taisnstūri? Katru 
-figūru jāņem tieši vienā eksemplārā. Visas rūtiņas ir vienādi kvadrātini. 
+figūru jāņem tieši vienā eksemplārā. Visas rūtiņas ir vienādi kvadrātiņi. 
 Figūras drīkst pagriezt un pat apgriezt "uz mutes", bet tās nedrīkst pārklāties
 viena ar otru.
 
@@ -168,7 +167,7 @@ Acīmredzami, $62$.
 
 # <lo-sample/> LV.NOL.2008.6.2
 
-Andrim ir figūrinas, kas sastāv no vienādiem kvadrātiņiem (skat. 3.zīm.) - pa 
+Andrim ir figūriņas, kas sastāv no vienādiem kvadrātiņiem (skat. 3.zīm.) - pa 
 $10$ katra veida.
 
 ![](LV.NOL.2008.6.2.png)
@@ -238,7 +237,7 @@ Var ņemt, piemēram, $n=1111111$.
 # <lo-sample/> LV.NOL.2008.6.5
 
 Karnevāla zālē ir $5$ lampas; katras divas lampas savieno viena vītne. Lampu un
-vītnu krāsošanai kopā izmantotas $n$ krāsas. Ir zināms, ka vienlaicīgi izpildās
+vītņu krāsošanai kopā izmantotas $n$ krāsas. Ir zināms, ka vienlaicīgi izpildās
 šādas divas īpašības:
 
 **(A)** nekādas divas vītnes, kas piestiprinātas vienai lampai, nav vienā 
@@ -414,7 +413,7 @@ pretruna.
 # <lo-sample/> LV.NOL.2008.8.2
 
 Kvadrāts sastāv no $2008 \times 2008$ vienādām kvadrātiskām rūtiņām, kas 
-izkrāsotas šaha galdina kārtībā. Griežot pa rūtiņu līnijām, tas sagriezts 
+izkrāsotas šaha galdiņa kārtībā. Griežot pa rūtiņu līnijām, tas sagriezts 
 mazākos kvadrātos ar nepāra skaitu rūtiņu katrā. Pierādiet: no šo kvadrātu 
 centrālajām rūtiņām tieši puse ir baltas un puse - melnas. (Ja kvadrāts sastāv 
 no $1$ rūtiņas, tad šo vienīgo rūtiņu uzskata par tā centrālo).
@@ -501,7 +500,7 @@ $K$. Pierādīt, ka $K$ atrodas uz $\sphericalangle ABC$ bisektrises.
 
 Ievērosim, ka 
 $\sphericalangle KAH=90^{\circ}-\sphericalangle B=\sphericalangle HCB$. Tāpēc 
-$\triangle KAH=\triangle HCB$ (hl). Tāpēc $HK=BH$. Tātad $\triangle KHB$ - 
+$\triangle KAH=\triangle HCB\ (hl)$. Tāpēc $HK=BH$. Tātad $\triangle KHB$ - 
 vienādsānu un $\sphericalangle HBK=\sphericalangle HKB$. Bet 
 $\sphericalangle HKB=\sphericalangle KBC$, jo $HK \parallel BC$. Tātad 
 $\sphericalangle HBK=\sphericalangle KBC$, k.b.j.
@@ -526,7 +525,7 @@ $3^{32}-2^{32}$.
 
 Ievērojam, ka 
 $3^{32}-2^{32}=\left(3^{16}+2^{16}\right)\left(3^{8}+2^{8}\right)\left(3^{4}+2^{4}\right)\left(3^{2}+2^{2}\right)(3+2)(3-2)$
-(vairākas reizes lietojam formulu $a^{2}-b^{2}=(a+b)(a-b)$). Tā kā 
+(vairākas reizes lietojam formulu $a^{2}-b^{2}=(a+b)(a-b)$ ). Tā kā 
 $3+2=5;\ 3^{2}+2^{2}=13;\ 3^{4}+2^{4}=97$; 
 $3^{8}+2^{8}=6561+256=6817=17 \cdot 401$, uzdevums atrisināts. (Skaitlis $401$ 
 ir pirmskaitlis, jo nedalās ne ar vienu skaitli no $2$ līdz 
@@ -623,10 +622,10 @@ no kurienes tieši seko vajadzīgais.
 Kādā valstī ir $100$ pilsētas. No katras pilsētas iziet $5$ ceļi. Katrs ceļš 
 savieno divas pilsētas, neiegriežoties citās; starp katrām divām pilsētām ir ne
 vairāk par vienu ceļu; visu ceļu garumi ir dažādi. Visu ceļu kopgarums ir 
-$30000~\mathrm{km}$. Ja izvēlas katrai pilsētai visīsāko no tās izejošo ceļu un
+$30000 ~\mathrm{km}$. Ja izvēlas katrai pilsētai visīsāko no tās izejošo ceļu un
 saskaita visu $100$ izvēlēto ceļu garumus (varbūt dažu ceļu garumus ieskaita 
-summā divreiz), iegūst $10000~\mathrm{km}$. Pierādīt, ka šajā valstī ir tāds 
-ceļš, kura garums nav mazāks par $125~\mathrm{km}$.
+summā divreiz), iegūst $10000 ~\mathrm{km}$. Pierādīt, ka šajā valstī ir tāds 
+ceļš, kura garums nav mazāks par $125 ~\mathrm{km}$.
 
 <small>
 
@@ -964,7 +963,7 @@ $1;\ 2;\ 3;\ 4;\ 5;\ 6$; augošā secībā. Skaitļus $7;\ 8;\ 9;\ 10$ jāieraks
 vai nu intervālos starp šiem skaitļiem, vai pirms vai pēc visiem. No šīm 
 iespējām skaitlim " $7$ " atvēlētas tikai sešas - to nevar rakstīt aiz " $6$ ".
 Pēc tam skaitļu " $8$ " ierakstīšanai ir astoņas vietas, " $9$ " 
-ierakstīšanai - deviņas vietas un " $10$ " ierakstišanai - $10$ vietas. Tāpēc 
+ierakstīšanai - deviņas vietas un " $10$ " ierakstīšanai - $10$ vietas. Tāpēc 
 meklējamo virkņu ir $6 \cdot 8 \cdot 9 \cdot 10=4320$.
 
 
@@ -1097,7 +1096,7 @@ $0 \leq a_{1}<a_{2}<\ldots<a_{k} \leq 9$ - dažādi nenegatīvi veseli skaitļi
 (t.i., izsakām $n$ binārajā sistēmā). Uzskatīsim skaitļus 
 $a_{1}, a_{2}, \ldots, a_{k}$ par baltiem, bet pārējos skaitļus no 
 $\{0; 1; 2; \ldots; 9\}$ - par zaļiem. **Krāsosim kopas** $\mathbf{A}$ **lapu 
-tādā krāsā, kādā ir kopas $A$ lielākais elements.**
+tādā krāsā, kādā ir kopas $\mathbf{A}$ lielākais elements.**
 
 Tā kā divu kopu apvienojuma lielākais elements ir lielākais no šo kopu 
 lielākajiem elementiem, uzdevuma nosacījums par lapu krāsām izpildās. 
