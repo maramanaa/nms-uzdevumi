@@ -457,7 +457,7 @@ nemainās, mainot saskaitāmo kārtību.
 # <lo-sample/> LV.AMO.2008.8.4
 
 Piecstūra zvaigznē $ABCDE$ (skat. 4.zīm.) pastāv sakarības 
-$\sphericalangle A=\sphericalangle B, \sphericalangle E=\sphericalangle C, AC=BE$.
+$\sphericalangle A=\sphericalangle B,\ \sphericalangle E=\sphericalangle C,\ AC=BE$.
 Pierādīt, ka $AD=BD$.
 
 ![](LV.AMO.2008.8.4.png)
@@ -613,7 +613,7 @@ dalās ar $b$ un $b$ dalās ar $a$, kā nedrīkst būt.
 
 **Piemērs.** Nosauksim par naturāla skaitļa $n$ augstumu $h(n)$ to kāpinātāju 
 summu, ar kuriem $n$ satur dažādus pirmreizinātājus (piemēram, 
-$h(8)=h\left(2^{3}\right)=3; \quad h(10)=h\left(2^{1} \cdot 5^{1}\right)=2$; 
+$h(8)=h\left(2^{3}\right)=3;\ h(10)=h\left(2^{1} \cdot 5^{1}\right)=2$; 
 $h(1)=0$). Acīmredzot, ja $x$ dalās ar $y$ un $x>y$, tad $h(x)-h(y) \geq 1$. 
 Mūsu apskatāmajiem skaitļiem $n, 1 \leq n \leq 2008, h(n)<11$ (jo tie visi 
 mazāki par $2^{11}=2048$). Iekļaujam $1.$ grupā skaitļus ar $h=0$ un $h=1$; 
@@ -680,11 +680,7 @@ skaitlis ir mazāks par $10^{14}-1$.
 Pieņemsim, ka 6.zīm. attēlotās līknes ir kvadrātfunkciju grafiki.
 Vai tie var būt funkciju
 
-$y=ax^{2}+2bx+c$
-
-$y=bx^{2}+2cx+a$ un 
-
-$y=cx^{2}+2ax+b$ grafiki?
+$y=ax^{2}+2bx+c$, $y=bx^{2}+2cx+a$ un $y=cx^{2}+2ax+b$ grafiki?
 
 ![](LV.AMO.2008.10.2.png)
 
@@ -742,7 +738,7 @@ vajadzīgais.
 Uz $50$ kartiņām uzrakstīti naturāli skaitļi no $1$ līdz $50$ ieskaitot (katrs 
 skaitlis uz citas kartiņas). Rindā viena aiz otras atrodas $2008$ rūtiņas. 
 Kartiņas kaut kā uzliktas uz $50$ rūtiņām (uz katras rūtiņas - ne vairāk kā 
-viena kartiņa). Ja kādam $n, 1 \leq n<50$, kartiņai $\fbox{n}$ tieši pa labi 
+viena kartiņa). Ja kādam $n,\ 1 \leq n<50$, kartiņai $\fbox{n}$ tieši pa labi 
 esošā rūtiņa ir brīva, tad kartiņu $\fbox{n+1}$ atļauts pārcelt uz šo brīvo 
 rūtiņu; to sauc par vienu gājienu. Pierādīt, ka nevar izdarīt vairāk par $1250$
 gājieniem.
@@ -1106,10 +1102,8 @@ No $(x+y+z)^{2}>3(x+y+z)$ seko $x+y+z>3$, k. b. j.
 # <lo-sample/> LV.AMO.2008.12.4
 
 Vai eksistē tādi trīs naturāli skaitļi, kas visi lielāki par $1$ un kam piemīt 
-īpašība:
-
-katra skaitļa kvadrāts, pamazināts par $1$, dalās ar katru no abiem pārējiem 
-skaitļiem?
+īpašība: katra skaitļa kvadrāts, pamazināts par $1$, dalās ar katru no abiem 
+pārējiem skaitļiem?
 
 <small>
 
