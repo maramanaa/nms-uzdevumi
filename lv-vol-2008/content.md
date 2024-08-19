@@ -1,7 +1,7 @@
 # <lo-sample/> LV.VOL.2008.9.1
 
 Dots, ka $x$ un $y$ - naturāli skaitļi. Pierādīt, ka mazākais naturālais 
-skaitlis, kas dalās gan ar $x$, gan ar, nav $x+y$
+skaitlis, kas dalās gan ar $x$, gan ar $y$, nav $x+y$
 
 <small>
 
@@ -20,11 +20,11 @@ $x=y$. Bet tad $MKD(x, y)=MKD(x, x)=x \neq x+y$.
 
 # <lo-sample/> LV.VOL.2008.9.2
 
-Dots, ka $a,\ b$ un $c$ - pozitīvi skaitļi, pie tam pastāv vienādibas 
+Dots, ka $a,\ b$ un $c$ - pozitīvi skaitļi, pie tam pastāv vienādības 
 $ab=\frac{c-a+1}{b}=\frac{c+1}{2}$. Pierādīt, ka
 
 - $b=1$,
-- viens no skaitļiem, $b,\ c$ ir divu pārējo summas puse.
+- viens no skaitļiem, $a,\ b,\ c$ ir divu pārējo summas puse.
 
 <small>
 
@@ -47,7 +47,7 @@ Katrs riņķa līnijas punkts nokrāsots vai nu balts, vai sarkans. Ir zināms: 
 kāds vienādmalu trijstūris ievilkts šajā riņķa līnijā, tad vismaz $2$ no tā 
 virsotnēm ir baltas.
 
-Pierādīt: eksistē tāds šajā riņķa līnijā ievilkts kvadrāts, kuram vismaz 3$$ 
+Pierādīt: eksistē tāds šajā riņķa līnijā ievilkts kvadrāts, kuram vismaz $3$ 
 virsotnes ir baltas.
 
 <small>
@@ -261,7 +261,7 @@ leņķis). No $\sphericalangle NYX=\sphericalangle NMX$ seko vajadzīgais.
 
 Universitātē strādā $12$ profesori. No tiem sastādītas $2008$ padomes. Nekādas 
 divas padomes nesastāv no vieniem un tiem pašiem profesoriem, bet katrām divām 
-padomēm var atrast vismaz vienu profesoru, kas piedāās tajās abās.
+padomēm var atrast vismaz vienu profesoru, kas piedālās tajās abās.
 
 Pierādīt, ka var nodibināt vismaz vēl vienu padomi tā, lai abi minētie 
 nosacījumi joprojām izpildītos.
@@ -290,7 +290,7 @@ tātad par jauno padomi var kalpot $\overline{S}$.
 # <lo-sample/> LV.VOL.2008.11.1
 
 Ar kādu mazāko gājienu skaitu šaha zirdziņš var nonākt no šaha galdiņa kreisā 
-apakšějā stūra uz labo augšējo stūri?
+apakšējā stūra uz labo augšējo stūri?
 
 <small>
 
@@ -339,7 +339,7 @@ $x_{2}=\underbrace{-11 \ldots 109}_{2007}$.
 
 # <lo-sample/> LV.VOL.2008.11.3
 
-Dots, ka $n$ - naturāls skaitlis un skaitļa $n^{2}$ decimālajāa pierakstā viens
+Dots, ka $n$ - naturāls skaitlis un skaitļa $n^{2}$ decimālajā pierakstā viens
 cipars ir " $2$ ", bet pārējie cipari ir " $1$ ". Pierādit, ka $n$ dalās ar 
 $11$.
 
@@ -476,7 +476,7 @@ tātad ir meklētās riņķa līnijas centrs.
 
 Atrisināt naturālos skaitļos vienādojumu
 
-$$x^{2}+(x+1)^{2}=y^{2}$, ja $x \leq 200$
+$x^{2}+(x+1)^{2}=y^{2}$, ja $x \leq 200$
 
 <small>
 
