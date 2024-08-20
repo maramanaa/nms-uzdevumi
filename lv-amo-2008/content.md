@@ -4,7 +4,7 @@ Uz kādas planētas tiek lietotas $2008$ dažādas valodas. Kāds mazākais daud
 vārdnīcu pietiekams, lai no katras valodas varētu tulkot uz katru citu? 
 (Pieļaujamas vairākpakāpju tulkošanas; ar katru vārdnīcu tulko tikai vienā 
 virzienā, piemēram, no latviešu valodas uz lietuviešu valodu, bet ne otrādi.)
-
+ 
 <small>
 
 * questionType:
