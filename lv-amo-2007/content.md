@@ -1,4 +1,4 @@
-# <lo-sample/> LV.AMO.2008.5.1
+# <lo-sample/> LV.AMO.2007.5.1
 
 Desmit kastēs kopā atrodas $5$ āboli (nevienā kastē nav vairāk par vienu 
 ābolu). Kastes atver pa vienai. Cik kastu var būt atvērts brīdī, kad pirmoreiz 
@@ -26,7 +26,7 @@ un desmitā kaste nemaz nav jāatver.
 
 
 
-# <lo-sample/> LV.AMO.2008.5.2
+# <lo-sample/> LV.AMO.2007.5.2
 
 Pa apli stāv Andris, Dzintars, Gunārs, Juliata, Maija un Skaidrīte. Visi 
 attālumi starp bērniem ir dažādi. Katrs bērns nosauc sev vistuvāk stāvošā bērna
@@ -60,7 +60,7 @@ pretruna.
 
 
 
-# <lo-sample/> LV.AMO.2008.5.3
+# <lo-sample/> LV.AMO.2007.5.3
 
 Uz kādas planētas tiek lietotas $2007$ dažādas valodas. Kāds mazākais daudzums 
 vārdnīcu pietiekams, lai no katras valodas varētu tulkot uz katru citu? 
@@ -88,7 +88,7 @@ vārdnīcām pietiek.
 
 
 
-# <lo-sample/> LV.AMO.2008.5.4
+# <lo-sample/> LV.AMO.2007.5.4
 
 Dotas $4$ pēc ārēja izskata vienādas lodītes. Uz tām uzrakstīts attiecīgi " $1$
 grams", " $3$ grami", " $4$ grami", " $7$ grami". Zināms, ka tieši vienas 
@@ -123,7 +123,7 @@ tad īpašā lodīte ir ![](LV.AMO.2007.5.4E.png).
 
 
 
-# <lo-sample/> LV.AMO.2008.5.5
+# <lo-sample/> LV.AMO.2007.5.5
 
 Kādā vislielākajā daudzumā dažādu gabalu var sagriezt kvadrātu ar izmēriem 
 $6 \times 6$ rūtiņas? Griezumiem jāiet pa rūtiņu līnijām. Gabalus uzskata par 
@@ -153,7 +153,7 @@ gabalu nevar būt. Tas, ka $10$ gabali var būt, redzams 5.zīm.
 
 
 
-# <lo-sample/> LV.AMO.2008.6.1
+# <lo-sample/> LV.AMO.2007.6.1
 
 Trīsciparu skaitla $x$ simtu cipars ir $a$, desmitu cipars ir $b$ un vienu 
 cipars ir $c$. Pierādīt: ar $7$ dalās visi tie un tikai tie skaitļi $x$, kuriem
@@ -173,7 +173,7 @@ $\overline{abc}=100a+10b+c=(98a+7b)+(2a+3b+c)=7(14a+b)+(2a+3b+c)$.
 
 
 
-# <lo-sample/> LV.AMO.2008.6.2
+# <lo-sample/> LV.AMO.2007.6.2
 
 Uz tāfeles uzrakstīti vairāki skaitļi. Katrs no tiem vienāds ar vienu desmito 
 daļu no pārējo skaitļu summas. Cik skaitļu uzrakstīts? Atrisināt šo uzdevumu 
@@ -202,7 +202,7 @@ uzdevuma prasības.
 
 
 
-# <lo-sample/> LV.AMO.2008.6.3
+# <lo-sample/> LV.AMO.2007.6.3
 
 Kvadrāts sastāv no $4 \times 4$ rūtiņām. Katrā no tām ierakstīts vesels 
 pozitīvs skaitlis. Ar vienu gājienu drīkst pieskaitīt vieninieku skaitļiem 
@@ -245,7 +245,7 @@ vienādām.
 
 
 
-# <lo-sample/> LV.AMO.2008.6.4
+# <lo-sample/> LV.AMO.2007.6.4
 
 Kvadrāts sastāv no $8 \times 8$ rūtiņām. Kādu mazāko daudzumu rūtiņu var 
 atzīmēt, lai nekādām divām atzīmētām rūtiņām nebūtu ne kopīgas malas, ne kopīga
@@ -276,7 +276,7 @@ Tātad vismaz $9$ rūtiņas (pa vienai katrā apgabalā) jāatzīmē.
 
 
 
-# <lo-sample/> LV.AMO.2008.6.5
+# <lo-sample/> LV.AMO.2007.6.5
 
 Seši rūķīši brīvdienās apciemo cits citu. Katru dienu daži rūķīši sēž mājās un 
 neiet nekur, bet citi viņus apciemo (katrs rūķītis vienā dienā var veikt 
@@ -318,7 +318,7 @@ $9 \cdot 3=27<30$, tātad ar $3$ dienām nepietiek.
 
 
 
-# <lo-sample/> LV.AMO.2008.7.1
+# <lo-sample/> LV.AMO.2007.7.1
 
 Kādu lielāko daudzumu dažādu ciparu var izrakstīt pa apli tā, lai katri divi 
 blakus uzrakstīti cipari, lasot tos vienalga kādā virzienā, veidotu pirmskaitļa
@@ -343,7 +343,7 @@ jebkurā secībā.
 
 
 
-# <lo-sample/> LV.AMO.2008.7.2
+# <lo-sample/> LV.AMO.2007.7.2
 
 Katram no trijstūriem $ABC$ un $ADE$ visi leņķi ir $60^{\circ}$ lieli (skat. 
 2.zīm.). Pierādīt, ka $BD=CE$.
@@ -369,7 +369,7 @@ ka $EC=DB$.
 
 
 
-# <lo-sample/> LV.AMO.2008.7.3
+# <lo-sample/> LV.AMO.2007.7.3
 
 Uz tāfeles sākumā uzrakstīti $6$ divciparu naturāli skaitļi. Andris ar savu 
 gājienu var pieskaitīt dažiem skaitļiem $1$, bet pārējiem skaitļiem $2$. (Var 
@@ -400,7 +400,7 @@ jau agrāk).
 
 
 
-# <lo-sample/> LV.AMO.2008.7.4
+# <lo-sample/> LV.AMO.2007.7.4
 
 Divpadsmit cilvēku grupā katrs pazīst tieši $7$ citus (ja $A$ pazīst $B$, tad 
 $B$ pazīst $A$). Pierādīt: var atrast tādus $3$ cilvēkus, kas visi pazīst cits 
@@ -422,7 +422,7 @@ grupā. Šo cilvēku varam ņemt par $C$.
 
 
 
-# <lo-sample/> LV.AMO.2008.7.5
+# <lo-sample/> LV.AMO.2007.7.5
 
 Pa apli izrakstīti $16$ skaitļi. Nekādu triju pēc kārtas uzrakstītu skaitļu 
 summa nav mazāka par $2$; nekādu piecu pēc kārtas uzrakstītu skaitļu summa nav 
@@ -458,7 +458,7 @@ seko $x_{1}+10 \leq x_{2}+12$ un tālāk $x_{1}-x_{2} \leq 2$, k.b.j.
 
 
 
-# <lo-sample/> LV.AMO.2008.8.1
+# <lo-sample/> LV.AMO.2007.8.1
 
 Kvadrātvienādojuma $x^{2}+px+q=0$ saknes ir $x_{1}$ un $x_{2}$, bet 
 kvadrātvienādojuma $x^{2}+ax+b=0$ saknes ir $x_{3}$ un $x_{4}$. Nav tādas $x$ 
@@ -480,7 +480,7 @@ un Vjeta teorēmas seko vajadzīgais.
 
 
 
-# <lo-sample/> LV.AMO.2008.8.2
+# <lo-sample/> LV.AMO.2007.8.2
 
 Trijstūrī $ABC$ pastāv sakarības $AC=BC$ un $\sphericalangle ACB=20^{\circ}$. 
 Leņķa $CAB$ bisektrise un malas $AC$ vidusperpendikuls krustojas punktā $M$. 
@@ -518,7 +518,7 @@ $\sphericalangle \mathbf{MBC}=\frac{\mathbf{1}}{\mathbf{2}}\left(\mathbf{180^{\c
 
 
 
-# <lo-sample/> LV.AMO.2008.8.3
+# <lo-sample/> LV.AMO.2007.8.3
 
 Juliata iedomājās naturālu skaitli, sareizināja visus tā ciparus un iegūto 
 rezultātu pareizināja ar iedomāto skaitli. Gala rezultātā Juliata ieguva 
@@ -542,7 +542,7 @@ dalītājs. Pārbaude parāda, ka der tikai $x=1$.
 
 
 
-# <lo-sample/> LV.AMO.2008.8.4
+# <lo-sample/> LV.AMO.2007.8.4
 
 Dzintars un Gunārs svētkos rāda burvju triku. Viņiem ir $20$ kartītes; uz 
 katras no tām uzrakstīts naturāls skaitlis no $1$ līdz $20$. Visi skaitļi ir 
@@ -579,7 +579,7 @@ pēdējais cipars ir citāds. Šo kartīti Dzintars arī norāda.
 
 
 
-# <lo-sample/> LV.AMO.2008.8.5
+# <lo-sample/> LV.AMO.2007.8.5
 
 Kvadrāts sastāv no $9 \times 9$ rūtiņām, kas izkrāsotas šaha galdiņa kārtībā; 
 stūra rūtiņas ir melnas. Figūriņu novieto melnajā rūtiņā. Ja figūriņa ir kādā 
@@ -620,7 +620,7 @@ $24-16=8$ "liekus" gājienus, un kopējais gājienu skaits ir vismaz $40+8=48$.
 
 
 
-# <lo-sample/> LV.AMO.2008.9.1
+# <lo-sample/> LV.AMO.2007.9.1
 
 Kvadrātveida tabula sastāv no $10 \times 10$ rūtiņām. Katrā rūtiņā ierakstīts 
 nenulles cipars. No katras rindiņas un katras kolonnas cipariem, ņemot tos 
@@ -646,7 +646,7 @@ tāpēc arī visu ciparu summa nedalās ar $3$. Iegūta pretruna.
 
 
 
-# <lo-sample/> LV.AMO.2008.9.2
+# <lo-sample/> LV.AMO.2007.9.2
 
 Dots, ka $\triangle ABC$ ir regulārs. Punkts $P$ atrodas uz $ABC$ apvilktās 
 riņķa līnijas (skat. 1.zīm.) Taisnes, kas caur $P$ vilktas paralēli 
@@ -681,7 +681,7 @@ hordām), atņemot tās vienu no otras.
 
 
 
-# <lo-sample/> LV.AMO.2008.9.3
+# <lo-sample/> LV.AMO.2007.9.3
 
 **(A)** katrs no naturāliem skaitļiem $a$ un $b$ ir izsakāms kā divu veselu 
 skaitļu kvadrātu summa. Pierādiet, ka arī reizinājums $a \cdot b$ ir izsakāms 
@@ -709,7 +709,7 @@ $\left.\left(x^{2}+1^{2}\right)\left(x^{2}+2^{2}\right)\left((x+1)^{2}+1^{2}\rig
 
 
 
-# <lo-sample/> LV.AMO.2008.9.4
+# <lo-sample/> LV.AMO.2007.9.4
 
 Regulārā $n$-stūrī jāuzzīmē vairākas slēgtas lauztas līnijas tā, lai katra no 
 tām sastāvētu tieši no $n$ dažādiem posmiem, lai katras līnijas katrs posms 
@@ -741,7 +741,7 @@ uzzīmēto līniju jāiedomājas arī tās attēli pagriezienos ap $8$-stūra ce
 
 
 
-# <lo-sample/> LV.AMO.2008.9.5
+# <lo-sample/> LV.AMO.2007.9.5
 
 Pa apli novietotas $10$ viena lata monētas, visas ar "lasi" uz augšu. Ar vienu 
 gājienu atļauts apgriezt otrādi vai nu četras pēc kārtas novietotas monētas, 
@@ -773,7 +773,7 @@ vismaz viens "lasis".
 
 
 
-# <lo-sample/> LV.AMO.2008.10.1
+# <lo-sample/> LV.AMO.2007.10.1
 
 Desmitciparu naturāls skaitlis dalās ar $999\ 999$. Vai tas var dalīties arī ar
 $1\ 000\ 001$?
@@ -794,7 +794,7 @@ skaitlis ir mazāks par $10^{12}-1$.
 
 
 
-# <lo-sample/> LV.AMO.2008.10.2
+# <lo-sample/> LV.AMO.2007.10.2
 
 Dots, ka $x, y, z$ un $t$ ir pozitīvi skaitli.
 
@@ -828,7 +828,7 @@ apgalvojums.
 
 
 
-# <lo-sample/> LV.AMO.2008.10.3
+# <lo-sample/> LV.AMO.2007.10.3
 
 Doti $7$ dažādi siera gabali. Pierādīt: vienu no tiem iespējams sagriezt divos 
 gabalos tā, ka iegūtos $8$ gabalus var sadalīt divās daļās (pa $4$ gabaliem 
@@ -858,7 +858,7 @@ jāsagriež $m_{7}$.
 
 
 
-# <lo-sample/> LV.AMO.2008.10.4
+# <lo-sample/> LV.AMO.2007.10.4
 
 Plakne sadalīta vienādos kvadrātinos kā rūtiņu lapa. Uzzīmēts izliekts 
 daudzstūris, kura visas virsotnes atrodas rūtiņu virsotnēs, bet neviena mala 
@@ -889,7 +889,7 @@ attiecas uz horizontālo rūtiņu līniju garumu summu.
 
 
 
-# <lo-sample/> LV.AMO.2008.10.5
+# <lo-sample/> LV.AMO.2007.10.5
 
 Plaknē doti $n$ punkti, $n \geq 3$. Nekādi $3$ no tiem neatrodas uz vienas 
 taisnes. Apskatām visas iespējamās taisnes, kas katra iet caur diviem no šiem 
@@ -929,7 +929,7 @@ izvēlēties vairāk par $n$ pa pāriem neparalēlām taisnēm.
 
 
 
-# <lo-sample/> LV.AMO.2008.11.1
+# <lo-sample/> LV.AMO.2007.11.1
 
 Punkts $P$ atrodas regulāra trijstūra $ABC$ iekšpusē. Pierādīt, ka:
 
@@ -977,7 +977,7 @@ $BP+CP+AP<BM+CN+MN+AM==(BM+AM)+(CN+AN)=BA+AC=2 \cdot AB$, k.b.j.
 
 
 
-# <lo-sample/> LV.AMO.2008.11.2
+# <lo-sample/> LV.AMO.2007.11.2
 
 Pierādīt, ka
 
@@ -1006,7 +1006,7 @@ k.b.j.
 
 
 
-# <lo-sample/> LV.AMO.2008.11.3
+# <lo-sample/> LV.AMO.2007.11.3
 
 Dots, ka $ABCD$ - trapece. Uzzīmētas divas riņķa līnijas, kuru diametri ir 
 trapeces sānu malas $AB$ un $CD$. Diagonāļu krustpunkts $S$ atrodas ārpus šīm 
@@ -1036,7 +1036,7 @@ $\triangle DSA$ līdzības.
 
 
 
-# <lo-sample/> LV.AMO.2008.11.4
+# <lo-sample/> LV.AMO.2007.11.4
 
 Kādā firmā daži darbinieki vienmēr melo, bet pārējie vienmēr runā patiesību (ir
 gan tādi, gan tādi). Nekādi divi darbinieki nestrādā firmā vienādi ilgi; 
@@ -1071,7 +1071,7 @@ Tātad firmā strādā tieši $100$ darbinieki.
 
 
 
-# <lo-sample/> LV.AMO.2008.11.5
+# <lo-sample/> LV.AMO.2007.11.5
 
 Kvadrāts sastāv no $n \times n$ vienādām kvadrātiskām rūtiņām. Divas rūtiņas 
 sauc par blakus rūtiņām, ja tām ir kopīga mala. Sākumā visas rūtiņas ir baltas.
@@ -1118,7 +1118,7 @@ prasītā nokrāsošana nav iespējama.
 
 
 
-# <lo-sample/> LV.AMO.2008.12.1
+# <lo-sample/> LV.AMO.2007.12.1
 
 Pierādīt, ka $\sphericalangle AMB=\sphericalangle ANB=\sphericalangle AKB$, kur
 $A,\ B,\ M,\ N,\ K$ - punkti, kas atrodas kvadrātiska režģa virsotnēs (skat. 
@@ -1145,7 +1145,7 @@ Iespējami ļoti daudzi citi risinājumi.
 
 
 
-# <lo-sample/> LV.AMO.2008.12.2
+# <lo-sample/> LV.AMO.2007.12.2
 
 Apskatām vienādojumu $x^{3}-6x^{2}+7x-1=0$. 
 
@@ -1174,7 +1174,7 @@ tilpums ir $1$ un virsmas laukums ir $14$.
 
 
 
-# <lo-sample/> LV.AMO.2008.12.3
+# <lo-sample/> LV.AMO.2007.12.3
 
 Uz taisnes $t$ atrodas divas figūriņas: pa kreisi - balta, pa labi sarkana. Ar 
 vienu gājienu atļauts vai nu novietot uz taisnes vienu otrai blakus vēl divas 
@@ -1205,7 +1205,7 @@ Tātad vēlamo pāru vienmēr ir pāra skaits, un uzdevumā prasītais nav sasni
 
 
 
-# <lo-sample/> LV.AMO.2008.12.4
+# <lo-sample/> LV.AMO.2007.12.4
 
 Riņķis ar centru $O$ jāsagriež $n$ vienādos gabalos ar līnijām, kas sastāv no 
 galīga skaita taišņu nogriežņu un riņķa līniju loku. Pie tam $O$ nedrīkst 
@@ -1248,7 +1248,7 @@ pieņēmums ir nepareizs.
 
 
 
-# <lo-sample/> LV.AMO.2008.12.5
+# <lo-sample/> LV.AMO.2007.12.5
 
 Plauktā vienā rindā kaut kādā secībā atrodas profesora Cipariņa kopoto rakstu 
 $n$ sējumi. Zināms, ka sākumā neviens sējums neatrodas savā vietā. Ar vienu 
