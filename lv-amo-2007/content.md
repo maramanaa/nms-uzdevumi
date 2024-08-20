@@ -155,7 +155,7 @@ gabalu nevar būt. Tas, ka $10$ gabali var būt, redzams 5.zīm.
 
 # <lo-sample/> LV.AMO.2007.6.1
 
-Trīsciparu skaitla $x$ simtu cipars ir $a$, desmitu cipars ir $b$ un vienu 
+Trīsciparu skaitļa $x$ simtu cipars ir $a$, desmitu cipars ir $b$ un vienu 
 cipars ir $c$. Pierādīt: ar $7$ dalās visi tie un tikai tie skaitļi $x$, kuriem
 izteiksme $2a+3b+c$ dalās ar $7$.
 
@@ -237,7 +237,7 @@ $2$, tātad paliek nepāra skaitlis. Bet, ja visi skaitļi kļūtu vienādi ar $
 tad to summa $16n$ būtu pāra skaitlis.
 
 **(C)** Iepriekšējā pierādījuma metode neder - visu ierakstīto skaitļu summa ir
-pāra skaitlis, bet lietosim citu. Izkrāsosim rūtiņas šaha galdina kārtībā. Tad 
+pāra skaitlis, bet lietosim citu. Izkrāsosim rūtiņas šaha galdiņa kārtībā. Tad 
 melnajās un baltajās rūtiņās ierakstīto skaitļu summas nav vienādas. Ar katru 
 gājienu par $1$ palielinās gan viena, gan otra summa, tātad tās paliek dažādas.
 Bet, ja visi skaitļi kļūtu vienādi, tad abām šīm summām arī būtu jākļūst 
@@ -444,7 +444,7 @@ starpība?
 
 ![](LV.AMO.2007.7.5A.png)
 
-Pierādīsim, ka tā nevar būt lielāka par $2$. Apzīmēsim skaitļus rakstišanas 
+Pierādīsim, ka tā nevar būt lielāka par $2$. Apzīmēsim skaitļus rakstīšanas 
 kārtībā ar $x_{1}; x_{2}; x_{3}; \ldots ; x_{16}$; to summu apzīmēsim ar $S$.
 
 Tā kā 
@@ -546,15 +546,15 @@ dalītājs. Pārbaude parāda, ka der tikai $x=1$.
 
 Dzintars un Gunārs svētkos rāda burvju triku. Viņiem ir $20$ kartītes; uz 
 katras no tām uzrakstīts naturāls skaitlis no $1$ līdz $20$. Visi skaitļi ir 
-dažādi. Vispirms Gunārs iedod visas kartītes kādam no skatītājiem. Skatitājs 
+dažādi. Vispirms Gunārs iedod visas kartītes kādam no skatītājiem. Skatītājs 
 izvēlas no tām $9$ kartītes un patur sev, bet pārējās $11$ atdod Gunāram. 
 Gunārs patur sev $9$ kartītes, bet pārējās $2$ atdod skatītājam. Skatītājs 
 pievieno šīm divām kartītēm vienu no sākotnēji paturētajām deviņām un nodod šīs
-trīs kartītes Dzintaram Dzintars pareizi norāda, kuru no trim kartītēm 
+trīs kartītes Dzintaram. Dzintars pareizi norāda, kuru no trim kartītēm 
 skatītājs pievienoja pēdējā posmā.
 
 Izdomājiet, kā šādu triku var organizēt. (Trika izpildes laikā Gunārs un 
-Dzintars savā starpā nesazinās un nespiego, ko dara skatītās.)
+Dzintars savā starpā nesazinās un nespiego, ko dara skatītājs.)
 
 <small>
 
@@ -747,7 +747,7 @@ Pa apli novietotas $10$ viena lata monētas, visas ar "lasi" uz augšu. Ar vienu
 gājienu atļauts apgriezt otrādi vai nu četras pēc kārtas novietotas monētas, 
 vai arī divas pirmās un divas pēdējās monētas piecu pēc kārtas esošu monētu 
 virknē (skat. 2.zīm.) Šādus gājienus drīkst atkārtot vairākkārt. Kāds lielākais
-monētu daudzums var vienlaicīgi atrasties ar gerboni uz augšu?
+monētu daudzums var vienlaicīgi atrasties ar ģerboni uz augšu?
 
 ![](LV.AMO.2007.9.5.png)
 
@@ -796,12 +796,12 @@ skaitlis ir mazāks par $10^{12}-1$.
 
 # <lo-sample/> LV.AMO.2007.10.2
 
-Dots, ka $x, y, z$ un $t$ ir pozitīvi skaitli.
+Dots, ka $x, y, z$ un $t$ ir pozitīvi skaitļi.
 
 **(A)** Pieņemsim, ka zināms: $x+y+z+t \leq 4$. Vai noteikti 
 $\frac{1}{x}+\frac{1}{y}+\frac{1}{z}+\frac{1}{t} \geq 4$?
 
-**(B)** Pienemsim, ka zināms: $x+y+z+t \geq 4$. Vai noteikti 
+**(B)** Pieņemsim, ka zināms: $x+y+z+t \geq 4$. Vai noteikti 
 $\frac{1}{x}+\frac{1}{y}+\frac{1}{z}+\frac{1}{t} \leq 4$?
 
 <small>
@@ -860,7 +860,7 @@ jāsagriež $m_{7}$.
 
 # <lo-sample/> LV.AMO.2007.10.4
 
-Plakne sadalīta vienādos kvadrātinos kā rūtiņu lapa. Uzzīmēts izliekts 
+Plakne sadalīta vienādos kvadrātiņos kā rūtiņu lapa. Uzzīmēts izliekts 
 daudzstūris, kura visas virsotnes atrodas rūtiņu virsotnēs, bet neviena mala 
 neiet pa rūtiņu līnijām. Pierādīt: daudzstūra iekšpusē esošo vertikālo rūtiņu 
 līniju garumu summa vienāda ar daudzstūra iekšpusē esošo horizontālo rūtiņu 
@@ -965,11 +965,15 @@ garums. Saskaitot šīs nevienādības, iegūstam vajadzīgo.
 **(B)** novelkam $MN \parallel BC$; tad $\triangle MAN$ ir regulārs. No 
 trijstūra nevienādības seko $BP+CP<(BM+MP)+(CN+NP)$, tātad 
 
-$$BP+CP<BM+CN+MN \tag(1)$$
+$$\begin{equation}
+BP+CP<BM+CN+MN \tag{1}
+\end{equation}$$
 
 No lemmas seko
 
-$$AP<AM \tag(2)$$
+$$\begin{equation}
+AP<AM \tag{2}
+\end{equation}$$
 
 Saskaitot (1) un (2) un ievērojot, ka $MN=AN$, iegūstam
 
@@ -1213,7 +1217,7 @@ vienlaicīgi piederēt visu gabalu robežām. Vai tas ir iespējams, ja
 
 **(A)** $n=2$,
 
-**(B)** $n>2$ ? (Pozitīvas atbildes gadījumā pietiek to parādīt vienai $n$ 
+**(B)** $n>2$? (Pozitīvas atbildes gadījumā pietiek to parādīt vienai $n$ 
 vērtībai.)
 
 <small>
@@ -1281,7 +1285,7 @@ kārtējās maiņas rezultātā kārtējais kaimiņš "nedraud" nostāties savā
 šāda iespēja parādās, šķirojam gadījumus:
 
 **A.** Šīs maiņas rezultātā arī $k$-tais sējums nostātos savā vietā. Tad šo 
-mainu izdarām. Rezultātā $(k-1)$-ais un $k$-tais sējumi ir savās vietās, bet 
+maiņu izdarām. Rezultātā $(k-1)$-ais un $k$-tais sējumi ir savās vietās, bet 
 citi sējumi - joprojām nē. Esam ieguvuši situāciju ar $n=k-2$ un varam 
 atsaukties uz induktīvo hipotēzi.
 
