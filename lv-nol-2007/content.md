@@ -22,13 +22,14 @@ Jā, var; skat., piem., 3.zīm.
 
 # <lo-sample/> LV.NOL.2007.5.2
 
-Uz katras no $n$ kartiņām uzrakstīts pa naturālam skaitlim (starp tiem var būt arī vienādi). Zināms, ka vienlaicī̄i izpildās šādas īpašības:
+Uz katras no $n$ kartiņām uzrakstīts pa naturālam skaitlim (starp tiem var būt 
+arī vienādi). Zināms, ka vienlaicīgi izpildās šādas īpašības:
 
 - starp uzrakstītajiem skaitļiem ir vismaz $5$ dažādi,
 - katrām divām kartiņām (apzīmēsim tās ar $A$ un $B$) var atrast divas citas 
   kartiņas (apzīmēsim tās ar $C$ un $D$) tā, ka to skaitļu summa, kas 
-  uzrakstīti uz $A$ un $B$, vienāda ar to skaitļu summu, kas uzrakstititi uz 
-  $C$ un $D$.
+  uzrakstīti uz $A$ un $B$, vienāda ar to skaitļu summu, kas uzrakstīti uz $C$ 
+  un $D$.
   
 Pierādiet, ka mazākā iespējamā $n$ vērtība ir $13$.
 
@@ -81,7 +82,7 @@ Jā, var; skat., piem., 4.zīm.
 Deju kolektīvā ir $5$ zēni un $5$ meitenes; visu bērnu augumi ir dažādi. Dejā 
 "Alfa" bērni sadalīti $5$ pāros tā, ka katrā pārī zēns ir garāks par meiteni.
 
-**(A)** Vai var gadīties, ka dejā "Beta" bērni sadalīit $5$ pāros tā, ka katrā 
+**(A)** Vai var gadīties, ka dejā "Beta" bērni sadalīti $5$ pāros tā, ka katrā 
 pārī meitene garāka par zēnu?
 
 **(B)** Vai var gadīties, ka dejā "Gamma" bērni sadalīti $5$ pāros tā, ka 
@@ -402,7 +403,7 @@ noskaidrot vismaz vienu viltoto monētu?
 
 ## Atrisinājums
 
-Var riņķoties, piemēram, šādi:
+Var rīkoties, piemēram, šādi:
 
 1. Iedodam burvim $3$ monētas; to, uz kuru viņš norāda, apzīmējam ar $A$, 
    pārējās - ar $B$ un $C$.
@@ -422,7 +423,7 @@ viltota; tāpēc $A$ ir viltota.
 # <lo-sample/> LV.NOL.2007.8.1
 
 Kontroldarbu latviešu valodā rakstīja $50$ pirmklasnieki. Daži no viņiem zina 
-visus burtus, izņemot " $l$ ", kuru rakstot izlaiž; pārēie zina visus burtus, 
+visus burtus, izņemot " $l$ ", kuru rakstot izlaiž; pārējie zina visus burtus, 
 izņemot " $d$ ", kuru rakstot izlaiž. Skolotājs lūdza $10$ skolēniem uzrakstīt 
 vārdu "gads", citiem $18$ skolēniem - vārdu "gals", pārējiem skolēniem - vārdu 
 "galds". Vārdus "gads" un "gals" uzrakstīja pa $15$ skolēniem katru. Cik 
@@ -686,24 +687,24 @@ Salīdzinām divas monētas $A$ un $B$. Pastāv divas iespējas.
 
 1. $A$ un $B$ ir dažādas masas. Tad viena no tām ir viltota, otra - īsta. 
    Sadalām atlikušās $2004$ monētas $1002$ pāros un katru no tiem salīdzinām ar
-   pāri ($A,\ B$). Katrā svēršanā mēs noskaidrosim, cik viltoto monētu ir 
+   pāri $(A,\ B)$. Katrā svēršanā mēs noskaidrosim, cik viltoto monētu ir 
    konkrētajā pārī. Pavisam tiks izmantotas $1+1002=1003$ svēršanas.
 2. $A$ un $B$ ir vienādas masas. Kā iepriekš salīdzinām pāri $(A,\ B)$ ar 
-   citiem monētu pāriem, kamēr atrodam pāri ($C,\ D$), kura masa atšķiras no 
-   ($A,\ B$) masas. Pieņemsim, ka ($C,\ D$) kopējā masa ir mazāka nekā 
-   ($A,\ B$) kopējā masa (otrs gadījums ir "simetrisks"). Tad $A$ un $B$, kā 
+   citiem monētu pāriem, kamēr atrodam pāri $(C,\ D)$, kura masa atšķiras no 
+   $(A,\ B)$ masas. Pieņemsim, ka $(C,\ D)$ kopējā masa ir mazāka nekā 
+   $(A,\ B)$ kopējā masa (otrs gadījums ir "simetrisks"). Tad $A$ un $B$, kā 
    arī visas citas līdz šim svērtās monētas ir īstas. Salīdzinām $C$ un $D$. 
-   Rezultātā mēs atrodam vismaz vienu monētu no pāra ($C,\ D$), kura ir 
+   Rezultātā mēs atrodam vismaz vienu monētu no pāra $(C,\ D)$, kura ir 
    viltota. Tagad izveidojam pāri (īsta monēta, viltota monēta) un turpinām kā 
-   $1.$ gadījumā. Pavisam tiks izmantotas $1+1002+1=1004$ svēršanas.
+   1. gadījumā. Pavisam tiks izmantotas $1+1002+1=1004$ svēršanas.
 
 
 
 # <lo-sample/> LV.NOL.2007.10.2
 
-Kvadrāts sastāv no $n \times n$ rūtiņām, $n \geqq 3$. Pierādīt, ka katru rūtiņu
+Kvadrāts sastāv no $n \times n$ rūtiņām, $n \geq 3$. Pierādīt, ka katru rūtiņu
 var nokrāsot baltu, melnu vai sarkanu tā, lai izpildītos īpašība: katrai 
-rūtiņai $x$ eksistē tādas divas kaiminu rūtiņas $y$ un $z$, ka $x$, $y$ un $z$ 
+rūtiņai $x$ eksistē tādas divas kaimiņu rūtiņas $y$ un $z$, ka $x$, $y$ un $z$ 
 visas nokrāsotas dažādās krāsās. (Divas rūtiņas sauc par kaimiņu rūtiņām, ja 
 tām ir kopēja mala.)
 
@@ -738,7 +739,7 @@ sadalīt divās daļās, kuru summas ir vienādas.
 
 **(A)** atrodiet kaut vienu labu skaitli, kas lielāks par $10$,
 
-**(B)** vai eksistē labi skaitli, kas lielāki par $20072007$?
+**(B)** vai eksistē labi skaitļi, kas lielāki par $20072007$?
 
 <small>
 
@@ -900,7 +901,7 @@ zīmējumā parādītā krustošānās nav iespējama).
 # <lo-sample/> LV.NOL.2007.11.4
 
 Šaurleņķu trijstūrī $ABC$ novilkti augstumi $AX$ un $CY$; malas $AC$ 
-viduspunkts ir $M$. Uz augstuma $AX $atzīmēts tāds punkts $Z$, ka $Y=ZX$. 
+viduspunkts ir $M$. Uz augstuma $AX$ atzīmēts tāds punkts $Z$, ka $Y=ZX$. 
 Pierādīt, ka punkti $A;\ Y;\ Z;\ M$ atrodas uz vienas riņķa līnijas.
 
 <small>
@@ -955,7 +956,7 @@ skaitļi ir $1; \frac{6}{5}; \frac{3}{2}; 2; 3; 6$.
 Skaitļi $a_{1};\ a_{2};\ a_{3};\ a_{4}$ šādā secībā veido ģeometrisku 
 progresiju, kuras visi locekļi ir dažādi; $f(x)$ ir kvadrāttrinoms. Vai var 
 vienlaicīgi pastāvēt vienādības $f\left(a_{1}\right)=a_{2}$, 
-$f\left(a_{2}\right)=a_{3}, f\left(a_{3}\right)=a_{4}$?
+$f\left(a_{2}\right)=a_{3},\ f\left(a_{3}\right)=a_{4}$?
 
 Vai var vienlaicīgi pastāvēt tikai divas no šīm vienādībām?
 
@@ -982,7 +983,7 @@ Pa apli izvietotas $n$ spuldzes; sākotnēji tās visas ir izslēgtas. Viena
 spuldze apzīmēta ar $S$. Atrodam visus skaitļa $n$ pozitīvos dalītājus, 
 ieskaitot $1$ un $n$. Katram šādam dalītājam $d$ veicam sekojošu operāciju: 
 mainām katras $d$-tās spuldzes stāvokli (sākot ar spuldzi $S$), pavisam izdarot
-$n$ maiņas. (Piemēram, ja 1.zīm. attēlotajā situācijā pie $n=6$ nemts dalītājs 
+$n$ maiņas. (Piemēram, ja 1.zīm. attēlotajā situācijā pie $n=6$ ņemts dalītājs 
 $d=3$, tad pakāpeniski mainīsim spuldžu $S;\ C;\ S;\ C;\ S;\ C$ stāvokļus.)
 
 ![](LV.NOL.2007.12.2.png)
