@@ -12,7 +12,7 @@ Dots, ka $x \neq y$ un $x^{2}-2007x=y^{2}-2007y$. Aprēķiniet $x+y$ vērtību.
 ## Atrisinājums
 
 Doto vienādību pārveido par $x^{2}-y^{2}=2007(x-y)$ un tālāk par 
-$(x-y)(x+y)=2007(x-y)$. Tā kā $x \neq$ fy, tad no šejienes seko $x+y=2007$.
+$(x-y)(x+y)=2007(x-y)$. Tā kā $x \neq y$, tad no šejienes seko $x+y=2007$.
 
 
 
@@ -55,7 +55,7 @@ ka $BC=2 \cdot AN$.
 ## Atrisinājums
 
 Tā kā $\triangle BNC$ ir taisnleņķa, tad tajā mediāna pret hipotenūzu vienāda 
-ar pusi no hipotenūzas, tii., $NM=MC$. Tāpēc 
+ar pusi no hipotenūzas, t.i., $NM=MC$. Tāpēc 
 $\sphericalangle MNC=2 \alpha$. No $\triangle ANM$ ārējā leņķa seko, ka 
 $\sphericalangle AMN=2 \alpha-\alpha=\alpha$, tātad $\triangle ANM$ - 
 vienādsānu. Tāpēc $AN=NM=MC$, no kurienes seko vajadzīgais.
@@ -115,7 +115,7 @@ reizinājumi ir vienādi?
 ![](LV.VOL.2007.9.5.png)
 
 **(B)** Vai var 2.zīm. parādītās tabulas rūtiņās ierakstīt naturālus skaitļus 
-no $1$ līdz $81$ (katrā rūtiņā - citu skaitli) tā, lai izpildī tos tāda pati 
+no $1$ līdz $81$ (katrā rūtiņā - citu skaitli) tā, lai izpildītos tāda pati 
 īpašība?
 
 <small>
@@ -167,12 +167,12 @@ ka tā kā divu pāra skaitļu starpība ir pāra skaitlis.
 
 # <lo-sample/> LV.VOL.2007.10.2
 
-Pa apli izvietoti $n$ trauciņi, $n \geqq 3$; dažos no tiem atrodas monētas 
+Pa apli izvietoti $n$ trauciņi, $n \geq 3$; dažos no tiem atrodas monētas 
 (varbūt tikai viena vai neviena monēta). Monētu pavisam ir tieši $n$. Ja ir 
-vismaz viens trauciņš, kưā atrodas ne mazāk par $2$ monētām, tad ar vienu 
+vismaz viens trauciņš, kurā atrodas ne mazāk par $2$ monētām, tad ar vienu 
 gājienu atļauts izvēlēties vienu no šādiem trauciņiem, izņemt no tā $2$ monētas
 un ielikt tās pa vienai abos blakus esošajos trauciņos. Ar iegūto situāciju 
-drīkst izpildīt tādu pašu gājienu, utt
+drīkst izpildīt tādu pašu gājienu, utt.
 
 Sākotnēji visas monētas atrodas vienā trauciņā. Vai var panākt, lai katrā 
 trauciņā būtu tieši viena monēta, ja **(A)** $n=7$, **(B)** $n=10$?
@@ -255,6 +255,7 @@ iekšpusē, un tā attālumu summa $\Sigma$ līdz $\Delta$ malām ir
 $\frac{1}{2}(OX+OY+OZ)$. Mēs pierādīsim divus faktus:
 
 **A.** $\Sigma$ vienāda ar $\Delta$ augstumu,
+
 **B.** $OX+OY+OZ=AC$.
 
 No tā sekos, ka visiem $\Delta$ ir vienādi augstumi, tātad tie ir vienādi savā 
@@ -457,13 +458,11 @@ tātad arī saucēji ir pretēji skaitļi; no tā seko $a_{n}=0$.
 
 Izmantojot šo īpašību, iegūstam:
 
-ja $n \geq 1$, tad $a_{3n} \neq 0\left(\right.$ jo $\left.a_{33} \neq 0\right)$
+ja $n \geq 1$, tad $a_{3n} \neq 0$ (jo $a_{33} \neq 0$)
 
-ja $n \geq 0$, tad $a_{3 n+1} \neq 0\left(\right.$ jo 
-$\left.a_{22} \neq 0\right)$
+ja $n \geq 0$, tad $a_{3n+1} \neq 0$ (jo $a_{22} \neq 0$)
 
-ja $n \geq 0$, tad $a_{3n+2} \neq 0\left(\right.$ jo 
-$\left.a_{11} \neq 0\right)$.
+ja $n \geq 0$, tad $a_{3n+2} \neq 0$ (jo $a_{11} \neq 0$).
 
 **Līdz ar to (A) daļa pierādīta.**
 
@@ -495,8 +494,7 @@ Tā kā $a_{n+1}a_{n+2}a_{n+3} \neq 0$, no šejienes seko $a_{n+4}=a_{n}$.
 
 Tāpēc 
 $a_{1}=a_{33}=1;\ a_{2}=a_{22}=2;\ a_{3}=a_{11}=4;\ a_{4}=\frac{a_{1} \cdot a_{3}}{a_{2}}=2$.
-No šejienes
-
+No šejienes 
 $a_{1}^{k}+a_{2}^{k}+\ldots+a_{100}^{k}=25\left(1^{k}+2^{k}+4^{k}+2^{k}\right)=25\left(1+2^{k}\right)^{2}=\left(5\left(1+2^{k}\right)\right)^{2}$,
 no kā seko vajadzīgais.
 
@@ -517,7 +515,7 @@ $x^{2}+a^{2}x+b^{3}=0$ un $x^{2}+b^{2}x+a^{3}=0$ ir kopīga reāla sakne?
 ## Atrisinājums
 
 Ja $x$ - kopējā sakne, tad $x^{2}+a^{2}x+b^{3}=x^{2}+b^{2}x+a^{3}$, no kurienes
-$\left(a^{2}-b^{2}\right) \cdot x=a^{3}-b^{3}$. Ja $a \neq \Rightarrow$, tad 
+$\left(a^{2}-b^{2}\right) \cdot x=a^{3}-b^{3}$. Ja $a \neq b$, tad 
 $x=\frac{a^{3}-b^{3}}{a^{2}-b^{2}}=\frac{a^{2}+ab+b^{2}}{a+b}=\frac{\left(a+\frac{b}{2}\right)^{2}+\frac{3b^{2}}{4}}{a+b}>0$.
 Bet skaidrs, ka dotajiem vienādojumiem nav pozitīvu sakņu.
 
@@ -613,7 +611,7 @@ $w_{2}$ - vēl punktā $F$. Punkts $B$ atrodas gan starp $C$ un $E$, gan starp
 $D$ un $F$. Nogriežņu $CE$ un $DF$ viduspunktus apzīmējam attiecīgi ar $M$ un 
 $N$.
 
-Pierāđīt, ka trijstūri $ACD,\ AEF$ un $AMN$ ir līdzīgi viens otram.
+Pierādīt, ka trijstūri $ACD,\ AEF$ un $AMN$ ir līdzīgi viens otram.
 
 <small>
 
@@ -665,7 +663,7 @@ No (3) un (4) seko $\triangle CAD \sim \triangle MAN$, k.b.j.
 
 Naturālo skaitļu kopa sadalīta daļās tā, ka katrs naturāls skaitlis nonācis 
 tieši vienā daļā un katrā daļā ir bezgalīgi daudz skaitļu. Vai noteikti starp 
-daļām atradīsies tāda, kas satur jebkura naturāla skaitļ̦a daudzkārtņi?
+daļām atradīsies tāda, kas satur jebkura naturāla skaitļa daudzkārtņi?
 
 Atbildēt uz šo jautājumu, ja
 
