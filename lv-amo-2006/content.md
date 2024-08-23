@@ -5,9 +5,8 @@ iekrāsotas (skat. 1.zīm.). Parādīt, ka kvadrātu var sagriezt $4$ vienādās
 tā, lai katra daļa saturētu vienu iekrāsoto rūtiņu. (Griezumiem jāiet pa rūtiņu
 līnijām.)
 
-Vai šādu sagriešanu var izdarīt divos dažādos veidos tā, to lai vienā 
-sagriešanā iegūtās daļas pēc formas atšķirtos no otrā sagriešanā iegūtajām 
-daļām?
+Vai šādu sagriešanu var izdarīt divos dažādos veidos tā, lai vienā sagriešanā 
+iegūtās daļas pēc formas atšķirtos no otrā sagriešanā iegūtajām daļām?
 
 ![](LV.AMO.2006.5.1.png)
 
@@ -42,8 +41,8 @@ un, ja tā ir, tad vai tā vieglāka vai smagāka par citām?
 
 ## Atrisinājums
 
-Ar pirmo svēršanu salīdzinām $A$, $B$ pret $C$, $D$. Ja svari nav līdzsvarā, 
-tad pašreiz uz tiem ir atšķirībā monēta. Ar otro svēršanu salīdzinām $A,\ B$ 
+Ar pirmo svēršanu salīdzinām $A$, $B$ pret $C$, $D$. Ja svari **nav** līdzsvarā, 
+tad pašreiz uz tiem ir atšķirīgā monēta. Ar otro svēršanu salīdzinām $A,\ B$ 
 pret $E,\ F$ ($E,\ F$ ir "īstās"). Ja ir līdzsvars, tad atškirīīgās monētas 
 attiecības ar īstajām noskaidro no $1.$ svēršanas rezultātiem (atškirīgā ir 
 viena no $C,\ D$). Ja līdzsvara nav, tad atšķirīgā ir viena no $A,\ B$; gan 
@@ -254,7 +253,7 @@ Sprīdītis staigā pa kvadrātu, ar katru soli šķērsojot divu rūtiņu kopē
 (Sprīdītis neiet caur rūtiņu stūri un neieiet rūtiņā, kurā jau ir bijis.) 
 Ieraugot dukātu, viņš to paņem.
 
-Pierādīt: ja Sprīdītis pavisam pabūs vismaz $54$ rūtiņās, tad vinam būs vismaz 
+Pierādīt: ja Sprīdītis pavisam pabūs vismaz $54$ rūtiņās, tad viņam būs vismaz 
 $10$ dukāti.
 
 <small>
@@ -481,7 +480,7 @@ sasniegt, piemēram, šādi: $ADJ,\ AGM,\ ALM,\ DGL,\ DJM,\ GJL$.
 
 # <lo-sample/> LV.AMO.2006.8.3
 
-Naturāla skaitļa $x$ ciparu summu apzīmēsim ar $S(x)$. Pienemsim, ka $n$ - tāds
+Naturāla skaitļa $x$ ciparu summu apzīmēsim ar $S(x)$. Pieņemsim, ka $n$ - tāds
 naturāls skaitlis, kam vienlaicīgi izpildās īpašības $S(n)=10$ un $S(5n)=5$.
 
 **(A)** atrodiet kaut vienu tādu skaitli,
@@ -588,16 +587,16 @@ dalās ar $8$?
 
 Septiņciparu naturāls skaitlis dalās ar $8$ tad un tikai tad, ja tā pēdējo $3$ 
 ciparu veidotais skaitlis dalās ar $8$ (jo 
-$\ldots abc=\ldots 000+abc=\ldots \cdot 10^{3}+\overline{abc}\right)$.
+$\ldots abc=\ldots 000+abc=\ldots \cdot 10^{3}+\overline{abc})$.
 
 Ja pirmie $4$ cipari ir $9$ un $\overline{abc}=888$, ciparu summa ir 
 $4 \cdot 9+3 \cdot 8=60$. Pierādīsim, ka $\overline{abc}$ ciparu summa nevar 
 būt lielāka par $24$. Lai tā būtu lielāka par $24$, pastāv šādas iespējas:
 
-1) viens no cipariem $a,\ b,\ c$ ir $9$, bet divi $-8$,
-2) divi no cipariem $a,\ b,\ c$ ir $9$, bet viens $-8$,
+1) viens no cipariem $a,\ b,\ c$ ir $9$, bet divi - $8$,
+2) divi no cipariem $a,\ b,\ c$ ir $9$, bet viens - $8$,
 3) visi cipari $a,\ b,\ c$ ir $9$,
-4) divi no cipariem $a,\ b,\ c$ ir $9$, bet viens $-7$.
+4) divi no cipariem $a,\ b,\ c$ ir $9$, bet viens - $7$.
 
 Viegli pārbaudīt, ka neviens no šādiem skaitļiem nedalās ar $8$.
 
@@ -689,7 +688,7 @@ $f(x)+f(x+1)+f(x+2)=0$ arī ir divas saknes.
 ## Atrisinājums
 
 Apzīmējam vienādojuma $f(x)=0$ saknes $x_{1}$ un $x_{2},\ x_{1}<x_{2}$. Tad pie
-$x_{1}<x<x_{2}$ pastā nevienādība $f(x)<0$, bet pie $x>x_{2}$ un pie $x<x_{1}$ 
+$x_{1}<x<x_{2}$ pastāv nevienādība $f(x)<0$, bet pie $x>x_{2}$ un pie $x<x_{1}$
 pastāv nevienādība $f(x)>0$. Tāpēc pie $x_{3}=x_{1}+0,1$ pastāv nevienādības 
 $f\left(x_{3}\right)<0$, $f\left(x_{3}+1\right)<0$ un 
 $f\left(x_{3}+2\right)<0$; pie $x_{4}=x_{1}-10$ pastāv nevienādības 
@@ -730,7 +729,7 @@ tajā. Ja eksistē tāds $x \in M$, ka $x \leqslant 50$, tad $2x \notin M$; maz�
 no šādiem $x$ var aizstāt ar $2x$. (Viegli pārbaudīt, ka kopai $M$ izvirzāmās 
 prasības saglabājas.) Ar galīgu skaitu gājienu $M$ varam pārveidot par 
 $M_{1}$, kurā visi skaitļi ir lielāki par $50$, bet elementu ir tikpat, cik 
-kopā $M$. Ja $M_{1}$ būtu **vairāk nekā** $\math{25}$ elementi, tad vismaz divi
+kopā $M$. Ja $M_{1}$ būtu **vairāk nekā** $\mathbf{25}$ elementi, tad vismaz divi
 no tiem atrastos vienā no $25$ pāriem 
 $(51; 52),\ (53; 54),\ (55; 56),\ \ldots,\ (97; 98),\ (99; 100)$. Bet tā ir 
 pretruna, jo diviem skaitļiem, kas atšķiras viens no otra par $1$, lielākais 
@@ -742,7 +741,7 @@ kopīgais dalītājs ir $1$.
 
 Kvadrāts sastāv no $5 \times 5$ vienādām kvadrātiskām baltām rūtiņām. Parādiet,
 ka **(A)** $8$, **(B)** $9$, **(C)** $10$ no tām var nokrāsot melnas tā, lai 
-katra atlikušajai baltajai rūtiņai $R$ būtu tieši viena melna rūtiņa, ar kuru 
+katrai atlikušajai baltajai rūtiņai $R$ būtu tieši viena melna rūtiņa, ar kuru 
 $R$ ir kopīga mala.
 
 <small>
@@ -1205,7 +1204,7 @@ kam piemīt īpašība: ja daudzstūris $D$ sadalīts divos daudzstūros $D_{1}$
 $D_{2}$, tad noteikti $f(D)=f\left(D_{1}\right)+f\left(D_{2}\right)$?
 
 **Piezīme.** Ja daudzstūri $x_{1}$ un $x_{2}$ ir vienādi, bet atšķiras viens no
-otra ar novietojumu plakne, tad varbūt 
+otra ar novietojumu plaknē, tad varbūt 
 $f\left(x_{1}\right) \neq f\left(x_{2}\right)$.
 
 <small>
