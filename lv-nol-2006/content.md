@@ -22,7 +22,7 @@ $B<999$, tad $8002+B+B<10000)$. Tāpēc $B=999$ un $A=8002+999=9001$.
 # <lo-sample/> LV.NOL.2006.5.2
 
 Uz tāfeles uzrakstīta burtu virkne $\mathbf{abababababa}$. Ar vienu gājienu 
-atļ̦auts izvēlēties jebkuru daudzumu pēc kārtas uzrakstītu burtu, nodzēst tos 
+atļauts izvēlēties jebkuru daudzumu pēc kārtas uzrakstītu burtu, nodzēst tos 
 un atbrīvotajā vietā uzrakstīt šos pašus burtus apgrieztā secībā (piemēram, 
 $abb$ var aizstāt ar $bba$).
 
@@ -488,7 +488,7 @@ un $b+c+d$ abi dalās ar $4$, tad $a$ un $d$ jādod vienādi atlikumi, dalot ar
 $4$. Tātad skaitļiem, kas rindā atrodas $1.,\ 4.,\ 7.,\ 11.,\ \ldots,\ 2005.$ 
 vietā, jādod vienādi atlikumi, dalot ar $4$; šo vietu ir $668$. Bet skaitļiem 
 no $1$ līdz $2006$ ieskaitot, dalot tos ar $4$, atlikumi $1$ un $2$ ir $502$ 
-reizes, bet atlikumi $3$ un $0-501$ reizi.
+reizes, bet atlikumi $3$ un $0$ - $501$ reizi.
 
 
 
@@ -758,7 +758,7 @@ Ar $1$ sākas $4$ pirmskaitļi, bet beidzas $3$; tāpēc $1$ ir meklējamā skai
 otrais cipars. Vislielākais iespējamais pirmais cipars ir $6$ (jo $71$ būs 
 sastopams tālāk, bet $81$ un $91$ nav pirmskaitļi).
 
-Ar $9$ sākas sākas $1$ pirmskaitlis, bet beidzas $2$; tāpēc $9$ ir meklējamā 
+Ar $9$ sākas $1$ pirmskaitlis, bet beidzas $2$; tāpēc $9$ ir meklējamā 
 skaitļa pēdējais cipars. Aiz otrā cipara lielākie iespējamie rakstāmi cipari 
 $9$ un $7$. Tātad skaitlis jāmeklē formā
 
@@ -772,7 +772,7 @@ $$619737cdef79.$$
 Tā kā $c \neq 9$ un $c \neq 3$ ($73$ jau sastopams agrāk), tad $c=1$. Iegūstam 
 formu 
 
-$$6197371def79$$.
+$$6197371def79.$$
 
 Tā kā $d \neq 7$ (aiz $d$ nebūtu ko rakstīt), liekam iespējami lielāko vērtību 
 $d=3$. Atliek $e=f=1$ (lai parādītos pirmskaitlis $11$).
@@ -792,7 +792,7 @@ vienlaicīgi izpildās sekojošas īpašības:
 
 - abos $n$-stūros izvēlētas virsotnes ar vieniem un tiem pašiem numuriem,
 - pirmajā $n$-stūrī izvēlēto virsotņu veidotais trijstūris un otrajā $n$-stūrī 
-  izvēlēto virsotnu veidotais trijstūris abi ir viena tipa: vai nu abi ir 
+  izvēlēto virsotņu veidotais trijstūris abi ir viena tipa: vai nu abi ir 
   šaurleņķu, vai abi taisnleņķa, vai abi platleņķa.
 
 Atbildiet uz šo jautājumu, ja **(A)** $n=5$; **(B)** $n=2006$.
@@ -1244,7 +1244,7 @@ Kurām $n$ vērtībām, beidzot šīs darbības, visas spuldzes būs ieslēgtas?
 
 **Risinājums.** Ja $k=0$, tad $n=1$; vienīgā spuldze tiek ieslēgta, un tālāk 
 nekas netiek darīts. Pie $n=2^{k},\ k \in N$, katram no dalītājiem 
-$d=2;\ 4;\ 8;\ \ldots;\ 2^{k-1};\ 2^{k}$ atbilstošā mainu sērija skar katru 
+$d=2;\ 4;\ 8;\ \ldots;\ 2^{k-1};\ 2^{k}$ atbilstošā maiņsu sērija skar katru 
 spuldzi $0$ vai $d$ reizes (tātad kopumā neietekmē tās stāvokli), kamēr 
 dalītājam $1$ atbilstošā sērija maina katras spuldzes stāvokli $1$ reizi. Tāpēc
 beigās visas spuldzes būs ieslēgtas.
