@@ -61,7 +61,7 @@ $\sphericalangle BAC=\sphericalangle NAC=45^{\circ}$.
 Par *skaistu* sauksim tādu naturālu skaitli, kas nedalās ne ar vienu no cipariem savā
 decimālajā pierakstā (neviens skaitlis nedalās ar $0$).
 
-Kāds lielākais daudzums pēc kārtas sekojošu naturālu skaitļu visi var būt $skaisti$?
+Kāds lielākais daudzums pēc kārtas sekojošu naturālu skaitļu visi var būt *skaisti*?
 
 <small>
 

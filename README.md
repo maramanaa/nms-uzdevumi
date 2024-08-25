@@ -16,6 +16,7 @@ NMS uzdevumi markdown formātā
 * [LT.VUMIF.2019.9.1](https://www.dudajevagatve.lv/eliozo/problem?problemid=LT.VUMIF.2019.9.1) - teksts ``\[\left{`` (kļūda, ja nav izvēlēta LT valoda)
 * [LV.NOL.2023.11.5](https://www.dudajevagatve.lv/eliozo/problem_solution?problemid=LV.NOL.2023.11.5) - Dzeltens kļūdas teksts (ļoti mazs attēls)
 * [LT.TST.2019.12.1](https://www.dudajevagatve.lv/eliozo/problem?problemid=LT.TST.2019.12.1) - formula neattēlo formulas tekstu ``;\text{visiems}\`` (kļūda, ja nav izvēlēta LT valoda)
+* LV.VOL.2002.9.1 -- Neapstrādā pareizi formulu `$30<x<40<y<50$`
 
 ## Katrīnas saraksts
 
