@@ -400,18 +400,18 @@ naturāls skaitlis $\left(x=2^{a-1}-1\right.$ der tikai pie $a \geq 2$).
 Atbilstošās $y$ vērtības iegūst kā $y=2^{a}-x$, un $y_{1}=2^{a}-1$; 
 $y_{2}=2^{a-1}+1;\ y_{3}=2^{a-1}-1;\ y_{4}=1$ (vērtība $y_{3}$ un tātad arī 
 $x_{3}$ der tikai pie $a \geq 2$). Apkopojot redzam, ka **varbūt** der 
-$(x; y)=\left(1; 2^{a}-1\right); \quad (x; y)=\left(2^{a}-1; 2^{a}+1\right); \quad (x; y)=\left(2^{a}+1; 2^{a}-1\right);$
-$(x; y)=\left(2^{a}-1; 1\right),\ a$ - naturāls. Pārbaude parāda, ka šīs 
+$(x; y)=\left(1;\ 2^{a}-1\right);\ (x; y)=\left(2^{a}-1;\ 2^{a}+1\right);\ (x; y)=\left(2^{a}+1;\ 2^{a}-1\right);$
+$(x; y)=\left(2^{a}-1;\ 1\right),\ a$ - naturāls. Pārbaude parāda, ka šīs 
 vērtības tiešām der; $z=2a$ vai $z=3a+1$.
 
-
+]
 
 # <lo-sample/> LV.VOL.2006.11.4
 
 Dots, ka $\triangle ABC$ ir šaurleņķu trijstūris. Riņķa līnija $a$ iet caur $A$
 un $B$ un krusto malas $AC$ un $BC$ attiecīgi punktos $M$ un $N$. Pieskares, 
-kas $a$ novilktas punktos $M$ un $N$, krustojas punktā $O$. Pierādīt: $O$ ir 
-$\Delta CMN$ apvilktās riņķa līnijas centrs tad un tikai tad, ja $AB$ ir $a$ 
+kas $\omega$ novilktas punktos $M$ un $N$, krustojas punktā $O$. Pierādīt: $O$ ir 
+$\Delta CMN$ apvilktās riņķa līnijas centrs tad un tikai tad, ja $AB$ ir $\omega$ 
 diametrs.
 
 <small>
@@ -423,13 +423,13 @@ diametrs.
 
 ## Atrisinājums
 
-**A.** Pieņemsim, ka $AB$ ir $a$ diametrs. Tad $AN$ un $BM$ ir $\triangle ABC$ 
+**A.** Pieņemsim, ka $AB$ ir $\omega$ diametrs. Tad $AN$ un $BM$ ir $\triangle ABC$ 
 augstumi; apzīmēsim $\triangle ABC$ augstumu krustpunktu ar $H$. Pieņemsim, ka 
-pieskare, kas $a$ novilkta punktā $M$, krusto augstumu $CH$ punktā $X$. Tad 
+pieskare, kas $\omega$ novilkta punktā $M$, krusto augstumu $CH$ punktā $X$. Tad 
 $\sphericalangle MCX=90^{\circ}-\sphericalangle A=\sphericalangle ABM=\sphericalangle SMA$
 (ievilkts un hordas - pieskares leņķis) $=\sphericalangle CMX$, tātad 
 $\triangle MXC$ ir vienādsānu. Tātad $X$ atrodas uz $MC$ vidusperpendikula, 
-tātad (pēc Talesa teorēmas) $CH$ viduspunktā. Līdzīgi arī $a$ pieskare, kas 
+tātad (pēc Talesa teorēmas) $CH$ viduspunktā. Līdzīgi arī $\omega$ pieskare, kas 
 novilkta punktā $N$, krusto $CH$ tā viduspunktā, tātad punktā $X$, un $CX=NX$. 
 No $MX=CX=NX$ seko, ka $X$ ir $\Delta CMN$ apvilktās riņķa līnijas centrs.
 
@@ -440,9 +440,11 @@ No $MX=CX=NX$ seko, ka $X$ ir $\Delta CMN$ apvilktās riņķa līnijas centrs.
 $\sphericalangle CMO=\sphericalangle MCO=\sphericalangle ABM$ un 
 $\sphericalangle CNO=\sphericalangle NCO=\sphericalangle NAB$. Tāpēc
 $\sphericalangle ACB=\sphericalangle ABM+\sphericalangle BAN$ un 
-$2 \sphericalangle ANB=\sphericalangle ANB+\sphericalangle AMB=180^{\circ}-\sphericalangle B- ![](LV.VOL.2006.11.4B.png) +180^{\circ}-\sphericalangle A-\sphericalangle=  
-=360^{\circ}-(\sphericalangle A+\sphericalangle B+\sphericalangle C)=180^{\circ}$,
-tāpēc $\sphericalangle ANB=90^{\circ}$ un $AB$ ir $a$ diametrs.
+$2 \sphericalangle ANB=\sphericalangle ANB+\sphericalangle AMB=180^{\circ}-\sphericalangle B-$
+![](LV.VOL.2006.11.4B.png) $+180^{\circ}-\sphericalangle A-$ 
+![](LV.VOL.2006.11.4C.png) 
+$=360^{\circ}-(\sphericalangle A+\sphericalangle B+\sphericalangle C)=180^{\circ}$,
+tāpēc $\sphericalangle ANB=90^{\circ}$ un $AB$ ir $\omega$ diametrs.
 
 
 
@@ -522,10 +524,8 @@ kuras vērtībām ir tādas, kas atšķiras no $0$?
 ## Atrisinājums
 
 **(A)** Ievietojot $x=y=a$, iegūstam $f(a) \leq 2f(a)$, tāpēc $f(a) \geq 0$. 
-Ņemot $x=0;\ y=1$, iegūstam
-
-$0 \leq f\left(\frac{1}{2}\right) \leq f(0)+f(1)=0$ tāpēc 
-$f\left(\frac{1}{2}\right)=0$.
+Ņemot $x=0;\ y=1$, iegūstam $0 \leq f\left(\frac{1}{2}\right) \leq f(0)+f(1)=0$,
+tāpēc $f\left(\frac{1}{2}\right)=0$.
 
 Pieņemsim, ka ir jau pierādīts, ka kādam naturālam $k$ pastāv vienādība 
 $f\left(\frac{1}{2^{k}}\right)=0$. Tad, ņemot $x=0$ un $y=\frac{1}{2^{k}}$, 
@@ -537,8 +537,8 @@ vienādība $f\left(\frac{1}{2^{n}}\right)=0$.
 **(B)** funkcija
 
 $$f(x)=\left\{\begin{array}{l}
-0, \text {ja} x - \text {racionāls skaitlis} \\
-1, \text {ja} x - \text {iracionāls skaitlis}
+0, \text { ja } x - \text {racionāls skaitlis} \\
+1, \text { ja } x - \text {iracionāls skaitlis}
 \end{array}\right.$$
 
 apmierina visas uzdevuma prasības.
@@ -578,7 +578,7 @@ un proporcionālas to ietverošās malas).
 seko, ka 
 $\sphericalangle ISD=\sphericalangle IDC=\sphericalangle IDK=\sphericalangle IKD$.
 Tāpēc $S$ arī atrodas uz $\boldsymbol{\omega}$. Tāpēc 
-$\sphericalangle GSI=\sphericalangleGKI=90^{\circ}$.
+$\sphericalangle GSI=\sphericalangle GKI=90^{\circ}$.
 
 ![](LV.VOL.2006.12.3A.png)
 
@@ -708,4 +708,6 @@ atkārtot, jo sākotnējais (un arī katrs nākošais) cikls var **nesadalīt** 
 divās daļās, un tāpēc nav pamata apgalvot, ka katrs nākošais atrastais cikls 
 ierobežo **mazāku** apgabalu nekā iepriekšējais, tāpēc mūsu aprakstītais 
 meklēšanas process var nekad nebeigties.
+
+![](LV.VOL.2006.12.5B.png)
 
