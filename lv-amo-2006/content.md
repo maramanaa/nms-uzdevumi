@@ -284,15 +284,19 @@ dažādos vagonos, kas pie tam nav blakus viens otram. Cik vietu ir katrā vagon
 
 <small>
 
-* questionType:
-* domain:
+* topic:SeriesMembersSumsClosedFormulas
+* topic:SequenceGaps
+* topic:ExhaustionMethod
+* concepts:sequence
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
 ## Atrisinājums
 
-No $1996$ līdz $2015$ (ieskaitot) ir $20$ naturāli skaitļi, tātad vagonā **ir 
-vismaz** $\mathbf{20}$ **vietas. Starp** tiem vagoniem, kuros ir $630.$ un 
+No $1996$ līdz $2015$ (ieskaitot) ir $20$ naturāli skaitļi, tātad vagonā 
+**ir vismaz** $20$ vietas. Starp tiem vagoniem, kuros ir $630.$ un 
 $652.$ vieta, nav citu vietu kā vien varbūt 
 $631.,\ 632.,\ \ldots,\ 650.,\ 651.$ vieta; to skaits ir $21$. Tātad vagonā nav
 vairāk par $21$ vietu. No izceltajiem apgalvojumiem seko, ka vagonā ir $20$ vai
@@ -300,9 +304,16 @@ $21$ vieta.
 
 Ja tur būtu $20$ vietas, rastos pretruna ar uzdevuma nosacījumiem ($1996.$ 
 vieta būtu simtajā vagonā, bet $2015.$ vieta - simt pirmajā vagonā). Atbilde 
-" $21$ " apmierina abus uzdevuma nosacījumus: $1996.$ un $2015.$ vietas ir 
+"$21$" apmierina abus uzdevuma nosacījumus: $1996.$ un $2015.$ vietas ir 
 $96.$ vagonā, $630.$ vieta - $30.$ vagonā, bet $652.$ vieta $32.$ vagonā (jo 
-$31 \cdot 21=651$ ).
+$31 \cdot 21=651$).
+
+*Piezīme.* Ja pamato, ka vietu skaits $k \in \{ 20,21 \}$. Tad
+$1995$ vai $1994$ jādalās ar $k$, jo ar šo vietu beidzas kārtējais vagons.
+Tas ļauj izlemt par labu $k = 21$. 
+
+
+
 
 
 
@@ -483,16 +494,18 @@ sasniegt, piemēram, šādi: $ADJ,\ AGM,\ ALM,\ DGL,\ DJM,\ GJL$.
 Naturāla skaitļa $x$ ciparu summu apzīmēsim ar $S(x)$. Pieņemsim, ka $n$ - tāds
 naturāls skaitlis, kam vienlaicīgi izpildās īpašības $S(n)=10$ un $S(5n)=5$.
 
-**(A)** atrodiet kaut vienu tādu skaitli,
-
-**(B)** vai tādu skaitļu ir bezgalīgi daudz?
-
+**(A)** atrodiet kaut vienu tādu skaitli,  
+**(B)** vai tādu skaitļu ir bezgalīgi daudz?  
 **(C)** vai kāds no tādiem skaitļiem ir nepāra?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesFor2And4
+* topic:NotationInsert
+* genre:special-numbers,sum-of-digits
+* questionType:FindExample,ProveDisprove,ProveDisprove
+* strategy:TrialAndError
+* domain:NT
 
 </small>
 
@@ -506,6 +519,17 @@ naturāls skaitlis, kam vienlaicīgi izpildās īpašības $S(n)=10$ un $S(5n)=5
 skaitlis, kas beidzas ar ciparu $5$. Ja piedevām $S(5n)=5$, tad skaitlim $5n$ 
 nav citu ciparu kā pēdējais cipars, tātad $5n=5$ un $n=1$, bet $n=1$ 
 neapmierina uzdevuma nosacījumus.
+
+
+
+## Atrisinājums
+
+Uzminēts piemērs (pāru cipari divreiz samazinās, ja reizina ar $5$).
+
+**(A)** $22222$ der  
+**(B)** Var $22222$ vidū iespraust $0$ (arī $64\cdot 10^k$ der).   
+**(C)** Ja $n$ nepāra, $5n$ beigtos ar $5$, nav iespējams, jo $n \neq 1$. 
+
 
 
 
@@ -578,8 +602,9 @@ dalās ar $8$?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum,divisibility
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -709,8 +734,9 @@ lielāks par $1$?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,gcd
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -796,8 +822,8 @@ Noskaidrojiet $x,\ y,\ z$ un $t$ vērtības.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -927,8 +953,9 @@ $\sqrt{d}-\sqrt{a} \leq 1$. Pierādīt, ka $a$ ir vesela skaitļa kvadrāts.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:square-Alg
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1083,8 +1110,9 @@ dalītāju, kas dod atlikumu $2$, dalot ar $3$?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,divisors,remainder
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 

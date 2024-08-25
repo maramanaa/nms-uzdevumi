@@ -266,8 +266,10 @@ pierakstu?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2007.7.1
+* concepts:primes
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -288,8 +290,11 @@ būt, ka ne $x$, ne $y$ nesatur savā pierakstā nevienu ciparu $0$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesLastDigits
+* topic:StandardIdentities
+* concepts:decimal-notation
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -439,8 +444,12 @@ $a_{1}+a_{2}+\ldots+a_{k}=n \cdot\left(\frac{1}{a_{1}}+\frac{1}{a_{2}}+\ldots+\f
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisorNumberAndSum
+* topic:IntegerFactorization
+* topic:TelescopicSums
+* concepts:primes,series
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -451,6 +460,9 @@ $n$ naturālos dalītājus augošā secībā ar $a_{1}<a_{2}<\ldots<a_{k}$. Tad
 $\frac{n}{a_{1}}, \frac{n}{a_{2}}, \ldots, \frac{n}{a_{k}}$ ir visi $n$ 
 naturāli dalītāji dilstošā secībā. No šejienes seko vajadzīgais, jo summa 
 nemainās, mainot saskaitāmo kārtību.
+Piemēram, 
+
+$$1+3+9 = 9 \cdot \left( \frac{1}{1} + \frac{1}{3} + \frac{1}{9} \right). $$
 
 
 
@@ -519,8 +531,8 @@ gadīties, ka tieši $23$ no šiem skaitļiem (ne vairāk un ne mazāk) dalās a
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -597,8 +609,9 @@ grupai. Kāds ir mazākais iespējamais grupu skaits?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:groups
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -661,8 +674,10 @@ ar $10\ 000\ 001$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2007.10.1
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -745,8 +760,8 @@ gājieniem.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -836,8 +851,9 @@ Atrast visas tādas funkcijas $f$ un pierādīt, ka citu bez Jūsu atrastajām n
 
 <small>
 
-* questionType:
-* domain:
+* concepts:function,equation
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -878,15 +894,15 @@ iespējas.
 Dots, ka $n$ - naturāls skaitlis. Noskaidrojiet:
 
 **(A)** vai var gadīties, ka skaitlim $n^{2}-1$ ir tieši $10$ dažādi naturāli 
-dalītāji?
-
+dalītāji?  
 **(B)** vai var gadīties, ka skaitlim $n^{2}-4$ ir tieši $10$ dažādi naturāli 
 dalītāji, ja $n$ - pāra skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisors
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1030,17 +1046,15 @@ Iespējami ļoti daudzi citi risinājumi.
 Kādiem naturāliem $n$ skaitļu kopu $\{1; 2; 3; \ldots; n\}$ var sadalīt divās 
 daļās tā, lai vienlaicīgi izpildītos šādi nosacījumi:
 
-**(A)** katrs skaitlis nonāktu tieši vienā daļā,
-
-**(B)** abās daļās būtu vienāds daudzums skaitļu,
-
-**(C)** katras daļas visu skaitļu vidējais aritmētiskais arī piederētu šai 
-daļai?
+a. katrs skaitlis nonāktu tieši vienā daļā,  
+b. abās daļās būtu vienāds daudzums skaitļu,  
+c. katras daļas visu skaitļu vidējais aritmētiskais arī piederētu šai daļai?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:arithmetic-mean
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1107,8 +1121,9 @@ pārējiem skaitļiem?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,square-Alg
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
