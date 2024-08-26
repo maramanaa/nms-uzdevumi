@@ -19,16 +19,15 @@ $(x-y)(x+y)=2007(x-y)$. Tā kā $x \neq y$, tad no šejienes seko $x+y=2007$.
 # <lo-sample/> LV.VOL.2007.9.2
 
 **(A)** Vai var gadīties, ka katram no kvadrātvienādojumiem $x^{2}+px+q=0$, 
-$x^{2}+(p+1)x+(q+1)=0$ un $x^{2}+(p+2)x+(q+2)=0$ abas saknes ir veseli skaitļi?
-
+$x^{2}+(p+1)x+(q+1)=0$ un $x^{2}+(p+2)x+(q+2)=0$ abas saknes ir veseli skaitļi?  
 **(B)** Vai var gadīties, ka bez tam arī vēl katram no kvadrātvienādojumiem 
 $x^{2}+(p-1)x+(q-1)=0$ un $x^{2}+(p-2)x+(q-2)=0$ abas saknes ir veseli skaitļi?
 (Saknes var būt arī vienādas.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -120,8 +119,8 @@ no $1$ līdz $81$ (katrā rūtiņā - citu skaitli) tā, lai izpildītos tāda p
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -146,14 +145,13 @@ pirmskaitļu pavisam ir $10$, un tie jāizvieto $9$ vietās - pretruna.
 Vai eksistē tādi naturāli skaitļi $x$ un $y$, ka izteiksmes $x^{2}-y^{2}-x+y$ 
 vērtība ir
 
-**(A)** $10$,
-
+**(A)** $10$,  
 **(B)** $2007$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -208,8 +206,8 @@ $$\frac{1}{x(2) \cdot y(2)}+\frac{1}{x(3) \cdot y(3)}+\frac{1}{x(4) \cdot y(4)}+
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -278,19 +276,18 @@ $OX+OY+OZ=OX+OR+SZ=AS+ZC+SZ=AC$, k.b.j.
 # <lo-sample/> LV.VOL.2007.10.5
 
 Uz papīra lapas uzrakstīti $n$ dažādi naturāli skaitļi, kas nepārsniedz $14$. 
-Ir zināms: katru no naturāliem skaitļiem $1;2;3;...;27$ var izsacīt vai nu kā 
+Ir zināms: katru no naturāliem skaitļiem $1;2;3;\ldots;27$ var izsacīt vai nu kā 
 $x$, vai kā $2x$, vai kā $x+y$, kur $x$ un $y$ - kaut kādi uzrakstītie skaitļi.
 
 Pierādīt, ka
 
-**(A)** $n \geq 6$,
-
+**(A)** $n \geq 6$,  
 **(B)** $n \geq 7$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Comb
 
 </small>
 
@@ -318,14 +315,13 @@ $1+5$, gan kā $2 \cdot 3$ - pretruna.
 
 Dots, ka $n$ - naturāls skaitlis.
 
-**(A)** vai skaitļiem $n$ un $n+2007$ ciparu summas var būt vienādas?
-
+**(A)** vai skaitļiem $n$ un $n+2007$ ciparu summas var būt vienādas?  
 **(B)** vai skaitļiem $n$ un $n+199$ ciparu summas var būt vienādas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -434,17 +430,15 @@ $\frac{a_{n+3}-a_{n+2}}{a_{n}-a_{n+1}}=\frac{a_{n+3}+a_{n+2}}{a_{n}+a_{n+1}}$.
 
 Pierādīt, ka
 
-**(A)** neviens virknes loceklis nav $0$,
-
-**(B)** virkne ir periodiska,
-
+**(A)** neviens virknes loceklis nav $0$,  
+**(B)** virkne ir periodiska,  
 **(C)** $a_{1}^{k}+a_{2}^{k}+\ldots+a_{100}^{k}$ ir naturāla skaitļa kvadrāts, 
 ja $k$ - patvaļīgs naturāls skaitlis.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove,Prove
+* domain:Alg
 
 </small>
 
@@ -667,14 +661,13 @@ daļām atradīsies tāda, kas satur jebkura naturāla skaitļa daudzkārtņi?
 
 Atbildēt uz šo jautājumu, ja
 
-**(A)** daļu ir galīgs daudzums,
-
+**(A)** daļu ir galīgs daudzums,  
 **(B)** daļu ir bezgalīgi daudz.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 

@@ -5,8 +5,8 @@ skaitlis, kas dalās gan ar $x$, gan ar $y$, nav $x+y$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -163,8 +163,8 @@ ciparus, iegūst $\sqrt[3]{x}$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -192,8 +192,8 @@ $n=[x, y]+[y, z]+[z, x]$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -319,8 +319,8 @@ $$|\ldots|||x-1|-10|-10^{2}\left|-\ldots-10^{2007}\right|=10^{2008}$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -340,13 +340,13 @@ $x_{2}=\underbrace{-11 \ldots 109}_{2007}$.
 # <lo-sample/> LV.VOL.2008.11.3
 
 Dots, ka $n$ - naturāls skaitlis un skaitļa $n^{2}$ decimālajā pierakstā viens
-cipars ir " $2$ ", bet pārējie cipari ir " $1$ ". Pierādit, ka $n$ dalās ar 
+cipars ir "$2$", bet pārējie cipari ir "$1$". Pierādīt, ka $n$ dalās ar 
 $11$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -480,8 +480,8 @@ $x^{2}+(x+1)^{2}=y^{2}$, ja $x \leq 200$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 

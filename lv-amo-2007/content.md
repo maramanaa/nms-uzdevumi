@@ -326,8 +326,13 @@ pierakstu?
 
 <small>
 
-* questionType:
-* domain:
+* topic:HamiltonCircuits
+* topic:PrimesDistribution
+* genre:optimization
+* concepts:primes
+* questionType:FindOptimal
+* seeAlso:LV.AMO.2008.7.2
+* domain:NT
 
 </small>
 
@@ -340,6 +345,16 @@ pirmskaitļi. Tātad nedrīkst rakstīt arī $9$. Ciparus $1;\ 3;\ 7$ var izraks
 jebkurā secībā.
 
 **Atbilde:** $3$ ciparus.
+
+
+
+## Atrisinājums
+
+Meklējam ciklu grafā: Iespējamie pāri $(1,3)$, $(1,7)$, $(3,7)$, 
+$(7,9)$. Četru ciparu cikla nav, jo ciparam $9$ ir tikai viens kaimiņš. 
+
+Tādēļ garākais ir trīs ciparu cikls $1-3-7-1$.
+
 
 
 
@@ -381,8 +396,12 @@ spēlēts pietiekoši ilgi).
 
 <small>
 
-* questionType:
-* domain:
+* topic:SequenceGaps
+* topic:InfiniteDescent
+* concepts:decimal-notation,divisibility,sum-of-digits
+* genre:game
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -526,8 +545,12 @@ $1716$. Kādu skaitli viņa iedomājās sākumā?
 
 <small>
 
-* questionType:
-* domain:
+* topic:CanonicalFactorization
+* topic:NumTheoryInequalityMethod
+* concepts:decimal-notation
+* genre:digit-manipulation
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -629,8 +652,9 @@ gadīties, ka tieši $19$ no šiem skaitļiem (ne vairāk un ne mazāk) dalās a
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -694,8 +718,9 @@ $$(f(x))^{2}+(g(x))^{2}=\left(x^{2}+1\right)\left(x^{2}+4\right)\left(x^{2}+2x+2
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum,square-Alg,equation
+* questionType:Prove,FindExample
+* domain:NT
 
 </small>
 
@@ -780,8 +805,10 @@ $1\ 000\ 001$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2008.10.1
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
