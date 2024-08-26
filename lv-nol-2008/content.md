@@ -16,7 +16,7 @@ $$\mathbf{123456789=19}$$
 
 ## Atrisinājums
 
-"-" zīmes var likt pirms $4$ un $9;\ 5$ un $8;\ 6$ un $7$. Starp citu, tās ir 
+"-" zīmes var likt pirms $4$ un $9$; $5$ un $8$; $6$ un $7$. Starp citu, tās ir 
 vienīgās iespējas (tas bērniem nav jāpamato).
 
 
@@ -26,8 +26,7 @@ vienīgās iespējas (tas bērniem nav jāpamato).
 Vai var pa apli izrakstīt naturālos skaitļus no $1$ līdz $10$ katru tieši vienu
 reizi tā, lai katru divu blakus uzrakstītu skaitļu starpība būtu:
 
-**(A)** vismaz $4$,
-
+**(A)** vismaz $4$,  
 **(B)** vismaz $5$?
 
 <small>
@@ -272,14 +271,24 @@ $x=a^{3},\ y=b^{4},\ a$ un $b$ - naturāli skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2007.7.1
+* seeAlso:LV.NOL.2009.7.1
+* topic:BezoutIdentity
+* topic:CanonicalFactorization
+* topic:StandardIdentities
+* questionType:FindAll
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
 Jebkuru: $n=\left(n^{3}\right)^{3}:\left(n^{2}\right)^{4}$.
+
+*Piezīme:* Katru pirmskaitļa pakāpi $p^k$ skaitļa $n$ sadalījumā 
+var izteikt $p^{3c}/p^{4d}$ kaut kādiem naturāliem $c,d$. Piemēram, 
+$n = n^{9}/n^{8} = (n^3)^3/(n^2)^4$.
+
 
 
 
@@ -318,8 +327,11 @@ vidējais svars ir $71~\mathrm{kg}$. Pierādīt, ka cīkstoņu skaits dalās ar 
 
 <small>
 
-* questionType:
-* domain:
+* topic:BaricenterCoordinates
+* topic:NumTheoryInequalityMethod
+* topic:IntegerFactorization
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -329,6 +341,10 @@ Ja cīkstoņu ir $c$ un vingrotāju - $v$, tad cīkstoņu kopsvars ir $84c$ un
 vingrotāju kopsvars - $54v$. Tāpēc $\frac{84c+54v}{c+v}=71$, no kurienes 
 iegūstam $13c=17v$. Tātad $13c$ dalās ar $17$. Tā kā $LKD(13;\ 17)=1$, tad $c$ 
 dalās ar $17$.
+
+*Piezīme.* Lai $71$ būtu līdzsvara punkts (smaguma centrs) 
+starp $84k$ un $54m$, attiecībai $k/m$ jābūt 
+$17/13$ un $\text{LKD}(13,17)=1$.
 
 
 
@@ -397,8 +413,10 @@ laimīgi. Pierādīt, ka viens no tiem dalās ar $10$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:SequenceGaps
+* topic:InvariantParity
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -407,6 +425,8 @@ laimīgi. Pierādīt, ka viens no tiem dalās ar $10$.
 Ja mazākā laimīgā skaitļa pēdējais cipars nav $9$, tad abu skaitļu ciparu 
 summas ir viens otram sekojoši naturāli skaitļi; tāpēc viena no tām ir nepāra -
 pretruna.
+
+*Piezīme.* Palielinot skaitli par $1$ bez pārnesuma, tā ciparu summas paritāte mainās par $1$.
 
 
 
@@ -652,8 +672,10 @@ kā $17$ pēc kārtas ņemtu naturālu skaitļu summu.
 
 <small>
 
-* questionType:
-* domain:
+* topic:GcdAndLcmProperties
+* topic:SeriesArithmeticSum
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -666,6 +688,8 @@ pāriem savstarpēji pirmskaitļi, tam jādalās ar $15 \cdot 17 \cdot 8=2040$.
 Mazākais naturālais skaitlis, kas dalās ar $2040$, ir $2040$. Viegli pārbaudīt,
 ka visi $15\ (16;\ 17)$ saskaitāmie iznāk naturāli skaitļi (šī pārbaude 
 nepieciešama).
+
+
 
 
 
@@ -868,8 +892,8 @@ daudzumu nuļļu var beigties skaitlis $f(n)$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -961,9 +985,9 @@ Cik ir labu virkņu? Atbilde jādod decimālā pierakstā.
 Padomāsim kā šādu virkni uzrakstīt. Vispirms uzrakstīsim 
 $1;\ 2;\ 3;\ 4;\ 5;\ 6$; augošā secībā. Skaitļus $7;\ 8;\ 9;\ 10$ jāieraksta 
 vai nu intervālos starp šiem skaitļiem, vai pirms vai pēc visiem. No šīm 
-iespējām skaitlim " $7$ " atvēlētas tikai sešas - to nevar rakstīt aiz " $6$ ".
-Pēc tam skaitļu " $8$ " ierakstīšanai ir astoņas vietas, " $9$ " 
-ierakstīšanai - deviņas vietas un " $10$ " ierakstīšanai - $10$ vietas. Tāpēc 
+iespējām skaitlim "$7$" atvēlētas tikai sešas - to nevar rakstīt aiz "$6$".
+Pēc tam skaitļu "$8$" ierakstīšanai ir astoņas vietas, "$9$" 
+ierakstīšanai - deviņas vietas un "$10$" ierakstīšanai - $10$ vietas. Tāpēc 
 meklējamo virkņu ir $6 \cdot 8 \cdot 9 \cdot 10=4320$.
 
 
@@ -972,15 +996,14 @@ meklējamo virkņu ir $6 \cdot 8 \cdot 9 \cdot 10=4320$.
 
 Kādiem naturāliem skaitļiem $n$ vienlaicīgi piemīt sekojošas īpašības:
 
-**(A)** $n-1$ un $n+1$ ir pirmskaitļi,
-
-**(B)** skaitļa $n$ visu naturālo dalītāju summa (ieskaitot $1$ un $n$) ir 
-$2n$?
+a. $n-1$ un $n+1$ ir pirmskaitļi,  
+b. skaitļa $n$ visu naturālo dalītāju summa (ieskaitot $1$ un $n$) ir $2n$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2007.12.3
+* questionType:FindAll
+* domain:NT
 
 </small>
 

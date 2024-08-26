@@ -290,14 +290,25 @@ $x=a^{5},\ y=b^{3}$, $a$ un $b$ - naturāli skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2008.7.1
+* seeAlso:LV.NOL.2009.7.1
+* topic:BezoutIdentity
+* topic:CanonicalFactorization
+* topic:StandardIdentities
+* questionType:FindAll
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
 Jebkuru: $n=n^{10}:n^{9}=\left(n^{2}\right)^{5}:\left(n^{3}\right)^{3}$
+
+*Piezīme:* Ievērojam, ka jebkuru pirmskaitļa pakāpi $p^k$ skaitļa $n$ 
+sadalījumā var izteikt $p^{5c}/p^{3d}$ kaut kādiem naturāliem $c,d$. 
+Piemēram, $n^1 = n^{10}/n^{9} = (n^2)^5/(n^3)^3$; kāpinot to, var iegūt 
+visas augstākās pakāpes.
+
 
 
 
@@ -360,8 +371,10 @@ Kuri naturālie skaitļi ir vienādi ar trīs savu dažādu pozitīvu dalītāju
 
 <small>
 
-* questionType:
-* domain:
+* topic:IntegerFactorization
+* topic:NumTheoryInequalityLargeIntervals
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -499,8 +512,10 @@ kārtas ņemtiem naturāliem skaitļiem.
 
 <small>
 
-* questionType:
-* domain:
+* topic:MultiplesInInterval
+* topic:GcdAndLcm
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -513,6 +528,18 @@ kā šie skaitļi ir pa pāriem savstarpēji pirmskaitļi, tad $A$ jādalās ar 
 reizinājumu $5 \cdot 7 \cdot 8 \cdot 9 \cdot 11=27720$. Tātad $A \geq 27720$. 
 Skaidrs, ka skaitlis $27720$ dalās ar $1;\ 2;\ 3;\ \ldots;\ 11;\ 12$. Tātad 
 meklējamais skaitlis ir $27720$.
+
+## Atrisinājums
+
+Apzīmējam ar $M$ mazāko skaitli, kas dalās ar $12$ pēc kārtas sekojošiem $\mathbb{N}$ 
+elementiem.
+
+* Skaitlis, kas dalās ar $k$, $k+1$, $\ldots$, $k+11$, dalās arī ar $1,2,\ldots,12$. 
+  Šo skaitļu mazākais kopīgais dalāmais ir $8\cdot 9\cdot 5\cdot 7\cdot 11 = 27720$, tātad $M \geq 27720$. 
+* Tieši $M =  8\cdot 9\cdot 5\cdot 7\cdot 11 = 27720$ dalās ar $12$ pēc kārtas ņemtiem 
+  skaitļiem (no $1$ līdz $12$). Tātad $M \leq 27720$.
+
+
 
 
 
@@ -642,14 +669,13 @@ Kvadrāts sastāv no $10 \times 10$ rūtiņām. Katrā rūtiņā ierakstīts nat
 skaitlis, kas nepārsniedz $10$. Ja divām rūtiņām ir kopēja mala vai kopējs 
 stūris, tad tajās ierakstīto skaitļu lielākais kopīgais dalītājs ir $1$.
 
-**(A)** pierādīt, ka kāds skaitlis ierakstīts vismaz $15$ rūtiņās,
-
+**(A)** pierādīt, ka kāds skaitlis ierakstīts vismaz $15$ rūtiņās,  
 **(B)** pierādīt, ka kāds skaitlis ierakstīts vismaz $17$ rūtiņās.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:NT
 
 </small>
 
@@ -737,14 +763,13 @@ kvadrātos ar nepāra skaitu rūtiņu katrā un izmanto sākumā minēto krāsoj
 Sauksim naturālu skaitli $n>1$ par labu, ja visus tā pozitīvos dalītājus var 
 sadalīt divās daļās, kuru summas ir vienādas.
 
-**(A)** atrodiet kaut vienu labu skaitli, kas lielāks par $10$,
-
+**(A)** atrodiet kaut vienu labu skaitli, kas lielāks par $10$,  
 **(B)** vai eksistē labi skaitļi, kas lielāki par $20072007$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -820,8 +845,8 @@ $$x^{2}+3x=2^{y}$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1019,15 +1044,14 @@ paliks izslēgta.
 
 Kādiem naturāliem skaitļiem $n$ vienlaicīgi piemīt sekojošas īpašības:
 
-**(A)** $n-1$ un $n+1$ ir pirmskaitļi,
-
-**(B)** skaitļa $n$ visu naturālo dalītāju summa (ieskaitot $1$ un $n$) ir 
-$2n$?
+a. $n-1$ un $n+1$ ir pirmskaitļi,  
+b. skaitļa $n$ visu naturālo dalītāju summa (ieskaitot $1$ un $n$) 
+   ir $2n$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 

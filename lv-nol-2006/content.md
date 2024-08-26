@@ -361,8 +361,10 @@ Kuri naturālie skaitļi ir vienādi ar trīs savu dažādu pozitīvu dalītāju
 
 <small>
 
-* questionType:
-* domain:
+* topic:IntegerFactorization
+* topic:NumTheoryInequalityLargeIntervals
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -423,14 +425,19 @@ operāciju palīdzību. Atrast $A$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:CompletingSquare
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
 ## Atrisinājums
 
 $x^{4}+64=\left(x^{2}-4x+8\right)\left(x^{2}+4x+8\right)$.
+
+*Piezīme:* Kreisajai pusei var pieskaitīt un atņemt $16x^2$, tad atdalīt pilno kvadrātu
+un dalīt reizinātājos pēc kvadrātu starpības formulas.
+
 
 
 
@@ -476,8 +483,10 @@ ar $4$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:PeriodicRemainders
+* topic:CongruenceClasses
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -489,6 +498,9 @@ $4$. Tātad skaitļiem, kas rindā atrodas $1.,\ 4.,\ 7.,\ 11.,\ \ldots,\ 2005.$
 vietā, jādod vienādi atlikumi, dalot ar $4$; šo vietu ir $668$. Bet skaitļiem 
 no $1$ līdz $2006$ ieskaitot, dalot tos ar $4$, atlikumi $1$ un $2$ ir $502$ 
 reizes, bet atlikumi $3$ un $0$ - $501$ reizi.
+
+*Piezīme:* Atlikumi, dalot ar $4$ šādā virknē atkārtosies ar periodu $3$, 
+t.i. viens no atlikumiem neparādīsies vispār.
 
 
 
@@ -678,8 +690,8 @@ Kuri naturālie skaitļi $x$ apmierina vienlaicīgi visas sekojošās prasības:
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -708,8 +720,8 @@ spēlējot?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -742,8 +754,8 @@ cipari veido pirmskaitli, un visi šie $11$ pirmskaitļi ir dažādi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -928,8 +940,8 @@ ar kuru dalās tieši viens no šiem skaitļiem.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1068,8 +1080,8 @@ Vai zēni nesarunājoties var noskaidrot, kādi skaitļi ir uz viņu pierēm?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1173,8 +1185,8 @@ naturālu dalītāju?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1233,8 +1245,9 @@ Kurām $n$ vērtībām, beidzot šīs darbības, visas spuldzes būs ieslēgtas?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2007.12.2
+* questionType:FindAll
+* domain:NT
 
 </small>
 
