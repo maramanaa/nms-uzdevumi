@@ -18,7 +18,7 @@ tā, lai katru divu blakus uzrakstītu skaitļu starpība būtu vismaz $10$?
 
 ## Atrisinājums
 
-**(A)** $j$ ā, var; piemēram,
+**(A)** jā, var; piemēram,
 
 $$\mathbf{11,\ 1,\ 12,\ 2,\ 13,\ 3,\ 14,\ 4,\ 15,\ 5,\ 16,\ 6,\ 17,\ 7,\ 18,\ 8,\ 19,\ 9,\ 20,\ 10}$$
 
@@ -141,7 +141,7 @@ skaitu kilometru.
 
 # <lo-sample/> LV.NOL.2005.6.1
 
-Kvadrāts sastāv no $3 \times 3$ rūtiņām. Katrā rūtinā ierakstīts kaut kāds 
+Kvadrāts sastāv no $3 \times 3$ rūtiņām. Katrā rūtiņā ierakstīts kaut kāds 
 naturāls skaitlis (starp tiem var būt arī vienādi). Visās rindās un visās 
 kolonnās ierakstīto skaitļu summas ir dažādas. Kāda ir mazākā iespējamā visā 
 tabulā ierakstīto skaitļu summa?
@@ -189,7 +189,7 @@ Vai tas iespējams, ja **(A)** $n=2004$, **(B)** $n=2005$?
 **(A)** jā; piemēram, patiesie rūķīši un meļi stāv pamīšus.
 
 **(B)** nē. Sanumurēsim nūķīšus pēc kārtas ar numuriem 
-$1;\ 2;\ 3;\ \ldots;\ 2005$. Ja $1.$ rūķīis ir patiess, tad otrais ir melis, 
+$1;\ 2;\ 3;\ \ldots;\ 2005$. Ja $1.$ rūķītis ir patiess, tad otrais ir melis, 
 trešais - patiess, ceturtais - melis, $\ldots$, $2005$-ais - patiess, pirmais -
 melis. Iegūta pretruna. Līdzīgi iegūst pretrunu, ja $1.$ rūķītis ir melis.
 
@@ -425,7 +425,7 @@ dažādu masu monētas. Ja līdzsvars ir, visām monētām ir vienādas masas.
 
 # <lo-sample/> LV.NOL.2005.8.1
 
-Ir zināms, ka skaitļa $2^{100}$ decimālajā pierakstā ir 431$ cipars. Cik 
+Ir zināms, ka skaitļa $2^{100}$ decimālajā pierakstā ir $431$ cipars. Cik 
 daudziem no skaitļiem $2^{1};\ 2^{2};\ 2^{3};\ \ldots;\ 2^{99};\ 2^{100}$ 
 decimālais pieraksts sākas ar ciparu $1$?
 
@@ -602,7 +602,7 @@ $1;\ 2;\ 3;\ 4;\ 5;\ 6;\ 7;\ 9$, izmantojot katru no tiem tieši vienu reizi?
 Šādi pirmskaitļi var būt, piemēram, $23;\ 41;\ 59;\ 67$. To summa ir $190$. Tā 
 nevar būt citāda, jo cipari $2;\ 4;\ 5;\ 6$ nevar būt saskaitāmo pirmskaitļu 
 vienu cipari; tāpēc tie ir desmitu cipari, un meklējamā summa noteikti ir 
-$10(2+4+5+6)+(1+3+7+9)==10 \cdot 17+20=190$
+$10(2+4+5+6)+(1+3+7+9)=10 \cdot 17+20=190$
 
 
 
@@ -774,7 +774,7 @@ $$f(a+b)=f(c+d+e),\ f(a+b+c)=f(d+e),\ f(e)=f(a+b+c+d)?$$
 
 Tā kā katras malas garums ir mazāks par visu citu malu garumu summu, tad 
 $a \neq b+c+d+e$. Kvadrātvienādojuma grafika simetrijas dēļ 
-$f\left(x_{1}\right)=f\left(x_{2}\right)$ (kur $x_{1} \AA_{2}$) tad un tikai 
+$f\left(x_{1}\right)=f\left(x_{2}\right)$ (kur $x_{1} \neq x_{2}$) tad un tikai 
 tad, ja $\frac{x_{1}+x_{2}}{2}=x_{0}$, kur $x_{0}$ - parabolas virsotnes 
 abscisa. No dotā seko, ka $a+b+c+d+e=2x_{0}$. No tā savukārt seko visas 
 vajadzīgās vienādības.
@@ -1031,7 +1031,7 @@ priekšā, tad savstarpēju simpātiju nav.
 
 # <lo-sample/> LV.NOL.2005.12.1
 
-Atrisināa pozitīvos skaitļos vienādojumu
+Atrisināt pozitīvos skaitļos vienādojumu
 
 $$\frac{1}{x+\frac{1}{x^{2}+\frac{1}{x^{3}+\frac{1}{x^{4}}}}}=\frac{1}{1+\frac{1}{x^{3}+\frac{1}{x^{2}+\frac{1}{x^{5}}}}}-\frac{1}{x^{2}+\frac{1}{x+\frac{1}{x^{4}+\frac{1}{x^{3}}}}}$$
 
@@ -1184,7 +1184,7 @@ jeb $16L^{2}=x(x-2a)(x-2b)(x-2c)$
 Tā kā $16L^{2}$ ir pāra skaitlis, tad arī $x$ ir pāra skaitlis. Šķirojam divas 
 iespējas:
 
-1) visi $a,\ b,\ c$ ir pāra skaitli; tad $a=b=c=2$ un 
+1) visi $a,\ b,\ c$ ir pāra skaitļi; tad $a=b=c=2$ un 
    $L=\frac{\sqrt{3}}{4} \cdot 2^{2}=\sqrt{3} \notin N$.
 2) viens no skaitļiem $a,\ b,\ c$ ir pāra skaitlis, bet divi - nepāra. Varam 
    pieņemt, ka $a$ pāra skaitlis; tad $a=2$. Ja $b \neq c$, varam pieņemt, ka 
