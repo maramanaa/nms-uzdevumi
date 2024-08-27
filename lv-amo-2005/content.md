@@ -138,9 +138,8 @@ Nē, ne noteikti. Skat. Zīm.
 
 # <lo-sample/> LV.AMO.2005.6.1
 
-Kurš no skaitļiem  
-$200420042004 \times 20052005$ un $200520052005 \times 20042004$  
-ir lielāks?
+Kurš no skaitļiem $200420042004 \times 20052005$ un 
+$200520052005 \times 20042004$ ir lielāks?
 
 <small>
 
@@ -229,7 +228,7 @@ visas vienādas savā starpā.
 To monētu kopējam svaram gramos, kuras katra sver $5~\mathrm{g}$, jādalās ar 
 $6$. Tāpēc to skaitam jādalās ar $6$, un tās var apvienot kaudzītēs pa $6$, kas
 katra sver $30~\mathrm{g}$. Līdzīgi iegūstam, ka $6~\mathrm{g}$ smagās monētas 
-var apvienot kaudzītēs pa $5$, kas katra sver $30~\mathrm{g}$. Kaudzīsu pavisam
+var apvienot kaudzītēs pa $5$, kas katra sver $30~\mathrm{g}$. Kaudzīšu pavisam
 ir $600~\mathrm{g}:30~\mathrm{g}=20$. Apvienojot tās $10$ pāros, iegūstam $10$ 
 kaudzes, kas katra sver $60~\mathrm{g}$.
 
@@ -350,7 +349,7 @@ veikt, kā redzams tabulā (rūtiņās ierakstīti pankūku kārtas numuri):
 ![](LV.AMO.2005.7.3A.png)
 
 $\underline{Piezīme:}$ veidojot šādu tabulu, jāseko, lai katrā kolonnā visi 
-skaitļi būtu dažādi, jo vieu pankūku nevar reizē apcept no abām pusēm.
+skaitļi būtu dažādi, jo vienu pankūku nevar reizē apcept no abām pusēm.
 
 
 
@@ -541,7 +540,7 @@ $\sphericalangle YDA=60^{\circ}$ un
 $\sphericalangle YDC=180^{\circ}-60^{\circ}-60^{\circ}=60^{\circ}$; arī 
 $\sphericalangle MDC=60^{\circ}$, jo $\sphericalangle MDC=\sphericalangle ADB$.
 
-Tātad $\triangle MDC=\triangle YDC\ (\ell m \ell)$, tāpēc YD=MD$. Tā kā 
+Tātad $\triangle MDC=\triangle YDC\ (\ell m \ell)$, tāpēc $YD=MD$. Tā kā 
 $YD=BD$, tad $MD=BD$, t.i., $\triangle MDB$ - vienādsānu. Tā kā 
 $\sphericalangle MDB=180^{\circ}-60^{\circ}=120^{\circ}$, tad 
 $\sphericalangle \mathbf{MBC}=\frac{\mathbf{1}}{\mathbf{2}}\left(\mathbf{180}^{\circ}-\mathbf{120}^{\circ}\right)=\mathbf{30}^{\circ}$.
@@ -1086,7 +1085,7 @@ stūru, tad šīs korekcija "samazina" laukumu par $1$.
 Atliek pamatot, ka domino skaits ciklā ir pāra skaitlis. Tā kā līnija $L$ ir 
 slēgta, tad, apstaigājot to, pa labi virzāmies tikpat lielu attālumu, cik pa 
 kreisi. Tā kā katra $L$ posma garums ir pāra skaitlis, tad horizontālo posmu 
-kopgarums dalās ar $4.$ tas pats attiecas uz vertikālajiem posmiem. Tāpēc $L$ 
+kopgarums dalās ar $4$. Tas pats attiecas uz vertikālajiem posmiem. Tāpēc $L$ 
 kopgarums dalās ar $4$. Katra domino iekšienē $L$ garums ir tieši $2$, tātad 
 domino skaits ir pāra skaitlis.
 
@@ -1245,7 +1244,7 @@ Divi spēlētāji spēlē sekojošu spēli, izdarot gājienus pēc kārtas. Sāk
 divi stieņi: viens ar garumu $n$, otrs ar garumu $n+1$ ($n$ - pozitīvs vesels 
 skaitlis). Ar vienu gājienu var vai nu salauzt vienu stieni divos īsākos, kuru 
 garumi ir pozitīvi veseli skaitļi, vai arī izslēgt no turpmākās spēles gaitas 
-$k$ stienus, katram no kuriem garums ir $k$ ($k$ - jebkurš vesels pozitīvs 
+$k$ stieņus, katram no kuriem garums ir $k$ ($k$ - jebkurš vesels pozitīvs 
 skaitlis). Spēlētājs, kurš izdara pēdējo gājienu, uzvar.
 
 Kurš spēlētājs uzvar, pareizi spēlējot?
