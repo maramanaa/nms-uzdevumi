@@ -53,7 +53,7 @@ $A$ galā skaitli $B$.
 
 **(C)** Apzīmēsim patvaļīga naturāla skaitļa $X$ ciparu summu ar $S(X)$. Tā kā 
 $A=\underbrace{B+B+B}_{7\ reies}$, tad, reizinot skaitli $B$ ar $7$, rodas 
-pārnesumi (citādi būtu $S(A)=7 \cdot S(B)$). Tāpēc 
+pārnesumi (citādi būtu $S(A)=7 \cdot S(B)$ ). Tāpēc 
 $2 \cdot S(B)=S(A)=7 \cdot S(B)-9 \cdot k$ ($k$ - pārnesumu skaits). Iegūstam 
 $5 \cdot S(B)=9 \cdot k$, tātad $S(B)$ dalās ar $9$. Tāpēc 
 $S(C)=S(A)+S(B)=2S(B)+S(B)=3S(B)$ arī dalās ar $9$; tāpēc $C$ dalās ar $9$.
@@ -550,7 +550,7 @@ paralēli $ABC$ malām.
 
 # <lo-sample/> LV.VOL.2005.12.3
 
-Pa riņķa līniju izrakstīti naturāli skaițli no $1$ līdz $n$ ieskaitot, katrs 
+Pa riņķa līniju izrakstīti naturāli skaitļi no $1$ līdz $n$ ieskaitot, katrs 
 vienu reizi. Katriem diviem blakus uzrakstītiem skaitļiem atrodam to starpības 
 absolūto vērtību. Atrast šo absolūto vērtību summas mazāko un lielāko iespējamo
 vērtību.
@@ -689,7 +689,7 @@ $A_{5}A_{6}A_{7}A_{8}$ ir krāsā $0$, nogaidām. Ja nē, apskatām
 $A_{4}A_{5}~A_{6}A_{7}$. Pēc 1.lemmas varam panākt, ka $A_{4}A_{5}A_{6}A_{7}$ 
 ir krāsā $0$. Līdzīgi pievienojot pa $3$ virsotnēm, iegūstam, ka 
 $A_{1}A_{2} \ldots A_{997}$ ir krāsā $0$. Apskatām 
-$A_{998}A_{999}A_{1000}A_{1}$. Pārrkrāsojam tās vienā krāsā (2. lemma). Ja tā 
+$A_{998}A_{999}A_{1000}A_{1}$. Pārkrāsojam tās vienā krāsā (2. lemma). Ja tā 
 ir krāsa $0$, viss kārtībā. Pieņemsim, ka tā ir krāsa $1$. Apskatām 
 $A_{997}A_{998}A_{999}A_{1000}$ un saskaņā ar 1. lemmu pārkrāsojam tās krāsā 
 $0$. Tagad $A_{1}$ ir krāsā $1$, citas virsotnes krāsā $0$. Tagad pakāpeniski 
