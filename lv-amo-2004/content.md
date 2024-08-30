@@ -211,7 +211,7 @@ $7+8+9+10+11+12=57$ - pretruna.
 
 Kvadrāts sastāv no $8 \times 8$ rūtiņām. Kreisajā apakšējā rūtiņā atrodas 
 figūriņa. Divi spēlētāji pēc kārtas bīda figūriņu. Ar vienu gājienu figūriņu 
-var pabīdīt vai nu $1$ rūtiņu pa labi, vai $1 $rūtiņu uz augšu, vai $1$ rūtiņu 
+var pabīdīt vai nu $1$ rūtiņu pa labi, vai $1$ rūtiņu uz augšu, vai $1$ rūtiņu 
 pa diagonāli "uz augšu un pa labi". Zaudē tas, kas nevar izdarīt gājienu.
 
 Kas uzvar, pareizi spēlējot - pirmais vai otrais spēlētājs?
@@ -372,7 +372,7 @@ augstums, k.b.j.
 # <lo-sample/> LV.AMO.2004.7.5
 
 Kādā komisijā strādā $7$ diplomāti. Katri divi savā starpā sarunājas angļu, 
-vācu vai franču valodā (tikai vienā). Katrs diplomāts ar $2$ kolēgiem sarunājas
+vācu vai franču valodā (tikai vienā). Katrs diplomāts ar $2$ kolēģiem sarunājas
 angliski, ar $2$ - vāciski, ar $2$ - franciski. Pierādiet: var atrast $3$ 
 diplomātus, kas savā starpā sazinoties lieto visas $3$ valodas.
 
@@ -524,7 +524,7 @@ $x_{0}=1;\ x_{1}=2;\ x_{2}=3;\ x_{3}=5;\ x_{4}=8$.
 
 Pretēji domai par Fibonači skaitļiem pierādīsim, ka
 
-$$(*) x_{n+1}=\left\{\begin{array}{l}
+$$(*)\ x_{n+1}=\left\{\begin{array}{l}
 \frac{3}{2} x_{n}, \text { ja } x_{n}-\text { pāra skaitlis, } \\
 \frac{3}{2} x_{n}, \text { ja } x_{n}-\text { nepāra skaitlis }
 \end{array}\right.$$
@@ -570,7 +570,7 @@ pretruna.
 
 # <lo-sample/> LV.AMO.2004.9.2
 
-Dots, ka $a$ un $b$ - naturāli skait\li un $a+b$ ir nepāra skaitlis. Zināms, ka
+Dots, ka $a$ un $b$ - naturāli skaitļi un $a+b$ ir nepāra skaitlis. Zināms, ka
 katrā skaitļu ass punktā ar veselu koordināti dzīvo pa rūķīitim: dažos 
 punktos - votivapas, pārējos - šillišallas. Pierādīt, ka eksistē tādi divi 
 vienas cilts rūķīši, attālums starp kuriem ir vai nu $a$, vai $b$.
@@ -811,7 +811,7 @@ amatieris? Tenisā neizšķirtu nav.
 
 ## Atrisinājums
 
-Pieņemsim, ka ir $x$ amatieri un $x+9$ profesionāli, un amatieri $n$ reizes 
+Pieņemsim, ka ir $x$ amatieri un $x+9$ profesionāļi, un amatieri $n$ reizes 
 uzvarējuši profesionāļus. Tad amatieriem kopā ir $\frac{x(x-1)}{2}+n$ uzvaras, 
 profesionāļiem kopā ir $\frac{(x+9)(x+8)}{2}+x(x+9)-n$ uzvaras, un iegūstam 
 vienādojumu $9\left(\frac{x(x-1)}{2}+n\right)=\frac{(x+9)(x+8)}{2}+x(x+9)-n$, 
@@ -955,7 +955,7 @@ Vajadzīgais seko no tā, ka $y=\lg x$ - augoša funkcija pie $x>0$.
 
 # <lo-sample/> LV.AMO.2004.11.5
 
-Komisijā darbojas $25 $deputāti, daži no tiem draudzējas (ja $A$ draudzējas ar 
+Komisijā darbojas $25$ deputāti, daži no tiem draudzējas (ja $A$ draudzējas ar 
 $B$, tad arī $B$ draudzējas ar $A$). Katram deputātam ir tieši $n$ draugi. Ja 
 kādi divi deputāti (apzīmēsim tos ar $X$ un $Y$) nedraudzējas savā starpā, tad 
 noteikti eksistē tāds deputāts, kas draudzējas gan ar $X$, gan ar $Y$.
@@ -1041,8 +1041,8 @@ $x,\ A_{1}B_{1}C_{1}D_{1}$ centru un malas garumu attiecīgi ar $Y$ un $y$, bet
 $\overrightarrow{XY}=\vec{\omega}$. Tad
 
 $$\begin{gathered}
-AA_{1}^{2}+CC_{1}^{2}=\left(\overrightarrow{AX}+\vec{\omega}+\overrightarrow{YA_{1}}\right)^{2}+\left(\overrightarrow{CX}+\vec{\omega}+\overrightarrow{YC_{1}}\right)^{2}= \\
-=AX^{2}+YA_{1}^{2}+CX^{2}+YC_{1}^{2}+2 \omega^{2}+2 \dot{\omega}(\underbrace{AX+CX}_{\overrightarrow{0}}+\underbrace{YA_{1}+YC_{1}}_{\overrightarrow{0}})+2 \dot{AX} \cdot YA_{1}+2 \overrightarrow{CX} \cdot YC_{1}= \\
+AA_{1}^{2}+CC_{1}^{2}=\left(\overrightarrow{AX}+\overrightarrow{\omega}+\overrightarrow{YA_{1}}\right)^{2}+\left(\overrightarrow{CX}+\overrightarrow{\omega}+\overrightarrow{YC_{1}}\right)^{2}= \\
+=AX^{2}+YA_{1}^{2}+CX^{2}+YC_{1}^{2}+2 \omega^{2}+2 \overrightarrow{\omega}(\underbrace{\overrightarrow{AX}+\overrightarrow{CX}}_{\overrightarrow{0}}+\underbrace{\overrightarrow{YA_{1}}+\overrightarrow{YC_{1}}}_{\overrightarrow{0}})+2 \overrightarrow{AX} \cdot \overrightarrow{YA_{1}}+2 \overrightarrow{CX} \cdot \overrightarrow{YC_{1}}= \\
 =x^{2}+y^{2}+2 \omega^{2}+2\left(\overrightarrow{AX} \cdot \overrightarrow{YA_{1}}+\overrightarrow{CX} \cdot \overrightarrow{YC_{1}}\right)
 \end{gathered}$$
 
@@ -1091,7 +1091,7 @@ $y$ izvēli.
 # <lo-sample/> LV.AMO.2004.12.4
 
 Ar $n$ apzīmējam patvaļīgu nepāra naturālu skaitli, kas lielāks par $1$. 
-Pierādīt: abi skaitli $n$ un $n+2$ vienlaicīgi ir pirmskaitļi tad un tikai tad,
+Pierādīt: abi skaitļi $n$ un $n+2$ vienlaicīgi ir pirmskaitļi tad un tikai tad,
 ja $(n-1)!$ nedalās ne ar $n$, ne ar $n+2$.
 
 <small>
@@ -1140,8 +1140,9 @@ ka katriem diviem kandidātiem $A$ un $B$ izpildās sekojošais:
 
 " $A$ derīgs, $B$ nederīgs" nolēmuši $2$ eksperti,
 
-" $A$ nederīgs, $B$ derīgs" nolēmuši $2$ eksperti, " $A$ nederīgs, $B$ 
-nederīgs" nolēmuši $2$ eksperti.
+" $A$ nederīgs, $B$ derīgs" nolēmuši $2$ eksperti, 
+
+" $A$ nederīgs, $B$ nederīgs" nolēmuši $2$ eksperti.
 
 Kāda ir lielākā iespējamā $n$ vērtība?
 
@@ -1175,6 +1176,6 @@ kolonām divi pāri). Iegūstam (*)
 $\left\{\begin{array}{l}x_{2}^{2}+x_{3}^{2}+\ldots+x_{8}^{2}=80 \\ x_{2}+x_{3}+\ldots+x_{8}=24\end{array}\right.$.
 Bet tā ir pretruna ar nevienādību starp vidējo kvadrātisko un vidējo 
 aritmētisko, saskaņā ar kuru jābūt 
-$\frac{x_{2}^{2}+\ldotsx_{8}^{2}}{7} \geq\left(\frac{x_{2}+\ldots+x_{8}}{7}\right)^{2}$:
+$\frac{x_{2}^{2}+\ldots x_{8}^{2}}{7} \geq\left(\frac{x_{2}+\ldots+x_{8}}{7}\right)^{2}$:
 pēc (*) tā neiznāk.
 
