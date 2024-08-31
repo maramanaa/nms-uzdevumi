@@ -300,8 +300,9 @@ lai katru divu atlikušo summa būtu salikts skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* sameAs:LV.NOL.2003.7.4
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -374,16 +375,17 @@ Piemēru **(A)** gadījumam skat. 5.zīm.
 Naturālu skaitli $n$ sauc par īpašu, ja tas ir vienāds ar četru savu dažādu 
 dalītāju summu.
 
-**(A)** atrodiet kaut vienu īpašu skaitli,
-
-**(B)** pierādiet, ka īpašu skaitļu ir bezgalīgi daudz,
-
+**(A)** atrodiet kaut vienu īpašu skaitli,  
+**(B)** pierādiet, ka īpašu skaitļu ir bezgalīgi daudz,  
 **(C)** pierādiet, ka visi īpaši skaitļi ir pāra.
 
 <small>
 
-* questionType:
-* domain:
+* topic:IntegerFactorization
+* topic:NumTheoryExtremeElement
+* topic:ModularParity
+* questionType:FindExample,Prove,Prove
+* domain:NT
 
 </small>
 
@@ -395,6 +397,29 @@ dalītāju summu.
 
 **(C)** ja $a$ - nepāra skaitlis, tad visi tā dalītāji arī ir nepāra skaitļi. 
 Bet četru nepāra skaitļu summa ir pāra skaitlis, tātad nav $a$.
+
+*Piezīme:* Par pusperfektiem skaitļiem sauc naturālus skaitļus, 
+kas vienādi ar dažu savu dalītāju summu: 
+[Semiperfect number](https://en.wikipedia.org/wiki/Semiperfect_number)
+
+
+
+## Atrisinājums
+
+Īpašu skaitļu ir bezgalīgi daudz, jo 
+$n=n/2+n/3+n/7+n/42$. Tātad visi skaitļi 
+formā $42k$ ir īpaši. 
+
+**(C)** Nav nepāra īpašu skaitļu, jo 
+pat lielākie iespējamie dalītāji ir par mazu:
+
+$$\frac{n}{3}+\frac{n}{5}+\frac{n}{7}+\frac{n}{9} < n.$$
+
+Ievērojam arī, ka nepāra skaitļiem visi dalītāji ir nepāra 
+(pie tam nepāra skaitļa dalījums ar nepāra skaitli ir nepāra skaitlis). 
+Bet četru nepāru summa nevar būt pāru.
+
+
 
 
 
@@ -431,8 +456,11 @@ decimālais pieraksts sākas ar ciparu $1$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DecimalNotationDigits
+* topic:DefiningRecurrentSequences
+* questionType:FindCount
+* domain:NT
+* seeAlso:LV.NOL.2004.8.2
 
 </small>
 
@@ -493,8 +521,12 @@ Ar kādu mazāko jautājumu skaitu Juris var noteikti noskaidrot $n$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:GcdAndLcm
+* topic:PrimesInfinityProof
+* topic:CanonicalFactorization
+* questionType:FindOptimal,Algorithm
+* domain:NT
+* genre:procedure
 
 </small>
 
@@ -512,6 +544,17 @@ atbildes $A$ viņš izvēlas $5$ dažādus pirmskaitļus
 $p_{1},\ p_{2},\ p_{3},\ p_{4},\ p_{5}$, ar kuriem nedalās $A$ (un tātad arī 
 $n$), un pasaka tos Andrim. Atkarībā no tā, ar kuru no šiem pirmskaitļiem dalās
 Andra otrā atbilde, Juris noskaidros $n$.
+
+## Atrisinājums
+
+* Ar 1 gājienu nepietiek. Pirmajā gājienā Andris var atbildēt ar tādu $x$, 
+  kas dalās ar vairākiem $x_i$. 
+* Ar 2 gājieniem pietiek. Otrajā gājienā Juris nosauc 5 pirmskaitļus 
+  $p_i > x_1$ (kur $x_1$ - Andra pirmais nosauktais skaitlis). 
+  Atkarībā no tā, ar kuru pirmskaitli dalās Andra atbilde $x_2$, 
+  var noteikt $n$.
+
+
 
 
 
@@ -678,15 +721,14 @@ nākošais vienāds ar četru iepriekšējo summas pēdējo ciparu. (Tātad virk
 $1;\ 2;\ 3;\ 4;\ 0;\ 9;\ 6;\ 9;\ \ldots$)
 
 **(A)** Vai virknē kādreiz pēc kārtas parādīsies cipari $2;\ 0;\ 0;\ 5$ tieši 
-šādā secībā?
-
+šādā secībā?  
 **(B)** Vai virknē kādreiz pēc kārtas citur nekā sākumā parādīsies cipari 
 $1;\ 2;\ 3;\ 4$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -733,8 +775,9 @@ divi skaitļi; viens no tiem bija $8$. Kāds varēja būt otrs skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* genre:procedure
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -840,16 +883,17 @@ vajadzīgais.
 Uz papīra lapas uzrakstīti vairāki dažādi naturāli skaitļi; neviens no tiem 
 nepārsniedz $100$. Zināms, ka:
 
-1) $1$ un $100$ ir uzrakstīti uz lapas,
-2) ja $n$ uzrakstīts uz lapas un $n \neq A$, tad var atrast vai nu tādu uz 
+1. $1$ un $100$ ir uzrakstīti uz lapas,
+2. ja $n$ uzrakstīts uz lapas un $n \neq A$, tad var atrast vai nu tādu uz 
    lapas uzrakstītu skaitli $x$ , ka $n=2x$, vai divus tādus uz lapas 
-   uzrakstītus skaitļus $x$ un $y$, ka $n=x+y$. Kāds mazākais daudzums skaitļu 
-   var būt uzrakstīti uz lapas?
+   uzrakstītus skaitļus $x$ un $y$, ka $n=x+y$. 
+   
+Kāds mazākais daudzums skaitļu var būt uzrakstīti uz lapas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -876,8 +920,8 @@ Aprēķināt $\sqrt{2005 \cdot 2003 \cdot 1999 \cdot 1997+36}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -932,14 +976,13 @@ visi apskatāmā intervāla punkti ir vajadzīgā tipa vienādojumu saknes.
 Naturālu skaitli $n$ sauksim par līdzsvarotu, ja tā visus naturālos dalītājus 
 (ieskaitot $1$ un pašu $n$) var sadalīt trīs daļās ar vienādām summām.
 
-**(A)** atrast kaut vienu līdzsvarotu skaitli,
-
+**(A)** atrast kaut vienu līdzsvarotu skaitli,  
 **(B)** pierādīt, ka līdzsvarotu skaitļu ir bezgalīgi daudz.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,Prove
+* domain:NT
 
 </small>
 
@@ -1168,8 +1211,8 @@ skaitlis? (Malas mēra metros, laukumu - kvadrātmetros.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT,Geom
 
 </small>
 

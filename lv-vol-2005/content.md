@@ -30,18 +30,15 @@ Dots, ka $B$ - naturāls skaitlis, $A=7 \cdot B$ un $A$ ciparu summa divas
 reizes lielāka par $B$ ciparu summu. Skaitli $C$ iegūst, pierakstot skaitlim 
 $A$ galā skaitli $B$.
 
-**(A)** atrast kaut vienu šādu $C$,
-
-**(B)** pierādīt, ka šādu $C$ ir bezgalīgi daudz,
-
-**(C)** pierādīt, ka katrs šāds $C$ dalās ar $9$,
-
+**(A)** atrast kaut vienu šādu $C$,  
+**(B)** pierādīt, ka šādu $C$ ir bezgalīgi daudz,  
+**(C)** pierādīt, ka katrs šāds $C$ dalās ar $9$,  
 **(D)** vai $C$ noteikti dalās ar $27$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,Prove,Prove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -97,8 +94,8 @@ Jūsu atrastajiem nav.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -124,8 +121,8 @@ Atrast mazāko iespējamo $n$ vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -202,19 +199,16 @@ Citas iespējas, kad $x+z=0$ vai $y+z=0$, apskata līdzīgi.
 
 Kādām funkcijām $f$ vienlaicīgi piemīt sekojošas īpašības:
 
-**(A)** $f$ definīcijas apgabals ir $\{1;\ 2;\ 3;\ 4;\ 5;\ 6;\ 7;\ 8;\ 9;\ 10\}$,
-
-**(B)** $f$ vērtības ir naturāli skaitļi, kas nepārsniedz $100$,
-
-**(C)** $f$ ir augoša funkcija,
-
-**(D)** visiem $x$ un $y$ no definīcijas apgabala skaitlis 
+a. $f$ definīcijas apgabals ir $\{1;\ 2;\ 3;\ 4;\ 5;\ 6;\ 7;\ 8;\ 9;\ 10\}$,
+b. $f$ vērtības ir naturāli skaitļi, kas nepārsniedz $100$,
+c. $f$ ir augoša funkcija,
+d. visiem $x$ un $y$ no definīcijas apgabala skaitlis 
 $x \cdot f(x)+y \cdot f(y)$ dalās ar $x+y$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -424,13 +418,13 @@ $(-\infty; 0) \cup\left(0; \frac{2}{3}\right) \cup\{1; 2\}$.
 # <lo-sample/> LV.VOL.2005.11.4
 
 Dots, ka $p$ - pirmskaitlis. Pierādīt, ka apgalvojumi "eksistē tāds vesels $x$,
-ka $x^{2}+x+3$ dalās ar $p$ " un "eksistē tāds vesels $y$, ka $y^{2}+y+25$ 
-dalās ar $p$ " vai nu abi ir pareizi, vai abi - nepareizi.
+ka $x^{2}+x+3$ dalās ar $p$" un "eksistē tāds vesels $y$, ka $y^{2}+y+25$ 
+dalās ar $p$" vai nu abi ir pareizi, vai abi - nepareizi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -605,14 +599,13 @@ Par skaitļu virkni $x_{1}, x_{2}, x_{3}, \ldots$ zināms, ka
 - $x_{2n}=1+x_{n}$ visiem naturāliem $n$
 - $x_{2n+1}=\frac{1}{x_{2n}}$ visiem naturāliem $n$.
 
-**(A)** Pierādiet, ka visi virknes locekļi ir dažādi.
-
+**(A)** Pierādiet, ka visi virknes locekļi ir dažādi.  
 **(B)** Kuri skaitļi ir šīs virknes locekļi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,FindAll
+* domain:Alg
 
 </small>
 

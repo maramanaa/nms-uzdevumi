@@ -330,8 +330,11 @@ ir nesaīsināmas?
 
 <small>
 
-* questionType:
-* domain:
+* topic:EuclideanAlgorithm
+* topic:PrimesDistribution
+* concepts:fractions,gcd
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -342,6 +345,19 @@ $\frac{5}{(n+2)+5},\ \frac{6}{(n+2)+6},\ \ldots,\ \frac{36}{(n+2)+36}$. Daļas
 visas būs nesaīsināmas tad un tikai tad, ja $n+2$ nevarēs saīsināt ne ar vienu 
 no skaitļiem $5;\ 6;\ \ldots;\ 36$. Acīmredzot mazākais tāds $n+2$ ir $37$, 
 tāpēc $n=35$.
+
+
+## Atrisinājums
+
+Izmantojam Eiklīda algoritmu.
+Visas daļas izskatās šādi: $\frac{k}{n+(k+2)}$. 
+Vajag, lai $\mbox{LKD}(k,n+(k+2))=1$. 
+
+$$\mbox{LKD}(k,n+(k+2))=\mbox{LKD}(k,n+2)=1,\;\;k=5,\ldots,36.$$
+
+$n+2=37$ ir savstarpējs pirmskaitlis ar visiem $k \in [5;36]$, t.i. $n=35$.
+
+
 
 
 
@@ -462,8 +478,12 @@ $A=B$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:NotationShift
+* topic:IntegerFactorization
+* concepts:decimal-notation,divisibility
+* genre:digit-manipulation
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -511,8 +531,14 @@ rīkojamies tāpat, utt., kamēr paliek neizsvītrots viens skaitlis. Kurš tas 
 
 <small>
 
-* questionType:
-* domain:
+* topic:MultiplesInInterval
+* topic:DefiningRecurrentSequences
+* topic:NonlinearRecurrences
+* concepts:sequence
+* genre:making-moves
+* questionType:FindAll
+* domain:NT
+* strategy:WorkingBackwards
 
 </small>
 
@@ -542,6 +568,12 @@ Tagad pakāpeniski iegūstam $x_{i}$ vērtības
 $1;\ 2;\ 3;\ 5;\ 8;\ 12;\ 18;\ 27;\ 41;\ 62;\ 93;\ 140;\ 210$; 
 $315;\ 473;\ 710;\ 1065;\ 1598$. Nākošais loceklis jau būtu lielāks par $2004$,
 tāpēc uzdevuma atbilde ir $1598$.
+
+*Piezīme:* Pirms pēdējās izsvītrošanas pēdējais skaitlis bija `#2`, pirms tam `#3`, `#5`, 
+`#8`, `#12`, utt.
+Pēc $n$ svītrošanām pirmais palikušais ir $x_n$. Pamato 
+$x_{n+1} = \left\lceil 3x_n/2 \right\rceil$ pāru un nepāru $x_n$.
+
 
 
 
@@ -664,8 +696,9 @@ Vai to var izdarīt, ja **(A)** $n=4$; **(B)** $n=5$?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:sum
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -771,14 +804,13 @@ un izmantot sinusu teorēmu $MN=2R \cdot \sin \sphericalangle MON$.
 
 Dots, ka $n$ - naturāls skaitlis.
 
-**(A)** pierādīt, ka $\sqrt{n^{2}+11n+30}$ nav naturāls skaitlis,
-
+**(A)** pierādīt, ka $\sqrt{n^{2}+11n+30}$ nav naturāls skaitlis,  
 **(B)** atrast šī skaitļa pirmo ciparu aiz komata atkarībā no $n$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,FindAll
+* domain:NT
 
 </small>
 
@@ -834,8 +866,9 @@ skaitļus, kas visi dod dažādus atlikumus, dalot ar $16$?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:remainder,divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -862,8 +895,9 @@ Vai eksistē tāds naturāls skaitlis $n$, ka $2004^{n}-1$ dalās ar $1500^{n}-1
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1008,8 +1042,9 @@ skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:integer-polynomial
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1069,8 +1104,9 @@ Atrast visas šādas funkcijas $f$ un pierādīt, ka citu bez jūsu atrastajām 
 
 <small>
 
-* questionType:
-* domain:
+* concepts:function,argument,value
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1096,8 +1132,9 @@ ja $(n-1)!$ nedalās ne ar $n$, ne ar $n+2$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:primes,divisibility
+* questionType:Prove
+* domain:NT
 
 </small>
 
