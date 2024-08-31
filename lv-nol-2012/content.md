@@ -1,16 +1,17 @@
 # <lo-sample/> LV.NOL.2012.5.1
 
 Ar naturālu skaitli var veikt divu veidu darbības:
-1) reizināt ar $3$,
-2) nodzēst pēdējo ciparu.
+
+1. reizināt ar $3$,
+2. nodzēst pēdējo ciparu.
 
 Parādīt, kā no skaitļa $5$ var iegūt skaitli $21$, vairakkārt pielietojot tikai
 šīs darbības.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -28,8 +29,8 @@ Cik rūtiņas liels ir kvadrāta $ABCD$ laukums (skat. 1.zīm.)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -52,8 +53,8 @@ cipariem $1,\ 2,\ 3,\ 4,\ 5,\ 7,\ 8$ izmantots tieši vienu reizi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -83,8 +84,8 @@ uzziedētu atšķirīgas krāsas tulpes un lai katrā rindā jebkuras trīs pēc
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -111,16 +112,16 @@ visi trīsciparu skaitļi, kuru pierakstā ir tikai cipari $1$ un/vai $2$.
 četriem cipariem pēc kārtas pulksteņrādītāja virzienā, būtu sastopami visi 
 četrciparu skaitļi, kuru pierakstā ir tikai cipari $1$ un/vai $2$?
 
-*(Piemēram, 2.zīm. parādīts, ka četrus ciparus var izvietot tā, lai būtu 
+(*Piemēram, 2.zīm. parādīts, ka četrus ciparus var izvietot tā, lai būtu 
 sastopami visi divciparu skaitļi, kuru pierakstā ir tikai cipari* $1$ *un/vai* 
-$2:\ 11,\ 12,\ 22,\ 21$*.)*
+$2$: $11,\ 12,\ 22,\ 21$.)
 
 ![](LV.NOL.2012.5.5.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -139,8 +140,8 @@ summa dalās ar $5$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -154,13 +155,13 @@ Piemēram, $49999$ un $50000$.
 
 Visi piecciparu naturālie skaitļi, kuru pierakstā katrs no cipariem 
 $1,\ 2,\ 3,\ 4,\ 5$ izmantots tieši vienu reizi, ir uzrakstīti virknē augošā 
-secībā: $12345,\ 12354,\ 12435,\ \ldots $. Kurš pēc kārtas šajā virknē ir 
+secībā: $12345,\ 12354,\ 12435,\ \ldots$. Kurš pēc kārtas šajā virknē ir 
 skaitlis $53421$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -177,8 +178,7 @@ skaitlis $53421$ atrodas $114.$ vietā.
 
 Vai plaknē var uzzīmēt
 
-**(A)** sešstūri,
-
+**(A)** sešstūri,  
 **(B)** septiņstūri
 
 un riņķa līniju, kas krusto uzzīmētā daudzstūra katru malu tieši vienā punktā? 
@@ -186,8 +186,8 @@ un riņķa līniju, kas krusto uzzīmētā daudzstūra katru malu tieši vienā 
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -216,8 +216,8 @@ jebkuru divu blakus stāvošu skaitļu summa būtu pirmskaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -244,8 +244,8 @@ var uzdot tieši vienu jautājumu, uz kuru viņš var atbildēt tikai ar "jā" v
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -289,8 +289,8 @@ vairākas reizes jebkādā secībā?
 <small>
 
 * topic:GraphAlgorithms
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -314,8 +314,8 @@ starp kuriem ir astoņstūris.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -335,8 +335,8 @@ skaitļu reizinājumus. Cik no šiem septiņiem reizinājumiem ir pozitīvi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -404,8 +404,8 @@ ar malas garumu $2$ un kuros ierakstīto skaitļu summa ir vismaz $18$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -451,8 +451,8 @@ Pierādīt, ka punkts $F$ ir malas $BC$ viduspunkts.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -495,8 +495,8 @@ uzzīmētie punkti atrastos tieši $1~\mathrm{cm}$ attālumā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -521,8 +521,8 @@ uzskatāmi par vienādiem.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -544,8 +544,8 @@ $a+b=2012$. Pierādīt, ka visu šādu funkciju grafikiem ir divi kopīgi punkti
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -564,8 +564,8 @@ izvēles.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -584,12 +584,12 @@ no punkta $P$ izvēles.
 # <lo-sample/> LV.NOL.2012.9.3
 
 Kādām $n$ vērtībām $n$ cilvēkus var sadalīt grupās (varbūt tikai vienā) tā, lai
-katrā grupā būtu tieši $5,\ 6$ vai $7$ cilvēki?
+katrā grupā būtu tieši $5$, $6$ vai $7$ cilvēki?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -677,14 +677,13 @@ $n$.
 
 # <lo-sample/> LV.NOL.2012.10.1
 
-**(A)** Dots, ka $a+b=c$. Pierādīt, ka $2a^{2} \geqq c^{2}-2b^{2}$.
-
+**(A)** Dots, ka $a+b=c$. Pierādīt, ka $2a^{2} \geqq c^{2}-2b^{2}$.  
 **(B)** Dots, ka $a+b+c=d$. Pierādīt, ka $3a^{2} \geq d^{2}-3b^{2}-3c^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Alg
 
 </small>
 
@@ -712,8 +711,8 @@ taisnleņķa trijstūris.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -722,14 +721,14 @@ taisnleņķa trijstūris.
 Aplūkosim 2.zīmējumu. No trijstūru $BKC$ un $ABK$ līdzības seko, ka pastāv trīs
 iespējas.
 
-1) $\sphericalangle BKC=\sphericalangle ABK$. Tad taisnēm $KC$ un $AB$ jābūt 
+1. $\sphericalangle BKC=\sphericalangle ABK$. Tad taisnēm $KC$ un $AB$ jābūt 
    paralēlām, bet tas nav iespējams, jo tās krustojas punktā $A$.
-2) $\sphericalangle BKC=\sphericalangle BAK$. Tad taisnēm $KB$ un $AB$ jābūt 
+2. $\sphericalangle BKC=\sphericalangle BAK$. Tad taisnēm $KB$ un $AB$ jābūt 
    paralēlām, bet tas nav iespējams, jo tās krustojas punktā $B$.
-
-Atliek trešā iespēja.
-
-3) $\sphericalangle BKC=\sphericalangle BKA$. Tad leņķis $\sphericalangle BKC$ ir taisns, un trijstūris $B K C$ ir taisnleņķa trijstūris. Tā kā $\triangle A B C$ ir līdzīgs trijstūrim $B K C$, tad arī $\triangle A B C$ ir taisnleņķa trijstūris.
+3. Atliek trešā iespēja: 
+   $\sphericalangle BKC=\sphericalangle BKA$. Tad leņķis $\sphericalangle BKC$ ir taisns, 
+   un trijstūris $B K C$ ir taisnleņķa trijstūris. Tā kā $\triangle ABC$ ir 
+   līdzīgs trijstūrim $BKC$, tad arī $\triangle ABC$ ir taisnleņķa trijstūris.
 
 ![](LV.NOL.2012.10.2A.png)
 
@@ -806,8 +805,8 @@ attiecībā pret galveno diagonāli, skat. 1.zīm. iekrāsoto diagonāli).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -861,8 +860,8 @@ $$\left\{\begin{array}{l}
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -911,8 +910,8 @@ summa?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -940,8 +939,8 @@ pakāpe jebkuram naturālam $k \geq 2$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -956,7 +955,7 @@ ir pāra skaitlis un $b$ arī ir pāra skaitlis. Bet tad $b^{k}$ dalās ar $2^{k
 un pie $k \geq 2b^{k}$ dalās ar $4$. Taču $a_{n}$ ar $4$ nedalās - pretruna, 
 tāpēc minētā virkne der par meklēto.
 
-$\underline{Piezīme:}$ šī nav vienīgā virkne, kas apmierina uzdevuma prasības.
+$\underline{Piezīme:}$ Šī nav vienīgā virkne, kas apmierina uzdevuma prasības.
 
 
 
@@ -968,8 +967,8 @@ svēršanām atrast **vismaz** vienu monētu, kas sver $7$ gramus?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -996,8 +995,8 @@ $a>-\frac{1}{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1016,8 +1015,8 @@ skaldnei ir nepāra skaits virsotņu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1038,8 +1037,8 @@ $MN$ krustojas punktā $X$. Pierādīt, ka $\triangle NBX \sim \triangle PBC$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1096,16 +1095,16 @@ reizinājums pāra skaitlis.
 # <lo-sample/> LV.NOL.2012.12.5
 
 Regulārā $17$-stūrī $A_{1}A_{2} \ldots A_{17}$ atzīmētas četras virsotnes 
-$A_{i}, A_{j}, A_{k}, A_{l} (i < j < k < l)$. No pārējām virsotnēm ir jāizvēlas četras
-virsotnes (apzīmēsim tās ar $B,\ C,\ D$ un $E)$ tā, lai $B$ būtu starp $A_{i}$ 
-un $A_{j},\ C$ būtu starp $A_{j}$ un $A_{k},\ D$ būtu starp $A_{k}$ un 
-$A_{l},\ E$ būtu starp $A_{l}$ un $A_{i}$. Kādām $i, j, k, l$ vērtībām punktu 
-četrinieku $(B,\ C,\ D,\ E)$ var izvēlēties visvairāk veidos?
+$A_{i}, A_{j}, A_{k}, A_{l}$ ($i < j < k < l$). No pārējām virsotnēm ir jāizvēlas četras
+virsotnes (apzīmēsim tās ar $B$, $C$, $D$ un $E$) tā, lai $B$ būtu starp $A_{i}$ 
+un $A_{j},\ C$ būtu starp $A_{j}$ un $A_{k}$, $D$ būtu starp $A_{k}$ un 
+$A_{l}$, $E$ būtu starp $A_{l}$ un $A_{i}$. Kādām $i, j, k, l$ vērtībām punktu 
+četrinieku ($B,\ C,\ D,\ E$) var izvēlēties visvairāk veidos?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 

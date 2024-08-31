@@ -517,7 +517,7 @@ ka $t \geq 4 a$.
 <small>
 
 * questionType:Prove
-* domain:
+* domain:Alg
 
 </small>
 

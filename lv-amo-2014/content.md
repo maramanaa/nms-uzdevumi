@@ -163,8 +163,8 @@ pašai palika $1$ metrs makšķerauklas. Cik gara bija makšķeraukla pašā sā
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -187,8 +187,8 @@ reizinājumi abās grupās ir vienādi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -209,13 +209,13 @@ līdz $100$ nevar sadalīt pa divām grupām tā, lai katrā grupā būtu vienā
 mikrofoniem un viena patafona. Puszābaks atgriezās, nopircis $20$ ksilofonus,
 vienu mikrofonu un $3$ patafonus, pie tam viņš bija iztērējis tieši tik daudz
 naudas, cik būtu arī, ja būtu nopircis to, ko Ķērpjbārdis viņam lūdza. Zināms,
-ka patafons ir lētāks nekā ksilofons. Kas ir dārgāks- ksilofons vai mikrofons?
+ka patafons ir lētāks nekā ksilofons. Kas ir dārgāks - ksilofons vai mikrofons?
 Atbildi pamatot!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -234,16 +234,16 @@ mikrofoni. No kā seko, ka ksilofons ir dārgāks nekā mikrofons.
 
 # <lo-sample/> LV.AMO.2014.6.4
 
-Kvadrāts, kura malas garums ir $4~ \mathrm{m}$, sagriezts taisnstūros, kā
-parādīts 3.zīm. Četru izcelto nogriežņu garumu summa ir $2~ \mathrm{m}$.
+Kvadrāts, kura malas garums ir $4~\mathrm{m}$, sagriezts taisnstūros, kā
+parādīts 3.zīm. Četru izcelto nogriežņu garumu summa ir $2~\mathrm{m}$.
 Aprēķināt iekšējā taisnstūra perimetru!
 
 ![](LV.AMO.2014.6.4.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -271,8 +271,8 @@ iespējamais!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -371,13 +371,13 @@ Bet tad $3a+5b$ ir pāru, kas ir pretruna.
 Lelde apgalvo, ka sešas skrūves ir smagākas nekā septiņas naglas, bet Elīna
 apgalvo, ka septiņas skrūves ir smagākas nekā astoņas naglas. Zināms, ka vienai
 no meitenēm ir taisnība, bet otra kļūdās. Vai tiesa, ka $18$ skrūves ir
-smagākas nekā **a)** $20$ naglas, **b)** $21$ nagla, **c)** $22$ naglas? Visām
+smagākas nekā **(A)** $20$ naglas, **(B)** $21$ nagla, **(C)** $22$ naglas? Visām
 skrūvēm svars ir vienāds, visām naglām arī.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -397,18 +397,18 @@ ir Elīnai, bet Leldes apgalvojums nav patiess.
 
 Pārbaudīsim, kuri no dotajiem apgalvojumiem var būt patiesi:
 
-**a)** No Elīnas apgalvojuma $7s > 8n$ seko, ka patiess ir arī apgalvojums
-       $18 \cdot 7s > 18 \cdot 8n$ jeb $126s > 144n > 140n$. No $126s > 140n$
-	   seko, ka $18s > 20n$ ir patiess. Tātad apgalvojums „ $18$ skrūves ir
-	   smagākas nekā $20$ naglas” ir patiess.
+**(A)** No Elīnas apgalvojuma $7s > 8n$ seko, ka patiess ir arī apgalvojums
+$18 \cdot 7s > 18 \cdot 8n$ jeb $126s > 144n > 140n$. No $126s > 140n$
+seko, ka $18s > 20n$ ir patiess. Tātad apgalvojums „ $18$ skrūves ir
+smagākas nekā $20$ naglas” ir patiess.
 
-**b)** Tā kā Leldes apgalvojums $6s > 7n$ nav patiess, tad apgalvojums
-       $18s > 21n$ ($18$ skrūves ir smagākas nekā $21$ nagla) arī nav patiess.
+**(B)** Tā kā Leldes apgalvojums $6s > 7n$ nav patiess, tad apgalvojums
+$18s > 21n$ ($18$ skrūves ir smagākas nekā $21$ nagla) arī nav patiess.
 
-**c)** Ja $18s > 22n$ būtu patiess, tad arī $18s > 21n$ būtu patiess. Jau
-       b) gadījumā pierādījām, ka otrais apgalvojums nav patiess. Tātad arī
-	   apgalvojums $18s > 22n$ ($18$ skrūves ir smagākas nekā $22$ naglas) nav
-	   patiess.
+**(C)** Ja $18s > 22n$ būtu patiess, tad arī $18s > 21n$ būtu patiess. Jau
+(B) gadījumā pierādījām, ka otrais apgalvojums nav patiess. Tātad arī
+apgalvojums $18s > 22n$ ($18$ skrūves ir smagākas nekā $22$ naglas) nav
+patiess.
 
 
 
@@ -426,7 +426,7 @@ Atrodiet visas iespējamās vērtības un pamatojiet, ka citu nav!
 
 * topic:NumTheoryExprVariables
 * questionType:FindAll
-* domain:
+* domain:Alg
 * genre:magic-configuration
 
 </small>
@@ -461,8 +461,8 @@ līnijām.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -576,8 +576,8 @@ ka, izvēloties jebkurus $5$ punktus, tie būs savienoti ar vismaz $3$ šķautn�
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -612,8 +612,8 @@ $\sphericalangle ABC$ un $\sphericalangle CDE$ ir lielāks?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -680,15 +680,10 @@ iegūsim vienu derīgu tabulas aizpildījumu:
 ![](LV.AMO.2014.8.5C.png)
 
 
-
-
 ## Atrisinājums
 
-Apzīmējam $a_{22}=x$, $a_{31}=b$. 
-
+Apzīmējam $a_{22}=x$, $a_{31}=b$.
 Tad $a_{13}=2x-b$, $a_{11}=x+b-24$, $a_{33}=x-b+24$, $a_{23}=2b-24$. Pie $b=7$, $a_{23}<0$.
-
-
 
 
 
@@ -762,8 +757,8 @@ Zināms, ka $AC || PQ$. Aprēķināt $\sphericalangle BAC$ vērtību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -849,8 +844,8 @@ marsiešiem var būt $2014$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -878,8 +873,8 @@ vai dilstoša!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -906,15 +901,15 @@ dilstoša.
 
 Dotas divas paralēlas taisnes. Uz vienas no tām atzīmēti $14$ zaļi punkti, uz
 otras- $14$ sarkani punkti. Kādu lielāko skaitu nogriežņu, kuriem viens
-galapunkts ir zaļš, bet otrs- sarkans, var novilkt tā, lai tie nekrustotos?
+galapunkts ir zaļš, bet otrs - sarkans, var novilkt tā, lai tie nekrustotos?
 
 Saka, ka nogriežņi krustojas, ja tiem ir kopīgs iekšējais punkts, t.i., ja tiem
 ir kopīgs tikai galapunkts, tie nekrustojas.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom,Comb
 
 </small>
 
@@ -939,8 +934,8 @@ funkciju grafikiem ir kopīgs punkts!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1048,8 +1043,8 @@ $\sphericalangle PAB=\sphericalangle PCB$. Pierādīt, ka $ABCD$ ir kvadrāts!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1108,15 +1103,15 @@ kvadrātam, kas arī bija jāpierāda.
 
 # <lo-sample/> LV.AMO.2014.11.1
 
-Uz riņķa līnijas atlikti **a)** $6$; **b)** $2014$ punkti. Viens no tiem
+Uz riņķa līnijas atlikti **(A)** $6$; **(B)** $2014$ punkti. Viens no tiem
 nokrāsots sarkans, bet pārējie balti. Apskatām visus daudzstūrus, kuriem visas
 virsotnes ir kādi no nokrāsotajiem punktiem. Kādu daudzstūru ir vairāk- to, kam
 viena virsotne ir sarkana, vai to, kam visas virsotnes ir baltas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -1189,14 +1184,14 @@ $$a_{50}=1000 \cdot \frac{2}{50 \cdot 51}=\frac{40}{51}$$
 # <lo-sample/> LV.AMO.2014.11.3
 
 Ap šaurleņķu trijstūri $ABC$ apvilkta riņķa līnija. Loka $AB$ (kuram nepieder
-punkts $C$ ) viduspunkts ir $N$, bet loka $AC$ (kuram nepieder punkts $B$)
+punkts $C$) viduspunkts ir $N$, bet loka $AC$ (kuram nepieder punkts $B$)
 viduspunkts ir $M$. Nogrieznis $NM$ krusto malu $AB$ punktā $K$. Trijstūrī $ABC$
-ievilktās riņķa līnijas centrs ir punktā $O$. Pierādīt, ka $OK || AC$ !
+ievilktās riņķa līnijas centrs ir punktā $O$. Pierādīt, ka $OK \| AC$ !
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1254,8 +1249,8 @@ Pierādīt, ka izliektu $2014$-stūri nevar sadalīt $167$ izliektos $14$-stūro
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1275,8 +1270,8 @@ Atrisināt nevienādību $9^{x}-2 \cdot 3^{x}-3 \leq 0$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1310,8 +1305,8 @@ apvilkto riņķka līiju krustpunktu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1393,8 +1388,8 @@ drīkst pārklāties, kā arī iziet ārpus dotā kvadrāta malām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1413,19 +1408,19 @@ malas garumu $10$ rūtiņas var pārklāt ar $25$ dotajām figūrām.
 
 # <lo-sample/> LV.AMO.2014.12.5
 
-Funkcija $f:R \rightarrow R$ definēta visiem reāliem skaitļiem un pieņem reālas
-vērtūbas. Visiem reāliem skaitļiem $a$ un $b$ izpildās
+Funkcija $f:\mathbb{R} \rightarrow \mathbb{R}$ definēta visiem reāliem skaitļiem un pieņem reālas
+vērtības. Visiem reāliem skaitļiem $a$ un $b$ izpildās
 
 $$2f(a) \leq f(b)+f(2a-b)$$
 
-Vai tiesa, ka visiem reāliem $a, b$ un c izpildās
+Vai tiesa, ka visiem reāliem $a, b$ un $c$ izpildās
 
-$$3f(a) \leq f(b)+f(c)+f(3a-b-c)$$?
+$$3f(a) \leq f(b)+f(c)+f(3a-b-c)?$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 

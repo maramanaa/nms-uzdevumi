@@ -4,8 +4,8 @@ Izsaki skaitli $1$ kā piecu atšķirīgu daļu summu, kuru saucēji ir vienādi
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -26,8 +26,8 @@ redzamo figūru un $28$ figūrām, kādas redzamas 2.att.? Figūras drīkst pagr
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -49,22 +49,22 @@ taisnstūri ar dotajām figūrām pārklāt nav iespējams.
 # <lo-sample/> LV.AMO.2015.5.3
 
 Vai iespējams uzzīmēt tādu taisnstūri, kura malu garumi ir naturāli skaitļi,
-bet **a)** laukums ir pirmskaitlis; **b)** perimetrs ir pirmskaitlis?
+bet **(A)** laukums ir pirmskaitlis; **(B)** perimetrs ir pirmskaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom,NT
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Jā, piemēram, der taisnstūris ar malu garumiem $1$ un $3$, tad laukums ir
+**(A)** Jā, piemēram, der taisnstūris ar malu garumiem $1$ un $3$, tad laukums ir
 $3$, kas ir pirmskaitlis.
 
-**b)** Nē, nav iespējams. Ja taisnstūra malu garumi ir $a$ un $b$, tad
+**(B)** Nē, nav iespējams. Ja taisnstūra malu garumi ir $a$ un $b$, tad
 taisnstūra perimetrs ir $P=2 \cdot(a+b)$.
 
 Perimetrs vienmēr ir pāra skaitlis. Vienīgais pāra pirmskaitlis ir $2$ , tāpēc
@@ -80,8 +80,8 @@ Atrodi visus tādus skaitļus un pamato, ka citu nav!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -122,8 +122,8 @@ atsvariem atrast abas viltotās monētas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -167,26 +167,27 @@ viltotā:
 
 Profesors Cipariņš iedomājās četrus skaitļus, kuru summa ir vesels skaitlis.
 Pēc tam viņš saskaitīja šos skaitļus visos iespējamos veidos pa pāriem un ieguva
-sešas summas. Izrādījās, ka viena no šīm summām ir daļskaitlis. **a)** Pierādi,
-ka vēl vismaz viena no iegūtajām summām ir daļskaitlis. **b)** Vai var būt tā,
-ka tieši divas summas ir daļskaitļi, bet pārējās- veseli skaitļi?
+sešas summas. Izrādījās, ka viena no šīm summām ir daļskaitlis.  
+**(A)** Pierādi, ka vēl vismaz viena no iegūtajām summām ir daļskaitlis.  
+**(B)** Vai var būt tā, ka tieši divas summas ir daļskaitļi, 
+bet pārējās - veseli skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,ProveDisprove
+* domain:Alg
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Visu četru skaitļu $a, b, c, d$ summu apzīmēsim ar $S=a+b+c+d$ un to
+**(A)** Visu četru skaitļu $a, b, c, d$ summu apzīmēsim ar $S=a+b+c+d$ un to
 summu, kas ir daļskaitlis, apzīmēsim ar $S_{1}=a+b$. Tā kā $S$ ir vesels
 skaitlis, tad starpība $S-S_{1}=a+b+c+d-(a+b)=c+d$ arī ir daļskaitlis. Tātad vēl
 vismaz viena no iegūtajām summām ir daļskaitlis.
 
-**b)** Jā, tieši divas summas var būt daļskaitļi, ja profesors Cipariņš ir
+**(B)** Jā, tieši divas summas var būt daļskaitļi, ja profesors Cipariņš ir
 iedomājies, piemēram, skaitļus
 $\frac{1}{3}, \frac{1}{3}, \frac{2}{3}, \frac{2}{3}$.
 
@@ -200,8 +201,8 @@ taisnstūriem, kuru izmēri ir $1 \times 2$ rūtiņas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -231,8 +232,8 @@ gadīties, ka visi seši trijstūros ierakstītie skaitļi ir vienādi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -265,8 +266,8 @@ nullēm! (Skaitļa kvadrāts ir skaitļa reizinājums pašam ar sevi).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -296,29 +297,29 @@ vairākus akmentiņus. Zināms, ka visu akmentiņu masas ir dažādas. Atpūtas 
 katrs no bērniem izvēlējās vienu no saviem akmentiņiem un pēc vienas vai
 vairākām maiņām beigās dabūja kāda cita bērna akmentiņu.
 
-Vai var būt, ka pēc šīs maiņas **a)** katra bērna akmentiņu kopējā masa
-samazinājās, **b)** tieši viena bērna akmentiņu kopējā masa palielinājās, bet
-katram no pārējiem bērniem- samazinājās?
+Vai var būt, ka pēc šīs maiņas **(A)** katra bērna akmentiņu kopējā masa
+samazinājās, **(B)** tieši viena bērna akmentiņu kopējā masa palielinājās, bet
+katram no pārējiem bērniem - samazinājās?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Tas nav iespējams. Ja katra bērna akmentiņu masa būtu samazinājusies,
+**(A)** Tas nav iespējams. Ja katra bērna akmentiņu masa būtu samazinājusies,
 tad arī visu akmeņu kopējai masai būtu jāsamazinās, bet maiņas rezultātā visu
 akmeņu kopējā masa nevar samazināties.
 
-**b)** Tas ir iespējams. Parādīsim piemēru, kurā tas izpildās. Visi bērni paņem
+**(B)** Tas ir iespējams. Parādīsim piemēru, kurā tas izpildās. Visi bērni paņem
 rokā to akmentiņu, ko plānojuši mainīt un sastājas rindā tā, ka pirmais stāv
-bērns ar visvieglāko akmeni, otrais- ar otru vieglāko akmeni, ..., pēdējais- ar
+bērns ar visvieglāko akmeni, otrais- ar otru vieglāko akmeni, $\ldots$, pēdējais- ar
 vissmagāko akmeni. Ja pirmais bērns iedod savu akmeni otrajam, otrais- trešajam,
-..., pēdējais- pirmajam, tad tikai pirmajam bērnam akmentiņu masa ir
+$\ldots$, pēdējais - pirmajam, tad tikai pirmajam bērnam akmentiņu masa ir
 palielinājusies, bet visiem pārējiem- samazinājusies.
 
 
@@ -330,8 +331,8 @@ vienādas cepures maksā vairāk nekā $11$ eiro. Cik maksā viena cepure?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -355,8 +356,8 @@ apgrieztas spoguļattēlā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -491,14 +492,13 @@ Uz galda stāv četras pēc izskata vienādas bumbiņas, to masas attiecīgi ir
 $10, 11, 12$ un $13$ grami. Vai ar dažām svēršanām uz sviru svariem bez
 atsvariem, kur katrā kausā drīkst ielikt tieši divas bumbiņas, iespējams
 
-**a)** atrast visvieglāko un vissmagāko bumbiņu;
-
-**b)** noteikt katras bumbiņas masu?
+**(A)** atrast visvieglāko un vissmagāko bumbiņu;  
+**(B)** noteikt katras bumbiņas masu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -563,8 +563,8 @@ apgrieztas spoguļattēlā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -616,18 +616,20 @@ $2m-1$ ir salikts skaitlis.
 *Piezīme.* Izvēlamies $N = n^2$, tad $n^2 - a^2$ dalās reizinātājos katram $a \geq 1$.
 Atliek tikai nodrošināties, lai sadalījumā $(n-a)(n+a)$ neviens no reizinātājiem nebūtu $1$.
 
+
+
 # <lo-sample/> LV.AMO.2015.8.4
 
 Divu taisnstūra paralēlskaldņu visu šķautņu garumi ir naturāli skaitļi. Pirmā
-paralēlskaldņa trīs dažādo skaldņu perimetri ir $p_{1}, q_{1}, r_{1}$, bet otrā
-$p_{2}, q_{2}, r_{2}$, turklāt $p_{1} < p_{2}, q_{1} < q_{2}$ un $r_{1} < r_{2}$.
+paralēlskaldņa trīs dažādo skaldņu perimetri ir $p_{1}$, $q_{1}$, $r_{1}$, bet otrā
+$p_{2}$, $q_{2}$, $r_{2}$, turklāt $p_{1} < p_{2}$, $q_{1} < q_{2}$ un $r_{1} < r_{2}$.
 Vai var apgalvot, ka pirmā paralēlskaldņa tilpums ir mazāks nekā otrā
 paralēlskaldņa tilpums?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -654,8 +656,8 @@ $ABC$ ir vienādmalu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -703,8 +705,8 @@ reizinājums ir vismazākais!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -732,8 +734,8 @@ ar izmēriem $1 \times 1 \times 3$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -757,7 +759,7 @@ Pierādi, ka $x^{5}-5x^{3}+4x$ dalās ar $120$, ja $x$ ir vesels skaitlis!
 <small>
 
 * questionType:Prove
-* domain:
+* domain:NT
 
 </small>
 
@@ -786,8 +788,8 @@ $G$. Nosaki $\sphericalangle CGD$ lielumu, ja $\sphericalangle CAD=\alpha$!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -811,23 +813,23 @@ $\sphericalangle CGD=3 \alpha$.
 
 Parādi, kā naturālos skaitļus no $1$ līdz $2n-1$ uzrakstīt rindā tā, ka visas
 blakus esošo skaitļu starpības (no lielākā skaitļa atņem mazāko) ir dažādas un
-skaitlis $1$ ir vidējais ($n$-tais), ja **a)** $n=5$; **b)** $n=1008$.
+skaitlis $1$ ir vidējais ($n$-tais), ja **(A)** $n=5$; **(B)** $n=1008$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,FindExample
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Der, piemēram, virkne
+**(A)** Der, piemēram, virkne
 
 ![](LV.AMO.2015.9.5A.png)
 
-**b)** Aplūkosim skaitļu virkni
+**(B)** Aplūkosim skaitļu virkni
 $1; 2015; 2; 2014; 3; 2013; 4; 2012; ...; 1007; 1009; 1008$ (šī virkne sastāv no
 divām virknēm- vienas augošas $1 ; 2 ; 3 ; \ldots ; 1008$ un otras dilstošas
 $2015; 2014; ...; 1009$). Šajā virknē ir visi skaitļi no $1$ līdz $2015$ un
@@ -854,13 +856,13 @@ starpībām atrodami visi skaitļi no $1$ līdz $2014$:
 
 # <lo-sample/> LV.AMO.2015.10.1
 
-Nosaki funkcijas **a)** $y=x^{2}+2x+2$, **b)** $y=\frac{1}{x^{2}+2x+2}$ vērtību
+Nosaki funkcijas **(A)** $y=x^{2}+2x+2$, **(B)** $y=\frac{1}{x^{2}+2x+2}$ vērtību
 kopu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll,FindAll
+* domain:Alg
 
 </small>
 
@@ -887,8 +889,8 @@ malām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -988,8 +990,8 @@ Pierādīt, ka $BD+BE > 2BC$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1009,13 +1011,13 @@ $BE+EF > BF=BC+CF=2BC$ jeb $BD+BE > 2BC$.
 
 Jura dzimšanas dienas torte ir biezpiena kubs, kura četras sānu skaldnes un
 augšējā skaldne ir noklāta ar šokolādes glazūru (visur vienādi biezu). Kā šo
-torti sadalīt **a)** $4$ daļās, **b)** $3$ daļās tā, lai katras daļas forma ir
+torti sadalīt **(A)** $4$ daļās, **(B)** $3$ daļās tā, lai katras daļas forma ir
 taisna prizma un gan biezpiena, gan glazūras daudzums visās daļās ir vienāds?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1089,8 +1091,8 @@ taisnstūrus, vēl joprojām var pārklāt doto taisnstūri?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1155,8 +1157,8 @@ un $\omega_{2}$ krustpunktā, kas atšķirīgs no punkta $E$ !
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1221,8 +1223,8 @@ vērtību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -1259,8 +1261,8 @@ Uz funkcijas $y=|x-3|+2$ grafika atrast tādu punktu $P$, kura attālumu kvadrā
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg,Geom
 
 </small>
 
@@ -1296,8 +1298,8 @@ spoguļattēlā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1346,8 +1348,8 @@ ja $a, b, c, d$ ir pozitīvi skaitļi!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1374,8 +1376,8 @@ kvadrāts. Pierādīt, ka $AB \geq 3PS$. Kādā gadījumā $AB=3PS$ ?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 

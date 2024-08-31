@@ -5,8 +5,8 @@ ar to reizinājumu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -25,8 +25,8 @@ Parādi, kā kvadrātu var sadalīt četros vienādos piecstūros.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -46,8 +46,8 @@ $1, 2, 3, 4, 5, 8$ izmantots tieši vienu reizi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -71,8 +71,8 @@ lielāks nekā $1$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:NT
 
 </small>
 
@@ -103,8 +103,8 @@ tā, ka no katra punkta iziet tieši $3$ vai $5$ nogriežņi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -126,8 +126,8 @@ $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=1$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -147,14 +147,13 @@ jebkurus divus no tiem, nodzēš tos un rindas galā uzraksta šo skaitļu starp
 (ja skaitļi ir dažādi, starpību aprēķina, no lielākā skaitļa atņemot mazāko).
 Šo darbību atkārto, kamēr uz tāfeles paliek viens skaitlis.
 
-**a)** Vai iespējams, ka šis skaitlis ir $1$?
-
-**b)** Vai iespējams, ka šis skaitlis ir $0$?
+**(A)** Vai iespējams, ka šis skaitlis ir $1$?  
+**(B)** Vai iespējams, ka šis skaitlis ir $0$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -180,38 +179,37 @@ pāra skaitli $0$.
 
 Vai plaknē var uzzīmēt
 
-**a)** $12$-stūri,
-
-**b)** $13$-stūri
+**(A)** $12$-stūri,  
+**(B)** $13$-stūri
 
 un riņķa līniju, kas krusto uzzīmētā daudzstūra katru malu tieši vienā punktā?
 (Riņķa līnija nepieskaras daudzstūra malām un neiet caur tā virsotnēm.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Skat., piem., 3.zīm.
+**(A)** Skat., piem., 3.zīm.
 
-**b)** Nē, nevar. Lai $13$-stūra malas krustotu riņķa līniju, jābūt virsotnēm,
-       kas atrodas riņķa iekšpusē, un virsotnēm, kas atrodas riņķa ārpusē. Ar
-	   $A_{1}$ apzīmēsim $13$-stūra
-	   $A_{1}A_{2}A_{3}A_{4}A_{5}A_{6}A_{7}A_{8}A_{9}A_{10}A_{11}A_{12}A_{13}$
-	   virsotni, kas atrodas riņķa iekšpusē. Lai mala $A_{1}A_{2}$ krustotu
-	   riņķa līniju, virsotnei $A_{2}$ jāatrodas riņķa ārpusē. Līdzīgi virsotnei
-	   $A_{3}$ jāatrodas riņķa iekšpusē, virsotnei $A_{4}$- riņķa ārpusē,
-	   virsotnei $A_{5}$- riņķa iekšpusē, virsotnei $A_{6}$- riņķa ārpusē,
-	   virsotnei $A_{7}$- riņķa iekšpusē, virsotnei $A_{8}$- riņķa ārpusē,
-	   virsotnei $A_{9}$- riņķa iekšpusē, virsotnei $A_{10}$- riņķa ārpusē,
-	   virsotnei $A_{11}$- riņķa iekšpusē, virsotnei $A_{12}$- riņķa ārpusē,
-	   virsotnei $A_{13}$- riņķa iekšpusē. Bet tādā gadījumā $13$-stūra malu
-	   $A_{1}A_{13}$ riņķa līnija nekrusto.
+**(B)** Nē, nevar. Lai $13$-stūra malas krustotu riņķa līniju, jābūt virsotnēm,
+kas atrodas riņķa iekšpusē, un virsotnēm, kas atrodas riņķa ārpusē. Ar
+$A_{1}$ apzīmēsim $13$-stūra
+$A_{1}A_{2}A_{3}A_{4}A_{5}A_{6}A_{7}A_{8}A_{9}A_{10}A_{11}A_{12}A_{13}$
+virsotni, kas atrodas riņķa iekšpusē. Lai mala $A_{1}A_{2}$ krustotu
+riņķa līniju, virsotnei $A_{2}$ jāatrodas riņķa ārpusē. Līdzīgi virsotnei
+$A_{3}$ jāatrodas riņķa iekšpusē, virsotnei $A_{4}$- riņķa ārpusē,
+virsotnei $A_{5}$- riņķa iekšpusē, virsotnei $A_{6}$- riņķa ārpusē,
+virsotnei $A_{7}$- riņķa iekšpusē, virsotnei $A_{8}$- riņķa ārpusē,
+virsotnei $A_{9}$- riņķa iekšpusē, virsotnei $A_{10}$- riņķa ārpusē,
+virsotnei $A_{11}$- riņķa iekšpusē, virsotnei $A_{12}$- riņķa ārpusē,
+virsotnei $A_{13}$- riņķa iekšpusē. Bet tādā gadījumā $13$-stūra malu
+$A_{1}A_{13}$ riņķa līnija nekrusto.
 
 ![](LV.NOL.2013.6.3A.png)
 
@@ -220,12 +218,12 @@ un riņķa līniju, kas krusto uzzīmētā daudzstūra katru malu tieši vienā 
 # <lo-sample/> LV.NOL.2013.6.4
 
 Atrast nenulles ciparus (ne obligāti dažādus):
-**a)** $p, q$ un $r$ tādus, ka skaitlis $\overline{pqr}$ dalās ar
-$\overline{qr}$ un $\overline{qr}$ dalās ar $r$;
-**b)** $k, l, m$ un $n$ tādus, ka skaitlis $\overline{klmn}$ dalās ar
+**(A)** $p, q$ un $r$ tādus, ka skaitlis $\overline{pqr}$ dalās ar
+$\overline{qr}$ un $\overline{qr}$ dalās ar $r$;  
+**(B)** $k, l, m$ un $n$ tādus, ka skaitlis $\overline{klmn}$ dalās ar
 $\overline{lmn}, \overline{lmn}$ dalās ar $\overline{mn}$ un $\overline{mn}$
-dalās ar $n$;
-**c)** $a, b, c, d$ un $e$ tādus, ka skaitlis $\overline{abcde}$ dalās ar
+dalās ar $n$;  
+**(C)** $a, b, c, d$ un $e$ tādus, ka skaitlis $\overline{abcde}$ dalās ar
 $\overline{bcde}, \overline{bcde}$ dalās ar $\overline{cde}, \overline{cde}$
 dalās ar $\overline{de}$ un $\overline{de}$ dalās ar $e$.
 
@@ -234,21 +232,21 @@ $y$ *simti,* $z$ *desmiti un* $t$ *vieni.*)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,FindExample,FindExample
+* domain:NT
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Ja pirmais cipars ir $1$, tad, pierakstot klāt divciparu skaitli, ar ko
+**(A)** Ja pirmais cipars ir $1$, tad, pierakstot klāt divciparu skaitli, ar ko
 dalās $100$, piemēram, $25$, iegūstam meklēto skaitli $125$.
 
-**b)** Spriežot līdzīgi un izmantojot jau a) gadījumā atrasto $3$ ciparu
+**(B)** Spriežot līdzīgi un izmantojot jau (A) gadījumā atrasto $3$ ciparu
 skaitli, var iegūt skaitli $1125$, kas apmierina uzdevuma prasības.
 
-**c)** Var pamanīt, ka $90000$ dalās ar $1125$, tāpēc der skaitlis $91125$.
+**(C)** Var pamanīt, ka $90000$ dalās ar $1125$, tāpēc der skaitlis $91125$.
 
 *Piezīme. Uzdevumam katrā apakšpunktā ir arī vairāki citi atrisinājumi.*
 
@@ -256,7 +254,7 @@ skaitli, var iegūt skaitli $1125$, kas apmierina uzdevuma prasības.
 
 # <lo-sample/> LV.NOL.2013.6.5
 
-Vai kvadrātā $6 \times 6$ rūtiņas var iekrāsot **a)** $7$ rūtiņas; **b)** $6$
+Vai kvadrātā $6 \times 6$ rūtiņas var iekrāsot **(A)** $7$ rūtiņas; **(B)** $6$
 rūtiņas tā, lai atlikušajā daļā vairs nevarētu ievietot nevienu 1.zīmējumā
 attēloto figūru (tā var būt pagriezta vai apgriezta citādi)?
 
@@ -266,8 +264,8 @@ Figūra var tikt novietota tikai tā, lai tās malas ietu pa rūtiņu līnijām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -275,7 +273,9 @@ Figūra var tikt novietota tikai tā, lai tās malas ietu pa rūtiņu līnijām.
 ## Atrisinājums
 
 **Atbilde:** var iekrāsot gan $7$ , gan $6$ rūtiņas tā, lai uzdevuma prasības
-būtu izpildītas. 4.zīm. parādīts, kā var iekrāsot $6$ rūtiņas; šajā zīmējumā
+būtu izpildītas. 
+
+4.zīm. parādīts, kā var iekrāsot $6$ rūtiņas; šajā zīmējumā
 iekrāsojot vēl vienu jebkuru rūtiņu, uzdevuma prasības tiks apmierinātas. Ir arī
 citi veidi, kā var iekrāsot $7$ rūtiņas.
 
@@ -335,9 +335,16 @@ ar $3, 6$ ar $10$ un $1$ ar $15$.
 
 
 ## Atrisinājums
- 
-**#GadījumuPārlase** 
-(18,7), (17,8), (16,9) $\rightarrow$ (2,14) $\rightarrow$ (11,5) $\rightarrow$ (4,12) $\rightarrow$ (13,3) $\rightarrow$ (1,15).
+
+Saliekam skaitļus pāros (sākot ar tiem skaitļiem, kam nav alternatīvu) un 
+pakāpeniski secinām: 
+
+* $(18,7)$, $(17,8)$, $(16,9)$ (jo $18,17,16$ noteikti summējas ar kaut ko līdz vērtībai $25$)
+* $(2,14)$ (jo $2+7 = 9$ vairs nevar dabūt - skaitlis $7$ ir aizņemts)
+* $(11,5)$ (jo $11 + 14=25$ vairs nevar dabūt), 
+* $(4,12)$ (jo $4+5 = 9$ vairs nevar dabūt), 
+* $(13,3)$ (jo $13 + 12 = 25$ vairs nevar dabūt), 
+* $(1,15)$ (jo $1+3 = 4$ vairs nevar dabūt).
 
 
 
@@ -389,8 +396,8 @@ atrodas uz vienas taisnes?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -456,8 +463,8 @@ malas garumu $2$ un kuros ierakstīto skaitļu summa ir vismaz $18$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -513,8 +520,8 @@ leņķu lielumus!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -641,23 +648,22 @@ skaitļu reizinājumi ir $2^15 = 32768$.
 Rindā kaut kādā secībā stāv $10$ zēni un $10$ meitenes. Divus bērnus var mainīt
 vietām, ja starp tiem stāv ne vairāk kā $9$ citi bērni.
 
-**a)** Pierādi, ka ar $10$ maiņām noteikti pietiek, lai panāktu, ka vispirms
-stāv $10$ zēni un pēc tam $10$ meitenes.
-
-**b)** Pierādi, ka sākuma situācija var būt tāda, ka ar $9$ maiņām nevar panākt,
+**(A)** Pierādi, ka ar $10$ maiņām noteikti pietiek, lai panāktu, ka vispirms
+stāv $10$ zēni un pēc tam $10$ meitenes.  
+**(B)** Pierādi, ka sākuma situācija var būt tāda, ka ar $9$ maiņām nevar panākt,
 ka vispirms stāv $10$ zēni un pēc tam $10$ meitenes.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Sanumurēsim pozīcijas no $1$ līdz $20$. Mums jāpanāk, ka pozīcijās no
+**(A)** Sanumurēsim pozīcijas no $1$ līdz $20$. Mums jāpanāk, ka pozīcijās no
 $1$ līdz $10$ stāv zēni, bet no $11$ līdz $20$- meitenes.
 
 Aplūkosim pirmo pozīciju. Ja tur stāv zēns, tad viss jau kārtībā. Ja meitene,
@@ -672,7 +678,7 @@ trešajā solī- ka trešajā pozīcijā stāv zēns utt.
 Ar $10$ soļiem, t.i., ar ne vairāk kā $10$ maiņām var panākt, ka visās pozīcijās
 no $1$ līdz $10$ stāv zēni.
 
-**b)** Aplūkosim sākuma situāciju, kad meitenes stāv pozīcijās no $1$ līdz $10$,
+**(B)** Aplūkosim sākuma situāciju, kad meitenes stāv pozīcijās no $1$ līdz $10$,
 bet zēni- pozīcijās no $11$ līdz $20$. Katrā maiņā piedalās tikai viens zēns
 ($2$ zēnu mainīšana vietām neko nemaina), tāpēc pēc $9$ maiņām noteikti būs
 vismaz viens zēns, kas savu vietu nebūs mainījis, tātad joprojām atradīsies
@@ -687,8 +693,8 @@ $987654321$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -707,8 +713,8 @@ izvēles.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -732,8 +738,8 @@ ar vienu un to pašu skaitli. Atrast visus šādus taisnstūrus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -752,13 +758,14 @@ naturālos skaitļos ir divi atrisinājumi:
 # <lo-sample/> LV.NOL.2013.9.4
 
 Zināms, ka $a_{1}, a_{2}, \ldots, a_{2013}$ ir tādi naturāli skaitļi, ka
-$a_{1} > \sqrt{a_{2}}, a_{2} > \sqrt{a_{3}}, \ldots$, $a_{2012} > \sqrt{a_{2013}}$ un $a_{2013} > \sqrt{a_{1}}$.
-Aprēķināt mazāko iespējamo summas $a_{1}+a_{2}+\ldots+a_{2013}$ vērtību.
+$a_{1} > \sqrt{a_{2}}, a_{2} > \sqrt{a_{3}}, \ldots$, $a_{2012} > \sqrt{a_{2013}}$ un 
+$a_{2013} > \sqrt{a_{1}}$. Aprēķināt mazāko iespējamo summas 
+$a_{1}+a_{2}+\ldots+a_{2013}$ vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -786,8 +793,8 @@ risinājumi netika iesniegti.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -807,21 +814,21 @@ tos pašus uzdevumus.
 # <lo-sample/> LV.NOL.2013.10.1
 
 Zināms, ka $a_{1}, a_{2}, \ldots, a_{10}$ ir dažādi naturāli skaitļi tādi, ka
-$a_{1} > \sqrt{a_{2}}, a_{2} > \sqrt{a_{3}}$, ..., $\quad a_{9} > \sqrt{a_{10}}$
+$a_{1} > \sqrt{a_{2}}, a_{2} > \sqrt{a_{3}}$, $\ldots$, $a_{9} > \sqrt{a_{10}}$
 un $a_{10} > \sqrt{a_{1}}$. Aprēķināt mazāko iespējamo summas
 $a_{1}+a_{2}+\ldots+a_{10}$ vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
 
 ## Atrisinājums
 
-Tā kā visi $a_{i}(i=1,2, \ldots, 10)$ ir naturāli skaitļi, to mazākā iespējamā
+Tā kā visi $a_{i}$ ($i=1,2, \ldots, 10$) ir naturāli skaitļi, to mazākā iespējamā
 vērtība ir $1$. Ja kāds no dotajiem skaitļiem $a_{k}=1$, tad nevienādība
 $a_{k}=1 > \sqrt{a_{k+1}}$ nav patiesa nevienam naturālam skaitlim $a_{k+1}$.
 Tātad mazākā iespējamā skaitļu $a_{i}$ vērtība ir $2$. Viegli pārbaudīt, ka
@@ -830,7 +837,7 @@ $a_{8}=9$, $a_{9}=10$, $a_{10}=11$ apmierina dotās nevienādības. Tā kā tie 
 mazākie dažādie naturālie skaitļi, kas apmierina dotās nevienādības, tad summas
 $a_{1}+a_{2}+\ldots+a_{10}$ mazākā iespējamā vērtība ir
 
-$$2+3+4+5+6+7+8+9+10+11=65$$.
+$$2+3+4+5+6+7+8+9+10+11=65.$$
 
 
 
@@ -842,8 +849,8 @@ $ABC$ leņķus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -889,8 +896,8 @@ un kurai nav vienāda garuma šķautņu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -946,8 +953,8 @@ mazāko.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -969,8 +976,8 @@ Atrisināt veselos skaitļos vienādojumu $(x-y)(x+y)=x$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1004,12 +1011,12 @@ Tātad arī šajā gadījumā $x(x-1)$ nevar būt vesela skaitļa kvadrāts.
 
 Caur paralelograma $ABCD$ virsotnēm $B$ un $D$ ir novilkta riņķa līnija, kas
 krusto malas $AB, DA, BC$ un $CD$ attiecīgi to
-iekšējos punktos $P, Q, R$ un $S$. Pierādīt, ka $PQ || RS$
+iekšējos punktos $P, Q, R$ un $S$. Pierādīt, ka $PQ \| RS$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1039,8 +1046,8 @@ svēršanām atrast vismaz vienu monētu, kas sver $9$ gramus?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -1050,14 +1057,14 @@ svēršanām atrast vismaz vienu monētu, kas sver $9$ gramus?
 Var rīkoties, piemēram, šādi.
 
 Vispirms katrā svaru kausā novieto trīs monētas. Ja svari ir līdzsvarā, tad
-katra $9~ \mathrm{g}$ smagā monēta ir savā kausā. Tad izvēlas divas monētas no
+katra $9~\mathrm{g}$ smagā monēta ir savā kausā. Tad izvēlas divas monētas no
 viena kausa un sver vēlreiz. Ja to masas ir vienādas, tad atlikusī monēta sver
-$9~ \mathrm{g}$; ja nē, tad vieglākā no tām sver $9~ \mathrm{g}$.
+$9~\mathrm{g}$; ja nē, tad vieglākā no tām sver $9~\mathrm{g}$.
 
-Ja pirmajā svēršanā viens svaru kauss (apzīmēsim to ar $A$ ) bija vieglāks, tad
-abas $9~ \mathrm{g}$ monētas ir šajā svaru kausā. Tad izvēlas divas monētas no
+Ja pirmajā svēršanā viens svaru kauss (apzīmēsim to ar $A$) bija vieglāks, tad
+abas $9~\mathrm{g}$ monētas ir šajā svaru kausā. Tad izvēlas divas monētas no
 kausa $A$ un sver vēlreiz. Ja svari ir līdzsvarā, tad atrastas abas
-$9~ \mathrm{g}$ monētas, pretējā gadījumā vieglākā no tām sver $9$ gramus.
+$9~\mathrm{g}$ monētas, pretējā gadījumā vieglākā no tām sver $9$ gramus.
 
 
 
@@ -1069,8 +1076,8 @@ polinoms pieņem vērtību $2013$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1094,8 +1101,8 @@ nedrīkst krustoties.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1127,12 +1134,12 @@ pretrunā ar pieņēmumu.
 
 Zināms, ka $a$ un $b$ ir divi dažādi naturāli skaitļi. Pierādīt, ka
 
-$$\frac{a+b}{2}-\sqrt{ab} > \frac{1}{4(a+b)}$$
+$$\frac{a+b}{2}-\sqrt{ab} > \frac{1}{4(a+b)}.$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1158,8 +1165,8 @@ $MN$ krustojas punktā $X$. Pierādīt, ka $\triangle NBX \sim \triangle PBC$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1184,14 +1191,14 @@ to. Tomēr tas nekādi neietekmē uzdevuma risinājumu (piem., sk. 6. un 7.zīm.
 
 # <lo-sample/> LV.NOL.2013.12.3
 
-Dots, ka $n > 1$ ir tāds naturāls skaitlis, kas, dalot ar $7$, dod atlikumu
+Dots, ka $n>1$ ir tāds naturāls skaitlis, kas, dalot ar $7$, dod atlikumu
 $1$. Pierādīt, ka skaitļa $n^{2}+3n+3$ visi pirmreizinātāji ir mazāki nekā
 $n^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1225,8 +1232,8 @@ trijstūra laukums nepārsniedz $\frac{\sqrt{3}}{16}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1264,15 +1271,15 @@ $\frac{\sqrt{3}}{4} \cdot \frac{1}{4}=\frac{\sqrt{3}}{16}$, k.b.j.
 # <lo-sample/> LV.NOL.2013.12.5
 
 Parlamentā ir $2013$ deputāti; katram no viņiem ir domstarpības ar ne vairāk
-kā $d$ ( $0 \leq d \leq 2012$ ) citiem deputātiem. Domstarpības ir abpusējas:
+kā $d$ ($0 \leq d \leq 2012$) citiem deputātiem. Domstarpības ir abpusējas:
 ja $A$ ir domstarpības ar $B$, tad arī $B$ ir domstarpības ar $A$. Pierādīt,
 ka deputātus var sadalīt $d+1$ komisijā tā, lai nekādiem diviem vienas
 komisijas locekļiem nebūtu domstarpību savā starpā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
