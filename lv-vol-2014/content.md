@@ -4,8 +4,8 @@ Kādu mazāko vērtību var pieņemt izteiksme $x+\frac{2014}{x}$, ja $x>0$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -75,8 +75,8 @@ perpendikulārs $AY$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -106,16 +106,15 @@ vārdu. Diemžēl, ieņemot vietas pie galda, diplomāti šīs plāksnītes neņ
 un izrādījās, ka neviens no diplomātiem nav apsēdies pretī savai plāksnītei.
 
 **(A)** Pierādīt: nepārsēdinot diplomātus, galdu ir iespējams pagriezt tā, ka 
-vismaz divi diplomāti atradīsies pret savām plāksnītēm.
-
+vismaz divi diplomāti atradīsies pret savām plāksnītēm.  
 **(B)** Pierādīt: ja sākumā tieši viens diplomāts būtu sēdējis pret savu 
 plāksnīti, tad ir iespējams, ka viņi apsēdušies tā, ka, pagriežot galdu, nav 
 iespējams panākt, ka pret savu plāksnīti atradīsies vairāk par vienu diplomātu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Comb
 
 </small>
 
@@ -153,8 +152,8 @@ sakņu kubu summu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -195,12 +194,12 @@ $$\left\{\begin{array}{l}
 x=y+z
 \end{array}\right.$$
 
-kur $x,\ y,\ z$ - veseli nenegatīvi skaitļi.
+kur $x$, $y$, $z$ - veseli nenegatīvi skaitļi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -209,7 +208,6 @@ kur $x,\ y,\ z$ - veseli nenegatīvi skaitļi.
 Ievērojam, ka sistēmas atrisinājums ir $(0,0,0)$.
 
 Pirmajā vienādojumā aizstājot $y+z$ ar $x$, iegūstam
-
 $5(x+x)=xyz$ jeb $10x=xyz$
 
 Ja $x \neq 0$, tad no pirmā vienādojuma iegūstam, ka
@@ -279,7 +277,6 @@ Derīgās $n+3$ vērtības apkopotas tabulas otrajā kolonnā:
 | $21$ | $24$ | $25$ |
 
 No skaitļu $n+4$ vērtībām ietonētās ir skaitļa $260$ dalītāji.
-
 Tātad meklētās $n$ vērtības ir $-9,\ -6,\ -5,\ -2,\ 0,\ 1,\ 9$.
 
 
@@ -452,8 +449,8 @@ vidusperpendikulu punktā $F$. Pierādīt, ka $BC=2AF$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -502,8 +499,8 @@ nē. Kāds ir lielākais iespējamais partiju skaits, kas gatavojas vēlēšanā
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -543,8 +540,8 @@ naturālajam skaitlim, iegūtie skaitļi ir vienādi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -610,8 +607,8 @@ ierakstīto četru skaitļu summa būtu vienāda ar $M$. Vai to var izdarīt, ja
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -652,8 +649,8 @@ $P,\ Q$ un $R$. Pierādīt, ka $A$ ir trijstūra $PQR$ bisektrišu krustpunkts.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -745,14 +742,14 @@ Atliek ievērot, ka
 
 # <lo-sample/> LV.VOL.2014.12.1
 
-Izteiksmē $\pm 1 \pm 2 \pm 3 \pm \ldots \pm 100=2014$ katru zīmi " $\pm$ " 
+Izteiksmē $\pm 1 \pm 2 \pm 3 \pm \ldots \pm 100=2014$ katru zīmi "$\pm$" 
 aizvietoja vai nu ar "+", vai "-" tā, lai izteiksme būtu patiesa. Kāds 
 lielākais "+" zīmju skaits var būt šajā izteiksmē?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -840,8 +837,8 @@ ir trijstūra $AEO$ augstums. Aprēķināt leņķa $AED$ lielumu grādos.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -896,8 +893,8 @@ iespējamais kopējais šaha partiju skaits, kas ir izspēlētas šajā festivā
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 

@@ -47,11 +47,9 @@ vērtības, kurām $n+m=31$.
 
 # <lo-sample/> LV.VOL.2015.9.2
 
-Pierādīt, ka, izmantojot
-
+Pierādīt, ka, izmantojot  
 **(A)** visas septiņas dotās figūras (skat 1.att.), katru tieši vienu reizi, 
-nav iespējams salikt taisnstūri;
-
+nav iespējams salikt taisnstūri;  
 **(B)** sešas no dotajām figūrām, katru tieši vienu reizi, var salikt 
 taisnstūri.
 
@@ -63,8 +61,8 @@ pārklāties.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Geom
 
 </small>
 
@@ -172,8 +170,8 @@ Pierādīt, ka $AB>BC$ !
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -205,8 +203,8 @@ ja $a$ ir reāls skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -249,8 +247,8 @@ $a^{4}b+ab^{4}+3a^{3}b^{2}+3a^{2}b^{3}$ vērtība ir vesels skaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -383,8 +381,8 @@ $(a+d)^{2}+(b+e)^{2} \leq(c+f)^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -426,8 +424,8 @@ rādiuss!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -472,8 +470,7 @@ jāpierāda.
 # <lo-sample/> LV.VOL.2015.10.5
 
 **(A)** Pierādīt, ka, izmantojot visas piecas dotās figūras (skat. 2.att.), 
-katru tieši vienu reizi, nav iespējams salikt taisnstūri!
-
+katru tieši vienu reizi, nav iespējams salikt taisnstūri!  
 **(B)** Vai, izmantojot četras no dotajām figūrām, katru tieši vienu reizi, var
 salikt taisnstūri?
 
@@ -484,8 +481,8 @@ apmest otrādi. Taisnstūrī nedrīkst būt caurumi, un figūras nedrīkst pārk
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -572,8 +569,8 @@ un kura malas iet pa rūtiņu līnijām?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -604,8 +601,8 @@ pietiek, lai panāktu, ka visi papagaiļi atrodas savos sākotnējos krātiņos?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -680,8 +677,8 @@ līnijas rādiuss!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -744,8 +741,8 @@ $\frac{\sin 3x}{\sin x}$ vērtību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -783,8 +780,8 @@ $\sphericalangle PBC=\sphericalangle PDC$!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -882,8 +879,8 @@ kādām naturālām $d$ vērtībām šāds krāsojums ir iespējams!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -906,24 +903,24 @@ nepāra skaitlis, bet, ja $d$ ir pāra skaitlis, tad ne.
 # <lo-sample/> LV.VOL.2015.12.5
 
 Votivapu valodā visi vārdi sastāv tikai no diviem burtiem $a$ un $b$. Jebkuru 
-vārdu var iegūt no vārda " $a$ ", atkārtoti lietojot šādus trīs likumus:
+vārdu var iegūt no vārda "$a$", atkārtoti lietojot šādus trīs likumus:
 
-1) pierakstot vārdam galā burtu $b$;
-2) pierakstot vārdam galā sevi pašu;
-3) aizstājot vārdā trīs pēc kārtas esošus burtus $a$ ar vienu burtu $b$.
+1. pierakstot vārdam galā burtu $b$;
+2. pierakstot vārdam galā sevi pašu;
+3. aizstājot vārdā trīs pēc kārtas esošus burtus $a$ ar vienu burtu $b$.
 
 Vai votivapu valodā ir vārdi **(A)** $abbababab$; **(B)** $baabaabaa$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
 ## Atrisinājums
 
-**(A)** Vārdu " $abbababab$ " var iegūt šādi:
+**(A)** Vārdu "$abbababab$" var iegūt šādi:
 
 $$\begin{aligned}
 & a \xrightarrow{\text {2)}} aa \stackrel{\text {2)}}{\rightarrow} aaaa \xrightarrow{2)} aaaaaaaa \xrightarrow{2)} aaaaaaaaaaaaaaaa \xrightarrow{\text {3)}} abaaaaaaaaaaaa \xrightarrow{\text {3)}} \\
@@ -932,25 +929,25 @@ $$\begin{aligned}
 \end{aligned}$$
 
 
-**(B)** Vārdu " $baabaabaa$ " nevar iegūt. Burtu $a$ aizstājam ar ciparu $1$, 
+**(B)** Vārdu "$baabaabaa$" nevar iegūt. Burtu $a$ aizstājam ar ciparu $1$, 
 bet burtu $b$ - ar ciparu $3$. Tad visi vārdi votivapu valodā tiek aizstāti 
 ar naturāliem skaitļiem, kuru pierakstā izmantoti tikai cipari $1$ un $3$.
 
-Ievērojam, ka sākotnējais vārds " $a$ " jeb skaitlis $1$ nedalās ar $3$.
+Ievērojam, ka sākotnējais vārds "$a$" jeb skaitlis $1$ nedalās ar $3$.
 
 Pierādīsim, ja kāds skaitlis nedalās ar $3$, tad skaitlis, kas no tā tiek 
 iegūts ar uzdevumā dotajām darbībām, arī nedalās ar $3$:
 
-1) ja skaitlis nedalās ar $3$, tad, pierakstot tam galā $3$, arī iegūtais 
+1. ja skaitlis nedalās ar $3$, tad, pierakstot tam galā $3$, arī iegūtais 
    skaitlis nedalās ar $3$, jo ciparu summas atlikums, dalot ar $3$, nemainās;
-2) ja skaitļa ciparu summa, dalot ar $3$, dod atlikumu $1$, tad iegūtā skaitļa 
+2. ja skaitļa ciparu summa, dalot ar $3$, dod atlikumu $1$, tad iegūtā skaitļa 
    ciparu summa, dalot ar $3$, dod atlikumu $2$; ja skaitļa ciparu summa, dalot
    ar $3$, dod atlikumu $2$, tad iegūtā skaitļa ciparu summa, dalot ar $3$, dod
    atlikumu $1$; abos gadījumos iegūtais skaitlis nedalās ar $3$;
-3) skaitļa ciparu summa nemainās, aizstājot $111$ ar $3$, tātad iegūtais 
+3. skaitļa ciparu summa nemainās, aizstājot $111$ ar $3$, tātad iegūtais 
    skaitlis nedalās ar $3$.
 
-Aizstājot vārda " $baabaabaa$ " burtus ar cipariem, iegūst skaitli $311311311$,
+Aizstājot vārda "$baabaabaa$" burtus ar cipariem, iegūst skaitli $311311311$,
 kas dalās ar $3$, jo tā ciparu summa ir $15$. Tātad, vairākkārt izmantojot 
 dotos likumus, šo vārdu nav iespējams iegūt.
 

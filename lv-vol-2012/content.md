@@ -27,12 +27,12 @@ $20112012$ ar $8$ nedalās.
 # <lo-sample/> LV.VOL.2012.9.2
 
 Pierādīt, ka nav iespējams izveidot trijstūri, kura augstumu garumi ir 
-$4~\mathrm{cm},\ 7~\mathrm{cm}$ un $10~\mathrm{cm}$.
+$4~\mathrm{cm}$, $7~\mathrm{cm}$ un $10~\mathrm{cm}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -56,8 +56,8 @@ $q_{1} \leq q_{2} \leq q_{3} \leq 0$. Kādas ir iespējamās $q_{2}$ vērtības?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -82,8 +82,8 @@ $AB^{2}-BE^{2}+EC^{2}=AC^{2}$. Pierādīt, ka $AE \perp BC$!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -121,8 +121,8 @@ figūras? Griezuma līnijām jāiet pa rūtiņu malām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -153,8 +153,8 @@ ir atrisinājums reālos skaitļos?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -174,15 +174,15 @@ $x=1 \pm \sqrt{\frac{1}{2}}, y=1 \mp \sqrt{\frac{1}{2}}$.
 
 # <lo-sample/> LV.VOL.2012.10.2
 
-2. Trijstūra $ABC$ katra mala sadalīta septiņās vienādās daļās (skat. 3.zīm.). 
+Trijstūra $ABC$ katra mala sadalīta septiņās vienādās daļās (skat. 3.zīm.). 
 Pierādīt, ka $S_{A_{1}B_{1}C_{1}}+S_{A_{2}B_{2}C_{2}}>S_{ABC}$.
 
 ![](LV.VOL.2012.10.2.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -218,6 +218,7 @@ ka skaitļa $N^{2}$ decimālajā pierakstā nav cipara $0$.
 <small>
 
 * questionType:Prove
+* domain:NT
 * strategy:TrialAndError 
 * topic:SeriesMembersSumsClosedFormulas
 * topic:PeriodicDigitGroups
@@ -265,15 +266,15 @@ $$(\underbrace{6\ldots6}_n)^2=\overline{\underbrace{4\ldots{}4}\_{n-1}3\underbra
 
 # <lo-sample/> LV.VOL.2012.10.4
 
-Trijās no piecstūra virsotnēm atrodas kauliņi $A,\ B,\ C$. Atļauts pārbīdīt 
+Trijās no piecstūra virsotnēm atrodas kauliņi $A$, $B$, $C$. Atļauts pārbīdīt 
 kauliņu pa piecstūra diagonāli uz citu virsotni, ja tā ir brīva. Vai, atkārtoti
 pārbīdot šos kauliņus, var panākt, lai kauliņš $A$ atrastos savā vietā, bet 
 kauliņi $B$ un $C$ būtu samainīušies vietām?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -300,8 +301,8 @@ rūtiņas, skat. 4.zīm.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -354,8 +355,8 @@ rūtiņas tabulā var būt iekrāsotas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -418,8 +419,8 @@ Kāda ir maksimālā šo daļu laukumu attiecība?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -505,8 +506,8 @@ Kurš no zēniem uzvarēs, pareizi spēlējot?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -557,8 +558,8 @@ centrs atrodas uz trijstūrim $ABC$ apvilktās riņķa līnijas.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -632,8 +633,8 @@ Rūtiņas sauc par kaimiņu rūtiņām, ja tām ir kopīga mala.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -672,8 +673,8 @@ uzzīmētos riņķus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 

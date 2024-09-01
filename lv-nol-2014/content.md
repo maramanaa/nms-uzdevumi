@@ -9,8 +9,8 @@ citu!)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -35,8 +35,8 @@ pamatot!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -68,8 +68,8 @@ $B$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -92,8 +92,8 @@ kārtas. Cik lappušu numuros ir sastopams cipars $7$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -144,8 +144,8 @@ tā, ka no katra punkta iziet nepāra skaits nogriežņu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -162,16 +162,15 @@ aprakstītā situācija nav iespējama.
 
 Atrodiet kaut vienu tādu skaitli $a$, ka vienlaicīgi izpildās šādas īpašības:
 
-**(A)** noapaļojot $a$, $3 \cdot a$, $5 \cdot a$, $7 \cdot a$ līdz veselam 
-skaitlim, jānoapaļo uz leju;
-
-**(B)** noapaļojot $2 \cdot a,\ 4 \cdot a,\ 6 \cdot a$ līdz veselam skaitlim, 
-jānoapaļo uz augšu.
+a. noapaļojot $a$, $3 \cdot a$, $5 \cdot a$, $7 \cdot a$ līdz veselam 
+   skaitlim, jānoapaļo uz leju;
+b. noapaļojot $2 \cdot a,\ 4 \cdot a,\ 6 \cdot a$ līdz veselam skaitlim, 
+   jānoapaļo uz augšu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
 
 </small>
 
@@ -190,8 +189,8 @@ laukums var būt mazāks par $10$ rūtiņām?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -209,23 +208,22 @@ Pareizā vienādībā $4 \cdot 4=16$ var katru ciparu izmainīt tieši par $1$ u
 atkal iegūt pareizu vienādību $5 \cdot 5=25$. Atrast
 
 **(A)** kaut vienu piemēru ar tādu pašu īpašību, kurā reizina viencipara 
-skaitli un trīsciparu skaitli,
-
+skaitli un trīsciparu skaitli,  
 **(B)** kaut vienu piemēru ar tādu pašu īpašību, kurā reizina viencipara 
 skaitli un divciparu skaitli, pie tam sākotnējā vienādībā ir vismaz četri 
 dažādi cipari.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,FindExample
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
-Der, piemēram,
-**(A)** $1 \cdot 333=333$ un $2 \cdot 222=444$;
+Der, piemēram,  
+**(A)** $1 \cdot 333=333$ un $2 \cdot 222=444$;  
 **(B)** $3 \cdot 25=75$ un $4 \cdot 16=64$.
 
 
@@ -237,8 +235,8 @@ kārtas. Cik lappušu numuros ir sastopams vismaz viens no cipariem $3$ vai $7$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -294,14 +292,13 @@ jebkurus divus no tiem, nodzēš tos un rindas galā uzraksta šo skaitļu starp
 (ja skaitļi ir dažādi, starpību aprēķina, no lielākā skaitļa atņemot mazāko). 
 Šo darbību atkārto, kamēr uz tāfeles paliek viens skaitlis.
 
-**(A)** Vai iespējams, ka šis skaitlis ir $0$?
-
+**(A)** Vai iespējams, ka šis skaitlis ir $0$?  
 **(B)** Vai iespējams, ka šis skaitlis ir $1$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -337,18 +334,16 @@ Ariadne vienā (jebkurā) rūtiņā ieraksta vienu skaitli, pēc tam Eleonora ci
 rūtiņā ieraksta vienu skaitli un beidzot Ariadne ieraksta skaitli atlikušajā 
 tukšajā rūtiņā. Pierādīt, ka Ariadne var panākt jebkuru no trim situācijām:
 
-**(A)** vienādojumam ir tieši viens atrisinājums,
-
-**(B)** vienādojumam nav atrisinājumu;
-
+**(A)** vienādojumam ir tieši viens atrisinājums,  
+**(B)** vienādojumam nav atrisinājumu;  
 **(C)** vienādojumam ir bezgalīgi daudz atrisinājumu.
 
 (Spēles sākumā jau zināms, kuru situāciju jāiegūst.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove,Prove
+* domain:Alg
 
 </small>
 
@@ -382,8 +377,8 @@ Pierādīt, ka $OX=OY$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -457,8 +452,7 @@ Vērtības $x=29,58,87,116,\ldots,2001$ dalās ar $29$. Piemēram $2001 = 29 \cd
 Bet tā kā ar $29$ drīkst dalīties arī $x+1$ vai $x+2$, tad der arī $x=28,57,86,115,\ldots$
 un arī $x=27,56,85,114,\ldots$. Tāpēc atrisinājumu ir trīsreiz vairāk nekā $69$. 
 To pavisam ir $3 \cdot 69 = 207$.
-
-jādalās ar $29$. 
+ 
 Tādu $x$ ir trīsreiz vairāk kā $\left\lfloor 2014/29 \right\rfloor$. 
 
 
@@ -474,8 +468,8 @@ apmeklētājiem ir kļūdījies.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -500,8 +494,8 @@ maršruts drīkst saturēt augstākais vienu pagriezienu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -526,8 +520,8 @@ saknes (varbūt vienādas), un izteikt tās, neizmantojot kvadrātsaknes zīmi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -551,8 +545,8 @@ uz $EF$. Malas $BC$ viduspunkts ir $G$. Pierādīt, ka $AG=EG$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -628,8 +622,8 @@ uzrakstīti nepāra skaitļi, ja **(A)** $N=2014$, **(B)** $N=2401$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -653,8 +647,8 @@ rūtiņas centru.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -696,8 +690,8 @@ $b$ ir dažādi skaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -740,8 +734,8 @@ taisnstūra laukums. Atrast visus šādus taisnstūrus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -769,8 +763,8 @@ Atrisināt naturālos skaitļos vienādojumu $3abc+3a+3b=7bc+7$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -813,8 +807,8 @@ sienāzi (katru savā rūtiņā) tā, lai tie viens otru neapdraudētu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -844,19 +838,19 @@ Tātad kopējais dažādo figūru izvietojumu skaits ir $248+1464+2124=3836$.
 
 # <lo-sample/> LV.NOL.2014.9.5
 
-Kvadrāta $ABCD$ malas garums ir $1;\ M$ ir malas $AD$ viduspunkts. Nogriežņi 
+Kvadrāta $ABCD$ malas garums ir $1$; $M$ ir malas $AD$ viduspunkts. Nogriežņi 
 $AC$ un $BM$ krustojas punktā $S$. Aprēķināt trijstūra $ASM$ laukumu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
 ## Atrisinājums
 
-Trijstūri $ASM$ un $CSB$ ir līdzīgi (pēc pazīmes " $\ell \ell$ "), jo 
+Trijstūri $ASM$ un $CSB$ ir līdzīgi (pēc pazīmes "$\ell \ell$"), jo 
 $\sphericalangle ASM=\sphericalangle CSB$ kā krustleņķi un 
 $\sphericalangle SAM=\sphericalangle SCB$ kā iekšējie šķērsleņķi pie paralēlām 
 taisnēm $AD$ un $BC$ (skat. A2.zīm.). Tā kā $AM=\frac{1}{2} AD=\frac{1}{2} BC$,
@@ -885,8 +879,8 @@ Dots, ka $x^{3}>2$. Pierādīt, ka
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Alg
 
 </small>
 
@@ -979,8 +973,8 @@ punktā $F$. Zināms, ka $BC=DF=DE$. Pierādīt, ka $AC=CE$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1008,14 +1002,14 @@ trijstūris $AEC$ ir vienādsānu un $AC=CE$ kā atbilstošās sānu malas.
 # <lo-sample/> LV.NOL.2014.10.4
 
 Zināms, ka $a_{1}, a_{2}, \ldots, a_{10}$ ir tādi dažādi nepāra naturāli 
-skaitļi, ka $a_{1}>\sqrt{a_{2}},\ a_{2}>\sqrt{a_{3}}, \ldots$, 
+skaitļi, ka $a_{1}>\sqrt{a_{2}}$, $a_{2}>\sqrt{a_{3}}$, $\ldots$, 
 $a_{9}>\sqrt{a_{10}}$ un $a_{10}>\sqrt{a_{1}}$. Aprēķināt vismazāko summas 
 $a_{1}+a_{2}+\ldots+a_{10}$ vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1044,8 +1038,8 @@ grozu skaits?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal,FindOptimal
+* domain:Comb
 
 </small>
 
@@ -1093,8 +1087,8 @@ pie kuras dotais polinoms pieņem vērtību $2014$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1119,8 +1113,8 @@ lielumu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -1152,8 +1146,8 @@ dalītāju, izņemot $1$ un $n$, kvadrātu summa ir vienāda ar pašu skaitli $n
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -1188,8 +1182,8 @@ ka pirmais izseko otro, otrais - trešo, $\ldots$, $(n-1)$-ais izseko $n$-to.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
@@ -1225,15 +1219,15 @@ Līdz ar to esam pieradījuši uzdevuma prasīto.
 
 # <lo-sample/> LV.NOL.2014.11.5
 
-Neviens no reāliem skaitļiem $x,\ y$ un $z$ nav nulle un $x+y+z=xyz$. Pierādīt,
-ka
+Neviens no reāliem skaitļiem $x$, $y$ un $z$ nav nulle un $x+y+z=xyz$. 
+Pierādīt, ka
 
 $$\frac{1}{x^{2}}+\frac{1}{y^{2}}+\frac{1}{z^{2}} \geq 1$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1262,13 +1256,13 @@ ir patiesa.
 
 # <lo-sample/> LV.NOL.2014.12.1
 
-Zināms, ka $a>\frac{1}{2},\ b>\frac{1}{2},\ c>\frac{1}{2}$ un $x$ ir 
+Zināms, ka $a>\frac{1}{2}$, $b>\frac{1}{2}$, $c>\frac{1}{2}$ un $x$ ir 
 vienādojuma $x^{3}-ax^{2}+bx-c=0$ sakne. Pierādīt, ka $x>-\frac{1}{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -1290,8 +1284,8 @@ krustpunkts ir $G$. Pierādīt, ka $S_{EGFH}=S_{ADH}+S_{BCG}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1333,8 +1327,8 @@ katrs no cipariem $1$ līdz $9$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1366,8 +1360,8 @@ pagriežot pa apli (ap roku).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -1402,8 +1396,8 @@ $$\frac{1}{a_{1}}+\frac{1}{a_{2}}+\ldots+\frac{1}{a_{2014}}=1?$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 

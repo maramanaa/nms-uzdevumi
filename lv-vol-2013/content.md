@@ -35,8 +35,8 @@ Pierādīt, ka $\triangle ACE=\triangle BDF$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -114,8 +114,8 @@ kopsummā ieguva $92$ punktus. Cik punktus ieguva otra komanda?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -167,25 +167,25 @@ tad otra komanda (uzvarētāja) ieguva $95$ punktus.
 # <lo-sample/> LV.VOL.2013.9.5
 
 Kādu lielāko skaitu 1.zīm. attēloto figūru var izgriezt no rūtiņu kvadrāta
-$n \times n$, kuram izṇemtas četras stūra rūtiņas: **a)** ja $n=6$
-(skat. 2.zīm.), **b)** ja $n=7$ (skat. 3.zīm.). Griezuma līnijām jāiet pa rūtiņu
+$n \times n$, kuram izṇemtas četras stūra rūtiņas: **(A)** ja $n=6$
+(skat. 2.zīm.), **(B)** ja $n=7$ (skat. 3.zīm.). Griezuma līnijām jāiet pa rūtiņu
 malām, 1.zīm. figūra var būt pagriezta vai apgriezta spoguļattēlā.
 
 ![](LV.VOL.2013.9.5.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** **Atbilde:** $8$ , skat., piemēram, 2.zīm.
+**(A)** **Atbilde:** $8$ , skat., piemēram, 2.zīm.
 
-**b)** **Atbilde:** $9$, skat., piemēram, 3.zīm.
+**(B)** **Atbilde:** $9$, skat., piemēram, 3.zīm.
 
 ![](LV.VOL.2013.9.5A.png)
 
@@ -208,8 +208,6 @@ naturālos skaitļos.
 * domain:NT
 * topic:CountingUsingSymmetry
 * topic:NumTheoryInequalityLargeIntervals
-* questionType:Prove
-* domain:NT
 
 </small>
 
@@ -263,8 +261,8 @@ Pierādīt, ka $EF \perp CD$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -287,13 +285,13 @@ k.b.j.
 
 # <lo-sample/> LV.VOL.2013.10.3
 
-Funkcija $f(x)=(x+10 x(x-1)(x-11)$ definēta visām reālām $x$ vērtībām. Atrast
+Funkcija $f(x)=(x+10)x(x-1)(x-11)$ definēta visām reālām $x$ vērtībām. Atrast
 mazāko iespējamo $f(x)$ vērtību.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -339,11 +337,9 @@ daudz skaitļu, kas ir dod atlikumu $2$, dalot ar $3$.
 
 Taču naturāla skaitļa kvadrāts, dalot ar $3$, var dot atlikumu tikai $0$ vai $1$:
 
-ja $n=3k \Rightarrow n^{2}=9k^{2}=3 \cdot 3k^{2}+0$
-
-ja $n=3k+1 \Rightarrow n^{2}=9k^{2}+6k+1=3 \cdot\left(3k^{2}+2k\right)+1$
-
-ja $n=3k+2 \Rightarrow n^{2}=9k^{2}+12k+4=3 \cdot\left(3k^{2}+4k+1\right)+1$
+* ja $n=3k \Rightarrow n^{2}=9k^{2}=3 \cdot 3k^{2}+0$
+* ja $n=3k+1 \Rightarrow n^{2}=9k^{2}+6k+1=3 \cdot\left(3k^{2}+2k\right)+1$
+* ja $n=3k+2 \Rightarrow n^{2}=9k^{2}+12k+4=3 \cdot\left(3k^{2}+4k+1\right)+1$
 
 Tātad Fibonači virknē ir bezgalīgi daudz skaitļu (tie, kas dod atlikumu $2$, dalot
 ar $3$), kas nav naturāla skaitļa kvadrāts.
@@ -380,34 +376,35 @@ pietiekami lielie virknes locekļi ir kvadrāti.
 **Apgalvojums:** (1) Dalot ar jebkuru fiksētu skaitli, Fibonači virknes locekļu atlikumi veido periodu.  
 (2) Periodiskajai atlikumu virknei nav priekšperioda un tajā bezgalīgi bieži parādās atlikums $0$.  
 
-**Pierādījums:**  
-(1) Katru Fibonači virknes locekļa atlikumu nosaka divu iepriekšējo locekļu atlikumi. 
-Tiklīdz kā divu pēc kārtas sekojošu atlikumu pārītis sakrīt ar tādu, kas bijis agrāk, Fibonači virknes
-atlikumi sāk atkārtoties, izveidojas cikls.  
-(2) Atlikumu virknē nevar rasties priekšperiodi, 
-jo atlikumus var rēķināt arī pretējā secībā: no $F_{i+2}$ un $F_{i+1}$ atlikumiem 
-viennozīmīgi atrodot $F_i$ atlikumu. Tātad atlikumu virkne ir periodiska abos virzienos (nevis tikai 
-kļūst periodiska, sākot no kādas vietas). Tā kā $0$-tais Fibonači skaitlis $F_0 = 0$, tad arī atlikums
-$0$ parādīsies bezgalīgi bieži (vismaz vienreiz katrā periodā).
+**Pierādījums:**
+
+1. Katru Fibonači virknes locekļa atlikumu nosaka divu iepriekšējo locekļu atlikumi. 
+   Tiklīdz kā divu pēc kārtas sekojošu atlikumu pārītis sakrīt ar tādu, kas bijis agrāk, Fibonači virknes
+   atlikumi sāk atkārtoties, izveidojas cikls.  
+2. Atlikumu virknē nevar rasties priekšperiodi, 
+   jo atlikumus var rēķināt arī pretējā secībā: no $F_{i+2}$ un $F_{i+1}$ atlikumiem 
+   viennozīmīgi atrodot $F_i$ atlikumu. Tātad atlikumu virkne ir periodiska abos virzienos (nevis tikai 
+   kļūst periodiska, sākot no kādas vietas). Tā kā $0$-tais Fibonači skaitlis $F_0 = 0$, tad arī atlikums
+   $0$ parādīsies bezgalīgi bieži (vismaz vienreiz katrā periodā).
 
 
 
 
 # <lo-sample/> LV.VOL.2013.10.5
 
-Dota rūtiņu lapa ar izmēriem $n \times m$ ( $n, m$- naturāli skaitļi) rūtiņas.
+Dota rūtiņu lapa ar izmēriem $n \times m$ ($n, m$- naturāli skaitļi) rūtiņas.
 Divi spēlētāji spēlē šādu spēli, pēc kārtas izdarot pa vienam gājienam. Ar vienu
 gājienu atļauts veikt taisnu griezienu, kas sākas kādā lapas malā un iet pa
 rūtiņu malām, pie tam griezuma garumam jābūt naturālam skaitlim. Zaudē tas
 spēlētājs, pēc kura gājiena lapa tiek sagriezta divos atsevišķos gabalos. Kādām
 $n$ un $m$ vērtībām, pareizi spēlējot, vienmēr var uzvarēt pirmais spēlētājs, un
-kad- otrais (spēli vienmēr sāk pirmais spēlētājs)?
+kad - otrais (spēli vienmēr sāk pirmais spēlētājs)?
 
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -416,17 +413,17 @@ kad- otrais (spēli vienmēr sāk pirmais spēlētājs)?
 
 Šķirosim divus gadījumus:
 
-1) Skaitļi $n$ un $m$ abi ir nepāra. Šajā gadījumā $2.$ spēlētājs vienmēr var
-veikt griezumu, kas ir simetrisks $1.$ spēlētāja pēdējam griezumam attiecībā
-pret lapas centru (skat., piem., 6.zīm.). Tāpēc šajā gadījumā uzvar $2.$
-spēlētājs.
+1. Skaitļi $n$ un $m$ abi ir nepāra. Šajā gadījumā $2.$ spēlētājs vienmēr var
+   veikt griezumu, kas ir simetrisks $1.$ spēlētāja pēdējam griezumam attiecībā
+   pret lapas centru (skat., piem., 6.zīm.). Tāpēc šajā gadījumā uzvar $2.$
+   spēlētājs.
 
-![](LV.VOL.2013.10.5A.png)
+   ![](LV.VOL.2013.10.5A.png)
 
-2) Vismaz viens no skaitļiem $n$ un $m$ ir pāra. Tad $1.$ spēlētājs sākumā veic
-visgarāko iespējamo griezumu pa vidu malā ar pāra garumu (skat. 7.zīm.). Tālāk
-$1.$ spēlētājs var pielietot 1) punkta $2.$ spēlētāja simetrisko stratēģiju.
-Tāpēc šajā gadījumā uzvar $1.$ spēlētājs.
+2. Vismaz viens no skaitļiem $n$ un $m$ ir pāra. Tad $1.$ spēlētājs sākumā veic
+   visgarāko iespējamo griezumu pa vidu malā ar pāra garumu (skat. 7.zīm.). Tālāk
+   $1.$ spēlētājs var pielietot (1) punkta $2.$ spēlētāja simetrisko stratēģiju.
+   Tāpēc šajā gadījumā uzvar $1.$ spēlētājs.
 
 
 
@@ -462,8 +459,8 @@ punktā $D$. Pierādīt, ka $AD+BD=BC$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -506,8 +503,8 @@ Aprēķināt šī paralēlskaldņa pilnas virsmas laukumu un tilpumu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom,Alg
 
 </small>
 
@@ -529,26 +526,26 @@ zīmi, tātad paralēlskaldṇa tilpums ir $2860~ \mathrm{cm}^{2}$.
 
 # <lo-sample/> LV.VOL.2013.11.4
 
-Diviem vienādiem kvadrātiem ar malas garumu $40~ \mathrm{cm}$ ir kopīgs centrs.
-Vai abu kvadrātu kopīgās daļas laukums noteikti ir lielāks nekā **a)**
-$1250~ \mathrm{cm}^{2}$, **b)** $1300~ \mathrm{cm}^{2}$ ?
+Diviem vienādiem kvadrātiem ar malas garumu $40~\mathrm{cm}$ ir kopīgs centrs.
+Vai abu kvadrātu kopīgās daļas laukums noteikti ir lielāks nekā **(A)**
+$1250~\mathrm{cm}^{2}$, **(B)** $1300~\mathrm{cm}^{2}$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** **Atbilde:** jā, noteikti. Tā kā abiem kvadrātiem ir centrs sakrīt, tiem
+**(A)** **Atbilde:** jā, noteikti. Tā kā abiem kvadrātiem ir centrs sakrīt, tiem
 abiem ir kopīgs tajos ievilktais riņķis, kura rādiusa garums ir $20~ \mathrm{cm}$
 (skat. 9.zīm.). Riņķa laukums ir
 $400 \pi \mathrm{cm}^{2} > 400 \cdot 3,14 \mathrm{~cm}^{2}==1256 \mathrm{~cm}^{2} > 1250 \mathrm{~cm}^{2}$.
 
-**b)** **Atbilde:** jā, noteikti. Ja kvadrāti nesakrīt, tad ārpus kopīgās daļas
+**(B)** **Atbilde:** jā, noteikti. Ja kvadrāti nesakrīt, tad ārpus kopīgās daļas
 veidojas astoņi vienādi taisnleņķa trijstūri
 $AJS, JFK, BKL, LMG, CMN, PHN, DPR$ un $ERS$. Kvadrātu kopīgā daļa būs mazākā
 iespējamā, ja šo trijstūru laukums būs lielākais iespējamais. Apzīmējot
@@ -561,7 +558,7 @@ $$\begin{aligned}
 
 Tātad, nepieciešams atrast tādu $x$ vērtību, lai
 $xy=40x \cdot \frac{20-x}{40-x}$ vērtība būtu maksimāla. Ne $x$, ne $y$ vērtība
-nevar pārsniegt pusi no kvadrāta malas garuma, t.i., $20~ \mathrm{cm}$ .
+nevar pārsniegt pusi no kvadrāta malas garuma, t.i., $20~\mathrm{cm}$ .
 
 $40x \frac{20-x}{40-x}=40\left(x+20+\frac{800}{x-40}\right)=40\left(60+x-40+\frac{800}{x-40}\right)=2400+40\left(x-40+\frac{800}{x-40}\right)$.
 
@@ -585,23 +582,23 @@ pilsētas, katras divas pilsētas savieno ne vairāk kā viens ceļš, turklāt 
 izbūvētajiem ceļiem no jebkuras pilsētas ir iespējams aizbraukt uz jebkuru citu
 vienā vienīgā veidā.
 
-**a)** Pierādīt, ka ir vismaz viena pilsēta, no kuras iziet tieši viens ceļš.
+**(A)** Pierādīt, ka ir vismaz viena pilsēta, no kuras iziet tieši viens ceļš.
 
-**b)** Pierādīt, ka pilsētas var sanumurēt ar skaitļiem $1,2, \ldots, n$ tā, lai
+**(B)** Pierādīt, ka pilsētas var sanumurēt ar skaitļiem $1,2, \ldots, n$ tā, lai
 jebkuru divu pilsētu, kuras ir savienotas ar ceļu, numuru reizinājums būtu pāra
 skaitlis.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** Ar matemātisko indukciju pamatosim, ka ir vismaz divas pilsētas, no kurām
+**(A)** Ar matemātisko indukciju pamatosim, ka ir vismaz divas pilsētas, no kurām
 no katras iziet tieši viens ceļš.
 
 Ja $n=2$, tad apgalvojums ir acīmredzami patiess (starp divām pilsētām var būt
@@ -634,7 +631,7 @@ apzīmēsim ar $X$ ). Ir divas iespējas:
 
 Līdz ar to ir pamatota induktīvā pāreja un apgalvojums ir pierādīts.
 
-**b)** Ar matemātisko indukciju parādīsim, ka katrai no pilsētām var piešķirt
+**(B)** Ar matemātisko indukciju parādīsim, ka katrai no pilsētām var piešķirt
 vērtību $-1$ vai $1$ tā, lai jebkuru divu pilsētu, kuras ir savienotas ar ceļu,
 vērtības būtu pretējas. Ja $n=2$, tad apgalvojums acīmredzami ir patiess.
 Pieņemsim, ka vajadzīgais ir pierādīts, ja $n=k$ un pamatosim, ka tas ir patiess
@@ -666,8 +663,8 @@ $AD \perp MN$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -705,8 +702,8 @@ $\left\{\begin{array}{l}\sin x+\cos y=\frac{3}{2} \mbox{tg}\ z \\ \sin y+\cos x=
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -760,9 +757,9 @@ Ievietojot $n=0$, iegūstam vienādību $f(1)=2-\frac{1}{f(0)}$. Tā kā gan $f(
 gan $f(1)$ ir veseli skaitļi, tad $f(0)$ var būt vai nu $1$, vai $-1$, citu
 iespēju nav.
 
-Apskatīsim abos gadījumus.
+Apskatīsim abus gadījumus.
 
-1) Ja $f(0)=-1$, tad iegūstam $f(1)=2-\frac{1}{-1}=3$. Izmantojot (1), varam
+**1.gadījums:** Ja $f(0)=-1$, tad iegūstam $f(1)=2-\frac{1}{-1}=3$. Izmantojot (1), varam
 pakāpeniski aprēķināt
 
 $$\begin{array}{ll}
@@ -787,7 +784,7 @@ $$f(k+1)=2+\frac{4k^{2}-1}{f(k)}=2+\frac{\left(2k+(-1)^{k+1}\right)\left(2k-(-1)
 
 Induktīvā pāreja izdarīta.
 
-2) Ja $f(0)=1$, tad iegūstam $f(1)=2-\frac{1}{1}=1$. Izmantojot (1), varam
+**2.gadījums:** Ja $f(0)=1$, tad iegūstam $f(1)=2-\frac{1}{1}=1$. Izmantojot (1), varam
 pakāpeniski aprēķināt
 
 $$\begin{array}{ll}
@@ -855,56 +852,49 @@ $n^{2}=d_{3}^{2} d_{4}^{2}\left(d_{3}^{2}+d_{4}^{2}\right)=3^{2} \cdot 4^{2}\lef
 
 # <lo-sample/> LV.VOL.2013.12.5
 
-Uz tāfeles uzrakstīta burtu virkne, kas satur tikai burtus $a, b$ un $c$. Ar šo
+Uz tāfeles uzrakstīta burtu virkne, kas satur tikai burtus $a$, $b$ un $c$. Ar šo
 virkni atļauts veikt šādus gājienus:
 
-- patvaļīigi mainīt uzrakstīto burtu secību;
+- patvaļīgi mainīt uzrakstīto burtu secību;
 - ja virknes galā ir uzrakstīts fragments $ab$, to drīkst nodzēst;
 - fragmentu $ba$ aizstāt ar fragmentu $aabbcc$;
 - fragmentu $bbc$ aizstāt ar $a$
-- izsvītrot jebkurus trīs vienādus pēc kārtas uzrakstītus burtus. Vai,
-  atkārtojot vairākus šādus gājienus, iespējams iegūt virkni $aba$, ja sākotnēji
-  ir uzrakstīta virkne **1)** $abba$; **2)** $aabbcabaab$?
+- izsvītrot jebkurus trīs vienādus pēc kārtas uzrakstītus burtus. 
+
+Vai, atkārtojot vairākus šādus gājienus, iespējams iegūt virkni $aba$, ja sākotnēji
+ir uzrakstīta virkne **(A)** $abba$; **(B)** $aabbcabaab$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-**a)** **Atbilde:** nevar.
+**(A)** **Atbilde:** nevar.
 
 Aizstājam burtu $a$ ar ciparu $1$, burtu $b$- ar ciparu $2$, burtu $c$- ar
 ciparu $3$. Tātad sākotnēji uz tāfeles uzrakstītā virkne atbilst skaitlim $1221$
 un jāiegūst skaitli $121$. Ievērosim, ka atļautās darbības atbilst šādām
 darbībām ar skaitļiem:
 
-a) uz tāfeles uzrakstītajā skaitlī var patvaļīgi mainīt ciparu kārtību;
-
-b) ja skaitļa pēdējie divi cipari ir $12$, tad tos var nodzēst;
-
-c) ciparus $21$ var aizstāt ar $112233$;
-
-d) ciparus $223$ var aizstāt ar $1$;
-
-e) drīkst izsvītrot trīs vienādus pēc kārtas uzrakstītus ciparus.
+a. uz tāfeles uzrakstītajā skaitlī var patvaļīgi mainīt ciparu kārtību;
+b. ja skaitļa pēdējie divi cipari ir $12$, tad tos var nodzēst;
+c. ciparus $21$ var aizstāt ar $112233$;
+d. ciparus $223$ var aizstāt ar $1$;
+e. drīkst izsvītrot trīs vienādus pēc kārtas uzrakstītus ciparus.
 
 Ievērosim, ka uz tāfeles uzrakstītā skaitļa ciparu summa, veicot šos gājienus,
 
-a) nemainās;
-
-b) samazinās par $3$;
-
-c) palielinās par $9$;
-
-d) samazinās par $6$;
-
-e) samazinās par $3$ (ja nodzēsti trīs vieninieki), $6$ (ja nodzēsti trīs
-divnieki) vai $9$ (ja nodzēsti trīs trijnieki).
+a. nemainās;
+b. samazinās par $3$;
+c. palielinās par $9$;
+d. samazinās par $6$;
+e. samazinās par $3$ (ja nodzēsti trīs vieninieki), $6$ (ja nodzēsti trīs
+   divnieki) vai $9$ (ja nodzēsti trīs trijnieki).
 
 Sākotnēji uz tāfeles uzrakstīts skaitlis $1221$, kurš dalās ar $3$ un kura
 ciparu summa dalās ar $3$. Veicot aprakstītos gājienus, iegūtā skaitļa ciparu
@@ -913,5 +903,5 @@ skaitļus, kuri dalās ar $3$. Taču skaitlis $121$ nedalās ar $3$, tātad ar
 aprakstītajiem gājieniem to nevar iegūt no skaitļa $1221$. Tātad arī virkni $aba$
 nevar iegūt no virknes $abba$ ar aprakstīto gājienu palīdzību.
 
-**b)** **Atbilde:** var, piemēram, $aabbcabaab \rightarrow aaaaabbbbc \rightarrow aabbbbc \rightarrow aabba \rightarrow abaab \rightarrow aba$.
+**(B)** **Atbilde:** var, piemēram, $aabbcabaab \rightarrow aaaaabbbbc \rightarrow aabbbbc \rightarrow aabba \rightarrow abaab \rightarrow aba$.
 
