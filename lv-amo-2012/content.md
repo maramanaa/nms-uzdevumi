@@ -138,8 +138,8 @@ viens un tas pats skaitlis. Kāds tas ir?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -164,8 +164,8 @@ Sadali kvadrātu divos vienādos **(A)** sešstūros, **(B)** septiņstūros.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -187,8 +187,8 @@ būtu vismaz viena zaļa rūtiņa?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -217,8 +217,8 @@ pirmskaitļi būtu dažādi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -248,8 +248,8 @@ palikt pāri)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -308,7 +308,6 @@ ir viens vesels nogrieznis)?
 
 * concepts:triangle,segment
 * questionType:FindCount
-* questionType:
 * domain:Geom
 
 </small>
@@ -338,8 +337,8 @@ vienlaicīgi ar to, ja sarkanās automašīnas ātrums bija
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -370,8 +369,8 @@ atšķirīgi)?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -396,8 +395,8 @@ iet.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Geom,Comb
 
 </small>
 
@@ -421,9 +420,7 @@ $$4\;\;1\;\;5\;\;7,$$
 
 nemainot to secību, ievieto aritmētisko darbību zīmes
 ("$+$", "$-$", "$\cdot$", "$:$") un iekavas tā, lai iegūtās izteiksmes vērtība
-būtu
-**(A)** $13$,
-**(B)** $14$.
+būtu **(A)** $13$, **(B)** $14$.
 
 <small>
 
@@ -449,8 +446,8 @@ $P$ līdz dotā trijstūra virsotnēm ir lielāka nekā puse no trijstūra perim
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -580,15 +577,15 @@ pret šo diagonāli ierakstīti vienādi skaitļi.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
 
 </small>
 
 
 ## Atrisinājums
 
-Izvēlamies jebkuru skaitli $k$ ($k=1,2, \ldots .7$ ). Tā kā dotā tabula ir simetriska,
+Izvēlamies jebkuru skaitli $k$ ($k=1,2, \ldots, 7$ ). Tā kā dotā tabula ir simetriska,
 diagonāles abās pusēs skaitlis $k$ ir ierakstīts vienādā skaitā rūtiņu, tātad ārpus
 diagonāles ir uzrakstīti pāra skaits skaitļu $k$. Tā kā tabulā pavisam ir septiņi
 (nepāra skaits) skaitļi $k$, tad vismaz viens no tiem ir uz diagonāles. Šis spriedums
@@ -779,8 +776,8 @@ Dots izliekts četrstūris $ABCD$, leņķi $DAB$ un $BCD$ ir plati. Pierādi, ka
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -802,8 +799,8 @@ $x_{2}$ (t.i., $x_{1} \leq x_{3} \leq x_{2}$ vai $x_{2} \leq x_{3} \leq x_{1}$).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -832,8 +829,8 @@ $2^{\circ}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -863,8 +860,8 @@ kopīgs tikai galapunkts, tie nekrustojas.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom,Comb
 
 </small>
 
@@ -911,8 +908,8 @@ paralēls $B_{1}C$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -955,8 +952,8 @@ $$\begin{aligned}
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -989,8 +986,8 @@ Pierādi, ka izliektu $2012$-stūri nevar sadalīt $200$ izliektos $12$-stūros.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1018,8 +1015,8 @@ kuram visas virsotnes ir atzīmētie punkti?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom,Comb
 
 </small>
 
@@ -1089,8 +1086,8 @@ ka $NQ$ iet caur trijstūriem $AMQ$ un $APN$ apvilkto riņķa līniju krustpunkt
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1120,8 +1117,8 @@ Atrisini vienādojumu $\lg x \cdot \lg (4-x)=\frac{1}{4}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1143,8 +1140,8 @@ plaknē?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1167,8 +1164,8 @@ otrs nē?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 

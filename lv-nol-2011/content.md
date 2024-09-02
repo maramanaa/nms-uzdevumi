@@ -5,8 +5,8 @@ reizinājums būtu $119$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -25,8 +25,8 @@ Cik rūtiņas liels ir trijstūra $ABC$ laukums?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -65,8 +65,8 @@ nevienā brīdī autobusā netika pārvadāts vairāk pasažieru kā autobusā i
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -86,19 +86,15 @@ Otrā pilsēta var būt $C$, tad pēc maršruta $AC$ nobraukšanas autobusā ir 
 
 Analizēsim iespējamos šo maršrutu turpinājumus:
 
-1) $ACE$ ($23$) $\rightarrow$ $ACEB$ ($30$) vai $ACED$ ($34$), taču neviens no šiem
-maršrutiem nav tālāk turpināms.
-
-2) $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDB$ ($40$) $\rightarrow$
-$ACFDBE$ ($28$) $\rightarrow$ $ACFDBEG$ ($0$)
-
-3) $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDE$ ($21$)- maršruts nav
-turpināms.
-
-4) $AED$ ($33$) $\rightarrow$ $AEDB$ ($40$) $\rightarrow$ $AEDBF$ ($27$)- maršruts nav
-turpināms.
-
-5) $AED$ ($33$) $\rightarrow$ $AEDC$ ($34$)- maršruts nav turpināms.
+1. $ACE$ ($23$) $\rightarrow$ $ACEB$ ($30$) vai $ACED$ ($34$), taču neviens no šiem
+   maršrutiem nav tālāk turpināms.
+2. $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDB$ ($40$) $\rightarrow$
+   $ACFDBE$ ($28$) $\rightarrow$ $ACFDBEG$ ($0$)
+3. $ACF$ ($22$) $\rightarrow$ $ACFD$ ($33$) $\rightarrow$ $ACFDE$ ($21$)- maršruts nav
+   turpināms.
+4. $AED$ ($33$) $\rightarrow$ $AEDB$ ($40$) $\rightarrow$ $AEDBF$ ($27$)- maršruts nav
+   turpināms.
+5. $AED$ ($33$) $\rightarrow$ $AEDC$ ($34$)- maršruts nav turpināms.
 
 Tātad vienīgais maršruts, kas apmierina visus noteikumus, ir $ACFDBEG$.
 
@@ -112,8 +108,8 @@ $3 \times 3$ rūtiņu kvadrātā, kas ir lielā kvadrāta daļa, ir iekrāsotas 
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -135,8 +131,8 @@ laiks, pēc kura visas raganas būs iemācījušās visas jaunās burvestības?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -163,8 +159,8 @@ skaitlis ir vienāds ar pārējo skaitļu summu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -186,8 +182,8 @@ $12345, 12354, 12435, \ldots$. Kurš pēc kārtas šajā virknē ir skaitlis $45
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -208,8 +204,8 @@ Vai var atrast tādus veselus skaitļus $x$ un $y$, ka
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -231,8 +227,8 @@ vienādās daļās tā, lai katrā no tām būtu pa vienam melnam un pa vienam b
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -253,8 +249,8 @@ visas rūtiņas ir neizkrāsotas.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -331,8 +327,8 @@ reizinājumus. Cik no tiem ir pozitīvi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -364,8 +360,8 @@ rūtiņām sauksim rūtiņas, kurām ir kopīgs vismaz viens punkts).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -386,15 +382,15 @@ Pilsētā, kurā dzīvo godīgie iedzīvotāji (kas vienmēr runā tikai taisnī
 vienmēr melo), notika domes vēlēšanas, kurās piedalījās visi pilsētas iedzīvotāji.
 Balsot varēja par kādu no četrām partijām $A, B, C$ un $D$, un katrs iedzīvotājs
 nobalsoja tieši par vienu partiju. Pirms rezultātu apkopošanas žurnālisti veica visu
-iedzīvotāju aptauju. Uz jautājumu „Vai jūs balsojāt par partiju $A$?" ar "Jā" atbildēja
-$22 \%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju " $B$ " ar "Jā" atbildēja
-$33 \%$, par partiju " $C$ "- $44\%$, bet par partiju " $D$ " $55 \%$ iedzīvotāju. Cik
+iedzīvotāju aptauju. Uz jautājumu "Vai jūs balsojāt par partiju $A$?" ar "Jā" atbildēja
+$22 \%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju "$B$" ar "Jā" atbildēja
+$33 \%$, par partiju "$C$" - $44\%$, bet par partiju "$D$" $55 \%$ iedzīvotāju. Cik
 procenti pilsētas iedzīvotāju ir godīgie iedzīvotāji un cik blēži?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -403,15 +399,15 @@ procenti pilsētas iedzīvotāju ir godīgie iedzīvotāji un cik blēži?
 
 Ar $g$ apzīmēsim cik $\%$ no visiem iedzīvotājiem ir godīgie, ar $g_{A}$ (resp.
 $g_{B}, g_{C}, g_{D}$)- tos godīgos iedzīvotājus ($\%$ no visiem iedzīvotājiem), kas
-balsoja par $A$ (resp., B, C, D) partiju, $g_{A}+g_{B}+g_{C}+g_{D}=g$; līdzīgi ar
-$b, b_{A}, b_{B}, b_{C}, b_{D}$ apzīmēsim blēžus ( $\%$ no visiem iedzīvotājiem).
+balsoja par $A$ (resp., $B$, $C$, $D$) partiju, $g_{A}+g_{B}+g_{C}+g_{D}=g$; līdzīgi ar
+$b, b_{A}, b_{B}, b_{C}, b_{D}$ apzīmēsim blēžus ($\%$ no visiem iedzīvotājiem).
 
 Par $A$ pozitīvi atbildēja godīgie iedzīvotāji, kas balsoja par $A$ un tie blēži, kas
 nebalsoja par $A$. Tātad $g_{A}+b-b_{A}=22 \%$. Līdzīgi:
-$g_{B}+b-b_{B}=33 \%, g_{C}+b-b_{C}=44 \%$ un $g_{D}+b-b_{D}=55 \%$.
+$g_{B}+b-b_{B}=33 \%$, $g_{C}+b-b_{C}=44 \%$ un $g_{D}+b-b_{D}=55 \%$.
 
-Saskaitot šīs vienādības, iegūstam $g+3b=154 \%$, tātad $2b=54 \%$ jeb $b=27 \%$ un
-$g=73 \%$.
+Saskaitot šīs vienādības, iegūstam $g+3b=154\%$, tātad $2b=54\%$ jeb $b=27\%$ un
+$g=73\%$.
 
 
 
@@ -452,8 +448,8 @@ $p+q$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -472,8 +468,8 @@ ir malas $BC$ viduspunkts.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -494,15 +490,15 @@ $\triangle EBF$- vienādsānu un $BF=EF=FC$ (skat. 7.zīm.)
 Apskatām zīmējumā parādīto figūru, kas sastāv no $32$ rūtiņām. Kāds ir lielākais dažādu
 taisnstūru skaits, kuros to var sagriezt (griezumus jāveic tikai pa rūtiņu malām)?
 Atbildi pamato! (Divus taisnstūrus uzskata par atšķirīgiem, ja tiem atšķiras izmēri
-nevis tikai novietojums, piem., ![](LV.NOL.2011.8.4_1.png) un ![](LV.NOL.2011.8.4_2.png)
+nevis tikai novietojums, piemēram, ![](LV.NOL.2011.8.4_1.png) un ![](LV.NOL.2011.8.4_2.png)
 ir vienādi taisnstūri.)
 
 ![](LV.NOL.2011.8.4_3.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -530,18 +526,18 @@ dažādo taisnstūru skaits, kuros figūru var sagriezt.
 
 Pilsētā, kurā dzīvo godīgie iedzīvotāji (kas vienmēr runā tikai taisnību) un blēži (kas
 vienmēr melo), notika domes vēlēšanas, kurās piedalījās visi pilsētas iedzīvotāji.
-Balsot varēja par kādu no četrām partijām $A, B, C$ un $D$, un katrs iedzīvotājs
+Balsot varēja par kādu no četrām partijām $A$, $B$, $C$ un $D$, un katrs iedzīvotājs
 nobalsoja tieši par vienu partiju. Pirms rezultātu apkopošanas žurnālisti veica visu
 iedzīvotāju aptauju. Uz jautājumu "Vai jūs balsojāt par partiju $A$?" ar "Jā" atbildēja
-$33\%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju " $B$ " ar "Jā" atbildēja
-$44\%$, par partiju " $C$ "- $55\%$, bet par partiju " $D$ " $0\%$ iedzīvotāju. Kāds
+$33\%$ pilsētas iedzīvotāju. Uz līdzīgu jautājumu par partiju "$B$" ar "Jā" atbildēja
+$44\%$, par partiju "$C$"- $55\%$, bet par partiju "$D$" $0\%$ iedzīvotāju. Kāds
 patiesībā bija balsu sadalījums, t.i., cik procenti iedzīvotāju nobalsoja par katru
 partiju?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -568,8 +564,8 @@ Pierādīt, ka visu šādu funkciju grafikiem ir divi kopīgi punkti.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -591,8 +587,8 @@ $\sphericalangle ADE=2 \sphericalangle ABE$. Aprēķināt $\sphericalangle ABE$ 
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -624,8 +620,8 @@ mazākā iespējamā $k$ vērtība?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -671,16 +667,16 @@ nav tādu naturālu skaitļu $a, x, y, z$, ka $7^{a}=7^{x}+7^{y}+7^{z}$.
 # <lo-sample/> LV.NOL.2011.9.5
 
 Sacensībās piedalījās deviņas kamaniņbraucējas. Sacensību uzvarētāju nosaka pēc četru
-braucienu laiku kopsummas- kam šī summa mazāka, tā ieņem augstāku vietu. Atsevišķu
+braucienu laiku kopsummas - kam šī summa mazāka, tā ieņem augstāku vietu. Atsevišķu
 sportistu braucienu laiki atsevišķos braucienos un šo laiku kopsumma visām sportistēm
-bija atšķirīga. Kamaniņbraucēja Maija visos braucienos ienēma vienu un to pašu- $N$-to
+bija atšķirīga. Kamaniņbraucēja Maija visos braucienos ienēma vienu un to pašu - $N$-to
 vietu. Kādai lielākajai $N$ vērtībai iespējams, ka Maija kopvērtējumā tomēr uzvarēs,
 t.i., iegūs $1.$ vietu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -705,14 +701,13 @@ nevarētu būt ieguvusi augstākais $5.$ vietu.
 
 # <lo-sample/> LV.NOL.2011.10.1
 
-**(A)** Dots, ka $s+t=p$. Pierādīt, ka $2s^{2} \geq p^{2}-2t^{2}$.
-
+**(A)** Dots, ka $s+t=p$. Pierādīt, ka $2s^{2} \geq p^{2}-2t^{2}$.  
 **(B)** Dots, ka $s+t+u=p$. Pierādīt, ka $3s^{2} \geq p^{2}-3t^{2}-3u^{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,Prove
+* domain:Alg
 
 </small>
 
@@ -736,8 +731,8 @@ $DC-DB > AC-AB$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -764,8 +759,8 @@ $$x \cdot \left\lfloor x \cdot \lfloor x \rfloor \right\rfloor = 41.$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -783,22 +778,22 @@ vienādība neizpildās.
 Tātad $3 \leq x < 4$ un iegūstam vienādojumu $x \cdot[3x]=41$. Tā kā $9 \leq 3x < 12$,
 tad šķirojam variantus:
 
-a) $[3x]=9 ; 9x=41, x=4 \frac{5}{9} \quad$- neder, jo $[x] \neq 3$;
-b) $[3x]=10 ; 10x=41, x=4.1$- neder, jo $[x] \neq 3$;
-c) $[3x]=11 ; 11x=41, x=3 \frac{8}{11}$- der (nepieciešama pārbaude).
+a. $[3x]=9 ; 9x=41, x=4 \frac{5}{9} \quad$- neder, jo $[x] \neq 3$;
+b. $[3x]=10 ; 10x=41, x=4.1$- neder, jo $[x] \neq 3$;
+c. $[3x]=11 ; 11x=41, x=3 \frac{8}{11}$- der (nepieciešama pārbaude).
 
 
 
 # <lo-sample/> LV.NOL.2011.10.4
 
-Trijstūris $ABC$ ir vienādsānu $(AB=BC)$ un $\sphericalangle ABC=30^{\circ}$. Uz malas
-$AB$ izvēlēts punkts $E$, bet uz malas $BC$- punkts $F$, tā, ka trijstūris $CEF$ ir
+Trijstūris $ABC$ ir vienādsānu ($AB=BC$) un $\sphericalangle ABC=30^{\circ}$. Uz malas
+$AB$ izvēlēts punkts $E$, bet uz malas $BC$ - punkts $F$, tā, ka trijstūris $CEF$ ir
 vienādmalu. Aprēķināt trijstūru $CEF$ un $ABC$ laukumu attiecību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -820,7 +815,7 @@ $\frac{S_{CEF}}{S_{ABC}}=\frac{\sqrt{3}}{4}$.
 # <lo-sample/> LV.NOL.2011.10.5
 
 Bobslejista Jāņa komanda piedalījās sacensībās, kurās uzvarētāju nosaka pēc četru
-braucienu laiku kopsummas- kam šī summa mazāka, tas ieņem augstāku vietu. Jāņa komanda
+braucienu laiku kopsummas - kam šī summa mazāka, tas ieņem augstāku vietu. Jāņa komanda
 pirmajā braucienā ieņēma $2.$, otrajā braucienā- $3.$, trešajā $4.$, bet ceturtajā
 braucienā- $10.$ vietu. Pavisam sacensībās piedalījās $18$ komandas. Atsevišķu komandu
 braucienu laiki atsevišķos braucienos un šo laiku kopsumma visām komandām bija
@@ -828,8 +823,8 @@ atšķirīga. Kādu augstāko un kādu zemāko vietu kopvērtējumā varēja ieg
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -867,8 +862,8 @@ $$x^{2}+y^{2}+4 \geq 2x+2y+xy$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -877,11 +872,11 @@ $$x^{2}+y^{2}+4 \geq 2x+2y+xy$$
 
 Pareizinot doto izteiksmi ar divi, iegūst
 
-$$2x^{2}+2y^{2}+8 \geq 4x+4y+2xy$$
+$$2x^{2}+2y^{2}+8 \geq 4x+4y+2xy.$$
 
 To savukārt var pārveidot par triju kvadrātu summu:
 
-$$(x-y)^{2}+(x-2)^{2}+(y-2)^{2} \geq 0$$
+$$(x-y)^{2}+(x-2)^{2}+(y-2)^{2} \geq 0.$$
 
 
 
@@ -895,8 +890,8 @@ starpā vienādi!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -929,8 +924,8 @@ z+zx+x=11
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -984,8 +979,8 @@ mazākā iespējamā summas $a+b$ vērtība?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -1014,8 +1009,8 @@ visas iespējamās $n$ vērtības!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -1044,8 +1039,8 @@ $$\left(\frac{1}{2}-\sqrt{1-a^{2}}\right)^{2}+\left(\frac{1}{2}-\sqrt{1-b^{2}}\r
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1073,14 +1068,14 @@ $(1; 1),(1;-1),(-1; 1),(-1;-1),(1; 0)$, $(-1; 0),(0; 1),(0;-1),(0; 0)$.
 # <lo-sample/> LV.NOL.2011.12.2
 
 Trijstūrī $ABC$ caur patvaļīgu malas $BC$ iekšējo punktu $P$ tiek vilktas taisnes
-$u || AC$ un $v || AB$, kuras krusto malas $AB$ un $AC$ attiecīgi punktos $M$ un $N$.
+$u \| AC$ un $v \| AB$, kuras krusto malas $AB$ un $AC$ attiecīgi punktos $M$ un $N$.
 Pierādīt, ka trijstūra $ABC$ laukums ir vienāds ar trijstūru $MBC$ un $NBC$ laukumu
 summu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1102,14 +1097,14 @@ ir vienāds ar augstumu no $A$ pret $NP$, jo $AB || NP$.
 # <lo-sample/> LV.NOL.2011.12.3
 
 Naturālu skaitli sauksim par *fantastisku*, ja tas ir vienāds ar sava kvadrāta ciparu
-reizinājumu. Piemēram, $1$ ir *fantastisks* (jo $1^{2}=1$ un $1=1$ ), bet $4$- nē
+reizinājumu. Piemēram, $1$ ir *fantastisks* (jo $1^{2}=1$ un $1=1$), bet $4$- nē
 (jo $4^{2}=16$, bet $1 \cdot 6=6 \neq 4$ ). Pierādīt, ka visi nepāra skaitļi, kas
 lielāki par $1$, nav *fantastiski*.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1152,8 +1147,8 @@ kopīga mala.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -1190,14 +1185,14 @@ skaldnei ir nepāra skaits virsotņu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
 
 ## Atrisinājums
 
-Katra škautne ir mala tieši divām skaldnēm, tātad divkāršots daudzskaldņa škautņu
+Katra šķautne ir mala tieši divām skaldnēm, tātad divkāršots daudzskaldņa šķautņu
 skaits ir vienāds ar visu skaldņu malu skaitu summu, tāpēc šī summa ir pāra skaitlis.
 Bet nepāra skaita nepāru skaitļu ir nepāra skaitlis, tad iegūstam pretrunu.

@@ -8,8 +8,8 @@ Braukšanas ātrums visā ceļa posmā bija viens un tas pats.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -27,15 +27,15 @@ attālums no Skrundas līdz Rīgai ir $75 \cdot 2=150~\mathrm{km}$.
 
 # <lo-sample/> LV.NOL.2015.5.2
 
-Niknajam jūras laupītājam Smuidrim ir četras kaudzes ar zelta monētām. Vinš māk
+Niknajam jūras laupītājam Smuidrim ir četras kaudzes ar zelta monētām. Viņš māk
 vienu kaudzi sadalīt $3$ vai $5$ mazākās kaudzēs. Vai, atkārtoti izpildot šādas
 darbības, Smuidris varēs iegūt tieši $2015$ kaudzes, ko piešķirt saviem 
 palīgiem?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -69,8 +69,8 @@ grozīt, bet nedrīkst apmest otrādi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
 
 </small>
 
@@ -96,8 +96,8 @@ citu nav!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -137,8 +137,8 @@ nav iespējams precīzi noteikt tajā esošā ūdens daudzumu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -174,8 +174,8 @@ eiro un otrās - $21$ eiro! (Pakas cena veidojas, saskaitot tajā ielikto
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -198,8 +198,8 @@ darbības, var panākt, ka kādā brīdī visās lādēs būs vienāds skaits mo
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -228,8 +228,8 @@ Vai iespējams, ka neviena no šīm summām nav pirmskaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -246,7 +246,7 @@ piemēram, A3.att.).
 
 # <lo-sample/> LV.NOL.2015.6.4
 
-Rūtiņu lapā uzzūmēta figūra (skat. 2.att.). Kāds ir lielākais skaits 3.att. 
+Rūtiņu lapā uzzīmēta figūra (skat. 2.att.). Kāds ir lielākais skaits 3.att. 
 doto figūru, ko var izgriezt no 2.att. figūras? Griezuma līnijām jāiet pa 
 rūtiņu malām.
 
@@ -254,8 +254,8 @@ rūtiņu malām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -300,8 +300,8 @@ vērtības!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -326,8 +326,8 @@ Atrisini vienādojumu $\frac{8a-5}{5}-\frac{2a-7}{2}=-3$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -436,8 +436,8 @@ skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -466,8 +466,8 @@ atsvariem var noteikt katra veida monētu skaitu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
 
 </small>
 
@@ -587,13 +587,13 @@ tātad par $3k$. Bet $39+3k \neq 2015$.
 
 # <lo-sample/> LV.NOL.2015.8.3
 
-Kurš no skaitļiem $(a+b)(c+d),(b+c)(d+a),(a+c)(b+d)$ ir vislielākais un kurš 
-vismazākais, ja zināms, ka $a>b>c>d>0$ ? Pamato atbildi!
+Kurš no skaitļiem $(a+b)(c+d)$, $(b+c)(d+a)$, $(a+c)(b+d)$ ir vislielākais un kurš 
+vismazākais, ja zināms, ka $a>b>c>d>0$? Pamato atbildi!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -603,30 +603,28 @@ Vislielākais ir skaitlis $(b+c)(d+a)$ un vismazākais ir skaitlis $(a+b)(c+d)$.
 
 Pierādīsim, ka
 
-1) $(b+c)(d+a)>(a+c)(b+d)$;
-2) $(a+c)(b+d)>(a+b)(c+d)$.
+1. $(b+c)(d+a)>(a+c)(b+d)$;
+2. $(a+c)(b+d)>(a+b)(c+d)$.
 
 Veicam ekvivalentus pārveidojumus:
 
-1) $(b+c)(d+a)>(a+c)(b+d)$;  
+1. $(b+c)(d+a)>(a+c)(b+d)$;  
    $bd+ba+cd+ca>ab+ad+cb+cd$;  
-   $bd+ca>ad+cb;$  
-   $bd+ca-ad-bc>0$  
+   $bd+ca>ad+cb$;  
+   $bd+ca-ad-bc>0$;    
    $d(b-a)-c(b-a)>0$;  
-   $(b-a)(d-c)>0$.
+   $(b-a)(d-c)>0$.  
+   Iegūtā nevienādība ir patiesa, jo $b-a<0,\ d-c<0$ un divu negatīvu skaitļu
+   reizinājums ir pozitīvs skaitlis.
 
-Iegūtā nevienādība ir patiesa, jo $b-a<0,\ d-c<0$ un divu negatīvu skaitļu 
-reizinājums ir pozitīvs skaitlis.
-
-2) $(a+c)(b+d)>(a+b)(c+d)$;  
-$ab+ad+bc+cd>ac+ad+bc+bd$  
-$ab+cd>ac+bd;$  
-$ab+cd-ac-bd>0$  
-$a(b-c)-d(b-c)>0$;  
-$(b-c)(a-d)>0$.
-
-Iegūtā nevienādība ir patiesa, jo $b-c>0,\ a-d>0$ un divu pozitīvu skaitļu 
-reizinājums ir pozitīvs skaitlis.
+2. $(a+c)(b+d)>(a+b)(c+d)$;  
+   $ab+ad+bc+cd>ac+ad+bc+bd$;    
+   $ab+cd>ac+bd$;    
+   $ab+cd-ac-bd>0$;    
+   $a(b-c)-d(b-c)>0$;   
+   $(b-c)(a-d)>0$.
+   Iegūtā nevienādība ir patiesa, jo $b-c>0,\ a-d>0$ un divu pozitīvu skaitļu
+   reizinājums ir pozitīvs skaitlis.
 
 Tātad esam ieguvuši, ka $(b+c)(d+a)>(a+c)(b+d)>(a+b)(c+d)$ no kā seko 
 prasītais.
@@ -641,8 +639,8 @@ $\sphericalangle MAN+\sphericalangle MCN=60^{\circ}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -670,8 +668,8 @@ naturāls skaitlis. Vai kvadrāta $ABCD$ perimetrs noteikti ir naturāls skaitli
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -699,8 +697,8 @@ Atrisināt vienādojumu $\frac{5}{x^{2}-9}-\frac{1}{3-x}=\frac{1}{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -749,8 +747,8 @@ ierakstīts skaitlis $2014$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -761,8 +759,8 @@ skaitļi.
 
 Ievērojam, ka
 
-1) nepāra skaitlim pieskaitot divus nepāra skaitļus, iegūst nepāra skaitli;
-2) no nepāra skaitļa atņemot divkāršotu nepāra skaitli, iegūst nepāra skaitli.
+1. nepāra skaitlim pieskaitot divus nepāra skaitļus, iegūst nepāra skaitli;
+2. no nepāra skaitļa atņemot divkāršotu nepāra skaitli, iegūst nepāra skaitli.
 
 Tātad gan pēc pirmās, gan pēc otrās darbības astoņstūra virsotnē atkal būs 
 ierakstīts nepāra skaitlis. Līdz ar to visi skaitļi, kas atrodas astoņstūra 
@@ -778,8 +776,8 @@ līdzīgos trijstūros?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -826,14 +824,13 @@ vienā rūtiņā) tā, lai visās rindās un kolonnās skaitļu vidējais aritm�
 būtu vienāds.
 
 **(A)** Pierādīt, ka ir tieši viens skaitlis, kuru nodzēšot, viņa to varēs 
-izdarīt!
-
+izdarīt!  
 **(B)** Atrast vienu skaitļu izvietojuma piemēru!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,FindExample
+* domain:Alg
 
 </small>
 
@@ -887,8 +884,8 @@ Pierādīt, ka visu šādu funkciju grafikiem ir divi kopīgi punkti!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -919,31 +916,28 @@ kopīgi visu aplūkoto funkciju grafikiem.
 
 # <lo-sample/> LV.NOL.2015.10.1
 
-Uz parabolas $y=ax^{2}+bx+c$ atrodas punkts $M(1; 15)$, tās virsotne ir punktā 
-$N(-3; -1)$. Noteikt koeficientus $a,\ b$ un $c$!
+Uz parabolas $y=ax^{2}+bx+c$ atrodas punkts $M(1;15)$, tās virsotne ir punktā 
+$N(-3;-1)$. Noteikt koeficientus $a$, $b$ un $c$!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
 ## Atrisinājums
 
 Ja punkts $M(1; 15)$ atrodas uz parabolas, tad iegūstam vienādību:
-
-$15=a \cdot 1^{2}+b \cdot 1+c$ jeb $15=a+b+c$
+$15=a \cdot 1^{2}+b \cdot 1+c$ jeb $15=a+b+c$. 
 
 Ja punkts $N(-3 ;-1)$ atrodas uz parabolas, tad iegūstam
-
-$-1=a \cdot(-3)^{2}+b \cdot(-3)+c$ jeb $-1=9a-3b+c$
+$-1=a \cdot(-3)^{2}+b \cdot(-3)+c$ jeb $-1=9a-3b+c$. 
 
 Parabolas virsotnes $x$ koordinātu aprēķina pēc formulas $x_{0}=\frac{-b}{2a}$.
-
 Tātad iegūstam, ka $-3=\frac{-b}{2a}$ jeb $b=6a$.
 
-Lai noteiktu koeficientus $a,\ b,\ c$, sastādām vienādojumu sistēmu:
+Lai noteiktu koeficientus $a$, $b$, $c$, sastādām vienādojumu sistēmu:
 
 $$\left\{\begin{array}{l}
 a+b+c=15  \tag{1}\\
@@ -952,25 +946,24 @@ b=6a
 \end{array}\right.$$
 
 No $(1)$ atņemto $(2)$, iegūst $4b-8a=16$ jeb $b-2a=4$.
-
 Izmantojot $(3)$, pakāpeniski iegūstam koeficientu vērtības:
 
 $$6a-2a=4 \quad \Rightarrow \quad a=1 \quad \Rightarrow \quad b=6 \quad \Rightarrow \quad c=8$$
 
-Atbilde. Koeficientu vērtības ir $a=1,\ b=6,\ c=8$.
+Atbilde. Koeficientu vērtības ir $a=1$, $b=6$, $c=8$.
 
-*Piezīmes.*
+*Piezīme:*
 
 1. Trešo sistēmas vienādojumu var iegūt, ja izvēlas punktam $(1; 15)$ 
-simetrisko punktu $(-7; 15)$ attiecībā pret parabolas simetrijas asi $x=-3$:
+   simetrisko punktu $(-7; 15)$ attiecībā pret parabolas simetrijas asi $x=-3$:
 
-$15=a \cdot(-7)^{2}+b \cdot(-7)+c$ jeb $15=49a-7b+c$
+   $$15=a \cdot(-7)^{2}+b \cdot(-7)+c\;\;\text{jeb}\;\;15=49a-7b+c$$
 
 2. Risinājumā var izmantot, ka parabolas ar virsotni punktā 
-$\left(x_{0}; y_{0}\right)$ vienādojums ir $y=a\left(x-x_{0}\right)^{2}+y_{0}$.
-Tad, vienādojumā $y=a(x+3)^{2}-1$ ievietojot punkta $M$ koordinātas 
-($x=1,\ y=15$), var atrast $a$ vērtību $a=1$. Tātad meklētā parabola ir 
-$y=1 \cdot(x+3)^{2}-1=x^{2}+6x+8$.
+   $\left(x_{0}; y_{0}\right)$ vienādojums ir $y=a\left(x-x_{0}\right)^{2}+y_{0}$.
+   Tad, vienādojumā $y=a(x+3)^{2}-1$ ievietojot punkta $M$ koordinātas 
+   ($x=1,\ y=15$), var atrast $a$ vērtību $a=1$. Tātad meklētā parabola ir 
+   $y=1 \cdot(x+3)^{2}-1=x^{2}+6x+8$.
 
 
 
@@ -1031,8 +1024,8 @@ pieņemt mazākais no šiem saskaitāmajiem?
 * topic:SeriesMembersSumsClosedFormulas
 * topic:CanonicalFactorization
 * topic:ExhaustionMethod
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1166,9 +1159,9 @@ Der jau $x=4$ (pirmajā piemērā)
 Noskaidrojam, vai $x$ un $x+46$ var *vienlaikus* būt naturālu skaitļu pakāpes?
 
 * Ja $x$ ir pāru, tad **gan** $x$, **gan** $x+46$ dalās ar $4$ (tā ir pretruna, 
-jo $46$ nedalās ar $4$). 
+  jo $46$ nedalās ar $4$). 
 * Ja $x$ ir nepāru, tad **gan** $x+23$, **gan** $x+121$ dalās ar $4$ (tā ir pretruna, 
-jo starpība $121-23 = 98$ nedalās ar $4$). 
+  jo starpība $121-23 = 98$ nedalās ar $4$). 
 
 
 
@@ -1186,8 +1179,8 @@ taisnleņķa!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1218,8 +1211,8 @@ Atrisināt nevienādūbu $|x-2|-6+\frac{5}{|x-2|}>0$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1270,8 +1263,8 @@ ierakstīts skaitlis $2015$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -1305,8 +1298,8 @@ $a+b$, $a+c$, $b+c$ ir naturālu skaitļu kvadrāti?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -1361,8 +1354,8 @@ $ACB$ un $ABX$ bisektrises krustojas punktā $D$. Pierādīt, ka $AD=AB$!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1400,10 +1393,10 @@ $AD=AB$ kā riņķa līnijas $\omega$ rādiusi, kas arī bija jāpierāda.
 Dots taisnstūris ar izmēriem $n \times m$ rūtiņas. Sākumā katrā rūtiņā ir 
 ierakstīts $5$. Māris dotajā taisnstūrī veic secīgas darbības:
 
-1) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $1$;
-2) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $2$;
-3) izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $3$;
-4) visbeidzot izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $4$.
+1. izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $1$;
+2. izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $2$;
+3. izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $3$;
+4. visbeidzot izvēlas kādu taisnstūri un visās tā rūtiņās ieraksta ciparu $4$.
 
 Katra izvēlētā taisnstūra malām jāiet pa rūtiņu līnijām un cipars vienmēr 
 jāraksta rūtiņā jau esošā skaitļa labajā pusē.
@@ -1414,8 +1407,8 @@ $4 \times 4$ rūtiņas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -1471,8 +1464,8 @@ $(x-2) \log _{\sqrt{6}}\left(x^{2}-5x\right)=2x-\log _{\sqrt{6}} 36$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1528,8 +1521,8 @@ Vai, atkārtoti izpildot šīs darbības, no skaitļa $139$ var iegūt skaitli
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1562,8 +1555,8 @@ kuriem neviens nav $0$ un neviens neatkārtojas vairāk kā divas reizes?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -1592,8 +1585,8 @@ Pierādīt, ka $S_{BFL}+S_{CMG}+S_{DNH}+S_{AKE}=S_{KLMN}$ !
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1636,8 +1629,8 @@ Vai eksistē tādi naturāli skaitļi $a,\ b$ un $c$, ka skaitļa $a^{2}+b^{2}+c
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1667,7 +1660,7 @@ $(8m+k)^{2}$ dalot ar $8$, iegūsim tādu pašu atlikumu, kā $k^{2}$, dalot ar
 $8$.
 
 | $k$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ | $7$ |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | $k^{2}$ | $0$ | $1$ | $4$ | $9$ | $16$ | $25$ | $36$ | $49$ |
 | Atlikums, dalot ar $8$ | $0$ | $1$ | $4$ | $1$ | $0$ | $1$ | $4$ | $1$ |
 
@@ -1677,7 +1670,7 @@ Skaitli $7$ (vienādojuma $\left({ }^{*}\right)$ labās puses atlikums) nevar
 iegūt, izmantojot tikai minētos atlikumus.
 
 Tātad vienādojumam (*) nav atrisinājuma jeb neeksistē tādi naturāli skaitļi 
-$a,\ b$ un $c$, ka skaitļa $a^{2}+b^{2}+c^{2}$ pēdējie četri cipari ir $2015$.
+$a$, $b$ un $c$, ka skaitļa $a^{2}+b^{2}+c^{2}$ pēdējie četri cipari ir $2015$.
 
 *Piezīme.* Uzdevumu var risināt, izmantojot kongruenci pēc moduļa $8$.
 

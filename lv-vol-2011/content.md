@@ -34,8 +34,8 @@ garumu. Aprēķināt hipotenūzas un īsākās katetes garumu attiecību!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -111,8 +111,7 @@ iespējamos veidos tika sadalīti pāros, un katrā gadījumā uz sviras svariem
 salīdzinātas abu pāru masas. Vai, zinot visu šo svēršanu rezultātus (nevienā 
 svēršanā svaru kausi nebija līdzsvarā), iespējams noteikt:
 
-**(A)** vienu atsvaru, kurš ir **vai nu** vissmagākais, **vai** visvieglākais;
-
+**(A)** vienu atsvaru, kurš ir **vai nu** vissmagākais, **vai** visvieglākais;  
 **(B)** **gan** vissmagāko, **gan** visvieglāko atsvaru?
 
 (Svari nerāda masu starpību, bet ļauj tikai noteikt, uz kura kausa ir lielāks 
@@ -120,8 +119,8 @@ smagums.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
@@ -134,10 +133,10 @@ Pieņemsim, ka atsvaru masas ir $x>y>z>t$. Tad divu svēršanu rezultāti vienm�
 ir noteikti viennozīmīgi: $x+y>z+t$ un $x+z>y+t$. Trešajā svēršanā ir iespējami
 abi rezultāti.
 
-1) Ja $x+t>y+z$, tad atsvars ar masu $x$ vienmēr ir bijis uz smagākā kausa, 
+1. Ja $x+t>y+z$, tad atsvars ar masu $x$ vienmēr ir bijis uz smagākā kausa, 
    tāpēc ir vissmagākais, bet nevar noteikt visvieglāko atsvaru (visi pārēji ir
    $1$ reizi bijuši uz smagākā kausa un $2$ reizes uz vieglākā).
-2) Ja $x+t<y+z$, tad atsvars ar masu $t$ vienmēr ir bijis uz vieglākā kausa, 
+2. Ja $x+t<y+z$, tad atsvars ar masu $t$ vienmēr ir bijis uz vieglākā kausa, 
    tāpēc ir visvieglākais atsvars, bet nevar noteikt vissmagāko atsvaru (visi 
    pārēji ir $1$ reizi bijuši uz vieglākā kausa un $2$ reizes uz smagākā).
 
@@ -159,15 +158,15 @@ summā ir **(A)** $48$, **(B)** $49$ punkti?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
 
 </small>
 
 ## Atrisinājums
 
 Pieņemsim, ka spēlētāji ap galdu pulksteņrādītāja virzienā sēž secībā 
-$A,\ B,\ C$. Saskaitīsim cik kārtās katrs spēlētājs ir ieguvis $3$ punktus. 
+$A$, $B$, $C$. Saskaitīsim cik kārtās katrs spēlētājs ir ieguvis $3$ punktus. 
 Spēlētājam $A$ šo kārtu skaitu apzīmēsim ar $a$, spēlētājam $B$ - ar $b$, 
 spēlētājam $C$ - ar $c$. Tad kopējais spēlētāja $A$ kopsummā iegūto punktu 
 skaits ir $3a-2c-b$, spēlētāja $B$ punktu skaits ir $3b-2a-c$, bet spēlētāja 
@@ -190,8 +189,8 @@ $$|||x-2011|-2011|-2011|=|||x-1201|-1201|-1201|$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -218,15 +217,15 @@ $$\begin{aligned}
 
 # <lo-sample/> LV.VOL.2011.10.2
 
-Trijstūra $ABC(AB>BC)$ bisektrise $BD$ krusto tam apvilkto riņķa līniju 
+Trijstūra $ABC$ ($AB>BC$) bisektrise $BD$ krusto tam apvilkto riņķa līniju 
 $\omega$ punktā $M$. Uz malas $AB$ izvēlēts punkts $N$ tā, ka $CN \perp BM$. 
 $MN$ un $CN$ vēlreiz krusto $\omega$ attiecīgi punktos $K$ un $O$. Pierādīt, 
 ka $AO=OK$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -256,8 +255,8 @@ līnijām jāiet pa rūtiņu malām.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -312,8 +311,8 @@ nesakrīt.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
 
 </small>
 
@@ -389,8 +388,8 @@ $-1 \leq am+bn+cp \leq 1$. $(a, b, c, m, n, p$ - reāli skaitļi).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -413,8 +412,8 @@ viduspunktā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -480,8 +479,8 @@ Kāda ir visu uzrakstīto skaitļu summa?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
 
 </small>
 
@@ -519,8 +518,8 @@ atradīsies šī trijstūra iekšpusē vai uz tā malām.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -551,8 +550,8 @@ $\sqrt[3]{6}+\sqrt[3]{12}-2 \sqrt[3]{2}$ ir lielāks?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -578,8 +577,8 @@ $Y$. Pierādīt, ka $AX=XY=YC$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -632,8 +631,8 @@ $g(g(x))+g(x)=2x$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -659,8 +658,8 @@ virkne satur vismaz $55$ ciparus.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 

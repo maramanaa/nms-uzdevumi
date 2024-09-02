@@ -10,9 +10,11 @@ nav $0$. Atrodi visus iespējamos atrisinājumus!
 <small>
 
 * topic:IntegerFactorization
-* topic:ExhaustionMethod
+* method:ExhaustiveAlgorithms
 * questionType:FindAll
 * domain:NT
+* subdomain:NumeralSystems
+* genre:Cryptarithm
 
 </small>
 
@@ -57,6 +59,8 @@ skaitļu summas būtu vienādas. Ir zināmi trīs rūtiņās ierakstītie skait�
 * topic:AlgebraicTransformations
 * questionType:FindAll
 * domain:Alg
+* subdomain:EquationSystems
+* genre:MagicConfiguration
 * concepts:sum
 
 </small>
@@ -88,6 +92,7 @@ Parādi, kā kvadrātu var sadalīt vairākos platleņķa trijstūros!
 * topic:CircleInscribedAngles
 * questionType:FindExample
 * domain:Geom
+* subdomain:CuttingCoversColoring
 * concepts:square-Geo,triangle
 
 
@@ -385,8 +390,8 @@ pilsētā $B$ ierasties vienlaicīgi ar to, ja sarkanās automašīnas ātrums b
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
@@ -510,8 +515,8 @@ $MK,\ ML,\ MP$ un $MR$ viduspunkti, ir kvadrāts.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -537,8 +542,8 @@ vienādas. Nosaki visas iespējamās šo summu vērtības.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -698,8 +703,8 @@ $\sphericalangle BAC=\sphericalangle BMN$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -783,8 +788,8 @@ nevar, izpildot tikai atļautos gājienus?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom,Comb
 
 </small>
 
@@ -841,8 +846,8 @@ laukumu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -869,8 +874,8 @@ $$\left\{\begin{array}{l}
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -940,8 +945,8 @@ riņķa līniju $19$ lokos. Pierādīt, ka ir loks, kurš nepārsniedz $2^{\circ
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -967,16 +972,15 @@ kubiņi, trešajā slānī $4$ kubiņi un augšā - viens kubiņš (skat. 6.zīm
 
 Vai šo *torni* var salikt no
 
-**(A)** *klucīšiem* ar izmēru $1 \times 1 \times 2$ (skat. 7.zīm.)?
-
+**(A)** *klucīšiem* ar izmēru $1 \times 1 \times 2$ (skat. 7.zīm.)?  
 **(B)** *stūrīšiem*, ko veido $3$ kubiņi (skat. 8.zīm.)?
 
 ![](LV.AMO.2011.10.5.png)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1069,8 +1073,8 @@ Pierādīt, ka $QXOY$ ir taisnstūris.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1099,8 +1103,8 @@ rūtiņu malām, taisnstūri var būt novietoti gan horizontāli, gan vertikāli
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Geom,Comb
 
 </small>
 
@@ -1137,8 +1141,8 @@ $$\begin{aligned}
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -1252,8 +1256,8 @@ Atrodi izteiksmes $\sin ^{38} x+\cos ^{38} x$ vislielāko un vismazāko vērtīb
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
 
 </small>
 
@@ -1309,13 +1313,13 @@ $\sin ^{38} \frac{\pi}{4}+\cos ^{38} \frac{\pi}{4}=\frac{1}{2^{19}}+\frac{1}{2^{
 # <lo-sample/> LV.AMO.2011.12.3
 
 Uz riņķa līnijas ir izvēlētas divas hordas $AC$ un $BD$, kas krustojas punktā 
-$O,\ AO>BO.\ MO$ ir $\triangle AOB$ bisektrise, pie tam $AM=DO$. Pierādīt, ka 
+$O$, $AO>BO$. $MO$ ir $\triangle AOB$ bisektrise, pie tam $AM=DO$. Pierādīt, ka 
 $BM=CO$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -1329,7 +1333,7 @@ $BM=OC$, k.b.j.
 
 ## Atrisinājums
 
-Apvilksim ap $M,\ B$ un $O$ riņķa līniju, kas krusto $AO$ punktā $N$ (skat. 
+Apvilksim ap $M$, $B$ un $O$ riņķa līniju, kas krusto $AO$ punktā $N$ (skat. 
 19.zīm.). $\sphericalangle ABD=\sphericalangle ACD$ kā ievilktie leņķi, kas 
 balstās uz vienu loku.
 $\sphericalangle ANM=180^{\circ}-\left(180^{\circ}-\sphericalangle ABO\right)=\sphericalangle ABO$.
@@ -1361,8 +1365,8 @@ trijstūra virsotnēs un nekādi pieci no tiem neatrastos vienā plaknē?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Geom
 
 </small>
 
@@ -1380,8 +1384,8 @@ $$x^{y}+y^{x}+x+y<1+\frac{1}{2011}$$
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 

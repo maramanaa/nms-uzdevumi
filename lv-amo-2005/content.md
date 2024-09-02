@@ -360,8 +360,13 @@ var beigties šo skaitļu reizinājums?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DivisibilityRulesLastDigits
+* topic:ModularArithmetic
+* genre:optimization
+* concepts:decimal-notation
+* questionType:FindOptimal
+* domain:NT
+* seeAlso:LT.VILNIUS.2008.12.1
 
 </small>
 
@@ -378,6 +383,15 @@ $5^{3}$. Turklāt vismaz viens saskaitāmais ar $5$ nedalās, jo visu saskaitām
 summa nedalās ar $5$. Tāpēc visi $3$ saskaitāmie kopā satur ne vairāk kā 
 $3+3=\mathbf{6}$ pirmreizinātājus $5$. Tāpēc arī vairāk par $6$ nullēm nevar 
 būt.
+
+## Atrisinājums 
+
+Pamatosim, ka vēl vairāk nuļļu dabūt nevar dabūt.
+Divi saskaitāmie nevar beigties ar "5", jo atlikušajam tad jābeidzas ar "7". 
+Tātad vismaz viens saskaitāmais beigsies ar nulli. 
+
+Vairāk kā sešus $5$-pirmreizinātājus nevar iegūt 
+($125=5^3$ un $250=5^3\cdot{}2$ ir optimāli).
 
 
 
@@ -474,8 +488,12 @@ reizinājumu?
 
 <small>
 
-* questionType:
-* domain:
+* topic:TreeTraversalBacktracking
+* concepts:partition
+* genre:construction
+* questionType:FindExample
+* domain:Alg
+* strategy:CaseAnalysis
 
 </small>
 
@@ -489,23 +507,41 @@ Tā kā $1+x>1$ un $1+y>1$, tad vai nu $1+x=23$, vai $1+y=23$, bet tas nevar bū
 Ja triju skaitļu $x,\ y,\ z$ reizinājums vienāds ar pārējo summu $(x<y<z)$, tad
 $x+y+z+xyz=45$. Ir vairākas iespējas:
 
-1) $x=1$; tad $y+z+yz=44,(1+y)(1+z)=45$, no kurienes $1+y=5,1+z=9,\ y=4,\ y=8$ 
+1. $x=1$; tad $y+z+yz=44,(1+y)(1+z)=45$, no kurienes $1+y=5,1+z=9,\ y=4,\ y=8$ 
    (citos variantos $y$ vai $z$ iznāk pārāk lieli).
-2) $x=2$; tad iegūstam $y+z+2yz=43$, no kurienes $(2y+1)(2z+1)=87=3 \cdot 29$ 
+2. $x=2$; tad iegūstam $y+z+2yz=43$, no kurienes $(2y+1)(2z+1)=87=3 \cdot 29$ 
    (atrisinājuma nav).
-3) $x \geq 3$; tad $xyz \geq 3 \cdot 4 \cdot 5=6045$ - tā nevar būt.
+3. $x \geq 3$; tad $xyz \geq 3 \cdot 4 \cdot 5=6045$ - tā nevar būt.
 
 Līdzīgi no $x+y+z+t+xyzt=45,\ x<y<z<t$, iegūstam variantus
 
-1) $x=1;\ y=2$, no kurienes $2zt+z+t=42,\ (2z+1)(2t+1)=85=5 \cdot 17$ un 
+1. $x=1;\ y=2$, no kurienes $2zt+z+t=42,\ (2z+1)(2t+1)=85=5 \cdot 17$ un 
    $z=2$ - pretruna.
-2) ja $x \neq 1$ vai $y \neq 2$, tad 
+2. ja $x \neq 1$ vai $y \neq 2$, tad 
    $xyzt \geq 1 \cdot 3 \cdot 4 \cdot 5=60>45$ - pretruna.
 
 Piecu skaitļu reizinājums nav mazāks par 
 $1 \cdot 2 \cdot 3 \cdot 4 \cdot 5=120$ - pretruna.
 
 Tātad vienīgā atbilde ir $\{1;\ 4;\ 8\}$ un $\{2;\ 3;\ 5;\ 6;\ 7;\ 9\}$.
+
+
+## Atrisinājums
+
+Summa $1 + 2 + 3 + \ldots + 9 = 45$; šo varēs izmantot skaitļu noteikšanai.
+
+Pieņemsim, ka otrajā daļā tiek reizināti 
+tieši trīs skaitļi $a,b,c$.
+Var izvēlēties $abc=32$ un tad $a+b+c=45-32=13$ (jo visu pārējo 
+skaitļu summai jābūt vienādai ar $32$). 
+
+$$\left\{ \begin{array}{ll}
+abc & = 32 \\
+a + b + c & = 13 \\
+\end{array} \right.$$
+
+Šai sistēmai ir atrisinājums $(a,b,c)=(1,4,8)$.
+
 
 
 
@@ -590,8 +626,9 @@ neizmanto nevienu no cipariem $3;\ 4;\ 5;\ 6;\ 7;\ 8;\ 9$.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:divisibility,decimal-notation
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -813,8 +850,9 @@ pirmskaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:primes
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -841,8 +879,9 @@ visi skaitļi $|f(x)-x|,\ x=1;\ 2;\ \ldots;\ n$, ir dažādi, ja
 
 <small>
 
-* questionType:
-* domain:
+* concepts:function
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1021,8 +1060,9 @@ $\sqrt{d}-\sqrt{a} \leq 1$. Pierādīt, ka $a$ ir vesela skaitļa kvadrāts.
 
 <small>
 
-* questionType:
-* domain:
+* concepts:square-Alg
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -1105,8 +1145,10 @@ dalītāju, kas dod atlikumu $2$, dalot ar $3$?
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.AMO.2003.12.2
+* concepts:divisibility,remainder
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
@@ -1251,8 +1293,8 @@ Kurš spēlētājs uzvar, pareizi spēlējot?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
 
 </small>
 
