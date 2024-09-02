@@ -28,7 +28,7 @@ $$\mathbf{11,\ 1,\ 12,\ 2,\ 13,\ 3,\ 14,\ 4,\ 15,\ 5,\ 16,\ 6,\ 17,\ 7,\ 18,\ 8,
 
 # <lo-sample/> LV.NOL.2004.5.2
 
-2. Vai naturālos skaitļus
+Vai naturālos skaitļus
 
 **(A)** no $1$ līdz $12$ ieskaitot,
 
@@ -229,6 +229,8 @@ $\underline{Atbilde:}$ $17$;
 
 **(A)** tabula ar skaitļu summu $17$ redzama 7.zīm.
 
+![](LV.NOL.2004.6.4A.png)
+
 **(B)** mazākā iespējamā summa vienā rindā vai kolonā ir $3$. Tāpēc visu šo 
 sešu summu summa $S$ nav mazāka par $3+4+5+6+7+8=33$. Tā kā $S$ pāra skaitlis 
 (katrs tabulas skaitlis tajā ieskaitīts divas reizes), tad $S \geq 34$, no 
@@ -380,7 +382,8 @@ jāizgriež taisnstūrus ar izmēriem $1 \times 9$ rūtiņas. Kādu lielāko dau
 
 ## Atrisinājums
 
-7.5. $\underline{Atbilde:}$ $24$.
+$\underline{Atbilde:}$ $24$.
+
 **(A)** 8.zīm. redzams, kā izgriezt $24$ taisnstūrus.
 
 ![](LV.NOL.2004.7.5A.png)
@@ -406,7 +409,7 @@ skaitļu reizinājums vienāds ar otras grupas visu skaitļu reizinājumu?
 
 ## Atrisinājums
 
-8.1. $\underline{Atbilde:}$ $3$ skaitļus.
+$\underline{Atbilde:}$ $3$ skaitļus.
 **(A)** izsvītrojot skaitļus 10; 11; 13, iegūstam sadalījumu
 
 $$1 \cdot 2 \cdot 5 \cdot 6 \cdot 7 \cdot 8 \cdot 9=3 \cdot 4 \cdot 12 \cdot 14 \cdot 15$$
@@ -531,8 +534,8 @@ gabalos $b+\frac{2c}{3},\ \frac{c}{6},\ \frac{c}{6}$. Tad daļa ar garumu
 $b+\frac{2c}{3}$ ir garāka par visām $5$ citām daļām kopā, tāpēc tā nevar būt 
 trijstūra mala.
 
-Ja $a \leq b$, uzvar Pēteris. Pieņemsim, ka Jāņa daļas ir $
-x \geq y \geq z,\ x+y+z=a$. Pēteris izveido daļas ar garumiem 
+Ja $a \leq b$, uzvar Pēteris. Pieņemsim, ka Jāņa daļas ir 
+$x \geq y \geq z,\ x+y+z=a$. Pēteris izveido daļas ar garumiem 
 $x,\ \frac{b-x}{2},\ \frac{b-x}{2}$. Tad var salikt vienādsānu trijstūri 
 $(x,\ x,\ y)$ un vienādsānu trijstūri 
 $\left(\frac{b-x}{2},\ \frac{b-x}{2},\ z\right)$: ievērojam, ka $x \geq y$ un 
@@ -715,7 +718,7 @@ $101-99=2$). Pierādīsim, ka citu iespēju nav. Ja $a<100$, to pārbauda tieši
 Pieņemam, ka $a>100$. Ja būtu $x=y$, tad $b-a$ dalītos ar $10$ un nebūtu 
 pirmskaitlis. Tāpēc $x \neq y$. Šķirojam divas iespējas.
 
-**A.** $x<y \cdot$ Tad $x+1=y$ (pretējā gadījumā starp $a$ un $b$ atrastos 
+**A.** $x<y$. Tad $x+1=y$ (pretējā gadījumā starp $a$ un $b$ atrastos 
 palindroms $\underline{zzz \ldots z}$, kur $z=x+1$). Tad jābūt 
 $a=\overline{x99 \ldots 9x}$ (pretējā gadījumā starp $a$ un $b$ atrastos 
 palindroms $\overline{x99 \ldots 9x}$); tad $b=\overline{y00 \ldots 0y}$ un 
@@ -724,13 +727,13 @@ $b-a=11$.
 **B.** $x>y$. Tad $|b| \geq|a|+1$. Jābūt 
 $a=\underbrace{999 \ldots 9}_{t\ rizes}$, un tad noteikti 
 $b=\underbrace{100 \ldots 01}_{t-1\ reizi}$ (ja būtu citādi, tad starp $a$ un 
-$b$ atrastos palindroms $\underbrace{999 \ldots 9}$). Tad $b-a=2$.
+$b$ atrastos palindroms $\underbrace{999 \ldots 9}_{|a|}$). Tad $b-a=2$.
 
 
 
 # <lo-sample/> LV.NOL.2004.10.3
 
-Rinķī ievilkta četrstūra malu garumi ir 
+Riņķī ievilkta četrstūra malu garumi ir 
 $1 \mathrm{~cm};\ 1 \mathrm{~cm};\ 2 \mathrm{~cm};\ 3 \mathrm{~cm}$ (ne 
 noteikti šajā secībā). Kāds var būt šī četrstūra laukums?
 
@@ -879,7 +882,7 @@ x^{5}-x & =x\left(x^{4}-1\right)=x\left(x^{2}-1\right)\left(x^{2}+1\right)=x\lef
 Tā kā
 
 1) vai nu $x$, vai $x-1$ ir pāra skaitlis,
-2) viens no pieciem pēc kārtas nemtiem veseliem skaitļiem 
+2) viens no pieciem pēc kārtas ņemtiem veseliem skaitļiem 
 $x-2;\ x-1;\ x;\ x+1$; $x+2$ dalās ar $5$,
 
 tad katrs saskaitāmais dalās gan ar $2$, gan ar $5$. Tā kā $LKD(2; 5)=1$, no tā
@@ -1019,7 +1022,7 @@ vienāds ar abu iepriekšējo locekļu summu. Noskaidrot, vai ar $6$ dalās
 ## Atrisinājums
 
 Katra nākošā virknes locekļa atlikumu, dalot ar $6$, iegūst, saskaitot abu 
-iepriekšējo virknes locekļu atlikumus dališanā ar $6$ un dalot iegūto summu ar 
+iepriekšējo virknes locekļu atlikumus dalīšanā ar $6$ un dalot iegūto summu ar 
 $6$ ar atlikumu. Tāpēc virknes pirmo $26$ locekļu atlikumi, dalot ar $6$, ir:
 
 $$\mathbf{1;\ 1}; 2;\ 3;\ 5;\ 2;\ 1;\ 3;\ 4;\ 1;\ 5;\ 0;\ 5;\ 5;\ 4;\ 3;\ 1;\ 4;\ 5;\ 3;\ 2;\ 5;\ 1;\ 0;\ \mathbf{1;\ 1};\ \ldots$
@@ -1042,7 +1045,7 @@ un $AB$ pieskāršanās punktu ar $E$ (skat. 2.zīm.).
 **(A)** pieņemot, ka jau pierādīta vienādība $AC=AE$, pierādīt: $CE$ ir 
 $\sphericalangle BCD$ bisektrise,
 
-**(B)** pierādì vienādību $AC=AE$.
+**(B)** pierādi vienādību $AC=AE$.
 
 <small>
 
@@ -1066,13 +1069,13 @@ no kurienes seko vajadzīgais (12.zīm.).
 **(B)** Apzīmēsim $W_{1}$ un $W_{2}$ rādiusus attiecīgi ar $R$ un $r$ 
 (13.zīm.).
 
-Tad $AE^{2}}=(R+OE)^{2}=R^{2}+2R \cdot OE+OE^{2}=$
+Tad $AE^{2}=(R+OE)^{2}=R^{2}+2R \cdot OE+OE^{2}=$
 
 $=R^{2}+2R \cdot OE+\left[(R-r)^{2}-r^{2}\right]=2R^{2}+2R(OE-r)=$
 
 $=2R^{2}+2R \cdot OD=2R \cdot AD$
 
-Savukārt no taisnlengka trijstūru $ACB$ un $ADC$ līdzības seko $AC:AB=AD:AC$, 
+Savukārt no taisnleņķa trijstūru $ACB$ un $ADC$ līdzības seko $AC:AB=AD:AC$, 
 tāpēc $AC^{2}=AB \cdot AD=2R \cdot AD=AE^{2}$. Tātad $AC=AE$.
 
 
