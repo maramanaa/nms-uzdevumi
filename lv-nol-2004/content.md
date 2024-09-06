@@ -3,8 +3,7 @@
 Vai naturālos skaitļus no $1$ līdz $20$ ieskaitot var izrakstīt katru tieši 
 vienu reizi
 
-**(A)** rindā,
-
+**(A)** rindā,  
 **(B)** pa apli
 
 tā, lai katru divu blakus uzrakstītu skaitļu starpība būtu vismaz $10$?
@@ -20,7 +19,7 @@ tā, lai katru divu blakus uzrakstītu skaitļu starpība būtu vismaz $10$?
 
 **(A)** jā, var; piemēram,
 
-$$\mathbf{11,\ 1,\ 12,\ 2,\ 13,\ 3,\ 14,\ 4,\ 15,\ 5,\ 16,\ 6,\ 17,\ 7,\ 18,\ 8,\ 19,\ 9,\ 20,\ 10}$$
+$$11,\ 1,\ 12,\ 2,\ 13,\ 3,\ 14,\ 4,\ 15,\ 5,\ 16,\ 6,\ 17,\ 7,\ 18,\ 8,\ 19,\ 9,\ 20,\ 10$$
 
 **(B)** nē, nevar. Skaitlim $10$ iespējams tikai viens kaimiņš - skaitlis $20$.
 
@@ -271,14 +270,18 @@ lai katru divu atlikušo summa būtu salikts skaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:composite-numbers
+* topic:BipartiteGraphs
+* topic:PrimesDistribution
+* topic:InvariantParity
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
 ## Atrisinājums
 
-$\underline{Atbilde:}$ $7$ skaitļus.
+*Atbilde:* $7$ skaitļus.
 
 **(A)** izsvītrojot visus pāra skaitļus, katru divu atlikušo skaitļu summa ir 
 pāra skaitlis, kas nav mazāks par $4$, tātad tā ir salikts skaitlis,
@@ -402,8 +405,11 @@ skaitļu reizinājums vienāds ar otras grupas visu skaitļu reizinājumu?
 
 <small>
 
-* questionType:
-* domain:
+* topic:CanonicalFactorization
+* topic:EuclideanLemma
+* seeAlso:LV.NOL.2003.8.3
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -419,6 +425,19 @@ Tāpēc $11$ un $13$ jāsvītro noteikti (tie katrs sastopami vienā eksemplār�
 jāsvītro arī $5,\ 10$ vai $15$, lai atlikušo reizinātāju " $5$ " būtu pāra skaits.
 
 
+## Atrisinājums
+
+*#EuclideanLemma* 
+Jāsvītro $11,13$, jo pēc Eiklīda lemmas - ja ar kādu no šiem pirmskaitļiem 
+dalās viena vienādības puse, tad jādalās arī otrai (bet citu skaitļu, kas 
+ar šiem pirmskaitļiem dalās, mums nav). 
+
+Tāpat jāsvītro arī pa vienam $2$ un $5$ daudzkārtnim (var svītrot $10$). 
+Pēc tam var, piemēram, uzrakstīt vienādību:
+
+$$3 \cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 12 = 1 \cdot 2 \cdot 8 \cdot 9 \cdot 14 \cdot 15$$
+
+
 
 # <lo-sample/> LV.NOL.2004.8.2
 
@@ -428,8 +447,11 @@ decimālais pieraksts sākas ar ciparu $1$?
 
 <small>
 
-* questionType:
-* domain:
+* topic:DecimalNotationDigits
+* topic:DefiningRecurrentSequences
+* questionType:FindCount
+* domain:NT
+* seeAlso:LV.NOL.2005.8.1
 
 </small>
 
@@ -446,6 +468,15 @@ No šejienes izriet: sadalot skaitļus $2^{n},\ n=1;\ 2;\ \ldots;\ 200$, grupās
 pēc to ciparu skaita, pavisam ir $61$ grupa un katrā grupā (izņemot viencipara 
 pakāpes) ir tieši viena pakāpe, kas sākas ar ciparu $1$. Tāpēc uzdevuma atbilde
 ir $60$.
+
+*Piezīme:* Pēc kārtas sekojošu 
+divnieka pakāpju pirmie cipari garos intervālos perfekti apmierina 
+Benforda sadalījumu, sk. 
+[Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law). 
+Šo sadalījumu reizēm izmanto, lai atšķirtu reāli iegūtus datus 
+no safabricētiem skaitļiem - nejaušā secībā uzrakstītām ciparu virknēm. 
+Sk. [Ideāli Valsts Domes vēlēšanu rezultāti](https://meduza.io/feature/2017/01/13/itogi-vyborov-v-gosdumu-okazalis-slishkom-idealnymi). 
+
 
 
 
@@ -574,8 +605,8 @@ var vienlaicīgi būt pirmskaitļi?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -623,16 +654,16 @@ uzrakstīti $2004$ skaitļi, kas visi vienādi ar $1$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
 
 </small>
 
 ## Atrisinājums
 
-$\underline{Atbilde:}$ jā, var.
+*Atbilde:* jā, var.
 
-$\underline{Risinājums.}$ Ja pieci no sākotnējiem skaitļiem ir 
+*Risinājums.* Ja pieci no sākotnējiem skaitļiem ir 
 $x;\ y;\ z;\ t;\ 1$, aizstājam $x$ un $y$ ar $a=z+t-1$. Tālāk $z$ un $t$ 
 aizstājam ar $1+a-a=1$. Tālāk $a$ un $a$ aizstājam ar $1+1-1=1$. Tagad ir 
 vismaz $5$ vieninieki. Līdzīgi pakāpeniski pārvēršam par vieniniekiem visus 
@@ -701,8 +732,9 @@ blakus uzrakstītu palindromu starpība, ja zināms, ka tā ir pirmskaitlis?
 
 <small>
 
-* questionType:
-* domain:
+* concepts:palindrome
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -864,8 +896,8 @@ $x^{n}-x$ dalās ar $10$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -1008,14 +1040,14 @@ $k \geq 2(n-k),\ 3k \geq n-1$, $k \geq \frac{2n-1}{3}$.
 Skaitļu virknē $1;\ 1;\ 2;\ 3;\ 5;\ \ldots$ katrs loceklis, sākot ar trešo, 
 vienāds ar abu iepriekšējo locekļu summu. Noskaidrot, vai ar $6$ dalās
 
-**(A)** virknes $24$-ais loceklis,
-
+**(A)** virknes $24$-ais loceklis,  
 **(B)** virknes $2004$-ais loceklis.
 
 <small>
 
-* questionType:
-* domain:
+* seeAlso:LV.NOL.2000.12.1
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
