@@ -54,7 +54,7 @@ $\sphericalangle ASC$ malām.
 Jānītis grib uzrakstīt $n$ dažādus naturālus skaitļus tā, lai nekādu sešu 
 uzrakstīto skaitļu summa nedalītos ar $6$.
 
-Vai tas ir iespējams, ja **(A)** n=10$, **(B)** $n=11$?
+Vai tas ir iespējams, ja **(A)** $n=10$, **(B)** $n=11$?
 
 <small>
 
@@ -83,7 +83,7 @@ Atliek ievērot, ka summa, kas dalās gan ar $2$, gan ar $3$, dalās ar $6$.
 # <lo-sample/> LV.VOL.2004.9.4
 
 Kvadrāts sastāv no $4 \times 4$ vienādām kvadrātiskām rūtiņām Andris pēc kārtas
-novieto pa vienam tomim kādā vēl neaiznemtā rūtiņā saskaņā ar šādiem 
+novieto pa vienam tomim kādā vēl neaizņemtā rūtiņā saskaņā ar šādiem 
 noteikumiem: pirmo torni viņš drīkst novietot patvaļīgā rūtiņā pēc savas 
 izvēles, bet katru nākošo torni jānovieto tādā rūtiņā, kur to uzlikšanas brīdī 
 apdraud nepāra skaits jau novietoto (divi torņi apdraud viens otru, ja tie abi 
@@ -353,7 +353,7 @@ pēc der arī atbilde $a=7,\ b=3$.
 
 # <lo-sample/> LV.VOL.2004.11.3
 
-Šaurleņķu trijstūī $ABC$ punkts $O$ ir apvilktās riņķa līnijas centrs, bet $BE$
+Šaurleņķu trijstūrī $ABC$ punkts $O$ ir apvilktās riņķa līnijas centrs, bet $BE$
 un $CF$ - augstumi. Pierādīt, ka $OA \perp EF$.
 
 <small>
@@ -367,7 +367,7 @@ un $CF$ - augstumi. Pierādīt, ka $OA \perp EF$.
 
 ![](LV.VOL.2004.11.3A.png)
 
-Punkts $O$ atrodas $ABC$ iekšpusē. No ievilktu/centra leņķku īpašībām 
+Punkts $O$ atrodas $ABC$ iekšpusē. No ievilktu/centra leņķu īpašībām 
 $\sphericalangle AOB=2 \sphericalangle C$, tāpēc no vienādsānu 
 $\triangle AOB\ \sphericalangle OAB=90^{\circ}-\sphericalangle C$. Ap $CEFB$ 
 var apvilkt riņķa līniju (jo 
@@ -419,7 +419,7 @@ $a=1$ der. Līdzīgi pierāda, ka der $a=1$.
 Uz $n$ šķīvjiem atrodas konfektes; konfekšu pavisam ir $k$, pie tam $n \geq 4$ 
 un $k \geq 4$. Ar vienu gājienu atļauts izvēlēties divus šķīvjus, uz katra no 
 kuriem ir vismaz viena konfekte, paņemt no katra izvēlētā šķīvja vienu konfekti
-un tās abas uzlikt uz kāda cita škīivja. Citas darbības nav atļautas.
+un tās abas uzlikt uz kāda cita škīvja. Citas darbības nav atļautas.
 
 Vai noteikti var panākt, ka visas konfektes atrodas uz viena šķīvja?
 
@@ -434,7 +434,7 @@ Vai noteikti var panākt, ka visas konfektes atrodas uz viena šķīvja?
 
 Jā, var. Izmantosim matemātisko indukciju pēc $k$.
 
-$\underline {Bāze}\ k=4$. Apskatām $4$ šķīvjus, uz kuriem kopā atrodas visas 
+$\underline {Bāze\ k=4}$. Apskatām $4$ šķīvjus, uz kuriem kopā atrodas visas 
 konfektes. Pārveidojumu virkne
 
 $$(1,\ 1,\ 1,\ 1) \rightarrow(3,\ 1,\ 0,\ 0) \rightarrow(2,\ 0,\ 2,\ 0) \rightarrow(1,\ 0,\ 1,\ 2) \rightarrow(0,\ 0,\ 0,\ 4)$$
