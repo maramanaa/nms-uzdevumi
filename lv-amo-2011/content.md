@@ -467,6 +467,7 @@ vienas krāsas punktus, starp kuriem attālums centimetros ir vesels skaitlis.
 
 * concepts:line,point,distance,integer-numbers
 * questionType:Prove
+* method:PigeonholePrincipleBasic
 * domain:Geom
 
 </small>

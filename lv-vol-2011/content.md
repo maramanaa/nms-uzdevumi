@@ -660,6 +660,7 @@ virkne satur vismaz $55$ ciparus.
 
 * questionType:Prove
 * domain:NT
+* method:PigeonholePrincipleBasic
 
 </small>
 

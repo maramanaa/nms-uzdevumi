@@ -831,7 +831,7 @@ no tiem var izvēlēties divus, no kuriem viens dalās ar otru.
 <small>
 
 * topic:ArithmeticAndGeometricSeries
-* topic:NumTheoryPigeonhole
+* method:PigeonholePrincipleBasic
 * questionType:Prove
 * domain:NT
 * concepts:divisibility

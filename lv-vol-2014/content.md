@@ -115,6 +115,7 @@ iespējams panākt, ka pret savu plāksnīti atradīsies vairāk par vienu diplo
 
 * questionType:Prove,Prove
 * domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 
@@ -895,6 +896,7 @@ iespējamais kopējais šaha partiju skaits, kas ir izspēlētas šajā festivā
 
 * questionType:FindOptimal
 * domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 

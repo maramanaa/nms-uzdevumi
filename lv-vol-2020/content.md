@@ -651,8 +651,9 @@ izvēlētajā rindā, vai izvēlētajā kolonnā (vai abās).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 

@@ -1542,8 +1542,8 @@ da탑훮di.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
 
 </small>
 
@@ -1685,8 +1685,9 @@ Trijst큰ri sauc par vienkr훮sas, ja tam visas malas ir nokr훮sotas vien훮 kr훮s�
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove,ProveDisprove
+* domain:Geom
+* method:PigeonholePrincipleBasic
 
 </small>
 

@@ -1038,8 +1038,9 @@ divus tādus, ka to summa vai starpība dalās ar $13$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* method:PigeonholePrincipleBasic
 
 </small>
 

@@ -41,8 +41,9 @@ gadu skaits?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove,ProveDisprove,ProveDisprove
+* domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 

@@ -422,7 +422,7 @@ $$\frac{a_{1}+a_{2}+\cdots+a_{n}}{n} \leq \frac{a_{1}+a_{2}+\cdots+a_{n}+a_{n+1}
 
 Kādā valstī ir $100$ pilsētas. Starp dažām no tām organizēti avioreisi. Starp 
 katrām divām pilsētām ir augstākais viens reiss. Katrs reiss savieno tikai $2$ 
-pilsētas, pa ceļam nenolaižoties citās. Katrs reiss „darbojas" abos virzienos. 
+pilsētas, pa ceļam nenolaižoties citās. Katrs reiss "darbojas" abos virzienos. 
 Reisus organizē $90$ aviokompānijas, katra aviokompānija organizē tieši $30$ 
 reisus. Ja kompānija organizē reisu starp kādām divām pilsētām (apzīmēsim tās 
 ar $A$ un $B$), tad tai ir biroji gan pilsētā $A$, gan pilsētā $B$. Pierādīt, 
@@ -430,8 +430,9 @@ ka ir tāda pilsēta, kurā ir vismaz $9$ biroji!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 
@@ -890,8 +891,9 @@ ir iracionāli!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
+* method:PigeonholePrincipleBasic
 
 </small>
 

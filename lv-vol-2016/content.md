@@ -411,8 +411,9 @@ baltajās virsotnēs?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal,FindOptimal
+* domain:Geom
+* method:PigeonholePrincipleBasic
 
 </small>
 

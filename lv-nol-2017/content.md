@@ -446,8 +446,9 @@ izmestas, vismaz viena iekrāsotā rūtiņa paliktu neizmesta?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
+* method:PigeonholePrincipleBasic
 
 </small>
 
