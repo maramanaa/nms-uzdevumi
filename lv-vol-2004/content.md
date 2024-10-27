@@ -58,8 +58,8 @@ Vai tas ir iespējams, ja **(A)** $n=10$, **(B)** $n=11$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:NT
 
 </small>
 
@@ -202,14 +202,14 @@ $\sphericalangle AOE_{2}=60^{\circ}+45^{\circ}=105^{\circ}$.
 
 # <lo-sample/> LV.VOL.2004.10.3
 
-Uz tāfeles uzrakstīti dažādi pirmskaitļi, to vidējais anitmētiskais ir $27$.
+Uz tāfeles uzrakstīti dažādi pirmskaitļi, to vidējais aritmētiskais ir $27$.
 
 Kāds vislielākais pirmskaitlis var būt uzrakstīts uz tāfeles?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
 
 </small>
 
@@ -331,8 +331,8 @@ kvadrāts?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
@@ -585,8 +585,8 @@ skaitļa kubs.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
