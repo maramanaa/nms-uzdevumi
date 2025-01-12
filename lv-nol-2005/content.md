@@ -450,7 +450,7 @@ dažādu masu monētas. Ja līdzsvars ir, visām monētām ir vienādas masas.
 
 # <lo-sample/> LV.NOL.2005.8.1
 
-Ir zināms, ka skaitļa $2^{100}$ decimālajā pierakstā ir $431$ cipars. Cik 
+Ir zināms, ka skaitļa $2^{100}$ decimālajā pierakstā ir $31$ cipars. Cik 
 daudziem no skaitļiem $2^{1};\ 2^{2};\ 2^{3};\ \ldots;\ 2^{99};\ 2^{100}$ 
 decimālais pieraksts sākas ar ciparu $1$?
 

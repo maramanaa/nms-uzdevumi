@@ -217,7 +217,7 @@ gan $x$, gan $y$ ir nepāra, tad $x-y$ ir pāra, un $xy(x-y)$ atkal ir pāra.
 
 # <lo-sample/> LV.NOL.2008.6.4
 
-Vai eksistē tāds naturāls skaitlis $n$, ka reizinājums $n \cdot n$ nākas ar 
+Vai eksistē tāds naturāls skaitlis $n$, ka reizinājums $n \cdot n$ sākas ar 
 $1234567 \ldots$?
 
 <small>

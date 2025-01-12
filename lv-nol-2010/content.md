@@ -265,14 +265,15 @@ Rindā no sākuma bija uzrakstīti $2009$ vieninieki. Ar vienu gājienu nodzēš
 rindā esošos skaitļus un tās otrā galā pieraksta abu nodzēsto skaitļu summu. Šādus
 gājienus atkārto, līdz rindā paliek tikai viens skaitlis.
 
-**(A)** cik gājienu tiks izdarīti?
-
+**(A)** cik gājienu tiks izdarīti?  
 **(B)** atrast vienīgo palikušo skaitli.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount,FindAll
+* domain:Alg
+* subdomain:RealSequences
+* method:FixedInvariant
 
 </small>
 
@@ -293,8 +294,10 @@ Dots, ka $x^{3}=y^{4}$ un $x^{11}=y^{15}$. Atrast $x$ un $y$, ja tie ir pozitīv
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
+* subdomain:EquationSystems
+* method:PolynomialTransformations
 
 </small>
 
@@ -317,6 +320,8 @@ $(x+1)(x+2)(x+3)$ dalās ar $343$?
 * topic:FactorizationAndDivisibility
 * questionType:FindCount
 * domain:NT
+* subdomain:PrimeFactors,Divisibility
+* method:
 
 </small>
 
@@ -343,8 +348,10 @@ rūtiņām nebūtu nokrāsotas visas malas?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Geom
+* subdomain:ObjectSystemsGeometry,IntegerLattices
+* method:MeanValuePrinciple
 
 </small>
 
@@ -372,7 +379,9 @@ Kāds ir mazākais stundu skaits, kuru laikā visi rūķīši var uzzināt visus
 <small>
 
 * questionType:
-* domain:
+* domain:Comb
+* subdomain:CombinatorialAlgorithms
+* method:InductiveAlgorithms
 
 </small>
 
@@ -407,6 +416,8 @@ $2$ un $3$.)
 * topic:TelescopicSums
 * questionType:ProveDisprove,FindCount
 * domain:NT
+* subdomain:PrimeFactors
+* method:PolynomialTransformations
 
 </small>
 
@@ -431,8 +442,11 @@ $\sphericalangle ABC=20^{\circ}$. Pierādiet, ka $3 \cdot AC > AB$.
 
 <small>
 
-* questionType:
-* domain:
+* topic:TriangleInequality
+* questionType:Prove
+* domain:Geom
+* subdomain:Triangles
+* method:
 
 </small>
 
@@ -477,6 +491,8 @@ starpība dalās ar $9$.
 * topic:NotationManipulate
 * questionType:Prove
 * domain:NT
+* subdomain:NumeralSystems
+* method:FixedInvariant
 
 </small>
 
@@ -505,8 +521,10 @@ ir identitāte?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Alg
+* subdomain:Equations
+* method:
 
 </small>
 
@@ -526,8 +544,10 @@ tādas $3$ lampas, kuras visas savā starpā savienotas ar vienas krāsas vītn�
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
+* subdomain:Graphs
+* method:ExtremeConstructions
 
 </small>
 
@@ -560,8 +580,8 @@ Atrodiet kaut vienu kvadrātvienādojumu ar veseliem koeficientiem, kam viena no
 
 **(A)** piemēram, $x^{2}-2x-1=0$.
 
-**(B)** ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. Tāpēc
-    der, piemēram, vienādojums $x^{2}-4x+1=0$
+**(B)** ievērojam, ka $\sqrt{7+4 \sqrt{3}}=\sqrt{(\sqrt{3}+2)^{2}}=\sqrt{3}+2$. 
+Tāpēc der, piemēram, vienādojums $x^{2}-4x+1=0$
 
 
 
