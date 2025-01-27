@@ -1007,7 +1007,7 @@ x^{4}-1=3\left(x^{3}+x^{2}+x+1\right) \\
 # <lo-sample/> LV.NOL.2022.11.3
 
 Trapeces $ABCD$ pamati ir $AB$ un $CD$. Diagonāles $AC$ un $BD$ krustojas
-punktā E. Pierādīt, ka $S_{ABE} \cdot S_{ABCD}=S_{ABC}^{2}$ !
+punktā $E$. Pierādīt, ka $S_{ABE} \cdot S_{ABCD}=S_{ABC}^{2}$ !
 
 <small>
 
@@ -1227,7 +1227,7 @@ $$\sphericalangle BAD+\sphericalangle CDA=360^{\circ}-\sphericalangle ABC-\spher
 Tad pēc bisektrises definīcijas
 $\sphericalangle FAD+\sphericalangle FDA=\frac{1}{2}(\sphericalangle BAD+\sphericalangle CDA)=\alpha+\beta$. No trijstūra $AFD$ iegūstam, ka $\sphericalangle AFD=180^{\circ}-(\sphericalangle FAD+\sphericalangle FDA)=180^{\circ}-\alpha-\beta$.
 
-Tātad divi vienlieli leņi
+Tātad divi vienlieli leņķi
 $\sphericalangle AED$ un $\sphericalangle AFD$ balstās uz viena nogriežņa $AD$. Līdz ar to ap četrstūri $AFED$
 var apvilkt riņka līniju, un esam pierādījuši, ka uz trijstūrim $ADE$ apvilktās
 riņķa līnijas atrodas arī punkts $F$.

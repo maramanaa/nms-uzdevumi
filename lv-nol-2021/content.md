@@ -3357,7 +3357,7 @@ x^{2}-4 x+3=0
 \end{gathered}$$
 
 kura saknes ir $x_{1}=1$ un $x_{2}=3$. Tad $a_{2}=1.25$ un $a_{2}=3.5$. Līdz ar to diferences ir 
-$d_{1}=-0.75$ un $d_{2}=1.5$. Apskatām abus gadijumus:
+$d_{1}=-0.75$ un $d_{2}=1.5$. Apskatām abus gadījumus:
 
 - ja $d=1.25$, tad aritmētiskās progresijas pirmo piecu locekļu 
   $(2; 3.25; 4.5; 5.75; 7)$ summa ir $S_{5}=2+3.25+4.5+5.75+7=22.5$
@@ -3403,9 +3403,9 @@ $$f(-1)f(1) = (a+c-b)(a+c+b) = (a+c)^{2}-b^{2} = \frac{b^{2}}{2021^{2}}-b^{2} < 
 
 # <lo-sample/> LV.NOL.2021.11.3
 
-Divi vienādi vienādsānu trijstūri $ABC$ un $DEF(A B=A C=D E=D F$ un $B C=E F)$ 
-krustojoties veido četrstūri $P Q R S$ (skat. 5. att.), 
-kuram var apvilkt riņka līniju. Pierādīt, ka divi no četrstūra $PQRS$ leņkiem ir taisni.
+Divi vienādi vienādsānu trijstūri $ABC$ un $DEF$ ($AB=AC=DE=DF$ un $BC=EF$) 
+krustojoties veido četrstūri $PQRS$ (skat. 5. att.), 
+kuram var apvilkt riņķa līniju. Pierādīt, ka divi no četrstūra $PQRS$ leņķiem ir taisni.
 
 ![](LV.NOL.2021.11.3.png){ width=200px }
 
