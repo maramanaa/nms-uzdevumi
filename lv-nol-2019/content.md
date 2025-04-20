@@ -391,8 +391,10 @@ vai smagāka nekā pārējās? (Pašu monētu atrast nav nepieciešams.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
+* seeAlso:LV.SOL.2020.9.3
+* seeAlso:LV.NOL.2016.7.4
 
 </small>
 

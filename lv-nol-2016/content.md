@@ -382,8 +382,10 @@ pārējām? Pašu monētu atrast nav nepieciešams.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
+* seeAlso:LV.NOL.2019.7.2
+* seeAlso:LV.SOL.2020.9.3
 
 </small>
 

@@ -6,7 +6,12 @@ $20$ rūtiṇas un kura malas iet pa rūtinu līnijām?
 **(B)** Vai uz rūtiṇu lapas var uzzīmēt $12$-stūri, kura laukums ir 
 $4500$ rūtiņas un kura malas iet pa rūtiṇu līnijām? 
 
-
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -22,6 +27,13 @@ garums ir $30$ rūtiņas).
 
 Vai eksistē tādi dažādi trīsciparu naturāli skaitli $A$ un $B$, 
 ka trim skaitļiem $A, B$ un $A+B$ ciparu summas visas savā starpā vienādas?
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -45,6 +57,14 @@ trijstūrīšos ar kopīgu malu.
 
 3. att.
 
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 **(A)** Jā, var, piemēram, skat. 4. att.
@@ -64,6 +84,14 @@ tikai $5$ nepāra skaitļi $(1,3,5,7,9)$.
 **(A)** Vai kvadrātu var sagriezt 10 kvadrātos?
 
 **(B)** Vai kvadrātu var sagriezt 103 kvadrātos?
+
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -85,6 +113,13 @@ Volejbola turnīrā katra komanda ar katru citu spēlēja tieši vienu reizi.
 Volejbolā neizškirtu nav. Turnīru beigās izrādījās, ka astotdaļai 
 visu komandu nav nevienas uzvaras. Cik spēlu izspēlēja turnīrā?
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Bez uzvarām var palikt augstākais viena komanda. Ja tādas komandas 
@@ -97,7 +132,14 @@ tika izspēēētas $7+6+5+4+3+2+1=28$ spēles.
 # <lo-sample/> LV.SOL.2020.6.3
 
 Vai eksistē tādi trīs dažādi naturāli skaitli, ka katru divu 
-skait|u reizinājums dalās ar to summu?
+skaitļu reizinājums dalās ar to summu?
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -116,6 +158,14 @@ $120$, $240$ un $360$, jo
 **(A)** Vai kvadrātu var sagriezt $11$ kvadrātos?
 
 **(B)** Vai kvadrātu var sagriezt $113$ kvadrātos?
+
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -139,6 +189,13 @@ Vai plaknē var atlikt četrus punktus tā, lai trīs attālumi starp
 punktiem būtu $5 \mathrm{~cm}, 6 \mathrm{~cm}$ un $10 \mathrm{~cm}$, 
 bet katrs atlikušais attālums nepārsniegtu $4 \mathrm{~cm}$ ?
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Nē, nevar. Apzīmēsim punktus ar $A,B,C,D$. Ja, piemēram, $AD=10$, 
@@ -157,6 +214,13 @@ tātad plaknē nevar atlikt punktus atbilstoši uzdevuma nosacījumiem.
 Kādu lielāko skaitu skaitļu var uzrakstīt rindā tā, lai katru trīs 
 pēc kārtas uzrakstītu skaitļu summa būtu pozitīva, bet katru piecu
 pēc kārtas uzrakstītu skaitļu summa būtu negatīva?
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -179,6 +243,13 @@ $$
 \left(1+\frac{1}{2}\right) \cdot\left(1+\frac{1}{3}\right) \cdot\left(1+\frac{1}{4}\right) \cdot \ldots \cdot\left(1+\frac{1}{70}\right)
 $$
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Vienkāršojam doto izteiksmi
@@ -198,6 +269,13 @@ izteiksmes vērtība vienāda $\operatorname{ar} \frac{71}{2}$ jeb $35 \frac{1}{
 Punkti $A, B$ un $C$ atrodas uz vienas taisnes; $B$ atrodas starp 
 $A$ un $C$. Trijstūri $AMB$ un $BNC$ ir vienādmalu. 
 Pierādīt, ka $AN=CM$.
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -231,6 +309,13 @@ Līdz ar to $CM=AN$ kā atbilstošās malas vienādos trijstūros.
 Atrast tādu divpadsmitciparu skaitli (kas nesatur ciparu $0$) tā, lai katri 
 divi blakus uzrakstīti cipari veidotu pirmskaitli un visi šie pirmskaitļi būtu dažādi!
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Meklētais skaitlis ir $619737131179$, jo $61$, $19$, $97$, $73$, $37$, $71$, $13$, 
@@ -246,6 +331,12 @@ $a,b,c$, ka $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=1$?
 $a_{1}, a_{2}, \ldots, a_{10}$, ka 
 $\frac{1}{a_{1}}+\frac{1}{a_{2}}+\cdots+\frac{1}{a_{10}}=1$?
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -271,6 +362,13 @@ Procesu turpinot, katru reizi saskaitāmo skaitu palielinām par $1$.
 # <lo-sample/> LV.SOL.2020.9.2
 
 Vai šaurleṇku trijstūrī mediānas garums var būt vienāds ar viduslīnijas garumu?
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -304,6 +402,15 @@ ir vienādas savā starpā, bet vienas monētas masa ir citāda. Kā ar divām
 svēršanām uz sviru svariem bez atsvariem noskaidrot, vai atšķirīgā monēta 
 ir vieglāka vai smagāka nekā pārējās?
 
+<small>
+   
+* questionType:Algorithm
+* domain:Comb
+* seeAlso:LV.NOL.2016.7.4
+* seeAlso:LV.NOL.2019.7.2
+   
+</small>
+
 ## Atrisinājums
 
 Uzliekam uz katra svaru kausa $8$ monētas. Iespējami divi gadījumi.
@@ -329,6 +436,13 @@ Uzliekam uz katra svaru kausa $8$ monētas. Iespējami divi gadījumi.
 Pierādīt, ka katram naturālam $n$ ir patiesa vienādība
 
 $$1^{2}+3^{2}+5^{2}+\cdots+(2 n-1)^{2}=\frac{n(2 n-1)(2 n+1)}{3}$$
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -362,6 +476,13 @@ Uz leṇḳa $MON$ malām $OM$ un $ON$ atlikti attiecīgi nogriežṇi
 $OA=AB=BC$ un $OD=DE=EF$. Pierādīt, ka trijstūru $AEC$ un $DBF$ 
 laukumi ir vienādi!
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Ievērojam, ka $S(AEC)=S(COE)-S(AOE)$ un $S(DBF)=S(BOF)-S(BOD)$ 
@@ -383,6 +504,13 @@ Uz šaha galdina novietotas dažas figūras, katrā lauciṇā ne vairāk kā vi
 Gan katrā rindā, gan katrā kolonnā atrodas nepāra skaits figūru. 
 Pierādīt, ka uz melnajiem lauciṇiem kopā ir pāra skaits figūru!
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Apzīmējam pāra un nepāra kolonnās kopējo figūru skaitu attiecīgi ar 
@@ -396,6 +524,13 @@ un rindās ar pāra numuru.
 # <lo-sample/> LV.SOL.2020.11.1
 
 Pierādīt, ka $10^{n}-9n-1$ dalās ar $81$ visām naturālām $n$ vērtībām!
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -430,6 +565,13 @@ $A$ un $C$. Trijstūri $AMB$ un $BNC$ ir vienādmalu, pie tam
 $M$ un $N$ atrodas vienā pusē no taisnes $AC$. Pierādīt, ka leņķis 
 starp taisnēm $AN$ un $CM$ ir $60^{\circ}$.
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Ievērojam, ka $\triangle MBC=\triangle ABN$ pēc pazīmes 
@@ -455,6 +597,13 @@ $60^{\circ}$, tas ir, leṇkis starp taisnēm $AN$ un $CM$ ir $60^{\circ}$.
 Dots, ka $a$ un $b$ ir naturāli skaitli, $a>b$. Zināms, ka $a$ dalās 
 ar $b$ un $a+1$ dalās ar $b+1$. Pierādīt, ka $a>b^{2}$.
 
+<small>
+
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Apzīmējam $a=nb$, kur $n \in N$ un $n>1$. Tad 
@@ -467,6 +616,13 @@ Līdz ar to $a=nb \geq (b+2)b > b^{2}$.
 
 Virkne uzdota rekurenti ar formulu $x_{n+2}=3 x_{n+1}-2 x_{n}-1$, 
 kur $x_{1}=3$ un $x_{2}=6$. Pierādīt, ka virkni var definēt ar formulu $x_{n}=2^{n}+n$.
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
@@ -501,6 +657,13 @@ Uz riṇka līnijas diametra $A B$ atlikts punkts $C$, bet $X$ un $Y$
 ir punkti uz rinka līnijas, kas nesakrīt ne ar $A$, ne ar $B$. 
 Pierādīt, ka $\frac{\operatorname{tg} \sphericalangle AXC}{\operatorname{tg} \sphericalangle XAC}=\frac{\operatorname{tg} \sphericalangle AYC}{\operatorname{tg} \sphericalangle YAC}$.
 
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
+
 ## Atrisinājums
 
 Novelkam $CZ \perp AX$ (skat. 18.att.). Tā kā $AB$ ir diametrs, 
@@ -521,12 +684,19 @@ $\frac{\operatorname{tg} \sphericalangle AXC}{\operatorname{tg} \sphericalangle 
 # <lo-sample/> LV.SOL.2020.12.3
 
 Turnīrā piedalās $n$ šahisti $(n \geq 2)$, katrs ar katru citu spēlē 
-vienu reizi. Par uzvaru spēēētājs iegūst 1 punktu, par neizškirtu 
+vienu reizi. Par uzvaru spēlētājs iegūst 1 punktu, par neizšķirtu 
 $\frac{1}{2}$ punkta, par zaudējumu 0 punktus. Pēc turnīra beigām 
-katrs spēlētājs aprēkināja divus skait|lus: $Z$ - visu to spēlētāju 
-punktu summu, kam viṇš zaudējis, un $U-$ visu to spēlētāju punktu summu, 
+katrs spēlētājs aprēkināja divus skaitļus: $Z$ - visu to spēlētāju 
+punktu summu, kam viṇš zaudējis, un $U$ - visu to spēlētāju punktu summu, 
 kurus viṇš uzvarējis. Vai var gadīties, ka katram spēlētājam pastāv 
 nevienādība $Z>U$ ?
+
+<small>
+   
+* questionType:
+* domain:
+   
+</small>
 
 ## Atrisinājums
 
