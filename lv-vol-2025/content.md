@@ -14,7 +14,7 @@ kopā ir nepāra skaits konfekšu. Pierādīt, ka katram bērnam ir vismaz viena
 
 Prasītais būs pierādīts, ja pamatosim, katram bērnam ir nepāra skaits konfekšu.
 Apzīmējam katram bērniem esošo konfekšu skaitu, kā parādīts 1. att. 
-Pēc dotā $a+b+c, d+e+f, g+h+a$ ir nepāra skaitlli. Tad arī 
+Pēc dotā $a+b+c, d+e+f, g+h+a$ ir nepāra skaitļi. Tad arī 
 $(a+b+c)+(d+e+f)+(g+h+a)$ ir nepāra skaitlis; tas nozīmē, ka 
 $2 a+(b+c+$ $d+e+f+g+h)$ ir nepāra skaitlis. Tātad $(b+c+d)+(e+f+g)+h$ 
 ir nepāra; tātad $h$ ir nepāra. Līdzīgi pierāda, ka arī 
@@ -25,7 +25,7 @@ $a;b; \ldots;g$ ir nepāra skaitļi.
 
 # <lo-sample/> LV.VOL.2025.9.2
 
-Uz trijstūra $A B C$ malas $A B$ atlikts tāds punkts $D$, ka 
+Uz trijstūra $ABC$ malas $AB$ atlikts tāds punkts $D$, ka 
 $AD:DB = 2:1$. Trijstūra $ABC$ mediāna $BE$ krusto $CD$ 
 punktā $F$. Pierādīt, ka $BF=FE$.
 
@@ -44,9 +44,9 @@ Novilksim nogriezni $EG$ tā, lai $G$ ir $CD$ viduspunkts
 $ADC$ viduslīnija un $EG \| AD$.
 Iegūstam, ka $\triangle DBF=\triangle GEF$ pēc pazīmes $\operatorname{lml}$ :
 
-- $\Varangle F D B=\Varangle FGE$ (iekšējie šk̦ērsleņki pie $EG \| AD$);
+- $\sphericalangle F D B=\sphericalangle FGE$ (iekšējie šk̦ērsleņki pie $EG \| AD$);
 - $EG = \frac{1}{2}AD = DB$, jo $EG$ ir $\triangle ADC$ viduslīnija un $AD:DB = 2:1$;
-- $\Varangle DBF = \Varangle GEF$ (iekšējie šķērsleṇki pie $EG \| AD$).
+- $\sphericalangle DBF = \sphericalangle GEF$ (iekšējie šķērsleṇki pie $EG \| AD$).
 
 Tātad $BF = FE$ kā vienādo trijstūru atbilstošās malas.
 
@@ -223,10 +223,10 @@ $$\begin{aligned}
 # <lo-sample/> LV.VOL.2025.10.2
 
 Dots vienādsānu trijstūris $A B C$, kuram $A B=A C$ un 
-$\Varangle B A C=80^{\circ}$. Uz malas $A C$ atlikts punkts $E$ tā, 
-ka $\Varangle E B C=30^{\circ}$, bet uz nogriežṇa $BE$ 
-atlikts punkts $M$ tā, ka $\Varangle MCB=10^{\circ}$. 
-Aprēḳināt $\Varangle AMC$ lielumu!
+$\sphericalangle B A C=80^{\circ}$. Uz malas $A C$ atlikts punkts $E$ tā, 
+ka $\sphericalangle E B C=30^{\circ}$, bet uz nogriežṇa $BE$ 
+atlikts punkts $M$ tā, ka $\sphericalangle MCB=10^{\circ}$. 
+Aprēḳināt $\sphericalangle AMC$ lielumu!
 
 <small>
 
@@ -241,28 +241,28 @@ Novelkam virsotnes leṇka bisektrisi (kas ir arī mediānu
 un augstums) $A F$, tās krustpunktu ar $BE$ apzīmējam ar $D$ 
 (skat. 4.att.). Savienojot $C$ un $D$, iegūstam divus vienādus 
 trijstūrus $BAD$ un $DAC$ pēc pazīmes $m \ell m$ ($AB=AC$, $AD$ - kopīga, 
-$\Varangle BAD = \Varangle CAD)$. 
-Tātad $\Varangle ACD=\Varangle ABD=20^{\circ}$. 
+$\sphericalangle BAD = \sphericalangle CAD)$. 
+Tātad $\sphericalangle ACD=\sphericalangle ABD=20^{\circ}$. 
 Līdz ar to 
 
-$$\Varangle DCM = \Varangle ACB - \Varangle MCB- 
-\Varangle ACD=50^{\circ}-10^{\circ}-20^{\circ}=20^{\circ}.$$
+$$\sphericalangle DCM = \sphericalangle ACB - \sphericalangle MCB- 
+\sphericalangle ACD=50^{\circ}-10^{\circ}-20^{\circ}=20^{\circ}.$$
 
-Leņk̦is $\Varangle EMC = \Varangle MBC + \Varangle MCB = 
+Leņk̦is $\sphericalangle EMC = \sphericalangle MBC + \sphericalangle MCB = 
 30^{\circ}+10^{\circ}=40^{\circ}$ kā trijstūra $BMC$ ārējais leņk̦is. 
 Izmantojot iekšējo leṇḳu summu, iegūstam:
 
 * no $\triangle ADC$: 
-  $\Varangle ADC = 180^{\circ} - \Varangle DAC - \Varangle ACD=120^{\circ}$;
+  $\sphericalangle ADC = 180^{\circ} - \sphericalangle DAC - \sphericalangle ACD=120^{\circ}$;
 * no $\triangle CDM$: 
-  $\Varangle MDC = 180^{\circ} - \Varangle DMC - \Varangle DCM = 180^{\circ}-40^{\circ}-20^{\circ}=120^{\circ}$.
+  $\sphericalangle MDC = 180^{\circ} - \sphericalangle DMC - \sphericalangle DCM = 180^{\circ}-40^{\circ}-20^{\circ}=120^{\circ}$.
 
 Tātad $\triangle ADC = \triangle MDC$ pēc pazīmes 
-$\ell m \ell$ ($CD$ - kopīga, $\Varangle CDM = \Varangle ADC$, 
-$\Varangle ACD=\Varangle MCD$). Līdz ar to $AC=CM$ un 
+$\ell m \ell$ ($CD$ - kopīga, $\sphericalangle CDM = \sphericalangle ADC$, 
+$\sphericalangle ACD=\sphericalangle MCD$). Līdz ar to $AC=CM$ un 
 $\triangle ACM$ ir vienādsānu trijstūris ar virsotnes leņki 
-$\Varangle ACM=40^{\circ}$ un 
-$\Varangle CMA=\left(180^{\circ}-40^{\circ}\right): 2=70^{\circ}$.
+$\sphericalangle ACM=40^{\circ}$ un 
+$\sphericalangle CMA=\left(180^{\circ}-40^{\circ}\right): 2=70^{\circ}$.
 
 ![](LV.VOL.2025.10.2A.png)
 
@@ -684,23 +684,23 @@ uz četrstūra malas $AD$.
 
 ## Atrisinājums
 
-Apzīmējam $\Varangle B C D=2 \alpha$ un $\Varangle A B C=2 \beta$. No tā, ka četrstūrim $A B C D$ var apvilkt riṇḳa līniju, iegūstam, ka $\Varangle B A D=180^{\circ}-2 \alpha$ un $\Varangle A D C=180^{\circ}-2 \beta$. Uz malas $A D$ atliek punktu $E$ tā, ka $A B=A E=a$ un $D E=D C=b$. Tad $\triangle A B E$ un $\triangle C D E$ ir vienādsānu trijstūri, kuriem $\Varangle A E B=\Varangle A B E=\alpha$ un $\Varangle C E D=\Varangle E C D=\beta$. Ap trijstūri $B C E$ apvelkam riṇk̦a līniju. lespējami divi gadījumi.
-2. Četrstūra mala $A D$ ir šīs riṇka līnijas pieskare un punkts $E$ ir vienīgais punkts uz $A D$, kas kopīgs šim nogrieznim un riṇka līnijai (skat. 11. att.). Tad $\Varangle B C E=\Varangle A E B=\alpha$ kā ievilktais leṇkis un hordas-pieskares leṇkis, kas abi balstās uz vienu un to pašu loku $B E$. Līdz ar to $\Varangle E C D=\Varangle B C D-\Varangle B C E=2 \alpha-\alpha=\alpha$. Tātad $C E$ ir leṇka $B C D$ bisektrise. Līdzīgi pierāda, ka $B E$ ir leṇḳa $A B C$ bisektrise.
-3. Riṇḳa līnija krusto $A D$ gan punktā $E$, gan vēl otrā punktā $H$ (skat. 12. att.). Tad $\Varangle B E H=180^{\circ}-\alpha$. No tā, ka ap $B C H E$ var apvilkt riņķa līniju, izriet, ka $\Varangle B E H+\Varangle B C H=180^{\circ}$ jeb $\Varangle B C H=\alpha$. No tā seko, ka $C H$ ir leņḳa $B C D$ bisektrise. Līdzīgi pierāda, ka $B H$ ir leņka $A B C$ bisektrise. Tātad bisektrises krustojas punktā $H$, kas atrodas uz malas $A D$.
+Apzīmējam $\sphericalangle B C D=2 \alpha$ un $\sphericalangle A B C=2 \beta$. No tā, ka četrstūrim $A B C D$ var apvilkt riṇḳa līniju, iegūstam, ka $\sphericalangle B A D=180^{\circ}-2 \alpha$ un $\sphericalangle A D C=180^{\circ}-2 \beta$. Uz malas $A D$ atliek punktu $E$ tā, ka $A B=A E=a$ un $D E=D C=b$. Tad $\triangle A B E$ un $\triangle C D E$ ir vienādsānu trijstūri, kuriem $\sphericalangle A E B=\sphericalangle A B E=\alpha$ un $\sphericalangle C E D=\sphericalangle E C D=\beta$. Ap trijstūri $B C E$ apvelkam riṇk̦a līniju. lespējami divi gadījumi.
+2. Četrstūra mala $A D$ ir šīs riṇka līnijas pieskare un punkts $E$ ir vienīgais punkts uz $A D$, kas kopīgs šim nogrieznim un riṇka līnijai (skat. 11. att.). Tad $\sphericalangle B C E=\sphericalangle A E B=\alpha$ kā ievilktais leṇkis un hordas-pieskares leṇkis, kas abi balstās uz vienu un to pašu loku $B E$. Līdz ar to $\sphericalangle E C D=\sphericalangle B C D-\sphericalangle B C E=2 \alpha-\alpha=\alpha$. Tātad $C E$ ir leṇka $B C D$ bisektrise. Līdzīgi pierāda, ka $B E$ ir leṇḳa $A B C$ bisektrise.
+3. Riṇḳa līnija krusto $A D$ gan punktā $E$, gan vēl otrā punktā $H$ (skat. 12. att.). Tad $\sphericalangle B E H=180^{\circ}-\alpha$. No tā, ka ap $B C H E$ var apvilkt riņķa līniju, izriet, ka $\sphericalangle B E H+\sphericalangle B C H=180^{\circ}$ jeb $\sphericalangle B C H=\alpha$. No tā seko, ka $C H$ ir leņḳa $B C D$ bisektrise. Līdzīgi pierāda, ka $B H$ ir leņka $A B C$ bisektrise. Tātad bisektrises krustojas punktā $H$, kas atrodas uz malas $A D$.
 
 ![](LV.VOL.2025.12.2A.png)
 
 
 ## Atrisinājums
 
-Apzīmējam $\Varangle B C D=2 \alpha$ un $\Varangle A B C=2 \beta$. 
+Apzīmējam $\sphericalangle B C D=2 \alpha$ un $\sphericalangle A B C=2 \beta$. 
 No tā, ka četrstūrim $A B C D$ var apvilkt riṇḳa līniju, 
-iegūstam, ka $\Varangle BAD=180^{\circ}-2 \alpha$ un 
-$\Varangle ADC=180^{\circ}-2 \beta$. Uz malas $AD$ atliek 
+iegūstam, ka $\sphericalangle BAD=180^{\circ}-2 \alpha$ un 
+$\sphericalangle ADC=180^{\circ}-2 \beta$. Uz malas $AD$ atliek 
 punktu $E$ tā, ka $A B=A E=a$ un $D E=D C=b$ (skat. 13. att.). 
 Tad $\triangle ABE$ un $\triangle CDE$ ir vienādsānu trijstūri, 
-kuriem $\Varangle AEB=\Varangle ABE=\alpha$ un 
-$\Varangle CED = \Varangle ECD=\beta$.
+kuriem $\sphericalangle AEB=\sphericalangle ABE=\alpha$ un 
+$\sphericalangle CED = \sphericalangle ECD=\beta$.
 Izmantojot kosinusu teorēmu trijstūrī $ABE$, iegūstam, ka
 
 $$\begin{gathered}
@@ -722,7 +722,7 @@ $$
 Tagad novelkam leṇku $ABC$ un $BCD$ bisektrises, kas krustojas kādā 
 punktā $F$ (skat. 14. att.). Bisektrises $BF$ krustpunktu ar $AC$ 
 apzīmējam ar $G$.  Tad 
-$\Varangle AGB = 180^{\circ}-\Varangle BAG-\Varangle ABG = 
+$\sphericalangle AGB = 180^{\circ}-\sphericalangle BAG-\sphericalangle ABG = 
 180^{\circ}-\left(180^{\circ}-2 \alpha\right)-\beta=2 \alpha-\beta$.
 No sinusu teorēmas trijstūrī $ABG$ iegūstam, ka
 
@@ -732,7 +732,7 @@ $$\begin{equation*}
 \end{equation*}$$
 
 No leņḳu sakarībām trijstūrī $BCF$ leņḳu sakarībām izriet, ka 
-$\Varangle BFC = 180^{\circ} - \alpha - \beta = \Varangle BEC$ un
+$\sphericalangle BFC = 180^{\circ} - \alpha - \beta = \sphericalangle BEC$ un
 
 $$\frac{BC}{\sin \left(180^{\circ}-\alpha-\beta\right)} = 
 \frac{B F}{\sin \alpha} \quad \stackrel{(1)}{\Rightarrow} \quad 

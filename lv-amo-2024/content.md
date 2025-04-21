@@ -661,9 +661,9 @@ nevaram no 9 iegūt 2, lai rituālā sasniegtu prasīto skaitļu kombināciju.
 
 Uz riņk̦a līnijas ar centru $O$ ir atlikti punkti 
 $A, B$ un $C$ tā, lai punkts $O$ atrastos trijstūrī $ABC$. 
-Pie tam zināms, ka $\varangle AOC=\alpha$, bet 
-$\varangle OAB=\beta$. Izteikt leñki 
-$\varangle BCO$ ar $\alpha$ un $\beta$!
+Pie tam zināms, ka $\sphericalangle AOC=\alpha$, bet 
+$\sphericalangle OAB=\beta$. Izteikt leñki 
+$\sphericalangle BCO$ ar $\alpha$ un $\beta$!
 
 <small>
 
@@ -679,14 +679,14 @@ kā riņka līnijas rādiusi. Ņemot vērā, ka vienādsānu trijstūrim
 pamata leņk̦i ir vienādi un ka trijstūrī leņk̦u summa 
 ir $180^{\circ}$, iegūstam, ka
 
-$$\varangle C A O=\varangle O C A=\frac{180^{\circ}-\alpha}{2} = 
+$$\sphericalangle C A O=\sphericalangle O C A=\frac{180^{\circ}-\alpha}{2} = 
 90^{\circ}-\frac{\alpha}{2}$$
 
 Līdzīgi varam spriest arı̄ par vienādsānu trijstūri $ABO$ ($AO=BO$ kā riņka 
-līnijas rādiusi) un iegūt, ka $\varangle ABO=\beta$. Apzīmēsim 
-$\varangle BCO$ ar $\gamma$. Tā kā trijstūris $BOC$ ir 
+līnijas rādiusi) un iegūt, ka $\sphericalangle ABO=\beta$. Apzīmēsim 
+$\sphericalangle BCO$ ar $\gamma$. Tā kā trijstūris $BOC$ ir 
 vienādsānu ($BO$ un $CO$ ir vienādi kā riņk̦a līnijas rādiusi), 
-tad $\varangle BCO=\varangle OBC=\gamma$. Ņemot vērā, ka 
+tad $\sphericalangle BCO=\sphericalangle OBC=\gamma$. Ņemot vērā, ka 
 trijstūra $ABC$ iekšējā leņķu summa ir $180^{\circ}$, 
 iegūstam (skatīt 11. att.), ka
 
@@ -696,7 +696,7 @@ jeb
 
 $$2 \gamma=180^{\circ}-180^{\circ}+\alpha-2 \beta \Longrightarrow \gamma=\frac{a}{2}-\beta$$
 
-Secinām, ka $\varangle O B C=\frac{\alpha}{2}-\beta$.
+Secinām, ka $\sphericalangle O B C=\frac{\alpha}{2}-\beta$.
 
 ![](LV.AMO.2024.8.4A.png)
 
@@ -1060,7 +1060,7 @@ $9$ parādās kādā no pāru summām kā pēdējais cipars.
 # <lo-sample/> LV.AMO.2024.10.4
 
 Kvadrāta $ABCD$ iekšienē atlikts punkts $E$ tā, ka 
-$\varangle C B E=15^{\circ}$ un $AE=ED$. 
+$\sphericalangle C B E=15^{\circ}$ un $AE=ED$. 
 Pamatot, ka trijstūris $A E D$ ir vienādmalu.
 
 <small>
@@ -1074,15 +1074,15 @@ Pamatot, ka trijstūris $A E D$ ir vienādmalu.
 
 Atzı̄mēsim punktu $E^{\prime}$ kvadrāta $ABCD$ iekšienē, 
 lai $\triangle B E C=\triangle A E^{\prime} B$ 
-(skatīt 16. att.). Tādā gadījumā $\varangle E^{\prime} BE=60^{\circ}$, 
-jo $\varangle C B E=\varangle A B E^{\prime}=15^{\circ}$ un 
-$\varangle B=90^{\circ}$. Bet tā kā 
+(skatīt 16. att.). Tādā gadījumā $\sphericalangle E^{\prime} BE=60^{\circ}$, 
+jo $\sphericalangle C B E=\sphericalangle A B E^{\prime}=15^{\circ}$ un 
+$\sphericalangle B=90^{\circ}$. Bet tā kā 
 $\triangle B E C=\triangle A E^{\prime} B$, tad trijstūris 
 $E^{\prime} B E$ ir regulārs, jo $B E^{\prime}=B E$. 
 Tātad iegūstam, ka $E^{\prime} E=A E$ jeb $\triangle A E^{\prime} E$ 
 ir vienādsānu. Pie tam
 
-$$\varangle A E^{\prime} E=360^{\circ}-\varangle B E^{\prime} E-\varangle B E^{\prime} A=360^{\circ}-60^{\circ}-150^{\circ}=150^{\circ}=\varangle B E^{\prime} A.$$
+$$\sphericalangle A E^{\prime} E=360^{\circ}-\sphericalangle B E^{\prime} E-\sphericalangle B E^{\prime} A=360^{\circ}-60^{\circ}-150^{\circ}=150^{\circ}=\sphericalangle B E^{\prime} A.$$
 
 Tātad $\triangle B E^{\prime} A=\triangle E E^{\prime} A$ pēc pazīmes mlm. Iegūstam, ka $A E=B A=A D$ jeb to, ka trijstūris $A E D$ ir regulārs.
 
@@ -1470,7 +1470,7 @@ Tā kā 24 dalās ar 6 , tad secinām, ka prasītais nav iespējams.
 
 # <lo-sample/> LV.AMO.2024.12.4
 
-Riņķa līnijā ievilkts četrstūris $A B C D$, kuram $\varangle B A D=2 \varangle A D C$ un $C D=2 B C$. Uz malas $A D$ atlikts punkts $H$ tā, lai $\varangle D H C=90^{\circ}$. Pamatot, ka $B H \| C D$.
+Riņķa līnijā ievilkts četrstūris $A B C D$, kuram $\sphericalangle B A D=2 \sphericalangle A D C$ un $C D=2 B C$. Uz malas $A D$ atlikts punkts $H$ tā, lai $\sphericalangle D H C=90^{\circ}$. Pamatot, ka $B H \| C D$.
 
 <small>
 
@@ -1484,10 +1484,10 @@ Riņķa līnijā ievilkts četrstūris $A B C D$, kuram $\varangle B A D=2 \vara
 Uz malas $C D$ atliksim viduspunktu $M$. Tādā gadījumā $H M$ ir taisnleñka trijstūra mediāna, kas novilkta pret hipotenūzu $C D$, tāpēc $H M=D M=C M=B C$. Pie tam, tā kā $\triangle H M D$ ir vienādsānu (skatīt 18. att.) un $A B C D$ ir ievilkts četrstūris, iegūstam
 
 $$
-\varangle H M D=180^{\circ}-2 \varangle A D C=180^{\circ}-\varangle B A D=\varangle B C D
+\sphericalangle H M D=180^{\circ}-2 \sphericalangle A D C=180^{\circ}-\sphericalangle B A D=\sphericalangle B C D
 $$
 
-Tātad varam secināt, ka $B C \| M H$, jo $\varangle B C D=\varangle H M D$ kā kāpšl̦u leñk̦i. Secinām, ka četrstūris $B C M H$ ir paralelograms, jo divas tā pretējās malas $(B C$ un $B H)$ ir paralēlas un vienāda garuma. Tas nozīmē, ka $B H \| C D$, kas arī bija jāpierāda.
+Tātad varam secināt, ka $B C \| M H$, jo $\sphericalangle B C D=\sphericalangle H M D$ kā kāpšl̦u leñk̦i. Secinām, ka četrstūris $B C M H$ ir paralelograms, jo divas tā pretējās malas $(B C$ un $B H)$ ir paralēlas un vienāda garuma. Tas nozīmē, ka $B H \| C D$, kas arī bija jāpierāda.
 ![](LV.AMO.2024.12.4A.png)
 
 
