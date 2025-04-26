@@ -866,7 +866,7 @@ skaitli 20, 24, 25??
 ## Atrisinājums
 
 Pamatosim, ka Agnese nevar panākt to, ka uz tāfeles 
-ir uzrakstīti skaitḷi 20, 24, 25. Katrā gājienā 
+ir uzrakstīti skaitḷi $20$, $24$, $25$. Katrā gājienā 
 izvēlēto skaitli apzīmēsim ar $c$, bet pārējos divus 
 ar $a$ un $b$. Izvēlētais skaitlis $c$ katrā gājienā 
 tiek aizstāts ar $2(a+b)-c$. Sākotnēji uz tāfeles ir 
@@ -883,15 +883,16 @@ skaitlis tiek aizvietots ar nepāra skaitli.
 
 Tātad vienmēr uz tāfeles skaitlu paritāte saglabāsies, 
 tas ir, uz tāfeles vienmēr būs uzrakstīts 1 pāra skaitlis 
-un 2 nepāra skaitlli. Bet prasīts iegūt 20,24 un 25 , kas ir 2 pāra 
-skaitli un 1 nepāra skaitlis. Iegūstam pretrunu, tāpēc prasītais nav iespējams.
+un 2 nepāra skaitlli. Bet prasīts iegūt $20$, $24$ un $25$, 
+kas ir $2$ pāra skaitļi un 1 nepāra skaitlis. 
+Iegūstam pretrunu, tāpēc prasītais nav iespējams.
 
 
 
 # <lo-sample/> LV.AMO.2024.9.4
 
-Uz paralelograma $A B C D$ malām $B C$ un $C D$ atzīmēti attiecīgi 
-punkti $E$ un $F$. Nogriežņu $A E$ un $B F$ krustpunkts ir $G$, 
+Uz paralelograma $ABCD$ malām $BC$ un $CD$ atzīmēti attiecīgi 
+punkti $E$ un $F$. Nogriežņu $AE$ un $BF$ krustpunkts ir $G$, 
 nogriežņu $AF$ un $ED$ krustpunkts ir $I$, bet $BF$ un $ED$ 
 krustpunkts ir $H$. Pamatot, ka $S_{AGHI} = S_{BEG}+S_{CEHF}+S_{DFI}$.
 
@@ -915,7 +916,7 @@ $S_{FBC}=S_{BEG}+S_{GEH}+S_{CEHF}$ un $S_{DAF}=S_{AID}+S_{DFI}$
 (skatīt 15. att.). Apvienojot šīs izteiksmes, iegūstam, ka
 
 $$\begin{gathered}
-S_{AGHI}+S_{GEH}+S_{AID} = S_{BEG}+S_{GEH}+S_{CEHF}+S_{AID}+S_{DFI}, \\
+S_{AGHI}+S_{GEH}+S_{AID} = S_{BEG}+S_{GEH}+S_{CEHF}+S_{AID}+S_{DFI},\\
 S_{AGHI} = S_{BEG}+S_{CEHF}+S_{DFI},
 \end{gathered}$$
 
@@ -977,10 +978,10 @@ ja $x=1$. Esam ieguvuši, ka Zanes numurs ir izskatā
 $$24681 \ast \ast \ast \ast,$$
 
 kur pēdējie 4 cipari ir kāds no skaitliem $0,5,7,9$. 
-Tā kā numuram ir jādalās ar 5 , tad pēdējais cipars var būt 
-0 vai 5 . Tātad pēdējam ciparam ir divas opcijas. 
+Tā kā numuram ir jādalās ar $5$, tad pēdējais cipars var būt 
+$0$ vai $5$. Tātad pēdējam ciparam ir divas opcijas. 
 Pirmspēdējam ciparam nav šādu ierobežojumu, tāpēc tas 
-var būt jebkurš no atlikušajiem 3 cipariem, tāpēc 
+var būt jebkurš no atlikušajiem $3$ cipariem, tāpēc 
 tam ir trīs opcijas. Simtu pozīcijā arı̄ varam ielikt 
 jebkuru no atlikušajiem cipariem, tāpēc iegūstam divas 
 opcijas. Atlikušo skaitli tad liekam tūkstošu pozīcijā. 
@@ -993,7 +994,7 @@ kas piemīt Zanes tālruṇa numuram.
 
 # <lo-sample/> LV.AMO.2024.10.1
 
-Atrast visus naturālos skaitlus $m$ un $n$, kuriem $m^{3} n+m+n=m n+2 m n^{2}$.
+Atrast visus naturālos skaitlus $m$ un $n$, kuriem $m^{3} n+m+n = mn+2mn^{2}$.
 
 <small>
 
@@ -1004,14 +1005,14 @@ Atrast visus naturālos skaitlus $m$ un $n$, kuriem $m^{3} n+m+n=m n+2 m n^{2}$.
 
 ## Atrisinājums 
 
-Pārrakstīsim izteiksmi kā $m=m n+2 m n^{2}-m^{3} n-n$. 
+Pārrakstīsim izteiksmi kā $m=mn+2mn^{2}-m^{3}n-n$. 
 Tā kā vienādojuma labā puse dalās ar $n$, tad arı̄ kreisā puse 
 dalās ar $n$, tātad $m$ dalās ar $n$. Analoǵiski, pārveidojot 
-vienādojumu par $m=m n+2 m n^{2}-m^{3} n-m$, iegūstam, 
+vienādojumu par $m=m n+2 m n^{2}-m^{3}n-m$, iegūstam, 
 ka $n$ dalās ar $m$. Tā kā abi šie skaitlii ir naturāli, 
 tad iegūstam, ka $n=m$. Vienkāršojot sākotnējo izteiksmi 
 attiecībā pret vienu mainīgo, iegūstam 
-$n^{4}+2 n=n^{2}+2 n^{3}$ jeb $n\left(n^{3}-2 n^{2}-n+2\right)=0$. 
+$n^{4}+2n=n^{2}+2 n^{3}$ jeb $n\left(n^{3}-2 n^{2}-n+2\right)=0$. 
 Tā kā $n$ ir naturāls, tad jābūt, ka $n^{3}-2 n^{2}-n+2=0$ 
 jeb $n\left(n^{2}-2 n-1\right)=-2$. Tas nozīmē, ka $-2$ 
 dalās ar $n$. Tātad $n$ var būt tikai $1$ vai $2$, 
@@ -1036,9 +1037,9 @@ vai arī divus tādus, kuru ciparu summu summa ir vienāda ar $28$.
 
 ## Atrisinājums
 
-Mazākā iespējamā trīsciparu skaitḷa ciparu summa ir 1, 
-kas atbilst skaitlim 100, bet lielākā ciparu summa ir 27, 
-kas atbilst 999 . Izveidosim 14 dažādas kopas: 
+Mazākā iespējamā trīsciparu skaitḷa ciparu summa ir $1$, 
+kas atbilst skaitlim $100$, bet lielākā ciparu summa ir $27$, 
+kas atbilst $999$. Izveidosim $14$ dažādas kopas: 
 $\{1 ; 27\},\{2 ; 26\}, \ldots,\{13 ; 15\},\{14\}$. 
 Trīsciparu skaitli piekārtosim kopai, ja šī kopa 
 satur skaitli, kas ir vienāds ar trīsciparu skaitļa 
@@ -1046,9 +1047,9 @@ ciparu summu. Ievērosim to, ka, ja divi trīsciparu
 skaitḷi ir piekārtoti vienai un tai pašai kopai, 
 tad vai nu šo abu skaitlu ciparu summa sakrīt, 
 vai arī to ciparu summu summa būs vienāda ar $28$. 
-Tā kā mums ir doti 15 trīsciparu skaitli, bet ir 
+Tā kā mums ir doti $15$ trīsciparu skaitli, bet ir 
 tikai $14$ dažādas kopas, tad pēc Dirihlē principa jābūt 
-vismaz vienai kopai, kurai būs piekārtoti vismaz 2 
+vismaz vienai kopai, kurai būs piekārtoti vismaz $2$ 
 trīsciparu skaitli. Šie skaitli būs tie, kas apmierina 
 uzdevumā prasīto.
 
@@ -1072,10 +1073,10 @@ Kāda ir mazākā iespējamā $n$ vērtība?
 
 Pamatosim, ka mazākais $n$ ir $6$. Tā kā visi cipari no 
 $0$ līdz $9$ parādās vismaz vienā no summām kā pēdējais 
-cipars, tad jābūt vismaz 10 pāriem. Ja uz tāfeles ir 
+cipars, tad jābūt vismaz $10$ pāriem. Ja uz tāfeles ir 
 uzrakstīti $n$ skaitli, tad pāru skaits būs $\frac{n(n-1)}{2}$. 
-Šis skaitlis būs vismaz 10, ja $n \geq 5$. Ja uz tāfeles 
-būtu uzrakstīti 5 skaitli, tad katrs skaitlis piedalītos 
+Šis skaitlis būs vismaz $10$, ja $n \geq 5$. Ja uz tāfeles 
+būtu uzrakstīti 5 skaitļi, tad katrs skaitlis piedalītos 
 $4$ pāru summās, tāpēc visu pāru summa būtu pāra skaitlis. 
 No otras puses tā kā ir tikai 10 pāri, un katrs cipars no 
 $0$ līdz $9$ parādās kādā summā kā pēdējais cipars, tad 
@@ -1090,8 +1091,8 @@ $9$ parādās kādā no pāru summām kā pēdējais cipars.
 # <lo-sample/> LV.AMO.2024.10.4
 
 Kvadrāta $ABCD$ iekšienē atlikts punkts $E$ tā, ka 
-$\sphericalangle C B E=15^{\circ}$ un $AE=ED$. 
-Pamatot, ka trijstūris $A E D$ ir vienādmalu.
+$\sphericalangle CBE=15^{\circ}$ un $AE=ED$. 
+Pamatot, ka trijstūris $AED$ ir vienādmalu.
 
 <small>
 
@@ -1102,19 +1103,20 @@ Pamatot, ka trijstūris $A E D$ ir vienādmalu.
 
 ## Atrisinājums
 
-Atzı̄mēsim punktu $E^{\prime}$ kvadrāta $ABCD$ iekšienē, 
-lai $\triangle B E C=\triangle A E^{\prime} B$ 
-(skatīt 16. att.). Tādā gadījumā $\sphericalangle E^{\prime} BE=60^{\circ}$, 
-jo $\sphericalangle C B E=\sphericalangle A B E^{\prime}=15^{\circ}$ un 
+Atzı̄mēsim punktu $E'$ kvadrāta $ABCD$ iekšienē, 
+lai $\triangle BEC=\triangle AE'B$ 
+(skatīt 16. att.). Tādā gadījumā $\sphericalangle E'BE=60^{\circ}$, 
+jo $\sphericalangle CBE = \sphericalangle ABE'=15^{\circ}$ un 
 $\sphericalangle B=90^{\circ}$. Bet tā kā 
-$\triangle B E C=\triangle A E^{\prime} B$, tad trijstūris 
-$E^{\prime} B E$ ir regulārs, jo $B E^{\prime}=B E$. 
-Tātad iegūstam, ka $E^{\prime} E=A E$ jeb $\triangle A E^{\prime} E$ 
+$\triangle BEC=\triangle AE'B$, tad trijstūris 
+$E'BE$ ir regulārs, jo $BE'=B E$. 
+Tātad iegūstam, ka $E'E=AE$ jeb $\triangle AE'E$ 
 ir vienādsānu. Pie tam
 
-$$\sphericalangle A E^{\prime} E=360^{\circ}-\sphericalangle B E^{\prime} E-\sphericalangle B E^{\prime} A=360^{\circ}-60^{\circ}-150^{\circ}=150^{\circ}=\sphericalangle B E^{\prime} A.$$
+$$\sphericalangle AE^{\prime}E = 360^{\circ}-\sphericalangle BE^{\prime}E-\sphericalangle BE^{\prime}A=360^{\circ}-60^{\circ}-150^{\circ}=150^{\circ}=\sphericalangle BE^{\prime}A.$$
 
-Tātad $\triangle B E^{\prime} A=\triangle E E^{\prime} A$ pēc pazīmes mlm. Iegūstam, ka $A E=B A=A D$ jeb to, ka trijstūris $A E D$ ir regulārs.
+Tātad $\triangle B E^{\prime} A=\triangle E E^{\prime} A$ pēc pazīmes $m\ell{}m$. 
+Iegūstam, ka $AE=BA=AD$ jeb to, ka trijstūris $AED$ ir regulārs.
 
 ![](LV.AMO.2024.10.4A.png)
 
@@ -1158,7 +1160,7 @@ pretrunu ar to, ka riņk̦a līnija nešk̦ērso meža robežu.
 Dots trijstūris, kura malu garumi ir $a, b$ un $c$. 
 Pierādīt, ka ir spēkā nevienādība
 
-$$\frac{a^{2}+2 b c}{b^{2}+c^{2}}+\frac{b^{2}+2 a c}{a^{2}+c^{2}}+\frac{c^{2}+2 a b}{a^{2}+b^{2}}>3.$$
+$$\frac{a^{2}+2bc}{b^{2}+c^{2}}+\frac{b^{2}+2ac}{a^{2}+c^{2}}+\frac{c^{2}+2ab}{a^{2}+b^{2}}>3.$$
 
 <small>
 
@@ -1272,7 +1274,9 @@ Vispirms pamatosim, ka šim četrstūrim diagonāles krustpunktā dalās uz pus�
 
 ![](LV.AMO.2024.11.4A.png)
 
-Pēc dotā mums zināms, ka $P_{B O C}=P_{A O D}$. Bet pēc konstrukcijas arı̄ $P_{B O C}=P_{B^{\prime} O C^{\prime}}$. Tātad iegūstam, ka $P_{B^{\prime} O C^{\prime}}=P_{A O D}$ jeb
+Pēc dotā mums zināms, ka $P_{B O C}=P_{A O D}$. Bet pēc 
+konstrukcijas arı̄ $P_{B O C}=P_{B^{\prime} O C^{\prime}}$. 
+Tātad iegūstam, ka $P_{B^{\prime} O C^{\prime}}=P_{A O D}$ jeb
 
 $$B^{\prime} C^{\prime}+O C^{\prime}+O B^{\prime}=A D+A O+D O=A D+O C^{\prime}+C^{\prime} A+O B^{\prime}+B^{\prime} D$$
 

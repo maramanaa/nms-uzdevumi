@@ -824,7 +824,7 @@ p^{2}+2pq+q^{2}-k^{2} = pq\\
 Tā kā $p$ un $q$ ir pirmskaitl̦i, tad iespējami divi gadījumi:
 
 1. Ja $p+q-k=1$ un $p+q+k=p q$, tad $k=p+q-1$ un, ievietojot 
-   otrajā vienādībā, iegūstam $p+q+$ $(p+q-1)=pq$. 
+   otrajā vienādībā, iegūstam $p+q+(p+q-1)=pq$. 
    Pārveidojam iegūto vienādību:
 
    $$\begin{gathered}

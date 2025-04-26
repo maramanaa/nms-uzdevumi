@@ -441,9 +441,9 @@ ka skaitlis $A$ ir **(A)** divciparu skaitlis; **(B)** viencipara skaitlis?
 
 ## Atrisinājums
 
-**(A)** Jā, ir iespējams, piemēram, $A=21, B=354, C=687$ (687-354 $C 333=354-21$).
+**(A)** Jā, ir iespējams, piemēram, $A=21$, $B=354$, $C=687$ ($687-354 = 333=354-21$).
 
-**(B)** Jā, ir iespējams, piemēram, $A=3, B=546, C=1089(1089-546=543=546-3)$.
+**(B)** Jā, ir iespējams, piemēram, $A=3$, $B=546$, $C=1089$ ($1089-546 = 543 = 546-3$).
 
 
 
@@ -473,7 +473,7 @@ Skat. 15. att.
 
 *Piezīme.* Apzīmējot taisnstūrī ierakstīto skaitli ar $x$ un izsakot 
 pārējos nezināmos skaitlus, iegūst 16. att. doto skaitlu izkārtojumu. 
-Iegūstam vienādojumu $11-x=3 x-20+7$, kura atrisinājums $x=6$.
+Iegūstam vienādojumu $11-x = 3x-20+7$, kura atrisinājums $x=6$.
 
 ![](LV.NOL.2025.8.1B.png)
 
@@ -482,7 +482,7 @@ Iegūstam vienādojumu $11-x=3 x-20+7$, kura atrisinājums $x=6$.
 
 # <lo-sample/> LV.NOL.2025.8.2
 
-Cik starp pirmajiem 2025 naturālajiem skaitlliem ir tādu skaitlu $x$, 
+Cik starp pirmajiem 2025 naturālajiem skaitlliem ir tādu skaitļu $x$, 
 ka skaitlis $x(x+1)$ dalās ar $74$?
 
 <small>
@@ -503,18 +503,18 @@ $54$ skaitļi, kas dalās ar 37 (lielākais no tiem ir
 $1998=54 \cdot 37$). Līdz ar to:
 
 - $54$ veidos var izvēlēties tādu $x$, kas dalās ar $37$ 
-  (tas ir, $1 \cdot 37 ; 2 \cdot 37 ; 3 \cdot 37 ; \ldots ; 54 \cdot 37$);
+  (tas ir, $1 \cdot 37$; $2 \cdot 37$; $3 \cdot 37$; $\ldots$; $54 \cdot 37$);
 - $54$ veidos var izvēlēties tādu $x$, ka $x+1$ dalās ar $37$ 
-  (tas ir, $1 \cdot 37-1 ; 2 \cdot 37-1$; $\ldots ; 54 \cdot 37-1$).
+  (tas ir, $1 \cdot 37-1$; $2 \cdot 37-1$; $\ldots$; $54 \cdot 37-1$).
 
 Tātad pavisam starp pirmajiem $2025$ naturālajiem skaitlliem ir 
-$54+54=108$ tādi skaitli $x$, ka $x(x+1)$ dalās ar $74$.
+$54+54=108$ tādi skaitļi $x$, ka $x(x+1)$ dalās ar $74$.
 
 
 
 # <lo-sample/> LV.NOL.2025.8.3
 
-Šaurleṇḳu trijstūrī $A B C$ visi augstumi krustojas punktā $M$. 
+Šaurleṇḳu trijstūrī $ABC$ visi augstumi krustojas punktā $M$. 
 Aprēḳināt $\sphericalangle ACB$, ja $AB=CM$!
 
 <small>
@@ -594,10 +594,10 @@ ka skaitlis $A$ ir **(A)** divciparu skaitlis; **(B)** viencipara skaitlis?
 
 ## Atrisinājums
 
-**(A)** Jā, ir iespējams, piemēram, $A=27, B=1548, C=3069$ 
+**(A)** Jā, ir iespējams, piemēram, $A=27$, $B=1548$, $C=3069$ 
 ($3069-1548 = 1521 = 1548-27$).
 
-**(B)** Jā, ir iespējams, piemēram, $A=3, B=8526, C=17049$ 
+**(B)** Jā, ir iespējams, piemēram, $A=3$, $B=8526$, $C=17049$ 
 ($17049-8526=8523=8526-3$).
 
 
@@ -622,8 +622,9 @@ Aprēḳināt izteiksmes $\frac{20252024^{2}}{20252023^{2}+20252025^{2}-2}$ vēr
 
 Apzīmējam $20252024=a$, tad iegūstam, ka
 
-$$\frac{20252024^{2}}{20252023^{2}+20252025^{2}-2} = 
-\frac{a^{2}}{(a-1)^{2}+(a+1)^{2}-2}=\frac{a^{2}}{a^{2}-2 a+1+a^{2}+2 a+1-2}=\frac{1}{2}$$
+$$\frac{20252024^{2}}{20252023^{2}+20252025^{2}-2} = \frac{a^{2}}{(a-1)^{2}+(a+1)^{2}-2},$$
+
+$$\frac{a^{2}}{(a-1)^{2}+(a+1)^{2}-2} = \frac{a^{2}}{a^{2}-2 a+1+a^{2}+2 a+1-2} = \frac{1}{2}.$$
 
 
 # <lo-sample/> LV.NOL.2025.9.2
@@ -677,12 +678,12 @@ Zināms, ka $BK=KL$. Pierādīt, ka trijstūris $ABC$ ir vienādsānu!
 
 ## Atrisinājums
 
-Tā kā $BK=KL$, tad $\sphericalangle B L K=\sphericalangle K B L=\alpha$ 
-(skat. 1. att.) kā leṇki pret vienādām malām trijstūrī $LKB$.
+Tā kā $BK=KL$, tad $\sphericalangle BLK = \sphericalangle KBL=\alpha$ 
+(skat. 1.att.) kā leṇki pret vienādām malām trijstūrī $LKB$.
 No $\triangle CLB$ iegūstam, ka 
 $\sphericalangle BCL=180^{\circ}-\sphericalangle CBL-\sphericalangle CLB = 
 180^{\circ}-\alpha-90^{\circ}=90^{\circ}-\alpha$.
-Tā kā $\sphericalangle KLC=90^{\circ}-\sphericalangle B L K=90^{\circ}-\alpha=\sphericalangle KCL$, 
+Tā kā $\sphericalangle KLC = 90^{\circ}-\sphericalangle BLK = 90^{\circ}-\alpha=\sphericalangle KCL$, 
 tad $\triangle CKL$ ir vienādsānu trijstūris un $KL=KC$. Līdz ar to 
 $KC=KB$ un esam ieguvuši, ka $AK$ ir arī trijstūra $ABC$ mediāna. 
 Tā kā $AK$ ir gan augstums, gan mediāna, tad trijstūris $ABC$ ir vienādsānu.
@@ -713,7 +714,7 @@ ierakstīto skaitlu summa ir viena un tā pati!
 
 ## Atrisinājums
 
-Piemēram, skat. 3. att., kur katrā trijstūrī ierakstīto skaitlu summa ir 22.
+Piemēram, skat. 3. att., kur katrā trijstūrī ierakstīto skaitlu summa ir $22$.
 *Piezīme.* Ir tikai viens derīgs skaitlu izkārtojums ar precizitāti 
 līdz pagriešanai un apmešanai otrādi.
 
@@ -737,7 +738,14 @@ bumbiṇa krāsā $A$, kas atrodas pa kreisi no kādas bumbiṇas krāsā $B$
 
 ## Atrisinājums
 
-Mazākais bumbiņu skaits ir 199. No dotā secinām, ka katrā krāsā ir vismaz viena bumbiṇa. Ja būtu divas krāsas $K_{1}$ un $K_{2}$, kurās katrā būtu nokrāsota tieši viena bumbina, tad, piemēram, būtu bumbiṇa krāsā $K_{1}$, kas atrodas pa kreisi no bumbiṇas krāsā $K_{2}$, bet tad nebūtu bumbiṇas krāsā $K_{2}$, kas atrodas pa kreisi no bumbiṇas krāsā $K_{1}$. Tātad maksimums vienā krāsā var būt tikai viena bumbiņa, bet pārējās 99 krāsās jābūt vismaz 2 bumbiņām. Tātad mazākais bumbiṇu skaits ir $1+2 \cdot 99=199$.
+Mazākais bumbiņu skaits ir 199. No dotā secinām, ka katrā krāsā ir 
+vismaz viena bumbiṇa. Ja būtu divas krāsas $K_{1}$ un $K_{2}$, 
+kurās katrā būtu nokrāsota tieši viena bumbina, tad, piemēram, 
+būtu bumbiṇa krāsā $K_{1}$, kas atrodas pa kreisi no bumbiṇas 
+krāsā $K_{2}$, bet tad nebūtu bumbiṇas krāsā $K_{2}$, kas atrodas 
+pa kreisi no bumbiṇas krāsā $K_{1}$. Tātad maksimums vienā krāsā 
+var būt tikai viena bumbiņa, bet pārējās $99$ krāsās jābūt vismaz 
+$2$ bumbiņām. Tātad mazākais bumbiṇu skaits ir $1+2 \cdot 99=199$.
 Atbilstošu bumbiṇu krāsojumu skat. 4. att.
 
 ![](LV.NOL.2025.9.5A.png)
@@ -840,11 +848,15 @@ $L$ tā, ka $2KE = EA$ un $2LF=FB$. Pierādīt, ka $ABKL$ ir paralelograms!
 Ievērojam divu trijstūru pāru līdzību pēc pazīmes $m \ell m$ (skat.
 5. att.).
 
-- $\triangle A E B \sim \triangle K E C$;  
-  ${\displaystyle \left(\frac{AE}{KE}=\frac{E B}{E C}=2, \sphericalangle A E B=\sphericalangle K E C\right)}$. Tātad $AB = 2KC$ un $\sphericalangle EAB = \sphericalangle EKC$. 
+- $\triangle AEB \sim \triangle KEC$, jo
+  ${\displaystyle \frac{AE}{KE}=\frac{EB}{EC}=2}$, 
+  $\sphericalangle AEB=\sphericalangle KEC$. 
+  Tātad $AB = 2KC$ un $\sphericalangle EAB = \sphericalangle EKC$. 
   Līdz ar to $AB \| KC$, jo iekšējie šķērsleṇki ir vienādi.
-- $\triangle B F A \sim \triangle L F C$; 
-  ${\displaystyle \left(\frac{B F}{L F}=\frac{F A}{F C}=2, \sphericalangle B F A=\sphericalangle L F C\right)}$. Tātad $AB = 2CL$ un $\sphericalangle FBA=\sphericalangle FLC$. 
+- $\triangle BFA \sim \triangle LFC$, jo  
+  ${\displaystyle \frac{BF}{LF}=\frac{FA}{FC}=2}$, 
+  $\sphericalangle BFA=\sphericalangle LFC$. 
+  Tātad $AB = 2CL$ un $\sphericalangle FBA=\sphericalangle FLC$. 
   Līdz ar to $AB \| CL$, jo iekšējie šķērsleṇķi ir vienādi.
 
 Tā kā $AB \| KC$ un $AB \| CL$, tad $C \in KL$ un $AB \| KL$, 
@@ -952,10 +964,10 @@ $$
 Iespējamais atrisinājums (ṇemot vērā, ka $b \leq c$ ) ir $b=2$ un $c=3$.
 Līdz ar to esam aplūkojuši visus iespējamos gadījumus un ieguvuši atrisinājumus $(1 ; 3 ; 8),(1 ; 4 ; 5)$ un $(2 ; 2 ; 3)$. Sākotnēji pieņēmām, ka $a \leq b \leq c$. Tātad der jebkura iepriekšminēto atrisinājumu skaitlu permutācija un pavisam ir 15 atrisinājumi:
 
-| $(1 ; 3 ; 8)$ | $(1 ; 8 ; 3)$ | $(3 ; 1 ; 8)$ | $(3 ; 8 ; 1)$ | $(8 ; 1 ; 3)$ | $(8 ; 3 ; 1)$ |
+| $(1;3;8)$ | $(1;8;3)$ | $(3;1;8)$ | $(3;8;1)$ | $(8;1;3)$ | $(8;3;1)$ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| $(1 ; 4 ; 5)$ | $(1 ; 5 ; 4)$ | $(4 ; 1 ; 5)$ | $(4 ; 5 ; 1)$ | $(5 ; 1 ; 4)$ | $(5 ; 4 ; 1)$ |
-| $(2 ; 2 ; 3)$ | $(2 ; 3 ; 2)$ | $(3 ; 2 ; 2)$ |  |  |  |
+| $(1;4;5)$ | $(1;5;4)$ | $(4;1;5)$ | $(4;5;1)$ | $(5;1;4)$ | $(5;4;1)$ |
+| $(2;2;3)$ | $(2;3;2)$ | $(3;2;2)$ |  |  |  |
 
 
 
@@ -995,13 +1007,24 @@ Zināms, ka naturālam skaitlim $A$ ir tieši 111 dažādi naturāli dalīt̄̄j
 
 ## Atrisinājums
 
-Pieņemsim pretējo, ka $A$ dalās ar 216. Tā kā $216=2^{3} \cdot 3^{3}$, tad skaitli $A$ var uzrakstīt formā $A=2^{k} \cdot 3^{m} \cdot p_{1}^{s_{1}} \ldots p_{r}^{s_{r}}$, kur $k \geq 3$ un $m \geq 3$. Skaitlim $A$ ir $(k+1)(m+1)\left(s_{1}+1\right)\left(s_{2}+1\right) \ldots\left(s_{r}+1\right)$ dažādi dalītāji; turklāt $k+1 \geq 4$ un $m+1 \geq 4$. Taču skaitli $111=37 \cdot 3$ nevar sadalīt reizinājumā, kurā divi reizinātāji ir lielāki vai vienādi ar 4. Tātad pien̦ēmums ir aplams. Līdz ar to esam pierādījuši, ka skaitlis $A$ nedalās ar 216.
+Pieņemsim pretējo, ka $A$ dalās ar 216. Tā kā $216=2^{3} \cdot 3^{3}$, 
+tad skaitli $A$ var uzrakstīt formā 
+$A=2^{k} \cdot 3^{m} \cdot p_{1}^{s_{1}} \ldots p_{r}^{s_{r}}$, 
+kur $k \geq 3$ un $m \geq 3$. Skaitlim $A$ ir 
+$(k+1)(m+1)\left(s_{1}+1\right)\left(s_{2}+1\right) \ldots\left(s_{r}+1\right)$ 
+dažādi dalītāji; turklāt $k+1 \geq 4$ un $m+1 \geq 4$. 
+Taču skaitli $111=37 \cdot 3$ nevar sadalīt reizinājumā, kurā divi 
+reizinātāji ir lielāki vai vienādi ar $4$. Tātad pien̦ēmums ir aplams. 
+Līdz ar to esam pierādījuši, ka skaitlis $A$ nedalās ar $216$.
 
 
 
 # <lo-sample/> LV.NOL.2025.11.3
 
-Dots taisnstūris $A B C D$, kuram $A B<B C$. Uz malas $B C$ ir izvēlēts tāds punkts $E$, ka $A E=A D$. Leņka $D A E$ bisektrise krusto malu $C D$ punktā $F$. Trijstūrī $A D E$ novilkts augstums $E H$. Pierādīt, ka punkti $A, H, F, C$ atrodas uz vienas riṇķa līnijas!
+Dots taisnstūris $ABCD$, kuram $AB<BC$. Uz malas $BC$ ir izvēlēts 
+tāds punkts $E$, ka $AE=AD$. Leņka $DAE$ bisektrise krusto malu 
+$CD$ punktā $F$. Trijstūrī $ADE$ novilkts augstums $EH$. 
+Pierādīt, ka punkti $A,H,F,C$ atrodas uz vienas riṇķa līnijas!
 
 <small>
 
@@ -1019,7 +1042,7 @@ Pamatosim, ka $\sphericalangle AHC = \sphericalangle AFC$, tad ap četrstūri
 $AHFC$ varēs apvilkt riṇḳa līniju, līdz ar to punkti $A,H,F,C$ 
 atradīsies uz vienas riṇḳa līnijas.
 
-Apzīmējam $\sphericalangle A D K=\alpha$. Tādā gadījumā 
+Apzīmējam $\sphericalangle ADK=\alpha$. Tādā gadījumā 
 $\sphericalangle KHD=\sphericalangle ADK=\alpha$ (jo $ECDH$ ir taisnstūris, 
 tā diagonāles krustpunktā dalās uz pusēm un $\triangle DKH$ 
 ir vienādsānu) un 
@@ -1035,12 +1058,12 @@ un esam ieguvuši, ka $\sphericalangle AHC=\sphericalangle AFC=180^{\circ}-\alph
 
 ## Atrisinājums
 
-Ar $K$ apzīmējam $A F$ un $D E$ krustpunktu. Trijstūris $DAE$ 
-ir vienādsānu trijstūris, tāpēc bisektrise $A K$ ir arī augstums 
+Ar $K$ apzīmējam $AF$ un $DE$ krustpunktu. Trijstūris $DAE$ 
+ir vienādsānu trijstūris, tāpēc bisektrise $AK$ ir arī augstums 
 jeb $AK \perp ED$. Tad ap četrstūri $ECFK$ var apvilkt riṇḳa līniju, 
 jo $\sphericalangle ECF + \sphericalangle EKF = 90^{\circ}+90^{\circ} = 180^{\circ}$, 
 un ap četrstūri $AEKH$ var apvilkt riṇka līniju, jo 
-$\sphericalangle A H E=\sphericalangle A K E=90^{\circ}$ (skat. 8. att.). 
+$\sphericalangle AHE=\sphericalangle AKE=90^{\circ}$ (skat. 8. att.). 
 Tādā gadījumā pēc sekanšu īpašības iegūstam, ka 
 $DH \cdot DA = DK \cdot DE$ (attiecībā pret riṇka līniju, kas apvilkta 
 ap $AEKH$) un $DK \cdot DE = DF \cdot DC$ (attiecībā pret riņḳa līniju, 
@@ -1055,8 +1078,10 @@ kas nozīmē, ka ap četrstūri $HACF$ var apvilkt riṇḳa līniju
 
 Dots regulārs piecstūris, kurā novilktas visas diagonāles, 
 kas to sadala $11$ daḷās (skat. 9. att.).  
-**(A)** Katrā daḷā ierakstīt vienu naturālu skaitli no 1 līdz 11 (katrā daḷā citu) tā, lai visos trijstūros, kam visas virsotnes ir arī dotā piecstūra virsotnes, ierakstīto skaitlu summa ir viena un tā pati!  
-**(B)** Kāds skaitlis var būt ierakstīts dalāa, kas apzīmēta ar X?
+**(A)** Katrā daḷā ierakstīt vienu naturālu skaitli no $1$ līdz $11$ 
+(katrā daḷā citu) tā, lai visos trijstūros, kam visas virsotnes ir 
+arī dotā piecstūra virsotnes, ierakstīto skaitlu summa ir viena un tā pati!  
+**(B)** Kāds skaitlis var būt ierakstīts daļā, kas apzīmēta ar $X$?
 
 ![](LV.NOL.2025.11.4.png)
 
@@ -1305,7 +1330,7 @@ ka pēc galīga šādu gājienu skaita visiem rūḳīšiem būs vienāds skaits
 
 Vispirms pamatosim, ka lielākais iespējamais skaits konfekšu, kas var būt 
 katram rūḳītim pēc gājiena, nepalielinās. Ievērosim, ka kādam rūḳītim 
-esošo konfekšu skaits var kḷūt lielāks tikai tad, ja viṇ̌̌ gājienā iegūst 
+esošo konfekšu skaits var kḷūt lielāks tikai tad, ja viņš gājienā iegūst 
 vairāk konfekšu nekā atdod, tas ir, pa kreisi sēdošajam rūḳītim ir 
 lielāks konfekšu skaits. Pieņemsim, ka mums ir kāds rūḳītis $M$ ar $m$ 
 konfektēm, un viṇam pa kreisi sēž rūḳītis ar $n$ konfektēm, turklāt $m<n$. 
@@ -1313,7 +1338,7 @@ Pēc gājiena rūḳītim $M$ būs ne vairāk kā
 $\frac{m}{2}+\frac{n}{2}+1=\frac{m+n}{2}+1$ konfekšu. Tā kā $m<n$, 
 tad $m<\frac{m+n}{2}<n$. Tā kā visi šie skaitḷi ir naturāli, tad, 
 pieskaitot $1$ pie šīs vidējās vērtības, iegūstam, ka 
-$\frac{m+n}{2}+1 \leq n$. Tātad rūkīša $M$ konfekšu skaits pēc katra 
+$\frac{m+n}{2}+1 \leq n$. Tātad rūķīša $M$ konfekšu skaits pēc katra 
 gājiena nepārsniedz tam kreisi sēdošā rūķǐša konfekšu skaitu $n$ 
 jeb tā lielākais iespējamais konfekšu skaits nepalielinās. Ja $n$ 
 ir lielākais iespējamais konfekšu skaits, tad pēc katra gājiena 
@@ -1325,16 +1350,16 @@ $M$ ir $m$ konfektes, un rūḳītim, kas sēž pa kreisi no viṇa,
 ir $n$ konfektes, turklāt $m>n$, tad pēc gājiena rūķītim $M$ būs 
 ne mazāk kā $\frac{m+n}{2}$ konfekšu $\left(\frac{m+n}{2}>n\right)$. 
 Tātad, ja $n$ ir mazākais iespējamais konfekšu skaits, tad pēc 
-katra gājiena rūḳī̌u skaits ar šādu konfekšu skaitu, nepalielinās. 
-Turklāt šādu rūḳišu skaits samazinās vai arī mazākais iespējamais 
+katra gājiena rūḳīšu skaits ar šādu konfekšu skaitu, nepalielinās. 
+Turklāt šādu rūḳīšu skaits samazinās vai arī mazākais iespējamais 
 konfekšu skaits palielinās.
 
-Apskatīsim rūkīti ar vismazāko konfekšu skaitu $x$ (vai vienu 
-no tādiem), kam pa kreisi sēž rūkītis ar vairāk konfektēm (ja 
-šādu rūkiišu nav, tad visiem ir vienāds konfekšu skaits). Pēc 
-gājiena šī rūk,ǐša konfekšu skaits pieaugs, tāpēc rūķǐsu skaits, 
+Apskatīsim rūķīti ar vismazāko konfekšu skaitu $x$ (vai vienu 
+no tādiem), kam pa kreisi sēž rūķītis ar vairāk konfektēm (ja 
+šādu rūķīšu nav, tad visiem ir vienāds konfekšu skaits). Pēc 
+gājiena šī rūķīša konfekšu skaits pieaugs, tāpēc rūķīsu skaits, 
 kam bija tieši $x$ konfektes, samazinās par 1. Ja šis bija 
-vienīgais rūk̄ītis ar $x$ konfektēm, tad mazākais konfekšu,
+vienīgais rūķītis ar $x$ konfektēm, tad mazākais konfekšu,
 kas var būt kādam rūḳītim, skaits ir pieaudzis.
 
 Tā kā lielākais konfekšu skaits nepalielinās, un katru gājienu 
@@ -1348,7 +1373,7 @@ skaitu, tas ir, visiem rūḳīšiem būs vienāds skaits konfekšu.
 # <lo-sample/> LV.NOL.2025.12.5
 
 Dota tabula ar izmēriem $n \times n$ rūtiṇas. Katrā tabulas 
-rūtiṇā ierakstīts kāds naturāls skaitlis no 1 līdz $n^{2}$, 
+rūtiṇā ierakstīts kāds naturāls skaitlis no $1$ līdz $n^{2}$, 
 katrā rūtiṇā atškirīgs skaitlis. Tabulu sauksim par sakarīgu, 
 ja katrā kvadrātā ar izmēriem $2 \times 2$ rūtiṇas ierakstīto 
 skaitlu reizinājums dalās ar $5$.  
@@ -1386,7 +1411,7 @@ daudzkārtṇu). Līdz ar to iegūstam nevienādību $k^{2} \leq 4 k+1$,
 kas ir patiesa naturāliem skaitlliem $k \leq 4$, tāpēc lielākā 
 $k$ vērtība ir $4$ un attiecīgi lielākā $n$ vērtība ir $9$. 
 Skaitļus kvadrātā ar izmēriem $9 \times 9$ rūtinas var sarakstīt, 
-piemēram, kā redzams 15. att., kurā atlikušos skaitlus var ierakstīt 
+piemēram, kā redzams 15. att., kurā atlikušos skaitļus var ierakstīt 
 patvaļīgi.
 
 ![](LV.NOL.2025.12.5A.png)
