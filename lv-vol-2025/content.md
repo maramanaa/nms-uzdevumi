@@ -14,9 +14,9 @@ kopā ir nepāra skaits konfekšu. Pierādīt, ka katram bērnam ir vismaz viena
 
 Prasītais būs pierādīts, ja pamatosim, katram bērnam ir nepāra skaits konfekšu.
 Apzīmējam katram bērniem esošo konfekšu skaitu, kā parādīts 1. att. 
-Pēc dotā $a+b+c, d+e+f, g+h+a$ ir nepāra skaitļi. Tad arī 
+Pēc dotā $a+b+c$, $d+e+f$, $g+h+a$ ir nepāra skaitļi. Tad arī 
 $(a+b+c)+(d+e+f)+(g+h+a)$ ir nepāra skaitlis; tas nozīmē, ka 
-$2 a+(b+c+$ $d+e+f+g+h)$ ir nepāra skaitlis. Tātad $(b+c+d)+(e+f+g)+h$ 
+$2a+(b+c+d+e+f+g+h)$ ir nepāra skaitlis. Tātad $(b+c+d)+(e+f+g)+h$ 
 ir nepāra; tātad $h$ ir nepāra. Līdzīgi pierāda, ka arī 
 $a;b; \ldots;g$ ir nepāra skaitļi.
 
@@ -145,7 +145,7 @@ Tad ir iespējami divi gadījumi.
 
 1. Svaru kausi ir līdzsvarā. Tas nozīmē, ka uz katra svaru kausa 
    ir tieši divas īstās un viena viltotā monēta.
-   Apzīmēsim monētas, kas atradās uz kreisā svaru kausa, ar $a, b$ un $c$. 
+   Apzīmēsim monētas, kas atradās uz kreisā svaru kausa, ar $a$, $b$ un $c$. 
    Otrajā svēršanā uzliksim uz viena svaru kausa $a$, bet uz otra - $b$. 
    Ja tagad viens no svaru kausiem ir vieglāks, tad attiecīgā monēta 
    ($a$ vai $b$) ir viltota. Ja svaru kausi ir līdzsvarā, tad monēta 
@@ -154,11 +154,11 @@ Tad ir iespējami divi gadījumi.
 2. Svaru kausi nav līdzsvarā. Tas nozīmē, ka uz smagākā svaru kausa 
    visas monētas ir īstas, bet uz vieglākā ir viena vai divas viltotas.
    Apzīmēsim monētas, kas atradās uz vieglākā svaru kausa, ar 
-   $a, b$ un $c$, bet to monētu, kas pirmajā svēršanā nepiedalījās, 
+   $a$, $b$ un $c$, bet to monētu, kas pirmajā svēršanā nepiedalījās, 
    ar $d$. Otrajā svēršanā uzliksim monētas $a$ un $b$ katru uz sava svaru kausa.
 
    - Ja svaru kausi ir līdzsvarā, tad vai nu tās abas ir viltotas, 
-     vai arī tās abas ir īstas, un tādā gadījumā viltotās ir c un d. 
+     vai arī tās abas ir īstas, un tādā gadījumā viltotās ir $c$ un $d$.
      Kurš no šiem gadījumiem ir īstais, var noskaidrot trešajā svēršanā, 
      salīdzinot, piemēram, monētas $a$ un $c$.
    - Ja viena no tām ir vieglāka (simetrijas pēc pieṇemsim, ka tā ir 
@@ -187,9 +187,9 @@ pretējā gadījumā uzvar Kate. Kura meitene, pareizi spēlējot, noteikti var 
 
 Vienmēr var uzvarēt Alise. Savā pirmajā gājienā viṇai jānodzēš 
 skaitli 2025. Tālāk visus skaitlus Alisei jāsadala pāros tā, 
-lai katrā pārī esošo skaitḷi summa ir 2025:
+lai katrā pārī esošo skaitḷi summa ir $2025$:
 
-$$(1 ; 2024); (2 ; 2023); \ldots ;(2022 ; 2023).$$
+$$(1 ; 2024); (2 ; 2023); \ldots ;(1012 ; 1013).$$
 
 Kad Kate nodzēš kādu skaitli, tad Alisei pēc tam jānodzēš atbilstošā pāra 
 otrais skaitlis. Beigās uz tāfeles paliks divi skaitli, kuru summa ir 
@@ -211,20 +211,25 @@ Vai eksistē tādi veseli skaitli $a, b, c, d$, ka $|a-b|+|b-c|+|c-d|+|d-a|=2025
 
 ## Atrisinājums
 
-Ievērojam, ka $|x-y| \equiv x+y(\bmod 2)$. No šejienes iegūstam, ka
+Ievērojam, ka $|x-y| \equiv x+y \pmod 2$. (Citiem vārdiem, 
+$|x-y|$ un $x+y$ dod vienādus atlikumus, dalot ar $2$ -- vai nu 
+abas izteiksmes ir pāra skaitļi vai abas ir nepāra skaitļi.)
 
-$$\begin{aligned}
-& |a-b|+|b-c|+|c-d|+|d-a| \equiv(a+b)+(b+c)+(c+d)+(d+a)=2(a+b+c+d) \\
-& \equiv 0(\bmod 2)
-\end{aligned}$$
+No šejienes iegūstam, ka
+
+$$|a-b|+|b-c|+|c-d|+|d-a| \equiv (a+b)+(b+c)+(c+d)+(d+a)$$
+
+$$(a+b)+(b+c)+(c+d)+(d+a) = 2(a+b+c+d) \equiv 0 \pmod 2.$$
+
+Tāpēc izteiksme vienmēr būs pāra skaitlis un tā nevar būt $2025$.
 
 
 
 # <lo-sample/> LV.VOL.2025.10.2
 
-Dots vienādsānu trijstūris $A B C$, kuram $A B=A C$ un 
-$\sphericalangle B A C=80^{\circ}$. Uz malas $A C$ atlikts punkts $E$ tā, 
-ka $\sphericalangle E B C=30^{\circ}$, bet uz nogriežṇa $BE$ 
+Dots vienādsānu trijstūris $ABC$, kuram $AB=AC$ un 
+$\sphericalangle BAC=80^{\circ}$. Uz malas $AC$ atlikts punkts $E$ tā, 
+ka $\sphericalangle EBC=30^{\circ}$, bet uz nogriežṇa $BE$ 
 atlikts punkts $M$ tā, ka $\sphericalangle MCB=10^{\circ}$. 
 Aprēḳināt $\sphericalangle AMC$ lielumu!
 
@@ -241,7 +246,7 @@ Novelkam virsotnes leṇka bisektrisi (kas ir arī mediānu
 un augstums) $A F$, tās krustpunktu ar $BE$ apzīmējam ar $D$ 
 (skat. 4.att.). Savienojot $C$ un $D$, iegūstam divus vienādus 
 trijstūrus $BAD$ un $DAC$ pēc pazīmes $m \ell m$ ($AB=AC$, $AD$ - kopīga, 
-$\sphericalangle BAD = \sphericalangle CAD)$. 
+$\sphericalangle BAD = \sphericalangle CAD$). 
 Tātad $\sphericalangle ACD=\sphericalangle ABD=20^{\circ}$. 
 Līdz ar to 
 
@@ -304,8 +309,8 @@ Dots $5 \times 5$ rūtiṇu kvadrāts, kurā katrā rūtiṇā ierakstīts
 skaitlis no $1$ līdz $25$ (skat. 5.att.). No šī kvadrāta 
 izgrieza $6$ figūras, kas katra bija vai nu $1 \times 4$ 
 rūtiņu taisnstūris (vertikāls vai horizontāls), vai arī 
-$2 \times 2$ rūtiṇu kvadrāts, pāri palika viena rūtina. 
-Kāds skaitlis var būt rakstīts uz šīs rūtinas?
+$2 \times 2$ rūtiṇu kvadrāts, pāri palika viena rūtiņa. 
+Kāds skaitlis var būt rakstīts uz šīs rūtiņas?
 
 ![](LV.VOL.2025.10.4.png)
 
@@ -318,12 +323,19 @@ Kāds skaitlis var būt rakstīts uz šīs rūtinas?
 
 ## Atrisinājums
 
-Parādīsim, ka pāri palikusī rūtiṇa ir stūra rūtiṇa, t.i., uz tās ir rakstīts 1, 5,21 vai 25. Tas, ka tā var būt stūra rūtiṇa, redzams šajā piemērā (skat. 6. att.), lai iegūtu pārējās stūra rūtiṇas, attēls jāpagriež. Atliek pamatot, ka citu iespēju nav.
+Parādīsim, ka pāri palikusī rūtiṇa ir stūra rūtiṇa, t.i., uz tās 
+ir rakstīts $1$, $5$, $21$ vai $25$. Tas, ka tā var būt stūra rūtiṇa, 
+redzams šajā piemērā (skat. 6. att.), lai iegūtu pārējās stūra 
+rūtiṇas, attēls jāpagriež. Atliek pamatot, ka citu iespēju nav.
 
 
 ![](LV.VOL.2025.10.4A.png)
 
-Vispirms ievērosim, ka katrā izgrieztajā figūrā ir divi pāra un nepāra skaitlli. Tātad atlikusī viena rūtiṇa noteikti satur nepāra skaitli (jo to mums ir vairāk). Aplūkosim rūtiṇas, uz kurām rakstīts $8,12,14$ un 18 (kas visi ir pāra skaitli, tātad šīs rūtiṇas noteikti tika izgrieztas) levērosim, ka
+Vispirms ievērosim, ka katrā izgrieztajā figūrā ir divi pāra un 
+nepāra skaitļi. Tātad atlikusī viena rūtiṇa noteikti satur nepāra 
+skaitli (jo to mums ir vairāk). Aplūkosim rūtiṇas, uz kurām rakstīts 
+$8$, $12$, $14$ un 18 (kas visi ir pāra skaitļi, tātad šīs rūtiṇas 
+noteikti tika izgrieztas). Ievērosim, ka
 
 - šīs rūtiṇas pieder vismaz trim dažādām figūrām, kas izriet no tā, 
   ka jebkura figūra, kas satur divas no šīm rūtiṇām, satur arī centrālo rūtiņu $13$,
@@ -336,14 +348,14 @@ atrasties vienā figūrā, tad viena no tām paliks neizgriezta.
 
 ## Atrisinājums
 
-Parādīsim, ka pāri palikusī rūtina ir stūra rūtiṇa, t.i., uz tās 
+Parādīsim, ka pāri palikusī rūtiņa ir stūra rūtiņa, t.i., uz tās 
 ir rakstīts $1,5,21$ vai 25. Tas, ka tā var būt stūra rūtiņa, 
 redzams šajā piemērā (skat. 6. att.), lai iegūtu pārējās 
 stūra rūtiṇas, attēls jāpagriež. Atliek pamatot, ka citu iespēju nav.
 Lai pamatotu atrisinājuma otro daḷu, (ka nevar būt izgriezta 
 neviena cita rūtiṇa, izṇemot stūra rūtiṇu) var izmantot arī 
 šādu alternatīvu spriedumu:
-lerakstīsim skaitḷus rūtināā tā, kā parādīts 7. att.
+Ierakstīsim skaitḷus rūtinās tā, kā parādīts 7. att.
 
 
 ![](LV.VOL.2025.10.4B.png)
@@ -353,10 +365,10 @@ Ievērosim, ka jebkura pieḷaujamā $1 \times 4$ vai $2 \times 2$
 figūra satur skaitļus, kuru summa ir $10$. Tā kā visu skaitļu 
 summa ir $61$, tad skaidrs, ka vienīgā pāri palikusī rūtiṇa 
 satur skaitli $1$. Ja tā būtu kāda cita rūtiṇa, kas satur $1$, 
-izṇemot stūra rūtinu, tad pagriežot visu "griezumu" par $90$ 
+izṇemot stūra rūtiņu, tad pagriežot visu "griezumu" par $90$ 
 grādiem vienu vai atspogulojot pret vertikālo simetrijas asi, 
 mēs vienmēr varēsim panākt, ka pāri palikusī rūtiṇa satur 
-kādu citu skaitli, kas nav 1 (kas nav iespējams). 
+kādu citu skaitli, kas nav $1$ (kas nav iespējams). 
 Tātad vienīgā iespēja ir, ka neizgriezta ir palikusi stūra rūtiņa.
 
 
@@ -395,8 +407,8 @@ $\overline{a_{1} a_{2} a_{3} \ldots a_{n-1} 0}$,
 līdz ar to $a_{n}=0$, jo, reizinot aplūkoto dalītāju ar 
 naturālu skaitli, kas ir lielāks vai mazāks nekā 10, 
 iegūtais reizinājums būs lielāks vai mazāks nekā $A$ attiecīgi, 
-salīdzinot škiras sākot ar desmitiem 
-(jo $\overline{a_{1}} \bar{a}_{2} a_{3} \ldots \bar{a}_{n-1}$ 
+salīdzinot šķiras sākot ar desmitiem 
+(jo $\overline{a_{1} a_{2} a_{3} \ldots a_{n-1}}$ 
 ir vismaz divciparu skaitlis). Ja nodzēstu jebkuru skaitļa 
 $A$ ciparu, kas nav pēdējais, iegūtais skaitlis $D$ būs 
 skaitļa $10$ daudzkārtnis, jo pēdējais cipars būs $0$. Tā kā 
@@ -408,16 +420,17 @@ kādu brīvi izvēlētu ciparu, tad arī skaitlis
 $\overline{a_{1} a_{2} a_{3} \ldots a_{n-1}}$ ir īpašs.
 No tā izriet, ka deviņciparu īpašie skaitḷi ir uzrakstāmi 
 formā $\overline{a_{1} a_{2} 0000000}$, kur 
-$\overline{a_{1}} \overline{a_{2}}$ ir īpašs divciparu 
+$\overline{a_{1} a_{2}}$ ir īpašs divciparu 
 skaitlis (tātad $a_{2} \neq 0$ ). Tā kā $\overline{a_{1} a_{2}}$ 
 dalās ar $a_{1}$, tad arī 
 $\overline{a_{1} a_{2}}-\overline{a_{1} 0}=a_{2}$ dalās ar 
 $a_{1}$. Šāds nosacījums izpildās visiem divciparu
-skaitḷiem, kas mazāki nekā 20, un arī skaitḷiem 
-$22, 24, 26, 28, 33, 36, 39, 44, 48, 55, 66, 77, 88$ un $99$. 
+skaitḷiem, kas mazāki nekā $20$, un arī skaitḷiem 
+$22$, $24$, $26$, $28$, $33$, $36$, $39$, $44$, $48$, $55$, 
+$66$, $77$, $88$ un $99$. 
 Lai $\overline{a_{1} a_{2} 0000000}$ dalītos ar $9$, 
 skaitlim $\overline{a_{1} a_{2}}$ arī jādalās ar $9$. 
-Tātad derīgie skaitlii ir 18, 36 un 99.
+Tātad derīgie skaitļi ir $18$, $36$ un $99$.
 Nosacījums, ka $\overline{a_{1} a_{2}}$ dalās ar $a_{2}$ 
 neizpildās vienīgi skaitlim $18$. Tātad $360000000$ un $990000000$ 
 ir vienīgie deviṇciparu īpašie skaitḷi, kuri dalās ar $9$.
@@ -451,7 +464,7 @@ iespējami divi gadījumi.
    Apzīmēsim monētas, kas atradās uz kreisā svaru kausa, ar $a, b$ 
    un $c$. Otrajā svēršanā uzliksim uz viena svaru kausa $a$, 
    bet uz otra - $b$. Ja tagad viens no svaru kausiem ir vieglāks, 
-   tad attiecīgā monēta ( $a$ vai $b$ ) ir viltota. Ja svaru kausi 
+   tad attiecīgā monēta ($a$ vai $b$) ir viltota. Ja svaru kausi 
    ir līdzsvarā, tad monēta $c$ ir viltota.
    Trešajā svēršanā analoǵiski rīkojamies ar tām trim monētām, 
    kas pirmajā svēršanā atradās uz labā svaru kausa.
@@ -495,24 +508,24 @@ Izmantojot krustisku hordu īpašību, iegūstam, ka $BE \cdot ED = AE \cdot CE$
 
 Līdz ar to iegūstam:
 
-$$\begin{aligned}
-B E \cdot(E G+C E) & =(B E+F E) \cdot C E ; \\
-B E \cdot E G+B E \cdot C E & =B E \cdot C E+F E \cdot C E ; \\
-B E \cdot E G & =F E \cdot C E .
-\end{aligned}$$
+$$\begin{gathered}
+BE \cdot (EG+CE) = (BE + FE) \cdot CE; \\
+BE \cdot EG + BE \cdot CE = BE \cdot CE + FE \cdot CE; \\
+BE \cdot EG = FE \cdot CE.
+\end{gathered}$$
 
-Tātad punkti $B, F, G, C$ atrodas uz vienas riṇḳa līnijas, jo izpildās krustisku hordu īpašībai aprieztā īpašība.
+Tātad punkti $B,F,G,C$ atrodas uz vienas riṇḳa līnijas, jo izpildās krustisku hordu īpašībai aprieztā īpašība.
 
 ![](LV.VOL.2025.11.2A.png)
 
 
 # <lo-sample/> LV.VOL.2025.11.3
 
-Divas dažādas skaitḷu virknes $a_{1} ; a_{2} ; \ldots ; a_{2025}$ un $b_{1} ; b_{2} ; \ldots ; b_{2025}$ katra satur visus naturālos skaitlus no 1 līdz 2025 (katru tieši vienu reizi), bet skaitlu virkne $c_{1} ; c_{2} ; \ldots ; c_{2025}$ satur visus pāra skaitlus no 2 līdz 4050 katru tieši vienu reizi. Pierādīt, ka
+Divas dažādas skaitḷu virknes $a_{1} ; a_{2} ; \ldots ; a_{2025}$ un $b_{1} ; b_{2} ; \ldots ; b_{2025}$ katra satur visus naturālos skaitļus no $1$ līdz $2025$ 
+(katru tieši vienu reizi), bet skaitlu virkne $c_{1} ; c_{2} ; \ldots ; c_{2025}$ 
+satur visus pāra skaitlus no $2$ līdz $4050$ katru tieši vienu reizi. Pierādīt, ka
 
-$$
-\frac{c_{1}^{2}-4 a_{1} b_{1}}{a_{1}+b_{1}+c_{1}}+\frac{c_{2}^{2}-4 a_{2} b_{2}}{a_{2}+b_{2}+c_{2}}+\cdots+\frac{c_{2025}^{2}-4 a_{2025} b_{2025}}{a_{2025}+b_{2025}+c_{2025}}>0
-$$
+$$\frac{c_{1}^{2}-4 a_{1} b_{1}}{a_{1}+b_{1}+c_{1}}+\frac{c_{2}^{2}-4 a_{2} b_{2}}{a_{2}+b_{2}+c_{2}}+\cdots+\frac{c_{2025}^{2}-4 a_{2025} b_{2025}}{a_{2025}+b_{2025}+c_{2025}}>0$$
 
 <small>
 
@@ -527,18 +540,14 @@ Ievērosim, ka $(a+b)^{2} \geq 4 a b$ jebkuriem skaitļiem
 $a$ un $b$ (tas ir ekvivalents $(a-b)^{2} \geq 0$ ), 
 turklāt vienādība izpildās tad un tikai tad, ja $a=b$. Tas nozīmē, ka
 
-$$
-\frac{c^{2}-4 a b}{a+b+c} \geq \frac{c^{2}-(a+b)^{2}}{a+b+c}=\frac{(c-a-b)(c+a+b)}{a+b+c}=c-a-b
-$$
+$$\frac{c^{2}-4 a b}{a+b+c} \geq \frac{c^{2}-(a+b)^{2}}{a+b+c}=\frac{(c-a-b)(c+a+b)}{a+b+c}=c-a-b$$
 
 turklāt vienādība izpildās tad un tikai tad, ka $a=b$. Tad
 
-$$
-\begin{gathered}
+$$\begin{gathered}
 \frac{c_{1}^{2}-4 a_{1} b_{1}}{a_{1}+b_{1}+c_{1}}+\frac{c_{2}^{2}-4 a_{2} b_{2}}{a_{2}+b_{2}+c_{2}}+\cdots+\frac{c_{2025}^{2}-4 a_{2025} b_{2025}}{a_{2025}+b_{2025}+c_{2025}} \geq \\
 \geq\left(c_{1}-a_{1}-b_{1}\right)+\left(c_{2}-a_{2}-b_{2}\right)+\cdots+\left(c_{2025}-a_{2025}-b_{2025}\right)=0
-\end{gathered}
-$$
+\end{gathered}$$
 
 Turklāt tā kā virknes $a_{n}$ un $b_{n}$ ir dažādas, tad vismaz vienā 
 (patiesībā vismaz divās) izteiksmēs nevienādība ir stingrā, līdz ar to 
@@ -604,20 +613,23 @@ skaitļi **(A)** $20$ un $24$; **(A)** $20$ un $25$?
 
 **(A)** Var, piemēram, šādi:
 
-$$\left.\begin{array}{rl}
-(1 ; 1) \rightarrow(1 ; 2) \rightarrow(1 ; 4) \rightarrow(1 ; 3) \rightarrow(2 ; 3) & \rightarrow(4 ; 3) \\
-\rightarrow(8 ; 3) \rightarrow(5 ; 3) \rightarrow(10 ; 3) \rightarrow(20 ; 3) \rightarrow(20 ; 6) \rightarrow \\
-& \rightarrow(20 ; 12)
-\end{array}\right)(20 ; 24).$$
+$$\begin{gathered}
+(1 ; 1) \rightarrow (1 ; 2) \rightarrow (1 ; 4) \rightarrow (1 ; 3) \rightarrow (2 ; 3) \rightarrow\\
+\rightarrow (4 ; 3) \rightarrow (8 ; 3) \rightarrow (5 ; 3) \rightarrow (10 ; 3) \rightarrow\\
+\rightarrow(20 ; 3) \rightarrow(20 ; 6) \rightarrow (20 ; 12) \rightarrow (20 ; 24).
+\end{gathered}$$
 
-**(B)** Tas nav iespējams. levērosim, ka katrā solī uz tāfeles uzrakstīto skaitḷu lielākais kopīgais dalītājs vai nu nemainās, vai arī palielinās divas reizes. Tā kā sākumā skaitlu lielākais kopīgais dalītājs ir 1, tad beigās tas nevar pieṇemt vērtību $5=\operatorname{LKD}(20 ; 25)$.
+**(B)** Tas nav iespējams. levērosim, ka katrā solī uz tāfeles uzrakstīto skaitḷu 
+lielākais kopīgais dalītājs vai nu nemainās, vai arī palielinās divas reizes. 
+Tā kā sākumā skaitlu lielākais kopīgais dalītājs ir 1, tad beigās tas nevar pieṇemt 
+vērtību $5=\operatorname{LKD}(20;25)$.
 
 
 
 
 # <lo-sample/> LV.VOL.2025.12.1
 
-Pierādīt, ka visām naturālām $n$ vērtībām $2^{2 n-1} 3^{n-1}+5^{n}$ dalās ar $7$.
+Pierādīt, ka visām naturālām $n$ vērtībām $2^{2n-1} 3^{n-1}+5^{n}$ dalās ar $7$.
 
 <small>
 
@@ -630,41 +642,37 @@ Pierādīt, ka visām naturālām $n$ vērtībām $2^{2 n-1} 3^{n-1}+5^{n}$ dal�
 
 Veicam ekvivalentus pārveidojumus:
 
-$$
-2^{2 n-1} 3^{n-1}+5^{n}=2 \cdot 2^{2 n-2} \cdot 3^{n-1}+5^{n}=2 \cdot 12^{n-1}+5^{n}=\frac{12^{n}+6 \cdot 5^{n}}{6}=\frac{12^{n}-5^{n}+7 \cdot 5^{n}}{6}
-$$
+$$2^{2 n-1} 3^{n-1}+5^{n}=2 \cdot 2^{2 n-2} \cdot 3^{n-1}+5^{n}=2 \cdot 12^{n-1}+5^{n} = 
+\frac{12^{n}+6 \cdot 5^{n}}{6}=\frac{12^{n}-5^{n}+7 \cdot 5^{n}}{6}$$
 
-Starpība $12^{n}-5^{n}$ dalās ar 7, tātad skaitītājs dalās ar 7. Tā kā sākotnējā izteiksme ir naturāls skaitlis visām naturālām $n$ vērtībām, un 7 un 6 ir savstarpēji pirmskaitlii, tad arī sākotnējā izteiksme dalās ar 7.
+Starpība $12^{n}-5^{n}$ dalās ar $7$, tātad skaitītājs dalās ar $7$. Tā kā sākotnējā 
+izteiksme ir naturāls skaitlis visām naturālām $n$ vērtībām, un $7$ un $6$ 
+ir savstarpēji pirmskaitļi, tad arī sākotnējā izteiksme dalās ar $7$.
 
 
 ## Atrisinājums
 
 Izmantosim matemātiskās indukcijas metodi.
 
-Indukcijas bāze. Ja $n=1$, tad $2^{1} \cdot 3^{0}+5^{1}=7$, kas dalās ar 7 .
+Indukcijas bāze. Ja $n=1$, tad $2^{1} \cdot 3^{0}+5^{1}=7$, kas dalās ar $7$.
 Induktīvais pieñēmums. Pieņemsim, ka apgalvojums ir patiess, ja $n=k$, t. i.,
 
-$$
-2^{2 k-1} 3^{k-1}+5^{k} \vdots 7
-$$
+$$2^{2 k-1} 3^{k-1}+5^{k} \vdots 7$$
 
 Induktīvā pāreja. Pierādīsim, ka apgalvojums ir patiess arī tad, ja $n=k+1$, t. i.,
 
-$$
-2^{2 k+1} 3^{k}+5^{k+1} \vdots 7
-$$
+$$2^{2 k+1} 3^{k}+5^{k+1} \vdots 7$$
 
 Pārveidosim izteiksmi:
 
-$$
-\begin{aligned}
-2^{2 k+1} 3^{k}+5^{k+1} & =4 \cdot 2^{2 k-1} \cdot 3 \cdot 3^{k-1}+5 \cdot 5^{k}=12 \cdot 2^{2 k-1} 3^{k-1}+5 \cdot 5^{k}= \\
-& =\underbrace{5 \cdot\left(2^{2 k-1} 3^{k-1}+5^{k}\right)}_{: 7 \text { pēc ind.pien. }}+\underbrace{7 \cdot 2^{2 k-1} 3^{k-1}}_{\vdots 7}
-\end{aligned}
-$$
+$2^{2k+1} 3^{k}+5^{k+1} =4 \cdot 2^{2k-1} \cdot 3 \cdot 3^{k-1}+5 \cdot 5^{k} = 
+12 \cdot 2^{2k-1} 3^{k-1}+5 \cdot 5^{k} =\text{}$
+
+$\text{}=\underbrace{5 \cdot\left(2^{2 k-1} 3^{k-1}+5^{k}\right)}_{\vdots 7\;\text{pēc ind.pieņ.}}+
+\underbrace{7 \cdot 2^{2 k-1} 3^{k-1}}_{\vdots 7}.$
 
 Ja katras saskaitāmais dalās ar 7 , tad visa summa dalās ar 7.
-Secinājums. Tā kā apgalvojums ir patiesa, ja $n=1$, un no tā, ka apgalvojums ir patiess, ja $n=k$, izriet, ka apgalvojums ir patiess arī $n=k+1$, secinām, ka apgalvojums ir patiess visām naturālām vērtībām.
+Secinājums. Tā kā apgalvojums ir patiess, ja $n=1$, un no tā, ka apgalvojums ir patiess, ja $n=k$, izriet, ka apgalvojums ir patiess arī $n=k+1$, secinām, ka apgalvojums ir patiess visām naturālām vērtībām.
 
 
 
