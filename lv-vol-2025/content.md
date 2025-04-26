@@ -782,7 +782,7 @@ $$\begin{gathered}
 \frac{1}{(x+1)(y+1)}+\frac{1}{(y+1)(z+1)}+\frac{1}{(x+1)(z+1)} \geq \frac{27}{16} \\
 \frac{z+1+x+1+y+1}{(x+1)(y+1)(z+1)} \geq \frac{27}{16} \\
 \frac{4}{(x+1)(y+1)(z+1)} \geq \frac{27}{16} \\
-\frac{1}{(x+1)(y+1)(z+1)}
+\frac{1}{(x+1)(y+1)(z+1)} \geq \frac{27}{64} 
 \end{gathered}$$
 
 Pierādīsim, ka pēdējā nevienādība ir patiesa, izmantojot nevienādību 
@@ -816,9 +816,9 @@ Ja $p=q$, tad $p^{2}+p q+q^{2}=3 p^{2}$ un tas nav naturāla skaitla kvadrāts.
 Nezaudējot vispārīgumu, varam pieṇemt, ka $p<q$. Tādā gadījumā $p^{2}+p q+q^{2}=k^{2}>1$. Veicot ekvivalentus pārveidojumus, iegūstam:
 
 $$\begin{gathered}
-p^{2}+2 p q+q^{2}-k^{2}=p q \\
-(p+q)^{2}-k^{2}=p q \\
-(p+q-k)(p+q+k)=p q
+p^{2}+2pq+q^{2}-k^{2} = pq\\
+(p+q)^{2}-k^{2} = pq\\
+(p+q-k)(p+q+k) = pq
 \end{gathered}$$
 
 Tā kā $p$ un $q$ ir pirmskaitl̦i, tad iespējami divi gadījumi:
@@ -828,8 +828,8 @@ Tā kā $p$ un $q$ ir pirmskaitl̦i, tad iespējami divi gadījumi:
    Pārveidojam iegūto vienādību:
 
    $$\begin{gathered}
-   p q+1-2 p-2 q=0 \\
-   p q+4-2 p-2 q=3 \\
+   pq+1-2p-2q = 0\\
+   pq+4-2 p-2q = 3\\
    (p-2)(q-3)=3
    \end{gathered}$$
 
