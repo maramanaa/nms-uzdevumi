@@ -878,7 +878,7 @@ izmantosim $P$ un $N$.
 Ja $c=P$, tad $2(a+b)-c=P-P=P$. Pāra skaitlis tiek 
 aizvietots ar pāra skaitli.
 
-Ja $c=N, \operatorname{tad} 2(a+b)-c=P-N=N$. Nepāra 
+Ja $c=N$, tad $2(a+b)-c=P-N=N$. Nepāra 
 skaitlis tiek aizvietots ar nepāra skaitli.
 
 Tātad vienmēr uz tāfeles skaitlu paritāte saglabāsies, 
