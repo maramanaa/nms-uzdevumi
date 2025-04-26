@@ -42,9 +42,9 @@ Novilksim nogriezni $EG$ tā, lai $G$ ir $CD$ viduspunkts
 (skat. 2. att.). Tādā gadījumā $CG = GD$ un $AE = EC$ 
 ($BE$ ir trijstūra $ABC$ mediāna), tātad $EG$ ir trijstūra 
 $ADC$ viduslīnija un $EG \| AD$.
-Iegūstam, ka $\triangle DBF=\triangle GEF$ pēc pazīmes $\operatorname{lml}$ :
+Iegūstam, ka $\triangle DBF=\triangle GEF$ pēc pazīmes $\ell m \ell$:
 
-- $\sphericalangle F D B=\sphericalangle FGE$ (iekšējie šk̦ērsleņki pie $EG \| AD$);
+- $\sphericalangle FDB=\sphericalangle FGE$ (iekšējie šk̦ērsleņki pie $EG \| AD$);
 - $EG = \frac{1}{2}AD = DB$, jo $EG$ ir $\triangle ADC$ viduslīnija un $AD:DB = 2:1$;
 - $\sphericalangle DBF = \sphericalangle GEF$ (iekšējie šķērsleṇki pie $EG \| AD$).
 
@@ -66,7 +66,7 @@ Ievērosim, ka arī $S_{ABE}=S_{BEC}$ ($AE=EC$ un kopīgs
 augstums no $B$), tad $S_{BFA} = 3y = S_{BFC}$ (skat. 3.att.).
 Tā kā $S_{ADC} = 2S_{BDC}$ ($BD:AD=1:2$ un kopīgs augstums no $C$), 
 tad $2y + 2x = 2 \cdot 4y$ jeb $x=3y$.
-Tas nozīmē, ka $S_{FEC}= x = 3y = S_{BFC}$. 
+Tas nozīmē, ka $S_{FEC} = x = 3y = S_{BFC}$. 
 No apgrieztā fakta $BF:FE = 1:1$ jeb $BF = FE$.
 
 
@@ -398,7 +398,7 @@ Pierādīsim, ka katram īpašam skaitlim, kuram ir vismaz
 trīs cipari, pēdējais cipars noteikti ir 0, kā arī nodzēšot 
 šo pēdējo ciparu, ir iegūts cits īpašais skaitlis.
 Aplūkosim $n$-ciparu skaitli 
-$A=\overline{a_{1} a_{2} a_{3} \ldots \bar{a}_{n-1} a_{n}}$. 
+$A=\overline{a_{1} a_{2} a_{3} \ldots a_{n-1} a_{n}}$. 
 Tā kā skaitlis ir īpašs, tas dalās ar skaitli, kuru iegūst, 
 nodzēšot pēdējo ciparu $a_{n}$ jeb tas dalās ar skaitli 
 $\overline{a_{1} a_{2} a_{3} \ldots a_{n-1}}$. 
@@ -568,12 +568,14 @@ Dots $7 \times 7$ rūtiṇu kvadrāts. No šī kvadrāta izgrieza 12 figūras, k
 
 ## Atrisinājums
 
-Pierādīsim, ka pāri palikusī rūtina varēja atrasties tikai un vienīgi sākotnējā kvadrāta centrā, piemēru skat. 9. att.
+Pierādīsim, ka pāri palikusī rūtina varēja atrasties tikai un vienīgi 
+sākotnējā kvadrāta centrā, piemēru skat. 9.att.
 
 ![](LV.VOL.2025.11.4A.png)
 
 
-Vēl jāparāda, ka neviena cita rūtiṇa pāri palikt nevar. Lai to pamatotu, ierakstīsim skaitḷus rūtiṇās tā, kā parādīts 10. att.
+Vēl jāparāda, ka neviena cita rūtiṇa pāri palikt nevar. Lai to pamatotu, 
+ierakstīsim skaitḷus rūtiṇās tā, kā parādīts 10.att.
 
 ![](LV.VOL.2025.11.4B.png)
 
@@ -614,15 +616,15 @@ skaitļi **(A)** $20$ un $24$; **(A)** $20$ un $25$?
 **(A)** Var, piemēram, šādi:
 
 $$\begin{gathered}
-(1 ; 1) \rightarrow (1 ; 2) \rightarrow (1 ; 4) \rightarrow (1 ; 3) \rightarrow (2 ; 3) \rightarrow\\
-\rightarrow (4 ; 3) \rightarrow (8 ; 3) \rightarrow (5 ; 3) \rightarrow (10 ; 3) \rightarrow\\
-\rightarrow(20 ; 3) \rightarrow(20 ; 6) \rightarrow (20 ; 12) \rightarrow (20 ; 24).
+(1;1) \rightarrow (1;2) \rightarrow (1;4) \rightarrow (1;3) \rightarrow (2;3) \rightarrow\\
+\rightarrow (4;3) \rightarrow (8;3) \rightarrow (5;3) \rightarrow (10;3) \rightarrow\\
+\rightarrow(20;3) \rightarrow(20;6) \rightarrow (20;12) \rightarrow (20;24).
 \end{gathered}$$
 
 **(B)** Tas nav iespējams. levērosim, ka katrā solī uz tāfeles uzrakstīto skaitḷu 
 lielākais kopīgais dalītājs vai nu nemainās, vai arī palielinās divas reizes. 
-Tā kā sākumā skaitlu lielākais kopīgais dalītājs ir 1, tad beigās tas nevar pieṇemt 
-vērtību $5=\operatorname{LKD}(20;25)$.
+Tā kā sākumā skaitlu lielākais kopīgais dalītājs ir $1$, tad beigās tas nevar pieṇemt 
+vērtību $5=\text{LKD}(20;25)$.
 
 
 
