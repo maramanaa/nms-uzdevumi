@@ -87,20 +87,23 @@ $7 \cdot(9-5)-3=25$.
 
 Prasītos ciparus varam iegūt sekojoši:
 
-$$\begin{aligned}
-(9+3)-(5+7) & =0, & 5 \cdot((7+3)-9) & =5 \\
-(9-7):(5-3) & =1, & (9: 3) \cdot(7-5) & =6 \\
-(9+7):(5+3) & =2, & 7 \cdot(9-(3+5)) & =7, \\
-(9-3):(7-5) & =3, & (7+9)-(3+5) & =8, \\
-(9+5)-(7+3) & =4, & 9 \cdot(3-(7-5)) & =9 .
-\end{aligned}$$
+$$(9+3)-(5+7) = 0;\;\;\;\; 5 \cdot((7+3)-9) = 5;$$
 
+$$(9-7):(5-3) = 1;\;\;\;\; (9: 3) \cdot(7-5) = 6;$$
+
+$$(9+7):(5+3) = 2;\;\;\;\; 7 \cdot (9-(3+5)) = 7;$$
+
+$$(9-3):(7-5) = 3;\;\;\;\; (7+9)-(3+5) = 8;$$
+
+$$(9+5)-(7+3) = 4;\;\;\;\; 9 \cdot(3-(7-5)) = 9.$$
 
 
 
 # <lo-sample/> LV.AMO.2024.5.4
 
-Dots $7 \times 9$ rūtiņu taisnstūris. Vai tajā var ievietot deviņas 3. att. redzamās figūras? Figūras drīkst pagriezt un apmest otrādi, bet tās nevar pārklāties viena ar otru vai iziet ārpus taisnstūra.
+Dots $7 \times 9$ rūtiņu taisnstūris. Vai tajā var ievietot deviņas 3. att. 
+redzamās figūras? Figūras drīkst pagriezt un apmest otrādi, bet tās nevar 
+pārklāties viena ar otru vai iziet ārpus taisnstūra.
 
 ![](LV.AMO.2024.5.4.png)
 
@@ -144,9 +147,15 @@ Cik patiesībā bija pulkstenis? Atbildi pamato!
 
 ## Atrisinājums
 
-Pierakstīsim katra cilvēka atbildi. A - 2:54; B-2:57; C-3:03; D-3:02. Neviens no šiem laikiem pēc dotā nevar būt pareizs.
-Pareizais laiks nevar būt 2:54 un 3:03 (tad attiecīgi C kl̦ūdītos par 9 minūtēm un $A$ kl̄ūdītos par 9 minūtēm). Tas nevar būt arī nedz mazāks, nedz lielāks, citādi A vai B klı̄̄dītos vairāk par 9 minūtēm. Tātad tas ir starp 2:55 un 3:01.
-Neviens nekḹ̄dās par 1 minūti, tādēl neder 2:55, 2:56, 2:58, 3:01. Atliek tikai 3:00 vai 2:59. 3:00 neder, jo tad gan B, gan C kḷūdās par 3 min. Tātad pulkstenis bija 2:59.
+Pierakstīsim katra cilvēka atbildi. A - 2:54; B-2:57; C-3:03; D-3:02. 
+Neviens no šiem laikiem pēc dotā nevar būt pareizs.
+Pareizais laiks nevar būt 2:54 un 3:03 (tad attiecīgi C kl̦ūdītos par 
+9 minūtēm un $A$ kļūdītos par 9 minūtēm). Tas nevar būt arī 
+nedz mazāks, nedz lielāks, citādi A vai B kļūdītos vairāk 
+par 9 minūtēm. Tātad tas ir starp 2:55 un 3:01.
+Neviens nekļūdās par 1 minūti, tādēl neder 2:55, 2:56, 2:58, 3:01. 
+Atliek tikai 3:00 vai 2:59. 3:00 neder, jo tad gan B, 
+gan C kḷūdās par 3 min. Tātad pulkstenis bija 2:59.
 
 
 
@@ -162,7 +171,8 @@ ierakstītajiem skaitliem, veicot doto darbību, jāiegūst
 dotais skaitlis. Pietiek parādīt vienu piemēru, kā to izdarīt. 
 Vienā ar tumšu līniju apvilktajā rūtiņā skaitlis jau ir ierakstīts.
 
-Piemēram, augšējā kreisā stūra figūrā "4-" nozīmē, ka abu ierakstīto skaitlu starpība (no lielākā atņemot mazāko) ir 4.
+Piemēram, augšējā kreisā stūra figūrā "4-" nozīmē, ka abu 
+ierakstīto skaitļu starpība (no lielākā atņemot mazāko) ir $4$.
 
 ![](LV.AMO.2024.6.1.png)
 
@@ -182,8 +192,8 @@ Skaitḷus režģī iespējams sarakstīt, kā tas redzams 6. att.
 
 # <lo-sample/> LV.AMO.2024.6.2
 
-Kastē ir 14 violetas, 18 brūnas, 4 oranžas un 19 dzeltenas bumbiņas. 
-Anna no kastes izvilka 9 bumbiņas.  
+Kastē ir $14$ violetas, $18$ brūnas, $4$ oranžas un $19$ dzeltenas bumbiņas. 
+Anna no kastes izvilka $9$ bumbiņas.  
 **(A)** Vai var apgalvot, ka tieši piecas no izvilktajām bumbiņām ir dzeltenas?  
 **(B)** Vai Anna noteikti izvilka vismaz trīs vienādas krāsas bumbinas?  
 **(C)** Kāds mazākais skaits bumbiņu Annai vēl ir jāizvelk no kastes, 
@@ -199,13 +209,13 @@ lai varētu apgalvot, ka kopumā Annai vismaz sešas no bumbiņām ir vienā kr�
 ## Atrisinājums 
 
 **(A)** Nē. Piemēram, varētu gadīties, ka Anna kopā ir 
-izvilkusi 9 violetas bumbiņas.
+izvilkusi $9$ violetas bumbiņas.
 
 **(B)** Jā. Kopā ir deviņas bumbiņas un ir tikai četrās dažādās krāsās. 
-Ja Anna būtu izvilkusi ne vairāk kā 2 bumbiņas no katras krāsas, 
+Ja Anna būtu izvilkusi ne vairāk kā $2$ bumbiņas no katras krāsas, 
 tad kopā būtu ne vairāk kā $2 \cdot 4=8$ bumbiņas. Bet tas ir 
-pretrunā ar doto, ka ir izvilktas 9 bumbiņas. Tātad noteikti 
-Anna ir izvilkusi vismaz 3 vienas krāsas bumbiņas.
+pretrunā ar doto, ka ir izvilktas $9$ bumbiņas. Tātad noteikti 
+Anna ir izvilkusi vismaz $3$ vienas krāsas bumbiņas.
 
 **(C)** Ievērosim, ka nav iespējams izvilkt sešas oranžas krāsas 
 bumbiņas, jo kastē ir tikai četras šādas bumbiņas. Var gadīties, 
@@ -216,13 +226,13 @@ nepieciešams izvilkt $5 \cdot 3+1=16$ bumbiņas no trīs dažādām
 krāsām, lai iegūtu 6 vienādas krāsas bumbiņas. Tātad Annai 
 nepieciešamas kopā vismaz $4+16=20$ bumbiņas, lai garantētu to, 
 ka sešas no tām ir vienā krāsā. Secinām, ka Annai jāizvelk 
-vēl 20-9 = 11 bumbinas.
+vēl $20-9=11$ bumbiņas.
 
 
 
 # <lo-sample/> LV.AMO.2024.6.3
 
-Katrs no 10 rūķı̌šiem vienmēr saka patiesību vai vienmēr melo. 
+Katrs no $10$ rūķīšiem vienmēr saka patiesību vai vienmēr melo. 
 Zināms, ka katram no rūķı̄šiem ir viena mīḷākā saldējuma garša - 
 vaniḷas, šokolādes vai zemeņu.
 Sniegbaltīte lūdza pacelt roku tiem rūk̦iem, kam mīļākais ir 
@@ -277,7 +287,7 @@ Skatīt 8. att.
 
 Caurspīdīgā kastē ir ieliktas konfektes un četriem bērniem 
 jāizsaka savs minējums par konfekšu skaitu tajā. Katrs piedāvā savu 
-minējumu: 116, 124, 120 un 128. Izrādās, neviens nav uzminējis pareizi.
+minējumu: $116$, $124$, $120$ un $128$. Izrādās, neviens nav uzminējis pareizi.
 Noskaidrojiet, cik konfekšu var būt kastē, ja zināms, ka no patiesā 
 konfekšu skaita viens no skolēniem kḷūdījās par viens, 
 viens - par trīs, viens - par pieci un viens - par deviņi.
@@ -293,7 +303,7 @@ viens - par trīs, viens - par pieci un viens - par deviņi.
 
 Pamatosim, ka konfekšu kastē var būt vai nu $119$, vai arı̄ 
 125 konfektes. Konfekšu skaits nevar būt 115 (jo tad kāds 
-būtu kḷūdījies par $128-115=13$ ) un nevar būt $129$ 
+būtu kḷūdījies par $128-115=13$) un nevar būt $129$ 
 (jo tad kāds būtu kḷūdījies par $129-116=13$). Tā kā lielākam 
 un mazākam skaitam klıūda būtu vēl lielāka un neviens no 
 minējumiem nav pareizs, varam secināt, ka konfekšu skaits 
@@ -374,8 +384,8 @@ bija gatava 16:37:30.
 
 # <lo-sample/> LV.AMO.2024.7.2
 
-Jurğis Mik̦eldienas tirgū ar izlozes palīdzību izdalīja 11 balvas. 
-Katra balva satur 6 rudens labumus: ābolus, bumbierus un bietes. 
+Jurģis Mik̦eļdienas tirgū ar izlozes palīdzību izdalīja $11$ balvas. 
+Katra balva satur $6$ rudens labumus: ābolus, bumbierus un bietes. 
 Pie tam zināms, ka katra balva satur vismaz vienu ābolu, 
 bumbieri un bieti. Pamatot, ka noteikti tika izdalītas divas 
 tādas balvas, kurām bija vienāds saturs
@@ -393,13 +403,13 @@ Nepieciešams uzzināt, cik dažādus komplektus Jurǵis varēja
 izveidot. Tā kā katra balva satur vismaz pa vienam no katra 
 rudens labuma, tad varam apskatīt, cik dažādos veidos 
 skaitli 6 var izteikt kā trīs naturālu skaitlu summu ar trīs 
-saskaitāmajiem: $4+1+1,3+2+1$ un $2+2+2$. Nemot vērā, 
-kura dārzeņa vai augla daudzums ir katrs no saskaitāmajiem, 
-iegūsim 10 dažādus balvu komplektus:
+saskaitāmajiem: $4+1+1,3+2+1$ un $2+2+2$. Ņemot vērā, 
+kura dārzeņa vai augļa daudzums ir katrs no saskaitāmajiem, 
+iegūsim $10$ dažādus balvu komplektus:
 
 ![](LV.AMO.2024.7.2A.png)
 
-Tā kā tika izdalītas 11 balvas un ir 10 dažādi balvu komplekti, 
+Tā kā tika izdalītas $11$ balvas un ir $10$ dažādi balvu komplekti, 
 tad pēc Dirihlē principa noteikti būs izdalīti divi tādi komplekti, 
 kam ir vienāds saturs.
 
@@ -462,10 +472,10 @@ rūtiņu līnijām? Figūras drīkst būt pagrieztas.
 ## Atrisinājums 
 
 Kvadrātā ir $10 \cdot 10=100$ rūtiņas, bet katrai figūrai 
-ir 6 rūtiņas. Tā kā $100: 6=$ 16, atlikumā 4, tad vairāk 
-par 16 figūrām ielikt noteikti nevar. Piemēru, kā 
-izkārtot 16 figūras rūtiņas var skatīt 10. att. 
-Secinām, ka 16 ir vislielākais figūru skaits.
+ir $6$ rūtiņas. Tā kā $100:6 = 16$, atlikumā $4$, tad vairāk 
+par $16$ figūrām ielikt noteikti nevar. Piemēru, kā 
+izkārtot $16$ figūras rūtiņas var skatīt 10.att. 
+Secinām, ka $16$ ir vislielākais figūru skaits.
 
 ![](LV.AMO.2024.7.4A.png)
 
@@ -490,10 +500,10 @@ bet Sandra dziedāja 4 dziesmas (mazāk nekā jebkura cita meitene)?
 Pamatosim, ka kopējais nodziedāto dziesmu skaits ir 7. 
 Apzīmēsim Maijas un Ināras nodziedāto dziesmu skaitu attiecīgi 
 ar $M$ un $I$. Tad nodziedāto dziesmu summa ir 
-$7+4+M+I=$ $11+M+I$. Katru dziesmu dzied 3 meitenes, 
+$7+4+M+I=11+M+I$. Katru dziesmu dzied 3 meitenes, 
 tādēļ, katras meitenes dziedāto dziesmu summai jādalās ar trīs. 
-Turklāt, $I$ un $M$ vērtības var būt 5 vai 6 (vismazākais 
-dziedāto dziesmu skaits ir 4, bet vislielākais -- $7$). 
+Turklāt, $I$ un $M$ vērtības var būt $5$ vai $6$ (vismazākais 
+dziedāto dziesmu skaits ir $4$, bet vislielākais -- $7$). 
 Vienīgais derīgais variants, lai $11+M+I$ dalītos ar 3 
 ir gadījumā, kad $M=I=5$. Tādā gadījumā nodziedāto dziesmu 
 skaits ir $\frac{11+5+5}{3}=\frac{21}{3}=7$.
@@ -516,7 +526,7 @@ Doti trīs dažādi reāli skaitḷi. Zināms, ka aritmētiskais
 vidējais no divu mazāko skaitḷu aritmētiskā vidējā un 
 divu lielāko skaitļu aritmētiskā vidējā ir vienāds ar visu 
 trīs skaitḷu aritmētisko vidējo. Pie tam aritmētiskais 
-vidējais no lielākā skaitḷa un mazākā skaitla ir 2024. 
+vidējais no lielākā skaitḷa un mazākā skaitļa ir $2024$. 
 Nosakiet šo trīs skaitḷu summu! 
 
 <small>
@@ -528,23 +538,23 @@ Nosakiet šo trīs skaitḷu summu!
 
 ## Atrisinājums
 
-Pamatosim, ka atbilde ir $6072$. Apz̄̄mēsim dotos skaitlus ar 
+Pamatosim, ka atbilde ir $6072$. Apzīmēsim dotos skaitļus ar 
 $a, b$ un $c$. Pie tam tā kā ir mazākais un lielākais skaitlis, 
-tad varam pienemt, ka $a<b<c$. Pēc dotā mums zināms, ka
+tad varam pieņemt, ka $a<b<c$. Pēc dotā mums zināms, ka
 
 $$\frac{\frac{a+b}{2}+\frac{b+c}{2}}{2}=\frac{a+b+c}{3}$$
 
 Vienkāršojot šo izteiksmi, iegūstam
 
-$$\begin{aligned}
-\frac{\frac{a+b}{2}+\frac{b+c}{2}}{2} & =\frac{a+b+c}{3} \\
-3\left(\frac{a+b}{2}+\frac{b+c}{2}\right) & =2(a+b+c), \\
-\frac{3}{2}(a+b+b+c) & =2(a+b+c), \\
-3(a+2 b+c) & =4(a+b+c), \\
-3 a+6 b+3 c & =4 a+4 b+4 c, \\
-2 b & =a+c, \\
-b & =\frac{a+c}{2} .
-\end{aligned}$$
+$$\begin{gathered}
+\frac{\frac{a+b}{2}+\frac{b+c}{2}}{2} =\frac{a+b+c}{3} \\
+3\left(\frac{a+b}{2}+\frac{b+c}{2}\right) =2(a+b+c), \\
+\frac{3}{2}(a+b+b+c) =2(a+b+c), \\
+3(a+2 b+c) =4(a+b+c), \\
+3 a+6 b+3 c =4 a+4 b+4 c, \\
+2 b =a+c, \\
+b =\frac{a+c}{2} .
+\end{gathered}$$
 
 Tātad secinām, ka $b$ ir vienāds ar mazākā un lielākā skaitļa 
 aritmētisko vidējo, jo $a<b<c$. Bet mums zināms, ka aritmētiskais 
@@ -560,7 +570,7 @@ $$a+b+c=a+c+b=2 \cdot\left(\frac{a+c}{2}\right)+b=2
 
 Pa apli patvaļīgā secībā sarakstīti visi naturālie skaitḷi no 
 $1$ līdz $10$. Pamatot, ka noteikti var atrast tādus trīs 
-secīgus skaitlus, kuru summa būs vismaz $17$.
+secīgus skaitļus, kuru summa būs vismaz $17$.
 
 <small>
 
@@ -584,13 +594,18 @@ nepārsniedz $160$. Tātad vismaz vienai summai jābūt lielākai nekā $16$.
 
 # <lo-sample/> LV.AMO.2024.8.3
 
-Trīs burvji rituālā spēj pārveidot skaitlus, bet katrs no burvjiem prot tikai vienu burvestību:
+Trīs burvji rituālā spēj pārveidot skaitļus, bet katrs no burvjiem prot tikai vienu burvestību:
 
-- pirmais burvis spēj atņemt no jebkura skaitḷa 1;
-- otrais burvis spēj izdalīt jebkuru skaitli ar 2 ;
-- trešais burvis spēj reizināt jebkuru skaitli ar 3.
+- pirmais burvis spēj atņemt no jebkura skaitḷa $1$;
+- otrais burvis spēj izdalīt jebkuru skaitli ar $2$;
+- trešais burvis spēj reizināt jebkuru skaitli ar $3$.
 
-Lai pārveidotu skaitli, burvji var pielietot savas burvestības jebkurā secībā, pat izlaižot citus burvjus. Bet katrs burvis savu burvestību katrā rituālā drīkst izmantot tikai 5 reizes, un starprezultātam jābūt veselam skaitlim, kas nepārsniedz 9. Vai burvji rituālā no skaitliem $3,8,9,2,4$ var iegūt **(A)** $3,3,3,3,3$; **(B)** $5,5,5,5,5$?
+Lai pārveidotu skaitli, burvji var pielietot savas burvestības 
+jebkurā secībā, pat izlaižot citus burvjus. Bet katrs burvis savu 
+burvestību katrā rituālā drīkst izmantot tikai $5$ reizes, un 
+starprezultātam jābūt veselam skaitlim, kas nepārsniedz $9$. 
+Vai burvji rituālā no skaitliem $3,8,9,2,4$ var iegūt
+**(A)** $3,3,3,3,3$; **(B)** $5,5,5,5,5$?
 
 <small>
 
@@ -604,55 +619,55 @@ Lai pārveidotu skaitli, burvji var pielietot savas burvestības jebkurā secīb
 **(A)** Jā, burvji var iegūt šos skaitlus, ja (jebkurā secībā) 
 pielieto sekojošās burvestības:
 
-$$\begin{aligned}
-& 3 \\
-& 8 \stackrel{: 2}{\longmapsto} 4 \stackrel{-1}{\longmapsto} 3 \\
-& 9 \stackrel{-1}{\longmapsto} 8 \stackrel{: 2}{\longmapsto} 4 \stackrel{-1}{\longmapsto} 3 \\
-& 2 \stackrel{-3}{\longmapsto} 6 \stackrel{: 2}{\longmapsto} 3 \\
-& 4 \stackrel{-1}{\longmapsto} 3
-\end{aligned}$$
+$$\begin{gathered}
+3 \\
+8 \stackrel{: 2}{\longmapsto} 4 \stackrel{-1}{\longmapsto} 3\\
+9 \stackrel{-1}{\longmapsto} 8 \stackrel{: 2}{\longmapsto} 4 \stackrel{-1}{\longmapsto} 3 \\
+2 \stackrel{-3}{\longmapsto} 6 \stackrel{: 2}{\longmapsto} 3 \\
+4 \stackrel{-1}{\longmapsto} 3
+\end{gathered}$$
 
 Ievērojam, ka neviena burvestība netika izmantota vairāk par 
-$5$ reizēm un katrs starprezultāts nebija lielāks par 9.
+$5$ reizēm un katrs starprezultāts nebija lielāks par $9$.
 
 **(B)** Pamatosim, ka prasīto burvji nevar paveikt. 
-Lai iegūtu skaitli 5, pirms burvestības skaitlis var būt vai nu 
-6 (pirmais burvis atņem 1), vai 10 (otrais burvis izdala ar 2). 
-Bet tā kā 10 ir lielāks nekā 9, tad vienīgā iespēja ir, 
+Lai iegūtu skaitli $5$, pirms burvestības skaitlis var būt vai nu 
+$6$ (pirmais burvis atņem $1$), vai $10$ (otrais burvis izdala ar $2$). 
+Bet tā kā $10$ ir lielāks nekā $9$, tad vienīgā iespēja ir, 
 ka rituālā pirms iegūst gala skaitli, pirmais burvis 
 pielieto savu burvestību uz visiem skaitlliem, tas ir, 
 rituālam jābeidzas sekojoši:
 
-$$\begin{aligned}
-& \cdots 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 6 \stackrel{-1}{\longmapsto} 5
-\end{aligned}$$
+$$\begin{gathered}
+\cdots 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 6 \stackrel{-1}{\longmapsto} 5
+\end{gathered}$$
 
 Ievērosim, ka pirmais burvis ir iztērējis visas savas 
 burvestības šajā solī, jo bija nepieciešams pielietot viṇa 
-burvestību 5 reizes. Tātad vienīgais veids, kā iegūt 
-skaitli 6 , ir trešajam burvim pareizinot skaitli 2 ar 3, 
+burvestību $5$ reizes. Tātad vienīgais veids, kā iegūt 
+skaitli $6$, ir trešajam burvim pareizinot skaitli $2$ ar $3$, 
 jo otrajam burvim būtu jādarbojas ar skaitli, 
-kas būtu lielāks par 9, tas ir, 12. Iegūstam sekojošās rituāla beigas:
+kas būtu lielāks par $9$, tas ir, $12$. Iegūstam sekojošās rituāla beigas:
 
-$$\begin{aligned}
-& \cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 2 \stackrel{\rightharpoonup 3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 2 \stackrel{-3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
-& \cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5
-\end{aligned}$$
+$$\begin{gathered}
+\cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 2 \stackrel{\rightharpoonup 3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 2 \stackrel{-3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5 \\
+\cdots 2 \stackrel{3}{\longmapsto} 6 \stackrel{-1}{\longmapsto} 5
+\end{gathered}$$
 
 Līdzīgi secinām, ka trešais burvis būs iztērējis visas savas 
 burvestības. Šobrīd vienīgās burvestības, kas ir palikušas pāri, 
 ir otrā burvja burvestības. Tas nozīmē, ka, piemēram, 
-skaitlis 9 būtu jādala ar 2 līdz iegūstam 2, bet 9 ir 
+skaitlis $9$ būtu jādala ar $2$ līdz iegūstam $2$, bet $9$ ir 
 nepāra skaitlis, tāpēc dalījums būs nevesels skaitlis, un, 
 turpinot to dalīt, rezultāts arī būs nevesels. Tātad 
-nevaram no 9 iegūt 2, lai rituālā sasniegtu prasīto skaitļu kombināciju.
+nevaram no $9$ iegūt $2$, lai rituālā sasniegtu prasīto skaitļu kombināciju.
 
 
 
@@ -662,7 +677,7 @@ nevaram no 9 iegūt 2, lai rituālā sasniegtu prasīto skaitļu kombināciju.
 Uz riņk̦a līnijas ar centru $O$ ir atlikti punkti 
 $A, B$ un $C$ tā, lai punkts $O$ atrastos trijstūrī $ABC$. 
 Pie tam zināms, ka $\sphericalangle AOC=\alpha$, bet 
-$\sphericalangle OAB=\beta$. Izteikt leñki 
+$\sphericalangle OAB=\beta$. Izteikt leņķi 
 $\sphericalangle BCO$ ar $\alpha$ un $\beta$!
 
 <small>
@@ -679,7 +694,7 @@ kā riņka līnijas rādiusi. Ņemot vērā, ka vienādsānu trijstūrim
 pamata leņk̦i ir vienādi un ka trijstūrī leņk̦u summa 
 ir $180^{\circ}$, iegūstam, ka
 
-$$\sphericalangle C A O=\sphericalangle O C A=\frac{180^{\circ}-\alpha}{2} = 
+$$\sphericalangle CAO=\sphericalangle OCA=\frac{180^{\circ}-\alpha}{2} = 
 90^{\circ}-\frac{\alpha}{2}$$
 
 Līdzīgi varam spriest arı̄ par vienādsānu trijstūri $ABO$ ($AO=BO$ kā riņka 
@@ -765,23 +780,23 @@ Kāda var būt izteiksmes $a^{4}+b^{4}$ vērtība, ja papildus zināms, ka $a+b 
 
 Vienādojot saucējus pirmajai vienādībai, iegūstam
 
-$$\begin{aligned}
-a\left(5-b^{2}\right) & =b\left(a^{2}-5\right), \\
-5 a-a b^{2} & =a^{2} b-5 b, \\
-5 a+5 b & =a^{2} b+a b^{2}, \\
-5(a+b) & =a b(a+b), \\
-5 & =a b,
-\end{aligned}$$
+$$\begin{gathered}
+a\left(5-b^{2}\right) = b\left(a^{2}-5\right), \\
+5 a-a b^{2} = a^{2} b-5 b, \\
+5 a+5 b = a^{2} b+a b^{2}, \\
+5(a+b) = a b(a+b), \\
+5 =a b,
+\end{gathered}$$
 
 balstoties uz to, ka $a+b \neq 0$. Tātad iegūstam, ka
 
 $$\frac{a}{a^{2}-5} = \frac{b}{5-b^{2}} = \frac{a b}{a^{2} b^{2}-5} = \frac{5}{25-5}=\frac{1}{4}.$$
 
-No šī tad secinām, ka $4 a=a^{2}-5$ jeb $a^{2}-4 a-5=0$. 
+No šī tad secinām, ka $4a = a^{2}-5$ jeb $a^{2}-4a-5 = 0$. 
 Pēc Vjeta teorēmas šim ir divi atrisinājumi $a_{1}=-1$ un 
 $a_{2}=5$. Tā kā $a b=5$, tad attiecīgi saistītās $b$ vērtības 
 ir $b_{1}=-5$ un $b_{2}=1$. Šīs arī ir tās saknes, 
-ko iegūst no dotās sakarības, tas ir, $4 b=5-b^{2}$. 
+ko iegūst no dotās sakarības, tas ir, $4b = 5-b^{2}$. 
 Abos gadījumos iegūstam, ka $a^{4}+b^{4}=5^{4}+1^{4}=625+1=626$.
 
 
@@ -868,13 +883,17 @@ skaitlis tiek aizvietots ar nepāra skaitli.
 
 Tātad vienmēr uz tāfeles skaitlu paritāte saglabāsies, 
 tas ir, uz tāfeles vienmēr būs uzrakstīts 1 pāra skaitlis 
-un 2 nepāra skaitlli. Bet prasīts iegūt 20,24 un 25 , kas ir 2 pāra skaitli un 1 nepāra skaitlis. Iegūstam pretrunu, tāpēc prasītais nav iespējams.
+un 2 nepāra skaitlli. Bet prasīts iegūt 20,24 un 25 , kas ir 2 pāra 
+skaitli un 1 nepāra skaitlis. Iegūstam pretrunu, tāpēc prasītais nav iespējams.
 
 
 
 # <lo-sample/> LV.AMO.2024.9.4
 
-Uz paralelograma $A B C D$ malām $B C$ un $C D$ atzīmēti attiecīgi punkti $E$ un $F$. Nogriežņu $A E$ un $B F$ krustpunkts ir $G$, nogriežņu $A F$ un $E D$ krustpunkts ir $I$, bet $B F$ un $E D$ krustpunkts ir $H$. Pamatot, ka $S_{A G H I}=S_{B E G}+S_{C E H F}+S_{D F I}$.
+Uz paralelograma $A B C D$ malām $B C$ un $C D$ atzīmēti attiecīgi 
+punkti $E$ un $F$. Nogriežņu $A E$ un $B F$ krustpunkts ir $G$, 
+nogriežņu $AF$ un $ED$ krustpunkts ir $I$, bet $BF$ un $ED$ 
+krustpunkts ir $H$. Pamatot, ka $S_{AGHI} = S_{BEG}+S_{CEHF}+S_{DFI}$.
 
 <small>
 
@@ -885,12 +904,20 @@ Uz paralelograma $A B C D$ malām $B C$ un $C D$ atzīmēti attiecīgi punkti $E
 
 ## Atrisinājums
 
-Ievērosim, ka $S_{A E D}=\frac{1}{2} S_{A B C D}$, jo trijstūra $A E D$ mala $A D$ sakrīt ar paralelograma malu un arī to attiecīgie augstumi sakrīt. Līdzīgi spriežot, varam secināt, ka $S_{F B C}+S_{D A F}=\frac{1}{2} S_{A B C D}$, jo abu šo trijstūru pamatu summa, tas ir, $D F+F C$ sakrīt ar paralelograma malu $D C$ un augstumi trijstūrī pret šīm malām sakrīt ar paralelograma augstumu. Tātad iegūstam, ka $S_{A E D}=S_{F B C}+S_{D A F}$, bet $S_{A E D}=S_{A G H I}+S_{G E H}+S_{A I D}, S_{F B C}=S_{B E G}+S_{G E H}+S_{C E H F}$ un $S_{D A F}=S_{A I D}+S_{D F I}$ (skatīt 15. att.). Apvienojot šīs izteiksmes, iegūstam, ka
+Ievērosim, ka $S_{AED}=\frac{1}{2} S_{ABCD}$, jo trijstūra $AED$ 
+mala $A D$ sakrīt ar paralelograma malu un arī to attiecīgie augstumi 
+sakrīt. Līdzīgi spriežot, varam secināt, ka 
+$S_{FBC}+S_{DAF}=\frac{1}{2} S_{ABCD}$, jo abu šo trijstūru pamatu summa, 
+tas ir, $DF+FC$ sakrīt ar paralelograma malu $DC$ un augstumi trijstūrī 
+pret šīm malām sakrīt ar paralelograma augstumu. Tātad iegūstam, ka 
+$S_{AED}=S_{FBC}+S_{DAF}$, bet $S_{AED}=S_{AGHI}+S_{GEH}+S_{AID}$, 
+$S_{FBC}=S_{BEG}+S_{GEH}+S_{CEHF}$ un $S_{DAF}=S_{AID}+S_{DFI}$ 
+(skatīt 15. att.). Apvienojot šīs izteiksmes, iegūstam, ka
 
-$$\begin{aligned}
-S_{AGHI}+S_{GEH}+S_{AID} & =S_{BEG}+S_{GEH}+S_{CEHF}+S_{AID}+S_{DFI}, \\
-S_{AGHI} & =S_{BEG}+S_{CEHF}+S_{DFI},
-\end{aligned}$$
+$$\begin{gathered}
+S_{AGHI}+S_{GEH}+S_{AID} = S_{BEG}+S_{GEH}+S_{CEHF}+S_{AID}+S_{DFI}, \\
+S_{AGHI} = S_{BEG}+S_{CEHF}+S_{DFI},
+\end{gathered}$$
 
 kas arı̄ ir prasītā vienādība.
 
@@ -910,7 +937,7 @@ Viṇas draudzenes Zanes deviņciparu tālruņa numuram ir šādas īpašības:
 - pirmie četri cipari ir sakārtoti augošā secībā un to 
   attiecīgo pogu centri veido kvadrātu;
 - pēdējo četru ciparu pogu centri arı̄ veido kvadrātu;
-- Zanes tālruña numurs dalās ar $15$.
+- Zanes tālruņa numurs dalās ar $15$.
 
 Cik ir tādu deviņciparu tālruņa numuru, kas varētu būt Zanes tālruņa numurs?
 
@@ -926,12 +953,12 @@ Cik ir tādu deviņciparu tālruņa numuru, kas varētu būt Zanes tālruņa num
 Pamatosim, ka atbilde ir 12 dažādi skaitļi. Vispirms 
 uzrakstīsim visas pogas, kuru centri veido kvadrātu:
 
-$$\begin{array}{ll}
-1,2,4,5, & 1,3,7,9 \\
-4,5,7,8, & 2,4,6,8, \\
-2,3,5,6, & 0,5,7,9 . \\
-5,6,7,8, &
-\end{array}$$
+$$\begin{gathered}
+(1,2,4,5);\;\;\;\; (1,3,7,9);\\
+(4,5,7,8);\;\;\;\; (2,4,6,8);\\
+(2,3,5,6);\;\;\;\; (0,5,7,9);\\
+(5,6,7,8).
+\end{gathered}$$
 
 Taču ievērojam, ka mēs nevaram izmantot nevienu no kvadrātiem, 
 kas atrodas kreisajā kolonnā, jo tad tā cipari atkārtotos 
@@ -942,9 +969,12 @@ Tā kā mēs jau esam izmantojuši skaitlus $7$ un $9$,
 tad pirmajiem četriem cipariem jābūt $2,4,6,8$ tieši 
 šādā secībā, jo tie ir sakārtoti augoši. Vien̄̄gie atlikušie 
 cipari, kas varētu atrasties tālruņa vid̄̄, ir $1$ un $3$. 
-Tā kā numuram ir jādalās ar 3 (tas dalās ar 15), tad visu ciparu summai ir jādalās ar 3 . Iegūstam, ka $2+4+6+8+x+0+5+7+9=41+x$ jādalās ar 3 , kur $x$ ir 1 vai 3 . Tātad vienīgā iespēja ir tad, ja $x=1$. Esam ieguvuši, ka Zanes numurs ir izskatā
+Tā kā numuram ir jādalās ar 3 (tas dalās ar 15), tad visu 
+ciparu summai ir jādalās ar 3 . Iegūstam, ka $2+4+6+8+x+0+5+7+9=41+x$ 
+jādalās ar $3$, kur $x$ ir $1$ vai $3$. Tātad vienīgā iespēja ir tad,
+ja $x=1$. Esam ieguvuši, ka Zanes numurs ir izskatā
 
-$$24681 * * * *,$$
+$$24681 \ast \ast \ast \ast,$$
 
 kur pēdējie 4 cipari ir kāds no skaitliem $0,5,7,9$. 
 Tā kā numuram ir jādalās ar 5 , tad pēdējais cipars var būt 
@@ -1139,18 +1169,18 @@ $$\frac{a^{2}+2 b c}{b^{2}+c^{2}}+\frac{b^{2}+2 a c}{a^{2}+c^{2}}+\frac{c^{2}+2 
 
 ## Atrisinājums
 
-Pierādīsim, ka katrs saskaitāmais nevienādība ir lielāks nekā 1. 
+Pierādīsim, ka katrs saskaitāmais nevienādība ir lielāks nekā $1$. 
 Tā kā $a, b$ un $c$ ir trijstūra malas garumi, tad pēc trijstūra 
 nevienādības mums zināms, ka $a+b>c$ jeb $a>(c-b)$. 
 Kāpinot abas puses kvadrātā, iegūstam, ka $a^{2}>(c-b)^{2}$. 
 Pārkārtojot izteiksmes saskaitāmos, iegūstam, ka
 
-$$\begin{aligned}
-& a^{2}>(c-b)^{2} \\
-& a^{2}>c^{2}-2 b c+b^{2} \\
-& a^{2}+2 b c>b^{2}+c^{2} \\
-& \frac{a^{2}+2 b c}{a^{2}+b^{2}}>1
-\end{aligned}$$
+$$\begin{gathered}
+a^{2} > (c-b)^{2} \\
+a^{2} > c^{2}-2 bc+b^{2} \\
+a^{2}+2bc > b^{2}+c^{2} \\
+\frac{a^{2}+2bc}{a^{2}+b^{2}} > 1
+\end{gathered}$$
 
 Līdzīgas nevienādības iegūstam, ja apskatām trijstūra 
 nevienādības $b+c>a$ un $c+b>a$. Saskaitot šīs trīs nevienādības, 
@@ -1158,7 +1188,7 @@ iegūsim uzdevumā prasīto.
 
 
 
-# <lo-sample/> LV.AMO.2024.11.1
+# <lo-sample/> LV.AMO.2024.11.2
 
 Šaha festivālā piedalījās 95 dalībnieki. Zināms, ka festivāla laikā 
 katrs dalībnieks izspēlēja ne vairāk kā 10 partijas, pie tam, 
@@ -1250,13 +1280,22 @@ No šī varam secināt, ka $B^{\prime} C^{\prime}=A D+C^{\prime} A+B^{\prime} D$
 
 $$A D+C^{\prime} A+B^{\prime} D>C^{\prime} D+B^{\prime} D>B^{\prime} C^{\prime}$$
 
-bet tas ir pretrunā ar iepriekš secināto, ka $B^{\prime} C^{\prime}=A D+C^{\prime} A+B^{\prime} D$. Tātad secinām, ka $A C^{\prime}=D B^{\prime}=0$ jeb $C O=A O$ un $B O=D O$. Iegūstam, ka dotajam četrstūrim diagonāles krustpunktā dalās uz pusēm. Tātad četrstūris $A B C D$ ir paralelograms.
-Lai pamatotu, ka $A B C D$ ir rombs, atliek parādīt, ka paralelograma $A B C D$ blakusesošās malas ir vienāda garuma, tas ir, ka $A B=B C$. Pēc dotā mums ir zināms, ka $P_{A B O}=P_{B O C}$ jeb $A B+B O+A O=$ $B C+B O+C O$. Tā kā $A B C D$ ir paralelograms, $\operatorname{tad} A O=C O$ un varam secināt, ka $A B=B C$ jeb četrstūris $A B C D$ ir rombs.
+bet tas ir pretrunā ar iepriekš secināto, ka $B^{\prime} C^{\prime}=A D+C^{\prime} A+B^{\prime} D$. Tātad secinām, ka $A C^{\prime}=D B^{\prime}=0$ jeb $C O=A O$ un $B O=D O$. Iegūstam, ka dotajam četrstūrim diagonāles krustpunktā dalās uz pusēm. Tātad četrstūris $ABCD$ ir paralelograms.
+Lai pamatotu, ka $ABCD$ ir rombs, atliek parādīt, ka 
+paralelograma $ABCD$ blakusesošās malas ir vienāda garuma, 
+tas ir, ka $AB=BC$. Pēc dotā mums ir zināms, ka $P_{ABO}=P_{BOC}$ 
+jeb $AB+BO+AO=BC+BO+CO$. Tā kā $ABCD$ ir paralelograms, tad $AO=CO$ 
+un varam secināt, ka $AB=BC$ jeb četrstūris $ABCD$ ir rombs.
 
 
 # <lo-sample/> LV.AMO.2024.11.5
 
-Pie apaḷa galda sasēdušies vairāki hameleoni. Katrs hameleons var nokrāsoties vai nu sarkans, vai zaļš. Ik pēc minūtes tie hameleoni, kuru abi kaimiņi ir dažādās krāsās, maina savu krāsu. Vai noteikti (neatkarīgi no hameleonu sākotnējā krāsojuma) pienāks tāds brīdis, kad visu hameleonu krāsa sakritīs ar sākotnējo, ja pie galda sēž 
+Pie apaḷa galda sasēdušies vairāki hameleoni. Katrs hameleons 
+var nokrāsoties vai nu sarkans, vai zaļš. Ik pēc minūtes 
+tie hameleoni, kuru abi kaimiņi ir dažādās krāsās, 
+maina savu krāsu. Vai noteikti (neatkarīgi no hameleonu 
+sākotnējā krāsojuma) pienāks tāds brīdis, kad visu hameleonu 
+krāsa sakritīs ar sākotnējo, ja pie galda sēž 
 **(A)** $6$; **(B)** $7$ hameleoni?
 
 <small>
@@ -1268,8 +1307,10 @@ Pie apaḷa galda sasēdušies vairāki hameleoni. Katrs hameleons var nokrāsot
 
 ## Atrisinājums 
 
-**(A)** Nē, ne vienmēr. Ja pie galda apsēdušies hameleoni, kuru krāsas secīgi ir: 
-sarkans, zaļš, zaḷš, sarkans, zaļš, zaḷš, tad nākošajā minūtē visi hameleoni būs sarkani. Tātad no šī brīža hameleoni var būt tikai sarkani, un hameleonu 
+**(A)** Nē, ne vienmēr. Ja pie galda apsēdušies hameleoni, 
+kuru krāsas secīgi ir: sarkans, zaļš, zaḷš, sarkans, zaļš, zaḷš, 
+tad nākošajā minūtē visi hameleoni būs sarkani. Tātad no šī 
+brīža hameleoni var būt tikai sarkani, un hameleonu 
 krāsojumu kombinācija vairs nevar sakrist ar sākotnējo.
 
 **(B)** Pamatosim, ka šāds brīdis vienmēr iestāsies. Apzīmēsim 
@@ -1286,31 +1327,40 @@ ir vienāda ar 1 pēc modul̦a $2$. Tātad attiecīgi hameleona
 krāsa (skaitlis pēc moduļa 2) nemainās, ja abi kaimiṇi 
 ir vienādā krāsā (pieskaita 0), bet mainās uz pretējo, 
 ja abi kaimiņi ir dažādās krāsās (pieskaita $1$).
-Vispirms pierādīsim, ka no divām dažādām krāsojumu kombinācijām nākamajā minūtē nevar iegūt vienu un to pašu krāsojumu kombināciju. Pien̦emsim pretējo, ka ir divi tādi hameleonu krāsojumi $x_{1}, x_{2}, x_{3}, x_{4}, x_{5}, x_{6}, x_{7}$ un $y_{1}, y_{2}, y_{3}, y_{4}, y_{5}, y_{6}, y_{7}$, no kuriem pēc pārkrāsošanās tiek iegūts viens un tas pats krāsojums $z_{1}, z_{2}, z_{3}, z_{4}, z_{5}, z_{6}, z_{7}$. Tad no pārkrāsošanas likumiem varam uzrakstīt vienādojumus:
+Vispirms pierādīsim, ka no divām dažādām krāsojumu kombinācijām 
+nākamajā minūtē nevar iegūt vienu un to pašu krāsojumu kombināciju. 
+Pien̦emsim pretējo, ka ir divi tādi hameleonu krāsojumi 
+$x_{1}, x_{2}, x_{3}, x_{4}, x_{5}, x_{6}, x_{7}$ un 
+$y_{1}, y_{2}, y_{3}, y_{4}, y_{5}, y_{6}, y_{7}$, no kuriem 
+pēc pārkrāsošanās tiek iegūts viens un tas pats krāsojums 
+$z_{1}, z_{2}, z_{3}, z_{4}, z_{5}, z_{6}, z_{7}$. 
+Tad no pārkrāsošanas likumiem varam uzrakstīt vienādojumus:
 
-$$\begin{aligned}
-& z_{1} \equiv x_{7}+x_{1}+x_{2} \equiv y_{7}+y_{1}+y_{2}(\bmod 2), \\
-& z_{2} \equiv x_{1}+x_{2}+x_{3} \equiv y_{1}+y_{2}+y_{3}(\bmod 2) \\
-& z_{3} \equiv x_{2}+x_{3}+x_{4} \equiv y_{2}+y_{3}+y_{4}(\bmod 2) \\
-& z_{4} \equiv x_{3}+x_{4}+x_{5} \equiv y_{3}+y_{4}+y_{5}(\bmod 2) \\
-& z_{5} \equiv x_{4}+x_{5}+x_{6} \equiv y_{4}+y_{5}+y_{6}(\bmod 2), \\
-& z_{6} \equiv x_{5}+x_{6}+x_{7} \equiv y_{5}+y_{6}+y_{7}(\bmod 2), \\
-& z_{7} \equiv x_{6}+x_{7}+x_{1} \equiv y_{6}+y_{7}+y_{1}(\bmod 2)
-\end{aligned}$$
+$$\begin{gathered}
+z_{1} \equiv x_{7}+x_{1}+x_{2} \equiv y_{7}+y_{1}+y_{2}(\bmod 2), \\
+z_{2} \equiv x_{1}+x_{2}+x_{3} \equiv y_{1}+y_{2}+y_{3}(\bmod 2) \\
+z_{3} \equiv x_{2}+x_{3}+x_{4} \equiv y_{2}+y_{3}+y_{4}(\bmod 2) \\
+z_{4} \equiv x_{3}+x_{4}+x_{5} \equiv y_{3}+y_{4}+y_{5}(\bmod 2) \\
+z_{5} \equiv x_{4}+x_{5}+x_{6} \equiv y_{4}+y_{5}+y_{6}(\bmod 2), \\
+z_{6} \equiv x_{5}+x_{6}+x_{7} \equiv y_{5}+y_{6}+y_{7}(\bmod 2), \\
+z_{7} \equiv x_{6}+x_{7}+x_{1} \equiv y_{6}+y_{7}+y_{1}(\bmod 2)
+\end{gathered}$$
 
 Saskaitot visus vienādojumus kopā, mēs iegūstam
 
-$$
-3\left(x_{1}+x_{2}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7}\right) \equiv 3\left(y_{1}+y_{2}+y_{3}+y_{4}+y_{5}+y_{6}+y_{7}\right)(\bmod 2)
-$$
+$$3\left(x_{1}+x_{2}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7}\right) \equiv 
+3\left(y_{1}+y_{2}+y_{3}+y_{4}+y_{5}+y_{6}+y_{7}\right) \pmod 2$$
 
 Bet tā kā vienādojums tiek apskatīts pēc modula 2 , tad
 
-$$
-x_{1}+x_{2}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7} \equiv y_{1}+y_{2}+y_{3}+y_{4}+y_{5}+y_{6}+y_{7}(\bmod 2) .
-$$
+$$x_{1}+x_{2}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7} \equiv 
+y_{1}+y_{2}+y_{3}+y_{4}+y_{5}+y_{6}+y_{7} \pmod 2.$$
 
-No šı̄ kongruenču vienādojuma abām pusēm atnemot $x_{2}+x_{3}+x_{4} \equiv y_{2}+y_{3}+y_{4}(\bmod 2)$ un arī $x_{5}+x_{6}+x_{7} \equiv y_{5}+y_{6}+y_{7}(\bmod 2)$, rezultātā iegūstam, ka $x_{1} \equiv y_{1}(\bmod 2)$. Līdzīgi varam arı̄ iegūt, ka atlikušie hameleoni ir nokrāsoti vienādi, tas ir,
+No šı̄ kongruenču vienādojuma abām pusēm atnemot 
+$x_{2}+x_{3}+x_{4} \equiv y_{2}+y_{3}+y_{4}(\bmod 2)$ un arī 
+$x_{5}+x_{6}+x_{7} \equiv y_{5}+y_{6}+y_{7}(\bmod 2)$, 
+rezultātā iegūstam, ka $x_{1} \equiv y_{1}(\bmod 2)$. 
+Līdzīgi varam arı̄ iegūt, ka atlikušie hameleoni ir nokrāsoti vienādi, tas ir,
 
 $$\begin{array}{ll}
 x_{2} \equiv y_{2}(\bmod 2), & x_{5} \equiv y_{5}(\bmod 2), \\
@@ -1428,16 +1478,19 @@ lai to kopējā punktu summa būtu mazākā iespējamā (acīmredzami,
 ka, lai to izdarītu, katrā no 21 mazākajām grupām jāliek $3$ 
 dalībnieki, bet lielākajā $11 \frac{1}{2}$ punktu grupā $1$ 
 dalībnieks), tad iegūstam, ka mazākā iespējamā dalībnieku 
-kopējā punktu summa ir 
-$3 \cdot 1+3 \cdot 1 \frac{1}{2}+3 \cdot 2+3 \cdot 2 \frac{1}{2}+\ldots+$ $3 \cdot 11+1 \cdot 11 \frac{1}{2}=389 \frac{1}{2}-$ 
-pretruna.
+kopējā punktu summa ir
+
+$$3 \cdot 1+3 \cdot 1 \frac{1}{2} + 3 \cdot 2 + 3 \cdot 2 \frac{1}{2}+ \ldots + 3 \cdot 11+1 \cdot 11 \frac{1}{2}=389 \frac{1}{2}.$$
+
+Iegūta pretruna.
 
 
 
 
 # <lo-sample/> LV.AMO.2024.12.3
 
-Uz tāfeles uzrakstīti vairāki veseli skaitli, kuru kubu summa ir 2024. Vai var gadīties, ka šo skaitlu summa ir **(A)** 24 ; **(B)** 26?
+Uz tāfeles uzrakstīti vairāki veseli skaitli, kuru kubu summa ir $2024$.
+Vai var gadīties, ka šo skaitlu summa ir **(A)** $24$; **(B)** $26$?
 
 <small>
 
@@ -1451,7 +1504,7 @@ Uz tāfeles uzrakstīti vairāki veseli skaitli, kuru kubu summa ir 2024. Vai va
 **(A)** Pamatosim, ka šis nav iespējams. Ja mums ir dots, 
 ka $2024=x_{1}^{3}+x_{2}^{3}+\cdots+x_{k}^{3}$, kur 
 $x_{i}$ ir veseli skaitlli, tad šīs summas atlikums, dalot ar 6, 
-ir vienāds 2. Ievērosim, ka $n^{3} \equiv n(\bmod 6)$ :
+ir vienāds 2. Ievērosim, ka $n^{3} \equiv n(\bmod 6)$:
 
 | $n \pmod 6$ | 0 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -1470,7 +1523,10 @@ Tā kā 24 dalās ar 6 , tad secinām, ka prasītais nav iespējams.
 
 # <lo-sample/> LV.AMO.2024.12.4
 
-Riņķa līnijā ievilkts četrstūris $A B C D$, kuram $\sphericalangle B A D=2 \sphericalangle A D C$ un $C D=2 B C$. Uz malas $A D$ atlikts punkts $H$ tā, lai $\sphericalangle D H C=90^{\circ}$. Pamatot, ka $B H \| C D$.
+Riņķa līnijā ievilkts četrstūris $ABCD$, kuram 
+$\sphericalangle BAD = 2 \sphericalangle ADC$ un $CD=2BC$. 
+Uz malas $AD$ atlikts punkts $H$ tā, lai 
+$\sphericalangle DHC = 90^{\circ}$. Pamatot, ka $BH \| CD$.
 
 <small>
 
@@ -1481,13 +1537,18 @@ Riņķa līnijā ievilkts četrstūris $A B C D$, kuram $\sphericalangle B A D=2
 
 ## Atrisinājums 
 
-Uz malas $C D$ atliksim viduspunktu $M$. Tādā gadījumā $H M$ ir taisnleñka trijstūra mediāna, kas novilkta pret hipotenūzu $C D$, tāpēc $H M=D M=C M=B C$. Pie tam, tā kā $\triangle H M D$ ir vienādsānu (skatīt 18. att.) un $A B C D$ ir ievilkts četrstūris, iegūstam
+Uz malas $CD$ atliksim viduspunktu $M$. Tādā gadījumā $HM$ ir 
+taisnleņka trijstūra mediāna, kas novilkta pret hipotenūzu $CD$, 
+tāpēc $HM = DM = CM = BC$. Pie tam, tā kā $\triangle HMD$ ir 
+vienādsānu (skatīt 18. att.) un $A B C D$ ir ievilkts četrstūris, iegūstam
 
-$$
-\sphericalangle H M D=180^{\circ}-2 \sphericalangle A D C=180^{\circ}-\sphericalangle B A D=\sphericalangle B C D
-$$
+$$\sphericalangle HMD=180^{\circ}-2 \sphericalangle ADC = 
+180^{\circ}-\sphericalangle BAD = \sphericalangle BCD$$
 
-Tātad varam secināt, ka $B C \| M H$, jo $\sphericalangle B C D=\sphericalangle H M D$ kā kāpšl̦u leñk̦i. Secinām, ka četrstūris $B C M H$ ir paralelograms, jo divas tā pretējās malas $(B C$ un $B H)$ ir paralēlas un vienāda garuma. Tas nozīmē, ka $B H \| C D$, kas arī bija jāpierāda.
+Tātad varam secināt, ka $BC \| MH$, jo $\sphericalangle BCD=\sphericalangle HMD$ 
+kā kāpšl̦u leņk̦i. Secinām, ka četrstūris $BCMH$ ir paralelograms, 
+jo divas tā pretējās malas ($BC$ un $BH$) ir paralēlas un vienāda garuma. 
+Tas nozīmē, ka $BH \| CD$, kas arī bija jāpierāda.
 ![](LV.AMO.2024.12.4A.png)
 
 
@@ -1522,7 +1583,7 @@ Bet tā kā pusriņk̦a līnija iekḷaujas mežā, tad kāda
 no potenciālajām meža virsotnēm pusriņk̦a iekšpusē būtu 
 ar iekšējo leņki, kas pārsniedz $180^{\circ}$, jeb meža 
 forma vairs nebūtu izliekts daudzstūris. Tā kā šī pusriņk̦a 
-laukums ir $\pi(\sqrt{2 S})^{2}=S$ kvadrātkilometri, 
+laukums ir $\pi(\sqrt{2S})^{2}=S$ kvadrātkilometri, 
 tad iegūstam, ka mežs satur sevī figūru, kuras laukums ir 
 vienāds ar pašu mežu. Iegūstam pretrunu. Tātad pieņēmums, ka šī līnija 
 nepieskaras meža robežai, ir bijis aplams.
