@@ -996,7 +996,7 @@ Piezīme. Citu derīgu reālu pozitīvu vērtību nav.
 
 # <lo-sample/> LV.NOL.2025.11.2
 
-Zināms, ka naturālam skaitlim $A$ ir tieši 111 dažādi naturāli dalīt̄̄ji. Pierādīt, ka $A$ nedalās ar 216 .
+Zināms, ka naturālam skaitlim $A$ ir tieši 111 dažādi naturāli dalītāji. Pierādīt, ka $A$ nedalās ar 216 .
 
 <small>
 

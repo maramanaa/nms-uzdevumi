@@ -60,7 +60,7 @@ skaitļu summas būtu vienādas. Ir zināmi trīs rūtiņās ierakstītie skait�
 * questionType:FindAll
 * domain:Alg
 * subdomain:EquationSystems
-* genre:MagicConfiguration
+* genre:MagicConfigurations
 * concepts:sum
 
 </small>

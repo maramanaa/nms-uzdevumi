@@ -9,8 +9,10 @@ pirmais cipars par $1$ mazāks nekā visu citu ciparu summa.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal,FindOptimal
+* domain:NT
+* subdomain:NumeralSystems
+* topic:DecimalNotationDigits
 
 </small>
 
@@ -20,7 +22,7 @@ pirmais cipars par $1$ mazāks nekā visu citu ciparu summa.
 tātad pirmais cipars nevar būt mazāks par $2$. Skaitlim $2111$ ir gan mazākais 
 iespējamais pirmais cipars, gan mazākie iespējamie sekojošie cipari.
 
-**(B)** $\mathbf{91111111111}$ (desmit cipari " $1$ "). Naturāls skaitlis ir jo
+**(B)** $\mathbf{91111111111}$ (desmit cipari "$1$"). Naturāls skaitlis ir jo
 lielāks, jo tam vairāk ciparu. Tā kā pirmais cipars nepārsniedz $9$, tad citu 
 ciparu summa nepārsniedz $10$; to iznāk visvairāk, ja tie ir $10$ vieninieki.
 
@@ -35,8 +37,11 @@ un, ja tā ir, tad vai tā vieglāka vai smagāka par citām?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Algorithm
+* domain:Comb
+* subdomain:CombinatorialAlgorithms
+* method:ExhaustiveAlgorithms
+
 
 </small>
 
@@ -44,10 +49,10 @@ un, ja tā ir, tad vai tā vieglāka vai smagāka par citām?
 
 Ar pirmo svēršanu salīdzinām $A$, $B$ pret $C$, $D$. Ja svari **nav** līdzsvarā,
 tad pašreiz uz tiem ir atšķirīgā monēta. Ar otro svēršanu salīdzinām $A,\ B$ 
-pret $E,\ F$ ($E,\ F$ ir "īstās"). Ja ir līdzsvars, tad atškirīgās monētas 
-attiecības ar īstajām noskaidro no $1.$ svēršanas rezultātiem (atšķirīgā ir 
+pret $E,\ F$ ($E,\ F$ ir "īstās"). Ja ir līdzsvars, tad atšķirīgās monētas 
+attiecības ar īstajām noskaidro no 1. svēršanas rezultātiem (atšķirīgā ir 
 viena no $C,\ D$). Ja nav līdzsvars, tad atšķirīgā ir viena no $A,\ B$; gan 
-$1.$, gan $2.$ svēršana rāda, vai tā ir smagāka vai vieglāka par īsto.
+1., gan 2. svēršana rāda, vai tā ir smagāka vai vieglāka par īsto.
 
 Ja pirmajā svēršanā ir līdzsvars, tad otrajā svēršanā salīdzinām $A,\ B,\ C$ 
 (tās visas ir "īstās") ar $E,\ F,\ G$. Ja atkal ir līdzsvars, tad atšķirīgās 
@@ -66,8 +71,9 @@ mazākais iespējamais).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Geom
+* subdomain:SquareGridReorder
 
 </small>
 
@@ -91,8 +97,10 @@ ne ar vienu citu naturālu skaitli kā $1$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
+* topic:GraphColoringAndLabeling
+* subdomain:CombinatorialStructures
 
 </small>
 
@@ -116,8 +124,10 @@ to var panākt, ja sākotnējie lodīšu daudzumi ir $10,\ 12$ un $15$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
+* method:PeriodicInvariant
+* subdomain:CombinatorialAlgorithms
 
 </small>
 
@@ -143,8 +153,10 @@ pulkst. $12^{00}$ abi pulksteņi atkal rādīs pareizu laiku?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
+* subdomain:WordProblems
+* topic:GcdAndLcm
 
 </small>
 
@@ -154,7 +166,7 @@ Lai 1.pulkstenis $12^{00}$ rādītu pareizu laiku, tam jāpasteidzas par
 $12,\ 24,\ 36,\ \ldots$ stundām. Tas notiek ik pēc $180$ dienām. Pēc $180$ 
 dienām otrais pulkstenis ir atpalicis par $\frac{180 \cdot 6}{60}=18$ stundām, 
 pēc $360$ dienām - par $36$ stundām. Tātad uzdevuma atbilde ir $\mathbf{360}$ 
-**dienas**.
+dienas.
 
 
 
@@ -167,8 +179,11 @@ otrā. Vai to var izdarīt, ja **(A)** $n=5$, **(B)** $n=7$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
+* method:FixedInvariant
+* subdomain:SquareGridCut
+* topic:RemaindersInCombinatorics
 
 </small>
 
@@ -190,14 +205,16 @@ $21$ - pretruna.
 
 # <lo-sample/> LV.AMO.2003.6.3
 
-Vai var rindā izrakstīt divus ciparus $1$, divus ciparus $2,\ \ldots$, divus 
+Vai var rindā izrakstīt divus ciparus $1$, divus ciparus $2$, $\ldots$, divus 
 ciparus $5$ tā, lai katrs izrakstītais viencipara skaitlis, izņemot pirmo un 
 pēdējo, būtu vienāds ar savu abu kaimiņu summu vai starpību?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb,Alg
+* subdomain:CombinatorialStructures
+* method:ExhaustiveAlgorithms
 
 </small>
 
@@ -214,14 +231,16 @@ $$4,\ 5,\ 1,\ 4,\ 3,\ 1,\ 2,\ 3,\ 5,\ 2$$
 Šaha turnīrā katrs spēlētājs ar katru citu spēlēja vienu reizi. Par uzvaru 
 iegūst $1$ punktu, par neizšķirtu $\frac{1}{2}$ punkta, par zaudējumu - $0$ 
 punktus. Jānis, Pēteris, Andris un Juris ieguva attiecīgi 
-$4 \frac{1}{2},\ 3 \frac{1}{2},\ 3$ un $1 \frac{1}{2}$ punktus; neviens no 
+$4 \frac{1}{2}$, $3 \frac{1}{2}$, $3$ un $1 \frac{1}{2}$ punktus; neviens no 
 citiem spēlētājiem neieguva vairāk punktu nekā Juris. Cik bija citu spēlētāju 
 un cik punktus viņi ieguva?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
+* topic:GraphVertexDegree
+* subdomain:Graphs
 
 </small>
 
@@ -248,11 +267,11 @@ kopā ieguvuši $28-12 \frac{1}{2}=15 \frac{1}{2}$ punktus, tātad kāds no tiem
 vismaz $4$ - pretruna. Ja spēlētāju skaits būtu $>8$, tad pārējo spēlētāju būtu
 $\geq 5$, tie **savā starpā** katrs spēlētu $\geq 4$ spēles, tātad kāds no tiem
 **jau savstarpējās spēlēs** iegūtu vismaz $2$ punktus (nevar būt, ka **katrs** 
-iegūst mazāk nekā zaudē), bet $2>1 \frac{1}{2}$ - pretruna.
+iegūst mazāk nekā zaudē), bet $2>1 \frac{1}{2}$ -- pretruna.
 
 Tātad spēlētāju skaits varbūt **varētu** būt $6$. Abi pārējie spēlētāji $X$ un 
 $Y$ kopā ieguvuši $15-12 \frac{1}{2}=2 \frac{1}{2}$ punktus. Lai izpildītos 
-uzdevuma nosacījumi, vienam no tiem jāiegūst $1 \frac{1}{2}$ punkti, otram - 
+uzdevuma nosacījumi, vienam no tiem jāiegūst $1 \frac{1}{2}$ punkti, otram -- 
 $1$ punkts.
 
 **!!!** Jānoskaidro, vai turnīrs ar šādiem rezultātiem iespējams. To parāda 
@@ -270,8 +289,10 @@ svēršanām var noteikt katra atsvara masu?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
+* subdomain:CombinatorialAlgorithms
+* method:ExhaustiveAlgorithms
 
 </small>
 
@@ -300,14 +321,17 @@ Dots, ka $|x+y|+|x-y|=10$. Kāda ir lielākā iespējamā $x$ vērtība?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
+* subdomain:MultivariableEquations
+* topic:CaseAnalysis
+
 
 </small>
 
 ## Atrisinājums
 
-Iespējams, ka $\mathbf{x=5},\ y=0$.
+Iespējams, ka $x=5$, $y=0$.
 
 Pierādīsim, ka nevar būt $x>5$. Ja $x>5$ un $y \geq 5$, tad $|x+y|>10$ - 
 pretruna. Ja $x>5$ un $-5 \leq y \leq 5$, tad $|x+y|+|x-y|=x+y+x-y=2x>10$ - 
@@ -326,8 +350,10 @@ kā minēts iepriekš?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Geom
+* subdomain:ObjectSystemsGeometry
+* topic:CuttingShapesSpecial
 
 </small>
 
@@ -360,8 +386,11 @@ Parādiet, kā tas, kas izdara pirmo gājienu, var uzvarēt.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
+* subdomain:NumericGamesAndAlgorithms
+* method:ContradictionForNonExistence
+* topic:GamesSymmetry
 
 </small>
 
@@ -388,8 +417,10 @@ Pierādiet, ka $EE_{1} \perp BC$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
+* subdomain:Polygons
+* topic:TrianglesIsosceles
 
 </small>
 
@@ -413,8 +444,10 @@ var būt $0$, ja **(A)** $n=8$, **(B)** $n=9$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
+* method:Monovariant
+* subdomain:CombinatorialAlgorithms
 
 </small>
 
@@ -439,16 +472,18 @@ iegūstams no $1;\ 2;\ 3;\ \ldots;\ 9$ ir $3$.
 
 # <lo-sample/> LV.AMO.2003.8.1
 
-Vienādojumiem $x^{2}+p_{1}x+q_{1}=0, \quad x^{2}+p_{2}x+q_{2}=0$ un 
-$x^{2}+p_{3}x+q_{3}=0$ ir attiecīgi saknes $x_{0}$ un $x_{1},\ x_{0}$ un 
-$x_{2},\ x_{0}$ un $x_{3}$. Izteikt vienādojuma 
+Vienādojumiem $x^{2}+p_{1}x+q_{1}=0$, $x^{2}+p_{2}x+q_{2}=0$ un 
+$x^{2}+p_{3}x+q_{3}=0$ ir attiecīgi saknes $x_{0}$ un $x_{1}$, $x_{0}$ un 
+$x_{2}$, $x_{0}$ un $x_{3}$. Izteikt vienādojuma 
 $x^{2}+\frac{p_{1}+p_{2}+p_{3}}{3} x+\frac{q_{1}+q_{2}+q_{3}}{3}=0$ saknes ar 
 $x_{0},\ x_{1},\ x_{2}$ un $x_{3}$, nelietojot kvadrātsaknes zīmi.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample
+* domain:Alg
+* subdomain:Equations
+* topic:VietaFormulas
 
 </small>
 
@@ -475,8 +510,10 @@ vajadzēja iegūt. Kādu sešciparu skaitli Andris uzrakstīja?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* subdomain:NumeralSystems
+* topic:NotationShift
 
 </small>
 
@@ -501,8 +538,10 @@ dalītājs būtu $1$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:NT
+* subdomain:NumberRepresentation
+* topic:GcdAndLcm
 
 </small>
 
@@ -520,18 +559,20 @@ pirmskaitļu summa ir $2+3+5+7+11+13+17=58>56$.
 # <lo-sample/> LV.AMO.2003.8.4
 
 Andrim un Jurim iedots pa papīra kvadrātam ar izmēriem 
-$1 \mathrm{~m} \times 1 \mathrm{~m}$. Katrs no viniem savā kvadrātā novilka 
+$1~\text{m} \times 1~\text{m}$. Katrs no viniem savā kvadrātā novilka 
 vairākas līnijas, sadalot to daļās; katra daļa ir taisnstūris ar izmēriem 
-$4 \mathrm{~cm} \times 4 \mathrm{~cm}$ vai 
-$3 \mathrm{~cm} \times 6 \mathrm{~cm}$.
+$4~\text{cm} \times 4~\mathrm{cm}$ vai 
+$3~\text{cm} \times 6~\mathrm{cm}$.
 
 Pierādiet, ka Andra novilkto līniju kopgarums vienāds ar Jura novilkto līniju 
 kopgarumu. (Tika novilktas **tikai** līnijas, kas dala kvadrātus taisnstūros.)
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
+* subdomain:SquareGridCut
+* topic:PolygonPerimeter
 
 </small>
 
@@ -556,8 +597,10 @@ Vai tas iespējams, ja **(A)** $n=3$, **(B)** $n=4$, **(C)** $n=2003$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove,ProveDisprove
+* domain:NT
+* subdomain:IntegerEquations
+* topic:StandardIdentities
 
 </small>
 
@@ -591,7 +634,7 @@ divas dažādas saknes.
 
 ## Atrisinājums
 
-Viens (vismaz) no $q_{1},\ q_{2},\ q_{3}$ ir negatīvs. Atbilstošā vienādoja 
+Viens (vismaz) no $q_{1}$, $q_{2}$, $q_{3}$ ir negatīvs. Atbilstošā vienādojuma 
 diskriminants ir pozitīvs, tāpēc tam ir divas dažādas saknes.
 
 
@@ -605,8 +648,10 @@ $8$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
+* subdomain:MagicConfigurations
+* topic:DoubleCounting
 
 </small>
 
@@ -634,8 +679,10 @@ $\left(p_{1}-1\right)\left(p_{2}-1\right) \ldots \left(p_{n}-1\right)$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
+* subdomain:PrimeFactors
+* topic:DivisibilityProperties
 
 </small>
 
@@ -666,8 +713,11 @@ $\sphericalangle BAC=2 \sphericalangle CBA$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
+* subdomain:Triangles
+* topic:BisectorDividingArcInTwo,TriangleCongruence
+
 
 </small>
 
@@ -682,7 +732,7 @@ $\sphericalangle CAI=\frac{1}{2} \sphericalangle A$, tad no $\Delta MAI$ ārēj�
 leņķa īpašības 
 $\sphericalangle AMI=\frac{1}{2} \sphericalangle CAI=\frac{1}{4} \sphericalangle A$.
 Tā kā $I$ atrodas uz vienādsānu trijstūra $MCB$ bisektrises, tad 
-$\triangle MCI=\triangle BCI\ (m \ell m)$; tāpēc 
+$\triangle MCI=\triangle BCI$ ($m \ell m$); tāpēc 
 $\frac{1}{2} \sphericalangle B=\sphericalangle IBC=\sphericalangle IMC=\sphericalangle IMA=\frac{1}{4} \sphericalangle A$
 un $\sphericalangle A=2 \sphericalangle B$, k.b.j.
 
@@ -699,8 +749,10 @@ Kurš uzvar, pareizi spēlējot, ja **(A)** $k=8$, **(B)** $k=64$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Comb
+* subdomain:CombinatorialGames
+* topic:GameInvariant
 
 </small>
 
@@ -729,8 +781,10 @@ Vai noteikti $x+\frac{4}{x}>y+\frac{4}{y}$, ja
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove,ProveDisprove
+* domain:Alg
+* subdomain:Inequalities
+* topic:InequalitiesEquivalentTransformations
 
 </small>
 
@@ -753,8 +807,10 @@ līdzīgi savā starpā.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
+* subdomain:Triangles
+* topic:CircleInscribedAngles
 
 </small>
 
@@ -788,8 +844,11 @@ skaitļu kvadrāti.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindExample,ProveDisprove
+* domain:NT
+* subdomain:PrimeFactors
+* method:ContradictionForExistence
+* topic:AlgebraicTransformations
 
 </small>
 
@@ -800,7 +859,7 @@ skaitļu kvadrāti.
 **(B)** nē, nevar. Tiešām, apzīmēsim $2n+1=x^{2},\ 3n+1=y^{2}$. Tad $x>1,\ y>1$
 un $5n+3=4(2n+1)-(3n+1)=4x^{2}-y^{2}=(2x-y)(2x+y)$. Tā kā $x$ un $y$ ir 
 naturāli skaitļi, $x,\ y>1$ un $5n+3$ - pirmskaitlis, tad jābūt 
-$2x-y=1, \quad 2x+y=5n+3$. No šejienes $2y=5n+2$. Tāpēc 
+$2x-y=1$, $2x+y=5n+3$. No šejienes $2y=5n+2$. Tāpēc 
 $4y^{2}=25n^{2}+20n+4>12n+4=4(3n+1)=4y^{2}$ - pretruna.
 
 
@@ -815,8 +874,10 @@ Cik dažādi skolēnu izvietojumi iespējami pēc pārkārtošanās?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindCount
+* domain:Comb
+* subdomain:CountingObjects
+* topic:LinearRecurrencesVariable
 
 </small>
 
@@ -825,7 +886,7 @@ Cik dažādi skolēnu izvietojumi iespējami pēc pārkārtošanās?
 Apzīmēsim atbilstošu pārkārtojumu skaitu $n$ skolēnu gadījumā ar $a_{n}$. 
 Acīmredzami, $a_{1}=1$ un $a_{2}=2$.
 
-Apskatīsim $n+2$ skolēnus $(n \geq 1)$. Visi pārvietojumi iedalās divās daļās:
+Apskatīsim $n+2$ skolēnus ($n \geq 1$). Visi pārvietojumi iedalās divās daļās:
 
 **(A)** pirmais skolēns paliek uz vietas. Tad pārkārtojas tikai nākošie $n+1$ 
 skolēni. Šādu pārkārtojumu pēc definīcijas ir $a_{n+1}$.
@@ -849,8 +910,9 @@ $m+n \geq 3$).
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Comb
+* subdomain:CombinatorialStructures
 
 </small>
 
@@ -893,14 +955,16 @@ Kāda ir lielākā iespējamā $z$ vērtība?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Alg
+* subdomain:MultivariableEquations
+* topic:ModulusFunctionProperties
 
 </small>
 
 ## Atrisinājums
 
-Var būt $z=1001,5,\ x=z$ un $y=0$. Tā kā 
+Var būt $z=1001.5$, $x=z$ un $y=0$. Tā kā 
 $|z+x-y|+|z-x+y| \geq|z+x-y+z-x+y|=2|z|$ un $|x+y-z| \geq 0$, tad nevar būt, ka
 $z>\frac{1}{2} \cdot 2003$.
 
@@ -916,8 +980,10 @@ Pierādiet, ka taisne $AZ$ dala nogriezni $XB$ uz pusēm.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
+* subdomain:CirclesAndRelatedAngles
+* topic:CircleInscribedAngles
 
 </small>
 
@@ -942,8 +1008,10 @@ Vai eksistē tāds naturāls skaitlis $n$, ka $6^{n}-1$ dalās ar $4^{n}-1$?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:NT
+* subdomain:Divisibility
+* topic:
 
 </small>
 
@@ -962,14 +1030,15 @@ tāpēc $3^{n}-2^{n}$ nevar dalīties ar $4^{n}-1$. Iegūta pretruna.
 Kādā klubā ir $8$ biedri. Vai var nodibināt vairākas komisijas tā, lai 
 vienlaicīgi izpildītos divas prasības:
 
-**(A)** katrā komisijā ir tieši $4$ biedri,
-
-**(B)** katri $3$ no astoņiem kluba biedriem ir kopā tieši vienā komisijā?
+1. katrā komisijā ir tieši $4$ biedri,
+2. katri $3$ no astoņiem kluba biedriem ir kopā tieši vienā komisijā?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:ProveDisprove
+* domain:Comb
+* subdomain:CombinatorialCounterexamples
+* method:GeometricInterpretation
 
 </small>
 
@@ -1003,8 +1072,10 @@ pārējām zaudējusi vismaz vienai no izvēlētajām $n$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Comb
+* subdomain:Graphs
+* method:ExtremeElements
 
 </small>
 
