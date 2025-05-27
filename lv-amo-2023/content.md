@@ -94,10 +94,11 @@ rūtiņas var pārvietot uz kreiso augšējo rūtiņu, ja kvadrāta izmēri ir:
 
 <small>
 
-* topic:InvariantParity
+* topic:GraphColoredVertices
 * questionType:ProveDisprove
 * domain:Comb
-* subdomain:FixedInvariant
+* subdomain:Graphs
+* method:FixedInvariant
 
 </small>
 
